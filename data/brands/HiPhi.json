@@ -1,0 +1,282 @@
+{
+  "update": "2025-10-09 11:29:22",
+  "name": "HiPhi",
+  "id": "377",
+  "models": {
+    "model": [
+      {
+        "update": "2025-10-09 11:31:49",
+        "name": "Z",
+        "id": "3841",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-09 11:40:40",
+              "name": "Z",
+              "modelYear": "2023",
+              "id": "10859",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55518",
+                    "update": "2025-10-09 16:20:11",
+                    "brand": "HiPhi",
+                    "model": "Z",
+                    "generation": "Z",
+                    "engine": "90.2 kWh (672 Hp) i4WD 4 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5036",
+                    "width": "2018",
+                    "height": "1439",
+                    "heightMin": "1439",
+                    "fuel": "Electricity",
+                    "curbWeight": "2510",
+                    "curbWeightMin": "2510"
+                  },
+                  {
+                    "id": "55519",
+                    "update": "2025-10-09 16:20:11",
+                    "brand": "HiPhi",
+                    "model": "Z",
+                    "generation": "Z",
+                    "engine": "90.2 kWh (672 Hp) i4WD 5 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "2018",
+                    "height": "1439",
+                    "heightMin": "1439",
+                    "fuel": "Electricity",
+                    "curbWeight": "2510",
+                    "curbWeightMin": "2510"
+                  },
+                  {
+                    "id": "55520",
+                    "update": "2025-10-09 16:20:14",
+                    "brand": "HiPhi",
+                    "model": "Z",
+                    "generation": "Z",
+                    "engine": "120 kWh (672 Hp) i4WD 4 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5036",
+                    "width": "2018",
+                    "height": "1439",
+                    "heightMin": "1439",
+                    "fuel": "Electricity",
+                    "curbWeight": "2539",
+                    "curbWeightMin": "2539"
+                  },
+                  {
+                    "id": "55521",
+                    "update": "2025-10-09 16:20:14",
+                    "brand": "HiPhi",
+                    "model": "Z",
+                    "generation": "Z",
+                    "engine": "120 kWh (672 Hp) i4WD 5 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "2018",
+                    "height": "1439",
+                    "heightMin": "1439",
+                    "fuel": "Electricity",
+                    "curbWeight": "2539",
+                    "curbWeightMin": "2539"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-17 09:05:58",
+        "name": "X",
+        "id": "3850",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-17 09:07:42",
+              "name": "X",
+              "modelYear": "2021",
+              "id": "10874",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55574",
+                    "update": "2025-10-17 16:18:01",
+                    "brand": "HiPhi",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "97 kWh (598 Hp) i4WD 4 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5200",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2062",
+                    "height": "1618",
+                    "heightMin": "1618",
+                    "fuel": "Electricity",
+                    "curbWeight": "2650",
+                    "curbWeightMin": "2650"
+                  },
+                  {
+                    "id": "55575",
+                    "update": "2025-10-17 16:18:01",
+                    "brand": "HiPhi",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "97 kWh (598 Hp) i4WD 6 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5200",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2062",
+                    "height": "1618",
+                    "heightMin": "1618",
+                    "fuel": "Electricity",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  },
+                  {
+                    "id": "55576",
+                    "update": "2025-10-17 16:18:01",
+                    "brand": "HiPhi",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "94.3 kWh (299 Hp) 6 Seater",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5200",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2062",
+                    "height": "1618",
+                    "heightMin": "1618",
+                    "fuel": "Electricity",
+                    "curbWeight": "2440",
+                    "curbWeightMin": "2440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-17 12:45:21",
+        "name": "Y",
+        "id": "3851",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-17 12:45:41",
+              "name": "Y",
+              "modelYear": "2023",
+              "id": "10878",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55577",
+                    "update": "2025-10-17 16:20:54",
+                    "brand": "HiPhi",
+                    "model": "Y",
+                    "generation": "Y",
+                    "engine": "76.6 kWh (336 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4938",
+                    "width": "1958",
+                    "height": "1658",
+                    "heightMin": "1658",
+                    "fuel": "Electricity",
+                    "curbWeight": "2305",
+                    "curbWeightMin": "2305"
+                  },
+                  {
+                    "id": "55586",
+                    "update": "2025-10-20 16:16:16",
+                    "brand": "HiPhi",
+                    "model": "Y",
+                    "generation": "Y",
+                    "engine": "115 kWh (336 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4938",
+                    "width": "1958",
+                    "height": "1658",
+                    "heightMin": "1658",
+                    "fuel": "Electricity",
+                    "curbWeight": "2340",
+                    "curbWeightMin": "2340"
+                  },
+                  {
+                    "id": "55587",
+                    "update": "2025-10-20 16:16:16",
+                    "brand": "HiPhi",
+                    "model": "Y",
+                    "generation": "Y",
+                    "engine": "115 kWh (505 Hp) i4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4938",
+                    "width": "1958",
+                    "height": "1658",
+                    "heightMin": "1658",
+                    "fuel": "Electricity",
+                    "curbWeight": "2430",
+                    "curbWeightMin": "2430"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

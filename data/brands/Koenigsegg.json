@@ -1,0 +1,719 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Koenigsegg",
+  "id": "28",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-19 10:20:58",
+        "name": "CC",
+        "id": "314",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CCGT",
+              "modelYear": "2007",
+              "id": "5034",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25774",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCGT",
+                    "engine": "5.0 V8 (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/",
+                    "powerHp": "600",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1030",
+                    "heightMin": "1030",
+                    "rideHeight": "50",
+                    "rideHeightMin": "50",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CCX",
+              "modelYear": "2006",
+              "id": "5032",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25260",
+                    "update": "2023-11-23 13:48:14",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "R 4.8 V8 (1032 Hp) Edition Ethanol",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1032/7000",
+                    "powerHp": "1032",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1114",
+                    "heightMin": "1114",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "25339",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "R 4.8 V8 (1032 Hp) Trevita Ethanol",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1032/7000",
+                    "powerHp": "1032",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2010",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1114",
+                    "heightMin": "1114",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "25490",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "4.8 V8 (888 Hp) Edition",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "888/7000",
+                    "powerHp": "888",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1114",
+                    "heightMin": "1114",
+                    "rideHeight": "92-95",
+                    "rideHeightMin": "92",
+                    "rideHeightMax": "95",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "25674",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "R 4.7 V8 (1032 Hp) Ethanol",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1032/7000",
+                    "powerHp": "1032",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1114",
+                    "heightMin": "1114",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "25728",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "R 4.8 V8 (1032 Hp) Special Edition Ethanol",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1032/7000",
+                    "powerHp": "1032",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1114",
+                    "heightMin": "1114",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "33598",
+                    "update": "2022-06-14 10:59:03",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCX",
+                    "engine": "4.7 V8 (806 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "806/7000",
+                    "powerHp": "806",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "width": "1996",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CCR",
+              "modelYear": "2004",
+              "id": "649",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2824",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CCR",
+                    "engine": "4.7 i V8 32V (806 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "806/6900",
+                    "powerHp": "806",
+                    "powerRpm": "6900",
+                    "powerRpmLow": "6900",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "width": "1996",
+                    "height": "1020",
+                    "heightMin": "1020",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CC8S",
+              "modelYear": "2002",
+              "id": "5033",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2823",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Koenigsegg",
+                    "model": "CC",
+                    "generation": "CC8S",
+                    "engine": "4.7 i V8 32V (655 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "655/6800",
+                    "powerHp": "655",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2002",
+                    "yearstop": "2003",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "1990",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1175",
+                    "curbWeightMin": "1175"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-19 10:17:02",
+        "name": "Agera",
+        "id": "2159",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Agera",
+              "modelYear": "2011",
+              "id": "5031",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25184",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Koenigsegg",
+                    "model": "Agera",
+                    "generation": "Agera",
+                    "engine": "RS 5.0 V8 (1160 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1160/7800",
+                    "powerHp": "1160",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "2050",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "85",
+                    "rideHeightMin": "85",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  },
+                  {
+                    "id": "25298",
+                    "update": "2023-11-23 11:12:07",
+                    "brand": "Koenigsegg",
+                    "model": "Agera",
+                    "generation": "Agera",
+                    "engine": "5.0 V8 (960 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "960/7100",
+                    "powerHp": "960",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2010",
+                    "yearstop": "2018",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1435",
+                    "curbWeightMin": "1435"
+                  },
+                  {
+                    "id": "25372",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "Agera",
+                    "generation": "Agera",
+                    "engine": "S 5.0 V8 (1030 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1030/7100",
+                    "powerHp": "1030",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2013",
+                    "yearstop": "2014",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  },
+                  {
+                    "id": "25735",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Koenigsegg",
+                    "model": "Agera",
+                    "generation": "Agera",
+                    "engine": "R 5.0 V8 (1140 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1140/7100",
+                    "powerHp": "1140",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2013",
+                    "yearstop": "2014",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4293",
+                    "widthOpenedMirrors": "1996",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1435",
+                    "curbWeightMin": "1435"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 11:54:45",
+        "name": "Regera",
+        "id": "2160",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Regera",
+              "modelYear": "2016",
+              "id": "5029",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25185",
+                    "update": "2023-09-27 12:03:00",
+                    "brand": "Koenigsegg",
+                    "model": "Regera",
+                    "generation": "Regera",
+                    "engine": "5.0 V8 (1500 Hp) Plug-in Hybrid KDD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "1100/7800",
+                    "powerHp": "1100",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2016",
+                    "yearstop": "2022",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4560",
+                    "widthOpenedMirrors": "2050",
+                    "height": "1110",
+                    "heightMin": "1110",
+                    "rideHeight": "85-105",
+                    "rideHeightMin": "85",
+                    "rideHeightMax": "105",
+                    "fuel": "Petrol / Ethanol - E85 / electricity",
+                    "curbWeight": "1628",
+                    "curbWeightMin": "1628"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-19 10:26:05",
+        "name": "One:1",
+        "id": "2161",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "One:1",
+              "modelYear": "2014",
+              "id": "5030",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25244",
+                    "update": "2023-11-23 13:57:51",
+                    "brand": "Koenigsegg",
+                    "model": "One:1",
+                    "generation": "One:1",
+                    "engine": "5.0 V8 (1360 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1360/7500",
+                    "powerHp": "1360",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2014",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4500",
+                    "widthOpenedMirrors": "2060",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "rideHeight": "59-90",
+                    "rideHeightMin": "59",
+                    "rideHeightMax": "90",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 11:42:03",
+        "name": "Jesko",
+        "id": "2654",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Jesko",
+              "modelYear": "2020",
+              "id": "6970",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36261",
+                    "update": "2023-11-23 13:57:51",
+                    "brand": "Koenigsegg",
+                    "model": "Jesko",
+                    "generation": "Jesko",
+                    "engine": "5.0 V8 (1280/1600 Hp) LST",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1280/7800/1600/7800",
+                    "powerHp": "1280",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "powerHpE85": "1600",
+                    "powerRpmE85": "7800",
+                    "powerRpmLowE85": "7800",
+                    "yearstart": "2019",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4610",
+                    "width": "2030",
+                    "height": "1210",
+                    "heightMin": "1210",
+                    "rideHeight": "70-100",
+                    "rideHeightMin": "70",
+                    "rideHeightMax": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-19 10:27:26",
+        "name": "Gemera",
+        "id": "2790",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gemera",
+              "modelYear": "2020",
+              "id": "7583",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39255",
+                    "update": "2023-11-23 13:57:51",
+                    "brand": "Koenigsegg",
+                    "model": "Gemera",
+                    "generation": "Gemera",
+                    "engine": "2.0 (1700 Hp) Hybrid AWD KDD",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2020",
+                    "coupe": "Grand Tourer",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4975",
+                    "width": "1988",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "rideHeight": "117",
+                    "rideHeightMin": "117",
+                    "fuel": "Petrol / Ethanol - E85 / electricity",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-08-26 12:02:13",
+        "name": "CC850",
+        "id": "3157",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-08-26 12:02:58",
+              "name": "CC850",
+              "modelYear": "2024",
+              "id": "9013",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46432",
+                    "update": "2022-08-27 07:51:07",
+                    "brand": "Koenigsegg",
+                    "model": "CC850",
+                    "generation": "CC850",
+                    "engine": "5.0 V8 (1185/1385 Hp) LST",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1185/7800/1385/7800",
+                    "powerHp": "1185",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "powerHpE85": "1385",
+                    "powerRpmE85": "7800",
+                    "powerRpmLowE85": "7800",
+                    "yearstart": "2024",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4364",
+                    "width": "2024",
+                    "widthOpenedMirrors": "2221",
+                    "height": "1127",
+                    "heightMin": "1127",
+                    "rideHeight": "70-100",
+                    "rideHeightMin": "70",
+                    "rideHeightMax": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1385",
+                    "curbWeightMin": "1385"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-27 09:25:36",
+        "name": "Sadairs Spear",
+        "id": "3722",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-27 09:25:52",
+              "name": "Sadairs Spear",
+              "modelYear": "2025",
+              "id": "10638",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54734",
+                    "update": "2025-06-27 16:26:49",
+                    "brand": "Koenigsegg",
+                    "model": "Sadairs Spear",
+                    "generation": "Sadairs Spear",
+                    "engine": "5.0 V8 (1300/1625 Hp) LST",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1300/7800/1625/",
+                    "powerHp": "1300",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "powerHpE85": "1625",
+                    "yearstart": "2025",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4690",
+                    "width": "2030",
+                    "height": "1210",
+                    "heightMin": "1210",
+                    "rideHeight": "70-100",
+                    "rideHeightMin": "70",
+                    "rideHeightMax": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

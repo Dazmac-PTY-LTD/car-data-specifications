@@ -1,0 +1,789 @@
+{
+  "update": "2019-08-28 13:38:26",
+  "name": "DongFeng",
+  "id": "37",
+  "models": {
+    "model": [
+      {
+        "update": "2019-05-31 16:25:40",
+        "name": "MPV",
+        "id": "370",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MPV",
+              "modelYear": "2008",
+              "id": "742",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3067",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DongFeng",
+                    "model": "MPV",
+                    "generation": "MPV",
+                    "engine": "2.0i (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/",
+                    "powerHp": "110",
+                    "yearstart": "2007",
+                    "yearstop": "2009",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5050",
+                    "width": "1695",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-05-31 16:25:41",
+        "name": "Oting",
+        "id": "371",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Oting",
+              "modelYear": "2008",
+              "id": "743",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3068",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DongFeng",
+                    "model": "Oting",
+                    "generation": "Oting",
+                    "engine": "2.4i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130",
+                    "powerHp": "130",
+                    "yearstart": "2007",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "3069",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DongFeng",
+                    "model": "Oting",
+                    "generation": "Oting",
+                    "engine": "2.4 (150 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "yearstart": "2007",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-28 13:38:26",
+        "name": "Rich",
+        "id": "372",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Rich",
+              "modelYear": "2000",
+              "id": "744",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3070",
+                    "update": "2023-08-18 10:02:08",
+                    "brand": "DongFeng",
+                    "model": "Rich",
+                    "generation": "Rich",
+                    "engine": "2.4 (139 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "yearstart": "2007",
+                    "yearstop": "2009",
+                    "coupe": "Pick-up",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-20 12:16:15",
+        "name": "ZND",
+        "id": "373",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 15:09:22",
+              "name": "ZND",
+              "modelYear": "2008",
+              "id": "745",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3071",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DongFeng",
+                    "model": "ZND",
+                    "generation": "ZND",
+                    "engine": "3.2D (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115",
+                    "powerHp": "115",
+                    "yearstart": "2007",
+                    "yearstop": "2013",
+                    "coupe": "Minivan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-12-05 13:45:10",
+        "name": "Fengon E3",
+        "id": "3194",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:45:53",
+              "name": "Fengon E3",
+              "modelYear": "2020",
+              "id": "9145",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46963",
+                    "update": "2022-12-06 12:04:23",
+                    "brand": "DongFeng",
+                    "model": "Fengon E3",
+                    "generation": "Fengon E3",
+                    "engine": "EV 53.6 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1850",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-12-06 14:17:43",
+        "name": "Fengshen A9",
+        "id": "3195",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-06 14:18:06",
+              "name": "Fengshen A9",
+              "modelYear": "2016",
+              "id": "9146",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46965",
+                    "update": "2022-12-06 16:07:35",
+                    "brand": "DongFeng",
+                    "model": "Fengshen A9",
+                    "generation": "Fengshen A9",
+                    "engine": "1.8 THP (204 Hp) Tiptronic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/5500",
+                    "powerHp": "204",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5066",
+                    "width": "1858",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-11 09:35:02",
+        "name": "Nammi 01",
+        "id": "3443",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-11 09:36:18",
+              "name": "Nammi 01",
+              "modelYear": "2024",
+              "id": "10025",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51822",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "DongFeng",
+                    "model": "Nammi 01",
+                    "generation": "Nammi 01",
+                    "engine": "Standard Range 31.45 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4030",
+                    "width": "1810",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": "1235",
+                    "curbWeightMin": "1235"
+                  },
+                  {
+                    "id": "51823",
+                    "update": "2025-08-22 12:52:57",
+                    "brand": "DongFeng",
+                    "model": "Nammi 01",
+                    "generation": "Nammi 01",
+                    "engine": "Long Range 42.3 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4030",
+                    "width": "1810",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": "1312",
+                    "curbWeightMin": "1312"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-11-28 12:49:51",
+        "name": "Box",
+        "id": "3538",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-11-28 12:50:54",
+              "name": "Box",
+              "modelYear": "2025",
+              "id": "10297",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53303",
+                    "update": "2024-11-28 16:26:22",
+                    "brand": "DongFeng",
+                    "model": "Box",
+                    "generation": "Box",
+                    "engine": "42.3 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4030",
+                    "width": "1810",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54128",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "DongFeng",
+                    "model": "Box",
+                    "generation": "Box",
+                    "engine": "31.45 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4030",
+                    "width": "1810",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1235",
+                    "curbWeightMin": "1235"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-10 10:55:43",
+        "name": "Paladin",
+        "id": "3640",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-10 11:47:48",
+              "name": "Paladin (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10494",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54127",
+                    "update": "2025-04-10 16:18:07",
+                    "brand": "DongFeng",
+                    "model": "Paladin",
+                    "generation": "Paladin (facelift 2024)",
+                    "engine": "2.0T (218 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "218/5600",
+                    "powerHp": "218",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4903",
+                    "width": "1850",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "243",
+                    "rideHeightMin": "243",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-04-10 10:56:08",
+              "name": "Paladin",
+              "modelYear": "2023",
+              "id": "10493",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54125",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "DongFeng",
+                    "model": "Paladin",
+                    "generation": "Paladin",
+                    "engine": "2.0T (228 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228/5600",
+                    "powerHp": "228",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4882",
+                    "width": "1850",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1890",
+                    "curbWeightMin": "1890"
+                  },
+                  {
+                    "id": "54126",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "DongFeng",
+                    "model": "Paladin",
+                    "generation": "Paladin",
+                    "engine": "2.0T (228 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228/5600",
+                    "powerHp": "228",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4882",
+                    "width": "1850",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-11 09:12:45",
+        "name": "e pi 007",
+        "id": "3734",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-11 09:13:11",
+              "name": "e pi 007",
+              "modelYear": "2025",
+              "id": "10668",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54861",
+                    "update": "2025-07-15 08:38:32",
+                    "brand": "DongFeng",
+                    "model": "e pi 007",
+                    "generation": "e pi 007",
+                    "engine": "1.5L 28.4 kWh (218 Hp) EREV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "105",
+                    "powerHp": "105",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1895",
+                    "height": "1468",
+                    "heightMin": "1468",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  },
+                  {
+                    "id": "54862",
+                    "update": "2025-07-11 16:16:14",
+                    "brand": "DongFeng",
+                    "model": "e pi 007",
+                    "generation": "e pi 007",
+                    "engine": "56.83 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1895",
+                    "height": "1468",
+                    "heightMin": "1468",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Electricity",
+                    "curbWeight": "1767",
+                    "curbWeightMin": "1767"
+                  },
+                  {
+                    "id": "54863",
+                    "update": "2025-07-11 16:16:14",
+                    "brand": "DongFeng",
+                    "model": "e pi 007",
+                    "generation": "e pi 007",
+                    "engine": "70.26 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1895",
+                    "height": "1468",
+                    "heightMin": "1468",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Electricity",
+                    "curbWeight": "1852",
+                    "curbWeightMin": "1852"
+                  },
+                  {
+                    "id": "54864",
+                    "update": "2025-07-11 16:16:14",
+                    "brand": "DongFeng",
+                    "model": "e pi 007",
+                    "generation": "e pi 007",
+                    "engine": "70.26 kWh (544 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1895",
+                    "height": "1468",
+                    "heightMin": "1468",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Electricity",
+                    "curbWeight": "1999",
+                    "curbWeightMin": "1999"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-14 10:39:14",
+        "name": "e pi 008",
+        "id": "3738",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-14 10:39:37",
+              "name": "e pi 008",
+              "modelYear": "2025",
+              "id": "10672",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54870",
+                    "update": "2025-08-22 12:52:15",
+                    "brand": "DongFeng",
+                    "model": "e pi 008",
+                    "generation": "e pi 008",
+                    "engine": "1.5T 34.32 kWh (272 Hp) EREV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "147/4500",
+                    "powerHp": "147",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5002",
+                    "width": "1972",
+                    "height": "1732",
+                    "heightMin": "1732",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2189",
+                    "curbWeightMin": "2189"
+                  },
+                  {
+                    "id": "54871",
+                    "update": "2025-08-22 12:52:26",
+                    "brand": "DongFeng",
+                    "model": "e pi 008",
+                    "generation": "e pi 008",
+                    "engine": "82.28 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5002",
+                    "width": "1972",
+                    "height": "1732",
+                    "heightMin": "1732",
+                    "fuel": "Electricity",
+                    "curbWeight": "2228",
+                    "curbWeightMin": "2228"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-08 10:16:24",
+        "name": "Nammi 06",
+        "id": "3896",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-08 10:16:48",
+              "name": "Nammi 06",
+              "modelYear": "2025",
+              "id": "10970",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55943",
+                    "update": "2025-12-08 16:16:22",
+                    "brand": "DongFeng",
+                    "model": "Nammi 06",
+                    "generation": "Nammi 06",
+                    "engine": "44.94 kWh (184 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4306",
+                    "width": "1868",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Electricity",
+                    "curbWeight": "1526",
+                    "curbWeightMin": "1526"
+                  },
+                  {
+                    "id": "55944",
+                    "update": "2025-12-08 16:16:22",
+                    "brand": "DongFeng",
+                    "model": "Nammi 06",
+                    "generation": "Nammi 06",
+                    "engine": "51.87 kWh (184 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4306",
+                    "width": "1868",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Electricity",
+                    "curbWeight": "1550-1570",
+                    "curbWeightMin": "1550",
+                    "curbWeightMax": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-08 12:46:27",
+        "name": "Vigo",
+        "id": "3897",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-08 12:46:46",
+              "name": "Vigo",
+              "modelYear": "2026",
+              "id": "10971",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55942",
+                    "update": "2025-12-08 16:16:19",
+                    "brand": "DongFeng",
+                    "model": "Vigo",
+                    "generation": "Vigo",
+                    "engine": "51.87 kWh (135 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4306",
+                    "width": "1868",
+                    "height": "1654",
+                    "heightMin": "1654",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57368",
+                    "update": "2026-06-25 16:18:17",
+                    "brand": "DongFeng",
+                    "model": "Vigo",
+                    "generation": "Vigo",
+                    "engine": "51.87 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4306",
+                    "width": "1868",
+                    "height": "1654",
+                    "heightMin": "1654",
+                    "fuel": "Electricity",
+                    "curbWeight": "1572",
+                    "curbWeightMin": "1572"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

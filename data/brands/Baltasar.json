@@ -1,0 +1,49 @@
+{
+  "update": "2021-10-11 10:59:56",
+  "name": "Baltasar",
+  "id": "304",
+  "models": {
+    "model": [
+      {
+        "update": "2021-10-11 15:07:08",
+        "name": "Revolt",
+        "id": "3021",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-10-11 15:07:48",
+              "name": "Revolt Concept",
+              "modelYear": "2021",
+              "id": "8622",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52973",
+                    "update": "2024-10-17 16:06:10",
+                    "brand": "Baltasar",
+                    "model": "Revolt",
+                    "generation": "Revolt Concept",
+                    "engine": "(500 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3950",
+                    "width": "1850",
+                    "height": "1110",
+                    "heightMin": "1110",
+                    "fuel": "Electricity",
+                    "curbWeight": "770",
+                    "curbWeightMin": "770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

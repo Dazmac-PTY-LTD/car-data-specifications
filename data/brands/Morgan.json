@@ -1,0 +1,727 @@
+{
+  "update": "2020-11-20 11:25:57",
+  "name": "Morgan",
+  "id": "188",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-27 14:32:58",
+        "name": "4/4",
+        "id": "1829",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "4/4 1.6",
+              "modelYear": "2009",
+              "id": "4975",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24405",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "4/4",
+                    "generation": "4/4 1.6",
+                    "engine": "1.6 (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2019",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4010",
+                    "width": "1720",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "795",
+                    "curbWeightMin": "795"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "4/4 1800",
+              "modelYear": "1993",
+              "id": "3583",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16042",
+                    "update": "2023-08-15 09:35:33",
+                    "brand": "Morgan",
+                    "model": "4/4",
+                    "generation": "4/4 1800",
+                    "engine": "1.8 16V (111 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "111/5750",
+                    "powerHp": "111",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3890",
+                    "width": "1500",
+                    "height": "1290",
+                    "heightMin": "1290",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "868",
+                    "curbWeightMin": "868"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-20 10:43:55",
+        "name": "Aero 8",
+        "id": "1830",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aero 8 (facelift 2015)",
+              "modelYear": "2015",
+              "id": "4981",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24378",
+                    "update": "2023-08-15 09:08:47",
+                    "brand": "Morgan",
+                    "model": "Aero 8",
+                    "generation": "Aero 8 (facelift 2015)",
+                    "engine": "4.8 V8 (367 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "367/6300",
+                    "powerHp": "367",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "yearstop": "2018",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4147",
+                    "width": "1751",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "24406",
+                    "update": "2023-08-15 09:08:46",
+                    "brand": "Morgan",
+                    "model": "Aero 8",
+                    "generation": "Aero 8 (facelift 2015)",
+                    "engine": "4.8 V8 (367 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "367/6300",
+                    "powerHp": "367",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "yearstop": "2018",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4147",
+                    "width": "1751",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aero 8",
+              "modelYear": "2001",
+              "id": "3584",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16043",
+                    "update": "2023-08-15 09:16:22",
+                    "brand": "Morgan",
+                    "model": "Aero 8",
+                    "generation": "Aero 8",
+                    "engine": "4.4 i V8 32V (286 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/5500",
+                    "powerHp": "286",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2000",
+                    "yearstop": "2010",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4120",
+                    "width": "1770",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-10 11:29:17",
+        "name": "Plus 8",
+        "id": "1831",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-10 11:30:22",
+              "name": "Plus 8 (2012)",
+              "modelYear": "2012",
+              "id": "4979",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24379",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8 (2012)",
+                    "engine": "4.8 V8 (367 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "367/6300",
+                    "powerHp": "367",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2012",
+                    "yearstop": "2018",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4010",
+                    "width": "1751",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1220",
+                    "curbWeightMin": "1220"
+                  },
+                  {
+                    "id": "24399",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8 (2012)",
+                    "engine": "4.8 V8 (367 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "367/6300",
+                    "powerHp": "367",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2012",
+                    "yearstop": "2018",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4010",
+                    "width": "1751",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1220",
+                    "curbWeightMin": "1220"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-10 11:30:22",
+              "name": "Plus 8",
+              "modelYear": "1968",
+              "id": "3585",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16044",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8",
+                    "engine": "3.5 (157 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "157",
+                    "powerHp": "157",
+                    "yearstart": "1968",
+                    "yearstop": "1986",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16045",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8",
+                    "engine": "3.5 EFI (193 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "193/5280",
+                    "powerHp": "193",
+                    "powerRpm": "5280",
+                    "powerRpmLow": "5280",
+                    "yearstart": "1984",
+                    "yearstop": "1990",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3960",
+                    "width": "1600",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "940",
+                    "curbWeightMin": "940"
+                  },
+                  {
+                    "id": "16046",
+                    "update": "2023-08-15 09:32:06",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8",
+                    "engine": "3.9 (190 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/4750",
+                    "powerHp": "190",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1990",
+                    "yearstop": "2004",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3960",
+                    "width": "1600",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "940",
+                    "curbWeightMin": "940"
+                  },
+                  {
+                    "id": "16047",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 8",
+                    "generation": "Plus 8",
+                    "engine": "4.6 (223 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "223",
+                    "powerHp": "223",
+                    "yearstart": "1996",
+                    "yearstop": "2004",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-10 11:33:00",
+        "name": "Plus 4",
+        "id": "1832",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-10 11:33:27",
+              "name": "Plus 4 (2005)",
+              "modelYear": "2005",
+              "id": "4980",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24389",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 4",
+                    "generation": "Plus 4 (2005)",
+                    "engine": "2.0 (154 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6000",
+                    "powerHp": "154",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2020",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4010",
+                    "width": "1720",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "927",
+                    "curbWeightMin": "927"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-10 11:33:27",
+              "name": "Plus 4",
+              "modelYear": "1985",
+              "id": "3586",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16048",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 4",
+                    "generation": "Plus 4",
+                    "engine": "1.8 i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130",
+                    "powerHp": "130",
+                    "yearstart": "1993",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16049",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 4",
+                    "generation": "Plus 4",
+                    "engine": "2.0 i (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "1985",
+                    "yearstop": "1988",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16050",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 4",
+                    "generation": "Plus 4",
+                    "engine": "2.0 i (135 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135",
+                    "powerHp": "135",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16051",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Plus 4",
+                    "generation": "Plus 4",
+                    "engine": "2.0 i (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/6000",
+                    "powerHp": "140",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3890",
+                    "width": "1500",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-27 14:37:15",
+        "name": "Roadster",
+        "id": "2141",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roadster",
+              "modelYear": "2004",
+              "id": "4976",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24398",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "Roadster",
+                    "generation": "Roadster",
+                    "engine": "3.7 V6 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/6000",
+                    "powerHp": "280",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2004",
+                    "yearstop": "2019",
+                    "coupe": "Roadster",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4010",
+                    "width": "1720",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-27 14:31:20",
+        "name": "3 Wheeler",
+        "id": "2142",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3 Wheeler",
+              "modelYear": "2012",
+              "id": "4978",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24407",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morgan",
+                    "model": "3 Wheeler",
+                    "generation": "3 Wheeler",
+                    "engine": "2.0 V2 (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/5250",
+                    "powerHp": "82",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2012",
+                    "yearstop": "2021",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3225",
+                    "width": "1720",
+                    "height": "1000",
+                    "heightMin": "1000",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "525",
+                    "curbWeightMin": "525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-10 09:44:53",
+        "name": "Plus Four",
+        "id": "2985",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-10 09:45:46",
+              "name": "Plus Four",
+              "modelYear": "2020",
+              "id": "8527",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44261",
+                    "update": "2023-08-15 09:25:17",
+                    "brand": "Morgan",
+                    "model": "Plus Four",
+                    "generation": "Plus Four",
+                    "engine": "2.0 TwinPower Turbo (258 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "258",
+                    "powerHp": "258",
+                    "yearstart": "2020",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3830",
+                    "width": "1650",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1013",
+                    "curbWeightMin": "1013"
+                  },
+                  {
+                    "id": "44262",
+                    "update": "2023-08-15 09:25:13",
+                    "brand": "Morgan",
+                    "model": "Plus Four",
+                    "generation": "Plus Four",
+                    "engine": "2.0 TwinPower Turbo (258 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "258",
+                    "powerHp": "258",
+                    "yearstart": "2020",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3830",
+                    "width": "1650",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1009",
+                    "curbWeightMin": "1009"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-10 12:26:53",
+        "name": "Plus Six",
+        "id": "2986",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-10 12:27:53",
+              "name": "Plus Six",
+              "modelYear": "2019",
+              "id": "8528",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44263",
+                    "update": "2023-08-15 09:27:09",
+                    "brand": "Morgan",
+                    "model": "Plus Six",
+                    "generation": "Plus Six",
+                    "engine": "3.0 TwinPower Turbo (340 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340",
+                    "powerHp": "340",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3890",
+                    "width": "1756",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-02-28 12:24:41",
+        "name": "Super 3",
+        "id": "3065",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-28 12:25:14",
+              "name": "Super 3",
+              "modelYear": "2022",
+              "id": "8775",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45455",
+                    "update": "2023-08-15 08:57:41",
+                    "brand": "Morgan",
+                    "model": "Super 3",
+                    "generation": "Super 3",
+                    "engine": "Ford Dragon 1.5 (118 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "118/6500",
+                    "powerHp": "118",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3581",
+                    "width": "1840",
+                    "height": "1132",
+                    "heightMin": "1132",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "635",
+                    "curbWeightMin": "635"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

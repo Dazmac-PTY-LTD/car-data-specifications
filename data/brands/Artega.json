@@ -1,0 +1,104 @@
+{
+  "update": "2019-08-14 11:15:23",
+  "name": "Artega",
+  "id": "204",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-14 11:15:23",
+        "name": "Scalo",
+        "id": "2260",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:12:36",
+              "name": "Scalo Superelletra",
+              "modelYear": "2017",
+              "id": "5643",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Scalo",
+              "modelYear": "2015",
+              "id": "5640",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "30702",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Artega",
+                    "model": "Scalo",
+                    "generation": "Scalo",
+                    "engine": "37 kWh (408 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4010",
+                    "width": "1880",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1585",
+                    "curbWeightMin": "1585"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-14 11:10:33",
+        "name": "GT",
+        "id": "2261",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT",
+              "modelYear": "2009",
+              "id": "5644",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "30705",
+                    "update": "2023-08-21 12:46:51",
+                    "brand": "Artega",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "3.6 V6 (300 Hp) DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6600",
+                    "powerHp": "300",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "2010",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4015",
+                    "width": "1882",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1285",
+                    "curbWeightMin": "1285"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

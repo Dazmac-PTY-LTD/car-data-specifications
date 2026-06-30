@@ -1,0 +1,72 @@
+{
+  "update": "2022-02-14 12:23:25",
+  "name": "Kimera",
+  "id": "308",
+  "models": {
+    "model": [
+      {
+        "update": "2022-02-14 12:20:49",
+        "name": "EVO37",
+        "id": "3058",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-14 12:21:59",
+              "name": "EVO37",
+              "modelYear": "2021",
+              "id": "8764",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45410",
+                    "update": "2022-02-14 13:24:16",
+                    "brand": "Kimera",
+                    "model": "EVO37",
+                    "generation": "EVO37",
+                    "engine": "2.2 (505 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "505/7000-7250",
+                    "powerHp": "505",
+                    "powerRpm": "7000-7250",
+                    "powerRpmLow": "7000",
+                    "powerRpmHigh": "7250",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4055",
+                    "width": "1905",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-19 13:50:39",
+        "name": "EVO38",
+        "id": "3412",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 13:52:38",
+              "name": "EVO38",
+              "modelYear": "2024",
+              "id": "9942",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

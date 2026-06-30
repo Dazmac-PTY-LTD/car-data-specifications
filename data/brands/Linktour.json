@@ -1,0 +1,73 @@
+{
+  "update": "2026-06-10 12:15:03",
+  "name": "Linktour",
+  "id": "399",
+  "models": {
+    "model": [
+      {
+        "update": "2026-06-10 12:18:43",
+        "name": "Alumi",
+        "id": "4043",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-10 12:22:23",
+              "name": "Alumi",
+              "modelYear": "2026",
+              "id": "11302",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57217",
+                    "update": "2026-06-10 12:49:54",
+                    "brand": "Linktour",
+                    "model": "Alumi",
+                    "generation": "Alumi",
+                    "engine": "7.2 kWh (16 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2685",
+                    "width": "1500",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "585",
+                    "curbWeightMin": "585"
+                  },
+                  {
+                    "id": "57218",
+                    "update": "2026-06-10 13:01:56",
+                    "brand": "Linktour",
+                    "model": "Alumi",
+                    "generation": "Alumi",
+                    "engine": "Elite 12.96 kWh (31 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2685",
+                    "width": "1500",
+                    "height": "1590",
+                    "heightMin": "1590",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "645",
+                    "curbWeightMin": "645"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

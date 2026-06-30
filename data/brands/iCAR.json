@@ -1,0 +1,345 @@
+{
+  "update": "2025-09-16 15:18:22",
+  "name": "iCAR",
+  "id": "372",
+  "models": {
+    "model": [
+      {
+        "update": "2025-09-17 08:25:20",
+        "name": "V23",
+        "id": "3816",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-17 08:25:33",
+              "name": "V23",
+              "modelYear": "2025",
+              "id": "10822",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55374",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "V23",
+                    "generation": "V23",
+                    "engine": "59.93 kWh (136 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4220",
+                    "width": "1915",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1710",
+                    "curbWeightMin": "1710"
+                  },
+                  {
+                    "id": "55375",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "V23",
+                    "generation": "V23",
+                    "engine": "81.76 kWh (136 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4220",
+                    "width": "1915",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1720",
+                    "curbWeightMin": "1720"
+                  },
+                  {
+                    "id": "55376",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "V23",
+                    "generation": "V23",
+                    "engine": "81.76 kWh (211 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4220",
+                    "width": "1915",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Electricity",
+                    "curbWeight": "1825",
+                    "curbWeightMin": "1825"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-17 10:29:18",
+        "name": "03",
+        "id": "3818",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-18 08:33:46",
+              "name": "03T",
+              "modelYear": "2024",
+              "id": "10826",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55387",
+                    "update": "2025-09-18 16:13:17",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03T",
+                    "engine": "69.77 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1916",
+                    "height": "1741",
+                    "heightMin": "1741",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Electricity",
+                    "curbWeight": "1817",
+                    "curbWeightMin": "1817"
+                  },
+                  {
+                    "id": "55388",
+                    "update": "2025-09-18 16:13:17",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03T",
+                    "engine": "69.77 kWh (279 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1916",
+                    "height": "1741",
+                    "heightMin": "1741",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Electricity",
+                    "curbWeight": "1914",
+                    "curbWeightMin": "1914"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-17 10:29:34",
+              "name": "03",
+              "modelYear": "2024",
+              "id": "10824",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55377",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "50.63 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1679",
+                    "curbWeightMin": "1679"
+                  },
+                  {
+                    "id": "55378",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "65.69 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
+                  },
+                  {
+                    "id": "55379",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "65.69 kWh (279 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1854",
+                    "curbWeightMin": "1854"
+                  },
+                  {
+                    "id": "55380",
+                    "update": "2025-09-17 14:04:38",
+                    "brand": "iCAR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "69.77 kWh (279 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1892",
+                    "curbWeightMin": "1892"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-14 08:06:01",
+        "name": "Robox",
+        "id": "4010",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2026-05-14 08:07:50",
+              "name": "Robox Concept",
+              "modelYear": "2026",
+              "id": "11244",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-14 08:10:55",
+        "name": "V27",
+        "id": "4012",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-14 08:11:41",
+              "name": "V27",
+              "modelYear": "2026",
+              "id": "11246",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57038",
+                    "update": "2026-05-19 16:18:04",
+                    "brand": "iCAR",
+                    "model": "V27",
+                    "generation": "V27",
+                    "engine": "1.5T 34.3 kWh (252 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2026",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5055",
+                    "width": "1976",
+                    "height": "1894",
+                    "heightMin": "1894",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2222",
+                    "curbWeightMin": "2222"
+                  },
+                  {
+                    "id": "57039",
+                    "update": "2026-05-19 16:18:04",
+                    "brand": "iCAR",
+                    "model": "V27",
+                    "generation": "V27",
+                    "engine": "1.5T 34.3 kWh (456 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2026",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5055",
+                    "width": "1976",
+                    "height": "1894",
+                    "heightMin": "1894",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335",
+                    "curbWeightMin": "2335"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

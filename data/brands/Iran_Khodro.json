@@ -1,0 +1,116 @@
+{
+  "update": "2020-05-27 11:22:48",
+  "name": "Iran Khodro",
+  "id": "167",
+  "models": {
+    "model": [
+      {
+        "update": "2020-05-27 11:18:24",
+        "name": "Samand",
+        "id": "1701",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Samand",
+              "modelYear": "2004",
+              "id": "3348",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15323",
+                    "update": "2023-08-17 09:53:36",
+                    "brand": "Iran Khodro",
+                    "model": "Samand",
+                    "generation": "Samand",
+                    "engine": "1.8 i (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1720",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-27 11:23:11",
+        "name": "Soren",
+        "id": "1702",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Soren",
+              "modelYear": "2007",
+              "id": "3349",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15324",
+                    "update": "2023-08-17 09:53:38",
+                    "brand": "Iran Khodro",
+                    "model": "Soren",
+                    "generation": "Soren",
+                    "engine": "1.6 16V (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/6500",
+                    "powerHp": "110",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4527",
+                    "width": "1720",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16705",
+                    "update": "2023-08-17 09:53:37",
+                    "brand": "Iran Khodro",
+                    "model": "Soren",
+                    "generation": "Soren",
+                    "engine": "ELX 1.6 16V (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6000",
+                    "powerHp": "113",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2008",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

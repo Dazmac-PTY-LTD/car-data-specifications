@@ -1,0 +1,292 @@
+{
+  "update": "2025-09-11 09:28:33",
+  "name": "Fangchengbao",
+  "id": "370",
+  "models": {
+    "model": [
+      {
+        "update": "2025-09-11 10:14:46",
+        "name": "Leopard 8",
+        "id": "3804",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-11 10:16:25",
+              "name": "Leopard 8",
+              "modelYear": "2025",
+              "id": "10805",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55329",
+                    "update": "2025-09-11 16:13:23",
+                    "brand": "Fangchengbao",
+                    "model": "Leopard 8",
+                    "generation": "Leopard 8",
+                    "engine": "DMO 2.0T (748 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "245",
+                    "powerHp": "245",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5195",
+                    "width": "1994",
+                    "height": "1905",
+                    "heightMin": "1905",
+                    "rideHeight": "220-310",
+                    "rideHeightMin": "220",
+                    "rideHeightMax": "310",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3305",
+                    "curbWeightMin": "3305"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-11 12:14:29",
+        "name": "Leopard 5",
+        "id": "3805",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-11 12:15:09",
+              "name": "Leopard 5",
+              "modelYear": "2024",
+              "id": "10806",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55330",
+                    "update": "2026-03-04 10:03:27",
+                    "brand": "Fangchengbao",
+                    "model": "Leopard 5",
+                    "generation": "Leopard 5",
+                    "engine": "DMO 1.5T 31.8 kWh (687 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "194",
+                    "powerHp": "194",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4890",
+                    "width": "1970",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "220-310",
+                    "rideHeightMin": "220",
+                    "rideHeightMax": "310",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2890-2998",
+                    "curbWeightMin": "2890",
+                    "curbWeightMax": "2998"
+                  },
+                  {
+                    "id": "55596",
+                    "update": "2026-03-04 10:03:26",
+                    "brand": "Fangchengbao",
+                    "model": "Leopard 5",
+                    "generation": "Leopard 5",
+                    "engine": "DMO+ 1.5T 47.8 kWh (687 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "194",
+                    "powerHp": "194",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4890",
+                    "width": "1970",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "220-310",
+                    "rideHeightMin": "220",
+                    "rideHeightMax": "310",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2950-3040",
+                    "curbWeightMin": "2950",
+                    "curbWeightMax": "3040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-11 12:40:48",
+        "name": "Titanium 3",
+        "id": "3806",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-11 12:41:26",
+              "name": "Titanium 3",
+              "modelYear": "2025",
+              "id": "10807",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55325",
+                    "update": "2025-09-11 16:13:23",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 3",
+                    "generation": "Titanium 3",
+                    "engine": "78.72 kWh (422 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1900",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Electricity",
+                    "curbWeight": "2265",
+                    "curbWeightMin": "2265"
+                  },
+                  {
+                    "id": "55331",
+                    "update": "2025-09-11 16:13:23",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 3",
+                    "generation": "Titanium 3",
+                    "engine": "65.28 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "55332",
+                    "update": "2025-09-11 16:13:23",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 3",
+                    "generation": "Titanium 3",
+                    "engine": "72.96 kWh (422 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": "2170",
+                    "curbWeightMin": "2170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-11 13:17:54",
+        "name": "Titanium 7",
+        "id": "3807",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-11 13:18:29",
+              "name": "Titanium 7",
+              "modelYear": "2025",
+              "id": "10808",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55323",
+                    "update": "2026-05-20 14:29:17",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 7",
+                    "generation": "Titanium 7",
+                    "engine": "1.5T 35.6 kWh (490 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4999",
+                    "width": "1995",
+                    "height": "1865",
+                    "heightMin": "1865",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2480",
+                    "curbWeightMin": "2480"
+                  },
+                  {
+                    "id": "55324",
+                    "update": "2026-05-20 14:29:17",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 7",
+                    "generation": "Titanium 7",
+                    "engine": "1.5T 35.6 kWh (272 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4999",
+                    "width": "1995",
+                    "height": "1865",
+                    "heightMin": "1865",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55326",
+                    "update": "2026-05-20 14:29:15",
+                    "brand": "Fangchengbao",
+                    "model": "Titanium 7",
+                    "generation": "Titanium 7",
+                    "engine": "1.5T 26.6 kWh (272 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4999",
+                    "width": "1995",
+                    "height": "1865",
+                    "heightMin": "1865",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2230",
+                    "curbWeightMin": "2230"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

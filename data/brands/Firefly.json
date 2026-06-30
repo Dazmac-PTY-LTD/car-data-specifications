@@ -1,0 +1,52 @@
+{
+  "update": "2025-11-11 12:40:11",
+  "name": "Firefly",
+  "id": "381",
+  "models": {
+    "model": [
+      {
+        "update": "2025-11-11 12:42:04",
+        "name": "Firefly",
+        "id": "3874",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-11 12:43:04",
+              "name": "Firefly",
+              "modelYear": "2025",
+              "id": "10928",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55747",
+                    "update": "2025-11-11 16:18:58",
+                    "brand": "Firefly",
+                    "model": "Firefly",
+                    "generation": "Firefly",
+                    "engine": "42.1 kWh (143 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4003",
+                    "width": "1781",
+                    "height": "1557",
+                    "heightMin": "1557",
+                    "rideHeight": "142",
+                    "rideHeightMin": "142",
+                    "fuel": "Electricity",
+                    "curbWeight": "1467-1492",
+                    "curbWeightMin": "1467",
+                    "curbWeightMax": "1492"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

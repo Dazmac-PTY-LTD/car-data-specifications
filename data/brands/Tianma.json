@@ -1,0 +1,79 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Tianma",
+  "id": "20",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-05 09:38:44",
+        "name": "Century",
+        "id": "262",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Century",
+              "modelYear": "2006",
+              "id": "575",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2609",
+                    "update": "2023-06-15 08:48:05",
+                    "brand": "Tianma",
+                    "model": "Century",
+                    "generation": "Century",
+                    "engine": "2.4 (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5250",
+                    "powerHp": "125",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5150",
+                    "width": "1810",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  },
+                  {
+                    "id": "2610",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Tianma",
+                    "model": "Century",
+                    "generation": "Century",
+                    "engine": "2.7 TD (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/2500",
+                    "powerHp": "94",
+                    "powerRpm": "2500",
+                    "powerRpmLow": "2500",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5150",
+                    "width": "1810",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Diesel",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

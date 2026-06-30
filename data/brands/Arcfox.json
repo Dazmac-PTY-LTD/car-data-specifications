@@ -1,0 +1,555 @@
+{
+  "update": "2020-10-30 16:20:30",
+  "name": "Arcfox",
+  "id": "277",
+  "models": {
+    "model": [
+      {
+        "update": "2020-10-30 16:20:30",
+        "name": "GT",
+        "id": "2657",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT RACEEDITION",
+              "modelYear": "2020",
+              "id": "6976",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36284",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "GT",
+                    "generation": "GT RACEEDITION",
+                    "engine": "85 kWh (1000 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4672",
+                    "width": "2018",
+                    "height": "1196",
+                    "heightMin": "1196",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT",
+              "modelYear": "2020",
+              "id": "6975",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36283",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "85 kWh (1600 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4672",
+                    "width": "2018",
+                    "height": "1236",
+                    "heightMin": "1236",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-26 13:48:42",
+        "name": "ECF",
+        "id": "2662",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "ECF Concept",
+              "modelYear": "2019",
+              "id": "6985",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-20 15:23:34",
+        "name": "Alpha-S",
+        "id": "2920",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-20 15:24:42",
+              "name": "Alpha-S",
+              "modelYear": "2021",
+              "id": "8333",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43221",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-S",
+                    "generation": "Alpha-S",
+                    "engine": "525S 67.3 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4930",
+                    "width": "1940",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "43222",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-S",
+                    "generation": "Alpha-S",
+                    "engine": "708S 93.6 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4930",
+                    "width": "1940",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "43223",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-S",
+                    "generation": "Alpha-S",
+                    "engine": "603H 93.6 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4930",
+                    "width": "1940",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-21 11:44:28",
+        "name": "Alpha-T",
+        "id": "2923",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-21 11:45:31",
+              "name": "Alpha-T",
+              "modelYear": "2020",
+              "id": "8336",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43231",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-T",
+                    "generation": "Alpha-T",
+                    "engine": "480S 67.3 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4788",
+                    "width": "1940",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "43232",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-T",
+                    "generation": "Alpha-T",
+                    "engine": "653S 93.6 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4788",
+                    "width": "1940",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "43233",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Arcfox",
+                    "model": "Alpha-T",
+                    "generation": "Alpha-T",
+                    "engine": "H 93.6 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4788",
+                    "width": "1940",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-12 11:34:56",
+        "name": "T1",
+        "id": "3808",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-12 11:35:24",
+              "name": "T1",
+              "modelYear": "2025",
+              "id": "10810",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55343",
+                    "update": "2025-09-12 16:07:17",
+                    "brand": "Arcfox",
+                    "model": "T1",
+                    "generation": "T1",
+                    "engine": "33.4 kWh (129 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1860",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "rideHeight": "153",
+                    "rideHeightMin": "153",
+                    "fuel": "Electricity",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  },
+                  {
+                    "id": "55344",
+                    "update": "2025-09-12 16:07:17",
+                    "brand": "Arcfox",
+                    "model": "T1",
+                    "generation": "T1",
+                    "engine": "42.3 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1860",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "rideHeight": "181",
+                    "rideHeightMin": "181",
+                    "fuel": "Electricity",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-12 14:41:07",
+        "name": "Kaola",
+        "id": "3809",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-12 14:41:22",
+              "name": "Kaola",
+              "modelYear": "2024",
+              "id": "10812",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55345",
+                    "update": "2025-09-12 16:07:17",
+                    "brand": "Arcfox",
+                    "model": "Kaola",
+                    "generation": "Kaola",
+                    "engine": "58.8 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "MPV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4500",
+                    "width": "1870",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-12 16:03:54",
+        "name": "Alpha T5",
+        "id": "3810",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-12 16:05:07",
+              "name": "Alpha T5",
+              "modelYear": "2025",
+              "id": "10813",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55348",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha T5",
+                    "generation": "Alpha T5",
+                    "engine": "65 kWh (252 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1936",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Electricity",
+                    "curbWeight": "1980",
+                    "curbWeightMin": "1980"
+                  },
+                  {
+                    "id": "55349",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha T5",
+                    "generation": "Alpha T5",
+                    "engine": "74.4 kWh (272 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1936",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Electricity",
+                    "curbWeight": "2045",
+                    "curbWeightMin": "2045"
+                  },
+                  {
+                    "id": "55350",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha T5",
+                    "generation": "Alpha T5",
+                    "engine": "79.2 kWh (272 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1936",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Electricity",
+                    "curbWeight": "1975",
+                    "curbWeightMin": "1975"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-15 11:44:15",
+        "name": "Alpha S5",
+        "id": "3814",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-15 11:44:31",
+              "name": "Alpha S5",
+              "modelYear": "2025",
+              "id": "10817",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55351",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha S5",
+                    "generation": "Alpha S5",
+                    "engine": "65 kWh (252 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  },
+                  {
+                    "id": "55352",
+                    "update": "2025-09-15 16:13:03",
+                    "brand": "Arcfox",
+                    "model": "Alpha S5",
+                    "generation": "Alpha S5",
+                    "engine": "74.4 kWh (272 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "55353",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha S5",
+                    "generation": "Alpha S5",
+                    "engine": "79.2 kWh (272 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  },
+                  {
+                    "id": "55354",
+                    "update": "2025-09-15 16:10:57",
+                    "brand": "Arcfox",
+                    "model": "Alpha S5",
+                    "generation": "Alpha S5",
+                    "engine": "79.2 kWh (530 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "update": "2022-05-04 16:28:30",
+  "name": "INEOS",
+  "id": "310",
+  "models": {
+    "model": [
+      {
+        "update": "2022-05-04 16:26:55",
+        "name": "Grenadier",
+        "id": "3112",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-28 13:17:03",
+              "name": "Grenadier Quartermaster",
+              "modelYear": "2023",
+              "id": "10350",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53586",
+                    "update": "2025-01-28 16:10:38",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Quartermaster",
+                    "engine": "3.0i Turbo (286 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/4750",
+                    "powerHp": "286",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5440",
+                    "width": "1943",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2019",
+                    "heightMin": "2019",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2665",
+                    "curbWeightMin": "2665"
+                  },
+                  {
+                    "id": "53587",
+                    "update": "2025-01-28 16:10:38",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Quartermaster",
+                    "engine": "3.0d Twin-Turbo (249 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249/3250-4200",
+                    "powerHp": "249",
+                    "powerRpm": "3250-4200",
+                    "powerRpmLow": "3250",
+                    "powerRpmHigh": "4200",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5440",
+                    "width": "1943",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2019",
+                    "heightMin": "2019",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Diesel",
+                    "curbWeight": "2740",
+                    "curbWeightMin": "2740"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 16:29:20",
+              "name": "Grenadier Station Wagon",
+              "modelYear": "2023",
+              "id": "8861",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45760",
+                    "update": "2026-03-24 07:46:14",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Station Wagon",
+                    "engine": "3.0i Turbo (286 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/4750",
+                    "powerHp": "286",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "2022",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4896",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2036",
+                    "heightMin": "2036",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2665-2736",
+                    "curbWeightMin": "2665",
+                    "curbWeightMax": "2736"
+                  },
+                  {
+                    "id": "45761",
+                    "update": "2026-03-24 07:47:34",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Station Wagon",
+                    "engine": "3.0d Twin-Turbo (249 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249/3250-4200",
+                    "powerHp": "249",
+                    "powerRpm": "3250-4200",
+                    "powerRpmLow": "3250",
+                    "powerRpmHigh": "4200",
+                    "yearstart": "2022",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4896",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2036",
+                    "heightMin": "2036",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Diesel",
+                    "curbWeight": "2740-2811",
+                    "curbWeightMin": "2740",
+                    "curbWeightMax": "2811"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 16:28:37",
+              "name": "Grenadier Utility Wagon",
+              "modelYear": "2023",
+              "id": "8860",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45758",
+                    "update": "2026-03-24 07:43:42",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Utility Wagon",
+                    "engine": "3.0i Turbo (286 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/4750",
+                    "powerHp": "286",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "2022",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4896",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2036",
+                    "heightMin": "2036",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2644",
+                    "curbWeightMin": "2644"
+                  },
+                  {
+                    "id": "45759",
+                    "update": "2026-03-24 07:45:11",
+                    "brand": "INEOS",
+                    "model": "Grenadier",
+                    "generation": "Grenadier Utility Wagon",
+                    "engine": "3.0d Twin-Turbo (249 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249/3250-4200",
+                    "powerHp": "249",
+                    "powerRpm": "3250-4200",
+                    "powerRpmLow": "3250",
+                    "powerRpmHigh": "4200",
+                    "yearstart": "2022",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4896",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2146",
+                    "height": "2036",
+                    "heightMin": "2036",
+                    "rideHeight": "264",
+                    "rideHeightMin": "264",
+                    "fuel": "Diesel",
+                    "curbWeight": "2724",
+                    "curbWeightMin": "2724"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

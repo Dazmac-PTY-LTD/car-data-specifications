@@ -1,0 +1,54 @@
+{
+  "update": "2023-06-07 12:00:32",
+  "name": "Anfini",
+  "id": "325",
+  "models": {
+    "model": [
+      {
+        "update": "2023-06-07 13:48:44",
+        "name": "MS-8",
+        "id": "1163",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-07 13:48:52",
+              "name": "MS-8",
+              "modelYear": "1992",
+              "id": "2331",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11091",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Anfini",
+                    "model": "MS-8",
+                    "generation": "MS-8",
+                    "engine": "2.5 V6 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/6500",
+                    "powerHp": "200",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1992",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1750",
+                    "height": "1340",
+                    "heightMin": "1340",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

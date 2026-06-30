@@ -1,0 +1,53 @@
+{
+  "update": "2019-07-25 15:50:38",
+  "name": "Cizeta",
+  "id": "171",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 15:50:38",
+        "name": "V16t",
+        "id": "1708",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "V16t",
+              "modelYear": "1988",
+              "id": "3362",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15340",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Cizeta",
+                    "model": "V16t",
+                    "generation": "V16t",
+                    "engine": "6.0 i V16 64V (520 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/7000",
+                    "powerHp": "520",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4440",
+                    "width": "2050",
+                    "height": "1240",
+                    "heightMin": "1240",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

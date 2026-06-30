@@ -1,0 +1,90 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "Gleagle",
+  "id": "262",
+  "models": {
+    "model": [
+      {
+        "update": "2018-12-04 15:31:13",
+        "name": "EV K17",
+        "id": "2555",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EV K17A",
+              "modelYear": "2018",
+              "id": "6703",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34972",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Gleagle",
+                    "model": "EV K17",
+                    "generation": "EV K17A",
+                    "engine": "20 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3971",
+                    "width": "1745",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Electricity",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2018-12-04 15:31:17",
+        "name": "EV K12",
+        "id": "2557",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EV K12",
+              "modelYear": "2016",
+              "id": "6705",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34973",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Gleagle",
+                    "model": "EV K12",
+                    "generation": "EV K12",
+                    "engine": "20 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2770",
+                    "width": "1560",
+                    "height": "1610",
+                    "heightMin": "1610",
+                    "fuel": "Electricity",
+                    "curbWeight": "970-990",
+                    "curbWeightMin": "970",
+                    "curbWeightMax": "990"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "update": "2025-10-17 16:18:32",
+  "name": "Rox",
+  "id": "378",
+  "models": {
+    "model": [
+      {
+        "update": "2025-10-17 16:22:28",
+        "name": "01",
+        "id": "3852",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-17 16:23:25",
+              "name": "01",
+              "modelYear": "2023",
+              "id": "10879",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55585",
+                    "update": "2025-10-20 16:16:16",
+                    "brand": "Rox",
+                    "model": "01",
+                    "generation": "01",
+                    "engine": "1.5T 56.01 kWh (476 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5295",
+                    "width": "1980",
+                    "height": "1869",
+                    "heightMin": "1869",
+                    "rideHeight": "205",
+                    "rideHeightMin": "205",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2735",
+                    "curbWeightMin": "2735"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

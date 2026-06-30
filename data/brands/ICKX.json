@@ -1,0 +1,56 @@
+{
+  "update": "2023-05-18 14:30:15",
+  "name": "ICKX",
+  "id": "321",
+  "models": {
+    "model": [
+      {
+        "update": "2023-05-18 15:50:50",
+        "name": "K2",
+        "id": "3254",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 13:30:32",
+              "name": "K2",
+              "modelYear": "2022",
+              "id": "9484",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48646",
+                    "update": "2025-03-17 13:34:26",
+                    "brand": "ICKX",
+                    "model": "K2",
+                    "generation": "K2",
+                    "engine": "2.0 (162 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/4000",
+                    "powerHp": "162",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4645",
+                    "width": "1925",
+                    "height": "1871",
+                    "heightMin": "1871",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": "2180",
+                    "curbWeightMin": "2180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

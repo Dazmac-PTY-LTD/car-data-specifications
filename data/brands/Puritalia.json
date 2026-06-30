@@ -1,0 +1,54 @@
+{
+  "update": "2020-11-20 09:03:39",
+  "name": "Puritalia",
+  "id": "275",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-20 09:03:39",
+        "name": "Berlinetta",
+        "id": "2659",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Berlinetta",
+              "modelYear": "2019",
+              "id": "6981",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36387",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Puritalia",
+                    "model": "Berlinetta",
+                    "generation": "Berlinetta",
+                    "engine": "5.0 V8 (965 Hp) Plug-in Hybrid Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "750/7000",
+                    "powerHp": "750",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4500",
+                    "width": "1957",
+                    "widthOpenedMirrors": "2154",
+                    "height": "1281",
+                    "heightMin": "1281",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

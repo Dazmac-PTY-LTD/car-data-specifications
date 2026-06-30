@@ -1,0 +1,53 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Vencer",
+  "id": "221",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-19 08:44:16",
+        "name": "Sarthe",
+        "id": "2330",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sarthe",
+              "modelYear": "2015",
+              "id": "5981",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32125",
+                    "update": "2023-08-08 16:27:56",
+                    "brand": "Vencer",
+                    "model": "Sarthe",
+                    "generation": "Sarthe",
+                    "engine": "6.3 V8 (622 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "622/6500",
+                    "powerHp": "622",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4515",
+                    "width": "1984",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

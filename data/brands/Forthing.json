@@ -1,0 +1,666 @@
+{
+  "update": "2023-10-05 12:19:39",
+  "name": "Forthing",
+  "id": "333",
+  "models": {
+    "model": [
+      {
+        "update": "2023-10-06 08:22:39",
+        "name": "T5 EVO",
+        "id": "3329",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-06 08:25:18",
+              "name": "T5 EVO",
+              "modelYear": "2021",
+              "id": "9669",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49898",
+                    "update": "2023-10-06 16:19:59",
+                    "brand": "Forthing",
+                    "model": "T5 EVO",
+                    "generation": "T5 EVO",
+                    "engine": "1.5 TD (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5600",
+                    "powerHp": "197",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1860",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500-1550",
+                    "curbWeightMin": "1500",
+                    "curbWeightMax": "1550"
+                  },
+                  {
+                    "id": "52998",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Forthing",
+                    "model": "T5 EVO",
+                    "generation": "T5 EVO",
+                    "engine": "HEV 1.5T (245 Hp) DCT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4595",
+                    "width": "1865",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-09 10:23:17",
+        "name": "Yacht/4 U-Tour",
+        "id": "3330",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-09 10:23:41",
+              "name": "Yacht/4 U-Tour",
+              "modelYear": "2022",
+              "id": "9672",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49920",
+                    "update": "2023-10-09 16:16:41",
+                    "brand": "Forthing",
+                    "model": "Yacht/4 U-Tour",
+                    "generation": "Yacht/4 U-Tour",
+                    "engine": "1.5 (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5600",
+                    "powerHp": "197",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4850",
+                    "width": "1900",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-09 12:48:13",
+        "name": "T5",
+        "id": "3331",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-16 14:37:33",
+              "name": "T5 Mach Edition (facelift 2022)",
+              "modelYear": "2023",
+              "id": "9694",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50061",
+                    "update": "2023-10-16 16:26:02",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5 Mach Edition (facelift 2022)",
+                    "engine": "1.5T (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5200",
+                    "powerHp": "190",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1872",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1585",
+                    "curbWeightMin": "1585"
+                  },
+                  {
+                    "id": "50062",
+                    "update": "2023-10-16 16:26:02",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5 Mach Edition (facelift 2022)",
+                    "engine": "1.5T (190 Hp) DCT 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5200",
+                    "powerHp": "190",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2022",
+                    "coupe": "CUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4785",
+                    "width": "1872",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-10-16 14:38:15",
+              "name": "T5L",
+              "modelYear": "2019",
+              "id": "9693",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50060",
+                    "update": "2023-10-16 16:26:02",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5L",
+                    "engine": "1.5T (156 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5000",
+                    "powerHp": "156",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "CUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4780",
+                    "width": "1872",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-10-16 14:38:15",
+              "name": "T5 (facelift 2019)",
+              "modelYear": "2019",
+              "id": "9692",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50058",
+                    "update": "2023-10-16 16:26:02",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5 (facelift 2019)",
+                    "engine": "1.6L (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6000",
+                    "powerHp": "122",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4460",
+                    "width": "1820",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  },
+                  {
+                    "id": "50059",
+                    "update": "2023-10-16 16:26:02",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5 (facelift 2019)",
+                    "engine": "1.5T (156 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5000",
+                    "powerHp": "156",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4460",
+                    "width": "1820",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-10-09 12:55:40",
+              "name": "T5",
+              "modelYear": "2018",
+              "id": "9673",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49921",
+                    "update": "2023-10-09 16:16:41",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1825",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "49922",
+                    "update": "2023-10-09 16:16:41",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1825",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1530",
+                    "curbWeightMin": "1530"
+                  },
+                  {
+                    "id": "49923",
+                    "update": "2023-10-09 16:16:41",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5",
+                    "engine": "1.8T (165 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "165/4500-5000",
+                    "powerHp": "165",
+                    "powerRpm": "4500-5000",
+                    "powerRpmLow": "4500",
+                    "powerRpmHigh": "5000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1825",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "49924",
+                    "update": "2023-10-09 16:16:41",
+                    "brand": "Forthing",
+                    "model": "T5",
+                    "generation": "T5",
+                    "engine": "1.6T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/6000",
+                    "powerHp": "204",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1825",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1585",
+                    "curbWeightMin": "1585"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-23 11:41:55",
+        "name": "Xinghai S7",
+        "id": "3513",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-23 11:48:02",
+              "name": "Xinghai S7",
+              "modelYear": "2024",
+              "id": "10224",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52995",
+                    "update": "2025-10-31 10:10:58",
+                    "brand": "Forthing",
+                    "model": "Xinghai S7",
+                    "generation": "Xinghai S7",
+                    "engine": "56.8 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1915",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Electricity",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  },
+                  {
+                    "id": "55697",
+                    "update": "2025-10-31 11:06:22",
+                    "brand": "Forthing",
+                    "model": "Xinghai S7",
+                    "generation": "Xinghai S7",
+                    "engine": "59.4 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1915",
+                    "height": "1510",
+                    "heightMin": "1510",
+                    "fuel": "Electricity",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  },
+                  {
+                    "id": "55736",
+                    "update": "2025-11-10 16:21:59",
+                    "brand": "Forthing",
+                    "model": "Xinghai S7",
+                    "generation": "Xinghai S7",
+                    "engine": "70.26 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1915",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Electricity",
+                    "curbWeight": "1835",
+                    "curbWeightMin": "1835"
+                  },
+                  {
+                    "id": "55737",
+                    "update": "2025-11-10 16:21:59",
+                    "brand": "Forthing",
+                    "model": "Xinghai S7",
+                    "generation": "Xinghai S7",
+                    "engine": "68.2 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1915",
+                    "height": "1510",
+                    "heightMin": "1510",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  },
+                  {
+                    "id": "55738",
+                    "update": "2025-11-10 16:21:59",
+                    "brand": "Forthing",
+                    "model": "Xinghai S7",
+                    "generation": "Xinghai S7",
+                    "engine": "1.5 28.4 kWh (218 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "105/5500",
+                    "powerHp": "105",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1915",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-06 15:32:58",
+        "name": "Friday",
+        "id": "3867",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-06 15:34:32",
+              "name": "Friday",
+              "modelYear": "2025",
+              "id": "10915",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57304",
+                    "update": "2026-06-18 16:16:05",
+                    "brand": "Forthing",
+                    "model": "Friday",
+                    "generation": "Friday",
+                    "engine": "64.4 kWh (135 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1860",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "1820",
+                    "curbWeightMin": "1820"
+                  },
+                  {
+                    "id": "57305",
+                    "update": "2026-06-18 16:16:05",
+                    "brand": "Forthing",
+                    "model": "Friday",
+                    "generation": "Friday",
+                    "engine": "64.4 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1860",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "1820",
+                    "curbWeightMin": "1820"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-07 08:32:40",
+        "name": "V9",
+        "id": "3868",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-18 11:55:24",
+              "name": "V9",
+              "modelYear": "2024",
+              "id": "10916",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56721",
+                    "update": "2026-03-18 14:07:56",
+                    "brand": "Forthing",
+                    "model": "V9",
+                    "generation": "V9",
+                    "engine": "1.5TD (310 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154/5200",
+                    "powerHp": "154",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5251",
+                    "width": "1920",
+                    "height": "1810-1820",
+                    "heightMin": "1810",
+                    "heightMax": "1820",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2205-2415",
+                    "curbWeightMin": "2205",
+                    "curbWeightMax": "2415"
+                  },
+                  {
+                    "id": "56722",
+                    "update": "2026-03-18 14:20:46",
+                    "brand": "Forthing",
+                    "model": "V9",
+                    "generation": "V9",
+                    "engine": "1.5TD (177 Hp) HEV E-CVT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5251",
+                    "width": "1920",
+                    "height": "1810-1820",
+                    "heightMin": "1810",
+                    "heightMax": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2205-2275",
+                    "curbWeightMin": "2205",
+                    "curbWeightMax": "2275"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

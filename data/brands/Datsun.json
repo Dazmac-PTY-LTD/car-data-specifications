@@ -1,0 +1,624 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Datsun",
+  "id": "265",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 09:50:56",
+        "name": "GO",
+        "id": "2567",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GO+ I (facelift 2018)",
+              "modelYear": "2018",
+              "id": "6731",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35008",
+                    "update": "2023-07-24 13:31:05",
+                    "brand": "Datsun",
+                    "model": "GO",
+                    "generation": "GO+ I (facelift 2018)",
+                    "engine": "1.2 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5000",
+                    "powerHp": "68",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2018",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1636",
+                    "height": "1507",
+                    "heightMin": "1507",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "882",
+                    "curbWeightMin": "882"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GO I (facelift 2018)",
+              "modelYear": "2018",
+              "id": "6729",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35006",
+                    "update": "2023-07-24 13:31:05",
+                    "brand": "Datsun",
+                    "model": "GO",
+                    "generation": "GO I (facelift 2018)",
+                    "engine": "1.2 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5000",
+                    "powerHp": "68",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3788",
+                    "width": "1636",
+                    "height": "1507",
+                    "heightMin": "1507",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "846",
+                    "curbWeightMin": "846"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GO+ I",
+              "modelYear": "2014",
+              "id": "6730",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35007",
+                    "update": "2023-07-24 13:31:06",
+                    "brand": "Datsun",
+                    "model": "GO",
+                    "generation": "GO+ I",
+                    "engine": "1.2 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5000",
+                    "powerHp": "68",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2014",
+                    "yearstop": "2018",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1635",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GO I",
+              "modelYear": "2013",
+              "id": "6728",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35005",
+                    "update": "2023-07-24 13:31:07",
+                    "brand": "Datsun",
+                    "model": "GO",
+                    "generation": "GO I",
+                    "engine": "1.2 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5000",
+                    "powerHp": "68",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2013",
+                    "yearstop": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3785",
+                    "width": "1635",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 09:51:32",
+        "name": "mi-DO",
+        "id": "2570",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "mi-DO",
+              "modelYear": "2015",
+              "id": "6732",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35301",
+                    "update": "2023-08-18 12:30:53",
+                    "brand": "Datsun",
+                    "model": "mi-DO",
+                    "generation": "mi-DO",
+                    "engine": "1.6 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/5800",
+                    "powerHp": "106",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3950",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "35302",
+                    "update": "2023-08-18 12:33:49",
+                    "brand": "Datsun",
+                    "model": "mi-DO",
+                    "generation": "mi-DO",
+                    "engine": "1.6 (87 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5100",
+                    "powerHp": "87",
+                    "powerRpm": "5100",
+                    "powerRpmLow": "5100",
+                    "yearstart": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3950",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "35303",
+                    "update": "2023-08-18 12:31:31",
+                    "brand": "Datsun",
+                    "model": "mi-DO",
+                    "generation": "mi-DO",
+                    "engine": "1.6 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5100",
+                    "powerHp": "87",
+                    "powerRpm": "5100",
+                    "powerRpmLow": "5100",
+                    "yearstart": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3950",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 09:52:07",
+        "name": "on-DO",
+        "id": "2571",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "on-DO",
+              "modelYear": "2014",
+              "id": "6734",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35297",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Datsun",
+                    "model": "on-DO",
+                    "generation": "on-DO",
+                    "engine": "1.6 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/5800",
+                    "powerHp": "106",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "35298",
+                    "update": "2023-08-18 12:36:49",
+                    "brand": "Datsun",
+                    "model": "on-DO",
+                    "generation": "on-DO",
+                    "engine": "1.6 (87 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5100",
+                    "powerHp": "87",
+                    "powerRpm": "5100",
+                    "powerRpmLow": "5100",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "35299",
+                    "update": "2023-08-18 12:36:27",
+                    "brand": "Datsun",
+                    "model": "on-DO",
+                    "generation": "on-DO",
+                    "engine": "1.6 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5100",
+                    "powerHp": "87",
+                    "powerRpm": "5100",
+                    "powerRpmLow": "5100",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "35300",
+                    "update": "2023-08-18 12:36:27",
+                    "brand": "Datsun",
+                    "model": "on-DO",
+                    "generation": "on-DO",
+                    "engine": "1.6 (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/5100",
+                    "powerHp": "82",
+                    "powerRpm": "5100",
+                    "powerRpmLow": "5100",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4337",
+                    "width": "1700",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 09:53:58",
+        "name": "redi-GO",
+        "id": "2572",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "redi-GO",
+              "modelYear": "2016",
+              "id": "6735",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35294",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Datsun",
+                    "model": "redi-GO",
+                    "generation": "redi-GO",
+                    "engine": "1.0 (68 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5500",
+                    "powerHp": "68",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3429",
+                    "width": "1560",
+                    "height": "1541",
+                    "heightMin": "1541",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "35295",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Datsun",
+                    "model": "redi-GO",
+                    "generation": "redi-GO",
+                    "engine": "1.0 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5500",
+                    "powerHp": "68",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3429",
+                    "width": "1560",
+                    "height": "1541",
+                    "heightMin": "1541",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "35296",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Datsun",
+                    "model": "redi-GO",
+                    "generation": "redi-GO",
+                    "engine": "0.8 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54/5678",
+                    "powerHp": "54",
+                    "powerRpm": "5678",
+                    "powerRpmLow": "5678",
+                    "yearstart": "2016",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3429",
+                    "width": "1560",
+                    "height": "1541",
+                    "heightMin": "1541",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 10:53:43",
+        "name": "280Z",
+        "id": "3993",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-14 14:02:44",
+              "name": "280Z 2+2",
+              "modelYear": "1976",
+              "id": "11218",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57000",
+                    "update": "2026-05-14 16:07:25",
+                    "brand": "Datsun",
+                    "model": "280Z",
+                    "generation": "280Z 2+2",
+                    "engine": "2.8 (149 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5600",
+                    "powerHp": "149",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Coupe, Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4715",
+                    "width": "1650",
+                    "height": "1305",
+                    "heightMin": "1305",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1327-1335",
+                    "curbWeightMin": "1327",
+                    "curbWeightMax": "1335"
+                  },
+                  {
+                    "id": "57001",
+                    "update": "2026-05-14 16:07:25",
+                    "brand": "Datsun",
+                    "model": "280Z",
+                    "generation": "280Z 2+2",
+                    "engine": "2.8 (149 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5600",
+                    "powerHp": "149",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Coupe, Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4715",
+                    "width": "1650",
+                    "height": "1305",
+                    "heightMin": "1305",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1331-1339",
+                    "curbWeightMin": "1331",
+                    "curbWeightMax": "1339"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-14 14:02:44",
+              "name": "280Z",
+              "modelYear": "1976",
+              "id": "11251",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57002",
+                    "update": "2026-05-14 16:07:28",
+                    "brand": "Datsun",
+                    "model": "280Z",
+                    "generation": "280Z",
+                    "engine": "2.8 (149 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5600",
+                    "powerHp": "149",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Coupe, Fastback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4405",
+                    "width": "1630",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250-1258",
+                    "curbWeightMin": "1250",
+                    "curbWeightMax": "1258"
+                  },
+                  {
+                    "id": "57003",
+                    "update": "2026-05-14 16:07:28",
+                    "brand": "Datsun",
+                    "model": "280Z",
+                    "generation": "280Z",
+                    "engine": "2.8 (149 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5600",
+                    "powerHp": "149",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Coupe, Fastback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4405",
+                    "width": "1630",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1254-1262",
+                    "curbWeightMin": "1254",
+                    "curbWeightMax": "1262"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "update": "2013-01-24 21:00:00",
+  "name": "Mega",
+  "id": "133",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-08 14:13:10",
+        "name": "Club",
+        "id": "1341",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Club",
+              "modelYear": "1992",
+              "id": "2695",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12429",
+                    "update": "2023-08-15 15:49:17",
+                    "brand": "Mega",
+                    "model": "Club",
+                    "generation": "Club",
+                    "engine": "1.4 i (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/6200",
+                    "powerHp": "75",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "1992",
+                    "yearstop": "1998",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3775",
+                    "width": "1640",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1315",
+                    "curbWeightMin": "1315"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:24:59",
+        "name": "Monte Carlo",
+        "id": "1342",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Monte Carlo",
+              "modelYear": "1996",
+              "id": "2696",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12430",
+                    "update": "2023-08-15 15:49:20",
+                    "brand": "Mega",
+                    "model": "Monte Carlo",
+                    "generation": "Monte Carlo",
+                    "engine": "6.0 i 12V 48V (394 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "394/5200",
+                    "powerHp": "394",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1996",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4450",
+                    "width": "1990",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:34:37",
+        "name": "Track",
+        "id": "1343",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Track",
+              "modelYear": "1992",
+              "id": "2697",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12431",
+                    "update": "2023-08-15 15:49:21",
+                    "brand": "Mega",
+                    "model": "Track",
+                    "generation": "Track",
+                    "engine": "6.0 i V12 (394 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "394/5200",
+                    "powerHp": "394",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5080",
+                    "width": "2220",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-25 10:02:42",
+        "name": "e-Scouty",
+        "id": "3518",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-25 10:06:01",
+              "name": "e-Scouty",
+              "modelYear": "2023",
+              "id": "10234",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53011",
+                    "update": "2024-10-25 16:04:32",
+                    "brand": "Mega",
+                    "model": "e-Scouty",
+                    "generation": "e-Scouty",
+                    "engine": "7.44 kWh (8 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2632",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "385",
+                    "curbWeightMin": "385"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

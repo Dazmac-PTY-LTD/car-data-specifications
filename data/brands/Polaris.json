@@ -1,0 +1,56 @@
+{
+  "update": "2020-11-24 12:34:00",
+  "name": "Polaris",
+  "id": "242",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-24 12:34:00",
+        "name": "Slingshot",
+        "id": "2432",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 13:30:48",
+              "name": "Slingshot",
+              "modelYear": "2015",
+              "id": "6266",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33153",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Polaris",
+                    "model": "Slingshot",
+                    "generation": "Slingshot",
+                    "engine": "2.4 (173 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "173/6200",
+                    "powerHp": "173",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3800",
+                    "width": "1960",
+                    "height": "1318",
+                    "heightMin": "1318",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "793",
+                    "curbWeightMin": "793"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

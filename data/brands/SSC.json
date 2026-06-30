@@ -1,0 +1,95 @@
+{
+  "update": "2019-08-08 15:15:29",
+  "name": "SSC",
+  "id": "252",
+  "models": {
+    "model": [
+      {
+        "update": "2020-10-20 12:21:50",
+        "name": "Tuatara",
+        "id": "2504",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tuatara",
+              "modelYear": "2019",
+              "id": "6485",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34038",
+                    "update": "2023-11-29 14:20:48",
+                    "brand": "SSC",
+                    "model": "Tuatara",
+                    "generation": "Tuatara",
+                    "engine": "5.9 V8 (1350/1750 Hp) Flex Fuel Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1350//1750",
+                    "powerHp": "1350",
+                    "powerHpE85": "1750",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4430",
+                    "width": "1991",
+                    "height": "1092",
+                    "heightMin": "1092",
+                    "rideHeight": "70-102",
+                    "rideHeightMin": "70",
+                    "rideHeightMax": "102",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1247",
+                    "curbWeightMin": "1247"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-04-12 13:01:27",
+        "name": "Ultimate Aero",
+        "id": "3094",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-04-12 13:04:05",
+              "name": "Ultimate Aero",
+              "modelYear": "2004",
+              "id": "8825",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45664",
+                    "update": "2022-04-12 16:32:18",
+                    "brand": "SSC",
+                    "model": "Ultimate Aero",
+                    "generation": "Ultimate Aero",
+                    "engine": "6.3 V8 (1183 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1183/6950",
+                    "powerHp": "1183",
+                    "powerRpm": "6950",
+                    "powerRpmLow": "6950",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

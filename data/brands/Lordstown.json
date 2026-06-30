@@ -1,0 +1,50 @@
+{
+  "update": "2023-06-27 15:37:48",
+  "name": "Lordstown",
+  "id": "326",
+  "models": {
+    "model": [
+      {
+        "update": "2023-06-27 15:43:21",
+        "name": "Endurance",
+        "id": "3280",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-27 15:45:28",
+              "name": "Endurance Crew Cab",
+              "modelYear": "2022",
+              "id": "9551",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48950",
+                    "update": "2023-06-28 08:40:22",
+                    "brand": "Lordstown",
+                    "model": "Endurance",
+                    "generation": "Endurance Crew Cab",
+                    "engine": "109 kWh (550 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5842",
+                    "width": "2068",
+                    "widthOpenedMirrors": "2390",
+                    "height": "1941",
+                    "heightMin": "1941",
+                    "fuel": "Electricity",
+                    "curbWeight": "2926",
+                    "curbWeightMin": "2926"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

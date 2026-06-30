@@ -1,0 +1,94 @@
+{
+  "update": "2021-05-14 11:37:44",
+  "name": "Bizzarrini",
+  "id": "299",
+  "models": {
+    "model": [
+      {
+        "update": "2021-07-12 16:57:44",
+        "name": "5300 GT Strada",
+        "id": "2971",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-12 17:13:00",
+              "name": "5300 GT Strada",
+              "modelYear": "1965",
+              "id": "8485",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43862",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Bizzarrini",
+                    "model": "5300 GT Strada",
+                    "generation": "5300 GT Strada",
+                    "engine": "5.4 V8 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/5400",
+                    "powerHp": "350",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1964",
+                    "yearstop": "1968",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4394",
+                    "width": "1730",
+                    "height": "1110",
+                    "heightMin": "1110",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-07-13 08:11:43",
+        "name": "P538",
+        "id": "2972",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-13 08:13:43",
+              "name": "P538",
+              "modelYear": "1966",
+              "id": "8486",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-07-13 08:33:24",
+        "name": "1900 GT Europa",
+        "id": "2973",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-13 08:33:45",
+              "name": "1900 GT Europa",
+              "modelYear": "1967",
+              "id": "8487",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

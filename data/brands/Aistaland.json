@@ -1,0 +1,88 @@
+{
+  "update": "2026-05-14 09:25:36",
+  "name": "Aistaland",
+  "id": "393",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-14 09:28:45",
+        "name": "GT7",
+        "id": "4015",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-14 09:28:55",
+              "name": "GT7",
+              "modelYear": "2026",
+              "id": "11249",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57133",
+                    "update": "2026-06-29 10:49:59",
+                    "brand": "Aistaland",
+                    "model": "GT7",
+                    "generation": "GT7",
+                    "engine": "86 kWh (340 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1980",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Electricity",
+                    "curbWeight": "2295",
+                    "curbWeightMin": "2295"
+                  },
+                  {
+                    "id": "57134",
+                    "update": "2026-06-29 10:49:07",
+                    "brand": "Aistaland",
+                    "model": "GT7",
+                    "generation": "GT7",
+                    "engine": "102.8 kWh (340 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1980",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Electricity",
+                    "curbWeight": "2295",
+                    "curbWeightMin": "2295"
+                  },
+                  {
+                    "id": "57382",
+                    "update": "2026-06-29 10:44:16",
+                    "brand": "Aistaland",
+                    "model": "GT7",
+                    "generation": "GT7",
+                    "engine": "102.8 kWh (768 Hp) Electric Tri Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1980",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "update": "2019-08-28 10:54:11",
+  "name": "Campagna",
+  "id": "273",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-28 10:41:38",
+        "name": "T-REX",
+        "id": "2644",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T-REX 16S",
+              "modelYear": "2017",
+              "id": "6952",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36231",
+                    "update": "2023-08-21 08:21:14",
+                    "brand": "Campagna",
+                    "model": "T-REX",
+                    "generation": "T-REX 16S",
+                    "engine": "1.6 V6 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/7750",
+                    "powerHp": "160",
+                    "powerRpm": "7750",
+                    "powerRpmLow": "7750",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3500",
+                    "width": "1981",
+                    "height": "1067",
+                    "heightMin": "1067",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "525",
+                    "curbWeightMin": "525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-28 10:54:11",
+        "name": "V13R",
+        "id": "2645",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "V13R",
+              "modelYear": "2017",
+              "id": "6953",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36230",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Campagna",
+                    "model": "V13R",
+                    "generation": "V13R",
+                    "engine": "V-twin (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3530",
+                    "width": "1994",
+                    "height": "1067",
+                    "heightMin": "1067",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "525",
+                    "curbWeightMin": "525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

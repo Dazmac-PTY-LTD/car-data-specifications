@@ -1,0 +1,75 @@
+{
+  "update": "2023-01-04 11:29:00",
+  "name": "Bollinger",
+  "id": "318",
+  "models": {
+    "model": [
+      {
+        "update": "2023-01-04 11:33:48",
+        "name": "B1",
+        "id": "3204",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2023-01-04 15:24:54",
+              "name": "B1 (Prototype)",
+              "modelYear": "2017",
+              "id": "9181",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47125",
+                    "update": "2023-01-04 14:40:47",
+                    "brand": "Bollinger",
+                    "model": "B1",
+                    "generation": "B1 (Prototype)",
+                    "engine": "60 kWh (360 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3810",
+                    "width": "1943",
+                    "height": "1867",
+                    "heightMin": "1867",
+                    "rideHeight": "394",
+                    "rideHeightMin": "394",
+                    "fuel": "Electricity",
+                    "curbWeight": "1769",
+                    "curbWeightMin": "1769"
+                  },
+                  {
+                    "id": "47126",
+                    "update": "2023-01-04 14:40:47",
+                    "brand": "Bollinger",
+                    "model": "B1",
+                    "generation": "B1 (Prototype)",
+                    "engine": "100 kWh (360 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3810",
+                    "width": "1943",
+                    "height": "1867",
+                    "heightMin": "1867",
+                    "rideHeight": "394",
+                    "rideHeightMin": "394",
+                    "fuel": "Electricity",
+                    "curbWeight": "1769",
+                    "curbWeightMin": "1769"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "update": "2019-05-22 15:10:22",
+  "name": "Wartburg",
+  "id": "95",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-19 11:02:13",
+        "name": "353",
+        "id": "996",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "353 Tourist",
+              "modelYear": "1969",
+              "id": "2091",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10178",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353 Tourist",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1966",
+                    "yearstop": "1969",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10179",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353 Tourist",
+                    "engine": "1.0 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/",
+                    "powerHp": "50",
+                    "yearstart": "1975",
+                    "yearstop": "1989",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10180",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353 Tourist",
+                    "engine": "1.0 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10181",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353 Tourist",
+                    "engine": "1.3 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1989",
+                    "yearstop": "1991",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "353",
+              "modelYear": "1969",
+              "id": "2092",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10182",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353",
+                    "engine": "1.0 (353 W 000) (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/",
+                    "powerHp": "50",
+                    "yearstart": "1975",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10184",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/4250",
+                    "powerHp": "45",
+                    "powerRpm": "4250",
+                    "powerRpmLow": "4250",
+                    "yearstart": "1966",
+                    "yearstop": "1969",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4220",
+                    "width": "1640",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "960",
+                    "curbWeightMin": "960"
+                  },
+                  {
+                    "id": "10185",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353",
+                    "engine": "1.0 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/",
+                    "powerHp": "50",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4220",
+                    "width": "1640",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "920",
+                    "curbWeightMin": "920"
+                  },
+                  {
+                    "id": "10186",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "353",
+                    "generation": "353",
+                    "engine": "1.3 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/5400",
+                    "powerHp": "58",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1988",
+                    "yearstop": "1991",
+                    "coupe": "Sedan",
+                    "length": "4220",
+                    "width": "1640",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "920",
+                    "curbWeightMin": "920"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-03-01 13:45:25",
+        "name": "311",
+        "id": "2877",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-30 13:30:35",
+              "name": "311/3 Coupe",
+              "modelYear": "1956",
+              "id": "8458",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-03-01 13:50:37",
+              "name": "311",
+              "modelYear": "1962",
+              "id": "8170",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42792",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wartburg",
+                    "model": "311",
+                    "generation": "311",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/4200",
+                    "powerHp": "45",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1962",
+                    "yearstop": "1967",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4300",
+                    "width": "1570",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "903",
+                    "curbWeightMin": "903"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,818 @@
+{
+  "update": "2019-08-08 10:22:25",
+  "name": "Scion",
+  "id": "139",
+  "models": {
+    "model": [
+      {
+        "update": "2020-02-20 13:10:49",
+        "name": "tC",
+        "id": "1398",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "tC II (facelift 2013)",
+              "modelYear": "2014",
+              "id": "5086",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25584",
+                    "update": "2023-08-10 13:20:51",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC II (facelift 2013)",
+                    "engine": "2.5 (179 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "179/6000",
+                    "powerHp": "179",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4486",
+                    "width": "1796",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1398",
+                    "curbWeightMin": "1398"
+                  },
+                  {
+                    "id": "25756",
+                    "update": "2023-08-10 13:20:52",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC II (facelift 2013)",
+                    "engine": "2.5 (179 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "179/6000",
+                    "powerHp": "179",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4486",
+                    "width": "1796",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1417",
+                    "curbWeightMin": "1417"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "tC II",
+              "modelYear": "2011",
+              "id": "5085",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25220",
+                    "update": "2023-08-10 13:20:51",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC II",
+                    "engine": "2.5 (182 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "182/6000",
+                    "powerHp": "182",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1796",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1413",
+                    "curbWeightMin": "1413"
+                  },
+                  {
+                    "id": "25916",
+                    "update": "2023-08-10 13:20:51",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC II",
+                    "engine": "2.5 (182 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "182/6000",
+                    "powerHp": "182",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1796",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1393",
+                    "curbWeightMin": "1393"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "tC I (facelift 2007)",
+              "modelYear": "2008",
+              "id": "5084",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25483",
+                    "update": "2023-08-10 12:12:01",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC I (facelift 2007)",
+                    "engine": "2.4 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/6000",
+                    "powerHp": "163",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4420",
+                    "width": "1755",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "132",
+                    "rideHeightMin": "132",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1355",
+                    "curbWeightMin": "1355"
+                  },
+                  {
+                    "id": "26569",
+                    "update": "2023-08-10 12:12:01",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC I (facelift 2007)",
+                    "engine": "2.4 (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/6000",
+                    "powerHp": "163",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4420",
+                    "width": "1755",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "132",
+                    "rideHeightMin": "132",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1315",
+                    "curbWeightMin": "1315"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "tC I",
+              "modelYear": "2005",
+              "id": "2788",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13217",
+                    "update": "2023-08-10 12:12:02",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC I",
+                    "engine": "2.4 i 16V (161 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "161/5700",
+                    "powerHp": "161",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2004",
+                    "yearstop": "2007",
+                    "coupe": "Coupe",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4420",
+                    "width": "1755",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1317",
+                    "curbWeightMin": "1317"
+                  },
+                  {
+                    "id": "25989",
+                    "update": "2023-08-10 12:12:01",
+                    "brand": "Scion",
+                    "model": "tC",
+                    "generation": "tC I",
+                    "engine": "2.4 i 16V (161 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "161/5700",
+                    "powerHp": "161",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2004",
+                    "yearstop": "2007",
+                    "coupe": "Coupe",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4420",
+                    "width": "1755",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1317",
+                    "curbWeightMin": "1317"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-28 14:19:31",
+        "name": "xA",
+        "id": "1399",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "xA",
+              "modelYear": "2004",
+              "id": "2789",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13218",
+                    "update": "2023-08-10 13:41:52",
+                    "brand": "Scion",
+                    "model": "xA",
+                    "generation": "xA",
+                    "engine": "1.5 i 16V (108 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108/6000",
+                    "powerHp": "108",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3914",
+                    "width": "1694",
+                    "height": "1529",
+                    "heightMin": "1529",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1061",
+                    "curbWeightMin": "1061"
+                  },
+                  {
+                    "id": "29367",
+                    "update": "2023-08-10 13:10:13",
+                    "brand": "Scion",
+                    "model": "xA",
+                    "generation": "xA",
+                    "engine": "1.5 i 16V (108 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108/6000",
+                    "powerHp": "108",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3914",
+                    "width": "1694",
+                    "height": "1529",
+                    "heightMin": "1529",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1061",
+                    "curbWeightMin": "1061"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-08 10:22:25",
+        "name": "xB",
+        "id": "1400",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "xB II",
+              "modelYear": "2008",
+              "id": "2790",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13219",
+                    "update": "2023-08-10 13:00:50",
+                    "brand": "Scion",
+                    "model": "xB",
+                    "generation": "xB II",
+                    "engine": "2.4i Automatic (158 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "158/6000",
+                    "powerHp": "158",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4250",
+                    "width": "1760",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "13220",
+                    "update": "2023-10-11 08:58:29",
+                    "brand": "Scion",
+                    "model": "xB",
+                    "generation": "xB II",
+                    "engine": "2.4i (158 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "158/6000",
+                    "powerHp": "158",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4250",
+                    "width": "1760",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "xB I",
+              "modelYear": "2004",
+              "id": "2791",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13221",
+                    "update": "2023-08-10 12:37:20",
+                    "brand": "Scion",
+                    "model": "xB",
+                    "generation": "xB I",
+                    "engine": "1.5 i 16V (108 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108/6000",
+                    "powerHp": "108",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2008",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3945",
+                    "width": "1689",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1086",
+                    "curbWeightMin": "1086"
+                  },
+                  {
+                    "id": "29385",
+                    "update": "2023-08-10 12:37:20",
+                    "brand": "Scion",
+                    "model": "xB",
+                    "generation": "xB I",
+                    "engine": "1.5 i 16V (108 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108/6000",
+                    "powerHp": "108",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2008",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3945",
+                    "width": "1689",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1086",
+                    "curbWeightMin": "1086"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-28 14:51:10",
+        "name": "xD",
+        "id": "1401",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "xD I",
+              "modelYear": "2008",
+              "id": "2792",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13222",
+                    "update": "2023-08-10 12:33:49",
+                    "brand": "Scion",
+                    "model": "xD",
+                    "generation": "xD I",
+                    "engine": "1.8i Automatic (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/6000",
+                    "powerHp": "128",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3930",
+                    "width": "1725",
+                    "height": "1524",
+                    "heightMin": "1524",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "13223",
+                    "update": "2023-10-11 08:58:31",
+                    "brand": "Scion",
+                    "model": "xD",
+                    "generation": "xD I",
+                    "engine": "1.8i (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/6000",
+                    "powerHp": "128",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3930",
+                    "width": "1725",
+                    "height": "1524",
+                    "heightMin": "1524",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-28 13:37:57",
+        "name": "iM",
+        "id": "2167",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "iM",
+              "modelYear": "2016",
+              "id": "5082",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25219",
+                    "update": "2023-08-10 11:16:12",
+                    "brand": "Scion",
+                    "model": "iM",
+                    "generation": "iM",
+                    "engine": "1.8 (137 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/6100",
+                    "powerHp": "137",
+                    "powerRpm": "6100",
+                    "powerRpmLow": "6100",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4331",
+                    "width": "1760",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1375",
+                    "curbWeightMin": "1375"
+                  },
+                  {
+                    "id": "26568",
+                    "update": "2023-08-10 11:16:14",
+                    "brand": "Scion",
+                    "model": "iM",
+                    "generation": "iM",
+                    "engine": "1.8 (137 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/6100",
+                    "powerHp": "137",
+                    "powerRpm": "6100",
+                    "powerRpmLow": "6100",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4331",
+                    "width": "1760",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1335",
+                    "curbWeightMin": "1335"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-28 13:35:52",
+        "name": "iA",
+        "id": "2168",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "iA",
+              "modelYear": "2016",
+              "id": "5083",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25237",
+                    "update": "2023-08-10 13:28:43",
+                    "brand": "Scion",
+                    "model": "iA",
+                    "generation": "iA",
+                    "engine": "1.5 (106 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4346",
+                    "width": "1694",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1096",
+                    "curbWeightMin": "1096"
+                  },
+                  {
+                    "id": "25731",
+                    "update": "2023-08-10 13:28:44",
+                    "brand": "Scion",
+                    "model": "iA",
+                    "generation": "iA",
+                    "engine": "1.5 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4346",
+                    "width": "1694",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1082",
+                    "curbWeightMin": "1082"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-08 09:56:06",
+        "name": "FR-S",
+        "id": "2169",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "FR-S",
+              "modelYear": "2014",
+              "id": "5087",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25737",
+                    "update": "2023-08-10 13:41:38",
+                    "brand": "Scion",
+                    "model": "FR-S",
+                    "generation": "FR-S",
+                    "engine": "2.0 (200 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/7000",
+                    "powerHp": "200",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4234",
+                    "width": "1775",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "rideHeight": "124",
+                    "rideHeightMin": "124",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1273",
+                    "curbWeightMin": "1273"
+                  },
+                  {
+                    "id": "25977",
+                    "update": "2023-08-10 13:41:38",
+                    "brand": "Scion",
+                    "model": "FR-S",
+                    "generation": "FR-S",
+                    "engine": "2.0 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/7000",
+                    "powerHp": "200",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4234",
+                    "width": "1775",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "rideHeight": "124",
+                    "rideHeightMin": "124",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1251",
+                    "curbWeightMin": "1251"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-28 13:41:48",
+        "name": "iQ",
+        "id": "2470",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "iQ",
+              "modelYear": "2012",
+              "id": "6366",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33542",
+                    "update": "2023-08-10 11:16:31",
+                    "brand": "Scion",
+                    "model": "iQ",
+                    "generation": "iQ",
+                    "engine": "1.3 (94 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2010",
+                    "yearstop": "2015",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3051",
+                    "width": "1679",
+                    "height": "1501",
+                    "heightMin": "1501",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "965",
+                    "curbWeightMin": "965"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

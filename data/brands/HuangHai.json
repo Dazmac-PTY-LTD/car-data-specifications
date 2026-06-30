@@ -1,0 +1,181 @@
+{
+  "update": "2019-07-31 09:33:05",
+  "name": "HuangHai",
+  "id": "132",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-31 09:19:50",
+        "name": "Antelope",
+        "id": "1338",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Antelope",
+              "modelYear": "2006",
+              "id": "2692",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12422",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Antelope",
+                    "generation": "Antelope",
+                    "engine": "2.2i 2WD (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/4600",
+                    "powerHp": "102",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2006",
+                    "coupe": "Pick-up",
+                    "length": "5145",
+                    "width": "1725",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12423",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Antelope",
+                    "generation": "Antelope",
+                    "engine": "2.2i 4WD (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/4600",
+                    "powerHp": "102",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2006",
+                    "coupe": "Pick-up",
+                    "length": "5145",
+                    "width": "1725",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12424",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Antelope",
+                    "generation": "Antelope",
+                    "engine": "3.2d 2WD (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/3400",
+                    "powerHp": "102",
+                    "powerRpm": "3400",
+                    "powerRpmLow": "3400",
+                    "yearstart": "2006",
+                    "coupe": "Pick-up",
+                    "length": "5145",
+                    "width": "1725",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12425",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Antelope",
+                    "generation": "Antelope",
+                    "engine": "3.2d 4WD (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/3400",
+                    "powerHp": "102",
+                    "powerRpm": "3400",
+                    "powerRpmLow": "3400",
+                    "yearstart": "2006",
+                    "coupe": "Pick-up",
+                    "length": "5145",
+                    "width": "1725",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 09:33:05",
+        "name": "Landscape",
+        "id": "1339",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Landscape F1",
+              "modelYear": "2008",
+              "id": "2693",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12426",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Landscape",
+                    "generation": "Landscape F1",
+                    "engine": "2.4i 2WD (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2007",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1850",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  },
+                  {
+                    "id": "12427",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "HuangHai",
+                    "model": "Landscape",
+                    "generation": "Landscape F1",
+                    "engine": "2.4i 4WD (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2007",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1850",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

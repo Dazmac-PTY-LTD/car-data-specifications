@@ -1,0 +1,79 @@
+{
+  "update": "2019-05-22 15:10:22",
+  "name": "VUHL",
+  "id": "216",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-19 11:29:02",
+        "name": "05",
+        "id": "2323",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "05",
+              "modelYear": "2013",
+              "id": "5964",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32082",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "VUHL",
+                    "model": "05",
+                    "generation": "05",
+                    "engine": "2.0 (289 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "289",
+                    "powerHp": "289",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3718",
+                    "width": "1876",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "725",
+                    "curbWeightMin": "725"
+                  },
+                  {
+                    "id": "32083",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "VUHL",
+                    "model": "05",
+                    "generation": "05",
+                    "engine": "RR 2.3 (385 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "385",
+                    "powerHp": "385",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3718",
+                    "width": "1876",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "675",
+                    "curbWeightMin": "675"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

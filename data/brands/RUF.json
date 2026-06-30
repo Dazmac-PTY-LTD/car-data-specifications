@@ -1,0 +1,275 @@
+{
+  "update": "2020-11-19 10:48:57",
+  "name": "RUF",
+  "id": "209",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-19 10:48:57",
+        "name": "CTR",
+        "id": "2311",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CTR 2017",
+              "modelYear": "2018",
+              "id": "6172",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32869",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "CTR",
+                    "generation": "CTR 2017",
+                    "engine": "3.6 (710 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "710/6750",
+                    "powerHp": "710",
+                    "powerRpm": "6750",
+                    "powerRpmLow": "6750",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4210",
+                    "width": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CTR 3",
+              "modelYear": "2007",
+              "id": "5943",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31957",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "CTR",
+                    "generation": "CTR 3",
+                    "engine": "3.7 (700 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/7000",
+                    "powerHp": "700",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2007",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4445",
+                    "width": "1944",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "32871",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "CTR",
+                    "generation": "CTR 3",
+                    "engine": "Clubsport 3.8 (777 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "777/7100",
+                    "powerHp": "777",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "32872",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "CTR",
+                    "generation": "CTR 3",
+                    "engine": "Clubsport 3.8 (777 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "777/7100",
+                    "powerHp": "777",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "CTR",
+              "modelYear": "1987",
+              "id": "6699",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34923",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "CTR",
+                    "generation": "CTR",
+                    "engine": "3.4 Turbo (469 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "469/5950",
+                    "powerHp": "469",
+                    "powerRpm": "5950",
+                    "powerRpmLow": "5950",
+                    "yearstart": "1987",
+                    "yearstop": "1991",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4290",
+                    "width": "1775",
+                    "height": "1311",
+                    "heightMin": "1311",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 10:27:19",
+        "name": "SCR",
+        "id": "2379",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SCR",
+              "modelYear": "2018",
+              "id": "6164",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32841",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "SCR",
+                    "generation": "SCR",
+                    "engine": "4.0 (510 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "510/8270",
+                    "powerHp": "510",
+                    "powerRpm": "8270",
+                    "powerRpmLow": "8270",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4207",
+                    "width": "1819",
+                    "height": "1265",
+                    "heightMin": "1265",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 10:40:45",
+        "name": "RtR",
+        "id": "2384",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "RtR",
+              "modelYear": "2013",
+              "id": "6174",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32873",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "RtR",
+                    "generation": "RtR",
+                    "engine": "3.8 (802 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "802/7300",
+                    "powerHp": "802",
+                    "powerRpm": "7300",
+                    "powerRpmLow": "7300",
+                    "yearstart": "2013",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4491",
+                    "width": "2012",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  },
+                  {
+                    "id": "32874",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "RUF",
+                    "model": "RtR",
+                    "generation": "RtR",
+                    "engine": "3.8 (802 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "802/7300",
+                    "powerHp": "802",
+                    "powerRpm": "7300",
+                    "powerRpmLow": "7300",
+                    "yearstart": "2013",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4491",
+                    "width": "2012",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "update": "2019-08-26 09:51:23",
+  "name": "FSO",
+  "id": "77",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 14:44:11",
+        "name": "125p",
+        "id": "864",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:50:00",
+              "name": "125p",
+              "modelYear": "1967",
+              "id": "1820",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8267",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "125p",
+                    "generation": "125p",
+                    "engine": "1.3 (64 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "64",
+                    "powerHp": "64",
+                    "yearstart": "1967",
+                    "yearstop": "1992",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8268",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "125p",
+                    "generation": "125p",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1967",
+                    "yearstop": "1992",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:48:56",
+              "name": "125p Kombi",
+              "modelYear": "1967",
+              "id": "1821",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8269",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "125p",
+                    "generation": "125p Kombi",
+                    "engine": "1.3 (64 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "64",
+                    "powerHp": "64",
+                    "yearstart": "1967",
+                    "yearstop": "1992",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8270",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "125p",
+                    "generation": "125p Kombi",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1967",
+                    "yearstop": "1992",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 14:45:03",
+        "name": "126p",
+        "id": "865",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:50:43",
+              "name": "126p",
+              "modelYear": "1972",
+              "id": "1822",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8271",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "126p",
+                    "generation": "126p",
+                    "engine": "0.6 (23 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "23",
+                    "powerHp": "23",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8272",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "126p",
+                    "generation": "126p",
+                    "engine": "0.6 (30 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "30",
+                    "powerHp": "30",
+                    "yearstart": "1977",
+                    "yearstop": "1991",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 14:57:51",
+        "name": "127p",
+        "id": "866",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:55:39",
+              "name": "127p",
+              "modelYear": "1971",
+              "id": "1823",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8273",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "127p",
+                    "generation": "127p",
+                    "engine": "0.9 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1969",
+                    "yearstop": "1976",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 14:58:08",
+        "name": "132p",
+        "id": "867",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:56:11",
+              "name": "132p",
+              "modelYear": "1974",
+              "id": "1824",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8274",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "132p",
+                    "generation": "132p",
+                    "engine": "1.6 (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "1974",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8275",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "132p",
+                    "generation": "132p",
+                    "engine": "1.8 (107 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "107",
+                    "powerHp": "107",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-26 09:51:23",
+        "name": "Polonez",
+        "id": "868",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Polonez III",
+              "modelYear": "1992",
+              "id": "1825",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8276",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez III",
+                    "engine": "1.4 i 16V MPi (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6000",
+                    "powerHp": "103",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1992",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1650",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "8277",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez III",
+                    "engine": "1.5 GL (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/5200",
+                    "powerHp": "82",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1992",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1650",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "8278",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez III",
+                    "engine": "1.6 GL (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5200",
+                    "powerHp": "87",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1992",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8279",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez III",
+                    "engine": "1.6 i GLi (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/5200",
+                    "powerHp": "81",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1992",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1650",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "8280",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez III",
+                    "engine": "1.9 D (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/4600",
+                    "powerHp": "70",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "1992",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1650",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Diesel",
+                    "curbWeight": "1135",
+                    "curbWeightMin": "1135"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:58:01",
+              "name": "Polonez II",
+              "modelYear": "1989",
+              "id": "1826",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8281",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez II",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8282",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez II",
+                    "engine": "1.5 i (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8283",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez II",
+                    "engine": "1.6 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87",
+                    "powerHp": "87",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8284",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez II",
+                    "engine": "1.9 D (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Hatchback",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-11 12:58:01",
+              "name": "Polonez I",
+              "modelYear": "1978",
+              "id": "1827",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8285",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez I",
+                    "engine": "1.3 (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65",
+                    "powerHp": "65",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8286",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez I",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1977",
+                    "yearstop": "1988",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8287",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez I",
+                    "engine": "1.5 (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1978",
+                    "yearstop": "1988",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8288",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez I",
+                    "engine": "1.5 Turbo (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1978",
+                    "yearstop": "1991",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8289",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Polonez",
+                    "generation": "Polonez I",
+                    "engine": "1.6 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87",
+                    "powerHp": "87",
+                    "yearstart": "1986",
+                    "yearstop": "1988",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-03-01 10:06:58",
+        "name": "Warszawa",
+        "id": "2876",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-10-04 08:22:30",
+              "name": "Warszawa 223 Combi",
+              "modelYear": "1965",
+              "id": "8456",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-10-04 08:22:30",
+              "name": "Warszawa 223",
+              "modelYear": "1964",
+              "id": "8168",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42725",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FSO",
+                    "model": "Warszawa",
+                    "generation": "Warszawa 223",
+                    "engine": "2.1 (77 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "77/4000",
+                    "powerHp": "77",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1967",
+                    "yearstop": "1973",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1695",
+                    "height": "1565",
+                    "heightMin": "1565",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1375",
+                    "curbWeightMin": "1375"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-10-04 08:22:30",
+              "name": "Warszawa 201",
+              "modelYear": "1960",
+              "id": "9040",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

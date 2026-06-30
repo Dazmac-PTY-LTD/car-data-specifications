@@ -1,0 +1,56 @@
+{
+  "update": "2021-11-04 16:01:50",
+  "name": "Austin-Healey",
+  "id": "306",
+  "models": {
+    "model": [
+      {
+        "update": "2021-11-04 16:24:15",
+        "name": "100",
+        "id": "3030",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-04 16:34:17",
+              "name": "100/4 (BN1)",
+              "modelYear": "1953",
+              "id": "8678",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44969",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin-Healey",
+                    "model": "100",
+                    "generation": "100/4 (BN1)",
+                    "engine": "2.7 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1953",
+                    "yearstop": "1955",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3850",
+                    "width": "1540",
+                    "height": "1240",
+                    "heightMin": "1240",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "987",
+                    "curbWeightMin": "987"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "update": "2020-01-13 20:07:00",
+  "name": "Drako",
+  "id": "291",
+  "models": {
+    "model": [
+      {
+        "update": "2020-01-13 20:07:00",
+        "name": "GTE",
+        "id": "2774",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GTE",
+              "modelYear": "2019",
+              "id": "7511",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38526",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Drako",
+                    "model": "GTE",
+                    "generation": "GTE",
+                    "engine": "90 kWh (1200 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

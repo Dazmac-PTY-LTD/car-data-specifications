@@ -1,0 +1,561 @@
+{
+  "update": "2025-07-16 13:21:48",
+  "name": "Li",
+  "id": "363",
+  "models": {
+    "model": [
+      {
+        "update": "2025-07-18 09:32:36",
+        "name": "L6",
+        "id": "3742",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-18 09:33:05",
+              "name": "L6",
+              "modelYear": "2024",
+              "id": "10681",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54900",
+                    "update": "2025-07-18 16:18:41",
+                    "brand": "Li",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "1.5T 36.8 kWh (408 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4925",
+                    "width": "1960",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2330-2345",
+                    "curbWeightMin": "2330",
+                    "curbWeightMax": "2345"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-18 11:20:12",
+        "name": "L8",
+        "id": "3744",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-18 11:21:34",
+              "name": "L8",
+              "modelYear": "2023",
+              "id": "10683",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54901",
+                    "update": "2026-06-24 12:17:21",
+                    "brand": "Li",
+                    "model": "L8",
+                    "generation": "L8",
+                    "engine": "1.5T 42.8 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "yearstop": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5080",
+                    "width": "1995",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2490",
+                    "curbWeightMin": "2490"
+                  },
+                  {
+                    "id": "54902",
+                    "update": "2026-06-24 12:17:19",
+                    "brand": "Li",
+                    "model": "L8",
+                    "generation": "L8",
+                    "engine": "1.5T 52.3 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "yearstop": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5080",
+                    "width": "1995",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  },
+                  {
+                    "id": "54904",
+                    "update": "2025-07-18 16:18:41",
+                    "brand": "Li",
+                    "model": "L8",
+                    "generation": "L8",
+                    "engine": "1.5T 40.9 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5080",
+                    "width": "1995",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2470-2480",
+                    "curbWeightMin": "2470",
+                    "curbWeightMax": "2480"
+                  },
+                  {
+                    "id": "57350",
+                    "update": "2026-06-24 12:19:19",
+                    "brand": "Li",
+                    "model": "L8",
+                    "generation": "L8",
+                    "engine": "1.5T 72.7 kWh (571 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/4800",
+                    "powerHp": "156",
+                    "powerRpm": "4800",
+                    "powerRpmLow": "4800",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5135",
+                    "width": "2000",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2740-2805",
+                    "curbWeightMin": "2740",
+                    "curbWeightMax": "2805"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-18 15:10:42",
+        "name": "L9",
+        "id": "3745",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-18 15:11:23",
+              "name": "L9",
+              "modelYear": "2022",
+              "id": "10684",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54912",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "L9",
+                    "generation": "L9",
+                    "engine": "1.5T 52.3 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5218",
+                    "width": "1998",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2570",
+                    "curbWeightMin": "2570"
+                  },
+                  {
+                    "id": "54913",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "L9",
+                    "generation": "L9",
+                    "engine": "1.5T 42.6 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5218",
+                    "width": "1998",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2520",
+                    "curbWeightMin": "2520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-18 15:22:48",
+        "name": "L7",
+        "id": "3746",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-18 15:23:23",
+              "name": "L7 (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10686",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54914",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "L7",
+                    "generation": "L7 (facelift 2024)",
+                    "engine": "1.5T 42.8 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1995",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2460",
+                    "curbWeightMin": "2460"
+                  },
+                  {
+                    "id": "54915",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "L7",
+                    "generation": "L7 (facelift 2024)",
+                    "engine": "1.5T 52.3 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1995",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2500",
+                    "curbWeightMin": "2500"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-18 15:23:03",
+              "name": "L7",
+              "modelYear": "2023",
+              "id": "10685",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54916",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "1.5T 40.9 kWh (449 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1995",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2450-2460",
+                    "curbWeightMin": "2450",
+                    "curbWeightMax": "2460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-21 14:27:45",
+        "name": "MEGA",
+        "id": "3747",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-21 14:28:03",
+              "name": "MEGA",
+              "modelYear": "2024",
+              "id": "10687",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54917",
+                    "update": "2025-07-21 16:11:53",
+                    "brand": "Li",
+                    "model": "MEGA",
+                    "generation": "MEGA",
+                    "engine": "102.7 kWh (544 Hp) Dual Motor 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5350",
+                    "width": "1965",
+                    "height": "1850",
+                    "heightMin": "1850",
+                    "fuel": "Electricity",
+                    "curbWeight": "2785",
+                    "curbWeightMin": "2785"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-22 10:05:16",
+        "name": "ONE",
+        "id": "3750",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-22 13:33:52",
+              "name": "ONE (facelift 2021)",
+              "modelYear": "2021",
+              "id": "10695",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54931",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Li",
+                    "model": "ONE",
+                    "generation": "ONE (facelift 2021)",
+                    "engine": "1.2T 40.5 kWh (333 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "131/5500",
+                    "powerHp": "131",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5030",
+                    "width": "1960",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-22 10:05:30",
+              "name": "ONE",
+              "modelYear": "2020",
+              "id": "10690",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54930",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Li",
+                    "model": "ONE",
+                    "generation": "ONE",
+                    "engine": "1.2T 40.5 kWh (326 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "131/5500",
+                    "powerHp": "131",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5020",
+                    "width": "1960",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-09 12:50:27",
+        "name": "i8",
+        "id": "3799",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-09 12:51:36",
+              "name": "i8",
+              "modelYear": "2025",
+              "id": "10798",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55306",
+                    "update": "2025-09-09 16:08:58",
+                    "brand": "Li",
+                    "model": "i8",
+                    "generation": "i8",
+                    "engine": "97.8 kWh (544 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "MPV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5085",
+                    "width": "1960",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Electricity",
+                    "curbWeight": "2610",
+                    "curbWeightMin": "2610"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-26 16:06:50",
+        "name": "i6",
+        "id": "3830",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-26 16:07:12",
+              "name": "i6",
+              "modelYear": "2025",
+              "id": "10843",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55452",
+                    "update": "2025-09-29 16:13:22",
+                    "brand": "Li",
+                    "model": "i6",
+                    "generation": "i6",
+                    "engine": "87.3 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4950",
+                    "width": "1935",
+                    "height": "1655-1670",
+                    "heightMin": "1655",
+                    "heightMax": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "2380",
+                    "curbWeightMin": "2380"
+                  },
+                  {
+                    "id": "55453",
+                    "update": "2025-09-29 16:13:22",
+                    "brand": "Li",
+                    "model": "i6",
+                    "generation": "i6",
+                    "engine": "87.3 kWh (544 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4950",
+                    "width": "1935",
+                    "height": "1655-1670",
+                    "heightMin": "1655",
+                    "heightMax": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "2515",
+                    "curbWeightMin": "2515"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

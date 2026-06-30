@@ -1,0 +1,827 @@
+{
+  "update": "2025-11-11 08:14:35",
+  "name": "Kaiyi",
+  "id": "380",
+  "models": {
+    "model": [
+      {
+        "update": "2025-11-11 09:33:24",
+        "name": "Shiyue",
+        "id": "3873",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-11 09:36:01",
+              "name": "Shiyue Mate",
+              "modelYear": "2024",
+              "id": "10927",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55757",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue Mate",
+                    "engine": "17.69 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3720",
+                    "width": "1700",
+                    "height": "1602",
+                    "heightMin": "1602",
+                    "fuel": "Electricity",
+                    "curbWeight": "1025",
+                    "curbWeightMin": "1025"
+                  },
+                  {
+                    "id": "55758",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue Mate",
+                    "engine": "28.5 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3720",
+                    "width": "1700",
+                    "height": "1608",
+                    "heightMin": "1608",
+                    "fuel": "Electricity",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "55759",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue Mate",
+                    "engine": "39.33 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3720",
+                    "width": "1700",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "fuel": "Electricity",
+                    "curbWeight": "1212",
+                    "curbWeightMin": "1212"
+                  },
+                  {
+                    "id": "55760",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue Mate",
+                    "engine": "28.08 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3720",
+                    "width": "1700",
+                    "height": "1608",
+                    "heightMin": "1608",
+                    "fuel": "Electricity",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "55761",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue Mate",
+                    "engine": "39.82 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3720",
+                    "width": "1700",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "fuel": "Electricity",
+                    "curbWeight": "1212",
+                    "curbWeightMin": "1212"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-11-11 09:35:50",
+              "name": "Shiyue",
+              "modelYear": "2024",
+              "id": "10926",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55755",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue",
+                    "engine": "17.69 kWh (48 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3360",
+                    "width": "1700",
+                    "height": "1600-1605",
+                    "heightMin": "1600",
+                    "heightMax": "1605",
+                    "rideHeight": "138",
+                    "rideHeightMin": "138",
+                    "fuel": "Electricity",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  },
+                  {
+                    "id": "55756",
+                    "update": "2025-11-11 16:24:01",
+                    "brand": "Kaiyi",
+                    "model": "Shiyue",
+                    "generation": "Shiyue",
+                    "engine": "28.08 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3360",
+                    "width": "1700",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-13 11:10:08",
+        "name": "Kunlun",
+        "id": "3877",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-13 11:10:45",
+              "name": "Kunlun",
+              "modelYear": "2023",
+              "id": "10932",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55769",
+                    "update": "2025-11-13 16:16:05",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "1.6T (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4738",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55770",
+                    "update": "2025-11-13 16:16:05",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "2.0T (254 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "254/5500",
+                    "powerHp": "254",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4738",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55771",
+                    "update": "2025-11-13 16:16:08",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "1.5T (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4738",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55772",
+                    "update": "2025-11-13 16:16:10",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "iHD 1.5T 12.9 kWh (343 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139/5200",
+                    "powerHp": "139",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4736",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55773",
+                    "update": "2025-11-13 16:16:10",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "iHD 1.5T 22.48 kWh (343 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139/5200",
+                    "powerHp": "139",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4736",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55774",
+                    "update": "2025-11-13 16:16:10",
+                    "brand": "Kaiyi",
+                    "model": "Kunlun",
+                    "generation": "Kunlun",
+                    "engine": "iHD 1.5T 27.2 kWh (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4736",
+                    "width": "1968",
+                    "height": "1708",
+                    "heightMin": "1708",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-14 09:45:09",
+        "name": "X7",
+        "id": "3878",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-14 09:45:26",
+              "name": "X7",
+              "modelYear": "2024",
+              "id": "10933",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55775",
+                    "update": "2025-11-14 16:16:06",
+                    "brand": "Kaiyi",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.6T (186 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1964",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1675",
+                    "curbWeightMin": "1675"
+                  },
+                  {
+                    "id": "55776",
+                    "update": "2025-11-14 16:16:06",
+                    "brand": "Kaiyi",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "2.0T (238 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238/5500",
+                    "powerHp": "238",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1964",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-02 11:53:44",
+        "name": "Showjet",
+        "id": "3890",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-02 11:53:59",
+              "name": "Showjet",
+              "modelYear": "2020",
+              "id": "10960",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55902",
+                    "update": "2025-12-02 16:16:27",
+                    "brand": "Kaiyi",
+                    "model": "Showjet",
+                    "generation": "Showjet",
+                    "engine": "1.5L (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "rideHeight": "158",
+                    "rideHeightMin": "158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1321",
+                    "curbWeightMin": "1321"
+                  },
+                  {
+                    "id": "55903",
+                    "update": "2025-12-02 16:16:27",
+                    "brand": "Kaiyi",
+                    "model": "Showjet",
+                    "generation": "Showjet",
+                    "engine": "1.5L (116 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "rideHeight": "158",
+                    "rideHeightMin": "158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1346",
+                    "curbWeightMin": "1346"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-02 15:14:36",
+        "name": "X3",
+        "id": "3891",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-03 10:15:39",
+              "name": "X3 Pro",
+              "modelYear": "2022",
+              "id": "10962",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55911",
+                    "update": "2025-12-03 14:14:04",
+                    "brand": "Kaiyi",
+                    "model": "X3",
+                    "generation": "X3 Pro",
+                    "engine": "1.5T (147 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1377-1453",
+                    "curbWeightMin": "1377",
+                    "curbWeightMax": "1453"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-12-02 15:14:57",
+              "name": "X3",
+              "modelYear": "2020",
+              "id": "10961",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55900",
+                    "update": "2025-12-02 16:16:24",
+                    "brand": "Kaiyi",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1377",
+                    "curbWeightMin": "1377"
+                  },
+                  {
+                    "id": "55901",
+                    "update": "2025-12-02 16:16:24",
+                    "brand": "Kaiyi",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (113 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653-1665",
+                    "heightMin": "1653",
+                    "heightMax": "1665",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1453",
+                    "curbWeightMin": "1453"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-03 11:27:42",
+        "name": "Xuandu",
+        "id": "3892",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-03 11:27:59",
+              "name": "Xuandu",
+              "modelYear": "2021",
+              "id": "10963",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55912",
+                    "update": "2025-12-03 14:14:05",
+                    "brand": "Kaiyi",
+                    "model": "Xuandu",
+                    "generation": "Xuandu",
+                    "engine": "1.5T (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4666",
+                    "width": "1825",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1366",
+                    "curbWeightMin": "1366"
+                  },
+                  {
+                    "id": "55913",
+                    "update": "2025-12-03 14:14:05",
+                    "brand": "Kaiyi",
+                    "model": "Xuandu",
+                    "generation": "Xuandu",
+                    "engine": "1.5T (156 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4666",
+                    "width": "1825",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1409",
+                    "curbWeightMin": "1409"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-03 12:09:10",
+        "name": "E5",
+        "id": "3893",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-03 12:09:27",
+              "name": "E5",
+              "modelYear": "2021",
+              "id": "10964",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55914",
+                    "update": "2025-12-03 14:14:05",
+                    "brand": "Kaiyi",
+                    "model": "E5",
+                    "generation": "E5",
+                    "engine": "1.5T (147 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1825",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1484",
+                    "curbWeightMin": "1484"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-04 10:19:52",
+        "name": "e-Qute",
+        "id": "3894",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-04 10:21:16",
+              "name": "e-Qute 04",
+              "modelYear": "2024",
+              "id": "10967",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55924",
+                    "update": "2025-12-04 16:16:12",
+                    "brand": "Kaiyi",
+                    "model": "e-Qute",
+                    "generation": "e-Qute 04",
+                    "engine": "28.08 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3695",
+                    "width": "1685",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "rideHeight": "137",
+                    "rideHeightMin": "137",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55925",
+                    "update": "2025-12-04 16:16:12",
+                    "brand": "Kaiyi",
+                    "model": "e-Qute",
+                    "generation": "e-Qute 04",
+                    "engine": "39.82 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3695",
+                    "width": "1685",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "rideHeight": "137",
+                    "rideHeightMin": "137",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-12-04 10:21:12",
+              "name": "e-Qute 02",
+              "modelYear": "2023",
+              "id": "10966",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55922",
+                    "update": "2025-12-04 16:16:12",
+                    "brand": "Kaiyi",
+                    "model": "e-Qute",
+                    "generation": "e-Qute 02",
+                    "engine": "17.28 kWh (48 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3360",
+                    "width": "1700",
+                    "height": "1605",
+                    "heightMin": "1605",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55923",
+                    "update": "2025-12-04 16:16:12",
+                    "brand": "Kaiyi",
+                    "model": "e-Qute",
+                    "generation": "e-Qute 02",
+                    "engine": "28.08 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3360",
+                    "width": "1700",
+                    "height": "1605",
+                    "heightMin": "1605",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

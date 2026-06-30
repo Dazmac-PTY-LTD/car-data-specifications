@@ -1,0 +1,47 @@
+{
+  "update": "2020-02-17 13:25:39",
+  "name": "Czinger",
+  "id": "292",
+  "models": {
+    "model": [
+      {
+        "update": "2020-02-17 13:25:39",
+        "name": "21C",
+        "id": "2780",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 11:46:31",
+              "name": "21C",
+              "modelYear": "2020",
+              "id": "7559",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43539",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Czinger",
+                    "model": "21C",
+                    "generation": "21C",
+                    "engine": "2.9 V8 (1250 Hp) Hybrid AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "950",
+                    "powerHp": "950",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

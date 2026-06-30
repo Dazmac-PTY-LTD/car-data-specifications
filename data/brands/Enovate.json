@@ -1,0 +1,114 @@
+{
+  "update": "2026-05-21 11:05:29",
+  "name": "Enovate",
+  "id": "395",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-22 13:19:55",
+        "name": "ME5",
+        "id": "4019",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-22 13:23:33",
+              "name": "ME5",
+              "modelYear": "2021",
+              "id": "11261",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57072",
+                    "update": "2026-05-22 16:13:05",
+                    "brand": "Enovate",
+                    "model": "ME5",
+                    "generation": "ME5",
+                    "engine": "1.5 (204 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1915",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-22 15:29:34",
+        "name": "ME7",
+        "id": "4021",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-22 15:39:02",
+              "name": "ME7",
+              "modelYear": "2021",
+              "id": "11263",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57074",
+                    "update": "2026-05-22 16:13:05",
+                    "brand": "Enovate",
+                    "model": "ME7",
+                    "generation": "ME7",
+                    "engine": "54 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1970",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Electricity",
+                    "curbWeight": "1968",
+                    "curbWeightMin": "1968"
+                  },
+                  {
+                    "id": "57081",
+                    "update": "2026-05-26 10:35:12",
+                    "brand": "Enovate",
+                    "model": "ME7",
+                    "generation": "ME7",
+                    "engine": "72 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1970",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Electricity",
+                    "curbWeight": "1998",
+                    "curbWeightMin": "1998"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

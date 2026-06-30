@@ -1,0 +1,284 @@
+{
+  "update": "2023-10-19 11:22:18",
+  "name": "Weltmeister",
+  "id": "334",
+  "models": {
+    "model": [
+      {
+        "update": "2023-10-19 12:02:34",
+        "name": "W6",
+        "id": "3335",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-19 12:03:01",
+              "name": "W6",
+              "modelYear": "2021",
+              "id": "9700",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50151",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Weltmeister",
+                    "model": "W6",
+                    "generation": "W6",
+                    "engine": "66.22 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1847",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50152",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Weltmeister",
+                    "model": "W6",
+                    "generation": "W6",
+                    "engine": "79 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1847",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-19 13:57:20",
+        "name": "EX6",
+        "id": "3336",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-19 13:58:46",
+              "name": "EX6",
+              "modelYear": "2019",
+              "id": "9701",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50153",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Weltmeister",
+                    "model": "EX6",
+                    "generation": "EX6",
+                    "engine": "69 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4802",
+                    "width": "1839",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "143",
+                    "rideHeightMin": "143",
+                    "fuel": "Electricity",
+                    "curbWeight": "1909",
+                    "curbWeightMin": "1909"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-19 15:42:42",
+        "name": "EX5",
+        "id": "3337",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-19 15:43:13",
+              "name": "EX5",
+              "modelYear": "2018",
+              "id": "9702",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50155",
+                    "update": "2023-10-20 16:26:35",
+                    "brand": "Weltmeister",
+                    "model": "EX5",
+                    "generation": "EX5",
+                    "engine": "52.7 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4585",
+                    "width": "1835",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "fuel": "Electricity",
+                    "curbWeight": "1761",
+                    "curbWeightMin": "1761"
+                  },
+                  {
+                    "id": "50156",
+                    "update": "2023-10-20 16:26:35",
+                    "brand": "Weltmeister",
+                    "model": "EX5",
+                    "generation": "EX5",
+                    "engine": "57.1 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4585",
+                    "width": "1835",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  },
+                  {
+                    "id": "50157",
+                    "update": "2023-10-20 16:26:35",
+                    "brand": "Weltmeister",
+                    "model": "EX5",
+                    "generation": "EX5",
+                    "engine": "69 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4585",
+                    "width": "1835",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-20 11:17:11",
+        "name": "E5",
+        "id": "3338",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-20 11:17:46",
+              "name": "E5",
+              "modelYear": "2021",
+              "id": "9703",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50158",
+                    "update": "2023-10-20 16:26:35",
+                    "brand": "Weltmeister",
+                    "model": "E5",
+                    "generation": "E5",
+                    "engine": "58.6 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4718",
+                    "width": "1838",
+                    "height": "1535",
+                    "heightMin": "1535",
+                    "rideHeight": "116",
+                    "rideHeightMin": "116",
+                    "fuel": "Electricity",
+                    "curbWeight": "1649",
+                    "curbWeightMin": "1649"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-10-20 13:42:44",
+        "name": "W5",
+        "id": "3339",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-20 13:43:10",
+              "name": "W5",
+              "modelYear": "2022",
+              "id": "9704",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50154",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Weltmeister",
+                    "model": "W5",
+                    "generation": "W5",
+                    "engine": "52 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4585",
+                    "width": "1835",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

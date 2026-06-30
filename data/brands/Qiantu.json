@@ -1,0 +1,51 @@
+{
+  "update": "2019-09-26 14:53:43",
+  "name": "Qiantu",
+  "id": "284",
+  "models": {
+    "model": [
+      {
+        "update": "2019-10-03 19:39:57",
+        "name": "K50",
+        "id": "2725",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "K50",
+              "modelYear": "2017",
+              "id": "7301",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37729",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Qiantu",
+                    "model": "K50",
+                    "generation": "K50",
+                    "engine": "78.84 kWh (430 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4634",
+                    "width": "2069",
+                    "height": "1253",
+                    "heightMin": "1253",
+                    "rideHeight": "103",
+                    "rideHeightMin": "103",
+                    "fuel": "Electricity",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

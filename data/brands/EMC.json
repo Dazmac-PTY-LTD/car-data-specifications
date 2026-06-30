@@ -1,0 +1,219 @@
+{
+  "update": "2025-11-17 11:58:47",
+  "name": "EMC",
+  "id": "383",
+  "models": {
+    "model": [
+      {
+        "update": "2025-11-17 12:14:39",
+        "name": "6 SEI",
+        "id": "3881",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-17 12:14:52",
+              "name": "6 SEI",
+              "modelYear": "2025",
+              "id": "10938",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55782",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "EMC",
+                    "model": "6 SEI",
+                    "generation": "6 SEI",
+                    "engine": "1.5T (147 Hp) LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1831",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "182",
+                    "rideHeightMin": "182",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1453",
+                    "curbWeightMin": "1453"
+                  },
+                  {
+                    "id": "55783",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "EMC",
+                    "model": "6 SEI",
+                    "generation": "6 SEI",
+                    "engine": "1.5 (113 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1831",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "182",
+                    "rideHeightMin": "182",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1396",
+                    "curbWeightMin": "1396"
+                  },
+                  {
+                    "id": "55784",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "EMC",
+                    "model": "6 SEI",
+                    "generation": "6 SEI",
+                    "engine": "1.5 (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1831",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "182",
+                    "rideHeightMin": "182",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1396",
+                    "curbWeightMin": "1396"
+                  },
+                  {
+                    "id": "55786",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "EMC",
+                    "model": "6 SEI",
+                    "generation": "6 SEI",
+                    "engine": "1.5T (147 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1831",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "182",
+                    "rideHeightMin": "182",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1453",
+                    "curbWeightMin": "1453"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-18 12:28:55",
+        "name": "212",
+        "id": "3883",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-18 12:29:23",
+              "name": "212",
+              "modelYear": "2026",
+              "id": "10940",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55799",
+                    "update": "2025-11-18 16:10:39",
+                    "brand": "EMC",
+                    "model": "212",
+                    "generation": "212",
+                    "engine": "2.0 TGDI (217 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "217/5500",
+                    "powerHp": "217",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1895",
+                    "height": "1936",
+                    "heightMin": "1936",
+                    "rideHeight": "235",
+                    "rideHeightMin": "235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2225",
+                    "curbWeightMin": "2225"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-18 12:42:30",
+        "name": "Yudo",
+        "id": "3884",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-18 13:09:30",
+              "name": "Yudo",
+              "modelYear": "2024",
+              "id": "10941",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55800",
+                    "update": "2025-11-18 16:10:39",
+                    "brand": "EMC",
+                    "model": "Yudo",
+                    "generation": "Yudo",
+                    "engine": "41.7 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4035",
+                    "width": "1736",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": "1375",
+                    "curbWeightMin": "1375"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

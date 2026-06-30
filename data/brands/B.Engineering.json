@@ -1,0 +1,54 @@
+{
+  "update": "2019-06-25 09:09:27",
+  "name": "B.Engineering",
+  "id": "283",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 15:47:47",
+        "name": "Edonis",
+        "id": "2709",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Edonis",
+              "modelYear": "2001",
+              "id": "7188",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37356",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "B.Engineering",
+                    "model": "Edonis",
+                    "generation": "Edonis",
+                    "engine": "3.8 V12 (690 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "690/8000",
+                    "powerHp": "690",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4350",
+                    "width": "1998",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

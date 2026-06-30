@@ -1,0 +1,220 @@
+{
+  "update": "2019-08-08 13:35:21",
+  "name": "Spyker",
+  "id": "179",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-08 13:35:21",
+        "name": "C8",
+        "id": "1787",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C8 Preliator Spyder",
+              "modelYear": "2017",
+              "id": "5924",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31996",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Preliator Spyder",
+                    "engine": "5.0 V8 32V (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7100",
+                    "powerHp": "600",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2017",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4628",
+                    "width": "1953",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C8 Preliator",
+              "modelYear": "2016",
+              "id": "5925",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31691",
+                    "update": "2022-06-13 16:33:24",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Preliator",
+                    "engine": "4.2 V8 40V (525 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "525/6800",
+                    "powerHp": "525",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4628",
+                    "width": "1953",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "31692",
+                    "update": "2022-06-13 16:32:36",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Preliator",
+                    "engine": "4.2 V8 40V (525 Hp) Tiptronic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "525/6800",
+                    "powerHp": "525",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4628",
+                    "width": "1953",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C8 Aileron",
+              "modelYear": "2009",
+              "id": "5926",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31869",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Aileron",
+                    "engine": "4.2 V8 (400 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/7000",
+                    "powerHp": "400",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2009",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4618",
+                    "width": "1953",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C8 Laviolette",
+              "modelYear": "2001",
+              "id": "3523",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15873",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Laviolette",
+                    "engine": "4.2i V8 40V (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/6800",
+                    "powerHp": "400",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2001",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4185",
+                    "width": "1880",
+                    "height": "1245",
+                    "heightMin": "1245",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1275",
+                    "curbWeightMin": "1275"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C8 Spyder",
+              "modelYear": "2000",
+              "id": "3524",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15874",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Spyker",
+                    "model": "C8",
+                    "generation": "C8 Spyder",
+                    "engine": "4.2 V8 40V (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/7500",
+                    "powerHp": "400",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2000",
+                    "yearstop": "2009",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4050",
+                    "width": "1880",
+                    "height": "1080",
+                    "heightMin": "1080",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

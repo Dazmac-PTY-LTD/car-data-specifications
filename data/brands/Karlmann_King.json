@@ -1,0 +1,55 @@
+{
+  "update": "2019-05-22 15:10:17",
+  "name": "Karlmann King",
+  "id": "236",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 11:21:58",
+        "name": "Stealth",
+        "id": "2396",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:02:58",
+              "name": "Stealth",
+              "modelYear": "2018",
+              "id": "6192",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32925",
+                    "update": "2023-08-16 09:27:31",
+                    "brand": "Karlmann King",
+                    "model": "Stealth",
+                    "generation": "Stealth",
+                    "engine": "6.8 V10 (367 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "367",
+                    "powerHp": "367",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "4-7",
+                    "placesMin": "4",
+                    "placesMax": "7",
+                    "length": "5990",
+                    "width": "2480",
+                    "height": "2480",
+                    "heightMin": "2480",
+                    "rideHeight": "300",
+                    "rideHeightMin": "300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "4500-6000",
+                    "curbWeightMin": "4500",
+                    "curbWeightMax": "6000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

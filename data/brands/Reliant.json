@@ -1,0 +1,79 @@
+{
+  "update": "2019-08-20 14:57:42",
+  "name": "Reliant",
+  "id": "94",
+  "models": {
+    "model": [
+      {
+        "update": "2019-11-08 11:35:48",
+        "name": "Scimitar Sabre",
+        "id": "995",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Scimitar Sabre",
+              "modelYear": "1992",
+              "id": "2090",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10176",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Reliant",
+                    "model": "Scimitar Sabre",
+                    "generation": "Scimitar Sabre",
+                    "engine": "1.4 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5600",
+                    "powerHp": "75",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1992",
+                    "yearstop": "1995",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3890",
+                    "width": "1580",
+                    "height": "1240",
+                    "heightMin": "1240",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "840",
+                    "curbWeightMin": "840"
+                  },
+                  {
+                    "id": "10177",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Reliant",
+                    "model": "Scimitar Sabre",
+                    "generation": "Scimitar Sabre",
+                    "engine": "1.8 i Turbo (135 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/6000",
+                    "powerHp": "135",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1992",
+                    "yearstop": "1995",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3890",
+                    "width": "1580",
+                    "height": "1240",
+                    "heightMin": "1240",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "840",
+                    "curbWeightMin": "840"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

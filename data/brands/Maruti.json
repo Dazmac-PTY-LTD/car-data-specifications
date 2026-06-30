@@ -1,0 +1,943 @@
+{
+  "update": "2019-08-29 16:32:05",
+  "name": "Maruti",
+  "id": "103",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-03 12:29:05",
+        "name": "1000",
+        "id": "1055",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1000",
+              "modelYear": "1990",
+              "id": "2198",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10818",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "1000",
+                    "generation": "1000",
+                    "engine": "1.0 (46 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "46/5500",
+                    "powerHp": "46",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1990",
+                    "yearstop": "2000",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4075",
+                    "width": "1575",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "825",
+                    "curbWeightMin": "825"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:32:51",
+        "name": "Alto",
+        "id": "1056",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Alto",
+              "modelYear": "1999",
+              "id": "2199",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10819",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Alto",
+                    "generation": "Alto",
+                    "engine": "0.8 i (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/6000",
+                    "powerHp": "45",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2000",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  },
+                  {
+                    "id": "10820",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Alto",
+                    "generation": "Alto",
+                    "engine": "1.1 i 16V VX (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/6000",
+                    "powerHp": "63",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2000",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "750",
+                    "curbWeightMin": "750"
+                  },
+                  {
+                    "id": "10821",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Alto",
+                    "generation": "Alto",
+                    "engine": "1.5 D (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57/5000",
+                    "powerHp": "57",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2002",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Diesel",
+                    "curbWeight": "830",
+                    "curbWeightMin": "830"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:54:07",
+        "name": "Esteem",
+        "id": "1057",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Esteem",
+              "modelYear": "1994",
+              "id": "2200",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10822",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Esteem",
+                    "generation": "Esteem",
+                    "engine": "1.3 (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/6000",
+                    "powerHp": "65",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1995",
+                    "yearstop": "1999",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4075",
+                    "width": "1575",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1260",
+                    "curbWeightMin": "1260"
+                  },
+                  {
+                    "id": "10823",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Esteem",
+                    "generation": "Esteem",
+                    "engine": "1.3 i 16V (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/6000",
+                    "powerHp": "85",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1575",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "870",
+                    "curbWeightMin": "870"
+                  },
+                  {
+                    "id": "10824",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Esteem",
+                    "generation": "Esteem",
+                    "engine": "1.5 D (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57/5000",
+                    "powerHp": "57",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2002",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1575",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Diesel",
+                    "curbWeight": "930",
+                    "curbWeightMin": "930"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 13:40:38",
+        "name": "Omni",
+        "id": "1058",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Omni",
+              "modelYear": "1988",
+              "id": "2201",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10825",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Omni",
+                    "generation": "Omni",
+                    "engine": "0.8 (37 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "37/5500",
+                    "powerHp": "37",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1988",
+                    "yearstop": "1998",
+                    "coupe": "Minivan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3280",
+                    "width": "1395",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "715",
+                    "curbWeightMin": "715"
+                  },
+                  {
+                    "id": "10826",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Omni",
+                    "generation": "Omni",
+                    "engine": "0.8 i (37 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "37/5000",
+                    "powerHp": "37",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Minivan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3370",
+                    "width": "1410",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 13:42:48",
+        "name": "Wagon R",
+        "id": "1059",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Wagon R",
+              "modelYear": "1999",
+              "id": "2202",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10827",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Wagon R",
+                    "generation": "Wagon R",
+                    "engine": "1.1 i 16V (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/6000",
+                    "powerHp": "63",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1999",
+                    "yearstop": "2006",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "825",
+                    "curbWeightMin": "825"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:29:58",
+        "name": "800",
+        "id": "1060",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "800",
+              "modelYear": "1983",
+              "id": "2203",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10828",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "800",
+                    "generation": "800",
+                    "engine": "0,8 (35 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "35/5500",
+                    "powerHp": "35",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1985",
+                    "yearstop": "1997",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10829",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "800",
+                    "generation": "800",
+                    "engine": "0.8 (35 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "35/5500",
+                    "powerHp": "35",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1997",
+                    "yearstop": "2013",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3335",
+                    "width": "1440",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "640",
+                    "curbWeightMin": "640"
+                  },
+                  {
+                    "id": "10830",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "800",
+                    "generation": "800",
+                    "engine": "0.8 i (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/6000",
+                    "powerHp": "45",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2013",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3335",
+                    "width": "1440",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "640",
+                    "curbWeightMin": "640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:50:04",
+        "name": "Baleno",
+        "id": "1061",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Baleno (EG)",
+              "modelYear": "1999",
+              "id": "2204",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10831",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Baleno",
+                    "generation": "Baleno (EG)",
+                    "engine": "1.6 i 16V (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4225",
+                    "width": "1690",
+                    "height": "1390",
+                    "heightMin": "1390",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "975",
+                    "curbWeightMin": "975"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Baleno Altura (EG)",
+              "modelYear": "1999",
+              "id": "2205",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10832",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Baleno",
+                    "generation": "Baleno Altura (EG)",
+                    "engine": "1.6i 16V (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/6000",
+                    "powerHp": "96",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2007",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4375",
+                    "width": "1690",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1030",
+                    "curbWeightMin": "1030"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 13:06:20",
+        "name": "Gypsy",
+        "id": "1062",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:45:40",
+              "name": "Gypsy",
+              "modelYear": "1985",
+              "id": "2206",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10833",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/5500",
+                    "powerHp": "45",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1987",
+                    "yearstop": "1998",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "730",
+                    "curbWeightMin": "730"
+                  },
+                  {
+                    "id": "10834",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy",
+                    "engine": "1.3 Gypsy King (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5500",
+                    "powerHp": "60",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4100",
+                    "width": "1540",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  },
+                  {
+                    "id": "10835",
+                    "update": "2023-08-22 13:29:18",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy",
+                    "engine": "1.3 i 16V Gypsy King (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/6000",
+                    "powerHp": "80",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2000",
+                    "yearstop": "2019",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4100",
+                    "width": "1540",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1020",
+                    "curbWeightMin": "1020"
+                  },
+                  {
+                    "id": "10836",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy",
+                    "engine": "1.3 i Gypsy King (66 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "66/6000",
+                    "powerHp": "66",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1996",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4100",
+                    "width": "1540",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:45:40",
+              "name": "Gypsy Cabrio",
+              "modelYear": "1996",
+              "id": "2207",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10837",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy Cabrio",
+                    "engine": "1.3 Gypsy King ST (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5500",
+                    "powerHp": "60",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4010",
+                    "width": "1540",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1495",
+                    "curbWeightMin": "1495"
+                  },
+                  {
+                    "id": "10838",
+                    "update": "2023-08-22 13:29:18",
+                    "brand": "Maruti",
+                    "model": "Gypsy",
+                    "generation": "Gypsy Cabrio",
+                    "engine": "1.3 i 16V Gypsy King (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/6000",
+                    "powerHp": "80",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2000",
+                    "yearstop": "2019",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4010",
+                    "width": "1540",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1010",
+                    "curbWeightMin": "1010"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 13:42:02",
+        "name": "Versa",
+        "id": "1063",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Versa",
+              "modelYear": "2001",
+              "id": "2208",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10839",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Versa",
+                    "generation": "Versa",
+                    "engine": "1.3 i 16V DX (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/6000",
+                    "powerHp": "82",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2002",
+                    "yearstop": "2009",
+                    "coupe": "Minivan",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "3675",
+                    "width": "1475",
+                    "height": "1905",
+                    "heightMin": "1905",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "975",
+                    "curbWeightMin": "975"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 16:32:05",
+        "name": "Zen",
+        "id": "1064",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "ZEN (EF)",
+              "modelYear": "1993",
+              "id": "2209",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10840",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Zen",
+                    "generation": "ZEN (EF)",
+                    "engine": "1.0 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/6500",
+                    "powerHp": "50",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1994",
+                    "yearstop": "1999",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "730",
+                    "curbWeightMin": "730"
+                  },
+                  {
+                    "id": "10841",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Zen",
+                    "generation": "ZEN (EF)",
+                    "engine": "1.0 i (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54/6500",
+                    "powerHp": "54",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10842",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Zen",
+                    "generation": "ZEN (EF)",
+                    "engine": "1.0i LX (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/6500",
+                    "powerHp": "50",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2000",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "755",
+                    "curbWeightMin": "755"
+                  },
+                  {
+                    "id": "10843",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Zen",
+                    "generation": "ZEN (EF)",
+                    "engine": "1.0 i VXi (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/6000",
+                    "powerHp": "60",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1405",
+                    "heightMin": "1405",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "765",
+                    "curbWeightMin": "765"
+                  },
+                  {
+                    "id": "10844",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Maruti",
+                    "model": "Zen",
+                    "generation": "ZEN (EF)",
+                    "engine": "1.5 D (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57/5000",
+                    "powerHp": "57",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1999",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3495",
+                    "width": "1495",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Diesel",
+                    "curbWeight": "815",
+                    "curbWeightMin": "815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 13:39:38",
+        "name": "Nexa",
+        "id": "2349",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Nexa S-Cross",
+              "modelYear": "2015",
+              "id": "6067",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32446",
+                    "update": "2023-08-07 16:17:06",
+                    "brand": "Maruti",
+                    "model": "Nexa",
+                    "generation": "Nexa S-Cross",
+                    "engine": "1.2 DDiS (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2017",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4300",
+                    "width": "1785",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "fuel": "Diesel",
+                    "curbWeight": "1215-1240",
+                    "curbWeightMin": "1215",
+                    "curbWeightMax": "1240"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

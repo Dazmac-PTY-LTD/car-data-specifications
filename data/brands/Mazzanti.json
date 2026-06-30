@@ -1,0 +1,113 @@
+{
+  "update": "2021-11-04 15:59:55",
+  "name": "Mazzanti",
+  "id": "305",
+  "models": {
+    "model": [
+      {
+        "update": "2021-11-04 16:07:21",
+        "name": "Evantra",
+        "id": "3029",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-05 10:08:40",
+              "name": "Evantra Pura",
+              "modelYear": "2021",
+              "id": "8677",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44966",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Mazzanti",
+                    "model": "Evantra",
+                    "generation": "Evantra Pura",
+                    "engine": "6.2 V8 (761 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "761/6300",
+                    "powerHp": "761",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4325",
+                    "width": "1955",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-11-05 10:08:40",
+              "name": "Evantra Millecavalli",
+              "modelYear": "2016",
+              "id": "8679",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44967",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Mazzanti",
+                    "model": "Evantra",
+                    "generation": "Evantra Millecavalli",
+                    "engine": "7.2 V8 (1001 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1001/7500",
+                    "powerHp": "1001",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2016",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4425",
+                    "width": "2008",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "44968",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mazzanti",
+                    "model": "Evantra",
+                    "generation": "Evantra Millecavalli",
+                    "engine": "R 7.4 V8 (1121 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1121/6500",
+                    "powerHp": "1121",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4425",
+                    "width": "2008",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

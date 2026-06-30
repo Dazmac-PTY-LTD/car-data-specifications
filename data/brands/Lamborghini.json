@@ -1,0 +1,3394 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Lamborghini",
+  "id": "38",
+  "models": {
+    "model": [
+      {
+        "update": "2020-12-02 14:11:41",
+        "name": "Countach",
+        "id": "374",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-16 08:23:39",
+              "name": "Countach LPI 800-4",
+              "modelYear": "2022",
+              "id": "8534",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44290",
+                    "update": "2026-05-26 12:27:02",
+                    "brand": "Lamborghini",
+                    "model": "Countach",
+                    "generation": "Countach LPI 800-4",
+                    "engine": "6.5 V12 (819 Hp) Mild Hybrid 4WD ISR",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "785/8500",
+                    "powerHp": "785",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4870",
+                    "width": "2099",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1139",
+                    "heightMin": "1139",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1595",
+                    "curbWeightMin": "1595"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-19 11:36:04",
+              "name": "Countach",
+              "modelYear": "1974",
+              "id": "746",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3072",
+                    "update": "2023-03-28 09:25:39",
+                    "brand": "Lamborghini",
+                    "model": "Countach",
+                    "generation": "Countach",
+                    "engine": "LP400 (375 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "375/7500",
+                    "powerHp": "375",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1974",
+                    "yearstop": "1978",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4140",
+                    "width": "1890",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  },
+                  {
+                    "id": "3073",
+                    "update": "2022-01-18 10:17:50",
+                    "brand": "Lamborghini",
+                    "model": "Countach",
+                    "generation": "Countach",
+                    "engine": "LP5000 QV (455 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "455/7000",
+                    "powerHp": "455",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1988",
+                    "yearstop": "1988",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4140",
+                    "width": "2000",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  },
+                  {
+                    "id": "3074",
+                    "update": "2022-01-17 12:55:53",
+                    "brand": "Lamborghini",
+                    "model": "Countach",
+                    "generation": "Countach",
+                    "engine": "LP500 S V12 (375 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "375/7000",
+                    "powerHp": "375",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1982",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4140",
+                    "width": "2000",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "3075",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Lamborghini",
+                    "model": "Countach",
+                    "generation": "Countach",
+                    "engine": "S Quattrovalvole (426 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "426",
+                    "powerHp": "426",
+                    "yearstart": "1985",
+                    "yearstop": "1991",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 14:21:04",
+        "name": "Gallardo",
+        "id": "375",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 550-2 Spyder",
+              "modelYear": "2012",
+              "id": "6542",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17487",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 550-2 Spyder",
+                    "engine": "5.2 (551 Hp) E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "551/8000",
+                    "powerHp": "551",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2012",
+                    "yearstop": "2013",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 550-2",
+              "modelYear": "2010",
+              "id": "3885",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17486",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 550-2",
+                    "engine": "5.2 V10 (551 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "551/8000",
+                    "powerHp": "551",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "17491",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 550-2",
+                    "engine": "Tricolore 5.2 (551 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "551/8000",
+                    "powerHp": "551",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2011",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 570-4 Spyder",
+              "modelYear": "2011",
+              "id": "6541",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17489",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 570-4 Spyder",
+                    "engine": "Performante 5.2 (570 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/8000",
+                    "powerHp": "570",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2011",
+                    "yearstop": "2013",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  },
+                  {
+                    "id": "34311",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 570-4 Spyder",
+                    "engine": "Performante 5.2 (570 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/8000",
+                    "powerHp": "570",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2011",
+                    "yearstop": "2013",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 570-4",
+              "modelYear": "2010",
+              "id": "3884",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17488",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 570-4",
+                    "engine": "Superleggera 5.2 (570 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/8000",
+                    "powerHp": "570",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  },
+                  {
+                    "id": "17490",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 570-4",
+                    "engine": "Super Trofeo Stradale 5.2 (570 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/8000",
+                    "powerHp": "570",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2011",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4386",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  },
+                  {
+                    "id": "34321",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 570-4",
+                    "engine": "Superleggera 5.2 (570 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/8000",
+                    "powerHp": "570",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 560-4 Spyder",
+              "modelYear": "2009",
+              "id": "6537",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17485",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 560-4 Spyder",
+                    "engine": "5.2 V10 (560 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "560/8000",
+                    "powerHp": "560",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  },
+                  {
+                    "id": "34229",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 560-4 Spyder",
+                    "engine": "5.2 V10 (560 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "560/8000",
+                    "powerHp": "560",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo LP 560-4",
+              "modelYear": "2009",
+              "id": "747",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3076",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 560-4",
+                    "engine": "5.2i V10 (560 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "560/8000",
+                    "powerHp": "560",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2008",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "34312",
+                    "update": "2023-08-16 11:58:28",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo LP 560-4",
+                    "engine": "5.2i V10 (560 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "560/8000",
+                    "powerHp": "560",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2008",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo Coupe",
+              "modelYear": "2003",
+              "id": "748",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3077",
+                    "update": "2023-08-16 10:11:38",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "5.0 V10 (500 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "500/7800",
+                    "powerHp": "500",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2003",
+                    "yearstop": "2005",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1612",
+                    "curbWeightMin": "1612"
+                  },
+                  {
+                    "id": "3078",
+                    "update": "2023-08-16 10:11:37",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "5.0 V10 (520 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/8000",
+                    "powerHp": "520",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  },
+                  {
+                    "id": "3079",
+                    "update": "2023-08-16 10:11:32",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "Superleggera 5.0 V10 (530 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "530/8000",
+                    "powerHp": "530",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "34322",
+                    "update": "2023-08-16 10:11:30",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "Superleggera 5.0 V10 (530 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "530/8000",
+                    "powerHp": "530",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "34323",
+                    "update": "2023-08-16 10:11:32",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "5.0 V10 (520 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/8000",
+                    "powerHp": "520",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  },
+                  {
+                    "id": "34324",
+                    "update": "2023-08-16 10:11:33",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Coupe",
+                    "engine": "5.0 V10 (500 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "500/7800",
+                    "powerHp": "500",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2003",
+                    "yearstop": "2005",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gallardo Spyder",
+              "modelYear": "2005",
+              "id": "749",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3080",
+                    "update": "2023-08-16 10:11:37",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Spyder",
+                    "engine": "5.0 V10 (520 Hp) AWD E-Gear",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/8000",
+                    "powerHp": "520",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  },
+                  {
+                    "id": "3081",
+                    "update": "2023-08-16 10:11:38",
+                    "brand": "Lamborghini",
+                    "model": "Gallardo",
+                    "generation": "Gallardo Spyder",
+                    "engine": "5.0i V10 (520 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/8000",
+                    "powerHp": "520",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1900",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 14:26:11",
+        "name": "Jarama",
+        "id": "376",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-19 11:39:58",
+              "name": "Jarama",
+              "modelYear": "1970",
+              "id": "750",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3082",
+                    "update": "2022-01-18 15:44:43",
+                    "brand": "Lamborghini",
+                    "model": "Jarama",
+                    "generation": "Jarama",
+                    "engine": "400 GT (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/7500",
+                    "powerHp": "350",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1970",
+                    "yearstop": "1976",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4485",
+                    "width": "1820",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-19 10:38:05",
+        "name": "LM002",
+        "id": "377",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-19 10:38:33",
+              "name": "LM002",
+              "modelYear": "1986",
+              "id": "751",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3084",
+                    "update": "2023-03-28 09:26:22",
+                    "brand": "Lamborghini",
+                    "model": "LM002",
+                    "generation": "LM002",
+                    "engine": "5.2 (450 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "450/6800",
+                    "powerHp": "450",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "1986",
+                    "yearstop": "1993",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4900",
+                    "widthOpenedMirrors": "2000",
+                    "height": "1850",
+                    "heightMin": "1850",
+                    "rideHeight": "295",
+                    "rideHeightMin": "295",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2700",
+                    "curbWeightMin": "2700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 14:32:22",
+        "name": "Reventon",
+        "id": "378",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Reventon",
+              "modelYear": "2008",
+              "id": "752",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3085",
+                    "update": "2023-03-28 09:26:17",
+                    "brand": "Lamborghini",
+                    "model": "Reventon",
+                    "generation": "Reventon",
+                    "engine": "6.5 V12 (640 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2008",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4700",
+                    "width": "2058",
+                    "widthOpenedMirrors": "2215",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1665",
+                    "curbWeightMin": "1665"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 14:44:12",
+        "name": "Diablo",
+        "id": "379",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Diablo",
+              "modelYear": "1990",
+              "id": "753",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3086",
+                    "update": "2023-08-09 09:39:54",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "6.0 i V12 48V GT (575 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "575/7300",
+                    "powerHp": "575",
+                    "powerRpm": "7300",
+                    "powerRpmLow": "7300",
+                    "yearstart": "1998",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4430",
+                    "width": "2040",
+                    "height": "1115",
+                    "heightMin": "1115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  },
+                  {
+                    "id": "3087",
+                    "update": "2023-08-09 10:04:05",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "6.0 V12 (550 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "550/7100",
+                    "powerHp": "550",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "1991",
+                    "yearstop": "2001",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "2040",
+                    "height": "1105",
+                    "heightMin": "1105",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  },
+                  {
+                    "id": "3088",
+                    "update": "2023-08-09 10:04:04",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "GT 2 (640 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640",
+                    "powerHp": "640",
+                    "yearstart": "1998",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "3089",
+                    "update": "2023-08-09 10:04:04",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "SE (525 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "525",
+                    "powerHp": "525",
+                    "yearstart": "1993",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "3090",
+                    "update": "2023-08-09 10:03:32",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "SV (530 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "530/7100",
+                    "powerHp": "530",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "1999",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "2040",
+                    "height": "1115",
+                    "heightMin": "1115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  },
+                  {
+                    "id": "3091",
+                    "update": "2023-08-09 10:03:14",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "VT (492 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "492/6800",
+                    "powerHp": "492",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "1990",
+                    "yearstop": "1998",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4460",
+                    "width": "2040",
+                    "height": "1105",
+                    "heightMin": "1105",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  },
+                  {
+                    "id": "3092",
+                    "update": "2023-08-09 10:03:34",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo",
+                    "engine": "VT (530 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "530/7100",
+                    "powerHp": "530",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "1998",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "2040",
+                    "height": "1115",
+                    "heightMin": "1115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-19 11:36:47",
+              "name": "Diablo Roadster",
+              "modelYear": "1998",
+              "id": "754",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3093",
+                    "update": "2023-08-09 10:03:16",
+                    "brand": "Lamborghini",
+                    "model": "Diablo",
+                    "generation": "Diablo Roadster",
+                    "engine": "VT 5.7 (492 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "492/7000",
+                    "powerHp": "492",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1996",
+                    "yearstop": "1999",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4542",
+                    "width": "2040",
+                    "height": "1133",
+                    "heightMin": "1133",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 07:58:09",
+        "name": "Jalpa",
+        "id": "380",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-19 11:38:31",
+              "name": "Jalpa",
+              "modelYear": "1982",
+              "id": "755",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3094",
+                    "update": "2023-03-28 09:26:23",
+                    "brand": "Lamborghini",
+                    "model": "Jalpa",
+                    "generation": "Jalpa",
+                    "engine": "P 350 V8 (255 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "255/7000",
+                    "powerHp": "255",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1982",
+                    "yearstop": "1988",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4330",
+                    "width": "1880",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-19 10:38:05",
+        "name": "LM001",
+        "id": "381",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-01-19 10:38:24",
+              "name": "LM001 (Prototype)",
+              "modelYear": "1981",
+              "id": "756",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3095",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Lamborghini",
+                    "model": "LM001",
+                    "generation": "LM001 (Prototype)",
+                    "engine": "4.8 (332 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "332",
+                    "powerHp": "332",
+                    "yearstart": "1980",
+                    "yearstop": "1983",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 08:27:18",
+        "name": "Murcielago",
+        "id": "382",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Murcielago LP640 Roadster",
+              "modelYear": "2006",
+              "id": "7966",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41577",
+                    "update": "2023-11-02 13:53:12",
+                    "brand": "Lamborghini",
+                    "model": "Murcielago",
+                    "generation": "Murcielago LP640 Roadster",
+                    "engine": "6.5 V12 (640 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4610",
+                    "width": "2058",
+                    "widthOpenedMirrors": "2240",
+                    "height": "1132-1135",
+                    "heightMin": "1132",
+                    "heightMax": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Murcielago LP640",
+              "modelYear": "2006",
+              "id": "757",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3096",
+                    "update": "2023-11-02 13:53:00",
+                    "brand": "Lamborghini",
+                    "model": "Murcielago",
+                    "generation": "Murcielago LP640",
+                    "engine": "6.5 V12 48V (640 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4610",
+                    "width": "2058",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  },
+                  {
+                    "id": "28613",
+                    "update": "2023-11-02 13:52:51",
+                    "brand": "Lamborghini",
+                    "model": "Murcielago",
+                    "generation": "Murcielago LP640",
+                    "engine": "6.5 V12 48V (640 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4610",
+                    "width": "2058",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Murcielago Roadster",
+              "modelYear": "2004",
+              "id": "758",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3097",
+                    "update": "2023-03-28 09:26:19",
+                    "brand": "Lamborghini",
+                    "model": "Murcielago",
+                    "generation": "Murcielago Roadster",
+                    "engine": "6.2 i V12 48V (580 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "580/7500",
+                    "powerHp": "580",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4580",
+                    "width": "2045",
+                    "height": "1005",
+                    "heightMin": "1005",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Murcielago",
+              "modelYear": "2001",
+              "id": "759",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3098",
+                    "update": "2023-03-28 09:26:18",
+                    "brand": "Lamborghini",
+                    "model": "Murcielago",
+                    "generation": "Murcielago",
+                    "engine": "6.2 V12 48V (580 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "580/7500",
+                    "powerHp": "580",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2001",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4580",
+                    "width": "2045",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 08:39:35",
+        "name": "Urraco",
+        "id": "383",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-19 12:13:03",
+              "name": "Urraco",
+              "modelYear": "1972",
+              "id": "760",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3099",
+                    "update": "2023-08-09 09:33:13",
+                    "brand": "Lamborghini",
+                    "model": "Urraco",
+                    "generation": "Urraco",
+                    "engine": "P200 (182 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "182/7500",
+                    "powerHp": "182",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1975",
+                    "yearstop": "1981",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4250",
+                    "width": "1760",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "3100",
+                    "update": "2023-08-09 09:33:12",
+                    "brand": "Lamborghini",
+                    "model": "Urraco",
+                    "generation": "Urraco",
+                    "engine": "P250 (220 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220/7500",
+                    "powerHp": "220",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1972",
+                    "yearstop": "1979",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4250",
+                    "width": "1760",
+                    "height": "1115",
+                    "heightMin": "1115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "3101",
+                    "update": "2023-08-09 09:33:11",
+                    "brand": "Lamborghini",
+                    "model": "Urraco",
+                    "generation": "Urraco",
+                    "engine": "P300 (265 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "265/7800",
+                    "powerHp": "265",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "1974",
+                    "yearstop": "1981",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4250",
+                    "width": "1760",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-26 12:57:15",
+        "name": "Espada",
+        "id": "384",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-29 17:09:39",
+              "name": "Espada",
+              "modelYear": "1968",
+              "id": "9714",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3102",
+                    "update": "2023-10-29 17:08:23",
+                    "brand": "Lamborghini",
+                    "model": "Espada",
+                    "generation": "Espada",
+                    "engine": "S1 3.9 V12 (325 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "325/6500",
+                    "powerHp": "325",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1968",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4738",
+                    "width": "1860",
+                    "height": "1185",
+                    "heightMin": "1185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1482",
+                    "curbWeightMin": "1482"
+                  },
+                  {
+                    "id": "41761",
+                    "update": "2023-10-29 17:08:48",
+                    "brand": "Lamborghini",
+                    "model": "Espada",
+                    "generation": "Espada",
+                    "engine": "S2 3.9 V12 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/7500",
+                    "powerHp": "350",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4738",
+                    "width": "1860",
+                    "height": "1185",
+                    "heightMin": "1185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  },
+                  {
+                    "id": "41762",
+                    "update": "2023-10-29 17:08:33",
+                    "brand": "Lamborghini",
+                    "model": "Espada",
+                    "generation": "Espada",
+                    "engine": "S3 3.9 V12 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/7500",
+                    "powerHp": "350",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1972",
+                    "yearstop": "1978",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4738",
+                    "width": "1860",
+                    "height": "1185",
+                    "heightMin": "1185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 09:06:24",
+        "name": "Aventador",
+        "id": "1942",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-08 10:16:32",
+              "name": "Aventador LP 780-4 Ultimae Roadster",
+              "modelYear": "2022",
+              "id": "8479",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43844",
+                    "update": "2026-05-26 12:21:56",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 780-4 Ultimae Roadster",
+                    "engine": "6.5 V12 (780 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/8500",
+                    "powerHp": "780",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4868",
+                    "width": "2098",
+                    "widthOpenedMirrors": "2273",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "rideHeight": "115-155",
+                    "rideHeightMin": "115",
+                    "rideHeightMax": "155",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-07-08 10:16:00",
+              "name": "Aventador LP 780-4 Ultimae Coupe",
+              "modelYear": "2022",
+              "id": "8478",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43843",
+                    "update": "2026-05-26 12:21:59",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 780-4 Ultimae Coupe",
+                    "engine": "6.5 V12 (780 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/8500",
+                    "powerHp": "780",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4868",
+                    "width": "2098",
+                    "widthOpenedMirrors": "2273",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "rideHeight": "115-155",
+                    "rideHeightMin": "115",
+                    "rideHeightMax": "155",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-26 12:25:00",
+              "name": "Aventador SVJ",
+              "modelYear": "2019",
+              "id": "6480",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34013",
+                    "update": "2026-05-26 12:22:31",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador SVJ",
+                    "engine": "6.5 V12 (770 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "770/8500",
+                    "powerHp": "770",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4943",
+                    "width": "2098",
+                    "widthOpenedMirrors": "2273",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "rideHeight": "115",
+                    "rideHeightMin": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-26 12:25:00",
+              "name": "Aventador SVJ Roadster",
+              "modelYear": "2019",
+              "id": "7005",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36500",
+                    "update": "2026-05-26 12:22:30",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador SVJ Roadster",
+                    "engine": "6.5 V12 (770 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "770/8500",
+                    "powerHp": "770",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2018",
+                    "yearstop": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4943",
+                    "width": "2098",
+                    "widthOpenedMirrors": "2273",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "rideHeight": "115",
+                    "rideHeightMin": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador S Roadster",
+              "modelYear": "2017",
+              "id": "5863",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31558",
+                    "update": "2026-05-26 12:22:43",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador S Roadster",
+                    "engine": "6.5 V12 (740 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "740/8400",
+                    "powerHp": "740",
+                    "powerRpm": "8400",
+                    "powerRpmLow": "8400",
+                    "yearstart": "2017",
+                    "yearstop": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4797",
+                    "width": "2030",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "rideHeight": "115",
+                    "rideHeightMin": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador S Coupe",
+              "modelYear": "2017",
+              "id": "5481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "28865",
+                    "update": "2026-05-26 12:22:44",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador S Coupe",
+                    "engine": "6.5 V12 (740 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "740/8400",
+                    "powerHp": "740",
+                    "powerRpm": "8400",
+                    "powerRpmLow": "8400",
+                    "yearstart": "2017",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4797",
+                    "width": "2030",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador Miura Homage",
+              "modelYear": "2016",
+              "id": "5482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "28866",
+                    "update": "2026-05-26 12:24:43",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador Miura Homage",
+                    "engine": "6.5 V12 (700 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/8250",
+                    "powerHp": "700",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4780",
+                    "width": "2030",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador LP 750-4 Superveloce Roadster",
+              "modelYear": "2016",
+              "id": "4688",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22765",
+                    "update": "2023-08-16 13:06:31",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 750-4 Superveloce Roadster",
+                    "engine": "6.5 V12 (750 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/8400",
+                    "powerHp": "750",
+                    "powerRpm": "8400",
+                    "powerRpmLow": "8400",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4835",
+                    "width": "2030",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador LP 750-4 Superveloce",
+              "modelYear": "2015",
+              "id": "4687",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22769",
+                    "update": "2023-08-16 13:06:31",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 750-4 Superveloce",
+                    "engine": "6.5 V12 (750 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/8400",
+                    "powerHp": "750",
+                    "powerRpm": "8400",
+                    "powerRpmLow": "8400",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4835",
+                    "width": "2030",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador LP 700-4 Roadster",
+              "modelYear": "2013",
+              "id": "4686",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22764",
+                    "update": "2023-08-16 13:06:31",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 700-4 Roadster",
+                    "engine": "6.5 V12 (700 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/8250",
+                    "powerHp": "700",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4780",
+                    "width": "2030",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aventador LP 700-4 Coupe",
+              "modelYear": "2011",
+              "id": "3883",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17484",
+                    "update": "2023-08-16 13:06:31",
+                    "brand": "Lamborghini",
+                    "model": "Aventador",
+                    "generation": "Aventador LP 700-4 Coupe",
+                    "engine": "6.5 V12 (700 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/8250",
+                    "powerHp": "700",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2011",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4780",
+                    "width": "2030",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1136",
+                    "heightMin": "1136",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 09:28:38",
+        "name": "Huracan",
+        "id": "2092",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-14 08:37:10",
+              "name": "Huracan Sterrato (facelift 2023)",
+              "modelYear": "2023",
+              "id": "9141",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46947",
+                    "update": "2026-05-26 12:28:16",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan Sterrato (facelift 2023)",
+                    "engine": "5.2 V10 (610 Hp) AWD LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8000",
+                    "powerHp": "610",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Off-road vehicle, Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4525",
+                    "width": "1956",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "rideHeight": "162",
+                    "rideHeightMin": "162",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan Tecnica (facelift 2022)",
+              "modelYear": "2022",
+              "id": "8826",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45665",
+                    "update": "2026-05-26 12:28:25",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan Tecnica (facelift 2022)",
+                    "engine": "5.2 V10 (640 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4567",
+                    "width": "1933",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1379",
+                    "curbWeightMin": "1379"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan STO (facelift 2020)",
+              "modelYear": "2021",
+              "id": "7984",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41726",
+                    "update": "2026-05-26 12:28:39",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan STO (facelift 2020)",
+                    "engine": "5.2 V10 (640 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4549",
+                    "width": "1945",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1339",
+                    "curbWeightMin": "1339"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan EVO Spyder (facelift 2019)",
+              "modelYear": "2019",
+              "id": "6951",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41720",
+                    "update": "2026-05-26 12:29:36",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan EVO Spyder (facelift 2019)",
+                    "engine": "5.2 V10 (610 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8000",
+                    "powerHp": "610",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4520",
+                    "width": "1933",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1509",
+                    "curbWeightMin": "1509"
+                  },
+                  {
+                    "id": "36232",
+                    "update": "2026-05-26 12:29:35",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan EVO Spyder (facelift 2019)",
+                    "engine": "5.2 V10 (640 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4520",
+                    "width": "1933",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1542",
+                    "curbWeightMin": "1542"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan EVO (facelift 2019)",
+              "modelYear": "2019",
+              "id": "6811",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35384",
+                    "update": "2026-05-26 12:29:39",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan EVO (facelift 2019)",
+                    "engine": "5.2 V10 (640 Hp) AWD LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4520",
+                    "width": "1933",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "rideHeight": "122",
+                    "rideHeightMin": "122",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1422",
+                    "curbWeightMin": "1422"
+                  },
+                  {
+                    "id": "38622",
+                    "update": "2026-05-26 12:29:40",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan EVO (facelift 2019)",
+                    "engine": "5.2 V10 (610 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8000",
+                    "powerHp": "610",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4520",
+                    "width": "1933",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1389",
+                    "curbWeightMin": "1389"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan Performante Spyder",
+              "modelYear": "2018",
+              "id": "6155",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32811",
+                    "update": "2024-03-13 14:26:48",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan Performante Spyder",
+                    "engine": "5.2 V10 (640 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4506",
+                    "width": "1924",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1507",
+                    "curbWeightMin": "1507"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan Super Trofeo EVO",
+              "modelYear": "2018",
+              "id": "5928",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31870",
+                    "update": "2024-03-14 09:27:30",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan Super Trofeo EVO",
+                    "engine": "5.2 V10 (620 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/8250",
+                    "powerHp": "620",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4653",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-04 09:04:53",
+              "name": "Huracan Performante",
+              "modelYear": "2017",
+              "id": "5582",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "30149",
+                    "update": "2024-03-13 14:26:52",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan Performante",
+                    "engine": "5.2 V10 (640 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/8000",
+                    "powerHp": "640",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2017",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4506",
+                    "width": "1924",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1382",
+                    "curbWeightMin": "1382"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-13 13:25:40",
+              "name": "Huracan LP 610-4 Spyder",
+              "modelYear": "2016",
+              "id": "4690",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22770",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan LP 610-4 Spyder",
+                    "engine": "5.2 V10 (610 Hp) AWD LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8250",
+                    "powerHp": "610",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4459",
+                    "width": "1924",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1542",
+                    "curbWeightMin": "1542"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-13 13:25:40",
+              "name": "Huracan LP 580-2 Spyder",
+              "modelYear": "2016",
+              "id": "8857",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31117",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan LP 580-2 Spyder",
+                    "engine": "5.2 V10 (580 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "580/8000",
+                    "powerHp": "580",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4459",
+                    "width": "1924",
+                    "widthFoldedMirrors": "2236",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1509",
+                    "curbWeightMin": "1509"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-13 13:54:44",
+              "name": "Huracan LP 580-2",
+              "modelYear": "2016",
+              "id": "4689",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22773",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan LP 580-2",
+                    "engine": "5.2 V10 (580 Hp) LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "580/8000",
+                    "powerHp": "580",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4459",
+                    "width": "1924",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1389",
+                    "curbWeightMin": "1389"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-13 13:54:44",
+              "name": "Huracan LP 620-2 Super Trofeo",
+              "modelYear": "2014",
+              "id": "4692",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22771",
+                    "update": "2024-03-13 14:31:55",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan LP 620-2 Super Trofeo",
+                    "engine": "5.2 V10 (620 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/8250",
+                    "powerHp": "620",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-13 13:54:44",
+              "name": "Huracan LP 610-4",
+              "modelYear": "2014",
+              "id": "4691",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22766",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Lamborghini",
+                    "model": "Huracan",
+                    "generation": "Huracan LP 610-4",
+                    "engine": "5.2 V10 (610 Hp) AWD LDF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8250",
+                    "powerHp": "610",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4459",
+                    "width": "1924",
+                    "widthOpenedMirrors": "2236",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1422",
+                    "curbWeightMin": "1422"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 16:25:22",
+        "name": "Urus",
+        "id": "2210",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-04-25 09:10:14",
+              "name": "Urus (facelift 2024)",
+              "modelYear": "2025",
+              "id": "10004",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51627",
+                    "update": "2024-04-25 16:23:51",
+                    "brand": "Lamborghini",
+                    "model": "Urus",
+                    "generation": "Urus (facelift 2024)",
+                    "engine": "SE 4.0 V8 (800 Hp) Plug-in Hybrid 4WD Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "620/6000",
+                    "powerHp": "620",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5123",
+                    "width": "2022",
+                    "widthOpenedMirrors": "2181",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2505",
+                    "curbWeightMin": "2505"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Urus",
+              "modelYear": "2018",
+              "id": "5439",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32263",
+                    "update": "2023-05-16 14:11:12",
+                    "brand": "Lamborghini",
+                    "model": "Urus",
+                    "generation": "Urus",
+                    "engine": "4.0 V8 (650 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/6000",
+                    "powerHp": "650",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5112",
+                    "width": "2016",
+                    "widthOpenedMirrors": "2181",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "rideHeight": "158-248",
+                    "rideHeightMin": "158",
+                    "rideHeightMax": "248",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2200",
+                    "curbWeightMin": "2200"
+                  },
+                  {
+                    "id": "46419",
+                    "update": "2024-05-10 11:12:49",
+                    "brand": "Lamborghini",
+                    "model": "Urus",
+                    "generation": "Urus",
+                    "engine": "Performante 4.0 V8 (666 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "666/6000",
+                    "powerHp": "666",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5137",
+                    "width": "2026",
+                    "widthOpenedMirrors": "2181",
+                    "height": "1618",
+                    "heightMin": "1618",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  },
+                  {
+                    "id": "46582",
+                    "update": "2024-05-10 11:12:47",
+                    "brand": "Lamborghini",
+                    "model": "Urus",
+                    "generation": "Urus",
+                    "engine": "S 4.0 V8 (666 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "666/6000",
+                    "powerHp": "666",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5112",
+                    "width": "2018",
+                    "widthOpenedMirrors": "2181",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2197",
+                    "curbWeightMin": "2197"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-03 09:47:50",
+        "name": "Centenario",
+        "id": "2224",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Centenario LP 770-4 Roadster",
+              "modelYear": "2016",
+              "id": "5484",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "28864",
+                    "update": "2022-01-17 10:33:02",
+                    "brand": "Lamborghini",
+                    "model": "Centenario",
+                    "generation": "Centenario LP 770-4 Roadster",
+                    "engine": "6.5 V12 (770 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "770/8500",
+                    "powerHp": "770",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2016",
+                    "yearstop": "2018",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4924",
+                    "widthOpenedMirrors": "2061",
+                    "height": "1158",
+                    "heightMin": "1158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Centenario LP 770-4",
+              "modelYear": "2016",
+              "id": "5483",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "28863",
+                    "update": "2022-01-17 10:33:03",
+                    "brand": "Lamborghini",
+                    "model": "Centenario",
+                    "generation": "Centenario LP 770-4",
+                    "engine": "6.5 V12 (770 Hp) 4WD ISR",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "770/8500",
+                    "powerHp": "770",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2016",
+                    "yearstop": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4924",
+                    "widthOpenedMirrors": "2062",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 10:49:18",
+        "name": "Asterion",
+        "id": "2683",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Asterion Concept",
+              "modelYear": "2019",
+              "id": "7036",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36659",
+                    "update": "2026-05-26 12:26:23",
+                    "brand": "Lamborghini",
+                    "model": "Asterion",
+                    "generation": "Asterion Concept",
+                    "engine": "5.2 V10 (910 Hp) Plug-in Hybrid LDF",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "610/8250",
+                    "powerHp": "610",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2014",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-08-21 12:56:35",
+        "name": "Sian",
+        "id": "2720",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-08-21 15:25:07",
+              "name": "Sian Roadster",
+              "modelYear": "2021",
+              "id": "9600",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49112",
+                    "update": "2023-08-21 16:16:10",
+                    "brand": "Lamborghini",
+                    "model": "Sian",
+                    "generation": "Sian Roadster",
+                    "engine": "6.5 V12 (819 Hp) Hybrid AWD ISR",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "785/8500",
+                    "powerHp": "785",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4979",
+                    "width": "2080",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1158",
+                    "heightMin": "1158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1645",
+                    "curbWeightMin": "1645"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sian FKP 37",
+              "modelYear": "2020",
+              "id": "7281",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37680",
+                    "update": "2023-11-23 13:48:15",
+                    "brand": "Lamborghini",
+                    "model": "Sian",
+                    "generation": "Sian FKP 37",
+                    "engine": "6.5 V12 (819 Hp) Hybrid AWD Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "785/8500",
+                    "powerHp": "785",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4980",
+                    "width": "2101",
+                    "widthOpenedMirrors": "2265",
+                    "height": "1133",
+                    "heightMin": "1133",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-28 22:16:33",
+        "name": "SC20",
+        "id": "2848",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-19 12:08:45",
+              "name": "SC20",
+              "modelYear": "2021",
+              "id": "8036",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-23 10:44:34",
+        "name": "Essenza SCV12",
+        "id": "2926",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-23 09:28:54",
+              "name": "Essenza SCV12",
+              "modelYear": "2021",
+              "id": "8340",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43242",
+                    "update": "2022-12-31 07:51:07",
+                    "brand": "Lamborghini",
+                    "model": "Essenza SCV12",
+                    "generation": "Essenza SCV12",
+                    "engine": "6.5 V12 (830 Hp) X-Trac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "830",
+                    "powerHp": "830",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1378",
+                    "curbWeightMin": "1378"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-23 09:45:51",
+        "name": "Veneno",
+        "id": "2927",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-23 10:09:29",
+              "name": "Veneno LP 750-4 Roadster",
+              "modelYear": "2013",
+              "id": "8341",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43241",
+                    "update": "2023-03-28 09:26:11",
+                    "brand": "Lamborghini",
+                    "model": "Veneno",
+                    "generation": "Veneno LP 750-4 Roadster",
+                    "engine": "6.5 V12 (750 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/8400",
+                    "powerHp": "750",
+                    "powerRpm": "8400",
+                    "powerRpmLow": "8400",
+                    "yearstart": "2013",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5020",
+                    "width": "2075",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-07-08 13:08:19",
+        "name": "400 GT",
+        "id": "2967",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-08 14:14:33",
+              "name": "400 GT 2+2",
+              "modelYear": "1967",
+              "id": "8480",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43842",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Lamborghini",
+                    "model": "400 GT",
+                    "generation": "400 GT 2+2",
+                    "engine": "3.9 V12 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/6500",
+                    "powerHp": "320",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1965",
+                    "yearstop": "1968",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4460",
+                    "width": "1730",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-16 09:23:11",
+        "name": "Marzal",
+        "id": "3038",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-11-16 09:23:48",
+              "name": "Marzal",
+              "modelYear": "1967",
+              "id": "8698",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45072",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Lamborghini",
+                    "model": "Marzal",
+                    "generation": "Marzal",
+                    "engine": "2.0 (175 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175/6800",
+                    "powerHp": "175",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "1967",
+                    "yearstop": "1967",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4450",
+                    "width": "1709",
+                    "height": "1110",
+                    "heightMin": "1110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-17 09:32:02",
+        "name": "Miura",
+        "id": "3051",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-17 09:32:51",
+              "name": "Miura",
+              "modelYear": "1966",
+              "id": "8746",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45312",
+                    "update": "2022-01-17 10:06:30",
+                    "brand": "Lamborghini",
+                    "model": "Miura",
+                    "generation": "Miura",
+                    "engine": "P400 3.9 V12 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/7000",
+                    "powerHp": "350",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1966",
+                    "yearstop": "1969",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4360",
+                    "width": "1760",
+                    "height": "1055",
+                    "heightMin": "1055",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-19 10:37:48",
+        "name": "LMA002",
+        "id": "3056",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-01-19 10:56:09",
+              "name": "LMA002 (Prototype)",
+              "modelYear": "1982",
+              "id": "8752",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3083",
+                    "update": "2022-01-19 10:54:10",
+                    "brand": "Lamborghini",
+                    "model": "LMA002",
+                    "generation": "LMA002 (Prototype)",
+                    "engine": "4.8 (332 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "332/6000",
+                    "powerHp": "332",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1982",
+                    "yearstop": "1982",
+                    "coupe": "Off-road vehicle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4790",
+                    "widthOpenedMirrors": "2000",
+                    "height": "1850",
+                    "heightMin": "1850",
+                    "rideHeight": "300",
+                    "rideHeightMin": "300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2600",
+                    "curbWeightMin": "2600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-03-28 15:05:59",
+        "name": "Islero",
+        "id": "3081",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-03-28 15:08:01",
+              "name": "Islero",
+              "modelYear": "1968",
+              "id": "8807",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45572",
+                    "update": "2022-04-02 07:51:07",
+                    "brand": "Lamborghini",
+                    "model": "Islero",
+                    "generation": "Islero",
+                    "engine": "4.0 V12 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/6500",
+                    "powerHp": "320",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1968",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4525",
+                    "width": "1730",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1220",
+                    "curbWeightMin": "1220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-01-30 14:39:24",
+        "name": "350 GT",
+        "id": "3214",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-30 14:54:00",
+              "name": "350 GT",
+              "modelYear": "1964",
+              "id": "9228",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47351",
+                    "update": "2023-02-04 07:51:07",
+                    "brand": "Lamborghini",
+                    "model": "350 GT",
+                    "generation": "350 GT",
+                    "engine": "3.5 V12 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/6500",
+                    "powerHp": "280",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1964",
+                    "yearstop": "1967",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4460",
+                    "width": "1730",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-03-30 09:54:28",
+        "name": "Revuelto",
+        "id": "3238",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-03-30 12:16:58",
+              "name": "Revuelto (LB744)",
+              "modelYear": "2024",
+              "id": "9415",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48341",
+                    "update": "2023-09-27 12:34:11",
+                    "brand": "Lamborghini",
+                    "model": "Revuelto",
+                    "generation": "Revuelto (LB744)",
+                    "engine": "6.5 V12 (1015 Hp) HPEV 4WD Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "825/9250",
+                    "powerHp": "825",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4947",
+                    "width": "2033",
+                    "widthOpenedMirrors": "2266",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1772",
+                    "curbWeightMin": "1772"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-19 13:28:25",
+        "name": "Lambo V12 Vision Gran Turismo",
+        "id": "3411",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2024-03-19 13:28:41",
+              "name": "Lambo V12 Vision Gran Turismo",
+              "modelYear": "2019",
+              "id": "9941",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-08-19 10:19:40",
+        "name": "Temerario",
+        "id": "3485",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-08-19 10:20:17",
+              "name": "Temerario",
+              "modelYear": "2025",
+              "id": "10141",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52514",
+                    "update": "2024-08-19 16:16:17",
+                    "brand": "Lamborghini",
+                    "model": "Temerario",
+                    "generation": "Temerario",
+                    "engine": "4.0 V8 (920 Hp) HPEV e-4WD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "800/9000-9750",
+                    "powerHp": "800",
+                    "powerRpm": "9000-9750",
+                    "powerRpmLow": "9000",
+                    "powerRpmHigh": "9750",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4706",
+                    "width": "1996",
+                    "widthOpenedMirrors": "2246",
+                    "height": "1201",
+                    "heightMin": "1201",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-18 14:11:27",
+        "name": "Fenomeno",
+        "id": "3775",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-18 14:13:00",
+              "name": "Fenomeno",
+              "modelYear": "2026",
+              "id": "10746",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55133",
+                    "update": "2025-08-18 16:18:21",
+                    "brand": "Lamborghini",
+                    "model": "Fenomeno",
+                    "generation": "Fenomeno",
+                    "engine": "6.5 V12 (1080 Hp) Plug-in Hybrid 4WD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "835/9250",
+                    "powerHp": "835",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5036",
+                    "width": "2072",
+                    "widthOpenedMirrors": "2266",
+                    "height": "1161",
+                    "heightMin": "1161",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1772",
+                    "curbWeightMin": "1772"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

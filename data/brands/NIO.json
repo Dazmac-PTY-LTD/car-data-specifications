@@ -1,0 +1,1586 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "NIO",
+  "id": "295",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-13 14:15:27",
+        "name": "ES6",
+        "id": "2853",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-06 14:16:06",
+              "name": "ES6 II (facelift 2025)",
+              "modelYear": "2025",
+              "id": "11154",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56817",
+                    "update": "2026-04-06 16:18:57",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II (facelift 2025)",
+                    "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56818",
+                    "update": "2026-04-06 16:19:10",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II (facelift 2025)",
+                    "engine": "Long 100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56819",
+                    "update": "2026-04-06 16:18:39",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II (facelift 2025)",
+                    "engine": "Ulta Long 150 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-22 12:31:31",
+              "name": "ES6 II",
+              "modelYear": "2023",
+              "id": "9542",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48923",
+                    "update": "2026-04-06 14:20:52",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II",
+                    "engine": "Standard Range 75 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48924",
+                    "update": "2026-04-06 14:20:54",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II",
+                    "engine": "Long Range 100 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48925",
+                    "update": "2026-04-06 14:20:49",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 II",
+                    "engine": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-22 12:31:11",
+              "name": "ES6 I",
+              "modelYear": "2019",
+              "id": "8052",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42097",
+                    "update": "2023-06-22 12:01:46",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "70 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42098",
+                    "update": "2023-06-22 12:01:43",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "70 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42099",
+                    "update": "2023-06-22 12:01:40",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "84 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42100",
+                    "update": "2023-06-22 12:01:37",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "84 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42101",
+                    "update": "2023-06-22 12:01:52",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "100 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42102",
+                    "update": "2023-06-22 12:01:49",
+                    "brand": "NIO",
+                    "model": "ES6",
+                    "generation": "ES6 I",
+                    "engine": "100 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-14 11:34:36",
+        "name": "ES8",
+        "id": "2854",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-07 10:00:16",
+              "name": "ES8 III",
+              "modelYear": "2025",
+              "id": "11155",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56820",
+                    "update": "2026-04-07 16:16:37",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 III",
+                    "engine": "102 kWh (707 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5280",
+                    "width": "2010",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-28 14:32:08",
+              "name": "ES8 II",
+              "modelYear": "2023",
+              "id": "9556",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48965",
+                    "update": "2026-04-07 09:45:17",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 II",
+                    "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5099",
+                    "width": "1989",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48966",
+                    "update": "2026-04-07 09:45:22",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 II",
+                    "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5099",
+                    "width": "1989",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48967",
+                    "update": "2026-04-07 09:45:14",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 II",
+                    "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5099",
+                    "width": "1989",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-28 12:06:49",
+              "name": "ES8 I (facelift 2020)",
+              "modelYear": "2020",
+              "id": "8053",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42103",
+                    "update": "2023-06-28 12:08:02",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 I (facelift 2020)",
+                    "engine": "70 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5022",
+                    "width": "1962",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "fuel": "Electricity",
+                    "curbWeight": "2425",
+                    "curbWeightMin": "2425"
+                  },
+                  {
+                    "id": "42104",
+                    "update": "2023-06-28 12:07:56",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 I (facelift 2020)",
+                    "engine": "84 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5022",
+                    "width": "1962",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "fuel": "Electricity",
+                    "curbWeight": "2425",
+                    "curbWeightMin": "2425"
+                  },
+                  {
+                    "id": "42105",
+                    "update": "2023-06-28 12:08:07",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 I (facelift 2020)",
+                    "engine": "100 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5022",
+                    "width": "1962",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "fuel": "Electricity",
+                    "curbWeight": "2425",
+                    "curbWeightMin": "2425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-28 12:06:49",
+              "name": "ES8 I",
+              "modelYear": "2018",
+              "id": "9553",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48963",
+                    "update": "2023-06-28 16:20:37",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 I",
+                    "engine": "70 kWh (653 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5022",
+                    "width": "1962",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "2460",
+                    "curbWeightMin": "2460"
+                  },
+                  {
+                    "id": "48964",
+                    "update": "2023-06-28 16:20:37",
+                    "brand": "NIO",
+                    "model": "ES8",
+                    "generation": "ES8 I",
+                    "engine": "84 kWh (653 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5022",
+                    "width": "1962",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-15 10:12:18",
+        "name": "EC6",
+        "id": "2855",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-06 11:06:43",
+              "name": "EC6 II (facelift 2025)",
+              "modelYear": "2025",
+              "id": "11153",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56814",
+                    "update": "2026-04-06 16:16:27",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 II (facelift 2025)",
+                    "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4849",
+                    "width": "1995",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56815",
+                    "update": "2026-04-06 16:16:27",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 II (facelift 2025)",
+                    "engine": "Long 100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4849",
+                    "width": "1995",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56816",
+                    "update": "2026-04-06 16:16:27",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 II (facelift 2025)",
+                    "engine": "Ultra Long 150 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4849",
+                    "width": "1995",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-04-03 15:23:43",
+              "name": "EC6 II",
+              "modelYear": "2023",
+              "id": "11152",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56812",
+                    "update": "2026-04-03 16:18:31",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 II",
+                    "engine": "75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4849",
+                    "width": "1995",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "fuel": "Electricity",
+                    "curbWeight": "2292",
+                    "curbWeightMin": "2292"
+                  },
+                  {
+                    "id": "56813",
+                    "update": "2026-04-03 16:18:31",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 II",
+                    "engine": "100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4849",
+                    "width": "1995",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "fuel": "Electricity",
+                    "curbWeight": "2340",
+                    "curbWeightMin": "2340"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-04-03 15:23:27",
+              "name": "EC6 I",
+              "modelYear": "2020",
+              "id": "8059",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42106",
+                    "update": "2026-04-03 15:22:29",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 I",
+                    "engine": "70 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42107",
+                    "update": "2026-04-03 15:22:37",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 I",
+                    "engine": "100 kWh (435 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42108",
+                    "update": "2026-04-03 15:22:25",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 I",
+                    "engine": "70 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1714",
+                    "heightMin": "1714",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42109",
+                    "update": "2026-04-03 15:22:33",
+                    "brand": "NIO",
+                    "model": "EC6",
+                    "generation": "EC6 I",
+                    "engine": "100 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1965",
+                    "height": "1714",
+                    "heightMin": "1714",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-15 12:33:59",
+        "name": "ET7",
+        "id": "2856",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-15 12:34:31",
+              "name": "ET7",
+              "modelYear": "2022",
+              "id": "8060",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42111",
+                    "update": "2026-04-08 12:35:22",
+                    "brand": "NIO",
+                    "model": "ET7",
+                    "generation": "ET7",
+                    "engine": "70 kWh (653 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5098",
+                    "width": "1987",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42112",
+                    "update": "2026-04-08 12:36:08",
+                    "brand": "NIO",
+                    "model": "ET7",
+                    "generation": "ET7",
+                    "engine": "100 kWh (653 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5098",
+                    "width": "1987",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "42113",
+                    "update": "2026-04-08 12:36:35",
+                    "brand": "NIO",
+                    "model": "ET7",
+                    "generation": "ET7",
+                    "engine": "150 kWh (653 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5098",
+                    "width": "1987",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-15 15:38:51",
+        "name": "EP9",
+        "id": "2857",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-15 14:56:13",
+              "name": "EP9",
+              "modelYear": "2016",
+              "id": "8061",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42114",
+                    "update": "2026-01-13 09:16:47",
+                    "brand": "NIO",
+                    "model": "EP9",
+                    "generation": "EP9",
+                    "engine": "(1360 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4888",
+                    "width": "2230",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1735",
+                    "curbWeightMin": "1735"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-06-14 11:39:59",
+        "name": "ET5",
+        "id": "3130",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-08 09:26:06",
+              "name": "ET5T (facelift 2025)",
+              "modelYear": "2025",
+              "id": "11159",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56826",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T (facelift 2025)",
+                    "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56827",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T (facelift 2025)",
+                    "engine": "Long 100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56828",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T (facelift 2025)",
+                    "engine": "Extra Long 150 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-04-08 09:25:46",
+              "name": "ET5 (facelift 2025)",
+              "modelYear": "2025",
+              "id": "11158",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56823",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5 (facelift 2025)",
+                    "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56824",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5 (facelift 2025)",
+                    "engine": "Long 100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56825",
+                    "update": "2026-04-08 14:29:09",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5 (facelift 2025)",
+                    "engine": "Extra Long 150 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-04-08 09:25:10",
+              "name": "ET5T",
+              "modelYear": "2023",
+              "id": "9541",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48920",
+                    "update": "2026-04-08 11:14:14",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T",
+                    "engine": "Standard Range 75 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48921",
+                    "update": "2026-04-08 11:15:13",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T",
+                    "engine": "Long Range 100 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48922",
+                    "update": "2026-04-08 11:16:03",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5T",
+                    "engine": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-06-14 11:40:35",
+              "name": "ET5",
+              "modelYear": "2022",
+              "id": "8911",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45965",
+                    "update": "2026-04-08 11:11:38",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5",
+                    "engine": "75 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45966",
+                    "update": "2026-04-08 11:12:24",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5",
+                    "engine": "100 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45967",
+                    "update": "2026-04-08 11:13:08",
+                    "brand": "NIO",
+                    "model": "ET5",
+                    "generation": "ET5",
+                    "engine": "150 kWh (490 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1960",
+                    "height": "1499",
+                    "heightMin": "1499",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-03-29 11:38:39",
+        "name": "EL7",
+        "id": "3237",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-03-29 11:49:25",
+              "name": "EL7",
+              "modelYear": "2023",
+              "id": "9414",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48339",
+                    "update": "2023-03-29 14:25:38",
+                    "brand": "NIO",
+                    "model": "EL7",
+                    "generation": "EL7",
+                    "engine": "75 kWh (653 Hp) BEV e-AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4912",
+                    "width": "1987",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": "2346",
+                    "curbWeightMin": "2346"
+                  },
+                  {
+                    "id": "48340",
+                    "update": "2023-03-29 14:25:38",
+                    "brand": "NIO",
+                    "model": "EL7",
+                    "generation": "EL7",
+                    "engine": "100 kWh (653 Hp) BEV e-AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4912",
+                    "width": "1987",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": "2366",
+                    "curbWeightMin": "2366"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-06-20 11:00:26",
+        "name": "ES7",
+        "id": "3275",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-20 11:02:27",
+              "name": "ES7",
+              "modelYear": "2022",
+              "id": "9538",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48908",
+                    "update": "2026-04-07 09:40:47",
+                    "brand": "NIO",
+                    "model": "ES7",
+                    "generation": "ES7",
+                    "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4912",
+                    "width": "1987",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48909",
+                    "update": "2026-04-07 09:40:49",
+                    "brand": "NIO",
+                    "model": "ES7",
+                    "generation": "ES7",
+                    "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4912",
+                    "width": "1987",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48910",
+                    "update": "2026-04-07 09:40:43",
+                    "brand": "NIO",
+                    "model": "ES7",
+                    "generation": "ES7",
+                    "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4912",
+                    "width": "1987",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-06-20 12:38:59",
+        "name": "EC7",
+        "id": "3276",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-20 12:39:28",
+              "name": "EC7",
+              "modelYear": "2023",
+              "id": "9539",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48911",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "NIO",
+                    "model": "EC7",
+                    "generation": "EC7",
+                    "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4968",
+                    "width": "1974",
+                    "height": "1714",
+                    "heightMin": "1714",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48912",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "NIO",
+                    "model": "EC7",
+                    "generation": "EC7",
+                    "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4968",
+                    "width": "1974",
+                    "height": "1714",
+                    "heightMin": "1714",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48913",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "NIO",
+                    "model": "EC7",
+                    "generation": "EC7",
+                    "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4968",
+                    "width": "1974",
+                    "height": "1714",
+                    "heightMin": "1714",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-14 14:43:17",
+        "name": "EL8",
+        "id": "3452",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-14 14:43:37",
+              "name": "EL8",
+              "modelYear": "2024",
+              "id": "10060",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52029",
+                    "update": "2024-06-14 16:20:06",
+                    "brand": "NIO",
+                    "model": "EL8",
+                    "generation": "EL8",
+                    "engine": "Standard Range 73.5 kWh (653 Hp) E-AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5099",
+                    "widthFoldedMirrors": "2073",
+                    "widthOpenedMirrors": "2199",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "2538",
+                    "curbWeightMin": "2538"
+                  },
+                  {
+                    "id": "52030",
+                    "update": "2024-06-14 16:20:06",
+                    "brand": "NIO",
+                    "model": "EL8",
+                    "generation": "EL8",
+                    "engine": "Long Range 90 kWh (653 Hp) E-AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5099",
+                    "widthFoldedMirrors": "2073",
+                    "widthOpenedMirrors": "2199",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "2558",
+                    "curbWeightMin": "2558"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-24 14:56:41",
+        "name": "ET9",
+        "id": "3754",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-24 14:57:12",
+              "name": "ET9",
+              "modelYear": "2025",
+              "id": "10698",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54951",
+                    "update": "2025-07-24 16:22:09",
+                    "brand": "NIO",
+                    "model": "ET9",
+                    "generation": "ET9",
+                    "engine": "100 kWh (707 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5325",
+                    "width": "2017",
+                    "height": "1621",
+                    "heightMin": "1621",
+                    "fuel": "Electricity",
+                    "curbWeight": "2700",
+                    "curbWeightMin": "2700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-13 08:47:27",
+        "name": "EL6",
+        "id": "3917",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-23 14:17:35",
+              "name": "EL6",
+              "modelYear": "2024",
+              "id": "11019",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56237",
+                    "update": "2026-01-23 16:16:20",
+                    "brand": "NIO",
+                    "model": "EL6",
+                    "generation": "EL6",
+                    "engine": "Standard Range 75 kWh (490 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "widthOpenedMirrors": "2212",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": "2378",
+                    "curbWeightMin": "2378"
+                  },
+                  {
+                    "id": "56238",
+                    "update": "2026-01-23 16:16:20",
+                    "brand": "NIO",
+                    "model": "EL6",
+                    "generation": "EL6",
+                    "engine": "Long Range 100 kWh (490 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4854",
+                    "width": "1995",
+                    "widthOpenedMirrors": "2212",
+                    "height": "1703",
+                    "heightMin": "1703",
+                    "fuel": "Electricity",
+                    "curbWeight": "2398",
+                    "curbWeightMin": "2398"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-07 11:59:37",
+        "name": "ES9",
+        "id": "3962",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-07 11:59:53",
+              "name": "ES9",
+              "modelYear": "2026",
+              "id": "11156",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56821",
+                    "update": "2026-04-07 16:16:37",
+                    "brand": "NIO",
+                    "model": "ES9",
+                    "generation": "ES9",
+                    "engine": "102 kWh (707 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5365",
+                    "width": "2029",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "fuel": "Electricity",
+                    "curbWeight": "2845",
+                    "curbWeightMin": "2845"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Puma",
+  "id": "84",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-21 11:59:40",
+        "name": "AM4",
+        "id": "912",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "AM4",
+              "modelYear": "1989",
+              "id": "1922",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9173",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Puma",
+                    "model": "AM4",
+                    "generation": "AM4",
+                    "engine": "1.8 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/5200",
+                    "powerHp": "90",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1989",
+                    "yearstop": "1995",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4000",
+                    "width": "1670",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "905",
+                    "curbWeightMin": "905"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-25 12:42:13",
+        "name": "AMV",
+        "id": "913",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "AMV",
+              "modelYear": "1992",
+              "id": "1923",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9174",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Puma",
+                    "model": "AMV",
+                    "generation": "AMV",
+                    "engine": "4.1 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/3800",
+                    "powerHp": "122",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1992",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4290",
+                    "width": "1840",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "update": "2020-11-23 12:16:33",
+  "name": "Pariss",
+  "id": "270",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-23 12:16:33",
+        "name": "Electric",
+        "id": "2627",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Electric Concept",
+              "modelYear": "2018",
+              "id": "6901",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "update": "2020-10-26 13:58:40",
+  "name": "Aspark",
+  "id": "206",
+  "models": {
+    "model": [
+      {
+        "update": "2020-10-26 13:58:40",
+        "name": "OWL",
+        "id": "2306",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "OWL",
+              "modelYear": "2020",
+              "id": "7407",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38039",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aspark",
+                    "model": "OWL",
+                    "generation": "OWL",
+                    "engine": "64 kWh (2012 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4791",
+                    "width": "1935",
+                    "height": "993",
+                    "heightMin": "993",
+                    "rideHeight": "80-160",
+                    "rideHeightMin": "80",
+                    "rideHeightMax": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1900",
+                    "curbWeightMin": "1900"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "OWL Prototype",
+              "modelYear": "2018",
+              "id": "5921",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31185",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Aspark",
+                    "model": "OWL",
+                    "generation": "OWL Prototype",
+                    "engine": "(435 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "width": "1935",
+                    "height": "990",
+                    "heightMin": "990",
+                    "rideHeight": "90",
+                    "rideHeightMin": "90",
+                    "fuel": "Electricity",
+                    "curbWeight": "850",
+                    "curbWeightMin": "850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

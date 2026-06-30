@@ -1,0 +1,119 @@
+{
+  "update": "2025-03-11 10:57:27",
+  "name": "Riddara",
+  "id": "349",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-11 11:15:31",
+        "name": "RD6",
+        "id": "3589",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-11 11:17:25",
+              "name": "RD6",
+              "modelYear": "2023",
+              "id": "10412",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53865",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Riddara",
+                    "model": "RD6",
+                    "generation": "RD6",
+                    "engine": "63 kWh (270 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5260",
+                    "width": "1900",
+                    "height": "1865",
+                    "heightMin": "1865",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Electricity",
+                    "curbWeight": "2065",
+                    "curbWeightMin": "2065"
+                  },
+                  {
+                    "id": "53866",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Riddara",
+                    "model": "RD6",
+                    "generation": "RD6",
+                    "engine": "86 kWh (270 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5260",
+                    "width": "1900",
+                    "height": "1865",
+                    "heightMin": "1865",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Electricity",
+                    "curbWeight": "2090",
+                    "curbWeightMin": "2090"
+                  },
+                  {
+                    "id": "53867",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Riddara",
+                    "model": "RD6",
+                    "generation": "RD6",
+                    "engine": "73 kWh (422 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5260",
+                    "width": "1900",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "225-230",
+                    "rideHeightMin": "225",
+                    "rideHeightMax": "230",
+                    "fuel": "Electricity",
+                    "curbWeight": "2170",
+                    "curbWeightMin": "2170"
+                  },
+                  {
+                    "id": "53868",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Riddara",
+                    "model": "RD6",
+                    "generation": "RD6",
+                    "engine": "86 kWh (422 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5260",
+                    "width": "1900",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "225-230",
+                    "rideHeightMin": "225",
+                    "rideHeightMax": "230",
+                    "fuel": "Electricity",
+                    "curbWeight": "2170",
+                    "curbWeightMin": "2170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

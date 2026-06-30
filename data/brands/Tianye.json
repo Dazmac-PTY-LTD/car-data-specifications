@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Tianye",
+  "id": "25",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-05 09:40:16",
+        "name": "Admiral",
+        "id": "303",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Admiral",
+              "modelYear": "2001",
+              "id": "638",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2785",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tianye",
+                    "model": "Admiral",
+                    "generation": "Admiral",
+                    "engine": "2.2i 4WD (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/4200",
+                    "powerHp": "103",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "2001",
+                    "yearstop": "2007",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5000",
+                    "width": "1800",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

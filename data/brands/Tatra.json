@@ -1,0 +1,160 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Tatra",
+  "id": "15",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-08 12:11:51",
+        "name": "T613",
+        "id": "212",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T613-4mi",
+              "modelYear": "1991",
+              "id": "428",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1620",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tatra",
+                    "model": "T613",
+                    "generation": "T613-4mi",
+                    "engine": "3.5 i V8 16V (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5750",
+                    "powerHp": "200",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1991",
+                    "yearstop": "1996",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5130",
+                    "width": "1800",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T613",
+              "modelYear": "1973",
+              "id": "429",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1621",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tatra",
+                    "model": "T613",
+                    "generation": "T613",
+                    "engine": "3.5 V8 16V (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5200",
+                    "powerHp": "170",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1973",
+                    "yearstop": "1980",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5530",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:13:06",
+        "name": "T700",
+        "id": "213",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T700",
+              "modelYear": "1996",
+              "id": "430",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1622",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tatra",
+                    "model": "T700",
+                    "generation": "T700",
+                    "engine": "3.5 i V8 16V (168 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "168/5200",
+                    "powerHp": "168",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1996",
+                    "yearstop": "1999",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5135",
+                    "width": "1800",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "1623",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tatra",
+                    "model": "T700",
+                    "generation": "T700",
+                    "engine": "3.5 i V8 16V (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5750",
+                    "powerHp": "200",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1996",
+                    "yearstop": "1999",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5135",
+                    "width": "1800",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

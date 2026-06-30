@@ -1,0 +1,49 @@
+{
+  "update": "2019-05-22 15:10:12",
+  "name": "Aria",
+  "id": "222",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-27 12:29:28",
+        "name": "FXE",
+        "id": "2337",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "FXE",
+              "modelYear": "2020",
+              "id": "6028",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32285",
+                    "update": "2023-11-06 12:35:43",
+                    "brand": "Aria",
+                    "model": "FXE",
+                    "generation": "FXE",
+                    "engine": "6.3 V8 (1150 Hp) Hybrid AWD DCT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "1930",
+                    "height": "1139",
+                    "heightMin": "1139",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

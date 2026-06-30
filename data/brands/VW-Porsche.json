@@ -1,0 +1,135 @@
+{
+  "update": "2019-08-13 15:56:02",
+  "name": "VW-Porsche",
+  "id": "90",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-13 15:56:02",
+        "name": "914",
+        "id": "979",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-05 12:35:11",
+              "name": "914",
+              "modelYear": "1969",
+              "id": "2074",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10145",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "VW-Porsche",
+                    "model": "914",
+                    "generation": "914",
+                    "engine": "2.0 (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/5800",
+                    "powerHp": "110",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1969",
+                    "yearstop": "1973",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3985",
+                    "width": "1650",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "rideHeight": "128",
+                    "rideHeightMin": "128",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "940",
+                    "curbWeightMin": "940"
+                  },
+                  {
+                    "id": "10146",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "VW-Porsche",
+                    "model": "914",
+                    "generation": "914",
+                    "engine": "1.7 (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/4900",
+                    "powerHp": "80",
+                    "powerRpm": "4900",
+                    "powerRpmLow": "4900",
+                    "yearstart": "1969",
+                    "yearstop": "1973",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3985",
+                    "width": "1650",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  },
+                  {
+                    "id": "10147",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "VW-Porsche",
+                    "model": "914",
+                    "generation": "914",
+                    "engine": "1.8 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5000",
+                    "powerHp": "86",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1974",
+                    "yearstop": "1976",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4114",
+                    "width": "1650",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "965",
+                    "curbWeightMin": "965"
+                  },
+                  {
+                    "id": "10148",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "VW-Porsche",
+                    "model": "914",
+                    "generation": "914",
+                    "engine": "2.0 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/5000",
+                    "powerHp": "100",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1973",
+                    "yearstop": "1976",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3985",
+                    "width": "1650",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "update": "2023-05-18 14:30:15",
+  "name": "Invicta Electric",
+  "id": "323",
+  "models": {
+    "model": [
+      {
+        "update": "2023-05-19 12:40:13",
+        "name": "D2S",
+        "id": "3258",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-19 12:41:48",
+              "name": "D2S",
+              "modelYear": "2022",
+              "id": "9488",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48653",
+                    "update": "2023-05-19 15:05:18",
+                    "brand": "Invicta Electric",
+                    "model": "D2S",
+                    "generation": "D2S",
+                    "engine": "(20.4 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2811",
+                    "width": "1499",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "865",
+                    "curbWeightMin": "865"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-19 14:40:42",
+        "name": "Pony",
+        "id": "3259",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-19 14:47:30",
+              "name": "Pony",
+              "modelYear": "2023",
+              "id": "9489",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48654",
+                    "update": "2023-05-19 15:09:32",
+                    "brand": "Invicta Electric",
+                    "model": "Pony",
+                    "generation": "Pony",
+                    "engine": "13.7 kWh (27.2 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3060",
+                    "width": "1480",
+                    "height": "1585",
+                    "heightMin": "1585",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "600",
+                    "curbWeightMin": "600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

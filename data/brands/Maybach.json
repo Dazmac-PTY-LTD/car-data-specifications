@@ -1,0 +1,400 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Maybach",
+  "id": "113",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-19 10:48:41",
+        "name": "57",
+        "id": "2002",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-06 14:41:59",
+              "name": "57 Zeppelin (W240)",
+              "modelYear": "2009",
+              "id": "8372",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43454",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "57",
+                    "generation": "57 Zeppelin (W240)",
+                    "engine": "6.0 V12 (640 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/4800-5100",
+                    "powerHp": "640",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2009",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5734",
+                    "width": "1980",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2735",
+                    "curbWeightMin": "2735"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-11-06 14:41:59",
+              "name": "57 (W240)",
+              "modelYear": "2002",
+              "id": "4073",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18474",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "57",
+                    "generation": "57 (W240)",
+                    "engine": "5.5 V12 (550 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "550/5250",
+                    "powerHp": "550",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2002",
+                    "yearstop": "2013",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5728",
+                    "width": "1980",
+                    "widthOpenedMirrors": "2134",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 08:56:01",
+        "name": "57 S",
+        "id": "2003",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-03-23 12:19:05",
+              "name": "57 S (W240, facelift 2010)",
+              "modelYear": "2010",
+              "id": "8219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43115",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "57 S",
+                    "generation": "57 S (W240, facelift 2010)",
+                    "engine": "6.0 V12 (630 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "630/4800-5100",
+                    "powerHp": "630",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5734",
+                    "width": "1980",
+                    "height": "1557",
+                    "heightMin": "1557",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-03-23 12:19:05",
+              "name": "57 S (W240)",
+              "modelYear": "2005",
+              "id": "4074",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18475",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "57 S",
+                    "generation": "57 S (W240)",
+                    "engine": "6.0 V12 (612 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "612/4800-5100",
+                    "powerHp": "612",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5728",
+                    "width": "1980",
+                    "widthOpenedMirrors": "2134",
+                    "height": "1557",
+                    "heightMin": "1557",
+                    "rideHeight": "141",
+                    "rideHeightMin": "141",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 08:56:58",
+        "name": "62",
+        "id": "2004",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-06 14:42:10",
+              "name": "62 (V240)",
+              "modelYear": "2002",
+              "id": "4075",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18476",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "62",
+                    "generation": "62 (V240)",
+                    "engine": "5.5 V12 (550 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "550/5250",
+                    "powerHp": "550",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2002",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "6165",
+                    "width": "1980",
+                    "widthOpenedMirrors": "2134",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2780",
+                    "curbWeightMin": "2780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-19 10:52:05",
+        "name": "62 S",
+        "id": "2005",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-03-23 12:41:00",
+              "name": "62 S (V240, facelift 2010)",
+              "modelYear": "2010",
+              "id": "8220",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43041",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "62 S",
+                    "generation": "62 S (V240, facelift 2010)",
+                    "engine": "6.0 V12 (630 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "630/4800-5100",
+                    "powerHp": "630",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "6171",
+                    "width": "1980",
+                    "widthOpenedMirrors": "2151",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2780",
+                    "curbWeightMin": "2780"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-03-23 12:40:45",
+              "name": "62 S (V240)",
+              "modelYear": "2006",
+              "id": "4076",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18477",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Maybach",
+                    "model": "62 S",
+                    "generation": "62 S (V240)",
+                    "engine": "6.0 V12 (612 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "612/4800-5100",
+                    "powerHp": "612",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "6160",
+                    "width": "1980",
+                    "widthOpenedMirrors": "2134",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2780",
+                    "curbWeightMin": "2780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-19 10:58:31",
+        "name": "Landaulet",
+        "id": "2006",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Landaulet",
+              "modelYear": "2008",
+              "id": "4077",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18478",
+                    "update": "2023-11-06 15:00:14",
+                    "brand": "Maybach",
+                    "model": "Landaulet",
+                    "generation": "Landaulet",
+                    "engine": "6.0 V12 (612 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "612/4800-5100",
+                    "powerHp": "612",
+                    "powerRpm": "4800-5100",
+                    "powerRpmLow": "4800",
+                    "powerRpmHigh": "5100",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2855",
+                    "curbWeightMin": "2855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-19 12:39:37",
+        "name": "Zeppelin",
+        "id": "3408",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 14:23:54",
+              "name": "Zeppelin Cabriolet",
+              "modelYear": "1930",
+              "id": "9937",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51373",
+                    "update": "2024-03-19 16:31:42",
+                    "brand": "Maybach",
+                    "model": "Zeppelin",
+                    "generation": "Zeppelin Cabriolet",
+                    "engine": "DS8 8.0 V12 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/3000",
+                    "powerHp": "200",
+                    "powerRpm": "3000",
+                    "powerRpmLow": "3000",
+                    "yearstart": "1930",
+                    "yearstop": "1937",
+                    "coupe": "Cabriolet",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "5520",
+                    "width": "1820",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3000",
+                    "curbWeightMin": "3000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

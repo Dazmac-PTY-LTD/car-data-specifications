@@ -1,0 +1,1008 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Austin",
+  "id": "46",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-08 15:25:31",
+        "name": "Allegro",
+        "id": "550",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:24:22",
+              "name": "Allegro (ado 67)",
+              "modelYear": "1973",
+              "id": "1191",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5109",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1980",
+                    "yearstop": "1983",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5110",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.1 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1973",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5111",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.1 (49 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "49",
+                    "powerHp": "49",
+                    "yearstart": "1975",
+                    "yearstop": "1979",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5112",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1973",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5113",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.3 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1975",
+                    "yearstop": "1979",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5114",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.3 (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63",
+                    "powerHp": "63",
+                    "yearstart": "1979",
+                    "yearstop": "1983",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5115",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1.5 Super (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1973",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5116",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Allegro",
+                    "generation": "Allegro (ado 67)",
+                    "engine": "1750 (91 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "1975",
+                    "yearstop": "1979",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-08 15:28:20",
+        "name": "Maestro",
+        "id": "551",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Maestro (XC)",
+              "modelYear": "1983",
+              "id": "1192",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5117",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.3 (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63",
+                    "powerHp": "63",
+                    "yearstart": "1983",
+                    "yearstop": "1985",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5118",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.3 LS (67 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "67",
+                    "powerHp": "67",
+                    "yearstart": "1983",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5119",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.6 (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1983",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5120",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.6 Mayfair HLS (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/",
+                    "powerHp": "83",
+                    "yearstart": "1983",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "925",
+                    "curbWeightMin": "925"
+                  },
+                  {
+                    "id": "5121",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.6 MG (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "1983",
+                    "yearstop": "1985",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5122",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.6 MG (XC) (99 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "99",
+                    "powerHp": "99",
+                    "yearstart": "1983",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5123",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "2.0 EFi (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113",
+                    "powerHp": "113",
+                    "yearstart": "1984",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "28668",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Austin",
+                    "model": "Maestro",
+                    "generation": "Maestro (XC)",
+                    "engine": "1.6 Mayfair HLS (83 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/",
+                    "powerHp": "83",
+                    "yearstart": "1983",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "925",
+                    "curbWeightMin": "925"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-09 09:11:43",
+        "name": "Metro",
+        "id": "552",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Metro",
+              "modelYear": "1980",
+              "id": "1193",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5124",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.0 (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41",
+                    "powerHp": "41",
+                    "yearstart": "1980",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5125",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.0 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1980",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5126",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.0 Surf HLE (48 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "48",
+                    "powerHp": "48",
+                    "yearstart": "1980",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5127",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1980",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5128",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 (71 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "71",
+                    "powerHp": "71",
+                    "yearstart": "1980",
+                    "yearstop": "1985",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5129",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 L,HLE,S (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1980",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5130",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 Surf (XF) (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1985",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5131",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 Turbo (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1983",
+                    "yearstop": "1990",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-09 09:38:00",
+        "name": "Montego",
+        "id": "553",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:34:54",
+              "name": "Montego (XE)",
+              "modelYear": "1984",
+              "id": "1194",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5132",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego (XE)",
+                    "engine": "1.3 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5133",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego (XE)",
+                    "engine": "1.6 LS,HL (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83",
+                    "powerHp": "83",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5134",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego (XE)",
+                    "engine": "2.0 (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5135",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego (XE)",
+                    "engine": "2.0 Mayfair (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113",
+                    "powerHp": "113",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5136",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego (XE)",
+                    "engine": "2.0 Turbo (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:34:54",
+              "name": "Montego Combi (XE)",
+              "modelYear": "1984",
+              "id": "1195",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5137",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego Combi (XE)",
+                    "engine": "1.6 LS (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83",
+                    "powerHp": "83",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5138",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego Combi (XE)",
+                    "engine": "2.0 (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "1984",
+                    "yearstop": "1991",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5139",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Montego",
+                    "generation": "Montego Combi (XE)",
+                    "engine": "2.0 HLI (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113",
+                    "powerHp": "113",
+                    "yearstart": "1984",
+                    "yearstop": "1988",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-09 10:36:53",
+        "name": "Princess",
+        "id": "554",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:35:32",
+              "name": "Princess 2",
+              "modelYear": "1978",
+              "id": "1196",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5140",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Princess",
+                    "generation": "Princess 2",
+                    "engine": "1700 (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88",
+                    "powerHp": "88",
+                    "yearstart": "1972",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5141",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Princess",
+                    "generation": "Princess 2",
+                    "engine": "2000 (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94",
+                    "powerHp": "94",
+                    "yearstart": "1978",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5142",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Princess",
+                    "generation": "Princess 2",
+                    "engine": "2200 (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112",
+                    "powerHp": "112",
+                    "yearstart": "1978",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:35:32",
+              "name": "Princess",
+              "modelYear": "1975",
+              "id": "1197",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5143",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Princess",
+                    "generation": "Princess",
+                    "engine": "1800 HL (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5144",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Princess",
+                    "generation": "Princess",
+                    "engine": "2200 HLS (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-08 15:27:07",
+        "name": "Ambassador",
+        "id": "555",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:31:25",
+              "name": "Ambassador",
+              "modelYear": "1982",
+              "id": "1198",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5145",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "2.0 (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94",
+                    "powerHp": "94",
+                    "yearstart": "1982",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-09 09:10:40",
+        "name": "Maxi",
+        "id": "556",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:32:00",
+              "name": "Maxi II",
+              "modelYear": "1980",
+              "id": "1199",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5146",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maxi",
+                    "generation": "Maxi II",
+                    "engine": "1750 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1980",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5147",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maxi",
+                    "generation": "Maxi II",
+                    "engine": "1750 HLS (91 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "1980",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:32:00",
+              "name": "Maxi I",
+              "modelYear": "1969",
+              "id": "1200",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5148",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maxi",
+                    "generation": "Maxi I",
+                    "engine": "1500 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1969",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5149",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maxi",
+                    "generation": "Maxi I",
+                    "engine": "1750 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1969",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5150",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Maxi",
+                    "generation": "Maxi I",
+                    "engine": "1750 HL (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1972",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-06 16:33:56",
+        "name": "Mini",
+        "id": "557",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:34:25",
+              "name": "Mini MK I",
+              "modelYear": "1967",
+              "id": "1201",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5151",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1000 (35 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "35",
+                    "powerHp": "35",
+                    "yearstart": "1967",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5152",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1000 (39 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "39",
+                    "powerHp": "39",
+                    "yearstart": "1967",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5153",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1000 Mayfair (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42",
+                    "powerHp": "42",
+                    "yearstart": "1982",
+                    "yearstop": "1993",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5154",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1000 Mayfair Sport (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41",
+                    "powerHp": "41",
+                    "yearstart": "1988",
+                    "yearstop": "1993",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5155",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1100 Special (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1976",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5156",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "1275 GT (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53",
+                    "powerHp": "53",
+                    "yearstart": "1969",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5157",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Austin",
+                    "model": "Mini",
+                    "generation": "Mini MK I",
+                    "engine": "850 (34 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "34",
+                    "powerHp": "34",
+                    "yearstart": "1967",
+                    "yearstop": "1979",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

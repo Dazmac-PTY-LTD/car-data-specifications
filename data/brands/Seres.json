@@ -1,0 +1,230 @@
+{
+  "update": "2021-05-13 14:59:37",
+  "name": "Seres",
+  "id": "298",
+  "models": {
+    "model": [
+      {
+        "update": "2021-05-18 11:25:49",
+        "name": "SF5",
+        "id": "2932",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-16 08:56:02",
+              "name": "SF5",
+              "modelYear": "2019",
+              "id": "8365",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46799",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Seres",
+                    "model": "SF5",
+                    "generation": "SF5",
+                    "engine": "1.5T (694 Hp) EREV 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "112/4000",
+                    "powerHp": "112",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2180",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "181",
+                    "rideHeightMin": "181",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  },
+                  {
+                    "id": "51249",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Seres",
+                    "model": "SF5",
+                    "generation": "SF5",
+                    "engine": "1.5T (347 Hp) EREV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "112/4000",
+                    "powerHp": "112",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1930",
+                    "widthOpenedMirrors": "2180",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "181",
+                    "rideHeightMin": "181",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2230",
+                    "curbWeightMin": "2230"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-07 15:25:38",
+        "name": "3",
+        "id": "3178",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-09 10:28:22",
+              "name": "3",
+              "modelYear": "2021",
+              "id": "9092",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46802",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Seres",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "53.6 kWh (163 Hp) E-shift",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1850",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-08 15:35:49",
+        "name": "5",
+        "id": "3184",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-08 15:42:28",
+              "name": "5",
+              "modelYear": "2023",
+              "id": "9100",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51242",
+                    "update": "2024-02-15 16:23:00",
+                    "brand": "Seres",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "80 kWh (299 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  },
+                  {
+                    "id": "51243",
+                    "update": "2024-02-15 16:23:59",
+                    "brand": "Seres",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "80 kWh (585 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  },
+                  {
+                    "id": "51244",
+                    "update": "2024-02-16 09:40:52",
+                    "brand": "Seres",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "90 kWh (585 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-09-27 17:06:04",
+        "name": "7",
+        "id": "3326",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-09-28 17:52:59",
+              "name": "7",
+              "modelYear": "2022",
+              "id": "9660",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

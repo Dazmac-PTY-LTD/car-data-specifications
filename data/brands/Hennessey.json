@@ -1,0 +1,137 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Hennessey",
+  "id": "220",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 13:55:36",
+        "name": "Venom GT",
+        "id": "2328",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Venom GT",
+              "modelYear": "2011",
+              "id": "5975",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32107",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hennessey",
+                    "model": "Venom GT",
+                    "generation": "Venom GT",
+                    "engine": "7.0 V8 (1261 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1261/6600",
+                    "powerHp": "1261",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4655",
+                    "width": "1960",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "rideHeight": "90-150",
+                    "rideHeightMin": "90",
+                    "rideHeightMax": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1244",
+                    "curbWeightMin": "1244"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 11:48:24",
+        "name": "Venom F5",
+        "id": "2383",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-08-25 11:13:08",
+              "name": "Venom F5 Roadster",
+              "modelYear": "2023",
+              "id": "9010",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46429",
+                    "update": "2023-08-17 13:12:39",
+                    "brand": "Hennessey",
+                    "model": "Venom F5",
+                    "generation": "Venom F5 Roadster",
+                    "engine": "6.6 V8 (1817 Hp) SCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1817/8000",
+                    "powerHp": "1817",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4666",
+                    "width": "1971",
+                    "height": "1131",
+                    "heightMin": "1131",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1405",
+                    "curbWeightMin": "1405"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Venom F5",
+              "modelYear": "2021",
+              "id": "6173",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41893",
+                    "update": "2023-08-17 13:12:40",
+                    "brand": "Hennessey",
+                    "model": "Venom F5",
+                    "generation": "Venom F5",
+                    "engine": "6.6 V8 (1817 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1817/8000",
+                    "powerHp": "1817",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4666",
+                    "widthFoldedMirrors": "1960",
+                    "widthOpenedMirrors": "1971",
+                    "height": "1131",
+                    "heightMin": "1131",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1385",
+                    "curbWeightMin": "1385"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

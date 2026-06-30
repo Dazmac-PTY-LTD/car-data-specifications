@@ -1,0 +1,51 @@
+{
+  "update": "2023-05-18 14:30:15",
+  "name": "Cenntro",
+  "id": "320",
+  "models": {
+    "model": [
+      {
+        "update": "2023-05-18 14:32:02",
+        "name": "Logistar 100",
+        "id": "3253",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-18 14:37:10",
+              "name": "Logistar 100",
+              "modelYear": "2022",
+              "id": "9483",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48639",
+                    "update": "2023-05-18 15:34:39",
+                    "brand": "Cenntro",
+                    "model": "Logistar 100",
+                    "generation": "Logistar 100",
+                    "engine": "16 kWh (34 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Minivan, MPV",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3664",
+                    "width": "1610",
+                    "height": "1689",
+                    "heightMin": "1689",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "930",
+                    "curbWeightMin": "930"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

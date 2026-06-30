@@ -1,0 +1,154 @@
+{
+  "update": "2021-01-08 16:27:01",
+  "name": "Saleen",
+  "id": "129",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-08 16:27:01",
+        "name": "S7",
+        "id": "1334",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S7 Twin Turbo",
+              "modelYear": "2005",
+              "id": "2687",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12411",
+                    "update": "2022-07-19 09:42:04",
+                    "brand": "Saleen",
+                    "model": "S7",
+                    "generation": "S7 Twin Turbo",
+                    "engine": "7.0 i V8 (750 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/6300",
+                    "powerHp": "750",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2005",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4774",
+                    "width": "1990",
+                    "height": "1040",
+                    "heightMin": "1040",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S7",
+              "modelYear": "2001",
+              "id": "2688",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12412",
+                    "update": "2022-07-19 09:26:23",
+                    "brand": "Saleen",
+                    "model": "S7",
+                    "generation": "S7",
+                    "engine": "7.0 i V8 (558 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "558/6400",
+                    "powerHp": "558",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2000",
+                    "yearstop": "2004",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4775",
+                    "width": "1990",
+                    "height": "1040",
+                    "heightMin": "1040",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-23 17:14:02",
+        "name": "1",
+        "id": "2656",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1",
+              "modelYear": "2018",
+              "id": "6974",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36272",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Saleen",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "2.5 (457 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "457",
+                    "powerHp": "457",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4356",
+                    "widthFoldedMirrors": "1938",
+                    "height": "1191",
+                    "heightMin": "1191",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1218",
+                    "curbWeightMin": "1218"
+                  },
+                  {
+                    "id": "39357",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Saleen",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "2.2 (457 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "457",
+                    "powerHp": "457",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4420",
+                    "width": "1981",
+                    "height": "1158",
+                    "heightMin": "1158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1225",
+                    "curbWeightMin": "1225"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

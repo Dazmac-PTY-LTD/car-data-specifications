@@ -1,0 +1,354 @@
+{
+  "update": "2020-02-06 11:41:04",
+  "name": "Trabant",
+  "id": "45",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-15 08:11:13",
+        "name": "1.1",
+        "id": "548",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1.1N",
+              "modelYear": "1990",
+              "id": "1184",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5097",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Trabant",
+                    "model": "1.1",
+                    "generation": "1.1N",
+                    "engine": "1.1 (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41/5300",
+                    "powerHp": "41",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3521",
+                    "width": "1528",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "700",
+                    "curbWeightMin": "700"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1.1 Tramp",
+              "modelYear": "1990",
+              "id": "1185",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5099",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Trabant",
+                    "model": "1.1",
+                    "generation": "1.1 Tramp",
+                    "engine": "1.1 (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41/5300",
+                    "powerHp": "41",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3521",
+                    "width": "1528",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "680",
+                    "curbWeightMin": "680"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1.1 Universal",
+              "modelYear": "1990",
+              "id": "1186",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5101",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Trabant",
+                    "model": "1.1",
+                    "generation": "1.1 Universal",
+                    "engine": "1.1 (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41/5300",
+                    "powerHp": "41",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Station wagon (estate)",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3521",
+                    "width": "1528",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "735",
+                    "curbWeightMin": "735"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1.1 Pick-up",
+              "modelYear": "1990",
+              "id": "1187",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5102",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Trabant",
+                    "model": "1.1",
+                    "generation": "1.1 Pick-up",
+                    "engine": "1.1 (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41/5300",
+                    "powerHp": "41",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3521",
+                    "width": "1528",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "680",
+                    "curbWeightMin": "680"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 08:20:10",
+        "name": "P 601",
+        "id": "549",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "P 601 Tramp",
+              "modelYear": "1964",
+              "id": "1188",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5103",
+                    "update": "2023-08-09 13:40:33",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601 Tramp",
+                    "engine": "0.6 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/3800",
+                    "powerHp": "26",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1963",
+                    "yearstop": "1985",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3480",
+                    "width": "1506",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "645",
+                    "curbWeightMin": "645"
+                  },
+                  {
+                    "id": "5104",
+                    "update": "2023-08-09 13:40:32",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601 Tramp",
+                    "engine": "0.6 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/3800",
+                    "powerHp": "26",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1978",
+                    "yearstop": "1990",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3480",
+                    "width": "1506",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "645",
+                    "curbWeightMin": "645"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "P 601 Universal",
+              "modelYear": "1964",
+              "id": "1189",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5105",
+                    "update": "2023-08-09 13:40:36",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601 Universal",
+                    "engine": "0.6 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/4200",
+                    "powerHp": "26",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1963",
+                    "yearstop": "1985",
+                    "coupe": "Station wagon (estate)",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3560",
+                    "width": "1510",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "650",
+                    "curbWeightMin": "650"
+                  },
+                  {
+                    "id": "5106",
+                    "update": "2023-08-09 13:40:33",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601 Universal",
+                    "engine": "0.6 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/4200",
+                    "powerHp": "26",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1978",
+                    "yearstop": "1990",
+                    "coupe": "Station wagon (estate)",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3560",
+                    "width": "1510",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "650",
+                    "curbWeightMin": "650"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "P 601",
+              "modelYear": "1964",
+              "id": "1190",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5107",
+                    "update": "2023-08-09 13:40:38",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601",
+                    "engine": "0.6 (23 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "23/3800",
+                    "powerHp": "23",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1963",
+                    "yearstop": "1970",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3510",
+                    "width": "1510",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "615",
+                    "curbWeightMin": "615"
+                  },
+                  {
+                    "id": "5108",
+                    "update": "2023-08-09 13:40:37",
+                    "brand": "Trabant",
+                    "model": "P 601",
+                    "generation": "P 601",
+                    "engine": "0.6 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/4200",
+                    "powerHp": "26",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1970",
+                    "yearstop": "1990",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3510",
+                    "width": "1510",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Mixture of two stroke engine",
+                    "curbWeight": "615",
+                    "curbWeightMin": "615"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

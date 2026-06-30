@@ -1,0 +1,115 @@
+{
+  "update": "2021-08-11 11:22:08",
+  "name": "Aiways",
+  "id": "301",
+  "models": {
+    "model": [
+      {
+        "update": "2021-08-11 11:22:50",
+        "name": "U5",
+        "id": "2987",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-11 11:23:15",
+              "name": "U5",
+              "modelYear": "2020",
+              "id": "8529",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44267",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Aiways",
+                    "model": "U5",
+                    "generation": "U5",
+                    "engine": "Standard 63 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4680",
+                    "width": "1865",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1720",
+                    "curbWeightMin": "1720"
+                  },
+                  {
+                    "id": "44268",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Aiways",
+                    "model": "U5",
+                    "generation": "U5",
+                    "engine": "Premium 63 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4680",
+                    "width": "1865",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-03-13 12:36:17",
+        "name": "U6",
+        "id": "3234",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-03-13 12:37:25",
+              "name": "U6",
+              "modelYear": "2022",
+              "id": "9380",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48127",
+                    "update": "2023-03-18 07:51:07",
+                    "brand": "Aiways",
+                    "model": "U6",
+                    "generation": "U6",
+                    "engine": "PRIME 63 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4805",
+                    "width": "1880",
+                    "height": "1641",
+                    "heightMin": "1641",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1790",
+                    "curbWeightMin": "1790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

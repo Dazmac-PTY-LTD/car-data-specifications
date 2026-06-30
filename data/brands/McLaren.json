@@ -1,0 +1,1590 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "McLaren",
+  "id": "123",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-08 12:13:22",
+        "name": "F1",
+        "id": "1268",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 12:11:10",
+              "name": "F1 GTR",
+              "modelYear": "1995",
+              "id": "9936",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11836",
+                    "update": "2024-03-20 14:27:09",
+                    "brand": "McLaren",
+                    "model": "F1",
+                    "generation": "F1 GTR",
+                    "engine": "6.0 V12 (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1997",
+                    "yearstop": "1997",
+                    "coupe": "Coupe",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4933",
+                    "width": "1920",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "rideHeight": "70",
+                    "rideHeightMin": "70",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "915",
+                    "curbWeightMin": "915"
+                  },
+                  {
+                    "id": "51374",
+                    "update": "2024-03-20 14:27:18",
+                    "brand": "McLaren",
+                    "model": "F1",
+                    "generation": "F1 GTR",
+                    "engine": "6.1 V12 (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1995",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4287",
+                    "width": "1820",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "rideHeight": "75",
+                    "rideHeightMin": "75",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  },
+                  {
+                    "id": "51375",
+                    "update": "2024-03-20 14:27:18",
+                    "brand": "McLaren",
+                    "model": "F1",
+                    "generation": "F1 GTR",
+                    "engine": "6.1 V12 (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1996",
+                    "yearstop": "1996",
+                    "coupe": "Coupe",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4367",
+                    "width": "1900",
+                    "height": "1090",
+                    "heightMin": "1090",
+                    "rideHeight": "60",
+                    "rideHeightMin": "60",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1012",
+                    "curbWeightMin": "1012"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F1",
+              "modelYear": "1993",
+              "id": "2528",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11835",
+                    "update": "2024-03-21 08:03:53",
+                    "brand": "McLaren",
+                    "model": "F1",
+                    "generation": "F1",
+                    "engine": "GT 6.1 V12 (627 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "627/7400",
+                    "powerHp": "627",
+                    "powerRpm": "7400",
+                    "powerRpmLow": "7400",
+                    "yearstart": "1997",
+                    "yearstop": "1997",
+                    "coupe": "Coupe",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4928",
+                    "width": "1940",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1120",
+                    "curbWeightMin": "1120"
+                  },
+                  {
+                    "id": "11837",
+                    "update": "2024-03-20 14:27:05",
+                    "brand": "McLaren",
+                    "model": "F1",
+                    "generation": "F1",
+                    "engine": "6.1 V12 (627 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "627/7500",
+                    "powerHp": "627",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4287",
+                    "width": "1820",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1140",
+                    "curbWeightMin": "1140"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:21:18",
+        "name": "LM",
+        "id": "1269",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 08:48:05",
+              "name": "LM",
+              "modelYear": "1995",
+              "id": "2529",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11838",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "McLaren",
+                    "model": "LM",
+                    "generation": "LM",
+                    "engine": "6.0 (668 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "668",
+                    "powerHp": "668",
+                    "yearstart": "1995",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-23 14:28:34",
+        "name": "570S",
+        "id": "2111",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "570S Spider",
+              "modelYear": "2017",
+              "id": "5602",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "30238",
+                    "update": "2023-05-12 12:56:26",
+                    "brand": "McLaren",
+                    "model": "570S",
+                    "generation": "570S Spider",
+                    "engine": "3.8 V8 (570 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/7500",
+                    "powerHp": "570",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4530",
+                    "width": "1930",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1498",
+                    "curbWeightMin": "1498"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "570S",
+              "modelYear": "2015",
+              "id": "4793",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23266",
+                    "update": "2023-05-12 12:56:27",
+                    "brand": "McLaren",
+                    "model": "570S",
+                    "generation": "570S",
+                    "engine": "3.8 V8 (570 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/7500",
+                    "powerHp": "570",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4530",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1344",
+                    "curbWeightMin": "1344"
+                  },
+                  {
+                    "id": "23546",
+                    "update": "2023-05-12 12:56:27",
+                    "brand": "McLaren",
+                    "model": "570S",
+                    "generation": "570S",
+                    "engine": "GT 3.8 V8 (570 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/7500",
+                    "powerHp": "570",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4530",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "23547",
+                    "update": "2023-05-12 12:56:26",
+                    "brand": "McLaren",
+                    "model": "570S",
+                    "generation": "570S",
+                    "engine": "S GT 3.8 V8 (570 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/7500",
+                    "powerHp": "570",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4606",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1179",
+                    "heightMin": "1179",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:06:49",
+        "name": "650S",
+        "id": "2113",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "650S Spider",
+              "modelYear": "2015",
+              "id": "4797",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23548",
+                    "update": "2023-05-12 13:54:23",
+                    "brand": "McLaren",
+                    "model": "650S",
+                    "generation": "650S Spider",
+                    "engine": "3.8 V8 (650 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/7250",
+                    "powerHp": "650",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1203",
+                    "heightMin": "1203",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1468",
+                    "curbWeightMin": "1468"
+                  },
+                  {
+                    "id": "23552",
+                    "update": "2023-05-12 13:54:21",
+                    "brand": "McLaren",
+                    "model": "650S",
+                    "generation": "650S Spider",
+                    "engine": "CAN-AM 3.8 V8 (650 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/7250",
+                    "powerHp": "650",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1468",
+                    "curbWeightMin": "1468"
+                  },
+                  {
+                    "id": "24383",
+                    "update": "2023-05-12 14:01:25",
+                    "brand": "McLaren",
+                    "model": "650S",
+                    "generation": "650S Spider",
+                    "engine": "625C 3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7250",
+                    "powerHp": "625",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1376",
+                    "curbWeightMin": "1376"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "650S Coupe",
+              "modelYear": "2014",
+              "id": "4796",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23549",
+                    "update": "2023-05-12 13:54:24",
+                    "brand": "McLaren",
+                    "model": "650S",
+                    "generation": "650S Coupe",
+                    "engine": "3.8 V8 (650 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/7250",
+                    "powerHp": "650",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1203",
+                    "heightMin": "1203",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1468",
+                    "curbWeightMin": "1468"
+                  },
+                  {
+                    "id": "24393",
+                    "update": "2023-05-12 14:03:24",
+                    "brand": "McLaren",
+                    "model": "650S",
+                    "generation": "650S Coupe",
+                    "engine": "625C 3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7250",
+                    "powerHp": "625",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1336",
+                    "curbWeightMin": "1336"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:21:46",
+        "name": "P1",
+        "id": "2114",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 11:16:09",
+              "name": "P1 GTR",
+              "modelYear": "2015",
+              "id": "9934",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "P1",
+              "modelYear": "2013",
+              "id": "4799",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23553",
+                    "update": "2023-05-12 13:51:07",
+                    "brand": "McLaren",
+                    "model": "P1",
+                    "generation": "P1",
+                    "engine": "P1 V8 (916 Hp) SSG Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "737/7300",
+                    "powerHp": "737",
+                    "powerRpm": "7300",
+                    "powerRpmLow": "7300",
+                    "yearstart": "2013",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4588",
+                    "widthFoldedMirrors": "1946",
+                    "widthOpenedMirrors": "2144",
+                    "height": "1188",
+                    "heightMin": "1188",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-25 09:37:30",
+        "name": "MP4-12C",
+        "id": "2115",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-25 09:37:59",
+              "name": "MP4-12C Spider",
+              "modelYear": "2011",
+              "id": "4801",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23554",
+                    "update": "2023-05-12 13:40:21",
+                    "brand": "McLaren",
+                    "model": "MP4-12C",
+                    "generation": "MP4-12C Spider",
+                    "engine": "3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7500",
+                    "powerHp": "625",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2011",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4509",
+                    "width": "1908",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1203",
+                    "heightMin": "1203",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1474",
+                    "curbWeightMin": "1474"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-25 09:37:59",
+              "name": "MP4-12C Coupe",
+              "modelYear": "2011",
+              "id": "4800",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23555",
+                    "update": "2023-05-12 13:40:22",
+                    "brand": "McLaren",
+                    "model": "MP4-12C",
+                    "generation": "MP4-12C Coupe",
+                    "engine": "3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7500",
+                    "powerHp": "625",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2011",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4509",
+                    "width": "1908",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1434",
+                    "curbWeightMin": "1434"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-23 14:44:47",
+        "name": "720S",
+        "id": "2227",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "720S Spider",
+              "modelYear": "2019",
+              "id": "6737",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35041",
+                    "update": "2023-05-12 12:57:14",
+                    "brand": "McLaren",
+                    "model": "720S",
+                    "generation": "720S Spider",
+                    "engine": "4.0 V8 (720 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/7500",
+                    "powerHp": "720",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4544",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1194",
+                    "heightMin": "1194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1468",
+                    "curbWeightMin": "1468"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "720S",
+              "modelYear": "2017",
+              "id": "5492",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "28867",
+                    "update": "2023-05-12 12:57:17",
+                    "brand": "McLaren",
+                    "model": "720S",
+                    "generation": "720S",
+                    "engine": "4.0 V8 (720 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/7250",
+                    "powerHp": "720",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2017",
+                    "yearstop": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4543",
+                    "width": "1930",
+                    "widthFoldedMirrors": "2059",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1196",
+                    "heightMin": "1196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1419",
+                    "curbWeightMin": "1419"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 11:47:36",
+        "name": "540C",
+        "id": "2228",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "540C",
+              "modelYear": "2016",
+              "id": "5495",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24258",
+                    "update": "2023-05-12 12:56:24",
+                    "brand": "McLaren",
+                    "model": "540C",
+                    "generation": "540C",
+                    "engine": "3.8 V8 (540 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "540/7500",
+                    "powerHp": "540",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4530",
+                    "width": "2095",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1311",
+                    "curbWeightMin": "1311"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 12:08:37",
+        "name": "675LT",
+        "id": "2229",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "675LT Spider",
+              "modelYear": "2016",
+              "id": "5493",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23550",
+                    "update": "2023-05-12 14:02:50",
+                    "brand": "McLaren",
+                    "model": "675LT",
+                    "generation": "675LT Spider",
+                    "engine": "3.8 V8 (675 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "675/7100",
+                    "powerHp": "675",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4546",
+                    "widthOpenedMirrors": "2095",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1368",
+                    "curbWeightMin": "1368"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "675LT Coupe",
+              "modelYear": "2015",
+              "id": "5494",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23551",
+                    "update": "2023-05-12 14:02:51",
+                    "brand": "McLaren",
+                    "model": "675LT",
+                    "generation": "675LT Coupe",
+                    "engine": "3.8 V8 (675 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "675/7100",
+                    "powerHp": "675",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4546",
+                    "widthOpenedMirrors": "2095",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1328",
+                    "curbWeightMin": "1328"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-02-27 15:00:21",
+        "name": "Senna",
+        "id": "2339",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 11:04:14",
+              "name": "Senna GTR",
+              "modelYear": "2019",
+              "id": "9932",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senna",
+              "modelYear": "2019",
+              "id": "6030",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32677",
+                    "update": "2023-05-12 14:09:42",
+                    "brand": "McLaren",
+                    "model": "Senna",
+                    "generation": "Senna",
+                    "engine": "4.0 V8 (800 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/7250",
+                    "powerHp": "800",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4744",
+                    "width": "2153",
+                    "height": "1195",
+                    "heightMin": "1195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1198",
+                    "curbWeightMin": "1198"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-12 11:42:34",
+        "name": "600LT",
+        "id": "2482",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "600LT Spider",
+              "modelYear": "2019",
+              "id": "6844",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35657",
+                    "update": "2023-05-12 12:56:27",
+                    "brand": "McLaren",
+                    "model": "600LT",
+                    "generation": "600LT Spider",
+                    "engine": "3.8 V8 (600 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4604",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1196",
+                    "heightMin": "1196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1404",
+                    "curbWeightMin": "1404"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "600LT",
+              "modelYear": "2018",
+              "id": "6403",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33655",
+                    "update": "2023-05-12 12:56:28",
+                    "brand": "McLaren",
+                    "model": "600LT",
+                    "generation": "600LT",
+                    "engine": "3.8 V8 (600 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4597",
+                    "width": "1930",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2096",
+                    "height": "1194",
+                    "heightMin": "1194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1247-1356",
+                    "curbWeightMin": "1247",
+                    "curbWeightMax": "1356"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-06-08 15:56:44",
+        "name": "GT",
+        "id": "2701",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT",
+              "modelYear": "2019",
+              "id": "7117",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37110",
+                    "update": "2023-12-19 13:39:10",
+                    "brand": "McLaren",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "4.0 V8 (620 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/7500",
+                    "powerHp": "620",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4683",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1213-1234",
+                    "heightMin": "1213",
+                    "heightMax": "1234",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1530",
+                    "curbWeightMin": "1530"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-12-10 11:46:48",
+        "name": "620R",
+        "id": "2761",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "620R",
+              "modelYear": "2020",
+              "id": "7462",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38204",
+                    "update": "2023-05-12 12:56:28",
+                    "brand": "McLaren",
+                    "model": "620R",
+                    "generation": "620R",
+                    "engine": "3.8 V8 (620 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/7000",
+                    "powerHp": "620",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4557",
+                    "width": "1944",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1194",
+                    "heightMin": "1194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1386",
+                    "curbWeightMin": "1386"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-12-27 11:02:03",
+        "name": "Speedtail",
+        "id": "2765",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 08:49:10",
+              "name": "Speedtail",
+              "modelYear": "2020",
+              "id": "7489",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48991",
+                    "update": "2023-06-30 14:24:25",
+                    "brand": "McLaren",
+                    "model": "Speedtail",
+                    "generation": "Speedtail",
+                    "engine": "4.0 V8 (1070 Hp) Plug-in hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "1070",
+                    "powerHp": "1070",
+                    "yearstart": "2020",
+                    "yearstop": "2020",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5137",
+                    "width": "2000",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1597",
+                    "curbWeightMin": "1597"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-12-30 09:20:44",
+        "name": "Elva",
+        "id": "2767",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Elva",
+              "modelYear": "2020",
+              "id": "7491",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38336",
+                    "update": "2023-05-12 13:17:15",
+                    "brand": "McLaren",
+                    "model": "Elva",
+                    "generation": "Elva",
+                    "engine": "4.0 V8 (815 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "815",
+                    "powerHp": "815",
+                    "yearstart": "2020",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-04-01 10:08:22",
+        "name": "765LT",
+        "id": "2793",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-06 08:38:26",
+              "name": "765LT Spider",
+              "modelYear": "2022",
+              "id": "8524",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44248",
+                    "update": "2023-05-12 13:31:31",
+                    "brand": "McLaren",
+                    "model": "765LT",
+                    "generation": "765LT Spider",
+                    "engine": "4.0 V8 (765 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "765/7500",
+                    "powerHp": "765",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2021",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "widthFoldedMirrors": "2065",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1192",
+                    "heightMin": "1192",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1388",
+                    "curbWeightMin": "1388"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "765LT",
+              "modelYear": "2020",
+              "id": "7587",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39420",
+                    "update": "2023-05-12 13:31:32",
+                    "brand": "McLaren",
+                    "model": "765LT",
+                    "generation": "765LT",
+                    "engine": "4.0 V8 (765 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "765/7500",
+                    "powerHp": "765",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1159",
+                    "heightMin": "1159",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1339",
+                    "curbWeightMin": "1339"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-04-01 10:57:35",
+        "name": "625C",
+        "id": "2794",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "625C Spider",
+              "modelYear": "2015",
+              "id": "7590",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39422",
+                    "update": "2023-05-12 13:59:43",
+                    "brand": "McLaren",
+                    "model": "625C",
+                    "generation": "625C Spider",
+                    "engine": "3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7250",
+                    "powerHp": "625",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "2093",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1376",
+                    "curbWeightMin": "1376"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "625C",
+              "modelYear": "2015",
+              "id": "7588",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39421",
+                    "update": "2023-05-12 14:03:32",
+                    "brand": "McLaren",
+                    "model": "625C",
+                    "generation": "625C",
+                    "engine": "3.8 V8 (625 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "625/7250",
+                    "powerHp": "625",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2015",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "2093",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1336",
+                    "curbWeightMin": "1336"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-02-18 09:33:50",
+        "name": "Artura",
+        "id": "2871",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-06 11:03:44",
+              "name": "Artura Spider",
+              "modelYear": "2024",
+              "id": "9910",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51294",
+                    "update": "2024-03-06 14:22:01",
+                    "brand": "McLaren",
+                    "model": "Artura",
+                    "generation": "Artura Spider",
+                    "engine": "3.0 V6 (700 Hp) Plug-in Hybrid SSG",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "605/7500",
+                    "powerHp": "605",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2024",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4539",
+                    "width": "1913",
+                    "widthFoldedMirrors": "1976",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1193",
+                    "heightMin": "1193",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-02-18 09:34:45",
+              "name": "Artura",
+              "modelYear": "2021",
+              "id": "8139",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42292",
+                    "update": "2024-03-06 10:43:18",
+                    "brand": "McLaren",
+                    "model": "Artura",
+                    "generation": "Artura",
+                    "engine": "3.0 V6 (680 Hp) Plug-in Hybrid SSG",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "585/7500",
+                    "powerHp": "585",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4539",
+                    "width": "1913",
+                    "widthFoldedMirrors": "1976",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1193",
+                    "heightMin": "1193",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1498",
+                    "curbWeightMin": "1498"
+                  },
+                  {
+                    "id": "51293",
+                    "update": "2024-03-06 14:22:01",
+                    "brand": "McLaren",
+                    "model": "Artura",
+                    "generation": "Artura",
+                    "engine": "3.0 V6 (700 Hp) Plug-in Hybrid SSG",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "605/7500",
+                    "powerHp": "605",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4539",
+                    "width": "1913",
+                    "widthFoldedMirrors": "1976",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1193",
+                    "heightMin": "1193",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1498",
+                    "curbWeightMin": "1498"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-04-27 12:36:26",
+        "name": "750S",
+        "id": "3247",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-04-27 12:37:55",
+              "name": "750S Spider",
+              "modelYear": "2023",
+              "id": "9445",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48466",
+                    "update": "2023-05-12 13:13:26",
+                    "brand": "McLaren",
+                    "model": "750S",
+                    "generation": "750S Spider",
+                    "engine": "4.0 V8 (750 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/7500",
+                    "powerHp": "750",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2023",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4569",
+                    "width": "1930",
+                    "widthFoldedMirrors": "2059",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1196",
+                    "heightMin": "1196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1438",
+                    "curbWeightMin": "1438"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-04-27 12:37:26",
+              "name": "750S",
+              "modelYear": "2023",
+              "id": "9444",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48465",
+                    "update": "2023-05-12 13:13:27",
+                    "brand": "McLaren",
+                    "model": "750S",
+                    "generation": "750S",
+                    "engine": "4.0 V8 (750 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/7500",
+                    "powerHp": "750",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4569",
+                    "width": "1930",
+                    "widthFoldedMirrors": "2059",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1196",
+                    "heightMin": "1196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1389",
+                    "curbWeightMin": "1389"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-12-19 14:58:21",
+        "name": "GTS",
+        "id": "3379",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-12-19 15:00:12",
+              "name": "GTS",
+              "modelYear": "2024",
+              "id": "9810",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50790",
+                    "update": "2023-12-19 16:28:53",
+                    "brand": "McLaren",
+                    "model": "GTS",
+                    "generation": "GTS",
+                    "engine": "4.0 V8 (635 Hp) SSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "635/7500",
+                    "powerHp": "635",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4683",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2095",
+                    "height": "1213",
+                    "heightMin": "1213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-07 08:04:58",
+        "name": "W1",
+        "id": "3497",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-07 08:08:03",
+              "name": "W1",
+              "modelYear": "2025",
+              "id": "10192",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52881",
+                    "update": "2024-10-07 16:06:13",
+                    "brand": "McLaren",
+                    "model": "W1",
+                    "generation": "W1",
+                    "engine": "4.0 V8 (1275 Hp) Plug-in Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "928",
+                    "powerHp": "928",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4635",
+                    "widthFoldedMirrors": "2074",
+                    "widthOpenedMirrors": "2191",
+                    "height": "1182",
+                    "heightMin": "1182",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1399",
+                    "curbWeightMin": "1399"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

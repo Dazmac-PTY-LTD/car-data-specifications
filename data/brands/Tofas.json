@@ -1,0 +1,1457 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Tofas",
+  "id": "30",
+  "models": {
+    "model": [
+      {
+        "update": "2020-05-22 11:21:17",
+        "name": "131",
+        "id": "316",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "131",
+              "modelYear": "1981",
+              "id": "651",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2826",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "131",
+                    "generation": "131",
+                    "engine": "1.6 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5400",
+                    "powerHp": "75",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1981",
+                    "yearstop": "1995",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1630",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "945",
+                    "curbWeightMin": "945"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-14 11:24:25",
+        "name": "Bravo",
+        "id": "317",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Bravo",
+              "modelYear": "1999",
+              "id": "652",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2827",
+                    "update": "2023-07-18 11:10:12",
+                    "brand": "Tofas",
+                    "model": "Bravo",
+                    "generation": "Bravo",
+                    "engine": "1.6 i 16V SX (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1999",
+                    "yearstop": "2001",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4025",
+                    "width": "1755",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  },
+                  {
+                    "id": "2828",
+                    "update": "2023-07-18 11:09:58",
+                    "brand": "Tofas",
+                    "model": "Bravo",
+                    "generation": "Bravo",
+                    "engine": "2.0 i 20V HLX (154 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6500",
+                    "powerHp": "154",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1999",
+                    "yearstop": "2001",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4025",
+                    "width": "1755",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190",
+                    "curbWeightMin": "1190"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:16:24",
+        "name": "Kartal",
+        "id": "318",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Kartal",
+              "modelYear": "1986",
+              "id": "653",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2829",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Kartal",
+                    "generation": "Kartal",
+                    "engine": "1.6 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/5800",
+                    "powerHp": "81",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1995",
+                    "yearstop": "2001",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4361",
+                    "width": "1642",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "2830",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Kartal",
+                    "generation": "Kartal",
+                    "engine": "1.6 (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84/5250",
+                    "powerHp": "84",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1986",
+                    "yearstop": "1995",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4396",
+                    "width": "1642",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "2831",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Kartal",
+                    "generation": "Kartal",
+                    "engine": "1.6 i SLX (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2001",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4360",
+                    "width": "1642",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "2832",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Kartal",
+                    "generation": "Kartal",
+                    "engine": "1.6 I.E (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/5800",
+                    "powerHp": "96",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4396",
+                    "width": "1642",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "2833",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Kartal",
+                    "generation": "Kartal",
+                    "engine": "1.6 SLX (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/5800",
+                    "powerHp": "96",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1986",
+                    "yearstop": "1995",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4396",
+                    "width": "1642",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:21:33",
+        "name": "Sahin",
+        "id": "319",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sahin",
+              "modelYear": "1988",
+              "id": "654",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2834",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Sahin",
+                    "generation": "Sahin",
+                    "engine": "1.4 (71 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "71/5500",
+                    "powerHp": "71",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1997",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "935",
+                    "curbWeightMin": "935"
+                  },
+                  {
+                    "id": "2835",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Sahin",
+                    "generation": "Sahin",
+                    "engine": "1.4 i PAW (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/5500",
+                    "powerHp": "82",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "935",
+                    "curbWeightMin": "935"
+                  },
+                  {
+                    "id": "2836",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Sahin",
+                    "generation": "Sahin",
+                    "engine": "1.6 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1988",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  },
+                  {
+                    "id": "2837",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Sahin",
+                    "generation": "Sahin",
+                    "engine": "1.6 S (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/5500",
+                    "powerHp": "80",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "945",
+                    "curbWeightMin": "945"
+                  },
+                  {
+                    "id": "2838",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Sahin",
+                    "generation": "Sahin",
+                    "engine": "1.6 S (92 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92/5500",
+                    "powerHp": "92",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1436",
+                    "heightMin": "1436",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "945",
+                    "curbWeightMin": "945"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:28:18",
+        "name": "Tempra",
+        "id": "320",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tempra",
+              "modelYear": "1990",
+              "id": "655",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2839",
+                    "update": "2023-07-18 11:18:26",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra",
+                    "engine": "1.6 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5800",
+                    "powerHp": "86",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1990",
+                    "yearstop": "1994",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4355",
+                    "width": "1695",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1035",
+                    "curbWeightMin": "1035"
+                  },
+                  {
+                    "id": "2840",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra",
+                    "engine": "2.0 i (119 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "119/5750",
+                    "powerHp": "119",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1990",
+                    "yearstop": "1994",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4355",
+                    "width": "1695",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  },
+                  {
+                    "id": "2841",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra",
+                    "engine": "2.0 i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5750",
+                    "powerHp": "130",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1994",
+                    "yearstop": "1996",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4354",
+                    "width": "1695",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1035",
+                    "curbWeightMin": "1035"
+                  },
+                  {
+                    "id": "2842",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra",
+                    "engine": "2.0 i 16V (148 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "148/6250",
+                    "powerHp": "148",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1996",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4354",
+                    "width": "1695",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1195",
+                    "curbWeightMin": "1195"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tempra Station Wagon",
+              "modelYear": "1990",
+              "id": "656",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2843",
+                    "update": "2023-07-18 11:18:36",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra Station Wagon",
+                    "engine": "1.6 SX (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5800",
+                    "powerHp": "86",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1994",
+                    "yearstop": "2000",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4472",
+                    "width": "1695",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1035",
+                    "curbWeightMin": "1035"
+                  },
+                  {
+                    "id": "2844",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tempra",
+                    "generation": "Tempra Station Wagon",
+                    "engine": "2.0 i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5750",
+                    "powerHp": "130",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1990",
+                    "yearstop": "2001",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4472",
+                    "width": "1695",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 13:06:31",
+        "name": "Albea",
+        "id": "321",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Albea",
+              "modelYear": "2002",
+              "id": "657",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2845",
+                    "update": "2023-07-18 11:08:12",
+                    "brand": "Tofas",
+                    "model": "Albea",
+                    "generation": "Albea",
+                    "engine": "1.2 i 16V EL/HL (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/5000",
+                    "powerHp": "80",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4186",
+                    "width": "1703",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1020",
+                    "curbWeightMin": "1020"
+                  },
+                  {
+                    "id": "2846",
+                    "update": "2023-07-18 11:08:02",
+                    "brand": "Tofas",
+                    "model": "Albea",
+                    "generation": "Albea",
+                    "engine": "1.2 i SL (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5000",
+                    "powerHp": "60",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4186",
+                    "width": "1703",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1015",
+                    "curbWeightMin": "1015"
+                  },
+                  {
+                    "id": "2847",
+                    "update": "2023-07-18 11:08:31",
+                    "brand": "Tofas",
+                    "model": "Albea",
+                    "generation": "Albea",
+                    "engine": "1.6 i 16V HL (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5750",
+                    "powerHp": "103",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4186",
+                    "width": "1703",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:07:47",
+        "name": "Doblo",
+        "id": "322",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Doblo",
+              "modelYear": "2000",
+              "id": "658",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2848",
+                    "update": "2023-07-18 11:10:53",
+                    "brand": "Tofas",
+                    "model": "Doblo",
+                    "generation": "Doblo",
+                    "engine": "1.2 i AB (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/5500",
+                    "powerHp": "65",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2000",
+                    "yearstop": "2006",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4195",
+                    "width": "1714",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190",
+                    "curbWeightMin": "1190"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:31:35",
+        "name": "Marea",
+        "id": "323",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 12:19:15",
+              "name": "Marea",
+              "modelYear": "1996",
+              "id": "659",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2849",
+                    "update": "2023-07-18 11:14:00",
+                    "brand": "Tofas",
+                    "model": "Marea",
+                    "generation": "Marea",
+                    "engine": "1.6 i 16V SX (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2850",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tofas",
+                    "model": "Marea",
+                    "generation": "Marea",
+                    "engine": "1.9 JTD (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4000",
+                    "powerHp": "105",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2851",
+                    "update": "2023-07-18 11:13:47",
+                    "brand": "Tofas",
+                    "model": "Marea",
+                    "generation": "Marea",
+                    "engine": "2.0 i 20V HLX (154 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6500",
+                    "powerHp": "154",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 12:19:15",
+              "name": "Marea Weekend",
+              "modelYear": "1996",
+              "id": "660",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2852",
+                    "update": "2023-07-18 11:14:19",
+                    "brand": "Tofas",
+                    "model": "Marea",
+                    "generation": "Marea Weekend",
+                    "engine": "1.6 i16V SX (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2853",
+                    "update": "2023-07-18 11:14:11",
+                    "brand": "Tofas",
+                    "model": "Marea",
+                    "generation": "Marea Weekend",
+                    "engine": "2.0 i 20V HLX (154 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6500",
+                    "powerHp": "154",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:23:38",
+        "name": "Serce",
+        "id": "324",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Serce",
+              "modelYear": "1983",
+              "id": "661",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2854",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Serce",
+                    "generation": "Serce",
+                    "engine": "1.3 (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/5400",
+                    "powerHp": "65",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1983",
+                    "yearstop": "1994",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1625",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "895",
+                    "curbWeightMin": "895"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:30:05",
+        "name": "Tipo",
+        "id": "325",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tipo",
+              "modelYear": "1993",
+              "id": "662",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2855",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tipo",
+                    "generation": "Tipo",
+                    "engine": "1.4 i S (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/6000",
+                    "powerHp": "76",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1993",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3958",
+                    "width": "1700",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "990",
+                    "curbWeightMin": "990"
+                  },
+                  {
+                    "id": "2856",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Tipo",
+                    "generation": "Tipo",
+                    "engine": "2.0 i 16V (148 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "148/6250",
+                    "powerHp": "148",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3958",
+                    "width": "1700",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:00:32",
+        "name": "Brava",
+        "id": "326",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Brava",
+              "modelYear": "1999",
+              "id": "663",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2857",
+                    "update": "2023-07-18 11:09:24",
+                    "brand": "Tofas",
+                    "model": "Brava",
+                    "generation": "Brava",
+                    "engine": "1.6 i 16V SX (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1999",
+                    "yearstop": "2001",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4187",
+                    "width": "1740",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1090",
+                    "curbWeightMin": "1090"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:12:53",
+        "name": "Dogan",
+        "id": "327",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Dogan",
+              "modelYear": "1986",
+              "id": "664",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2858",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Dogan",
+                    "generation": "Dogan",
+                    "engine": "1.6 i I.E (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/5800",
+                    "powerHp": "96",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  },
+                  {
+                    "id": "2859",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Dogan",
+                    "generation": "Dogan",
+                    "engine": "1.6 i SLX (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  },
+                  {
+                    "id": "2860",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Dogan",
+                    "generation": "Dogan",
+                    "engine": "1.6 S (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/5800",
+                    "powerHp": "85",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1995",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  },
+                  {
+                    "id": "2861",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Dogan",
+                    "generation": "Dogan",
+                    "engine": "1.6 S (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/5800",
+                    "powerHp": "96",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1986",
+                    "yearstop": "1995",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4316",
+                    "width": "1642",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 14:50:21",
+        "name": "Palio",
+        "id": "328",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Palio",
+              "modelYear": "2001",
+              "id": "665",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2862",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio",
+                    "engine": "1.2i EL (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/6000",
+                    "powerHp": "75",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3735",
+                    "width": "1626",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "935",
+                    "curbWeightMin": "935"
+                  },
+                  {
+                    "id": "2863",
+                    "update": "2023-07-18 11:12:06",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio",
+                    "engine": "1.2 i S (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5000",
+                    "powerHp": "60",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3775",
+                    "width": "1626",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "935",
+                    "curbWeightMin": "935"
+                  },
+                  {
+                    "id": "2864",
+                    "update": "2023-07-18 11:11:39",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio",
+                    "engine": "1.6 i 16V HL (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3775",
+                    "width": "1626",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  },
+                  {
+                    "id": "2865",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio",
+                    "engine": "1.6 i 16V Sporting (120 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/6000",
+                    "powerHp": "120",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3764",
+                    "width": "1618",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1045",
+                    "curbWeightMin": "1045"
+                  },
+                  {
+                    "id": "28538",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio",
+                    "engine": "1.2i EL (75 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/6000",
+                    "powerHp": "75",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3735",
+                    "width": "1626",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "935",
+                    "curbWeightMin": "935"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Palio Weekend",
+              "modelYear": "2001",
+              "id": "666",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2866",
+                    "update": "2023-07-18 11:14:54",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio Weekend",
+                    "engine": "1.2 i 16V (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/5000",
+                    "powerHp": "80",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4142",
+                    "width": "1626",
+                    "height": "1528",
+                    "heightMin": "1528",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  },
+                  {
+                    "id": "2867",
+                    "update": "2023-07-18 11:12:28",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio Weekend",
+                    "engine": "1.2 i S (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5000",
+                    "powerHp": "60",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4130",
+                    "width": "1626",
+                    "height": "1512",
+                    "heightMin": "1512",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1025",
+                    "curbWeightMin": "1025"
+                  },
+                  {
+                    "id": "2868",
+                    "update": "2023-07-18 11:13:00",
+                    "brand": "Tofas",
+                    "model": "Palio",
+                    "generation": "Palio Weekend",
+                    "engine": "1.6 i 16V HL (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5500",
+                    "powerHp": "103",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2001",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4130",
+                    "width": "1626",
+                    "height": "1512",
+                    "heightMin": "1512",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1095",
+                    "curbWeightMin": "1095"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:26:23",
+        "name": "Siena",
+        "id": "329",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Siena",
+              "modelYear": "1998",
+              "id": "667",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2869",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "Siena",
+                    "generation": "Siena",
+                    "engine": "1.4 i RT (71 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "71/6000",
+                    "powerHp": "71",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4100",
+                    "width": "1626",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1025",
+                    "curbWeightMin": "1025"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-08 15:31:57",
+        "name": "UNO",
+        "id": "330",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "UNO",
+              "modelYear": "1994",
+              "id": "668",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2870",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Tofas",
+                    "model": "UNO",
+                    "generation": "UNO",
+                    "engine": "1.4 i I.E.PAW (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73/5750",
+                    "powerHp": "73",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1994",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3689",
+                    "width": "1562",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "820",
+                    "curbWeightMin": "820"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

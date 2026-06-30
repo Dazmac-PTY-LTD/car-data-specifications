@@ -1,0 +1,642 @@
+{
+  "update": "2025-12-09 15:15:40",
+  "name": "Neta",
+  "id": "384",
+  "models": {
+    "model": [
+      {
+        "update": "2025-12-09 15:17:58",
+        "name": "GT",
+        "id": "3899",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-09 15:18:09",
+              "name": "GT",
+              "modelYear": "2023",
+              "id": "10973",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55952",
+                    "update": "2025-12-09 16:08:40",
+                    "brand": "Neta",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "64.27 kWh (231 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4715",
+                    "width": "1979",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  },
+                  {
+                    "id": "55953",
+                    "update": "2025-12-09 16:08:40",
+                    "brand": "Neta",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "78 kWh (462 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4715",
+                    "width": "1979",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Electricity",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-09 16:10:24",
+        "name": "L",
+        "id": "3900",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-09 16:10:38",
+              "name": "L",
+              "modelYear": "2024",
+              "id": "10974",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55976",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "L",
+                    "generation": "L",
+                    "engine": "68 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Electricity",
+                    "curbWeight": "1935",
+                    "curbWeightMin": "1935"
+                  },
+                  {
+                    "id": "55977",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "L",
+                    "generation": "L",
+                    "engine": "1.5 40 kWh (231 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  },
+                  {
+                    "id": "55978",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "L",
+                    "generation": "L",
+                    "engine": "1.5 30 kWh (231 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1860",
+                    "curbWeightMin": "1860"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-09 16:15:07",
+        "name": "S",
+        "id": "3901",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-09 16:21:56",
+              "name": "S Hunting Edition",
+              "modelYear": "2024",
+              "id": "10976",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55957",
+                    "update": "2025-12-10 14:18:41",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S Hunting Edition",
+                    "engine": "64.84 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  },
+                  {
+                    "id": "55958",
+                    "update": "2025-12-10 14:18:41",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S Hunting Edition",
+                    "engine": "91 kWh (503 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2160",
+                    "curbWeightMin": "2160"
+                  },
+                  {
+                    "id": "55959",
+                    "update": "2025-12-10 14:20:11",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S Hunting Edition",
+                    "engine": "1.5 43.88 kWh (272 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "2024",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1970",
+                    "curbWeightMin": "1970"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-12-09 16:15:19",
+              "name": "S",
+              "modelYear": "2022",
+              "id": "10975",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55960",
+                    "update": "2025-12-10 14:20:32",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "1.5 31.7 kWh (231 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "55961",
+                    "update": "2025-12-10 14:18:41",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "64.46 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "55962",
+                    "update": "2025-12-10 14:18:41",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "84.5 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990-2000",
+                    "curbWeightMin": "1990",
+                    "curbWeightMax": "2000"
+                  },
+                  {
+                    "id": "55963",
+                    "update": "2025-12-10 14:18:41",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "91 kWh (462 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "2130",
+                    "curbWeightMin": "2130"
+                  },
+                  {
+                    "id": "55964",
+                    "update": "2025-12-10 14:20:25",
+                    "brand": "Neta",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "1.5 43.9 kWh (231 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1980",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1980",
+                    "curbWeightMin": "1980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-09 16:27:59",
+        "name": "V",
+        "id": "3902",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-11 11:23:59",
+              "name": "V-II (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10980",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55971",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "V",
+                    "generation": "V-II (facelift 2024)",
+                    "engine": "36.1 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4070",
+                    "width": "1690",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1151-1180",
+                    "curbWeightMin": "1151",
+                    "curbWeightMax": "1180"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-12-09 16:28:37",
+              "name": "V",
+              "modelYear": "2021",
+              "id": "10977",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55973",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "V",
+                    "generation": "V",
+                    "engine": "40.7 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4070",
+                    "width": "1690",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1269",
+                    "curbWeightMin": "1269"
+                  },
+                  {
+                    "id": "55974",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "V",
+                    "generation": "V",
+                    "engine": "38.54 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4070",
+                    "width": "1690",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1151",
+                    "curbWeightMin": "1151"
+                  },
+                  {
+                    "id": "55979",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "V",
+                    "generation": "V",
+                    "engine": "38.54 kWh (75 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4070",
+                    "width": "1690",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1151",
+                    "curbWeightMin": "1151"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-11 12:34:36",
+        "name": "X",
+        "id": "3903",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-11 12:35:42",
+              "name": "X",
+              "modelYear": "2024",
+              "id": "10981",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55969",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "53.3 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4619",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "fuel": "Electricity",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  },
+                  {
+                    "id": "55970",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "62 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4619",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Electricity",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  },
+                  {
+                    "id": "55972",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "63.56 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4619",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55975",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "62 kWh (134 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4619",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Electricity",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "55980",
+                    "update": "2025-12-11 16:07:37",
+                    "brand": "Neta",
+                    "model": "X",
+                    "generation": "X",
+                    "engine": "51.8 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4619",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "rideHeight": "156",
+                    "rideHeightMin": "156",
+                    "fuel": "Electricity",
+                    "curbWeight": "1745",
+                    "curbWeightMin": "1745"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-11 15:25:40",
+        "name": "U",
+        "id": "3904",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-11 15:25:55",
+              "name": "U",
+              "modelYear": "2020",
+              "id": "10982",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55996",
+                    "update": "2025-12-12 16:08:06",
+                    "brand": "Neta",
+                    "model": "U",
+                    "generation": "U",
+                    "engine": "68.2 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4549",
+                    "width": "1860",
+                    "height": "1628",
+                    "heightMin": "1628",
+                    "fuel": "Electricity",
+                    "curbWeight": "1779",
+                    "curbWeightMin": "1779"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

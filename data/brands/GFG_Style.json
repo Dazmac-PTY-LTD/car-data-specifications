@@ -1,0 +1,91 @@
+{
+  "update": "2020-11-05 09:37:16",
+  "name": "GFG Style",
+  "id": "274",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-05 09:24:24",
+        "name": "Kangaroo",
+        "id": "2649",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Kangaroo Concept",
+              "modelYear": "2020",
+              "id": "6965",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36257",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "GFG Style",
+                    "model": "Kangaroo",
+                    "generation": "Kangaroo Concept",
+                    "engine": "90 kWh (490 Hp) AWD Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "width": "2000",
+                    "height": "1290-1410",
+                    "heightMin": "1290",
+                    "heightMax": "1410",
+                    "rideHeight": "140-260",
+                    "rideHeightMin": "140",
+                    "rideHeightMax": "260",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 09:37:16",
+        "name": "Sibylla",
+        "id": "2650",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Sibylla GG80 Concept",
+              "modelYear": "2018",
+              "id": "6966",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36258",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "GFG Style",
+                    "model": "Sibylla",
+                    "generation": "Sibylla GG80 Concept",
+                    "engine": "75 kWh (816 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5141",
+                    "width": "2080",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

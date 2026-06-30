@@ -1,0 +1,308 @@
+{
+  "update": "2019-05-22 15:10:16",
+  "name": "Hafei",
+  "id": "112",
+  "models": {
+    "model": [
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Brio",
+        "id": "1138",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 15:44:15",
+              "name": "Brio",
+              "modelYear": "2002",
+              "id": "2303",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 13:11:40",
+        "name": "Princip",
+        "id": "1139",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Princip",
+              "modelYear": "2004",
+              "id": "2304",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11026",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Princip",
+                    "generation": "Princip",
+                    "engine": "1.6i (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2004",
+                    "yearstop": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4434",
+                    "width": "1708",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "11027",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Princip",
+                    "generation": "Princip",
+                    "engine": "2.0i (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5500",
+                    "powerHp": "126",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2004",
+                    "yearstop": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4434",
+                    "width": "1708",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 13:09:39",
+        "name": "Saibao",
+        "id": "1140",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Saibao",
+              "modelYear": "2005",
+              "id": "2305",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11029",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Saibao",
+                    "generation": "Saibao",
+                    "engine": "1.6i (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4434",
+                    "width": "1708",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "11030",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Saibao",
+                    "generation": "Saibao",
+                    "engine": "2.0i (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5500",
+                    "powerHp": "126",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4434",
+                    "width": "1708",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 13:34:16",
+        "name": "Sigma",
+        "id": "1141",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sigma",
+              "modelYear": "2005",
+              "id": "2306",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11032",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Sigma",
+                    "generation": "Sigma",
+                    "engine": "1.3i (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78/6000",
+                    "powerHp": "78",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3885",
+                    "width": "1695",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "11033",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Sigma",
+                    "generation": "Sigma",
+                    "engine": "1.6i (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3885",
+                    "width": "1695",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 13:31:20",
+        "name": "Simbo",
+        "id": "1142",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Simbo",
+              "modelYear": "2006",
+              "id": "2307",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11035",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Simbo",
+                    "generation": "Simbo",
+                    "engine": "1.3i (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78/6000",
+                    "powerHp": "78",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2008",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3885",
+                    "width": "1695",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "11036",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hafei",
+                    "model": "Simbo",
+                    "generation": "Simbo",
+                    "engine": "1.6i (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2008",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3885",
+                    "width": "1695",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

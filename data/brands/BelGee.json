@@ -1,0 +1,251 @@
+{
+  "update": "2025-06-20 15:24:27",
+  "name": "BelGee",
+  "id": "362",
+  "models": {
+    "model": [
+      {
+        "update": "2025-06-20 15:32:16",
+        "name": "X50",
+        "id": "3713",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-20 15:34:55",
+              "name": "X50",
+              "modelYear": "2023",
+              "id": "10625",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54658",
+                    "update": "2025-06-20 16:20:14",
+                    "brand": "BelGee",
+                    "model": "X50",
+                    "generation": "X50",
+                    "engine": "1.5T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  },
+                  {
+                    "id": "54659",
+                    "update": "2025-06-20 16:20:14",
+                    "brand": "BelGee",
+                    "model": "X50",
+                    "generation": "X50",
+                    "engine": "1.5T (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-20 15:43:44",
+        "name": "X70",
+        "id": "3714",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-20 15:44:36",
+              "name": "X70",
+              "modelYear": "2024",
+              "id": "10626",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54660",
+                    "update": "2025-06-23 16:03:44",
+                    "brand": "BelGee",
+                    "model": "X70",
+                    "generation": "X70",
+                    "engine": "1.5T (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1831",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1685",
+                    "curbWeightMin": "1685"
+                  },
+                  {
+                    "id": "54661",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "BelGee",
+                    "model": "X70",
+                    "generation": "X70",
+                    "engine": "1.5T (177 Hp) Mild Hybrid 4WD DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1831",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  },
+                  {
+                    "id": "54662",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "BelGee",
+                    "model": "X70",
+                    "generation": "X70",
+                    "engine": "1.5T (177 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1831",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1685",
+                    "curbWeightMin": "1685"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-20 15:44:51",
+        "name": "S50",
+        "id": "3715",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-20 15:45:05",
+              "name": "S50",
+              "modelYear": "2024",
+              "id": "10627",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54663",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "BelGee",
+                    "model": "S50",
+                    "generation": "S50",
+                    "engine": "1.5 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6300",
+                    "powerHp": "122",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4638",
+                    "width": "1822",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "rideHeight": "122",
+                    "rideHeightMin": "122",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  },
+                  {
+                    "id": "54664",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "BelGee",
+                    "model": "S50",
+                    "generation": "S50",
+                    "engine": "1.5 (122 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6300",
+                    "powerHp": "122",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4638",
+                    "width": "1822",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "rideHeight": "122",
+                    "rideHeightMin": "122",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "update": "2019-08-13 11:43:17",
+  "name": "Zhidou",
+  "id": "246",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-13 11:43:17",
+        "name": "D1",
+        "id": "2452",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D1",
+              "modelYear": "2014",
+              "id": "6323",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33393",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Zhidou",
+                    "model": "D1",
+                    "generation": "D1",
+                    "engine": "11.5 kWh (24 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2014",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2763",
+                    "width": "1539",
+                    "height": "1524",
+                    "heightMin": "1524",
+                    "fuel": "Electricity",
+                    "curbWeight": "670",
+                    "curbWeightMin": "670"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-13 11:40:59",
+        "name": "D2",
+        "id": "2453",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D2",
+              "modelYear": "2017",
+              "id": "6324",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33399",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Zhidou",
+                    "model": "D2",
+                    "generation": "D2",
+                    "engine": "18 kWh (41 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2806",
+                    "width": "1540",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Electricity",
+                    "curbWeight": "704",
+                    "curbWeightMin": "704"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 15:48:40",
+        "name": "D3",
+        "id": "2454",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D3",
+              "modelYear": "2018",
+              "id": "6326",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33401",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Zhidou",
+                    "model": "D3",
+                    "generation": "D3",
+                    "engine": "17.52 kWh (41 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2808",
+                    "width": "1499",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Electricity",
+                    "curbWeight": "870",
+                    "curbWeightMin": "870"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

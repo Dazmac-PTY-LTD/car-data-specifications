@@ -1,0 +1,228 @@
+{
+  "update": "2019-07-29 15:30:35",
+  "name": "DAF",
+  "id": "196",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-29 15:23:33",
+        "name": "46",
+        "id": "1930",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:14:36",
+              "name": "46",
+              "modelYear": "1974",
+              "id": "3764",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16639",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "46",
+                    "generation": "46",
+                    "engine": "0.8 DE LUXE (34 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "34/",
+                    "powerHp": "34",
+                    "yearstart": "1974",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:14:36",
+              "name": "46 Combi",
+              "modelYear": "1974",
+              "id": "3765",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16640",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "46",
+                    "generation": "46 Combi",
+                    "engine": "0.8 SUPER LUX (34 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "34",
+                    "powerHp": "34",
+                    "yearstart": "1974",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 15:32:38",
+        "name": "66",
+        "id": "1931",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:24:18",
+              "name": "66",
+              "modelYear": "1972",
+              "id": "3766",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16641",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66",
+                    "engine": "1.1 (48 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "48",
+                    "powerHp": "48",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16642",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66",
+                    "engine": "1.1 SL (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16643",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66",
+                    "engine": "1300 MARATHON (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57",
+                    "powerHp": "57",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:24:18",
+              "name": "66 Coupe",
+              "modelYear": "1972",
+              "id": "3767",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16644",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66 Coupe",
+                    "engine": "1300 MARATHON (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57/",
+                    "powerHp": "57",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:24:18",
+              "name": "66 Combi",
+              "modelYear": "1972",
+              "id": "3768",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16645",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66 Combi",
+                    "engine": "1.1 (48 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "48",
+                    "powerHp": "48",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16646",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66 Combi",
+                    "engine": "1.1 MARATHON (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16647",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "DAF",
+                    "model": "66",
+                    "generation": "66 Combi",
+                    "engine": "1300 MARATHON (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57",
+                    "powerHp": "57",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

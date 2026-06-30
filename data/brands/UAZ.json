@@ -1,0 +1,1293 @@
+{
+  "update": "2021-01-08 13:58:25",
+  "name": "UAZ",
+  "id": "195",
+  "models": {
+    "model": [
+      {
+        "update": "2020-09-01 08:45:05",
+        "name": "Pickup",
+        "id": "1917",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Pickup (23632, facelift 2016)",
+              "modelYear": "2016",
+              "id": "7896",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41045",
+                    "update": "2023-06-16 12:28:27",
+                    "brand": "UAZ",
+                    "model": "Pickup",
+                    "generation": "Pickup (23632, facelift 2016)",
+                    "engine": "2.7 (135 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/4600",
+                    "powerHp": "135",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5125",
+                    "width": "1915",
+                    "widthOpenedMirrors": "2110",
+                    "height": "1915",
+                    "heightMin": "1915",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2030",
+                    "curbWeightMin": "2030"
+                  },
+                  {
+                    "id": "41046",
+                    "update": "2023-06-16 12:28:27",
+                    "brand": "UAZ",
+                    "model": "Pickup",
+                    "generation": "Pickup (23632, facelift 2016)",
+                    "engine": "2.7 (150 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5125",
+                    "width": "1915",
+                    "widthOpenedMirrors": "2110",
+                    "height": "1915",
+                    "heightMin": "1915",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2070",
+                    "curbWeightMin": "2070"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Pickup (23632, facelift 2014)",
+              "modelYear": "2014",
+              "id": "7886",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41970",
+                    "update": "2023-06-16 12:27:11",
+                    "brand": "UAZ",
+                    "model": "Pickup",
+                    "generation": "Pickup (23632, facelift 2014)",
+                    "engine": "2.2 (114 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/3500",
+                    "powerHp": "114",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5125",
+                    "width": "1915",
+                    "height": "1915",
+                    "heightMin": "1915",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Diesel",
+                    "curbWeight": "2215",
+                    "curbWeightMin": "2215"
+                  },
+                  {
+                    "id": "41971",
+                    "update": "2023-06-16 12:28:28",
+                    "brand": "UAZ",
+                    "model": "Pickup",
+                    "generation": "Pickup (23632, facelift 2014)",
+                    "engine": "2.7 (135 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/4600",
+                    "powerHp": "135",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5125",
+                    "width": "1915",
+                    "height": "1915",
+                    "heightMin": "1915",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2125",
+                    "curbWeightMin": "2125"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Pickup (23632)",
+              "modelYear": "2008",
+              "id": "3739",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16609",
+                    "update": "2023-06-16 12:28:29",
+                    "brand": "UAZ",
+                    "model": "Pickup",
+                    "generation": "Pickup (23632)",
+                    "engine": "2.7 (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/4400",
+                    "powerHp": "128",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "2008",
+                    "yearstop": "2014",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5200",
+                    "width": "2080",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2090",
+                    "curbWeightMin": "2090"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-02 14:18:59",
+        "name": "31512",
+        "id": "1918",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:42:13",
+              "name": "315122",
+              "modelYear": "1998",
+              "id": "3740",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16610",
+                    "update": "2023-08-09 10:36:41",
+                    "brand": "UAZ",
+                    "model": "31512",
+                    "generation": "315122",
+                    "engine": "2.45 (74 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "74",
+                    "powerHp": "74",
+                    "yearstart": "1998",
+                    "yearstop": "2003",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31512-01",
+              "modelYear": "1985",
+              "id": "3741",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16611",
+                    "update": "2023-08-09 10:36:41",
+                    "brand": "UAZ",
+                    "model": "31512",
+                    "generation": "31512-01",
+                    "engine": "2.45 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/4000",
+                    "powerHp": "81",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1985",
+                    "yearstop": "1990",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-09-01 09:36:47",
+        "name": "Hunter",
+        "id": "1919",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Hunter (315108)",
+              "modelYear": "2009",
+              "id": "3760",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16635",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315108)",
+                    "engine": "2.2 TD (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/",
+                    "powerHp": "106",
+                    "yearstart": "2009",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Hunter (315195)",
+              "modelYear": "2003",
+              "id": "3742",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16612",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315195)",
+                    "engine": "2.4 D (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/4000",
+                    "powerHp": "86",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4100",
+                    "width": "2010",
+                    "height": "2025",
+                    "heightMin": "2025",
+                    "fuel": "Diesel",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  },
+                  {
+                    "id": "16613",
+                    "update": "2023-06-16 12:28:23",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315195)",
+                    "engine": "2.7 i 16V (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/4400",
+                    "powerHp": "128",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4100",
+                    "width": "2010",
+                    "height": "2025",
+                    "heightMin": "2025",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  },
+                  {
+                    "id": "16614",
+                    "update": "2023-08-09 10:45:42",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315195)",
+                    "engine": "2.89 (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84/4000",
+                    "powerHp": "84",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4100",
+                    "width": "2010",
+                    "height": "2025",
+                    "heightMin": "2025",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  },
+                  {
+                    "id": "42771",
+                    "update": "2023-06-16 12:28:44",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315195)",
+                    "engine": "2.7 (135 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/4600",
+                    "powerHp": "135",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2018",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4050",
+                    "width": "1775",
+                    "height": "1950",
+                    "heightMin": "1950",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1760",
+                    "curbWeightMin": "1760"
+                  },
+                  {
+                    "id": "44293",
+                    "update": "2023-06-16 12:28:40",
+                    "brand": "UAZ",
+                    "model": "Hunter",
+                    "generation": "Hunter (315195)",
+                    "engine": "Expedition 2.7 (135 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/4600",
+                    "powerHp": "135",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2019",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4260",
+                    "width": "1775",
+                    "height": "2165",
+                    "heightMin": "2165",
+                    "rideHeight": "241",
+                    "rideHeightMin": "241",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 15:11:22",
+        "name": "3160",
+        "id": "1920",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:46:47",
+              "name": "31608",
+              "modelYear": "2002",
+              "id": "3743",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16615",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "UAZ",
+                    "model": "3160",
+                    "generation": "31608",
+                    "engine": "2.24 D (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "2002",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31604",
+              "modelYear": "1998",
+              "id": "3744",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16616",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "UAZ",
+                    "model": "3160",
+                    "generation": "31604",
+                    "engine": "2.5 TDI (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/",
+                    "powerHp": "103",
+                    "yearstart": "2000",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4240",
+                    "width": "1828",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "fuel": "Diesel",
+                    "curbWeight": "1975",
+                    "curbWeightMin": "1975"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31605",
+              "modelYear": "1997",
+              "id": "3745",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16617",
+                    "update": "2023-08-09 10:45:40",
+                    "brand": "UAZ",
+                    "model": "3160",
+                    "generation": "31605",
+                    "engine": "2.89 (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/",
+                    "powerHp": "102",
+                    "yearstart": "2000",
+                    "yearstop": "2004",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4240",
+                    "width": "1828",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31601",
+              "modelYear": "1997",
+              "id": "3746",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16618",
+                    "update": "2023-08-09 10:45:41",
+                    "brand": "UAZ",
+                    "model": "3160",
+                    "generation": "31601",
+                    "engine": "2.9 (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98/4000",
+                    "powerHp": "98",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31602",
+              "modelYear": "1997",
+              "id": "3747",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16619",
+                    "update": "2023-08-09 10:46:53",
+                    "brand": "UAZ",
+                    "model": "3160",
+                    "generation": "31602",
+                    "engine": "2.7 (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/",
+                    "powerHp": "132",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4240",
+                    "width": "1828",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1965",
+                    "curbWeightMin": "1965"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-09-14 12:39:42",
+        "name": "Patriot",
+        "id": "1921",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Patriot (3163, facelift 2016)",
+              "modelYear": "2016",
+              "id": "7901",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41047",
+                    "update": "2023-06-16 12:28:24",
+                    "brand": "UAZ",
+                    "model": "Patriot",
+                    "generation": "Patriot (3163, facelift 2016)",
+                    "engine": "2.7 (135 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/4600",
+                    "powerHp": "135",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2016",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "widthOpenedMirrors": "2110",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1925",
+                    "curbWeightMin": "1925"
+                  },
+                  {
+                    "id": "41202",
+                    "update": "2023-06-16 12:28:23",
+                    "brand": "UAZ",
+                    "model": "Patriot",
+                    "generation": "Patriot (3163, facelift 2016)",
+                    "engine": "2.7 (150 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2016",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "widthOpenedMirrors": "2110",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Patriot (3163)",
+              "modelYear": "2005",
+              "id": "3748",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16620",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "UAZ",
+                    "model": "Patriot",
+                    "generation": "Patriot (3163)",
+                    "engine": "2.3D (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/3900",
+                    "powerHp": "116",
+                    "powerRpm": "3900",
+                    "powerRpmLow": "3900",
+                    "yearstart": "2005",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4647",
+                    "width": "2080",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "fuel": "Diesel",
+                    "curbWeight": "2170",
+                    "curbWeightMin": "2170"
+                  },
+                  {
+                    "id": "16621",
+                    "update": "2023-06-16 12:28:24",
+                    "brand": "UAZ",
+                    "model": "Patriot",
+                    "generation": "Patriot (3163)",
+                    "engine": "2.7 i 16V (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/4400",
+                    "powerHp": "128",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "2005",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4647",
+                    "width": "2080",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2070",
+                    "curbWeightMin": "2070"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-08 13:58:25",
+        "name": "3151",
+        "id": "1922",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-02-04 12:54:27",
+              "name": "3151",
+              "modelYear": "1989",
+              "id": "3749",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16622",
+                    "update": "2023-08-09 10:36:43",
+                    "brand": "UAZ",
+                    "model": "3151",
+                    "generation": "3151",
+                    "engine": "2.45 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1989",
+                    "yearstop": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2050",
+                    "heightMin": "2050",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1680",
+                    "curbWeightMin": "1680"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-02-04 12:54:27",
+              "name": "31512",
+              "modelYear": "1989",
+              "id": "3750",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16623",
+                    "update": "2023-08-09 10:36:42",
+                    "brand": "UAZ",
+                    "model": "3151",
+                    "generation": "31512",
+                    "engine": "2.45 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1989",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3151-01",
+              "modelYear": "1985",
+              "id": "3751",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16624",
+                    "update": "2023-08-09 10:36:41",
+                    "brand": "UAZ",
+                    "model": "3151",
+                    "generation": "3151-01",
+                    "engine": "2.45 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/4000",
+                    "powerHp": "81",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1985",
+                    "yearstop": "1989",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2050",
+                    "heightMin": "2050",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 14:26:37",
+        "name": "31514",
+        "id": "1923",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:45:18",
+              "name": "315143",
+              "modelYear": "2003",
+              "id": "3752",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16625",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "UAZ",
+                    "model": "31514",
+                    "generation": "315143",
+                    "engine": "2.4 D (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86",
+                    "powerHp": "86",
+                    "yearstart": "2002",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "315148",
+              "modelYear": "2003",
+              "id": "3753",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16626",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "UAZ",
+                    "model": "31514",
+                    "generation": "315148",
+                    "engine": "2.24 D (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98/",
+                    "powerHp": "98",
+                    "yearstart": "2002",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2020",
+                    "heightMin": "2020",
+                    "fuel": "Diesel",
+                    "curbWeight": "1760",
+                    "curbWeightMin": "1760"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-02-04 12:54:57",
+              "name": "31514",
+              "modelYear": "1993",
+              "id": "3754",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16627",
+                    "update": "2023-08-09 10:36:41",
+                    "brand": "UAZ",
+                    "model": "31514",
+                    "generation": "31514",
+                    "engine": "2.45 (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/",
+                    "powerHp": "76",
+                    "yearstart": "1995",
+                    "yearstop": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2020",
+                    "heightMin": "2020",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-02-04 12:54:57",
+              "name": "315142 (92)",
+              "modelYear": "1993",
+              "id": "3755",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16628",
+                    "update": "2023-08-09 10:45:36",
+                    "brand": "UAZ",
+                    "model": "31514",
+                    "generation": "315142 (92)",
+                    "engine": "2.89 (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84/",
+                    "powerHp": "84",
+                    "yearstart": "1995",
+                    "yearstop": "2003",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2020",
+                    "heightMin": "2020",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 14:58:30",
+        "name": "3153",
+        "id": "1924",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:46:30",
+              "name": "3153",
+              "modelYear": "1996",
+              "id": "3756",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16629",
+                    "update": "2023-08-09 10:45:40",
+                    "brand": "UAZ",
+                    "model": "3153",
+                    "generation": "3153",
+                    "engine": "2.9 (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98/4000",
+                    "powerHp": "98",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1996",
+                    "yearstop": "2003",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 15:13:41",
+        "name": "3162",
+        "id": "1925",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 16:05:04",
+              "name": "31622",
+              "modelYear": "2000",
+              "id": "3757",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16630",
+                    "update": "2023-08-09 10:46:53",
+                    "brand": "UAZ",
+                    "model": "3162",
+                    "generation": "31622",
+                    "engine": "2.7 (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/",
+                    "powerHp": "132",
+                    "yearstart": "1999",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4630",
+                    "width": "1828",
+                    "height": "1948",
+                    "heightMin": "1948",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-12-05 16:05:04",
+              "name": "31625",
+              "modelYear": "2000",
+              "id": "3758",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16631",
+                    "update": "2023-08-09 10:45:41",
+                    "brand": "UAZ",
+                    "model": "3162",
+                    "generation": "31625",
+                    "engine": "2.89 (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/",
+                    "powerHp": "102",
+                    "yearstart": "1999",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4630",
+                    "width": "1828",
+                    "height": "1948",
+                    "heightMin": "1948",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2020",
+                    "curbWeightMin": "2020"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-08 13:55:14",
+        "name": "469",
+        "id": "1926",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-12 15:12:26",
+              "name": "469B",
+              "modelYear": "1973",
+              "id": "8299",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42795",
+                    "update": "2023-08-09 10:38:34",
+                    "brand": "UAZ",
+                    "model": "469",
+                    "generation": "469B",
+                    "engine": "2.4 (73 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73/4000",
+                    "powerHp": "73",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1973",
+                    "yearstop": "1985",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2015",
+                    "heightMin": "2015",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-04-12 15:12:26",
+              "name": "469",
+              "modelYear": "1972",
+              "id": "3759",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16633",
+                    "update": "2025-12-17 10:42:17",
+                    "brand": "UAZ",
+                    "model": "469",
+                    "generation": "469",
+                    "engine": "2.45 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/4000",
+                    "powerHp": "75",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1972",
+                    "yearstop": "1985",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4025",
+                    "width": "1785",
+                    "height": "2081",
+                    "heightMin": "2081",
+                    "rideHeight": "300",
+                    "rideHeightMin": "300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-21 15:38:50",
+        "name": "31519",
+        "id": "1928",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:45:53",
+              "name": "315192",
+              "modelYear": "2002",
+              "id": "3761",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16636",
+                    "update": "2023-08-09 10:45:36",
+                    "brand": "UAZ",
+                    "model": "31519",
+                    "generation": "315192",
+                    "engine": "2.89 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100",
+                    "powerHp": "100",
+                    "yearstart": "2001",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:45:53",
+              "name": "31519",
+              "modelYear": "1997",
+              "id": "3762",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16637",
+                    "update": "2023-08-09 10:45:39",
+                    "brand": "UAZ",
+                    "model": "31519",
+                    "generation": "31519",
+                    "engine": "2.9 (98 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98/4000",
+                    "powerHp": "98",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1997",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 14:59:49",
+        "name": "3159",
+        "id": "1929",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 16:04:19",
+              "name": "3159",
+              "modelYear": "1999",
+              "id": "3763",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16638",
+                    "update": "2023-08-09 10:46:52",
+                    "brand": "UAZ",
+                    "model": "3159",
+                    "generation": "3159",
+                    "engine": "2.7 (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/",
+                    "powerHp": "132",
+                    "yearstart": "1999",
+                    "yearstop": "2008",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4570",
+                    "width": "1940",
+                    "height": "2105",
+                    "heightMin": "2105",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2000",
+                    "curbWeightMin": "2000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "update": "2019-05-22 15:10:20",
+  "name": "Rinspeed",
+  "id": "244",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-26 12:59:56",
+        "name": "Budii",
+        "id": "2438",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Budii Concept",
+              "modelYear": "2015",
+              "id": "6284",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33238",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Rinspeed",
+                    "model": "Budii",
+                    "generation": "Budii Concept",
+                    "engine": "21.6 kWh (170 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4008",
+                    "width": "1905",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Electricity",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-26 13:35:19",
+        "name": "Etos",
+        "id": "2439",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Etos Concept",
+              "modelYear": "2016",
+              "id": "6285",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33239",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Rinspeed",
+                    "model": "Etos",
+                    "generation": "Etos Concept",
+                    "engine": "1.5 (362 Hp) Plug-in Hybrid AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4761",
+                    "width": "1969",
+                    "height": "1297",
+                    "heightMin": "1297",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1585",
+                    "curbWeightMin": "1585"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-26 13:41:47",
+        "name": "Oasis",
+        "id": "2441",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Oasis Concept",
+              "modelYear": "2017",
+              "id": "6288",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33250",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Rinspeed",
+                    "model": "Oasis",
+                    "generation": "Oasis Concept",
+                    "engine": "12 kWh (108 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3602",
+                    "width": "1917",
+                    "height": "1517",
+                    "heightMin": "1517",
+                    "fuel": "Electricity",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

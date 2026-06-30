@@ -1,0 +1,410 @@
+{
+  "update": "2019-05-22 15:10:16",
+  "name": "Hindustan",
+  "id": "117",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-17 14:19:17",
+        "name": "Ambassador",
+        "id": "1152",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:30:38",
+              "name": "Ambassador",
+              "modelYear": "1991",
+              "id": "2316",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11046",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "1.5 D Nova (32 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "32/4000",
+                    "powerHp": "32",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1991",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1662",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Diesel",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  },
+                  {
+                    "id": "11047",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "1.5 Nova (55 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "55/4400",
+                    "powerHp": "55",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "1991",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1662",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1142",
+                    "curbWeightMin": "1142"
+                  },
+                  {
+                    "id": "11048",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "1.8 i (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5000",
+                    "powerHp": "75",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1999",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1660",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  },
+                  {
+                    "id": "11049",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "1.8 Nova (74 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "74/5000",
+                    "powerHp": "74",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1991",
+                    "yearstop": "1999",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1662",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1104",
+                    "curbWeightMin": "1104"
+                  },
+                  {
+                    "id": "11050",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Ambassador",
+                    "generation": "Ambassador",
+                    "engine": "2.0 D (56 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "56/4500",
+                    "powerHp": "56",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1999",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1660",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Diesel",
+                    "curbWeight": "1220",
+                    "curbWeightMin": "1220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 14:58:37",
+        "name": "Contessa",
+        "id": "1153",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Contessa",
+              "modelYear": "1984",
+              "id": "2317",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11051",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Contessa",
+                    "generation": "Contessa",
+                    "engine": "1.8 Classic (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88/5000",
+                    "powerHp": "88",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1995",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4591",
+                    "width": "1699",
+                    "height": "1376",
+                    "heightMin": "1376",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1138",
+                    "curbWeightMin": "1138"
+                  },
+                  {
+                    "id": "11052",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Contessa",
+                    "generation": "Contessa",
+                    "engine": "1.8 Classic Line (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5000",
+                    "powerHp": "75",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1984",
+                    "yearstop": "1996",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4591",
+                    "width": "1699",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1138",
+                    "curbWeightMin": "1138"
+                  },
+                  {
+                    "id": "11053",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Contessa",
+                    "generation": "Contessa",
+                    "engine": "1.8 i Classic (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5000",
+                    "powerHp": "75",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1700",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  },
+                  {
+                    "id": "11054",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Contessa",
+                    "generation": "Contessa",
+                    "engine": "2.0 ISZ D (52 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "52/4500",
+                    "powerHp": "52",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1995",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4591",
+                    "width": "1699",
+                    "height": "1374",
+                    "heightMin": "1374",
+                    "fuel": "Diesel",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Lancer",
+        "id": "1154",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:30:38",
+              "name": "Lancer (CJO)",
+              "modelYear": "2001",
+              "id": "2318",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11055",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Lancer",
+                    "generation": "Lancer (CJO)",
+                    "engine": "1.5 i 16V GLXi (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5500",
+                    "powerHp": "87",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4290",
+                    "width": "1690",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  },
+                  {
+                    "id": "11056",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Lancer",
+                    "generation": "Lancer (CJO)",
+                    "engine": "2.0 GLXd (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/4500",
+                    "powerHp": "68",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4290",
+                    "width": "1690",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Diesel",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Pajero",
+        "id": "1155",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:30:38",
+              "name": "Pajero",
+              "modelYear": "2002",
+              "id": "2319",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11057",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Hindustan",
+                    "model": "Pajero",
+                    "generation": "Pajero",
+                    "engine": "2.8 TD (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/4000",
+                    "powerHp": "125",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2002",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1695",
+                    "height": "1890",
+                    "heightMin": "1890",
+                    "fuel": "Diesel",
+                    "curbWeight": "2060",
+                    "curbWeightMin": "2060"
+                  },
+                  {
+                    "id": "11058",
+                    "update": "2023-07-25 08:46:48",
+                    "brand": "Hindustan",
+                    "model": "Pajero",
+                    "generation": "Pajero",
+                    "engine": "3.2 TD (161 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "161/3800",
+                    "powerHp": "161",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2002",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1695",
+                    "height": "1890",
+                    "heightMin": "1890",
+                    "fuel": "Diesel",
+                    "curbWeight": "2125",
+                    "curbWeightMin": "2125"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

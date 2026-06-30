@@ -1,0 +1,515 @@
+{
+  "update": "2025-03-17 14:50:31",
+  "name": "Omoda",
+  "id": "354",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-17 14:51:11",
+        "name": "5",
+        "id": "3610",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-19 12:46:32",
+              "name": "5 (facelift 2024)",
+              "modelYear": "2025",
+              "id": "10946",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55817",
+                    "update": "2025-11-20 13:37:58",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5 (facelift 2024)",
+                    "engine": "1.6 TGDi (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5000",
+                    "powerHp": "147",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4447",
+                    "width": "1824",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "rideHeight": "143-164",
+                    "rideHeightMin": "143",
+                    "rideHeightMax": "164",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1530",
+                    "curbWeightMin": "1530"
+                  },
+                  {
+                    "id": "55820",
+                    "update": "2025-11-20 16:16:45",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5 (facelift 2024)",
+                    "engine": "60.9 kWh (211 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4424",
+                    "width": "1830",
+                    "widthOpenedMirrors": "2101",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "fuel": "Electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "55821",
+                    "update": "2025-11-20 16:16:45",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5 (facelift 2024)",
+                    "engine": "SHS-H 1.5 TGDI (224 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4447",
+                    "width": "1824",
+                    "widthOpenedMirrors": "2101",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1621",
+                    "curbWeightMin": "1621"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-17 14:51:25",
+              "name": "5",
+              "modelYear": "2022",
+              "id": "10440",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54025",
+                    "update": "2025-11-19 12:52:33",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.6 TGDI (186 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1830",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "rideHeight": "164",
+                    "rideHeightMin": "164",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430-1444",
+                    "curbWeightMin": "1430",
+                    "curbWeightMax": "1444"
+                  },
+                  {
+                    "id": "54026",
+                    "update": "2025-11-19 12:52:39",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.6 TGDI (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5000",
+                    "powerHp": "147",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4373",
+                    "width": "1824",
+                    "widthOpenedMirrors": "2101",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "rideHeight": "164",
+                    "rideHeightMin": "164",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "54027",
+                    "update": "2025-11-19 13:28:14",
+                    "brand": "Omoda",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "61.06 kWh (204 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4424",
+                    "width": "1830",
+                    "height": "1588",
+                    "heightMin": "1588",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1710",
+                    "curbWeightMin": "1710"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-04 14:16:51",
+        "name": "C9",
+        "id": "3637",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-04 14:17:24",
+              "name": "C9",
+              "modelYear": "2024",
+              "id": "10486",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54075",
+                    "update": "2025-04-04 16:11:18",
+                    "brand": "Omoda",
+                    "model": "C9",
+                    "generation": "C9",
+                    "engine": "2.0 TGDI (257 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "257/5500",
+                    "powerHp": "257",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "rideHeight": "167",
+                    "rideHeightMin": "167",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1786",
+                    "curbWeightMin": "1786"
+                  },
+                  {
+                    "id": "54076",
+                    "update": "2025-04-04 16:11:19",
+                    "brand": "Omoda",
+                    "model": "C9",
+                    "generation": "C9",
+                    "engine": "2.0 TGDI (257 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "257/5500",
+                    "powerHp": "257",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1876",
+                    "curbWeightMin": "1876"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-16 14:12:57",
+        "name": "C7",
+        "id": "3815",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-16 14:13:23",
+              "name": "C7",
+              "modelYear": "2026",
+              "id": "10821",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55372",
+                    "update": "2025-09-16 16:22:15",
+                    "brand": "Omoda",
+                    "model": "C7",
+                    "generation": "C7",
+                    "engine": "1.6T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1875",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "176",
+                    "rideHeightMin": "176",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1653",
+                    "curbWeightMin": "1653"
+                  },
+                  {
+                    "id": "55373",
+                    "update": "2025-09-16 16:22:15",
+                    "brand": "Omoda",
+                    "model": "C7",
+                    "generation": "C7",
+                    "engine": "1.6T (150 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1875",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1753",
+                    "curbWeightMin": "1753"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-17 09:51:47",
+        "name": "S5",
+        "id": "3817",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-17 09:52:26",
+              "name": "S5",
+              "modelYear": "2023",
+              "id": "10823",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55381",
+                    "update": "2025-09-17 14:18:32",
+                    "brand": "Omoda",
+                    "model": "S5",
+                    "generation": "S5",
+                    "engine": "1.5 (113 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4644",
+                    "width": "1814",
+                    "height": "1493",
+                    "heightMin": "1493",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1386",
+                    "curbWeightMin": "1386"
+                  },
+                  {
+                    "id": "55382",
+                    "update": "2025-09-17 14:18:32",
+                    "brand": "Omoda",
+                    "model": "S5",
+                    "generation": "S5",
+                    "engine": "GT 1.5T (147 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4691",
+                    "width": "1814",
+                    "height": "1493",
+                    "heightMin": "1493",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1419",
+                    "curbWeightMin": "1419"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-17 12:20:30",
+        "name": "9",
+        "id": "3819",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-17 12:21:15",
+              "name": "9",
+              "modelYear": "2025",
+              "id": "10825",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55383",
+                    "update": "2025-09-17 14:18:32",
+                    "brand": "Omoda",
+                    "model": "9",
+                    "generation": "9",
+                    "engine": "1.5 TGDI (537 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143",
+                    "powerHp": "143",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2203",
+                    "curbWeightMin": "2203"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-10 09:37:46",
+        "name": "7",
+        "id": "3871",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-10 09:39:14",
+              "name": "7",
+              "modelYear": "2025",
+              "id": "10923",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56984",
+                    "update": "2026-05-12 16:09:22",
+                    "brand": "Omoda",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "SHS-P 1.5 TGDI (279 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1875",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "157",
+                    "rideHeightMin": "157",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-14 07:57:08",
+        "name": "O4",
+        "id": "4009",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-14 07:57:20",
+              "name": "O4",
+              "modelYear": "2026",
+              "id": "11243",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

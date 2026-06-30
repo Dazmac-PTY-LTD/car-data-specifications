@@ -1,0 +1,187 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Ravon",
+  "id": "253",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 15:36:00",
+        "name": "Gentra",
+        "id": "2507",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gentra",
+              "modelYear": "2015",
+              "id": "6506",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34068",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ravon",
+                    "model": "Gentra",
+                    "generation": "Gentra",
+                    "engine": "1.5 (107 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "107/5800",
+                    "powerHp": "107",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4515",
+                    "width": "1725",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "34069",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ravon",
+                    "model": "Gentra",
+                    "generation": "Gentra",
+                    "engine": "1.5 (107 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "107/5800",
+                    "powerHp": "107",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4515",
+                    "width": "1725",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1245",
+                    "curbWeightMin": "1245"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-25 15:49:49",
+        "name": "R2",
+        "id": "2508",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R2",
+              "modelYear": "2016",
+              "id": "6507",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34072",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ravon",
+                    "model": "R2",
+                    "generation": "R2",
+                    "engine": "1.25 (85 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/6400",
+                    "powerHp": "85",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2016",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3640",
+                    "width": "1597",
+                    "height": "1522",
+                    "heightMin": "1522",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1054",
+                    "curbWeightMin": "1054"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-25 16:00:16",
+        "name": "R4",
+        "id": "2509",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R4",
+              "modelYear": "2016",
+              "id": "6508",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34070",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ravon",
+                    "model": "R4",
+                    "generation": "R4",
+                    "engine": "1.5 (106 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/5800",
+                    "powerHp": "106",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4479",
+                    "width": "1735",
+                    "height": "1514",
+                    "heightMin": "1514",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34071",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ravon",
+                    "model": "R4",
+                    "generation": "R4",
+                    "engine": "1.5 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/5800",
+                    "powerHp": "106",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4479",
+                    "width": "1735",
+                    "height": "1514",
+                    "heightMin": "1514",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

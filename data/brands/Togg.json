@@ -1,0 +1,169 @@
+{
+  "update": "2023-03-15 10:07:20",
+  "name": "Togg",
+  "id": "319",
+  "models": {
+    "model": [
+      {
+        "update": "2023-03-15 10:21:18",
+        "name": "T10X",
+        "id": "3235",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-03-15 10:21:52",
+              "name": "T10X",
+              "modelYear": "2023",
+              "id": "9388",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48175",
+                    "update": "2023-03-15 13:57:47",
+                    "brand": "Togg",
+                    "model": "T10X",
+                    "generation": "T10X",
+                    "engine": "Standard Range 52.4 kWh (218 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4599",
+                    "width": "1886",
+                    "widthOpenedMirrors": "2100",
+                    "height": "1676",
+                    "heightMin": "1676",
+                    "rideHeight": "192",
+                    "rideHeightMin": "192",
+                    "fuel": "Electricity",
+                    "curbWeight": "1874-1935",
+                    "curbWeightMin": "1874",
+                    "curbWeightMax": "1935"
+                  },
+                  {
+                    "id": "48176",
+                    "update": "2023-03-18 07:51:07",
+                    "brand": "Togg",
+                    "model": "T10X",
+                    "generation": "T10X",
+                    "engine": "Long Range 88.5 kWh (218 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4599",
+                    "width": "1886",
+                    "widthOpenedMirrors": "2100",
+                    "height": "1675",
+                    "heightMin": "1675",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2051-2087",
+                    "curbWeightMin": "2051",
+                    "curbWeightMax": "2087"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-09 15:09:45",
+        "name": "T10F",
+        "id": "3801",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-09 15:11:05",
+              "name": "T10F",
+              "modelYear": "2025",
+              "id": "10800",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55308",
+                    "update": "2025-09-09 16:08:58",
+                    "brand": "Togg",
+                    "model": "T10F",
+                    "generation": "T10F",
+                    "engine": "52.4 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4830",
+                    "width": "1881",
+                    "widthOpenedMirrors": "2105",
+                    "height": "1551",
+                    "heightMin": "1551",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Electricity",
+                    "curbWeight": "1923",
+                    "curbWeightMin": "1923"
+                  },
+                  {
+                    "id": "55315",
+                    "update": "2025-09-10 14:18:21",
+                    "brand": "Togg",
+                    "model": "T10F",
+                    "generation": "T10F",
+                    "engine": "88.5 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4830",
+                    "width": "1881",
+                    "widthOpenedMirrors": "2105",
+                    "height": "1549-1555",
+                    "heightMin": "1549",
+                    "heightMax": "1555",
+                    "rideHeight": "157-163",
+                    "rideHeightMin": "157",
+                    "rideHeightMax": "163",
+                    "fuel": "Electricity",
+                    "curbWeight": "2079-2106",
+                    "curbWeightMin": "2079",
+                    "curbWeightMax": "2106"
+                  },
+                  {
+                    "id": "55316",
+                    "update": "2025-09-10 14:18:21",
+                    "brand": "Togg",
+                    "model": "T10F",
+                    "generation": "T10F",
+                    "engine": "88.5 kWh (435 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4830",
+                    "width": "1881",
+                    "widthOpenedMirrors": "2105",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "rideHeight": "161",
+                    "rideHeightMin": "161",
+                    "fuel": "Electricity",
+                    "curbWeight": "2219",
+                    "curbWeightMin": "2219"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

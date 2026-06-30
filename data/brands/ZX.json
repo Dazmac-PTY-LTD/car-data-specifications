@@ -1,0 +1,199 @@
+{
+  "update": "2019-05-22 15:10:22",
+  "name": "ZX",
+  "id": "130",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-22 09:00:07",
+        "name": "GrandTiger",
+        "id": "1335",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GrandTiger",
+              "modelYear": "2007",
+              "id": "2689",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12413",
+                    "update": "2023-06-15 08:48:05",
+                    "brand": "ZX",
+                    "model": "GrandTiger",
+                    "generation": "GrandTiger",
+                    "engine": "2.4 (126 Hp) 4x2",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5080",
+                    "width": "1750",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "12414",
+                    "update": "2023-06-15 08:48:05",
+                    "brand": "ZX",
+                    "model": "GrandTiger",
+                    "generation": "GrandTiger",
+                    "engine": "2.4 (126 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5080",
+                    "width": "1750",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "12415",
+                    "update": "2023-06-15 08:48:05",
+                    "brand": "ZX",
+                    "model": "GrandTiger",
+                    "generation": "GrandTiger",
+                    "engine": "2.4 (126 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5080",
+                    "width": "1750",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-22 09:11:12",
+        "name": "Landmark",
+        "id": "1336",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-02-19 13:43:44",
+              "name": "Landmark",
+              "modelYear": "2007",
+              "id": "2690",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12416",
+                    "update": "2023-06-15 08:48:07",
+                    "brand": "ZX",
+                    "model": "Landmark",
+                    "generation": "Landmark",
+                    "engine": "2.4 (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5020",
+                    "width": "1750",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  },
+                  {
+                    "id": "12417",
+                    "update": "2023-06-15 08:48:06",
+                    "brand": "ZX",
+                    "model": "Landmark",
+                    "generation": "Landmark",
+                    "engine": "2.4 (126 Hp) 4x2 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4750",
+                    "width": "1750",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1710",
+                    "curbWeightMin": "1710"
+                  },
+                  {
+                    "id": "12418",
+                    "update": "2023-06-15 08:48:06",
+                    "brand": "ZX",
+                    "model": "Landmark",
+                    "generation": "Landmark",
+                    "engine": "2.4 (126 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5200",
+                    "powerHp": "126",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5050",
+                    "width": "1760",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

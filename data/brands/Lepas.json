@@ -1,0 +1,216 @@
+{
+  "update": "2026-04-17 08:13:38",
+  "name": "Lepas",
+  "id": "390",
+  "models": {
+    "model": [
+      {
+        "update": "2026-04-17 11:07:06",
+        "name": "L8",
+        "id": "3967",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-27 09:25:17",
+              "name": "L8",
+              "modelYear": "2026",
+              "id": "11166",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56908",
+                    "update": "2026-04-28 08:10:58",
+                    "brand": "Lepas",
+                    "model": "L8",
+                    "generation": "L8",
+                    "engine": "1.5T 18.4 kWh (279 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4688",
+                    "width": "1871",
+                    "height": "1686",
+                    "heightMin": "1686",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-17 11:17:15",
+        "name": "L6",
+        "id": "3969",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-17 11:17:53",
+              "name": "L6",
+              "modelYear": "2026",
+              "id": "11168",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56906",
+                    "update": "2026-04-28 08:06:02",
+                    "brand": "Lepas",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "1.5T 18.4 kWh (279 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4552",
+                    "width": "1852",
+                    "height": "1682",
+                    "heightMin": "1682",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56907",
+                    "update": "2026-04-28 08:09:25",
+                    "brand": "Lepas",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "67.08 kWh (242 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1852",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "fuel": "Electricity",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-17 11:35:38",
+        "name": "L4",
+        "id": "3970",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-17 11:36:03",
+              "name": "L4",
+              "modelYear": "2026",
+              "id": "11169",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56848",
+                    "update": "2026-04-17 16:24:21",
+                    "brand": "Lepas",
+                    "model": "L4",
+                    "generation": "L4",
+                    "engine": "1.5L (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/6300",
+                    "powerHp": "109",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1820",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56849",
+                    "update": "2026-04-17 16:24:21",
+                    "brand": "Lepas",
+                    "model": "L4",
+                    "generation": "L4",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1820",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56904",
+                    "update": "2026-04-28 08:13:23",
+                    "brand": "Lepas",
+                    "model": "L4",
+                    "generation": "L4",
+                    "engine": "1.5T 18.3 kWh (218 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1817",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56905",
+                    "update": "2026-04-28 08:15:09",
+                    "brand": "Lepas",
+                    "model": "L4",
+                    "generation": "L4",
+                    "engine": "67.08 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1817",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "fuel": "Electricity",
+                    "curbWeight": "1781",
+                    "curbWeightMin": "1781"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "Monte Carlo",
+  "id": "183",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-23 12:19:27",
+        "name": "Monte Carlo",
+        "id": "1812",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Monte Carlo",
+              "modelYear": "1995",
+              "id": "3563",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15986",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Monte Carlo",
+                    "model": "Monte Carlo",
+                    "generation": "Monte Carlo",
+                    "engine": "4.0 i V12 (720 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/7000",
+                    "powerHp": "720",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1992",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4025",
+                    "width": "2020",
+                    "height": "1130",
+                    "heightMin": "1130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

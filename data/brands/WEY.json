@@ -1,0 +1,709 @@
+{
+  "update": "2020-10-30 14:53:36",
+  "name": "WEY",
+  "id": "226",
+  "models": {
+    "model": [
+      {
+        "update": "2018-02-10 12:01:44",
+        "name": "VV5",
+        "id": "2362",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "VV5",
+              "modelYear": "2017",
+              "id": "6113",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32682",
+                    "update": "2023-06-15 10:12:56",
+                    "brand": "WEY",
+                    "model": "VV5",
+                    "generation": "VV5",
+                    "engine": "2.0 Turbo (197 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5200-5500",
+                    "powerHp": "197",
+                    "powerRpm": "5200-5500",
+                    "powerRpmLow": "5200",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4462",
+                    "width": "1857",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-30 14:39:05",
+        "name": "VV7",
+        "id": "2363",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 15:42:30",
+              "name": "VV7 GT Pro",
+              "modelYear": "2019",
+              "id": "7361",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "VV7",
+              "modelYear": "2017",
+              "id": "6114",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32684",
+                    "update": "2023-06-15 09:56:38",
+                    "brand": "WEY",
+                    "model": "VV7",
+                    "generation": "VV7",
+                    "engine": "S 2.0 Turbo (234 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "234/5500",
+                    "powerHp": "234",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4765",
+                    "width": "1931",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "211",
+                    "rideHeightMin": "211",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-30 14:53:36",
+        "name": "P8",
+        "id": "2364",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "P8 Concept",
+              "modelYear": "2017",
+              "id": "6115",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "P8",
+              "modelYear": "2018",
+              "id": "6675",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34860",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "WEY",
+                    "model": "P8",
+                    "generation": "P8",
+                    "engine": "2.0 T (340 Hp) Plug-in Hybrid AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "234/5500",
+                    "powerHp": "234",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4760",
+                    "width": "1931",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-30 14:05:25",
+        "name": "XEV",
+        "id": "2414",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "XEV (Concept)",
+              "modelYear": "2017",
+              "id": "6226",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-02-16 15:14:03",
+        "name": "S",
+        "id": "2869",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-19 12:11:38",
+              "name": "S Concept",
+              "modelYear": "2019",
+              "id": "8137",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-02-16 15:24:04",
+        "name": "X",
+        "id": "2870",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-19 12:11:38",
+              "name": "X Concept",
+              "modelYear": "2019",
+              "id": "8138",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-14 13:51:37",
+        "name": "Tank 300",
+        "id": "2908",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-14 13:52:37",
+              "name": "Tank 300",
+              "modelYear": "2021",
+              "id": "8314",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42818",
+                    "update": "2025-09-23 09:37:46",
+                    "brand": "WEY",
+                    "model": "Tank 300",
+                    "generation": "Tank 300",
+                    "engine": "2.0T (227 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "227/5500",
+                    "powerHp": "227",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4760",
+                    "width": "1930",
+                    "height": "1927",
+                    "heightMin": "1927",
+                    "rideHeight": "224",
+                    "rideHeightMin": "224",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-04-09 22:44:15",
+        "name": "Coffee 01",
+        "id": "3181",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-08 08:54:45",
+              "name": "Coffee 01",
+              "modelYear": "2021",
+              "id": "9095",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46792",
+                    "update": "2024-10-28 16:22:15",
+                    "brand": "WEY",
+                    "model": "Coffee 01",
+                    "generation": "Coffee 01",
+                    "engine": "2.0T (476 Hp) Plug-in Hybrid AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1960",
+                    "widthOpenedMirrors": "2187",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335-2365",
+                    "curbWeightMin": "2335",
+                    "curbWeightMax": "2365"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-04-09 22:44:37",
+        "name": "Coffee 02",
+        "id": "3428",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-04-09 22:45:09",
+              "name": "Coffee 02",
+              "modelYear": "2022",
+              "id": "9096",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53027",
+                    "update": "2024-10-28 16:16:32",
+                    "brand": "WEY",
+                    "model": "Coffee 02",
+                    "generation": "Coffee 02",
+                    "engine": "2.0T (362 Hp) Plug-in Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "201/6000-6300",
+                    "powerHp": "201",
+                    "powerRpm": "6000-6300",
+                    "powerRpmLow": "6000",
+                    "powerRpmHigh": "6300",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4668",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-22 11:03:20",
+        "name": "05",
+        "id": "3508",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-22 11:04:00",
+              "name": "05",
+              "modelYear": "2024",
+              "id": "10219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53016",
+                    "update": "2024-10-25 16:22:19",
+                    "brand": "WEY",
+                    "model": "05",
+                    "generation": "05",
+                    "engine": "2.0L (476 Hp) Plug-in Hybrid AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1960",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335-2365",
+                    "curbWeightMin": "2335",
+                    "curbWeightMax": "2365"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-22 11:04:30",
+        "name": "03",
+        "id": "3509",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-22 11:05:08",
+              "name": "03",
+              "modelYear": "2024",
+              "id": "10220",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53014",
+                    "update": "2024-10-25 16:22:19",
+                    "brand": "WEY",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "2.0L (367 Hp) Plug-in Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4668",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  },
+                  {
+                    "id": "53015",
+                    "update": "2024-10-25 16:22:19",
+                    "brand": "WEY",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "2.0L (442 Hp) Plug-in Hybrid AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4668",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-28 12:57:33",
+        "name": "Latte",
+        "id": "3520",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-28 12:58:03",
+              "name": "Latte",
+              "modelYear": "2022",
+              "id": "10237",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53028",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "WEY",
+                    "model": "Latte",
+                    "generation": "Latte",
+                    "engine": "1.5T (326 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4668",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53029",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "WEY",
+                    "model": "Latte",
+                    "generation": "Latte",
+                    "engine": "1.5T (437 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4668",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-16 13:21:01",
+        "name": "07",
+        "id": "3847",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-16 13:23:14",
+              "name": "07",
+              "modelYear": "2024",
+              "id": "10870",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55559",
+                    "update": "2025-10-16 14:16:30",
+                    "brand": "WEY",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "1.5T (517 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5500-6000",
+                    "powerHp": "150",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5156",
+                    "width": "1980",
+                    "height": "1805",
+                    "heightMin": "1805",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2685",
+                    "curbWeightMin": "2685"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-16 14:38:04",
+        "name": "80",
+        "id": "3848",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-16 15:03:38",
+              "name": "80 Long",
+              "modelYear": "2024",
+              "id": "10873",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55561",
+                    "update": "2025-10-16 15:44:50",
+                    "brand": "WEY",
+                    "model": "80",
+                    "generation": "80 Long",
+                    "engine": "1.5T (487 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152/5500-6000",
+                    "powerHp": "152",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2024",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5405",
+                    "width": "1960",
+                    "height": "1890",
+                    "heightMin": "1890",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2960",
+                    "curbWeightMin": "2960"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-16 14:38:22",
+              "name": "80",
+              "modelYear": "2024",
+              "id": "10871",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55560",
+                    "update": "2025-10-16 15:44:50",
+                    "brand": "WEY",
+                    "model": "80",
+                    "generation": "80",
+                    "engine": "1.5T (487 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152/5500-6000",
+                    "powerHp": "152",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2024",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5045",
+                    "width": "1960",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2850",
+                    "curbWeightMin": "2850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-02-16 10:55:18",
+        "name": "G9",
+        "id": "3934",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-02-16 10:56:15",
+              "name": "G9",
+              "modelYear": "2026",
+              "id": "11072",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56429",
+                    "update": "2026-02-16 16:16:25",
+                    "brand": "WEY",
+                    "model": "G9",
+                    "generation": "G9",
+                    "engine": "Hi4 1.5L (442 Hp) Plug-in Hybrid AWD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5500-6000",
+                    "powerHp": "150",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5050",
+                    "width": "1985",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2803",
+                    "curbWeightMin": "2803"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Bugatti",
+  "id": "106",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-27 12:38:18",
+        "name": "EB 110",
+        "id": "1069",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EB 110",
+              "modelYear": "1992",
+              "id": "2215",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10857",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "EB 110",
+                    "generation": "EB 110",
+                    "engine": "GT (559 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "559/8000",
+                    "powerHp": "559",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "1991",
+                    "yearstop": "1996",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4400",
+                    "width": "1940",
+                    "height": "1125",
+                    "heightMin": "1125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  },
+                  {
+                    "id": "10858",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "EB 110",
+                    "generation": "EB 110",
+                    "engine": "SS (620 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/8000",
+                    "powerHp": "620",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "1992",
+                    "yearstop": "1996",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4400",
+                    "width": "1960",
+                    "height": "1125",
+                    "heightMin": "1125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1418",
+                    "curbWeightMin": "1418"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-27 12:32:36",
+        "name": "EB 112",
+        "id": "1070",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-09-19 10:42:16",
+              "name": "EB 112",
+              "modelYear": "1993",
+              "id": "2216",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10859",
+                    "update": "2022-09-19 10:58:00",
+                    "brand": "Bugatti",
+                    "model": "EB 112",
+                    "generation": "EB 112",
+                    "engine": "6.0 V12 (461 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "461/6300",
+                    "powerHp": "461",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "1993",
+                    "yearstop": "1998",
+                    "coupe": "Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5070",
+                    "width": "1960",
+                    "height": "1385",
+                    "heightMin": "1385",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-27 12:30:12",
+        "name": "Veyron",
+        "id": "1071",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-23 08:28:04",
+              "name": "Veyron F.K.P. Hommage",
+              "modelYear": "2026",
+              "id": "11037",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-23 08:28:04",
+              "name": "Veyron Targa",
+              "modelYear": "2009",
+              "id": "4794",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23586",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "Veyron",
+                    "generation": "Veyron Targa",
+                    "engine": "Grand Sport 8.0 W16 (1001 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1001/6000",
+                    "powerHp": "1001",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2015",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4462",
+                    "width": "1998",
+                    "height": "1204",
+                    "heightMin": "1204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  },
+                  {
+                    "id": "23596",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "Veyron",
+                    "generation": "Veyron Targa",
+                    "engine": "Grand Sport Vitesse 8.0 W16 (1200 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1200/6400",
+                    "powerHp": "1200",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2011",
+                    "yearstop": "2015",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4462",
+                    "width": "1998",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-23 08:28:04",
+              "name": "Veyron Coupe",
+              "modelYear": "2005",
+              "id": "2217",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10860",
+                    "update": "2023-06-05 15:35:18",
+                    "brand": "Bugatti",
+                    "model": "Veyron",
+                    "generation": "Veyron Coupe",
+                    "engine": "8.0 W16 (1001 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1001/6000",
+                    "powerHp": "1001",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4462",
+                    "width": "1998",
+                    "height": "1204",
+                    "heightMin": "1204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1888",
+                    "curbWeightMin": "1888"
+                  },
+                  {
+                    "id": "23277",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "Veyron",
+                    "generation": "Veyron Coupe",
+                    "engine": "Super Sport 8.0 W16 (1200 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1200/6400",
+                    "powerHp": "1200",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2010",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4462",
+                    "width": "1998",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1838",
+                    "curbWeightMin": "1838"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 20:31:05",
+        "name": "Chiron",
+        "id": "2112",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Chiron",
+              "modelYear": "2017",
+              "id": "4795",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23587",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "Chiron",
+                    "generation": "Chiron",
+                    "engine": "8.0 W16 (1500 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1500/6700",
+                    "powerHp": "1500",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4544",
+                    "widthOpenedMirrors": "2038",
+                    "height": "1212",
+                    "heightMin": "1212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "34342",
+                    "update": "2022-06-09 11:39:53",
+                    "brand": "Bugatti",
+                    "model": "Chiron",
+                    "generation": "Chiron",
+                    "engine": "Sport 8.0 W16 (1500 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1500/6700",
+                    "powerHp": "1500",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4544",
+                    "widthOpenedMirrors": "2038",
+                    "height": "1212",
+                    "heightMin": "1212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "43596",
+                    "update": "2022-09-03 07:51:07",
+                    "brand": "Bugatti",
+                    "model": "Chiron",
+                    "generation": "Chiron",
+                    "engine": "Super Sport 8.0 W16 (1600 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1600/7050-7100",
+                    "powerHp": "1600",
+                    "powerRpm": "7050-7100",
+                    "powerRpmLow": "7050",
+                    "powerRpmHigh": "7100",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "widthOpenedMirrors": "2183",
+                    "height": "1212",
+                    "heightMin": "1212",
+                    "rideHeight": "80-125",
+                    "rideHeightMin": "80",
+                    "rideHeightMax": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "45941",
+                    "update": "2022-06-11 07:51:06",
+                    "brand": "Bugatti",
+                    "model": "Chiron",
+                    "generation": "Chiron",
+                    "engine": "Pur Sport 8.0 W16 (1500 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1500/6700",
+                    "powerHp": "1500",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4647",
+                    "widthOpenedMirrors": "2162",
+                    "height": "1212",
+                    "heightMin": "1212",
+                    "rideHeight": "90-115",
+                    "rideHeightMin": "90",
+                    "rideHeightMax": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 20:35:25",
+        "name": "Divo",
+        "id": "2503",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Divo",
+              "modelYear": "2020",
+              "id": "6484",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34033",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bugatti",
+                    "model": "Divo",
+                    "generation": "Divo",
+                    "engine": "8.0 W16 (1500 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1500/6700",
+                    "powerHp": "1500",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4641",
+                    "width": "2018",
+                    "height": "1212",
+                    "heightMin": "1212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 20:38:46",
+        "name": "La Voiture Noire",
+        "id": "2655",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 17:01:41",
+              "name": "La Voiture Noire",
+              "modelYear": "2020",
+              "id": "6972",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-07-08 15:40:31",
+        "name": "Bolide",
+        "id": "2968",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-12-31 02:10:24",
+              "name": "Bolide",
+              "modelYear": "2021",
+              "id": "8481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43845",
+                    "update": "2022-12-31 02:09:37",
+                    "brand": "Bugatti",
+                    "model": "Bolide",
+                    "generation": "Bolide",
+                    "engine": "8.0 W16 (1850 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1850/7000",
+                    "powerHp": "1850",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4756",
+                    "width": "1998",
+                    "height": "995",
+                    "heightMin": "995",
+                    "rideHeight": "70",
+                    "rideHeightMin": "70",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1240",
+                    "curbWeightMin": "1240"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-06-29 12:05:58",
+        "name": "Type 57",
+        "id": "3134",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-06-29 12:06:54",
+              "name": "Type 57",
+              "modelYear": "1934",
+              "id": "8937",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46032",
+                    "update": "2022-07-02 07:51:06",
+                    "brand": "Bugatti",
+                    "model": "Type 57",
+                    "generation": "Type 57",
+                    "engine": "3.3i (135 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/5000",
+                    "powerHp": "135",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1934",
+                    "yearstop": "1940",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4216",
+                    "width": "1499",
+                    "height": "1346",
+                    "heightMin": "1346",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-01-13 09:26:27",
+        "name": "Centodieci",
+        "id": "3208",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-13 09:32:07",
+              "name": "Centodieci",
+              "modelYear": "2022",
+              "id": "9205",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47193",
+                    "update": "2023-01-14 07:51:07",
+                    "brand": "Bugatti",
+                    "model": "Centodieci",
+                    "generation": "Centodieci",
+                    "engine": "8.0 W16 (1600 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1600/7050-7100",
+                    "powerHp": "1600",
+                    "powerRpm": "7050-7100",
+                    "powerRpmLow": "7050",
+                    "powerRpmHigh": "7100",
+                    "yearstart": "2022",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4665",
+                    "width": "2020",
+                    "widthOpenedMirrors": "2183",
+                    "height": "1215",
+                    "heightMin": "1215",
+                    "rideHeight": "95-125",
+                    "rideHeightMin": "95",
+                    "rideHeightMax": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-18 16:06:52",
+        "name": "Type 41 Royale",
+        "id": "3399",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-18 16:15:48",
+              "name": "Type 41 Royale Coupe de Ville Binder",
+              "modelYear": "1932",
+              "id": "9922",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-03-18 16:15:48",
+              "name": "Type 41 Royale Esders Roadster",
+              "modelYear": "1930",
+              "id": "9923",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-21 11:00:50",
+        "name": "Tourbillon",
+        "id": "3456",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-21 11:02:01",
+              "name": "Tourbillon",
+              "modelYear": "2026",
+              "id": "10069",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52069",
+                    "update": "2024-06-21 15:50:25",
+                    "brand": "Bugatti",
+                    "model": "Tourbillon",
+                    "generation": "Tourbillon",
+                    "engine": "8.3 V16 (1800 Hp) Plug-in Hybrid AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "1000",
+                    "powerHp": "1000",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4671",
+                    "width": "2051",
+                    "widthOpenedMirrors": "2165",
+                    "height": "1189",
+                    "heightMin": "1189",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1995",
+                    "curbWeightMin": "1995"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-06 13:04:38",
+        "name": "W16 Mistral",
+        "id": "3763",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-06 13:07:00",
+              "name": "W16 Mistral",
+              "modelYear": "2025",
+              "id": "10724",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55048",
+                    "update": "2025-08-06 14:21:28",
+                    "brand": "Bugatti",
+                    "model": "W16 Mistral",
+                    "generation": "W16 Mistral",
+                    "engine": "8.0 (1600 Hp) AWD DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1600/7050",
+                    "powerHp": "1600",
+                    "powerRpm": "7050",
+                    "powerRpmLow": "7050",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4694",
+                    "width": "2034",
+                    "widthOpenedMirrors": "2188",
+                    "height": "1209",
+                    "heightMin": "1209",
+                    "rideHeight": "80-125",
+                    "rideHeightMin": "80",
+                    "rideHeightMax": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

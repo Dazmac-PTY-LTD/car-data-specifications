@@ -1,0 +1,270 @@
+{
+  "update": "2025-05-20 10:13:41",
+  "name": "EBRO",
+  "id": "357",
+  "models": {
+    "model": [
+      {
+        "update": "2025-05-20 10:29:44",
+        "name": "s700",
+        "id": "3677",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 10:31:17",
+              "name": "s700",
+              "modelYear": "2025",
+              "id": "10552",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54325",
+                    "update": "2025-05-20 16:03:33",
+                    "brand": "EBRO",
+                    "model": "s700",
+                    "generation": "s700",
+                    "engine": "1.6 TGDI (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5000",
+                    "powerHp": "147",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4553",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "177",
+                    "rideHeightMin": "177",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1482-1593",
+                    "curbWeightMin": "1482",
+                    "curbWeightMax": "1593"
+                  },
+                  {
+                    "id": "54949",
+                    "update": "2025-07-24 16:22:09",
+                    "brand": "EBRO",
+                    "model": "s700",
+                    "generation": "s700",
+                    "engine": "1.5 TGDI (279 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4553",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1865",
+                    "curbWeightMin": "1865"
+                  },
+                  {
+                    "id": "57127",
+                    "update": "2026-05-29 16:16:14",
+                    "brand": "EBRO",
+                    "model": "s700",
+                    "generation": "s700",
+                    "engine": "1.5 TGDI (224 Hp) Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4553",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "177",
+                    "rideHeightMin": "177",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1692",
+                    "curbWeightMin": "1692"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-20 11:07:02",
+        "name": "s800",
+        "id": "3678",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 11:07:43",
+              "name": "s800",
+              "modelYear": "2025",
+              "id": "10554",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54326",
+                    "update": "2025-05-20 16:03:33",
+                    "brand": "EBRO",
+                    "model": "s800",
+                    "generation": "s800",
+                    "engine": "1.6 TGDI (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5000",
+                    "powerHp": "147",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4725",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1673",
+                    "curbWeightMin": "1673"
+                  },
+                  {
+                    "id": "54950",
+                    "update": "2025-07-24 16:22:09",
+                    "brand": "EBRO",
+                    "model": "s800",
+                    "generation": "s800",
+                    "engine": "1.5 TGDI (279 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4725",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1991",
+                    "curbWeightMin": "1991"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-20 11:38:55",
+        "name": "s400",
+        "id": "3679",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 11:39:07",
+              "name": "s400",
+              "modelYear": "2025",
+              "id": "10555",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54872",
+                    "update": "2025-07-14 16:23:13",
+                    "brand": "EBRO",
+                    "model": "s400",
+                    "generation": "s400",
+                    "engine": "1.5L (211 Hp) Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "95/6000",
+                    "powerHp": "95",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1646",
+                    "heightMin": "1646",
+                    "rideHeight": "142",
+                    "rideHeightMin": "142",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-13 14:18:47",
+        "name": "s900",
+        "id": "3948",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-13 14:19:05",
+              "name": "s900",
+              "modelYear": "2026",
+              "id": "11122",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56699",
+                    "update": "2026-03-13 16:16:10",
+                    "brand": "EBRO",
+                    "model": "s900",
+                    "generation": "s900",
+                    "engine": "1.5 TGDI (425 Hp) Plug-in Hybrid AWD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143",
+                    "powerHp": "143",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1925",
+                    "height": "1741",
+                    "heightMin": "1741",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2308",
+                    "curbWeightMin": "2308"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "update": "2024-05-21 20:13:44",
+  "name": "Silence",
+  "id": "346",
+  "models": {
+    "model": [
+      {
+        "update": "2024-05-22 07:53:46",
+        "name": "S04 Nanocar",
+        "id": "3444",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-22 09:15:40",
+              "name": "S04 Nanocar",
+              "modelYear": "2023",
+              "id": "10026",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51825",
+                    "update": "2024-05-22 09:45:53",
+                    "brand": "Silence",
+                    "model": "S04 Nanocar",
+                    "generation": "S04 Nanocar",
+                    "engine": "L7e 11.2 kWh (30 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2282",
+                    "width": "1268",
+                    "widthOpenedMirrors": "1536",
+                    "height": "1590",
+                    "heightMin": "1590",
+                    "fuel": "Electricity",
+                    "curbWeight": "435",
+                    "curbWeightMin": "435"
+                  },
+                  {
+                    "id": "51826",
+                    "update": "2024-05-22 09:45:53",
+                    "brand": "Silence",
+                    "model": "S04 Nanocar",
+                    "generation": "S04 Nanocar",
+                    "engine": "L6e 11.2 kWh (14 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2282",
+                    "width": "1268",
+                    "widthOpenedMirrors": "1536",
+                    "height": "1590",
+                    "heightMin": "1590",
+                    "fuel": "Electricity",
+                    "curbWeight": "420",
+                    "curbWeightMin": "420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

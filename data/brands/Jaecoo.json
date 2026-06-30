@@ -1,0 +1,300 @@
+{
+  "update": "2025-03-17 13:41:12",
+  "name": "Jaecoo",
+  "id": "352",
+  "models": {
+    "model": [
+      {
+        "update": "2025-04-28 14:39:33",
+        "name": "J7",
+        "id": "3608",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-28 14:39:54",
+              "name": "J7",
+              "modelYear": "2023",
+              "id": "10437",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53960",
+                    "update": "2025-03-25 07:53:41",
+                    "brand": "Jaecoo",
+                    "model": "J7",
+                    "generation": "J7",
+                    "engine": "1.6 TGDI (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1865",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1524",
+                    "curbWeightMin": "1524"
+                  },
+                  {
+                    "id": "53961",
+                    "update": "2025-03-25 07:53:39",
+                    "brand": "Jaecoo",
+                    "model": "J7",
+                    "generation": "J7",
+                    "engine": "1.6 TGDI (194 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "194",
+                    "powerHp": "194",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1865",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1709",
+                    "curbWeightMin": "1709"
+                  },
+                  {
+                    "id": "53962",
+                    "update": "2025-03-25 07:53:42",
+                    "brand": "Jaecoo",
+                    "model": "J7",
+                    "generation": "J7",
+                    "engine": "1.6 TGDI (147 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1865",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1649",
+                    "curbWeightMin": "1649"
+                  },
+                  {
+                    "id": "53992",
+                    "update": "2025-03-25 16:20:49",
+                    "brand": "Jaecoo",
+                    "model": "J7",
+                    "generation": "J7",
+                    "engine": "SHS 1.5 TGDI (347 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1865",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1795",
+                    "curbWeightMin": "1795"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-28 14:39:33",
+        "name": "J6",
+        "id": "3652",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-28 14:39:48",
+              "name": "J6",
+              "modelYear": "2024",
+              "id": "10515",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54193",
+                    "update": "2025-04-28 16:16:19",
+                    "brand": "Jaecoo",
+                    "model": "J6",
+                    "generation": "J6",
+                    "engine": "69.77 kWh (279 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "fuel": "Electricity",
+                    "curbWeight": "1874",
+                    "curbWeightMin": "1874"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-28 14:39:33",
+        "name": "J8",
+        "id": "3653",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-28 14:40:00",
+              "name": "J8",
+              "modelYear": "2024",
+              "id": "10516",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54194",
+                    "update": "2025-04-28 16:16:19",
+                    "brand": "Jaecoo",
+                    "model": "J8",
+                    "generation": "J8",
+                    "engine": "2.0 TGDI (249 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249",
+                    "powerHp": "249",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "181",
+                    "rideHeightMin": "181",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1764",
+                    "curbWeightMin": "1764"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-19 16:29:44",
+        "name": "J5",
+        "id": "3675",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-21 13:49:53",
+              "name": "J5",
+              "modelYear": "2026",
+              "id": "10549",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55832",
+                    "update": "2025-11-21 16:18:03",
+                    "brand": "Jaecoo",
+                    "model": "J5",
+                    "generation": "J5",
+                    "engine": "1.6 TGDi (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147",
+                    "powerHp": "147",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1860",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1446",
+                    "curbWeightMin": "1446"
+                  },
+                  {
+                    "id": "55833",
+                    "update": "2025-11-21 16:18:03",
+                    "brand": "Jaecoo",
+                    "model": "J5",
+                    "generation": "J5",
+                    "engine": "1.5 Turbo (156 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1860",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1364-1439",
+                    "curbWeightMin": "1364",
+                    "curbWeightMax": "1439"
+                  },
+                  {
+                    "id": "55834",
+                    "update": "2025-11-21 16:18:03",
+                    "brand": "Jaecoo",
+                    "model": "J5",
+                    "generation": "J5",
+                    "engine": "60.9 kWh (211 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1860",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Electricity",
+                    "curbWeight": "1707",
+                    "curbWeightMin": "1707"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

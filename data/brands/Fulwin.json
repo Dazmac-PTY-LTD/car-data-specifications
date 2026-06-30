@@ -1,0 +1,771 @@
+{
+  "update": "2026-05-03 10:41:57",
+  "name": "Fulwin",
+  "id": "391",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-03 10:53:33",
+        "name": "A9L",
+        "id": "3966",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 14:11:52",
+              "name": "A9L GT",
+              "modelYear": "2026",
+              "id": "11240",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-03 10:53:44",
+              "name": "A9L",
+              "modelYear": "2026",
+              "id": "11165",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56919",
+                    "update": "2026-05-04 16:19:50",
+                    "brand": "Fulwin",
+                    "model": "A9L",
+                    "generation": "A9L",
+                    "engine": "CD-M 1.5T (374 Hp) Plug-in Hybrid DHT Pro",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5018",
+                    "width": "1965",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2085",
+                    "curbWeightMin": "2085"
+                  },
+                  {
+                    "id": "56920",
+                    "update": "2026-05-05 16:18:47",
+                    "brand": "Fulwin",
+                    "model": "A9L",
+                    "generation": "A9L",
+                    "engine": "CD-M 1.5T (639 Hp) Plug-in Hybrid 4WD DHT Pro",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5018",
+                    "width": "1965",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2230",
+                    "curbWeightMin": "2230"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-04 12:43:49",
+        "name": "T11",
+        "id": "3979",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-04 12:44:46",
+              "name": "T11",
+              "modelYear": "2026",
+              "id": "11197",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56939",
+                    "update": "2026-05-04 16:12:22",
+                    "brand": "Fulwin",
+                    "model": "T11",
+                    "generation": "T11",
+                    "engine": "1.5 TGDI (265 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1998",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2452",
+                    "curbWeightMin": "2452"
+                  },
+                  {
+                    "id": "56940",
+                    "update": "2026-05-04 16:12:22",
+                    "brand": "Fulwin",
+                    "model": "T11",
+                    "generation": "T11",
+                    "engine": "1.5 TGDI (469 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1998",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2635",
+                    "curbWeightMin": "2635"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-04 14:23:51",
+        "name": "T9L",
+        "id": "3980",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-04 14:24:04",
+              "name": "T9L",
+              "modelYear": "2026",
+              "id": "11198",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56941",
+                    "update": "2026-05-05 16:18:25",
+                    "brand": "Fulwin",
+                    "model": "T9L",
+                    "generation": "T9L",
+                    "engine": "CDM 1.5T 19.5 kWh (510 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1930",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "181",
+                    "rideHeightMin": "181",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "56946",
+                    "update": "2026-05-05 16:18:08",
+                    "brand": "Fulwin",
+                    "model": "T9L",
+                    "generation": "T9L",
+                    "engine": "CDM 1.5T 32.6 kWh (510 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1930",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "186",
+                    "rideHeightMin": "186",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2050",
+                    "curbWeightMin": "2050"
+                  },
+                  {
+                    "id": "56947",
+                    "update": "2026-05-05 16:18:08",
+                    "brand": "Fulwin",
+                    "model": "T9L",
+                    "generation": "T9L",
+                    "engine": "CDM 1.5T 32.6 kWh (748 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1930",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "186",
+                    "rideHeightMin": "186",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2215",
+                    "curbWeightMin": "2215"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-05 10:05:09",
+        "name": "T8",
+        "id": "3981",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-05 10:05:22",
+              "name": "T8",
+              "modelYear": "2025",
+              "id": "11199",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56948",
+                    "update": "2026-05-08 16:23:22",
+                    "brand": "Fulwin",
+                    "model": "T8",
+                    "generation": "T8",
+                    "engine": "C-DM 1.5 (306 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4730",
+                    "width": "1860",
+                    "height": "1747",
+                    "heightMin": "1747",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56949",
+                    "update": "2026-05-08 16:23:09",
+                    "brand": "Fulwin",
+                    "model": "T8",
+                    "generation": "T8",
+                    "engine": "C-DM 1.5 TGDI (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4730",
+                    "width": "1860",
+                    "height": "1747",
+                    "heightMin": "1747",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1879-1907",
+                    "curbWeightMin": "1879",
+                    "curbWeightMax": "1907"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-05 15:25:53",
+        "name": "T9",
+        "id": "3982",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-05 15:26:25",
+              "name": "T9",
+              "modelYear": "2025",
+              "id": "11200",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56953",
+                    "update": "2026-05-08 16:22:38",
+                    "brand": "Fulwin",
+                    "model": "T9",
+                    "generation": "T9",
+                    "engine": "C-DM 1.5 TGDI 18.67 kWh (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4795",
+                    "width": "1930",
+                    "height": "1738-1741",
+                    "heightMin": "1738",
+                    "heightMax": "1741",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1970-2026",
+                    "curbWeightMin": "1970",
+                    "curbWeightMax": "2026"
+                  },
+                  {
+                    "id": "56954",
+                    "update": "2026-05-08 16:22:36",
+                    "brand": "Fulwin",
+                    "model": "T9",
+                    "generation": "T9",
+                    "engine": "C-DM 1.5 TGDI 34.46 kWh (381 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4795",
+                    "width": "1930",
+                    "height": "1738-1741",
+                    "heightMin": "1738",
+                    "heightMax": "1741",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2006-2062",
+                    "curbWeightMin": "2006",
+                    "curbWeightMax": "2062"
+                  },
+                  {
+                    "id": "56955",
+                    "update": "2026-05-08 16:22:38",
+                    "brand": "Fulwin",
+                    "model": "T9",
+                    "generation": "T9",
+                    "engine": "C-DM 1.5 TGDI 19.43 kWh (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4795",
+                    "width": "1930",
+                    "height": "1738-1741",
+                    "heightMin": "1738",
+                    "heightMax": "1741",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1898-1953",
+                    "curbWeightMin": "1898",
+                    "curbWeightMax": "1953"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-07 11:50:31",
+        "name": "T10",
+        "id": "3984",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-07 11:51:00",
+              "name": "T10",
+              "modelYear": "2024",
+              "id": "11203",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56967",
+                    "update": "2026-05-08 16:14:27",
+                    "brand": "Fulwin",
+                    "model": "T10",
+                    "generation": "T10",
+                    "engine": "C-DM 1.5 TGDI (381 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "4850",
+                    "width": "1930",
+                    "height": "1712",
+                    "heightMin": "1712",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2028",
+                    "curbWeightMin": "2028"
+                  },
+                  {
+                    "id": "56968",
+                    "update": "2026-05-08 16:14:27",
+                    "brand": "Fulwin",
+                    "model": "T10",
+                    "generation": "T10",
+                    "engine": "C-DM 1.5 TGDI (619 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1930",
+                    "height": "1712",
+                    "heightMin": "1712",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2199",
+                    "curbWeightMin": "2199"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-08 13:15:30",
+        "name": "A8",
+        "id": "3986",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-08 15:07:45",
+              "name": "A8L",
+              "modelYear": "2025",
+              "id": "11207",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56971",
+                    "update": "2026-05-08 16:14:27",
+                    "brand": "Fulwin",
+                    "model": "A8",
+                    "generation": "A8L",
+                    "engine": "C-DM 1.5 TGDI (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1843",
+                    "height": "1487",
+                    "heightMin": "1487",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1730-1770",
+                    "curbWeightMin": "1730",
+                    "curbWeightMax": "1770"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-08 13:15:40",
+              "name": "A8",
+              "modelYear": "2024",
+              "id": "11206",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56969",
+                    "update": "2026-05-08 16:14:27",
+                    "brand": "Fulwin",
+                    "model": "A8",
+                    "generation": "A8",
+                    "engine": "C-DM 1.5 TGDI (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1843",
+                    "height": "1487",
+                    "heightMin": "1487",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1662-1696",
+                    "curbWeightMin": "1662",
+                    "curbWeightMax": "1696"
+                  },
+                  {
+                    "id": "56970",
+                    "update": "2026-05-08 16:14:27",
+                    "brand": "Fulwin",
+                    "model": "A8",
+                    "generation": "A8",
+                    "engine": "C-DM 1.5 (306 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102",
+                    "powerHp": "102",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1843",
+                    "height": "1487",
+                    "heightMin": "1487",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1591",
+                    "curbWeightMin": "1591"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-11 12:10:19",
+        "name": "X3",
+        "id": "3987",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-11 13:33:53",
+              "name": "X3L",
+              "modelYear": "2025",
+              "id": "11209",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56977",
+                    "update": "2026-05-11 16:14:15",
+                    "brand": "Fulwin",
+                    "model": "X3",
+                    "generation": "X3L",
+                    "engine": "1.5 TGDI 20.64 kWh (252 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4503",
+                    "width": "1950",
+                    "height": "1815",
+                    "heightMin": "1815",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1842",
+                    "curbWeightMin": "1842"
+                  },
+                  {
+                    "id": "56978",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "Fulwin",
+                    "model": "X3",
+                    "generation": "X3L",
+                    "engine": "1.5 TGDI 33.68 kWh (252 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4503",
+                    "width": "1950",
+                    "height": "1815",
+                    "heightMin": "1815",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1905",
+                    "curbWeightMin": "1905"
+                  },
+                  {
+                    "id": "56979",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "Fulwin",
+                    "model": "X3",
+                    "generation": "X3L",
+                    "engine": "1.5 TGDI 33.68 kWh (428 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4503",
+                    "width": "1950",
+                    "height": "1815",
+                    "heightMin": "1815",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2000",
+                    "curbWeightMin": "2000"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-11 12:11:02",
+              "name": "X3",
+              "modelYear": "2025",
+              "id": "11208",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56975",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "Fulwin",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "50.79 kWh (252 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4327",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1722",
+                    "curbWeightMin": "1722"
+                  },
+                  {
+                    "id": "56976",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "Fulwin",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "68.36 kWh (252 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4327",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1827",
+                    "curbWeightMin": "1827"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 14:06:36",
+        "name": "A9",
+        "id": "4007",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 14:17:07",
+              "name": "A9 Wagon",
+              "modelYear": "2026",
+              "id": "11242",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-13 14:07:50",
+              "name": "A9",
+              "modelYear": "2026",
+              "id": "11239",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

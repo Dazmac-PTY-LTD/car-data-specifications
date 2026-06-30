@@ -1,0 +1,198 @@
+{
+  "update": "2026-06-19 15:41:06",
+  "name": "Volga",
+  "id": "401",
+  "models": {
+    "model": [
+      {
+        "update": "2026-06-19 15:46:42",
+        "name": "K50",
+        "id": "4054",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-19 15:47:16",
+              "name": "K50",
+              "modelYear": "2026",
+              "id": "11322",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57314",
+                    "update": "2026-06-22 12:26:06",
+                    "brand": "Volga",
+                    "model": "K50",
+                    "generation": "K50",
+                    "engine": "2.0T (238 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238/5500",
+                    "powerHp": "238",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1895",
+                    "height": "1689",
+                    "heightMin": "1689",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-22 10:35:44",
+        "name": "K40",
+        "id": "4055",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-22 10:35:55",
+              "name": "K40",
+              "modelYear": "2026",
+              "id": "11323",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57319",
+                    "update": "2026-06-22 11:50:51",
+                    "brand": "Volga",
+                    "model": "K40",
+                    "generation": "K40",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4678",
+                    "width": "1900",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  },
+                  {
+                    "id": "57320",
+                    "update": "2026-06-22 12:25:45",
+                    "brand": "Volga",
+                    "model": "K40",
+                    "generation": "K40",
+                    "engine": "2.0T (200 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/4500",
+                    "powerHp": "200",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4678",
+                    "width": "1900",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-22 12:14:19",
+        "name": "C50",
+        "id": "4056",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-22 12:14:32",
+              "name": "C50",
+              "modelYear": "2026",
+              "id": "11325",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57321",
+                    "update": "2026-06-22 12:25:06",
+                    "brand": "Volga",
+                    "model": "C50",
+                    "generation": "C50",
+                    "engine": "2.0T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1880",
+                    "height": "1469",
+                    "heightMin": "1469",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "57322",
+                    "update": "2026-06-22 12:28:22",
+                    "brand": "Volga",
+                    "model": "C50",
+                    "generation": "C50",
+                    "engine": "2.0T (200 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/4500",
+                    "powerHp": "200",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1880",
+                    "height": "1469",
+                    "heightMin": "1469",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

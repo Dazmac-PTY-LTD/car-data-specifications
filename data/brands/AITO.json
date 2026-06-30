@@ -1,0 +1,799 @@
+{
+  "update": "2022-08-11 13:22:15",
+  "name": "AITO",
+  "id": "315",
+  "models": {
+    "model": [
+      {
+        "update": "2022-08-11 13:31:00",
+        "name": "M5",
+        "id": "3152",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-27 14:28:17",
+              "name": "M5 Ultra (facelift 2025)",
+              "modelYear": "2025",
+              "id": "10954",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55870",
+                    "update": "2025-11-27 16:14:18",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5 Ultra (facelift 2025)",
+                    "engine": "1.5T (272 Hp) Extended Range Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  },
+                  {
+                    "id": "55871",
+                    "update": "2025-11-27 16:14:18",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5 Ultra (facelift 2025)",
+                    "engine": "1.5T (496 Hp) Extended Range Hybrid 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335",
+                    "curbWeightMin": "2335"
+                  },
+                  {
+                    "id": "55872",
+                    "update": "2025-11-27 16:14:18",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5 Ultra (facelift 2025)",
+                    "engine": "83 kWh (272 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Electricity",
+                    "curbWeight": "2235",
+                    "curbWeightMin": "2235"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-08-11 13:31:18",
+              "name": "M5",
+              "modelYear": "2022",
+              "id": "8994",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46283",
+                    "update": "2025-11-27 13:43:36",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5",
+                    "engine": "1.5T (496 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335",
+                    "curbWeightMin": "2335"
+                  },
+                  {
+                    "id": "46281",
+                    "update": "2025-11-27 13:43:41",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5",
+                    "engine": "1.5T (272 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  },
+                  {
+                    "id": "46282",
+                    "update": "2025-11-27 13:43:38",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5",
+                    "engine": "1.5T (428 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2335",
+                    "curbWeightMin": "2335"
+                  },
+                  {
+                    "id": "46949",
+                    "update": "2025-11-27 13:43:33",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5",
+                    "engine": "80 kWh (272 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2235",
+                    "curbWeightMin": "2235"
+                  },
+                  {
+                    "id": "46950",
+                    "update": "2025-11-27 13:43:31",
+                    "brand": "AITO",
+                    "model": "M5",
+                    "generation": "M5",
+                    "engine": "80 kWh (496 Hp) EV 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-08-12 11:48:46",
+        "name": "M7",
+        "id": "3153",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-24 08:36:48",
+              "name": "M7 II",
+              "modelYear": "2026",
+              "id": "10836",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55414",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 II",
+                    "engine": "100 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5080",
+                    "width": "1999",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Electricity",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  },
+                  {
+                    "id": "55415",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 II",
+                    "engine": "100 kWh (526 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5080",
+                    "width": "1999",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Electricity",
+                    "curbWeight": "2635",
+                    "curbWeightMin": "2635"
+                  },
+                  {
+                    "id": "55416",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 II",
+                    "engine": "1.5T GDI 37 kWh (533 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5080",
+                    "width": "1999",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2600",
+                    "curbWeightMin": "2600"
+                  },
+                  {
+                    "id": "55417",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 II",
+                    "engine": "1.5T GDI 53.4 kWh (533 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5080",
+                    "width": "1999",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2680",
+                    "curbWeightMin": "2680"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-24 08:36:22",
+              "name": "M7 I",
+              "modelYear": "2023",
+              "id": "8995",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46308",
+                    "update": "2025-09-24 14:16:14",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 I",
+                    "engine": "1.5T (272 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5020",
+                    "width": "1945",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2340",
+                    "curbWeightMin": "2340"
+                  },
+                  {
+                    "id": "46309",
+                    "update": "2025-09-24 14:16:13",
+                    "brand": "AITO",
+                    "model": "M7",
+                    "generation": "M7 I",
+                    "engine": "1.5T (449 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5020",
+                    "width": "1945",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-29 13:57:14",
+        "name": "M9",
+        "id": "3477",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 11:19:03",
+              "name": "M9 (facelift 2026)",
+              "modelYear": "2026",
+              "id": "11220",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-07-29 13:57:56",
+              "name": "M9",
+              "modelYear": "2024",
+              "id": "10111",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52341",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "AITO",
+                    "model": "M9",
+                    "generation": "M9",
+                    "engine": "1.5T 42 kWh (496 Hp) Range Extender AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152/5400",
+                    "powerHp": "152",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5230",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  },
+                  {
+                    "id": "52342",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "AITO",
+                    "model": "M9",
+                    "generation": "M9",
+                    "engine": "1.5T 52 kWh (496 Hp) Range Extender AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152/5400",
+                    "powerHp": "152",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5230",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  },
+                  {
+                    "id": "52343",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "AITO",
+                    "model": "M9",
+                    "generation": "M9",
+                    "engine": "100 kWh (530 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5230",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Electricity",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-28 14:44:16",
+        "name": "7",
+        "id": "3521",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-28 14:44:31",
+              "name": "7",
+              "modelYear": "2024",
+              "id": "10238",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-16 11:03:57",
+        "name": "M8",
+        "id": "3741",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-16 11:05:10",
+              "name": "M8",
+              "modelYear": "2025",
+              "id": "10679",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54885",
+                    "update": "2025-07-16 14:12:50",
+                    "brand": "AITO",
+                    "model": "M8",
+                    "generation": "M8",
+                    "engine": "1.5T GDI 37 kWh (533 Hp) Extended Range AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5190",
+                    "width": "1999",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2640",
+                    "curbWeightMin": "2640"
+                  },
+                  {
+                    "id": "54886",
+                    "update": "2025-07-16 14:33:28",
+                    "brand": "AITO",
+                    "model": "M8",
+                    "generation": "M8",
+                    "engine": "1.5T GDI 53.4 kWh (533 Hp) Extended Range AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5190",
+                    "width": "1999",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  },
+                  {
+                    "id": "54898",
+                    "update": "2025-07-18 16:18:41",
+                    "brand": "AITO",
+                    "model": "M8",
+                    "generation": "M8",
+                    "engine": "1.5T GDI 37 kWh (533 Hp) Extended Range AWD 6 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5190",
+                    "width": "1999",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2695",
+                    "curbWeightMin": "2695"
+                  },
+                  {
+                    "id": "54899",
+                    "update": "2025-07-18 16:18:41",
+                    "brand": "AITO",
+                    "model": "M8",
+                    "generation": "M8",
+                    "engine": "1.5T GDI 53.4 kWh (533 Hp) Extended Range AWD 6 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5190",
+                    "width": "1999",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2715",
+                    "curbWeightMin": "2715"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-04 16:33:06",
+        "name": "5",
+        "id": "3864",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-04 16:35:17",
+              "name": "5",
+              "modelYear": "2022",
+              "id": "10910",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-05 08:22:56",
+        "name": "8",
+        "id": "3865",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-05 08:28:37",
+              "name": "8",
+              "modelYear": "2025",
+              "id": "10911",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-05 08:32:48",
+        "name": "9",
+        "id": "3866",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-05 08:36:48",
+              "name": "9",
+              "modelYear": "2024",
+              "id": "10912",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-23 13:49:46",
+        "name": "M6",
+        "id": "3973",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-23 13:50:16",
+              "name": "M6",
+              "modelYear": "2026",
+              "id": "11184",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56891",
+                    "update": "2026-04-23 16:07:41",
+                    "brand": "AITO",
+                    "model": "M6",
+                    "generation": "M6",
+                    "engine": "100 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1985",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Electricity",
+                    "curbWeight": "2395-2460",
+                    "curbWeightMin": "2395",
+                    "curbWeightMax": "2460"
+                  },
+                  {
+                    "id": "56892",
+                    "update": "2026-04-23 16:07:41",
+                    "brand": "AITO",
+                    "model": "M6",
+                    "generation": "M6",
+                    "engine": "100 kWh (462 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1985",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Electricity",
+                    "curbWeight": "2515-2565",
+                    "curbWeightMin": "2515",
+                    "curbWeightMax": "2565"
+                  },
+                  {
+                    "id": "56893",
+                    "update": "2026-04-23 16:07:41",
+                    "brand": "AITO",
+                    "model": "M6",
+                    "generation": "M6",
+                    "engine": "1.5T 37 kWh (469 Hp) 4WD Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1985",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2545",
+                    "curbWeightMin": "2545"
+                  },
+                  {
+                    "id": "56894",
+                    "update": "2026-04-23 16:07:41",
+                    "brand": "AITO",
+                    "model": "M6",
+                    "generation": "M6",
+                    "engine": "1.5T 53.4 kWh (469 Hp) 4WD Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1985",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2520-2565",
+                    "curbWeightMin": "2520",
+                    "curbWeightMax": "2565"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

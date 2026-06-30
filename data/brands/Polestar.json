@@ -1,0 +1,544 @@
+{
+  "update": "2020-11-20 14:10:54",
+  "name": "Polestar",
+  "id": "223",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-20 14:10:54",
+        "name": "1",
+        "id": "2345",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1",
+              "modelYear": "2019",
+              "id": "6047",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34509",
+                    "update": "2023-08-14 12:38:13",
+                    "brand": "Polestar",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "2.0 (600 Hp) Plug-in Hybrid AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "341",
+                    "powerHp": "341",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4585",
+                    "widthOpenedMirrors": "2070",
+                    "height": "1352",
+                    "heightMin": "1352",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-20 13:55:46",
+        "name": "2",
+        "id": "2648",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-25 09:35:05",
+              "name": "2 (facelift 2023)",
+              "modelYear": "2024",
+              "id": "9222",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47315",
+                    "update": "2023-01-25 14:20:42",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2 (facelift 2023)",
+                    "engine": "69 kWh (272 Hp) Standard Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1859",
+                    "widthOpenedMirrors": "1985",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151-167",
+                    "rideHeightMin": "151",
+                    "rideHeightMax": "167",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "47316",
+                    "update": "2023-01-25 14:20:42",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2 (facelift 2023)",
+                    "engine": "82 kWh (299 Hp) Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1859",
+                    "widthOpenedMirrors": "1985",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151-167",
+                    "rideHeightMin": "151",
+                    "rideHeightMax": "167",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "47317",
+                    "update": "2023-01-25 14:20:42",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2 (facelift 2023)",
+                    "engine": "82 kWh (421 Hp) Long Range Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1859",
+                    "widthOpenedMirrors": "1985",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151-167",
+                    "rideHeightMin": "151",
+                    "rideHeightMax": "167",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "47318",
+                    "update": "2023-01-28 07:51:07",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2 (facelift 2023)",
+                    "engine": "82 kWh (476 Hp) Long Range Dual Motor with Performance pack AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1859",
+                    "widthOpenedMirrors": "1985",
+                    "height": "1473",
+                    "heightMin": "1473",
+                    "rideHeight": "146-161",
+                    "rideHeightMin": "146",
+                    "rideHeightMax": "161",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2",
+              "modelYear": "2020",
+              "id": "6964",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36263",
+                    "update": "2023-01-25 10:08:24",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2",
+                    "engine": "78 kWh (408 Hp) Long Range Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1800",
+                    "widthOpenedMirrors": "1859",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151",
+                    "rideHeightMin": "151",
+                    "fuel": "Electricity",
+                    "curbWeight": "2113",
+                    "curbWeightMin": "2113"
+                  },
+                  {
+                    "id": "45809",
+                    "update": "2023-01-25 10:07:44",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2",
+                    "engine": "64 kWh (224 Hp) Standard Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1800",
+                    "widthOpenedMirrors": "1859",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151",
+                    "rideHeightMin": "151",
+                    "fuel": "Electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "45810",
+                    "update": "2023-01-25 10:07:55",
+                    "brand": "Polestar",
+                    "model": "2",
+                    "generation": "2",
+                    "engine": "78 kWh (231 Hp) Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4606",
+                    "width": "1800",
+                    "widthOpenedMirrors": "1859",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "rideHeight": "151",
+                    "rideHeightMin": "151",
+                    "fuel": "Electricity",
+                    "curbWeight": "1994",
+                    "curbWeightMin": "1994"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-06-08 08:44:47",
+        "name": "3",
+        "id": "3125",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-10-13 13:32:30",
+              "name": "3",
+              "modelYear": "2024",
+              "id": "8904",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46677",
+                    "update": "2025-10-02 08:57:55",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "111 kWh (490 Hp) AWD Long range Dual motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "rideHeight": "211",
+                    "rideHeightMin": "211",
+                    "fuel": "Electricity",
+                    "curbWeight": "2584-2670",
+                    "curbWeightMin": "2584",
+                    "curbWeightMax": "2670"
+                  },
+                  {
+                    "id": "46678",
+                    "update": "2025-10-02 08:57:52",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "111 kWh (517 Hp) AWD Performance Pack",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "rideHeight": "211",
+                    "rideHeightMin": "211",
+                    "fuel": "Electricity",
+                    "curbWeight": "2584-2670",
+                    "curbWeightMin": "2584",
+                    "curbWeightMax": "2670"
+                  },
+                  {
+                    "id": "52120",
+                    "update": "2025-10-02 08:57:58",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "111 kWh (299 Hp) Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1968",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1614",
+                    "heightMin": "1614",
+                    "rideHeight": "201-202",
+                    "rideHeightMin": "201",
+                    "rideHeightMax": "202",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55487",
+                    "update": "2025-10-02 16:18:26",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "92 kWh (333 Hp) Rear Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1968",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1622",
+                    "heightMin": "1622",
+                    "rideHeight": "205-208",
+                    "rideHeightMin": "205",
+                    "rideHeightMax": "208",
+                    "fuel": "Electricity",
+                    "curbWeight": "2315-2400",
+                    "curbWeightMin": "2315",
+                    "curbWeightMax": "2400"
+                  },
+                  {
+                    "id": "55488",
+                    "update": "2025-10-02 16:18:26",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "106 kWh (544 Hp) AWD Dual Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1968",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1614",
+                    "heightMin": "1614",
+                    "rideHeight": "202",
+                    "rideHeightMin": "202",
+                    "fuel": "Electricity",
+                    "curbWeight": "2490-2600",
+                    "curbWeightMin": "2490",
+                    "curbWeightMax": "2600"
+                  },
+                  {
+                    "id": "55489",
+                    "update": "2025-10-02 16:18:26",
+                    "brand": "Polestar",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "106 kWh (680 Hp) AWD Performance",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1968",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1614",
+                    "heightMin": "1614",
+                    "rideHeight": "202",
+                    "rideHeightMin": "202",
+                    "fuel": "Electricity",
+                    "curbWeight": "2525-2605",
+                    "curbWeightMin": "2525",
+                    "curbWeightMax": "2605"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-07-10 14:08:03",
+        "name": "4",
+        "id": "3296",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-10 14:08:26",
+              "name": "4",
+              "modelYear": "2024",
+              "id": "9573",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49021",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Polestar",
+                    "model": "4",
+                    "generation": "4",
+                    "engine": "102 kWh (272 Hp) Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4839",
+                    "widthOpenedMirrors": "2139",
+                    "height": "1544",
+                    "heightMin": "1544",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Electricity",
+                    "curbWeight": "2232",
+                    "curbWeightMin": "2232"
+                  },
+                  {
+                    "id": "49022",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Polestar",
+                    "model": "4",
+                    "generation": "4",
+                    "engine": "102 kWh (544 Hp) Long Range Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4839",
+                    "widthOpenedMirrors": "2139",
+                    "height": "1544",
+                    "heightMin": "1544",
+                    "rideHeight": "166",
+                    "rideHeightMin": "166",
+                    "fuel": "Electricity",
+                    "curbWeight": "2351",
+                    "curbWeightMin": "2351"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-09 08:36:12",
+        "name": "5",
+        "id": "3797",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-09 08:36:32",
+              "name": "5",
+              "modelYear": "2026",
+              "id": "10794",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55309",
+                    "update": "2025-09-09 16:24:43",
+                    "brand": "Polestar",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "112 kWh (748 Hp) Dual motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5087",
+                    "widthFoldedMirrors": "2015",
+                    "widthOpenedMirrors": "2063",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "rideHeight": "141-149",
+                    "rideHeightMin": "141",
+                    "rideHeightMax": "149",
+                    "fuel": "Electricity",
+                    "curbWeight": "2462-2500",
+                    "curbWeightMin": "2462",
+                    "curbWeightMax": "2500"
+                  },
+                  {
+                    "id": "55310",
+                    "update": "2025-09-09 16:24:43",
+                    "brand": "Polestar",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "112 kWh (884 Hp) Performance AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5087",
+                    "widthFoldedMirrors": "2015",
+                    "widthOpenedMirrors": "2063",
+                    "height": "1419",
+                    "heightMin": "1419",
+                    "rideHeight": "147-153",
+                    "rideHeightMin": "147",
+                    "rideHeightMax": "153",
+                    "fuel": "Electricity",
+                    "curbWeight": "2465-2503",
+                    "curbWeightMin": "2465",
+                    "curbWeightMax": "2503"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

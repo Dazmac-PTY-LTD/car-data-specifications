@@ -1,0 +1,278 @@
+{
+  "update": "2023-10-31 15:33:38",
+  "name": "Elaris",
+  "id": "335",
+  "models": {
+    "model": [
+      {
+        "update": "2023-10-31 15:34:24",
+        "name": "Beo",
+        "id": "3342",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-10-31 15:36:17",
+              "name": "Beo",
+              "modelYear": "2021",
+              "id": "9718",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50300",
+                    "update": "2023-10-31 16:32:26",
+                    "brand": "Elaris",
+                    "model": "Beo",
+                    "generation": "Beo",
+                    "engine": "86 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4698",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50301",
+                    "update": "2023-10-31 16:32:26",
+                    "brand": "Elaris",
+                    "model": "Beo",
+                    "generation": "Beo",
+                    "engine": "72 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4698",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": "1955",
+                    "curbWeightMin": "1955"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-01 11:46:15",
+        "name": "Jaco",
+        "id": "3344",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-01 11:50:00",
+              "name": "Jaco",
+              "modelYear": "2024",
+              "id": "9720",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50303",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Elaris",
+                    "model": "Jaco",
+                    "generation": "Jaco",
+                    "engine": "71 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4965",
+                    "width": "1920",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": "1615",
+                    "curbWeightMin": "1615"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-01 12:15:18",
+        "name": "Dyo",
+        "id": "3345",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-01 12:25:03",
+              "name": "Dyo",
+              "modelYear": "2023",
+              "id": "9722",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50308",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Elaris",
+                    "model": "Dyo",
+                    "generation": "Dyo",
+                    "engine": "30 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2871",
+                    "width": "1563",
+                    "height": "1568",
+                    "heightMin": "1568",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": "890",
+                    "curbWeightMin": "890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-01 12:51:14",
+        "name": "Finn",
+        "id": "3347",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-01 12:53:43",
+              "name": "Finn",
+              "modelYear": "2021",
+              "id": "9723",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50309",
+                    "update": "2023-11-02 16:05:40",
+                    "brand": "Elaris",
+                    "model": "Finn",
+                    "generation": "Finn",
+                    "engine": "31.5 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2871",
+                    "width": "1563",
+                    "height": "1568",
+                    "heightMin": "1568",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": "855",
+                    "curbWeightMin": "855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-02 12:33:35",
+        "name": "Pio",
+        "id": "3350",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-02 12:46:33",
+              "name": "Pio",
+              "modelYear": "2021",
+              "id": "9726",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50310",
+                    "update": "2023-11-02 16:05:40",
+                    "brand": "Elaris",
+                    "model": "Pio",
+                    "generation": "Pio",
+                    "engine": "27 kWh (49 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2811",
+                    "width": "1540",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Electricity",
+                    "curbWeight": "865",
+                    "curbWeightMin": "865"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-02 14:06:40",
+        "name": "Leo",
+        "id": "3351",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-02 14:22:05",
+              "name": "Leo II",
+              "modelYear": "2023",
+              "id": "9727",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50311",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Elaris",
+                    "model": "Leo",
+                    "generation": "Leo II",
+                    "engine": "64.6 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4602",
+                    "width": "1900",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Electricity",
+                    "curbWeight": "1675",
+                    "curbWeightMin": "1675"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "update": "2021-01-26 12:59:42",
+  "name": "Brilliance",
+  "id": "91",
+  "models": {
+    "model": [
+      {
+        "update": "2017-04-18 16:34:05",
+        "name": "A1",
+        "id": "980",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "A1",
+              "modelYear": "2008",
+              "id": "2075",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10149",
+                    "update": "2023-08-10 09:37:28",
+                    "brand": "Brilliance",
+                    "model": "A1",
+                    "generation": "A1",
+                    "engine": "1.6i (107 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "107/6200",
+                    "powerHp": "107",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2008",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4180",
+                    "width": "1755",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-26 12:46:30",
+        "name": "BS6",
+        "id": "981",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BS6",
+              "modelYear": "2004",
+              "id": "2076",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10150",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "BS6",
+                    "generation": "BS6",
+                    "engine": "2.0 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/",
+                    "powerHp": "122",
+                    "yearstart": "2004",
+                    "yearstop": "2008",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4880",
+                    "width": "1800",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 10:45:32",
+        "name": "M1",
+        "id": "982",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "M1(Zhonghua)",
+              "modelYear": "2001",
+              "id": "2077",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10151",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "M1",
+                    "generation": "M1(Zhonghua)",
+                    "engine": "2.0 (129 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "129/6000",
+                    "powerHp": "129",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2000",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "10152",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "M1",
+                    "generation": "M1(Zhonghua)",
+                    "engine": "2.4 (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2000",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-26 12:59:42",
+        "name": "M2",
+        "id": "983",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "M2(JunJie)",
+              "modelYear": "2006",
+              "id": "2078",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10153",
+                    "update": "2023-08-10 09:37:28",
+                    "brand": "Brilliance",
+                    "model": "M2",
+                    "generation": "M2(JunJie)",
+                    "engine": "1.6 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4648",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "10154",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "M2",
+                    "generation": "M2(JunJie)",
+                    "engine": "1.8 (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/6500",
+                    "powerHp": "136",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4648",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "10155",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Brilliance",
+                    "model": "M2",
+                    "generation": "M2(JunJie)",
+                    "engine": "1.8 T (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4648",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "10156",
+                    "update": "2023-08-21 09:22:30",
+                    "brand": "Brilliance",
+                    "model": "M2",
+                    "generation": "M2(JunJie)",
+                    "engine": "2.0 (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/6000",
+                    "powerHp": "130",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4648",
+                    "width": "1800",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 10:48:24",
+        "name": "M3",
+        "id": "984",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "M3",
+              "modelYear": "2007",
+              "id": "2079",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10157",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Brilliance",
+                    "model": "M3",
+                    "generation": "M3",
+                    "engine": "1.8i R4 16V Turbo (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2008",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-26 12:43:08",
+        "name": "BS4",
+        "id": "985",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:58:42",
+              "name": "BS4",
+              "modelYear": "2007",
+              "id": "2080",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10158",
+                    "update": "2023-08-10 09:37:28",
+                    "brand": "Brilliance",
+                    "model": "BS4",
+                    "generation": "BS4",
+                    "engine": "1.6 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2008",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 10:40:42",
+        "name": "V3",
+        "id": "2493",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "V3",
+              "modelYear": "2015",
+              "id": "6443",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33946",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "V3",
+                    "generation": "V3",
+                    "engine": "1.5 (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1790",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  },
+                  {
+                    "id": "33947",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Brilliance",
+                    "model": "V3",
+                    "generation": "V3",
+                    "engine": "1.5 (112 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1790",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  },
+                  {
+                    "id": "33948",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Brilliance",
+                    "model": "V3",
+                    "generation": "V3",
+                    "engine": "1.5 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500-6000",
+                    "powerHp": "150",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2015",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1790",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  },
+                  {
+                    "id": "33949",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Brilliance",
+                    "model": "V3",
+                    "generation": "V3",
+                    "engine": "1.5 (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500-6000",
+                    "powerHp": "150",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2015",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1790",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

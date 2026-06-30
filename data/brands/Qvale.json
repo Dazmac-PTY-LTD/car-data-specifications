@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Qvale",
+  "id": "89",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 14:59:29",
+        "name": "Mangusta",
+        "id": "978",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Mangusta",
+              "modelYear": "1999",
+              "id": "2073",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10144",
+                    "update": "2023-08-11 09:15:35",
+                    "brand": "Qvale",
+                    "model": "Mangusta",
+                    "generation": "Mangusta",
+                    "engine": "4.6 i V8 32V (322 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "322/6000",
+                    "powerHp": "322",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "1900",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

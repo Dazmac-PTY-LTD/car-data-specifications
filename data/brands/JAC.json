@@ -1,0 +1,763 @@
+{
+  "update": "2019-08-29 10:05:40",
+  "name": "JAC",
+  "id": "192",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-31 11:15:18",
+        "name": "Refine",
+        "id": "1885",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Refine",
+              "modelYear": "2006",
+              "id": "3678",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16381",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "JAC",
+                    "model": "Refine",
+                    "generation": "Refine",
+                    "engine": "2.4 (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2006",
+                    "yearstop": "2011",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4500",
+                    "width": "1875",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 10:05:40",
+        "name": "Rein",
+        "id": "1886",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 12:50:10",
+              "name": "Rein",
+              "modelYear": "2007",
+              "id": "3679",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16382",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "JAC",
+                    "model": "Rein",
+                    "generation": "Rein",
+                    "engine": "2.0 (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/6000",
+                    "powerHp": "128",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2013",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1875",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  },
+                  {
+                    "id": "16383",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "JAC",
+                    "model": "Rein",
+                    "generation": "Rein",
+                    "engine": "2.4 (130 Hp)4X4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5500",
+                    "powerHp": "130",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2007",
+                    "yearstop": "2013",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1875",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-10 13:48:08",
+        "name": "JS4",
+        "id": "3357",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-10 14:06:44",
+              "name": "JS4",
+              "modelYear": "2021",
+              "id": "9746",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50461",
+                    "update": "2023-11-10 16:28:57",
+                    "brand": "JAC",
+                    "model": "JS4",
+                    "generation": "JS4",
+                    "engine": "e-JS4 65.7 kWh (193 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  },
+                  {
+                    "id": "50462",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "JAC",
+                    "model": "JS4",
+                    "generation": "JS4",
+                    "engine": "e-JS4 55 kWh (150 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  },
+                  {
+                    "id": "50463",
+                    "update": "2023-11-10 16:28:57",
+                    "brand": "JAC",
+                    "model": "JS4",
+                    "generation": "JS4",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1365",
+                    "curbWeightMin": "1365"
+                  },
+                  {
+                    "id": "50464",
+                    "update": "2023-11-10 16:28:57",
+                    "brand": "JAC",
+                    "model": "JS4",
+                    "generation": "JS4",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1355",
+                    "curbWeightMin": "1355"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-13 12:14:28",
+        "name": "T8 Pro",
+        "id": "3358",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-13 14:03:43",
+              "name": "T8 Pro",
+              "modelYear": "2021",
+              "id": "9749",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50470",
+                    "update": "2023-11-13 16:34:58",
+                    "brand": "JAC",
+                    "model": "T8 Pro",
+                    "generation": "T8 Pro",
+                    "engine": "2.0 CTI (139 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/3600",
+                    "powerHp": "139",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1880",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": "1970",
+                    "curbWeightMin": "1970"
+                  },
+                  {
+                    "id": "50471",
+                    "update": "2023-11-13 16:34:58",
+                    "brand": "JAC",
+                    "model": "T8 Pro",
+                    "generation": "T8 Pro",
+                    "engine": "2.4T (204 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/5200",
+                    "powerHp": "204",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1880",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "50476",
+                    "update": "2023-11-14 16:28:58",
+                    "brand": "JAC",
+                    "model": "T8 Pro",
+                    "generation": "T8 Pro",
+                    "engine": "2.0 CTI (139 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/3600",
+                    "powerHp": "139",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1880",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-14 10:18:54",
+        "name": "E30X",
+        "id": "3597",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-14 10:19:53",
+              "name": "E30X",
+              "modelYear": "2024",
+              "id": "10424",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53912",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "JAC",
+                    "model": "E30X",
+                    "generation": "E30X",
+                    "engine": "41 kWh (136 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4025",
+                    "width": "1770",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Electricity",
+                    "curbWeight": "1365-1395",
+                    "curbWeightMin": "1365",
+                    "curbWeightMax": "1395"
+                  },
+                  {
+                    "id": "53913",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "JAC",
+                    "model": "E30X",
+                    "generation": "E30X",
+                    "engine": "51.5 kWh (136 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4025",
+                    "width": "1770",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Electricity",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  },
+                  {
+                    "id": "53914",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "JAC",
+                    "model": "E30X",
+                    "generation": "E30X",
+                    "engine": "41 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4025",
+                    "width": "1770",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Electricity",
+                    "curbWeight": "1365-1395",
+                    "curbWeightMin": "1365",
+                    "curbWeightMax": "1395"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-30 10:20:12",
+        "name": "JS8",
+        "id": "3692",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-30 10:20:27",
+              "name": "JS8",
+              "modelYear": "2021",
+              "id": "10580",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54430",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "JAC",
+                    "model": "JS8",
+                    "generation": "JS8",
+                    "engine": "1.5 TGDI (180 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180",
+                    "powerHp": "180",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4810",
+                    "width": "1870",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1605-1620",
+                    "curbWeightMin": "1605",
+                    "curbWeightMax": "1620"
+                  },
+                  {
+                    "id": "54439",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "JAC",
+                    "model": "JS8",
+                    "generation": "JS8",
+                    "engine": "1.5 TGDI (180 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180",
+                    "powerHp": "180",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1870",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-30 10:53:31",
+        "name": "JS6",
+        "id": "3693",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-30 10:53:46",
+              "name": "JS6",
+              "modelYear": "2021",
+              "id": "10581",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54431",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "JAC",
+                    "model": "JS6",
+                    "generation": "JS6",
+                    "engine": "1.5 TGDI (181 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/4850-5500",
+                    "powerHp": "181",
+                    "powerRpm": "4850-5500",
+                    "powerRpmLow": "4850",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1890",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560-1590",
+                    "curbWeightMin": "1560",
+                    "curbWeightMax": "1590"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-30 11:44:19",
+        "name": "JS5",
+        "id": "3694",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-30 11:55:50",
+              "name": "JS5",
+              "modelYear": "2023",
+              "id": "10582",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54432",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "JAC",
+                    "model": "JS5",
+                    "generation": "JS5",
+                    "engine": "1.5T (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1850",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54434",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "JAC",
+                    "model": "JS5",
+                    "generation": "JS5",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1850",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-05 11:57:59",
+        "name": "T9",
+        "id": "3703",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-05 12:07:34",
+              "name": "T9 Double Cab",
+              "modelYear": "2023",
+              "id": "10598",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54483",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "JAC",
+                    "model": "T9",
+                    "generation": "T9 Double Cab",
+                    "engine": "2.0 TGDI (231 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "231/5500",
+                    "powerHp": "231",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5330",
+                    "width": "1965",
+                    "widthFoldedMirrors": "1983",
+                    "widthOpenedMirrors": "2186",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2055",
+                    "curbWeightMin": "2055"
+                  },
+                  {
+                    "id": "54484",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "JAC",
+                    "model": "T9",
+                    "generation": "T9 Double Cab",
+                    "engine": "EV 88.02 kWh (299 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5330",
+                    "width": "1965",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "205",
+                    "rideHeightMin": "205",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360-2425",
+                    "curbWeightMin": "2360",
+                    "curbWeightMax": "2425"
+                  },
+                  {
+                    "id": "54485",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "JAC",
+                    "model": "T9",
+                    "generation": "T9 Double Cab",
+                    "engine": "2.0 CTI (170 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/3600",
+                    "powerHp": "170",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5330",
+                    "width": "1965",
+                    "widthFoldedMirrors": "1983",
+                    "widthOpenedMirrors": "2186",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Diesel",
+                    "curbWeight": "2055",
+                    "curbWeightMin": "2055"
+                  },
+                  {
+                    "id": "54486",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "JAC",
+                    "model": "T9",
+                    "generation": "T9 Double Cab",
+                    "engine": "2.0 CTI (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/3600",
+                    "powerHp": "170",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5330",
+                    "width": "1965",
+                    "widthFoldedMirrors": "1983",
+                    "widthOpenedMirrors": "2186",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Diesel",
+                    "curbWeight": "1945",
+                    "curbWeightMin": "1945"
+                  },
+                  {
+                    "id": "54496",
+                    "update": "2025-06-06 16:16:39",
+                    "brand": "JAC",
+                    "model": "T9",
+                    "generation": "T9 Double Cab",
+                    "engine": "2.0 TGDI (231 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "231/5500",
+                    "powerHp": "231",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5330",
+                    "width": "1965",
+                    "widthFoldedMirrors": "1983",
+                    "widthOpenedMirrors": "2186",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1945",
+                    "curbWeightMin": "1945"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

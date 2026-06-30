@@ -1,0 +1,169 @@
+{
+  "update": "2019-08-30 14:03:33",
+  "name": "Isdera",
+  "id": "177",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-30 14:03:33",
+        "name": "Commendatore",
+        "id": "1781",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Commendatore GT",
+              "modelYear": "2018",
+              "id": "6305",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33306",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Isdera",
+                    "model": "Commendatore",
+                    "generation": "Commendatore GT",
+                    "engine": "105 kWh (816 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4920",
+                    "width": "1950",
+                    "height": "1290",
+                    "heightMin": "1290",
+                    "fuel": "Electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Commendatore",
+              "modelYear": "1993",
+              "id": "3516",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15865",
+                    "update": "2023-08-17 09:27:34",
+                    "brand": "Isdera",
+                    "model": "Commendatore",
+                    "generation": "Commendatore",
+                    "engine": "112i 6.9 V12 (548 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "548",
+                    "powerHp": "548",
+                    "yearstart": "1993",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4665",
+                    "width": "1875",
+                    "height": "1040",
+                    "heightMin": "1040",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 13:17:11",
+        "name": "Imperator",
+        "id": "1782",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Imperator",
+              "modelYear": "1984",
+              "id": "3517",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15866",
+                    "update": "2023-08-17 09:12:35",
+                    "brand": "Isdera",
+                    "model": "Imperator",
+                    "generation": "Imperator",
+                    "engine": "108i 5.6 V8 (365 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "365",
+                    "powerHp": "365",
+                    "yearstart": "1984",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4220",
+                    "width": "1835",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Spyder",
+        "id": "1783",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Spyder",
+              "modelYear": "1983",
+              "id": "3518",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15867",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Isdera",
+                    "model": "Spyder",
+                    "generation": "Spyder",
+                    "engine": "036i 3.0 (220 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220",
+                    "powerHp": "220",
+                    "yearstart": "1991",
+                    "yearstop": "1991",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4220",
+                    "width": "1835",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "update": "2020-10-26 10:08:09",
+  "name": "Aixam",
+  "id": "255",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-01 15:58:00",
+        "name": "MINAUTO",
+        "id": "2614",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-25 12:58:01",
+              "name": "MINAUTO II",
+              "modelYear": "2024",
+              "id": "10235",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53012",
+                    "update": "2024-10-25 16:04:32",
+                    "brand": "Aixam",
+                    "model": "MINAUTO",
+                    "generation": "MINAUTO II",
+                    "engine": "0.5d (8 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2759",
+                    "width": "1500",
+                    "widthOpenedMirrors": "1775",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "53013",
+                    "update": "2024-10-25 16:04:32",
+                    "brand": "Aixam",
+                    "model": "MINAUTO",
+                    "generation": "MINAUTO II",
+                    "engine": "eMINAUTO 5.44 kWh (8 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2759",
+                    "width": "1500",
+                    "widthOpenedMirrors": "1775",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-10-25 13:00:44",
+              "name": "MINAUTO I CROSS",
+              "modelYear": "2018",
+              "id": "6883",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35918",
+                    "update": "2024-10-25 12:59:26",
+                    "brand": "Aixam",
+                    "model": "MINAUTO",
+                    "generation": "MINAUTO I CROSS",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2018",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2998",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-10-25 13:00:44",
+              "name": "MINAUTO I ACCESS",
+              "modelYear": "2018",
+              "id": "6878",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35917",
+                    "update": "2024-10-25 12:59:34",
+                    "brand": "Aixam",
+                    "model": "MINAUTO",
+                    "generation": "MINAUTO I ACCESS",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2018",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2759",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-26 10:08:09",
+        "name": "SENSATION",
+        "id": "2615",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SANSATION BREAK",
+              "modelYear": "2016",
+              "id": "6885",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35915",
+                    "update": "2023-06-28 08:46:45",
+                    "brand": "Aixam",
+                    "model": "SENSATION",
+                    "generation": "SANSATION BREAK",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "35916",
+                    "update": "2023-06-28 08:48:48",
+                    "brand": "Aixam",
+                    "model": "SENSATION",
+                    "generation": "SANSATION BREAK",
+                    "engine": "GT 0.6d (15 Hp) VSD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "15/3600",
+                    "powerHp": "15",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "450",
+                    "curbWeightMin": "450"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SANSATION COMPACT",
+              "modelYear": "2016",
+              "id": "6884",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35913",
+                    "update": "2023-06-28 08:46:47",
+                    "brand": "Aixam",
+                    "model": "SENSATION",
+                    "generation": "SANSATION COMPACT",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2762",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SANSATION COUPE",
+              "modelYear": "2016",
+              "id": "6880",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35914",
+                    "update": "2023-06-28 08:46:57",
+                    "brand": "Aixam",
+                    "model": "SENSATION",
+                    "generation": "SANSATION COUPE",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-26 09:18:36",
+        "name": "eAIXAM",
+        "id": "2616",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-11 15:52:35",
+              "name": "eAIXAM eCity",
+              "modelYear": "2018",
+              "id": "9112",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46814",
+                    "update": "2022-11-11 16:02:41",
+                    "brand": "Aixam",
+                    "model": "eAIXAM",
+                    "generation": "eAIXAM eCity",
+                    "engine": "5.1 kWh (8 Hp) VSD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2762",
+                    "width": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-11 15:15:49",
+              "name": "eAIXAM e-Crossover",
+              "modelYear": "2019",
+              "id": "9107",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46809",
+                    "update": "2022-11-11 12:18:32",
+                    "brand": "Aixam",
+                    "model": "eAIXAM",
+                    "generation": "eAIXAM e-Crossover",
+                    "engine": "7.89 kWh (8 Hp) VSD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "eAIXAM COMPACT",
+              "modelYear": "2018",
+              "id": "6881",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34430",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Aixam",
+                    "model": "eAIXAM",
+                    "generation": "eAIXAM COMPACT",
+                    "engine": "6.14 kWh (8 Hp) VSD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2762",
+                    "width": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-11 15:15:49",
+              "name": "eAIXAM COUPE",
+              "modelYear": "2017",
+              "id": "6882",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34441",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Aixam",
+                    "model": "eAIXAM",
+                    "generation": "eAIXAM COUPE",
+                    "engine": "6.14 kWh (8 Hp) VSD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "46810",
+                    "update": "2022-11-11 13:34:54",
+                    "brand": "Aixam",
+                    "model": "eAIXAM",
+                    "generation": "eAIXAM COUPE",
+                    "engine": "eGTI 7.89 kWh (8 Hp) VSD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-02-22 13:21:59",
+        "name": "Mega Track",
+        "id": "3063",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-22 13:34:03",
+              "name": "Mega Track",
+              "modelYear": "1992",
+              "id": "8772",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-11 14:32:38",
+        "name": "EMOTION",
+        "id": "3187",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-11 15:00:03",
+              "name": "EMOTION crossover",
+              "modelYear": "2020",
+              "id": "9111",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46813",
+                    "update": "2024-10-25 15:47:52",
+                    "brand": "Aixam",
+                    "model": "EMOTION",
+                    "generation": "EMOTION crossover",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Crossover",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "height": "1590",
+                    "heightMin": "1590",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-11 14:54:33",
+              "name": "EMOTION city GTO",
+              "modelYear": "2020",
+              "id": "9110",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46812",
+                    "update": "2024-10-25 15:47:35",
+                    "brand": "Aixam",
+                    "model": "EMOTION",
+                    "generation": "EMOTION city GTO",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2800",
+                    "width": "1500",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-11 14:33:33",
+              "name": "EMOTION city",
+              "modelYear": "2020",
+              "id": "9109",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46811",
+                    "update": "2024-10-25 15:47:15",
+                    "brand": "Aixam",
+                    "model": "EMOTION",
+                    "generation": "EMOTION city",
+                    "engine": "0.5d (8 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/3200",
+                    "powerHp": "8",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2762",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-12 14:42:13",
+        "name": "AMBITION",
+        "id": "3910",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-12 14:48:10",
+              "name": "AMBITION Crossover",
+              "modelYear": "2024",
+              "id": "11008",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56304",
+                    "update": "2026-02-02 16:16:05",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION Crossover",
+                    "engine": "0.5 (8 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/2700-3200",
+                    "powerHp": "8",
+                    "powerRpm": "2700-3200",
+                    "powerRpmLow": "2700",
+                    "powerRpmHigh": "3200",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "height": "1520-1570",
+                    "heightMin": "1520",
+                    "heightMax": "1570",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "56305",
+                    "update": "2026-02-02 16:16:05",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION Crossover",
+                    "engine": "7.53 kWh (8 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": "400",
+                    "curbWeightMin": "400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-12 14:46:39",
+              "name": "AMBITION Coupe",
+              "modelYear": "2024",
+              "id": "11006",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56296",
+                    "update": "2026-01-30 16:18:07",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION Coupe",
+                    "engine": "0.5 (8 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/2700-3200",
+                    "powerHp": "8",
+                    "powerRpm": "2700-3200",
+                    "powerRpmLow": "2700",
+                    "powerRpmHigh": "3200",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "56297",
+                    "update": "2026-01-30 16:18:07",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION Coupe",
+                    "engine": "7.53 kWh (8 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3000",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "400",
+                    "curbWeightMin": "400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-12 14:44:04",
+              "name": "AMBITION City",
+              "modelYear": "2024",
+              "id": "11005",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56293",
+                    "update": "2026-01-30 16:18:07",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION City",
+                    "engine": "0.5 (8 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "8/2700-3200",
+                    "powerHp": "8",
+                    "powerRpm": "2700-3200",
+                    "powerRpmLow": "2700",
+                    "powerRpmHigh": "3200",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2800",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Diesel",
+                    "curbWeight": "425",
+                    "curbWeightMin": "425"
+                  },
+                  {
+                    "id": "56294",
+                    "update": "2026-01-30 16:18:07",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION City",
+                    "engine": "5.54 kWh (8 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2800",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "400",
+                    "curbWeightMin": "400"
+                  },
+                  {
+                    "id": "56295",
+                    "update": "2026-01-30 16:18:07",
+                    "brand": "Aixam",
+                    "model": "AMBITION",
+                    "generation": "AMBITION City",
+                    "engine": "7.53 kWh (8 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2800",
+                    "width": "1500",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "400",
+                    "curbWeightMin": "400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

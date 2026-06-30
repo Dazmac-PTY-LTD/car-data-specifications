@@ -1,0 +1,469 @@
+{
+  "update": "2021-10-05 10:31:05",
+  "name": "DFSK",
+  "id": "303",
+  "models": {
+    "model": [
+      {
+        "update": "2023-05-17 13:39:46",
+        "name": "F5",
+        "id": "3012",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-17 13:07:48",
+              "name": "F5",
+              "modelYear": "2020",
+              "id": "8605",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48624",
+                    "update": "2023-08-18 10:20:36",
+                    "brand": "DFSK",
+                    "model": "F5",
+                    "generation": "F5",
+                    "engine": "1.5 (137 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/",
+                    "powerHp": "137",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1865",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1664",
+                    "curbWeightMin": "1664"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-10-06 10:04:18",
+        "name": "Seres 3",
+        "id": "3013",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-10-06 13:37:25",
+              "name": "Seres 3",
+              "modelYear": "2021",
+              "id": "8606",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45159",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "DFSK",
+                    "model": "Seres 3",
+                    "generation": "Seres 3",
+                    "engine": "53.61 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1850",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-17 13:39:46",
+        "name": "580",
+        "id": "3016",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-17 13:39:29",
+              "name": "580",
+              "modelYear": "2019",
+              "id": "8609",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48630",
+                    "update": "2023-08-18 10:20:35",
+                    "brand": "DFSK",
+                    "model": "580",
+                    "generation": "580",
+                    "engine": "1.5 (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/",
+                    "powerHp": "150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4680",
+                    "width": "1845",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1510",
+                    "curbWeightMin": "1510"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-18 08:32:10",
+        "name": "500",
+        "id": "3250",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-18 08:34:21",
+              "name": "500",
+              "modelYear": "2022",
+              "id": "9480",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48631",
+                    "update": "2023-08-18 10:26:49",
+                    "brand": "DFSK",
+                    "model": "500",
+                    "generation": "500",
+                    "engine": "1.5 (114 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/6000",
+                    "powerHp": "114",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1850",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "191",
+                    "rideHeightMin": "191",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-23 10:06:55",
+        "name": "600",
+        "id": "3476",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-23 10:07:37",
+              "name": "600",
+              "modelYear": "2024",
+              "id": "10109",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52312",
+                    "update": "2024-07-23 16:16:03",
+                    "brand": "DFSK",
+                    "model": "600",
+                    "generation": "600",
+                    "engine": "1.5 (181 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181",
+                    "powerHp": "181",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4720",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2120",
+                    "curbWeightMin": "2120"
+                  },
+                  {
+                    "id": "52313",
+                    "update": "2024-07-23 16:16:03",
+                    "brand": "DFSK",
+                    "model": "600",
+                    "generation": "600",
+                    "engine": "1.5 (181 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181",
+                    "powerHp": "181",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4720",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2165",
+                    "curbWeightMin": "2165"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 12:10:33",
+        "name": "Fengon E5",
+        "id": "3602",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 12:10:55",
+              "name": "Fengon E5",
+              "modelYear": "2023",
+              "id": "10429",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54030",
+                    "update": "2025-03-28 16:07:56",
+                    "brand": "DFSK",
+                    "model": "Fengon E5",
+                    "generation": "Fengon E5",
+                    "engine": "DE-i 1.5 (217 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "widthOpenedMirrors": "2128",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1745-1820",
+                    "curbWeightMin": "1745",
+                    "curbWeightMax": "1820"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 12:19:08",
+        "name": "Rich 6",
+        "id": "3603",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 12:19:21",
+              "name": "Rich 6",
+              "modelYear": "2024",
+              "id": "10430",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54028",
+                    "update": "2025-03-28 16:07:56",
+                    "brand": "DFSK",
+                    "model": "Rich 6",
+                    "generation": "Rich 6",
+                    "engine": "2.3d (163 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "2024",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5310",
+                    "width": "1850",
+                    "height": "1810",
+                    "heightMin": "1810",
+                    "fuel": "Diesel",
+                    "curbWeight": "2020",
+                    "curbWeightMin": "2020"
+                  },
+                  {
+                    "id": "54029",
+                    "update": "2025-03-28 16:07:56",
+                    "brand": "DFSK",
+                    "model": "Rich 6",
+                    "generation": "Rich 6",
+                    "engine": "2.3d (163 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "2024",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5310",
+                    "width": "1850",
+                    "height": "1810",
+                    "heightMin": "1810",
+                    "fuel": "Diesel",
+                    "curbWeight": "2035",
+                    "curbWeightMin": "2035"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-12 15:10:06",
+        "name": "E5",
+        "id": "3914",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-23 11:10:50",
+              "name": "E5 Plus",
+              "modelYear": "2024",
+              "id": "11012",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56199",
+                    "update": "2026-01-23 11:27:45",
+                    "brand": "DFSK",
+                    "model": "E5",
+                    "generation": "E5 Plus",
+                    "engine": "1.5L 18.4 kWh (218 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "56200",
+                    "update": "2026-01-23 11:28:13",
+                    "brand": "DFSK",
+                    "model": "E5",
+                    "generation": "E5 Plus",
+                    "engine": "1.5L 25 kWh (218 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1900",
+                    "curbWeightMin": "1900"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-23 11:08:16",
+              "name": "E5",
+              "modelYear": "2024",
+              "id": "11038",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56236",
+                    "update": "2026-01-23 16:16:20",
+                    "brand": "DFSK",
+                    "model": "E5",
+                    "generation": "E5",
+                    "engine": "1.5 GDI (218 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

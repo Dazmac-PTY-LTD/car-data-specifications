@@ -1,0 +1,1381 @@
+{
+  "update": "2020-11-05 10:53:39",
+  "name": "Great Wall",
+  "id": "107",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-17 11:42:25",
+        "name": "Cool Bear",
+        "id": "1072",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Cool Bear",
+              "modelYear": "2010",
+              "id": "2218",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10861",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Cool Bear",
+                    "generation": "Cool Bear",
+                    "engine": "1,5 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/6000",
+                    "powerHp": "105",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2012",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3951",
+                    "width": "1695",
+                    "height": "1634",
+                    "heightMin": "1634",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1260",
+                    "curbWeightMin": "1260"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 12:40:25",
+        "name": "Florid",
+        "id": "1073",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Florid",
+              "modelYear": "2009",
+              "id": "2219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10862",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Florid",
+                    "generation": "Florid",
+                    "engine": "1.3 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/6000",
+                    "powerHp": "87",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3907",
+                    "width": "1694",
+                    "height": "1521",
+                    "heightMin": "1521",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1195",
+                    "curbWeightMin": "1195"
+                  },
+                  {
+                    "id": "10863",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Florid",
+                    "generation": "Florid",
+                    "engine": "1.5 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/6000",
+                    "powerHp": "105",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3907",
+                    "width": "1694",
+                    "height": "1521",
+                    "heightMin": "1521",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1195",
+                    "curbWeightMin": "1195"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 12:46:15",
+        "name": "Peri",
+        "id": "1074",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Peri",
+              "modelYear": "2008",
+              "id": "2220",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10864",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Great Wall",
+                    "model": "Peri",
+                    "generation": "Peri",
+                    "engine": "1.3i (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88/6000",
+                    "powerHp": "88",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3548",
+                    "width": "1580",
+                    "height": "1544",
+                    "heightMin": "1544",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "981",
+                    "curbWeightMin": "981"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 12:02:35",
+        "name": "Sailor",
+        "id": "1075",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sailor",
+              "modelYear": "2002",
+              "id": "2221",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10865",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Sailor",
+                    "generation": "Sailor",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5135",
+                    "width": "1690",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1510",
+                    "curbWeightMin": "1510"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 12:57:16",
+        "name": "SUV",
+        "id": "1076",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 11:13:37",
+              "name": "SUV G5",
+              "modelYear": "2001",
+              "id": "2222",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10866",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "SUV",
+                    "generation": "SUV G5",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/",
+                    "powerHp": "105",
+                    "yearstart": "2001",
+                    "yearstop": "2010",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1725",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1760",
+                    "curbWeightMin": "1760"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 11:26:52",
+        "name": "Cowry",
+        "id": "1077",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Cowry",
+              "modelYear": "2007",
+              "id": "2223",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10867",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Cowry",
+                    "generation": "Cowry",
+                    "engine": "2.0 (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/6000",
+                    "powerHp": "143",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2015",
+                    "coupe": "Minivan",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4574",
+                    "width": "1704",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1510",
+                    "curbWeightMin": "1510"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 12:41:23",
+        "name": "Hover CUV",
+        "id": "1078",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 11:11:24",
+              "name": "Hover CUV",
+              "modelYear": "2006",
+              "id": "2224",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10868",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Great Wall",
+                    "model": "Hover CUV",
+                    "generation": "Hover CUV",
+                    "engine": "2.4 i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5000",
+                    "powerHp": "130",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2005",
+                    "yearstop": "2012",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1800",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  },
+                  {
+                    "id": "10869",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Great Wall",
+                    "model": "Hover CUV",
+                    "generation": "Hover CUV",
+                    "engine": "2.8 TD (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/3600",
+                    "powerHp": "95",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2006",
+                    "yearstop": "2012",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1800",
+                    "height": "1775",
+                    "heightMin": "1775",
+                    "fuel": "Diesel",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 12:02:35",
+        "name": "RUV",
+        "id": "1079",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "RUV",
+              "modelYear": "2005",
+              "id": "2225",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10870",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "RUV",
+                    "generation": "RUV",
+                    "engine": "2.2 2WD (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Off-road vehicle",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "5105",
+                    "width": "1785",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 13:06:50",
+        "name": "Wingle",
+        "id": "1081",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Wingle",
+              "modelYear": "2006",
+              "id": "2226",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10871",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Great Wall",
+                    "model": "Wingle",
+                    "generation": "Wingle",
+                    "engine": "2.8 TD (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/3600",
+                    "powerHp": "95",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2005",
+                    "yearstop": "2012",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Diesel",
+                    "curbWeight": "1860",
+                    "curbWeightMin": "1860"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-17 11:42:25",
+        "name": "Deer",
+        "id": "1082",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Deer G3",
+              "modelYear": "1996",
+              "id": "2227",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10872",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Deer",
+                    "generation": "Deer G3",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2005",
+                    "yearstop": "2013",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1750",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  },
+                  {
+                    "id": "10873",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Deer",
+                    "generation": "Deer G3",
+                    "engine": "2.2 i 4x4 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2005",
+                    "yearstop": "2013",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1750",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Deer G5",
+              "modelYear": "1996",
+              "id": "2228",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10874",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Deer",
+                    "generation": "Deer G5",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2005",
+                    "yearstop": "2013",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5280",
+                    "width": "1750",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  },
+                  {
+                    "id": "10875",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Deer",
+                    "generation": "Deer G5",
+                    "engine": "2.2 i 4x4 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2005",
+                    "yearstop": "2013",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5280",
+                    "width": "1750",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 12:44:55",
+        "name": "Pegasus",
+        "id": "1083",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 11:12:04",
+              "name": "Pegasus",
+              "modelYear": "2003",
+              "id": "2229",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10876",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Pegasus",
+                    "generation": "Pegasus",
+                    "engine": "2.2 2WD (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2003",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1870",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  },
+                  {
+                    "id": "10877",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Pegasus",
+                    "generation": "Pegasus",
+                    "engine": "2.2 4WD (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2003",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1870",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1710",
+                    "curbWeightMin": "1710"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 11:27:20",
+        "name": "Safe",
+        "id": "1084",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 11:13:13",
+              "name": "Safe",
+              "modelYear": "2002",
+              "id": "2230",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10878",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Safe",
+                    "generation": "Safe",
+                    "engine": "2.2i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2002",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 16:38:44",
+        "name": "SoCool",
+        "id": "1085",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SoCool",
+              "modelYear": "2007",
+              "id": "2231",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10879",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "SoCool",
+                    "generation": "SoCool",
+                    "engine": "2.2 2WD (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/4600",
+                    "powerHp": "105",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5095",
+                    "width": "1795",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 10:53:39",
+        "name": "Voleex",
+        "id": "1946",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Voleex C50",
+              "modelYear": "2012",
+              "id": "5662",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "30736",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Great Wall",
+                    "model": "Voleex",
+                    "generation": "Voleex C50",
+                    "engine": "1.5 (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5600",
+                    "powerHp": "133",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1775",
+                    "height": "1455",
+                    "heightMin": "1455",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1255",
+                    "curbWeightMin": "1255"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Voleex C20R",
+              "modelYear": "2010",
+              "id": "4021",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18289",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Voleex",
+                    "generation": "Voleex C20R",
+                    "engine": "1.5 (97 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "97/",
+                    "powerHp": "97",
+                    "yearstart": "2010",
+                    "yearstop": "2013",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3890",
+                    "width": "1705",
+                    "height": "1727",
+                    "heightMin": "1727",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Voleex C30",
+              "modelYear": "2010",
+              "id": "3899",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18288",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Voleex",
+                    "generation": "Voleex C30",
+                    "engine": "1.5 (97 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "97/",
+                    "powerHp": "97",
+                    "yearstart": "2010",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4452",
+                    "width": "1705",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Voleex C10",
+              "modelYear": "2010",
+              "id": "3898",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "17556",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Voleex",
+                    "generation": "Voleex C10",
+                    "engine": "1.5 (97 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "97/",
+                    "powerHp": "97",
+                    "yearstart": "2010",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3810",
+                    "width": "1705",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 16:39:44",
+        "name": "Steed",
+        "id": "1947",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-03-25 16:44:21",
+              "name": "Steed 7",
+              "modelYear": "2019",
+              "id": "8806",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45568",
+                    "update": "2022-03-28 16:29:08",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 7",
+                    "engine": "2.4 (150 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5395",
+                    "width": "1800",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "rideHeight": "212",
+                    "rideHeightMin": "212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Steed 6",
+              "modelYear": "2018",
+              "id": "6602",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34596",
+                    "update": "2022-03-28 08:20:19",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 6",
+                    "engine": "2.4i (122 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/5150",
+                    "powerHp": "122",
+                    "powerRpm": "5150",
+                    "powerRpmLow": "5150",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5345",
+                    "width": "1800",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Steed 5",
+              "modelYear": "2011",
+              "id": "3900",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36764",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 5",
+                    "engine": "2.2i (106 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/4600",
+                    "powerHp": "106",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "194",
+                    "rideHeightMin": "194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1565",
+                    "curbWeightMin": "1565"
+                  },
+                  {
+                    "id": "17557",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 5",
+                    "engine": "2.4i (136 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/",
+                    "powerHp": "136",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "17558",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 5",
+                    "engine": "2.0 TCI (150 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/",
+                    "powerHp": "150",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "22093",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 5",
+                    "engine": "2.0 TCI (139 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/",
+                    "powerHp": "139",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "194",
+                    "rideHeightMin": "194",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "22094",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Steed",
+                    "generation": "Steed 5",
+                    "engine": "2.4i (122 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/",
+                    "powerHp": "122",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1800",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "194",
+                    "rideHeightMin": "194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 10:48:04",
+        "name": "Hover H6",
+        "id": "2360",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Hover H6",
+              "modelYear": "2011",
+              "id": "6109",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18290",
+                    "update": "2023-07-24 11:59:02",
+                    "brand": "Great Wall",
+                    "model": "Hover H6",
+                    "generation": "Hover H6",
+                    "engine": "2.0 (143 Hp) 4x2",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/",
+                    "powerHp": "143",
+                    "yearstart": "2011",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1825",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "18291",
+                    "update": "2023-07-24 11:59:01",
+                    "brand": "Great Wall",
+                    "model": "Hover H6",
+                    "generation": "Hover H6",
+                    "engine": "2.0 (143 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/",
+                    "powerHp": "143",
+                    "yearstart": "2011",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1825",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "22091",
+                    "update": "2023-06-14 12:02:48",
+                    "brand": "Great Wall",
+                    "model": "Hover H6",
+                    "generation": "Hover H6",
+                    "engine": "1.5 (143 Hp) 4x2",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/",
+                    "powerHp": "143",
+                    "yearstart": "2011",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1825",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "22092",
+                    "update": "2023-06-14 12:02:47",
+                    "brand": "Great Wall",
+                    "model": "Hover H6",
+                    "generation": "Hover H6",
+                    "engine": "1.5 (143 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/",
+                    "powerHp": "143",
+                    "yearstart": "2011",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1825",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 12:42:17",
+        "name": "Hover H5",
+        "id": "2361",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Hover H5",
+              "modelYear": "2009",
+              "id": "6111",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22090",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Great Wall",
+                    "model": "Hover H5",
+                    "generation": "Hover H5",
+                    "engine": "2.4i (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/",
+                    "powerHp": "126",
+                    "yearstart": "2009",
+                    "yearstop": "2010",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4649",
+                    "width": "1810",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "194",
+                    "rideHeightMin": "194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-02-14 13:20:19",
+        "name": "POER",
+        "id": "3224",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-02-14 16:08:07",
+              "name": "POER Commercial",
+              "modelYear": "2021",
+              "id": "9272",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47552",
+                    "update": "2023-08-07 11:42:26",
+                    "brand": "Great Wall",
+                    "model": "POER",
+                    "generation": "POER Commercial",
+                    "engine": "2.0 GDIT (190 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/4000-5500",
+                    "powerHp": "190",
+                    "powerRpm": "4000-5500",
+                    "powerRpmLow": "4000",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2020",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5665",
+                    "width": "1883",
+                    "height": "1882",
+                    "heightMin": "1882",
+                    "rideHeight": "235",
+                    "rideHeightMin": "235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2045",
+                    "curbWeightMin": "2045"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-02-14 14:23:22",
+              "name": "POER Passenger",
+              "modelYear": "2021",
+              "id": "9271",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47550",
+                    "update": "2023-08-07 11:42:32",
+                    "brand": "Great Wall",
+                    "model": "POER",
+                    "generation": "POER Passenger",
+                    "engine": "2.0 GDIT (190 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/4000-5500",
+                    "powerHp": "190",
+                    "powerRpm": "4000-5500",
+                    "powerRpmLow": "4000",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2020",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5410",
+                    "width": "1934",
+                    "height": "1886",
+                    "heightMin": "1886",
+                    "rideHeight": "235",
+                    "rideHeightMin": "235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2045",
+                    "curbWeightMin": "2045"
+                  },
+                  {
+                    "id": "47551",
+                    "update": "2023-08-07 11:42:22",
+                    "brand": "Great Wall",
+                    "model": "POER",
+                    "generation": "POER Passenger",
+                    "engine": "2.0 Diesel (150 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3600",
+                    "powerHp": "150",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2020",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5403",
+                    "width": "1934",
+                    "height": "1886",
+                    "heightMin": "1886",
+                    "rideHeight": "232",
+                    "rideHeightMin": "232",
+                    "fuel": "Diesel",
+                    "curbWeight": "2095",
+                    "curbWeightMin": "2095"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

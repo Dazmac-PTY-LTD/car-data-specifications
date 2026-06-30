@@ -1,0 +1,1317 @@
+{
+  "update": "2019-08-16 12:40:15",
+  "name": "TVR",
+  "id": "55",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-16 09:01:17",
+        "name": "1600",
+        "id": "619",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:20:45",
+              "name": "1600",
+              "modelYear": "1972",
+              "id": "1317",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5810",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "1600",
+                    "generation": "1600",
+                    "engine": "1.6 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86",
+                    "powerHp": "86",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 10:36:55",
+        "name": "350",
+        "id": "620",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:23:17",
+              "name": "350 Cabrio",
+              "modelYear": "1983",
+              "id": "1318",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5811",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "350",
+                    "generation": "350 Cabrio",
+                    "engine": "3.5 i (197 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "1983",
+                    "yearstop": "1989",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:23:17",
+              "name": "350 Coupe",
+              "modelYear": "1983",
+              "id": "1319",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5812",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "350",
+                    "generation": "350 Coupe",
+                    "engine": "3.5 i (197 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "1983",
+                    "yearstop": "1989",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 11:30:14",
+        "name": "450",
+        "id": "621",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "450",
+              "modelYear": "1988",
+              "id": "1320",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5813",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "450",
+                    "generation": "450",
+                    "engine": "4.4 (323 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "323/5700",
+                    "powerHp": "323",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1988",
+                    "yearstop": "1989",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4015",
+                    "width": "1730",
+                    "height": "1205",
+                    "heightMin": "1205",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1130",
+                    "curbWeightMin": "1130"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 12:01:43",
+        "name": "S",
+        "id": "622",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S",
+              "modelYear": "1986",
+              "id": "1321",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5814",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "2.8 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1986",
+                    "yearstop": "1988",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5815",
+                    "update": "2023-08-09 10:53:26",
+                    "brand": "TVR",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "2.9 (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5400",
+                    "powerHp": "170",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1988",
+                    "yearstop": "1996",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3958",
+                    "width": "1665",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5816",
+                    "update": "2023-08-09 11:37:18",
+                    "brand": "TVR",
+                    "model": "S",
+                    "generation": "S",
+                    "engine": "4.0 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/5250",
+                    "powerHp": "240",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1988",
+                    "yearstop": "1996",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3958",
+                    "width": "1665",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 11:49:35",
+        "name": "Tamora",
+        "id": "623",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tamora",
+              "modelYear": "2002",
+              "id": "1322",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5817",
+                    "update": "2023-08-09 12:03:53",
+                    "brand": "TVR",
+                    "model": "Tamora",
+                    "generation": "Tamora",
+                    "engine": "3.6 V6 (360 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "360/7200",
+                    "powerHp": "360",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3925",
+                    "width": "1715",
+                    "height": "1204",
+                    "heightMin": "1204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 09:01:59",
+        "name": "2500",
+        "id": "624",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:21:03",
+              "name": "2500",
+              "modelYear": "1972",
+              "id": "1323",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5818",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "2500",
+                    "generation": "2500",
+                    "engine": "2.5 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106",
+                    "powerHp": "106",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 10:39:40",
+        "name": "390",
+        "id": "625",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:24:19",
+              "name": "390",
+              "modelYear": "1984",
+              "id": "1324",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5819",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "390",
+                    "generation": "390",
+                    "engine": "3.9 (279 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "279",
+                    "powerHp": "279",
+                    "yearstart": "1984",
+                    "yearstop": "1989",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 11:29:35",
+        "name": "Cerbera",
+        "id": "626",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Cerbera",
+              "modelYear": "1996",
+              "id": "1325",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5820",
+                    "update": "2023-08-09 11:36:58",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.0 i 24V Speed Six (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/6800",
+                    "powerHp": "350",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2000",
+                    "yearstop": "2003",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4280",
+                    "width": "1865",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1130",
+                    "curbWeightMin": "1130"
+                  },
+                  {
+                    "id": "5821",
+                    "update": "2023-08-09 11:37:15",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.0 i V8 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/5250",
+                    "powerHp": "240",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1995",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4146",
+                    "width": "1943",
+                    "height": "1205",
+                    "heightMin": "1205",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "5822",
+                    "update": "2023-08-09 11:36:57",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.2 i V8 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/6500",
+                    "powerHp": "350",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1995",
+                    "yearstop": "1997",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4280",
+                    "width": "1865",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1110",
+                    "curbWeightMin": "1110"
+                  },
+                  {
+                    "id": "5823",
+                    "update": "2023-08-09 11:36:57",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.2 i V8 (360 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "360/6500",
+                    "powerHp": "360",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1998",
+                    "yearstop": "2003",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4280",
+                    "width": "1865",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "5824",
+                    "update": "2023-08-09 11:37:11",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.3 i V8 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/5500",
+                    "powerHp": "280",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1995",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4146",
+                    "width": "1943",
+                    "height": "1205",
+                    "heightMin": "1205",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "5825",
+                    "update": "2023-08-09 11:36:56",
+                    "brand": "TVR",
+                    "model": "Cerbera",
+                    "generation": "Cerbera",
+                    "engine": "4.5 i V8 (426 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "426/6750",
+                    "powerHp": "426",
+                    "powerRpm": "6750",
+                    "powerRpmLow": "6750",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4280",
+                    "width": "1860",
+                    "height": "1220",
+                    "heightMin": "1220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 11:37:48",
+        "name": "Sagaris",
+        "id": "627",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sagaris",
+              "modelYear": "2005",
+              "id": "1326",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5826",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "TVR",
+                    "model": "Sagaris",
+                    "generation": "Sagaris",
+                    "engine": "4.0 i V8 (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/7000",
+                    "powerHp": "400",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4035",
+                    "width": "1895",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 12:40:15",
+        "name": "Tasmin",
+        "id": "628",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:38:52",
+              "name": "Tasmin",
+              "modelYear": "1980",
+              "id": "1327",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5827",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "Tasmin",
+                    "generation": "Tasmin",
+                    "engine": "2.8 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "1980",
+                    "yearstop": "1983",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 12:39:08",
+        "name": "280",
+        "id": "629",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:22:12",
+              "name": "280 Cabrio",
+              "modelYear": "1984",
+              "id": "1328",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5828",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "280",
+                    "generation": "280 Cabrio",
+                    "engine": "2.8 i (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1984",
+                    "yearstop": "1987",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:22:12",
+              "name": "280 Coupe",
+              "modelYear": "1984",
+              "id": "1329",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5829",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "280",
+                    "generation": "280 Coupe",
+                    "engine": "2.8 i (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1984",
+                    "yearstop": "1987",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 10:53:23",
+        "name": "400",
+        "id": "630",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "400",
+              "modelYear": "1988",
+              "id": "1330",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5830",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "400",
+                    "generation": "400",
+                    "engine": "3.9 (272 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "272/5500",
+                    "powerHp": "272",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1988",
+                    "yearstop": "1991",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4015",
+                    "width": "1730",
+                    "height": "1205",
+                    "heightMin": "1205",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1120",
+                    "curbWeightMin": "1120"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-18 11:36:35",
+        "name": "Chimaera",
+        "id": "631",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Chimaera",
+              "modelYear": "1992",
+              "id": "1331",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5831",
+                    "update": "2023-08-09 11:00:12",
+                    "brand": "TVR",
+                    "model": "Chimaera",
+                    "generation": "Chimaera",
+                    "engine": "4.0 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/5250",
+                    "powerHp": "240",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1992",
+                    "yearstop": "2003",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1730",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5832",
+                    "update": "2023-08-09 11:00:11",
+                    "brand": "TVR",
+                    "model": "Chimaera",
+                    "generation": "Chimaera",
+                    "engine": "4.3 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/5500",
+                    "powerHp": "280",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1992",
+                    "yearstop": "2003",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1730",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5833",
+                    "update": "2023-08-09 11:00:11",
+                    "brand": "TVR",
+                    "model": "Chimaera",
+                    "generation": "Chimaera",
+                    "engine": "4.6 (288 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "288/5500",
+                    "powerHp": "288",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1730",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5834",
+                    "update": "2023-08-09 11:00:11",
+                    "brand": "TVR",
+                    "model": "Chimaera",
+                    "generation": "Chimaera",
+                    "engine": "5.0 (326 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "326/5500",
+                    "powerHp": "326",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1730",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5835",
+                    "update": "2023-08-09 11:00:11",
+                    "brand": "TVR",
+                    "model": "Chimaera",
+                    "generation": "Chimaera",
+                    "engine": "5.0 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/5250",
+                    "powerHp": "340",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1992",
+                    "yearstop": "1997",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1730",
+                    "height": "1223",
+                    "heightMin": "1223",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-15 13:52:00",
+        "name": "Tuscan Challenge",
+        "id": "632",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 13:55:13",
+              "name": "Tuscan Challenge",
+              "modelYear": "1989",
+              "id": "1332",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5836",
+                    "update": "2022-11-15 13:53:16",
+                    "brand": "TVR",
+                    "model": "Tuscan Challenge",
+                    "generation": "Tuscan Challenge",
+                    "engine": "Speed Eight 3.9i V8 (243 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "243/5300",
+                    "powerHp": "243",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1760",
+                    "height": "1210",
+                    "heightMin": "1210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1120",
+                    "curbWeightMin": "1120"
+                  },
+                  {
+                    "id": "5837",
+                    "update": "2022-11-15 13:53:05",
+                    "brand": "TVR",
+                    "model": "Tuscan Challenge",
+                    "generation": "Tuscan Challenge",
+                    "engine": "Speed Eight 4.0 (228 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228",
+                    "powerHp": "228",
+                    "yearstart": "1989",
+                    "yearstop": "1992",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5838",
+                    "update": "2022-11-15 13:53:03",
+                    "brand": "TVR",
+                    "model": "Tuscan Challenge",
+                    "generation": "Tuscan Challenge",
+                    "engine": "Speed Eight 4.3 (269 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "269",
+                    "powerHp": "269",
+                    "yearstart": "1989",
+                    "yearstop": "1991",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 11:56:41",
+        "name": "Tuscan",
+        "id": "633",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tuscan",
+              "modelYear": "1999",
+              "id": "1333",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5839",
+                    "update": "2023-08-09 12:03:08",
+                    "brand": "TVR",
+                    "model": "Tuscan",
+                    "generation": "Tuscan",
+                    "engine": "3.6 i 24V (355 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "355/7500",
+                    "powerHp": "355",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4235",
+                    "width": "1810",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5840",
+                    "update": "2023-08-09 12:06:16",
+                    "brand": "TVR",
+                    "model": "Tuscan",
+                    "generation": "Tuscan",
+                    "engine": "4.0 i 24V S (396 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "396/7000",
+                    "powerHp": "396",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2000",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4235",
+                    "width": "1810",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "5841",
+                    "update": "2023-08-09 12:06:16",
+                    "brand": "TVR",
+                    "model": "Tuscan",
+                    "generation": "Tuscan",
+                    "engine": "4.0 i 24V Speed Six (364 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "364/7000",
+                    "powerHp": "364",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1999",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4160",
+                    "width": "1900",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 09:52:41",
+        "name": "3000",
+        "id": "634",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:22:51",
+              "name": "3000",
+              "modelYear": "1972",
+              "id": "1334",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5842",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "3000",
+                    "generation": "3000",
+                    "engine": "3.0 (142 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "142",
+                    "powerHp": "142",
+                    "yearstart": "1972",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5843",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "3000",
+                    "generation": "3000",
+                    "engine": "3.0 Turbo (230 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "230",
+                    "powerHp": "230",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 11:16:18",
+        "name": "420",
+        "id": "635",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:36:14",
+              "name": "420 Cabrio",
+              "modelYear": "1986",
+              "id": "1335",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5844",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "420",
+                    "generation": "420 Cabrio",
+                    "engine": "4.2 (304 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "304",
+                    "powerHp": "304",
+                    "yearstart": "1986",
+                    "yearstop": "1988",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:36:14",
+              "name": "420 Sports Saloon",
+              "modelYear": "1986",
+              "id": "1336",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5845",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "420",
+                    "generation": "420 Sports Saloon",
+                    "engine": "4.2 (269 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "269",
+                    "powerHp": "269",
+                    "yearstart": "1986",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-15 11:30:37",
+        "name": "Griffith",
+        "id": "636",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Griffith",
+              "modelYear": "1991",
+              "id": "1337",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5846",
+                    "update": "2023-08-09 11:37:19",
+                    "brand": "TVR",
+                    "model": "Griffith",
+                    "generation": "Griffith",
+                    "engine": "4.0 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/5250",
+                    "powerHp": "240",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1800",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  },
+                  {
+                    "id": "5847",
+                    "update": "2023-08-09 11:37:17",
+                    "brand": "TVR",
+                    "model": "Griffith",
+                    "generation": "Griffith",
+                    "engine": "4.3 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/5500",
+                    "powerHp": "280",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1800",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  },
+                  {
+                    "id": "5848",
+                    "update": "2023-08-09 11:37:17",
+                    "brand": "TVR",
+                    "model": "Griffith",
+                    "generation": "Griffith",
+                    "engine": "5.0 (326 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "326/5500",
+                    "powerHp": "326",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1990",
+                    "yearstop": "2002",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3965",
+                    "width": "1943",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5849",
+                    "update": "2023-08-09 11:37:16",
+                    "brand": "TVR",
+                    "model": "Griffith",
+                    "generation": "Griffith",
+                    "engine": "5.0 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/5250",
+                    "powerHp": "340",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1993",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4050",
+                    "width": "1760",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 12:36:08",
+        "name": "Taimar",
+        "id": "637",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:38:10",
+              "name": "Taimar",
+              "modelYear": "1972",
+              "id": "1338",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5850",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "Taimar",
+                    "generation": "Taimar",
+                    "engine": "3.0 (142 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "142",
+                    "powerHp": "142",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5851",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TVR",
+                    "model": "Taimar",
+                    "generation": "Taimar",
+                    "engine": "3.0 Turbo (230 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "230",
+                    "powerHp": "230",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

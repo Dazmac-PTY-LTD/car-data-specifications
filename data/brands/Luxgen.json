@@ -1,0 +1,775 @@
+{
+  "update": "2019-05-22 15:16:31",
+  "name": "Luxgen",
+  "id": "281",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 15:22:35",
+        "name": "S3",
+        "id": "2696",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S3",
+              "modelYear": "2016",
+              "id": "7106",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37054",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "S3",
+                    "generation": "S3",
+                    "engine": "1.6i (116 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6000",
+                    "powerHp": "116",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4551",
+                    "width": "1783",
+                    "height": "1527",
+                    "heightMin": "1527",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1230-1250",
+                    "curbWeightMin": "1230",
+                    "curbWeightMax": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 15:27:52",
+        "name": "S5",
+        "id": "2697",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S5 GT",
+              "modelYear": "2019",
+              "id": "7109",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37058",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 GT",
+                    "engine": "GT 1.8i (205 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "205/5200",
+                    "powerHp": "205",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1805",
+                    "widthOpenedMirrors": "2108",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1438",
+                    "curbWeightMin": "1438"
+                  },
+                  {
+                    "id": "37061",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 GT",
+                    "engine": "GT225 1.8i (225 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "225/5200",
+                    "powerHp": "225",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1805",
+                    "widthOpenedMirrors": "2108",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1423",
+                    "curbWeightMin": "1423"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S5 (facelift 2015)",
+              "modelYear": "2015",
+              "id": "7134",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37129",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 (facelift 2015)",
+                    "engine": "1.8i (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "37130",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 (facelift 2015)",
+                    "engine": "1.8i (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  },
+                  {
+                    "id": "37131",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 (facelift 2015)",
+                    "engine": "2.0i (192 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "192",
+                    "powerHp": "192",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "37132",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "S5 (facelift 2015)",
+                    "engine": "2.0i (192 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "192",
+                    "powerHp": "192",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "5",
+              "modelYear": "2011",
+              "id": "7133",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37126",
+                    "update": "2023-08-16 08:39:55",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "5",
+                    "engine": "1.8i (154 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154",
+                    "powerHp": "154",
+                    "yearstart": "2011",
+                    "yearstop": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "37127",
+                    "update": "2023-08-16 08:39:54",
+                    "brand": "Luxgen",
+                    "model": "S5",
+                    "generation": "5",
+                    "engine": "2.0i (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2011",
+                    "yearstop": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1805",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 15:29:47",
+        "name": "U5",
+        "id": "2698",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "U5",
+              "modelYear": "2017",
+              "id": "7110",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37081",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "U5",
+                    "generation": "U5",
+                    "engine": "1.6i (120 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/6000",
+                    "powerHp": "120",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4395",
+                    "width": "1783",
+                    "widthOpenedMirrors": "2048",
+                    "height": "1607",
+                    "heightMin": "1607",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1283-1328",
+                    "curbWeightMin": "1283",
+                    "curbWeightMax": "1328"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 15:38:46",
+        "name": "U6",
+        "id": "2699",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "U6 (facelift 2017)",
+              "modelYear": "2017",
+              "id": "7112",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37088",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "U6",
+                    "generation": "U6 (facelift 2017)",
+                    "engine": "2.0i (191 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "191/5500",
+                    "powerHp": "191",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1825",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1506",
+                    "curbWeightMin": "1506"
+                  },
+                  {
+                    "id": "37089",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "U6",
+                    "generation": "U6 (facelift 2017)",
+                    "engine": "1.8i (202 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "202/5200",
+                    "powerHp": "202",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1825",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1531-1555",
+                    "curbWeightMin": "1531",
+                    "curbWeightMax": "1555"
+                  },
+                  {
+                    "id": "37097",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Luxgen",
+                    "model": "U6",
+                    "generation": "U6 (facelift 2017)",
+                    "engine": "GT220 1.8i (222 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "222/5200",
+                    "powerHp": "222",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1825",
+                    "height": "1610",
+                    "heightMin": "1610",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520-1540",
+                    "curbWeightMin": "1520",
+                    "curbWeightMax": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "U6",
+              "modelYear": "2013",
+              "id": "7111",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37083",
+                    "update": "2023-08-16 08:39:56",
+                    "brand": "Luxgen",
+                    "model": "U6",
+                    "generation": "U6",
+                    "engine": "1.8i (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4625",
+                    "width": "1825",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1472",
+                    "curbWeightMin": "1472"
+                  },
+                  {
+                    "id": "37085",
+                    "update": "2023-08-16 08:39:55",
+                    "brand": "Luxgen",
+                    "model": "U6",
+                    "generation": "U6",
+                    "engine": "2.0i (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4625",
+                    "width": "1825",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1486",
+                    "curbWeightMin": "1486"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-12-02 12:16:38",
+        "name": "U7",
+        "id": "2700",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "U7 (facelift 2014)",
+              "modelYear": "2014",
+              "id": "7116",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37102",
+                    "update": "2023-08-16 08:39:57",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "U7 (facelift 2014)",
+                    "engine": "2.2i (175 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175",
+                    "powerHp": "175",
+                    "yearstart": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1932",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  },
+                  {
+                    "id": "37103",
+                    "update": "2023-08-16 08:39:58",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "U7 (facelift 2014)",
+                    "engine": "2.2i (175 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175",
+                    "powerHp": "175",
+                    "yearstart": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1932",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  },
+                  {
+                    "id": "37108",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "U7 (facelift 2014)",
+                    "engine": "2.2i ECO HYPER (202 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "202/5500",
+                    "powerHp": "202",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1935",
+                    "height": "1715-1730",
+                    "heightMin": "1715",
+                    "heightMax": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1820-1850",
+                    "curbWeightMin": "1820",
+                    "curbWeightMax": "1850"
+                  },
+                  {
+                    "id": "37109",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "U7 (facelift 2014)",
+                    "engine": "2.2i ECO HYPER (202 Hp) 4WD AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "202/5500",
+                    "powerHp": "202",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4820",
+                    "width": "1935",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1935-1970",
+                    "curbWeightMin": "1935",
+                    "curbWeightMax": "1970"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "7 SUV",
+              "modelYear": "2010",
+              "id": "7115",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37100",
+                    "update": "2023-08-16 08:39:58",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "7 SUV",
+                    "engine": "2.2i (175 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175",
+                    "powerHp": "175",
+                    "yearstart": "2010",
+                    "yearstop": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1930",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  },
+                  {
+                    "id": "37101",
+                    "update": "2023-08-16 08:40:00",
+                    "brand": "Luxgen",
+                    "model": "U7",
+                    "generation": "7 SUV",
+                    "engine": "2.2i (175 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175",
+                    "powerHp": "175",
+                    "yearstart": "2010",
+                    "yearstop": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1930",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1915",
+                    "curbWeightMin": "1915"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-12-02 12:16:38",
+        "name": "M7",
+        "id": "2702",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "M7 (facelift 2014)",
+              "modelYear": "2014",
+              "id": "7126",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37121",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "M7",
+                    "generation": "M7 (facelift 2014)",
+                    "engine": "2.2i ECO HYPER (202 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "202/5500",
+                    "powerHp": "202",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "coupe": "Minivan",
+                    "places": "7-8",
+                    "placesMin": "7",
+                    "placesMax": "8",
+                    "length": "4845",
+                    "width": "1876",
+                    "height": "1768",
+                    "heightMin": "1768",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1895",
+                    "curbWeightMin": "1895"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "7 MPV",
+              "modelYear": "2009",
+              "id": "7123",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37117",
+                    "update": "2023-08-16 08:39:53",
+                    "brand": "Luxgen",
+                    "model": "M7",
+                    "generation": "7 MPV",
+                    "engine": "2.2i (175 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175",
+                    "powerHp": "175",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4845",
+                    "width": "1876",
+                    "height": "1768",
+                    "heightMin": "1768",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:04:42",
+        "name": "V7",
+        "id": "2703",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "V7",
+              "modelYear": "2016",
+              "id": "7130",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37125",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Luxgen",
+                    "model": "V7",
+                    "generation": "V7",
+                    "engine": "2.2i ECO HYPER (202 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "202/5500",
+                    "powerHp": "202",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4845",
+                    "width": "1876",
+                    "height": "1995",
+                    "heightMin": "1995",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "update": "2024-04-23 11:40:14",
+  "name": "M-Hero",
+  "id": "343",
+  "models": {
+    "model": [
+      {
+        "update": "2024-04-23 11:42:22",
+        "name": "917",
+        "id": "3433",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-04-23 14:01:38",
+              "name": "917",
+              "modelYear": "2023",
+              "id": "9998",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51616",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "M-Hero",
+                    "model": "917",
+                    "generation": "917",
+                    "engine": "1.5 (816 Hp) Extended Range 4WD Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4987",
+                    "width": "2080",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "rideHeight": "221-326",
+                    "rideHeightMin": "221",
+                    "rideHeightMax": "326",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3130",
+                    "curbWeightMin": "3130"
+                  },
+                  {
+                    "id": "51617",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "M-Hero",
+                    "model": "917",
+                    "generation": "917",
+                    "engine": "142.7 kWh (1088 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4987",
+                    "width": "2080",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "rideHeight": "230-335",
+                    "rideHeightMin": "230",
+                    "rideHeightMax": "335",
+                    "fuel": "Electricity",
+                    "curbWeight": "3293",
+                    "curbWeightMin": "3293"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-23 13:29:36",
+        "name": "1",
+        "id": "3514",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-23 13:45:36",
+              "name": "1",
+              "modelYear": "2024",
+              "id": "10225",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52996",
+                    "update": "2024-10-23 14:33:43",
+                    "brand": "M-Hero",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "142.75 kWh (1088 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4987",
+                    "width": "2080",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "rideHeight": "335",
+                    "rideHeightMin": "335",
+                    "fuel": "Electricity",
+                    "curbWeight": "3293-3335",
+                    "curbWeightMin": "3293",
+                    "curbWeightMax": "3335"
+                  },
+                  {
+                    "id": "52997",
+                    "update": "2024-10-23 14:32:36",
+                    "brand": "M-Hero",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "1.5 65.88 kWh (816 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4987",
+                    "width": "2080",
+                    "height": "1935",
+                    "heightMin": "1935",
+                    "rideHeight": "185-335",
+                    "rideHeightMin": "185",
+                    "rideHeightMax": "335",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3130-3270",
+                    "curbWeightMin": "3130",
+                    "curbWeightMax": "3270"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-21 15:14:10",
+        "name": "M817",
+        "id": "3777",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-21 15:14:39",
+              "name": "M817",
+              "modelYear": "2025",
+              "id": "10750",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55155",
+                    "update": "2025-09-29 13:24:49",
+                    "brand": "M-Hero",
+                    "model": "M817",
+                    "generation": "M817",
+                    "engine": "1.5T 31.7 kWh (687 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5100",
+                    "width": "1998",
+                    "height": "1899-1919",
+                    "heightMin": "1899",
+                    "heightMax": "1919",
+                    "rideHeight": "228-333",
+                    "rideHeightMin": "228",
+                    "rideHeightMax": "333",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2909",
+                    "curbWeightMin": "2909"
+                  },
+                  {
+                    "id": "55454",
+                    "update": "2025-09-29 16:13:22",
+                    "brand": "M-Hero",
+                    "model": "M817",
+                    "generation": "M817",
+                    "engine": "Max+ 1.5T 50.4 kWh (687 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5100",
+                    "width": "1998",
+                    "height": "1899",
+                    "heightMin": "1899",
+                    "rideHeight": "216-321",
+                    "rideHeightMin": "216",
+                    "rideHeightMax": "321",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3000",
+                    "curbWeightMin": "3000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "update": "2020-11-20 14:56:22",
+  "name": "Pininfarina",
+  "id": "234",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-20 14:40:10",
+        "name": "HK GT",
+        "id": "2382",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "HK GT",
+              "modelYear": "2018",
+              "id": "6171",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32860",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Pininfarina",
+                    "model": "HK GT",
+                    "generation": "HK GT",
+                    "engine": "38Kwh (1088 Hp) AWD Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4980",
+                    "width": "2000",
+                    "height": "1365",
+                    "heightMin": "1365",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-20 14:47:06",
+        "name": "H2",
+        "id": "2421",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "H2 Speed",
+              "modelYear": "2019",
+              "id": "6236",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33079",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Pininfarina",
+                    "model": "H2",
+                    "generation": "H2 Speed",
+                    "engine": "(653 Hp) Electric-Hydrogen",
+                    "powertrain": "FCEV (Fuel Cell Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4730",
+                    "width": "1956",
+                    "height": "1113",
+                    "heightMin": "1113",
+                    "fuel": "Hydrogen / electricity",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-20 14:56:22",
+        "name": "Battista",
+        "id": "2661",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Battista",
+              "modelYear": "2020",
+              "id": "6984",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36571",
+                    "update": "2022-06-11 07:51:06",
+                    "brand": "Pininfarina",
+                    "model": "Battista",
+                    "generation": "Battista",
+                    "engine": "120 kWh (1900 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

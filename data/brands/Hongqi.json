@@ -1,0 +1,1157 @@
+{
+  "update": "2025-04-14 10:57:27",
+  "name": "Hongqi",
+  "id": "296",
+  "models": {
+    "model": [
+      {
+        "update": "2021-04-13 14:24:24",
+        "name": "L5",
+        "id": "2902",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-13 14:27:19",
+              "name": "L5",
+              "modelYear": "2014",
+              "id": "8303",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42796",
+                    "update": "2022-10-06 18:11:19",
+                    "brand": "Hongqi",
+                    "model": "L5",
+                    "generation": "L5",
+                    "engine": "6.0 V12 (408 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "408/5600",
+                    "powerHp": "408",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5555",
+                    "width": "2018",
+                    "height": "1578",
+                    "heightMin": "1578",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3150",
+                    "curbWeightMin": "3150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-13 15:16:28",
+        "name": "H9",
+        "id": "2903",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-15 13:56:12",
+              "name": "H9 (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10503",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54156",
+                    "update": "2025-04-15 16:16:13",
+                    "brand": "Hongqi",
+                    "model": "H9",
+                    "generation": "H9 (facelift 2024)",
+                    "engine": "3.0T V6 (337 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "337",
+                    "powerHp": "337",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5137",
+                    "width": "1904",
+                    "height": "1493",
+                    "heightMin": "1493",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2015",
+                    "curbWeightMin": "2015"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-04-13 15:17:30",
+              "name": "H9",
+              "modelYear": "2020",
+              "id": "8304",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42814",
+                    "update": "2025-04-15 13:55:36",
+                    "brand": "Hongqi",
+                    "model": "H9",
+                    "generation": "H9",
+                    "engine": "2.0T (252 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "252/5500",
+                    "powerHp": "252",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5137",
+                    "width": "1904",
+                    "height": "1493",
+                    "heightMin": "1493",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1875",
+                    "curbWeightMin": "1875"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-13 16:14:09",
+        "name": "HS7",
+        "id": "2904",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-28 09:26:02",
+              "name": "HS7 II",
+              "modelYear": "2023",
+              "id": "10514",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54192",
+                    "update": "2025-04-28 16:16:19",
+                    "brand": "Hongqi",
+                    "model": "HS7",
+                    "generation": "HS7 II",
+                    "engine": "2.0T (252 Hp) Mild Hybrid 4WD Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "252",
+                    "powerHp": "252",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4995",
+                    "width": "1960",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2070-2080",
+                    "curbWeightMin": "2070",
+                    "curbWeightMax": "2080"
+                  },
+                  {
+                    "id": "54191",
+                    "update": "2025-04-28 16:16:19",
+                    "brand": "Hongqi",
+                    "model": "HS7",
+                    "generation": "HS7 II",
+                    "engine": "2.0T (252 Hp) Mild Hybrid Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "252",
+                    "powerHp": "252",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4995",
+                    "width": "1960",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1985",
+                    "curbWeightMin": "1985"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-04-28 09:25:46",
+              "name": "HS7 I",
+              "modelYear": "2019",
+              "id": "8307",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42815",
+                    "update": "2025-04-28 09:29:40",
+                    "brand": "Hongqi",
+                    "model": "HS7",
+                    "generation": "HS7 I",
+                    "engine": "3.0T V6 (337 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "337/5500",
+                    "powerHp": "337",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5035",
+                    "width": "1989",
+                    "height": "1756-1778",
+                    "heightMin": "1756",
+                    "heightMax": "1778",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-14 09:20:56",
+        "name": "H7",
+        "id": "2906",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-14 10:16:42",
+              "name": "H7 (facelift 2017)",
+              "modelYear": "2017",
+              "id": "8310",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42816",
+                    "update": "2022-10-06 18:11:19",
+                    "brand": "Hongqi",
+                    "model": "H7",
+                    "generation": "H7 (facelift 2017)",
+                    "engine": "3.0 V6 (231 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "231/6000",
+                    "powerHp": "231",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5095",
+                    "width": "1875",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "142",
+                    "rideHeightMin": "142",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-04-14 09:29:34",
+              "name": "H7",
+              "modelYear": "2013",
+              "id": "8308",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-14 10:45:37",
+        "name": "H5",
+        "id": "2907",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-14 11:06:43",
+              "name": "H5 II",
+              "modelYear": "2022",
+              "id": "10497",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54155",
+                    "update": "2025-04-15 16:07:56",
+                    "brand": "Hongqi",
+                    "model": "H5",
+                    "generation": "H5 II",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5500",
+                    "powerHp": "169",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1875",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1565",
+                    "curbWeightMin": "1565"
+                  },
+                  {
+                    "id": "54152",
+                    "update": "2025-04-14 16:39:53",
+                    "brand": "Hongqi",
+                    "model": "H5",
+                    "generation": "H5 II",
+                    "engine": "2.0T (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1875",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-04-14 11:06:27",
+              "name": "H5 I (facelift 2020)",
+              "modelYear": "2020",
+              "id": "8313",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42817",
+                    "update": "2025-04-15 08:23:34",
+                    "brand": "Hongqi",
+                    "model": "H5",
+                    "generation": "H5 I (facelift 2020)",
+                    "engine": "1.8T (197 Hp) Mild Hybrid Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "197/4500-5500",
+                    "powerHp": "197",
+                    "powerRpm": "4500-5500",
+                    "powerRpmLow": "4500",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1845",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1615",
+                    "curbWeightMin": "1615"
+                  },
+                  {
+                    "id": "54154",
+                    "update": "2025-04-15 16:07:56",
+                    "brand": "Hongqi",
+                    "model": "H5",
+                    "generation": "H5 I (facelift 2020)",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5500",
+                    "powerHp": "169",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1845",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-04-14 11:06:27",
+              "name": "H5 I",
+              "modelYear": "2018",
+              "id": "8311",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54153",
+                    "update": "2025-04-15 16:07:55",
+                    "brand": "Hongqi",
+                    "model": "H5",
+                    "generation": "H5 I",
+                    "engine": "1.8T (180 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180/5500-6000",
+                    "powerHp": "180",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1845",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1583",
+                    "curbWeightMin": "1583"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-14 14:25:13",
+        "name": "HS5",
+        "id": "2909",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-14 12:51:29",
+              "name": "HS5 (facelift 2023)",
+              "modelYear": "2023",
+              "id": "10499",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54150",
+                    "update": "2025-04-14 16:42:41",
+                    "brand": "Hongqi",
+                    "model": "HS5",
+                    "generation": "HS5 (facelift 2023)",
+                    "engine": "2.0T (252 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/5500",
+                    "powerHp": "252",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1905",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1820",
+                    "curbWeightMin": "1820"
+                  },
+                  {
+                    "id": "54149",
+                    "update": "2025-04-14 16:42:30",
+                    "brand": "Hongqi",
+                    "model": "HS5",
+                    "generation": "HS5 (facelift 2023)",
+                    "engine": "2.0T (252 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/5500",
+                    "powerHp": "252",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1905",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1755",
+                    "curbWeightMin": "1755"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-04-14 14:29:23",
+              "name": "HS5",
+              "modelYear": "2019",
+              "id": "8315",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42819",
+                    "update": "2025-04-14 15:39:54",
+                    "brand": "Hongqi",
+                    "model": "HS5",
+                    "generation": "HS5",
+                    "engine": "2.0T (224 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4760",
+                    "width": "1907",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1795-1805",
+                    "curbWeightMin": "1795",
+                    "curbWeightMax": "1805"
+                  },
+                  {
+                    "id": "54148",
+                    "update": "2025-04-14 16:39:53",
+                    "brand": "Hongqi",
+                    "model": "HS5",
+                    "generation": "HS5",
+                    "engine": "2.0T (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/4500-5500",
+                    "powerHp": "224",
+                    "powerRpm": "4500-5500",
+                    "powerRpmLow": "4500",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4760",
+                    "width": "1907",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1755",
+                    "curbWeightMin": "1755"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-03-22 09:00:36",
+        "name": "E-HS9",
+        "id": "3075",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-03-22 09:01:01",
+              "name": "E-HS9",
+              "modelYear": "2020",
+              "id": "8793",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45523",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Hongqi",
+                    "model": "E-HS9",
+                    "generation": "E-HS9",
+                    "engine": "84 kWh (435 Hp) AWD 7 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5209",
+                    "width": "2010",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": "2505",
+                    "curbWeightMin": "2505"
+                  },
+                  {
+                    "id": "45524",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Hongqi",
+                    "model": "E-HS9",
+                    "generation": "E-HS9",
+                    "engine": "99 kWh (551 Hp) AWD 7 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5209",
+                    "width": "2010",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  },
+                  {
+                    "id": "45525",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Hongqi",
+                    "model": "E-HS9",
+                    "generation": "E-HS9",
+                    "engine": "99 kWh (551 Hp) AWD 6 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5209",
+                    "width": "2010",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "fuel": "Electricity",
+                    "curbWeight": "2630",
+                    "curbWeightMin": "2630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-04-05 13:24:22",
+        "name": "Ousado",
+        "id": "3239",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-04-05 13:24:49",
+              "name": "Ousado",
+              "modelYear": "2023",
+              "id": "9417",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48353",
+                    "update": "2023-04-05 14:22:07",
+                    "brand": "Hongqi",
+                    "model": "Ousado",
+                    "generation": "Ousado",
+                    "engine": "2.0T (223 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "223",
+                    "powerHp": "223",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1875",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-15 10:12:41",
+        "name": "HS3",
+        "id": "3502",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-15 10:15:22",
+              "name": "HS3",
+              "modelYear": "2023",
+              "id": "10209",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52949",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Hongqi",
+                    "model": "HS3",
+                    "generation": "HS3",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169",
+                    "powerHp": "169",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4655",
+                    "width": "1900",
+                    "height": "1668",
+                    "heightMin": "1668",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 12:59:48",
+        "name": "EH7",
+        "id": "3604",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 13:00:07",
+              "name": "EH7",
+              "modelYear": "2024",
+              "id": "10432",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53932",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Hongqi",
+                    "model": "EH7",
+                    "generation": "EH7",
+                    "engine": "85 kWh (344 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1915",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "2273",
+                    "curbWeightMin": "2273"
+                  },
+                  {
+                    "id": "53933",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Hongqi",
+                    "model": "EH7",
+                    "generation": "EH7",
+                    "engine": "85 kWh (619 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1915",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "2403",
+                    "curbWeightMin": "2403"
+                  },
+                  {
+                    "id": "53934",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Hongqi",
+                    "model": "EH7",
+                    "generation": "EH7",
+                    "engine": "111 kWh (619 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1915",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "2410",
+                    "curbWeightMin": "2410"
+                  },
+                  {
+                    "id": "53935",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Hongqi",
+                    "model": "EH7",
+                    "generation": "EH7",
+                    "engine": "111 kWh (344 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1915",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "2290",
+                    "curbWeightMin": "2290"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 13:04:29",
+        "name": "EHS7",
+        "id": "3605",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 13:05:27",
+              "name": "EHS7",
+              "modelYear": "2025",
+              "id": "10433",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53936",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Hongqi",
+                    "model": "EHS7",
+                    "generation": "EHS7",
+                    "engine": "111 kWh (344 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4925",
+                    "width": "1950",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "2383",
+                    "curbWeightMin": "2383"
+                  },
+                  {
+                    "id": "53937",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Hongqi",
+                    "model": "EHS7",
+                    "generation": "EHS7",
+                    "engine": "111 kWh (619 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4925",
+                    "width": "1950",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "2533",
+                    "curbWeightMin": "2533"
+                  },
+                  {
+                    "id": "53938",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Hongqi",
+                    "model": "EHS7",
+                    "generation": "EHS7",
+                    "engine": "85 kWh (344 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4925",
+                    "width": "1950",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "2369",
+                    "curbWeightMin": "2369"
+                  },
+                  {
+                    "id": "53939",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Hongqi",
+                    "model": "EHS7",
+                    "generation": "EHS7",
+                    "engine": "85 kWh (619 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4925",
+                    "width": "1950",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "2533",
+                    "curbWeightMin": "2533"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-24 10:30:39",
+        "name": "E-QM5",
+        "id": "3860",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-24 11:53:28",
+              "name": "E-QM5 (facelift 2025)",
+              "modelYear": "2025",
+              "id": "10893",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55617",
+                    "update": "2025-10-24 11:50:57",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5 (facelift 2025)",
+                    "engine": "60 kWh (150 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1760",
+                    "curbWeightMin": "1760"
+                  },
+                  {
+                    "id": "55618",
+                    "update": "2025-10-24 11:50:57",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5 (facelift 2025)",
+                    "engine": "72 kWh (150 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  },
+                  {
+                    "id": "55619",
+                    "update": "2025-10-24 11:50:57",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5 (facelift 2025)",
+                    "engine": "56 kWh (150 Hp) Battery Swap",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-24 11:53:28",
+              "name": "E-QM5",
+              "modelYear": "2021",
+              "id": "10894",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55620",
+                    "update": "2025-10-24 14:27:50",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5",
+                    "engine": "56 kWh (136 Hp) Battery Swap",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  },
+                  {
+                    "id": "55621",
+                    "update": "2025-10-24 14:27:50",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5",
+                    "engine": "54 kWh (136 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "55622",
+                    "update": "2025-10-24 14:27:50",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5",
+                    "engine": "54 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "55623",
+                    "update": "2025-10-24 14:27:50",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5",
+                    "engine": "74.9 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  },
+                  {
+                    "id": "55624",
+                    "update": "2025-10-24 14:27:50",
+                    "brand": "Hongqi",
+                    "model": "E-QM5",
+                    "generation": "E-QM5",
+                    "engine": "82 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5040",
+                    "width": "1910",
+                    "height": "1569",
+                    "heightMin": "1569",
+                    "fuel": "Electricity",
+                    "curbWeight": "1900",
+                    "curbWeightMin": "1900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

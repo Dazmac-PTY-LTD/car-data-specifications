@@ -1,0 +1,54 @@
+{
+  "update": "2013-01-24 21:00:00",
+  "name": "Blonell",
+  "id": "81",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-21 12:37:23",
+        "name": "TF 2000 MK1",
+        "id": "909",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TF 2000 MK1",
+              "modelYear": "1999",
+              "id": "1918",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9168",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Blonell",
+                    "model": "TF 2000 MK1",
+                    "generation": "TF 2000 MK1",
+                    "engine": "2.0 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5700",
+                    "powerHp": "131",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1999",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3815",
+                    "width": "1680",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1110",
+                    "curbWeightMin": "1110"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1139 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Rolls-Royce",
+  "id": "109",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-08 14:12:03",
+        "name": "Corniche",
+        "id": "1109",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:23:08",
+              "name": "Corniche V",
+              "modelYear": "2000",
+              "id": "2260",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10935",
+                    "update": "2023-04-07 09:30:25",
+                    "brand": "Rolls-Royce",
+                    "model": "Corniche",
+                    "generation": "Corniche V",
+                    "engine": "6.8 i V8 Turbo (329 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "329/4000",
+                    "powerHp": "329",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2000",
+                    "yearstop": "2002",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5405",
+                    "width": "1910",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2735",
+                    "curbWeightMin": "2735"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:23:08",
+              "name": "Corniche II",
+              "modelYear": "1986",
+              "id": "11234",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57011",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Rolls-Royce",
+                    "model": "Corniche",
+                    "generation": "Corniche II",
+                    "engine": "6.75 V8 (223 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "223",
+                    "powerHp": "223",
+                    "yearstart": "1985",
+                    "yearstop": "1989",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5169",
+                    "width": "1836",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-03-04 11:53:32",
+              "name": "Corniche I (facelift 1974)",
+              "modelYear": "1974",
+              "id": "8181",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-26 16:00:48",
+        "name": "Park Ward",
+        "id": "1110",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Park Ward",
+              "modelYear": "2001",
+              "id": "2261",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10936",
+                    "update": "2023-04-07 09:26:24",
+                    "brand": "Rolls-Royce",
+                    "model": "Park Ward",
+                    "generation": "Park Ward",
+                    "engine": "5.4 i V12 (326 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "326/5000",
+                    "powerHp": "326",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2000",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5640",
+                    "width": "1930",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2435",
+                    "curbWeightMin": "2435"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-08 14:39:12",
+        "name": "Silver Seraph",
+        "id": "1112",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Silver Seraph",
+              "modelYear": "1998",
+              "id": "2263",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10938",
+                    "update": "2023-04-07 09:26:24",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Seraph",
+                    "generation": "Silver Seraph",
+                    "engine": "5.4 i V12 (326 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "326/5000",
+                    "powerHp": "326",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5390",
+                    "width": "1932",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-07 13:44:27",
+        "name": "Silver Spur",
+        "id": "1113",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Silver Spur",
+              "modelYear": "1980",
+              "id": "2264",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10939",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Spur",
+                    "generation": "Silver Spur",
+                    "engine": "6.8 V8 (329 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "329/4000",
+                    "powerHp": "329",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1980",
+                    "yearstop": "1989",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10940",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Spur",
+                    "generation": "Silver Spur",
+                    "engine": "6.8 V8 (329 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "329/4000",
+                    "powerHp": "329",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10941",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Spur",
+                    "generation": "Silver Spur",
+                    "engine": "6.8 V8 (329 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "329/4000",
+                    "powerHp": "329",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1994",
+                    "yearstop": "1995",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10942",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Spur",
+                    "generation": "Silver Spur",
+                    "engine": "6.8 V8 (329 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "329/4000",
+                    "powerHp": "329",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1996",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-08 15:07:28",
+        "name": "Ghost",
+        "id": "1114",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ghost Extended Wheelbase II",
+              "modelYear": "2021",
+              "id": "7933",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41317",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost Extended Wheelbase II",
+                    "engine": "6.75 V12 (571 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5000",
+                    "powerHp": "571",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5716",
+                    "width": "2148",
+                    "height": "1571",
+                    "heightMin": "1571",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ghost II",
+              "modelYear": "2021",
+              "id": "7925",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41260",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost II",
+                    "engine": "6.75 V12 (571 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5000",
+                    "powerHp": "571",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5546",
+                    "width": "2148",
+                    "height": "1571",
+                    "heightMin": "1571",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2490",
+                    "curbWeightMin": "2490"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ghost Extended Wheelbase I (facelift 2014)",
+              "modelYear": "2014",
+              "id": "4943",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24372",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost Extended Wheelbase I (facelift 2014)",
+                    "engine": "6.6 V12 (570 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/5250",
+                    "powerHp": "570",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2014",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5569",
+                    "width": "1948",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2420",
+                    "curbWeightMin": "2420"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ghost I (facelift 2014)",
+              "modelYear": "2014",
+              "id": "4942",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24355",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost I (facelift 2014)",
+                    "engine": "6.6 V12 (570 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/5250",
+                    "powerHp": "570",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2014",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5399",
+                    "width": "1948",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  },
+                  {
+                    "id": "24382",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost I (facelift 2014)",
+                    "engine": "6.6 V12 (612 Hp) Automatic Black Badge",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "612/5250",
+                    "powerHp": "612",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5399",
+                    "width": "1948",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2490",
+                    "curbWeightMin": "2490"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ghost I",
+              "modelYear": "2010",
+              "id": "2265",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10943",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Ghost",
+                    "generation": "Ghost I",
+                    "engine": "6.6 V12 48V (570 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/5250-6000",
+                    "powerHp": "570",
+                    "powerRpm": "5250-6000",
+                    "powerRpmLow": "5250",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5399",
+                    "width": "1948",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-08 16:14:33",
+        "name": "Phantom",
+        "id": "1115",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom VIII Extended Wheelbase",
+              "modelYear": "2018",
+              "id": "5856",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31542",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom VIII Extended Wheelbase",
+                    "engine": "6.7 V12 (571 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5000",
+                    "powerHp": "571",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5982",
+                    "width": "2018",
+                    "height": "1656",
+                    "heightMin": "1656",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2610",
+                    "curbWeightMin": "2610"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom VIII",
+              "modelYear": "2018",
+              "id": "5855",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31541",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom VIII",
+                    "engine": "6.7 V12 (571 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5000",
+                    "powerHp": "571",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5762",
+                    "width": "2018",
+                    "height": "1646",
+                    "heightMin": "1646",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom Drophead Coupe (facelift 2012)",
+              "modelYear": "2012",
+              "id": "4941",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24342",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom Drophead Coupe (facelift 2012)",
+                    "engine": "6.7 V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5612",
+                    "width": "1987",
+                    "height": "1566",
+                    "heightMin": "1566",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2630",
+                    "curbWeightMin": "2630"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom Coupe (facelift 2012)",
+              "modelYear": "2012",
+              "id": "4940",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24278",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom Coupe (facelift 2012)",
+                    "engine": "6.7 V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5612",
+                    "width": "1987",
+                    "height": "1598",
+                    "heightMin": "1598",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom Extended Wheelbase VII (facelift 2012)",
+              "modelYear": "2012",
+              "id": "4939",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24333",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom Extended Wheelbase VII (facelift 2012)",
+                    "engine": "6.7 V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "6092",
+                    "width": "1990",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2670",
+                    "curbWeightMin": "2670"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom VII (facelift 2012)",
+              "modelYear": "2012",
+              "id": "4938",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24320",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom VII (facelift 2012)",
+                    "engine": "6.7 V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5842",
+                    "width": "1990",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom Coupe",
+              "modelYear": "2008",
+              "id": "2262",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10937",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom Coupe",
+                    "engine": "6.75 i V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5609",
+                    "width": "1987",
+                    "height": "1592",
+                    "heightMin": "1592",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2590",
+                    "curbWeightMin": "2590"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom Drophead Coupe",
+              "modelYear": "2007",
+              "id": "2268",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10946",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom Drophead Coupe",
+                    "engine": "6.75 i V12 (460 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2007",
+                    "yearstop": "2016",
+                    "coupe": "Cabriolet",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5609",
+                    "width": "1987",
+                    "height": "1581",
+                    "heightMin": "1581",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2620",
+                    "curbWeightMin": "2620"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom VII",
+              "modelYear": "2003",
+              "id": "2266",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10944",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom VII",
+                    "engine": "6.75 i V12 48V (460 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2003",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5834",
+                    "width": "1990",
+                    "height": "1632",
+                    "heightMin": "1632",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2480",
+                    "curbWeightMin": "2480"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-27 08:38:08",
+              "name": "Phantom VII Extended Wheelbase",
+              "modelYear": "2003",
+              "id": "2267",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10945",
+                    "update": "2023-04-07 09:07:54",
+                    "brand": "Rolls-Royce",
+                    "model": "Phantom",
+                    "generation": "Phantom VII Extended Wheelbase",
+                    "engine": "6.75 i V12 48V (460 Hp) ED",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/5350",
+                    "powerHp": "460",
+                    "powerRpm": "5350",
+                    "powerRpmLow": "5350",
+                    "yearstart": "2003",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "6084",
+                    "width": "1990",
+                    "height": "1632",
+                    "heightMin": "1632",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2670",
+                    "curbWeightMin": "2670"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 10:58:40",
+        "name": "Wraith",
+        "id": "2135",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Wraith",
+              "modelYear": "2014",
+              "id": "4944",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24307",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Wraith",
+                    "generation": "Wraith",
+                    "engine": "6.6 V12 (632 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "632/5600",
+                    "powerHp": "632",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2013",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5285",
+                    "width": "1947",
+                    "height": "1507",
+                    "heightMin": "1507",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  },
+                  {
+                    "id": "24373",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Wraith",
+                    "generation": "Wraith",
+                    "engine": "6.6 V12 (632 Hp) Automatic Black Badge",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "632/5600",
+                    "powerHp": "632",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5285",
+                    "width": "1947",
+                    "height": "1507",
+                    "heightMin": "1507",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2440",
+                    "curbWeightMin": "2440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 11:28:28",
+        "name": "Dawn",
+        "id": "2136",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Dawn",
+              "modelYear": "2016",
+              "id": "4946",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24363",
+                    "update": "2023-04-07 08:53:07",
+                    "brand": "Rolls-Royce",
+                    "model": "Dawn",
+                    "generation": "Dawn",
+                    "engine": "6.6 V12 (571 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5250-6000",
+                    "powerHp": "571",
+                    "powerRpm": "5250-6000",
+                    "powerRpmLow": "5250",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2015",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5285",
+                    "width": "1947",
+                    "height": "1502",
+                    "heightMin": "1502",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  },
+                  {
+                    "id": "31544",
+                    "update": "2023-04-07 08:53:02",
+                    "brand": "Rolls-Royce",
+                    "model": "Dawn",
+                    "generation": "Dawn",
+                    "engine": "6.6 V12 (601 Hp) Automatic Black Badge",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "601/5250-6000",
+                    "powerHp": "601",
+                    "powerRpm": "5250-6000",
+                    "powerRpmLow": "5250",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5285",
+                    "width": "1947",
+                    "height": "1502",
+                    "heightMin": "1502",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 11:41:07",
+        "name": "Cullinan",
+        "id": "2367",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Cullinan",
+              "modelYear": "2019",
+              "id": "6123",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33251",
+                    "update": "2023-04-07 08:52:59",
+                    "brand": "Rolls-Royce",
+                    "model": "Cullinan",
+                    "generation": "Cullinan",
+                    "engine": "6.7 V12 (571 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "571/5000",
+                    "powerHp": "571",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5341",
+                    "width": "2000",
+                    "widthFoldedMirrors": "2164",
+                    "height": "1835",
+                    "heightMin": "1835",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2660",
+                    "curbWeightMin": "2660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-03-04 12:45:11",
+        "name": "Silver Dawn",
+        "id": "2880",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-03-04 13:06:10",
+              "name": "Silver Dawn",
+              "modelYear": "1949",
+              "id": "8182",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42583",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Rolls-Royce",
+                    "model": "Silver Dawn",
+                    "generation": "Silver Dawn",
+                    "engine": "4.6 (128 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128",
+                    "powerHp": "128",
+                    "yearstart": "1951",
+                    "yearstop": "1955",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5168",
+                    "width": "1778",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "191",
+                    "rideHeightMin": "191",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1914",
+                    "curbWeightMin": "1914"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-10-19 10:06:09",
+        "name": "Spectre",
+        "id": "3172",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-10-19 10:06:31",
+              "name": "Spectre",
+              "modelYear": "2024",
+              "id": "9061",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49729",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Rolls-Royce",
+                    "model": "Spectre",
+                    "generation": "Spectre",
+                    "engine": "102 kWh (584 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5475",
+                    "width": "2017",
+                    "widthOpenedMirrors": "2144",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "fuel": "Electricity",
+                    "curbWeight": "2890",
+                    "curbWeightMin": "2890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "update": "2020-11-23 10:04:33",
+  "name": "ORA",
+  "id": "286",
+  "models": {
+    "model": [
+      {
+        "update": "2019-11-01 09:05:05",
+        "name": "R1",
+        "id": "2744",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R1",
+              "modelYear": "2019",
+              "id": "7378",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37968",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "ORA",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "33 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3495",
+                    "width": "1660",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-23 10:04:33",
+        "name": "iQ",
+        "id": "2745",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "iQ",
+              "modelYear": "2018",
+              "id": "7379",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37969",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "ORA",
+                    "model": "iQ",
+                    "generation": "iQ",
+                    "engine": "46.57 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4445",
+                    "width": "1785",
+                    "height": "1567",
+                    "heightMin": "1567",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-06-09 10:48:18",
+        "name": "Cat",
+        "id": "3128",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-12 14:05:25",
+              "name": "Next Cat",
+              "modelYear": "2023",
+              "id": "9103",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-12 14:05:25",
+              "name": "Cat",
+              "modelYear": "2022",
+              "id": "8907",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45940",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "ORA",
+                    "model": "Cat",
+                    "generation": "Cat",
+                    "engine": "GT 63.13 kWh (171 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4254",
+                    "width": "1848",
+                    "height": "1603",
+                    "heightMin": "1603",
+                    "fuel": "Electricity",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  },
+                  {
+                    "id": "48853",
+                    "update": "2024-12-06 23:55:30",
+                    "brand": "ORA",
+                    "model": "Cat",
+                    "generation": "Cat",
+                    "engine": "48 kWh (171 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1825",
+                    "height": "1603",
+                    "heightMin": "1603",
+                    "fuel": "Electricity",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-23 10:14:43",
+        "name": "03",
+        "id": "3511",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-24 12:39:11",
+              "name": "03",
+              "modelYear": "2024",
+              "id": "10222",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53005",
+                    "update": "2024-12-06 23:54:43",
+                    "brand": "ORA",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "48 kWh (170 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1825",
+                    "height": "1603",
+                    "heightMin": "1603",
+                    "fuel": "Electricity",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "53006",
+                    "update": "2024-12-06 23:54:40",
+                    "brand": "ORA",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "63 kWh (170 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1825",
+                    "height": "1603",
+                    "heightMin": "1603",
+                    "fuel": "Electricity",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-23 10:15:38",
+        "name": "07",
+        "id": "3512",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-23 11:31:27",
+              "name": "07",
+              "modelYear": "2024",
+              "id": "10223",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52992",
+                    "update": "2024-12-06 23:55:16",
+                    "brand": "ORA",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "Standard Range 67 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4871",
+                    "width": "1862",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "105",
+                    "rideHeightMin": "105",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  },
+                  {
+                    "id": "52993",
+                    "update": "2024-12-06 23:55:04",
+                    "brand": "ORA",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "Long Range 86 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4874",
+                    "width": "1850",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  },
+                  {
+                    "id": "52994",
+                    "update": "2024-12-06 23:54:52",
+                    "brand": "ORA",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "GT 86 kWh (408 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4871",
+                    "width": "1862",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "rideHeight": "105",
+                    "rideHeightMin": "105",
+                    "fuel": "Electricity",
+                    "curbWeight": "2135",
+                    "curbWeightMin": "2135"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-17 11:01:04",
+        "name": "5",
+        "id": "3880",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-17 11:01:14",
+              "name": "5",
+              "modelYear": "2026",
+              "id": "10937",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55785",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "ORA",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "58.3 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4471",
+                    "width": "1833",
+                    "height": "1641",
+                    "heightMin": "1641",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55789",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "ORA",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "45.3 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4471",
+                    "width": "1833",
+                    "height": "1641",
+                    "heightMin": "1641",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

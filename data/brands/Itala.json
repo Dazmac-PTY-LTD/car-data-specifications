@@ -1,0 +1,51 @@
+{
+  "update": "2026-05-28 10:17:18",
+  "name": "Itala",
+  "id": "398",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-28 10:18:18",
+        "name": "35",
+        "id": "4034",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-28 10:19:02",
+              "name": "35",
+              "modelYear": "2027",
+              "id": "11278",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57108",
+                    "update": "2026-05-28 11:22:21",
+                    "brand": "Itala",
+                    "model": "35",
+                    "generation": "35",
+                    "engine": "1.5T (170 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1850",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1451",
+                    "curbWeightMin": "1451"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

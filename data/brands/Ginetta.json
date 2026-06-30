@@ -1,0 +1,176 @@
+{
+  "update": "2020-11-05 09:52:01",
+  "name": "Ginetta",
+  "id": "215",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-26 11:50:52",
+        "name": "G40",
+        "id": "2321",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G40",
+              "modelYear": "2010",
+              "id": "5957",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32069",
+                    "update": "2023-08-17 14:57:04",
+                    "brand": "Ginetta",
+                    "model": "G40",
+                    "generation": "G40",
+                    "engine": "Junior 1.8 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/",
+                    "powerHp": "100",
+                    "yearstart": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3748",
+                    "width": "1642",
+                    "height": "1045",
+                    "heightMin": "1045",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "830",
+                    "curbWeightMin": "830"
+                  },
+                  {
+                    "id": "32070",
+                    "update": "2023-08-17 14:57:04",
+                    "brand": "Ginetta",
+                    "model": "G40",
+                    "generation": "G40",
+                    "engine": "GRDC 1.8 (135 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/",
+                    "powerHp": "135",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3748",
+                    "width": "1642",
+                    "height": "1045",
+                    "heightMin": "1045",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "840",
+                    "curbWeightMin": "840"
+                  },
+                  {
+                    "id": "32071",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ginetta",
+                    "model": "G40",
+                    "generation": "G40",
+                    "engine": "R 2.0 (175 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175/6700",
+                    "powerHp": "175",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3748",
+                    "width": "1642",
+                    "height": "1045",
+                    "heightMin": "1045",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "795",
+                    "curbWeightMin": "795"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-01-02 11:32:27",
+        "name": "G55",
+        "id": "2595",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G55 GT4",
+              "modelYear": "2012",
+              "id": "6800",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32072",
+                    "update": "2023-08-17 14:34:52",
+                    "brand": "Ginetta",
+                    "model": "G55",
+                    "generation": "G55 GT4",
+                    "engine": "3.7 V6 (380 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "380/",
+                    "powerHp": "380",
+                    "yearstart": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1085",
+                    "curbWeightMin": "1085"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 09:48:11",
+        "name": "Akula",
+        "id": "2673",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 14:13:48",
+              "name": "Akula",
+              "modelYear": "2019",
+              "id": "7017",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 09:52:01",
+        "name": "G58",
+        "id": "2674",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 14:31:16",
+              "name": "G58",
+              "modelYear": "2018",
+              "id": "7018",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

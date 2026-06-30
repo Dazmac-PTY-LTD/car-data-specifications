@@ -1,0 +1,56 @@
+{
+  "update": "2021-01-26 12:37:41",
+  "name": "Apollo",
+  "id": "212",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-26 12:37:41",
+        "name": "IE",
+        "id": "2317",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "IE",
+              "modelYear": "2018",
+              "id": "5949",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31981",
+                    "update": "2023-08-21 14:10:54",
+                    "brand": "Apollo",
+                    "model": "IE",
+                    "generation": "IE",
+                    "engine": "6.3 V12 (780 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/8500",
+                    "powerHp": "780",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2017",
+                    "yearstop": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5066",
+                    "width": "1995",
+                    "height": "1130",
+                    "heightMin": "1130",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

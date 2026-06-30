@@ -1,0 +1,89 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "e.GO",
+  "id": "251",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:47:05",
+        "name": "Life",
+        "id": "2495",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Life",
+              "modelYear": "2019",
+              "id": "6448",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33898",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "e.GO",
+                    "model": "Life",
+                    "generation": "Life",
+                    "engine": "Life 20 14.9 kWh (27 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3348",
+                    "width": "1700",
+                    "height": "1567",
+                    "heightMin": "1567",
+                    "fuel": "Electricity",
+                    "curbWeight": "880",
+                    "curbWeightMin": "880"
+                  },
+                  {
+                    "id": "33899",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "e.GO",
+                    "model": "Life",
+                    "generation": "Life",
+                    "engine": "Life 40 17.9 kWh (54 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3348",
+                    "width": "1700",
+                    "height": "1567",
+                    "heightMin": "1567",
+                    "fuel": "Electricity",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  },
+                  {
+                    "id": "33900",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "e.GO",
+                    "model": "Life",
+                    "generation": "Life",
+                    "engine": "Life 60 23.9 kWh (82 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3348",
+                    "width": "1700",
+                    "height": "1567",
+                    "heightMin": "1567",
+                    "fuel": "Electricity",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

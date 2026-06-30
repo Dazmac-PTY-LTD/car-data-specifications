@@ -1,0 +1,169 @@
+{
+  "update": "2023-07-04 11:01:15",
+  "name": "Appollen",
+  "id": "328",
+  "models": {
+    "model": [
+      {
+        "update": "2023-11-02 10:28:08",
+        "name": "A1",
+        "id": "3348",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-02 10:43:03",
+              "name": "A1",
+              "modelYear": "2022",
+              "id": "9724",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50316",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Appollen",
+                    "model": "A1",
+                    "generation": "A1",
+                    "engine": "26 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4066",
+                    "width": "1636",
+                    "height": "1330",
+                    "heightMin": "1330",
+                    "fuel": "Electricity",
+                    "curbWeight": "725",
+                    "curbWeightMin": "725"
+                  },
+                  {
+                    "id": "50317",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Appollen",
+                    "model": "A1",
+                    "generation": "A1",
+                    "engine": "39 kWh (217 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4066",
+                    "width": "1636",
+                    "height": "1330",
+                    "heightMin": "1330",
+                    "fuel": "Electricity",
+                    "curbWeight": "890",
+                    "curbWeightMin": "890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-02 12:30:12",
+        "name": "A2",
+        "id": "3349",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-02 12:30:53",
+              "name": "A2",
+              "modelYear": "2022",
+              "id": "9725",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50318",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Appollen",
+                    "model": "A2",
+                    "generation": "A2",
+                    "engine": "26 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3700",
+                    "width": "1610",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Electricity",
+                    "curbWeight": "700",
+                    "curbWeightMin": "700"
+                  },
+                  {
+                    "id": "50319",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Appollen",
+                    "model": "A2",
+                    "generation": "A2",
+                    "engine": "39 kWh (217 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3700",
+                    "width": "1610",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Electricity",
+                    "curbWeight": "700",
+                    "curbWeightMin": "700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-02 14:23:53",
+        "name": "S1",
+        "id": "3352",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-02 14:24:36",
+              "name": "S1",
+              "modelYear": "2022",
+              "id": "9728",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50320",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Appollen",
+                    "model": "S1",
+                    "generation": "S1",
+                    "engine": "97.9 kWh (557 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4634",
+                    "width": "2069",
+                    "height": "1253",
+                    "heightMin": "1253",
+                    "fuel": "Electricity",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

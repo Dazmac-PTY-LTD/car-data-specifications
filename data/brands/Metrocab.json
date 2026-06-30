@@ -1,0 +1,140 @@
+{
+  "update": "2019-07-11 15:17:56",
+  "name": "Metrocab",
+  "id": "148",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-11 15:17:55",
+        "name": "Taxi",
+        "id": "1506",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Taxi Series I",
+              "modelYear": "1989",
+              "id": "7231",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13940",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Metrocab",
+                    "model": "Taxi",
+                    "generation": "Taxi Series I",
+                    "engine": "2.5 D (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/4000",
+                    "powerHp": "75",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1991",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1760",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Diesel",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Taxi TTT",
+              "modelYear": "2000",
+              "id": "3015",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13939",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Metrocab",
+                    "model": "Taxi",
+                    "generation": "Taxi TTT",
+                    "engine": "2.4 TD (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/3500",
+                    "powerHp": "90",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2001",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1770",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": "1955",
+                    "curbWeightMin": "1955"
+                  },
+                  {
+                    "id": "29289",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Metrocab",
+                    "model": "Taxi",
+                    "generation": "Taxi TTT",
+                    "engine": "2.5 D (75 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/4000",
+                    "powerHp": "75",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1991",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1760",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Diesel",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  },
+                  {
+                    "id": "29298",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Metrocab",
+                    "model": "Taxi",
+                    "generation": "Taxi TTT",
+                    "engine": "2.4 TD (90 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/3500",
+                    "powerHp": "90",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2001",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4505",
+                    "width": "1770",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": "1955",
+                    "curbWeightMin": "1955"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

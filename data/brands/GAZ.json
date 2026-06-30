@@ -1,0 +1,1680 @@
+{
+  "update": "2021-01-26 16:29:36",
+  "name": "GAZ",
+  "id": "145",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 15:31:36",
+        "name": "13",
+        "id": "1460",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 13:29:13",
+              "name": "13",
+              "modelYear": "1959",
+              "id": "2923",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13624",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "13",
+                    "generation": "13",
+                    "engine": "5.5 V8 (195 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195",
+                    "powerHp": "195",
+                    "yearstart": "1959",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 14:59:34",
+        "name": "20",
+        "id": "1461",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "20",
+              "modelYear": "1946",
+              "id": "2924",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13625",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "20",
+                    "generation": "20",
+                    "engine": "2.1 (52 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "52/3600",
+                    "powerHp": "52",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "1946",
+                    "yearstop": "1956",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4665",
+                    "width": "1695",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "20M",
+              "modelYear": "1946",
+              "id": "2925",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13626",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "20",
+                    "generation": "20M",
+                    "engine": "2.1 (52 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "52/3600",
+                    "powerHp": "52",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "1946",
+                    "yearstop": "1956",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4665",
+                    "width": "1695",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 15:48:59",
+        "name": "22",
+        "id": "1462",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "22B",
+              "modelYear": "1962",
+              "id": "2926",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13627",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "22",
+                    "generation": "22B",
+                    "engine": "2.4 (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/4000",
+                    "powerHp": "76",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1962",
+                    "yearstop": "1970",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4810",
+                    "width": "1800",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-02 14:18:59",
+        "name": "31",
+        "id": "1463",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 13:30:29",
+              "name": "311055",
+              "modelYear": "2006",
+              "id": "2927",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13629",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "311055",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131",
+                    "powerHp": "131",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31105",
+              "modelYear": "2003",
+              "id": "2928",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13630",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "31105",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5200",
+                    "powerHp": "131",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2004",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4921",
+                    "width": "1812",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3110",
+              "modelYear": "1997",
+              "id": "2929",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13631",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.1 TD (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/3800",
+                    "powerHp": "110",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2002",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Diesel",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "13632",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.1 TD (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/3800",
+                    "powerHp": "95",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2001",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Diesel",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "13633",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.3 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5200",
+                    "powerHp": "150",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "13634",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5200",
+                    "powerHp": "131",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2000",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4895",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "13635",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.5 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1997",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "13636",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.5 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/4500",
+                    "powerHp": "81",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2001",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "13637",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.5 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4500",
+                    "powerHp": "90",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1997",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1401",
+                    "curbWeightMin": "1401"
+                  },
+                  {
+                    "id": "13638",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3110",
+                    "engine": "2.5 i (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2001",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3111",
+              "modelYear": "1998",
+              "id": "2930",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13639",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3111",
+                    "engine": "2.1 TD (114 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/4300",
+                    "powerHp": "114",
+                    "powerRpm": "4300",
+                    "powerRpmLow": "4300",
+                    "yearstart": "2001",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4897",
+                    "width": "1840",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Diesel",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "13640",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3111",
+                    "engine": "2.3 (145 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "145/5200",
+                    "powerHp": "145",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2001",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4897",
+                    "width": "1850",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "13641",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3111",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5200",
+                    "powerHp": "131",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2001",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4897",
+                    "width": "1840",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  },
+                  {
+                    "id": "13642",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3111",
+                    "engine": "2.5 i (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5200",
+                    "powerHp": "136",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2002",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4897",
+                    "width": "1840",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "13643",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3111",
+                    "engine": "2.5 i (155 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/5200",
+                    "powerHp": "155",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2000",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4897",
+                    "width": "1840",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3102",
+              "modelYear": "1982",
+              "id": "2931",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13644",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3102",
+                    "engine": "2.3 16V (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5200",
+                    "powerHp": "150",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1820",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "13645",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3102",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5200",
+                    "powerHp": "131",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2000",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "13646",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3102",
+                    "engine": "2.4 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/4500",
+                    "powerHp": "81",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1997",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "13647",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3102",
+                    "engine": "2.5 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1982",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "13648",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3102",
+                    "engine": "2.5 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4500",
+                    "powerHp": "90",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2001",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1800",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "310221",
+              "modelYear": "1996",
+              "id": "2932",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13649",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "310221",
+                    "engine": "2.1 TD (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/3800",
+                    "powerHp": "95",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2001",
+                    "yearstop": "2009",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Diesel",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "13650",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "310221",
+                    "engine": "2.3 16V (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5200",
+                    "powerHp": "150",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "13651",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "310221",
+                    "engine": "2.3 i 16V (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/5200",
+                    "powerHp": "131",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2000",
+                    "yearstop": "2009",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "13652",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "310221",
+                    "engine": "2.4 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81/4500",
+                    "powerHp": "81",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1996",
+                    "yearstop": "2009",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "13653",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "310221",
+                    "engine": "2.5 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4500",
+                    "powerHp": "90",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1997",
+                    "yearstop": "2009",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "31029",
+              "modelYear": "1991",
+              "id": "2933",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13654",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "31029",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1992",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1800",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3105",
+              "modelYear": "1992",
+              "id": "2934",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13655",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "31",
+                    "generation": "3105",
+                    "engine": "3.4 V8 (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5400",
+                    "powerHp": "170",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1992",
+                    "yearstop": "1996",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5050",
+                    "width": "1800",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 16:29:39",
+        "name": "Siber",
+        "id": "1464",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Siber",
+              "modelYear": "2008",
+              "id": "2935",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13656",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "Siber",
+                    "generation": "Siber",
+                    "engine": "2.0 16V (141 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "141/5700",
+                    "powerHp": "141",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4858",
+                    "width": "1792",
+                    "height": "1409",
+                    "heightMin": "1409",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "13657",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "Siber",
+                    "generation": "Siber",
+                    "engine": "2.4 16V (143 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2008",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4858",
+                    "width": "1792",
+                    "height": "1409",
+                    "heightMin": "1409",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 15:45:49",
+        "name": "14",
+        "id": "1465",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "14",
+              "modelYear": "1977",
+              "id": "2936",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13658",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "14",
+                    "generation": "14",
+                    "engine": "5.5 V8 (220 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220/4200",
+                    "powerHp": "220",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1977",
+                    "yearstop": "1989",
+                    "coupe": "Sedan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "6114",
+                    "width": "2020",
+                    "height": "1525",
+                    "heightMin": "1525",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2615",
+                    "curbWeightMin": "2615"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 15:47:30",
+        "name": "21",
+        "id": "1466",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21",
+              "modelYear": "1956",
+              "id": "2937",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13659",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "21",
+                    "generation": "21",
+                    "engine": "2.4 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/4000",
+                    "powerHp": "70",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1956",
+                    "yearstop": "1970",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1885",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "13660",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "21",
+                    "generation": "21",
+                    "engine": "2.4 Automat (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80/4000",
+                    "powerHp": "80",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1958",
+                    "yearstop": "1959",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1885",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-26 16:29:36",
+        "name": "24",
+        "id": "1467",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2413",
+              "modelYear": "1987",
+              "id": "2938",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13661",
+                    "update": "2023-08-18 08:36:38",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2413",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1987",
+                    "yearstop": "1992",
+                    "coupe": "Station wagon (estate)",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2412",
+              "modelYear": "1987",
+              "id": "2939",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13662",
+                    "update": "2023-08-18 08:36:38",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2412",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1987",
+                    "yearstop": "1992",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2414",
+              "modelYear": "1987",
+              "id": "2940",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13663",
+                    "update": "2023-08-18 08:36:40",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2414",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1987",
+                    "yearstop": "1992",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2417",
+              "modelYear": "1986",
+              "id": "2941",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13665",
+                    "update": "2023-08-18 08:36:43",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2417",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1986",
+                    "yearstop": "1992",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2410",
+              "modelYear": "1986",
+              "id": "2942",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13666",
+                    "update": "2023-08-18 08:36:43",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2410",
+                    "engine": "2.4 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1986",
+                    "yearstop": "1992",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2411",
+              "modelYear": "1986",
+              "id": "2943",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13667",
+                    "update": "2023-08-18 08:36:44",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2411",
+                    "engine": "2.4 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4500",
+                    "powerHp": "90",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1986",
+                    "yearstop": "1992",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2434",
+              "modelYear": "1985",
+              "id": "2944",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13668",
+                    "update": "2023-08-18 08:36:44",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2434",
+                    "engine": "5.5 V8 (195 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195/",
+                    "powerHp": "195",
+                    "yearstart": "1985",
+                    "yearstop": "1993",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2404",
+              "modelYear": "1972",
+              "id": "2945",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13669",
+                    "update": "2023-08-18 08:36:44",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2404",
+                    "engine": "2.4 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/4500",
+                    "powerHp": "95",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1972",
+                    "yearstop": "1987",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2402",
+              "modelYear": "1972",
+              "id": "2946",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13670",
+                    "update": "2023-08-18 08:36:45",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2402",
+                    "engine": "2.4 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/4500",
+                    "powerHp": "95",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1972",
+                    "yearstop": "1987",
+                    "coupe": "Station wagon (estate)",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "24",
+              "modelYear": "1970",
+              "id": "2947",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13671",
+                    "update": "2023-08-18 08:36:46",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "24",
+                    "engine": "2.4 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/4500",
+                    "powerHp": "95",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1970",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2401",
+              "modelYear": "1970",
+              "id": "2948",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13672",
+                    "update": "2023-08-18 08:36:42",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2401",
+                    "engine": "2.4 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/4500",
+                    "powerHp": "85",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1970",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2407",
+              "modelYear": "1970",
+              "id": "2949",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13674",
+                    "update": "2023-08-18 08:36:41",
+                    "brand": "GAZ",
+                    "model": "24",
+                    "generation": "2407",
+                    "engine": "2.4 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/4500",
+                    "powerHp": "85",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1970",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1800",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 15:37:11",
+        "name": "69",
+        "id": "1468",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "69",
+              "modelYear": "1952",
+              "id": "2950",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13675",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "69",
+                    "generation": "69",
+                    "engine": "2.1 (65 Hp) 2d",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/3800",
+                    "powerHp": "65",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1953",
+                    "yearstop": "1971",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "3850",
+                    "width": "1750",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "13676",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "GAZ",
+                    "model": "69",
+                    "generation": "69",
+                    "engine": "2.1 (65 Hp) 4d",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/3800",
+                    "powerHp": "65",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1953",
+                    "yearstop": "1971",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3850",
+                    "width": "1750",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-11 13:41:50",
+        "name": "M1",
+        "id": "1469",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 13:34:53",
+              "name": "M1",
+              "modelYear": "1936",
+              "id": "2951",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-03-01 08:47:05",
+        "name": "M-20",
+        "id": "2875",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-03-01 08:53:37",
+              "name": "M-20B Pobeda",
+              "modelYear": "1955",
+              "id": "8167",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42569",
+                    "update": "2022-04-29 14:20:35",
+                    "brand": "GAZ",
+                    "model": "M-20",
+                    "generation": "M-20B Pobeda",
+                    "engine": "2.1 (52 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "52/3600",
+                    "powerHp": "52",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "1955",
+                    "yearstop": "1958",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4665",
+                    "width": "1695",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

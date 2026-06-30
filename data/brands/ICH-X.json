@@ -1,0 +1,128 @@
+{
+  "update": "2025-03-17 13:29:21",
+  "name": "ICH-X",
+  "id": "351",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-17 13:29:43",
+        "name": "K2",
+        "id": "3607",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 13:30:18",
+              "name": "K2",
+              "modelYear": "2024",
+              "id": "10436",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53931",
+                    "update": "2025-03-20 16:17:17",
+                    "brand": "ICH-X",
+                    "model": "K2",
+                    "generation": "K2",
+                    "engine": "2.0 TD (162 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/4000",
+                    "powerHp": "162",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4645",
+                    "width": "1925",
+                    "height": "1871",
+                    "heightMin": "1871",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": "2180",
+                    "curbWeightMin": "2180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-19 14:58:44",
+        "name": "K3",
+        "id": "3673",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-19 14:59:38",
+              "name": "K3",
+              "modelYear": "2024",
+              "id": "10547",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54318",
+                    "update": "2025-05-19 16:15:05",
+                    "brand": "ICH-X",
+                    "model": "K3",
+                    "generation": "K3",
+                    "engine": "2.0 (245 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "245/5500",
+                    "powerHp": "245",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "2006",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1935",
+                    "curbWeightMin": "1935"
+                  },
+                  {
+                    "id": "54329",
+                    "update": "2025-05-20 16:03:33",
+                    "brand": "ICH-X",
+                    "model": "K3",
+                    "generation": "K3",
+                    "engine": "2.0 (245/238 Hp) LPG 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "245/5500/238/",
+                    "powerHp": "245",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "238",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "2006",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1955",
+                    "curbWeightMin": "1955"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

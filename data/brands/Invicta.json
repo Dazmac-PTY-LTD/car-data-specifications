@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:16",
+  "name": "Invicta",
+  "id": "162",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-04 09:22:13",
+        "name": "S1",
+        "id": "1667",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S1",
+              "modelYear": "2004",
+              "id": "3283",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14853",
+                    "update": "2023-08-17 09:57:50",
+                    "brand": "Invicta",
+                    "model": "S1",
+                    "generation": "S1",
+                    "engine": "4.6 i V8 32V (325 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "325/5900",
+                    "powerHp": "325",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2004",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4400",
+                    "width": "2000",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

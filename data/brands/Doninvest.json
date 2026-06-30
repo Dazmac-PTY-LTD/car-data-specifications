@@ -1,0 +1,330 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Doninvest",
+  "id": "42",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:39:08",
+        "name": "Assol",
+        "id": "525",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Assol (L100)",
+              "modelYear": "1997",
+              "id": "1149",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "4912",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Assol",
+                    "generation": "Assol (L100)",
+                    "engine": "1.5i (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5800",
+                    "powerHp": "86",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1036",
+                    "curbWeightMin": "1036"
+                  },
+                  {
+                    "id": "4913",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Assol",
+                    "generation": "Assol (L100)",
+                    "engine": "1.6i (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1056",
+                    "curbWeightMin": "1056"
+                  },
+                  {
+                    "id": "28659",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Assol",
+                    "generation": "Assol (L100)",
+                    "engine": "1.6i (106 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1056",
+                    "curbWeightMin": "1056"
+                  },
+                  {
+                    "id": "30651",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Assol",
+                    "generation": "Assol (L100)",
+                    "engine": "1.5i (86 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5800",
+                    "powerHp": "86",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1036",
+                    "curbWeightMin": "1036"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:40:18",
+        "name": "Kondor",
+        "id": "526",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Kondor (V100)",
+              "modelYear": "1997",
+              "id": "1150",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "4914",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Kondor",
+                    "generation": "Kondor (V100)",
+                    "engine": "2.0i 16V (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5400",
+                    "powerHp": "133",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4671",
+                    "width": "1779",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  },
+                  {
+                    "id": "28644",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Kondor",
+                    "generation": "Kondor (V100)",
+                    "engine": "2.0i 16V (133 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5400",
+                    "powerHp": "133",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4671",
+                    "width": "1779",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:41:03",
+        "name": "Orion",
+        "id": "527",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Orion (J100)",
+              "modelYear": "1997",
+              "id": "1151",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "4915",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Orion",
+                    "generation": "Orion (J100)",
+                    "engine": "1.6i (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4467",
+                    "width": "1700",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1164",
+                    "curbWeightMin": "1164"
+                  },
+                  {
+                    "id": "30198",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Orion",
+                    "generation": "Orion (J100)",
+                    "engine": "1.6i (106 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4467",
+                    "width": "1700",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1164",
+                    "curbWeightMin": "1164"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Orion Station Wagon (J100)",
+              "modelYear": "1997",
+              "id": "1152",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "4916",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Orion",
+                    "generation": "Orion Station Wagon (J100)",
+                    "engine": "2.0i 16V (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5400",
+                    "powerHp": "133",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4514",
+                    "width": "1700",
+                    "height": "1433",
+                    "heightMin": "1433",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1222",
+                    "curbWeightMin": "1222"
+                  },
+                  {
+                    "id": "28660",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Doninvest",
+                    "model": "Orion",
+                    "generation": "Orion Station Wagon (J100)",
+                    "engine": "2.0i 16V (133 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5400",
+                    "powerHp": "133",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4514",
+                    "width": "1700",
+                    "height": "1433",
+                    "heightMin": "1433",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1222",
+                    "curbWeightMin": "1222"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

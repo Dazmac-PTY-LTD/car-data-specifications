@@ -1,0 +1,107 @@
+{
+  "update": "2025-11-17 11:58:41",
+  "name": "212",
+  "id": "382",
+  "models": {
+    "model": [
+      {
+        "update": "2025-11-17 13:43:45",
+        "name": "T01",
+        "id": "3882",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-17 13:44:33",
+              "name": "T01",
+              "modelYear": "2024",
+              "id": "10939",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55780",
+                    "update": "2025-11-18 16:13:08",
+                    "brand": "212",
+                    "model": "T01",
+                    "generation": "T01",
+                    "engine": "2.0T GDI (252 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/5500",
+                    "powerHp": "252",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1895",
+                    "height": "1936",
+                    "heightMin": "1936",
+                    "rideHeight": "235",
+                    "rideHeightMin": "235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  },
+                  {
+                    "id": "55781",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "212",
+                    "model": "T01",
+                    "generation": "T01",
+                    "engine": "2.0T Diesel (170 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/3600",
+                    "powerHp": "170",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1895",
+                    "height": "1936",
+                    "heightMin": "1936",
+                    "rideHeight": "235",
+                    "rideHeightMin": "235",
+                    "fuel": "Diesel",
+                    "curbWeight": "2235",
+                    "curbWeightMin": "2235"
+                  },
+                  {
+                    "id": "55798",
+                    "update": "2025-11-18 16:10:39",
+                    "brand": "212",
+                    "model": "T01",
+                    "generation": "T01",
+                    "engine": "Changfeng 2.0T GDI (252 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/5500",
+                    "powerHp": "252",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4749",
+                    "width": "1945",
+                    "height": "1999",
+                    "heightMin": "1999",
+                    "rideHeight": "256",
+                    "rideHeightMin": "256",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2265",
+                    "curbWeightMin": "2265"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

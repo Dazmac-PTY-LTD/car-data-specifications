@@ -1,0 +1,89 @@
+{
+  "update": "2020-01-10 12:44:29",
+  "name": "Zacua",
+  "id": "290",
+  "models": {
+    "model": [
+      {
+        "update": "2020-01-13 09:09:48",
+        "name": "MX2",
+        "id": "2772",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MX2",
+              "modelYear": "2017",
+              "id": "7508",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38524",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Zacua",
+                    "model": "MX2",
+                    "generation": "MX2",
+                    "engine": "18 kWh (46 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3065",
+                    "width": "1770",
+                    "height": "1442",
+                    "heightMin": "1442",
+                    "fuel": "Electricity",
+                    "curbWeight": "685",
+                    "curbWeightMin": "685"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-01-13 09:10:59",
+        "name": "MX3",
+        "id": "2773",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MX3",
+              "modelYear": "2017",
+              "id": "7509",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38525",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Zacua",
+                    "model": "MX3",
+                    "generation": "MX3",
+                    "engine": "18 kWh (46 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3065",
+                    "width": "1770",
+                    "height": "1442",
+                    "heightMin": "1442",
+                    "fuel": "Electricity",
+                    "curbWeight": "685",
+                    "curbWeightMin": "685"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

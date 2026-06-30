@@ -1,0 +1,188 @@
+{
+  "update": "2020-02-07 10:47:18",
+  "name": "Felino",
+  "id": "219",
+  "models": {
+    "model": [
+      {
+        "update": "2020-02-21 11:22:02",
+        "name": "cB7",
+        "id": "2327",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "cB7R",
+              "modelYear": "2020",
+              "id": "7548",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39170",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7R",
+                    "engine": "6.2 V8 (525 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "525/6200",
+                    "powerHp": "525",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1135",
+                    "curbWeightMin": "1135"
+                  },
+                  {
+                    "id": "39171",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7R",
+                    "engine": "7.0 V8 (700 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/6700",
+                    "powerHp": "700",
+                    "powerRpm": "6700",
+                    "powerRpmLow": "6700",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1135",
+                    "curbWeightMin": "1135"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "cB7",
+              "modelYear": "2016",
+              "id": "5974",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32653",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7",
+                    "engine": "6.2 V8 (430 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "430/6300",
+                    "powerHp": "430",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  },
+                  {
+                    "id": "32654",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7",
+                    "engine": "6.2 V8 (525 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "525/6300",
+                    "powerHp": "525",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  },
+                  {
+                    "id": "32655",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7",
+                    "engine": "6.8 V8 (630 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "630/6600",
+                    "powerHp": "630",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  },
+                  {
+                    "id": "32656",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Felino",
+                    "model": "cB7",
+                    "generation": "cB7",
+                    "engine": "6.8 V8 (750 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/6800",
+                    "powerHp": "750",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1143",
+                    "heightMin": "1143",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1341 @@
+{
+  "update": "2025-03-06 08:39:24",
+  "name": "Aeolus",
+  "id": "348",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-06 09:55:25",
+        "name": "L7",
+        "id": "3583",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-06 09:55:43",
+              "name": "L7",
+              "modelYear": "2024",
+              "id": "10403",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53830",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "61.2 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1900",
+                    "height": "1617",
+                    "heightMin": "1617",
+                    "fuel": "Electricity",
+                    "curbWeight": "1720",
+                    "curbWeightMin": "1720"
+                  },
+                  {
+                    "id": "53831",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "62.3 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1900",
+                    "height": "1617",
+                    "heightMin": "1617",
+                    "fuel": "Electricity",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "53832",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "1.5T 17 kWh (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154/5200",
+                    "powerHp": "154",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1725",
+                    "curbWeightMin": "1725"
+                  },
+                  {
+                    "id": "53833",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "1.5T 30.3 kWh (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "154/5200",
+                    "powerHp": "154",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1900",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-07 09:08:03",
+        "name": "Haohan",
+        "id": "3584",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-07 09:08:30",
+              "name": "Haohan",
+              "modelYear": "2024",
+              "id": "10405",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53844",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Haohan",
+                    "generation": "Haohan",
+                    "engine": "1.5T (292 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "204/5200",
+                    "powerHp": "204",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1905",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "197",
+                    "rideHeightMin": "197",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1582",
+                    "curbWeightMin": "1582"
+                  },
+                  {
+                    "id": "53876",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Haohan",
+                    "generation": "Haohan",
+                    "engine": "1.5T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/5200",
+                    "powerHp": "204",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4667",
+                    "width": "1905",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1463",
+                    "curbWeightMin": "1463"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-07 10:18:53",
+        "name": "Sky EV01",
+        "id": "3585",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-07 10:19:13",
+              "name": "Sky EV01",
+              "modelYear": "2024",
+              "id": "10406",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53845",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Sky EV01",
+                    "generation": "Sky EV01",
+                    "engine": "50.82 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1613",
+                    "heightMin": "1613",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1618",
+                    "curbWeightMin": "1618"
+                  },
+                  {
+                    "id": "53846",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Sky EV01",
+                    "generation": "Sky EV01",
+                    "engine": "62.36 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1617",
+                    "heightMin": "1617",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1720",
+                    "curbWeightMin": "1720"
+                  },
+                  {
+                    "id": "53847",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Sky EV01",
+                    "generation": "Sky EV01",
+                    "engine": "50.59 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1613",
+                    "heightMin": "1613",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1618",
+                    "curbWeightMin": "1618"
+                  },
+                  {
+                    "id": "53848",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Sky EV01",
+                    "generation": "Sky EV01",
+                    "engine": "61.24 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1613",
+                    "heightMin": "1613",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1712",
+                    "curbWeightMin": "1712"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-10 10:59:59",
+        "name": "E70",
+        "id": "3587",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-11 08:31:20",
+              "name": "E70 Pro (facelift 2022)",
+              "modelYear": "2022",
+              "id": "10411",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53872",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 Pro (facelift 2022)",
+                    "engine": "48.4 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "53873",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 Pro (facelift 2022)",
+                    "engine": "46.9 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1465",
+                    "curbWeightMin": "1465"
+                  },
+                  {
+                    "id": "53874",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 Pro (facelift 2022)",
+                    "engine": "50.23 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1537",
+                    "curbWeightMin": "1537"
+                  },
+                  {
+                    "id": "53875",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 Pro (facelift 2022)",
+                    "engine": "52.9 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1515",
+                    "curbWeightMin": "1515"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-10 12:41:17",
+              "name": "E70 (facelift 2019)",
+              "modelYear": "2019",
+              "id": "10409",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53852",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 (facelift 2019)",
+                    "engine": "48.5 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "fuel": "Electricity",
+                    "curbWeight": "1438-1502",
+                    "curbWeightMin": "1438",
+                    "curbWeightMax": "1502"
+                  },
+                  {
+                    "id": "53853",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70 (facelift 2019)",
+                    "engine": "52.9 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1725",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "fuel": "Electricity",
+                    "curbWeight": "1515",
+                    "curbWeightMin": "1515"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-10 11:00:24",
+              "name": "E70",
+              "modelYear": "2017",
+              "id": "10408",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53850",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70",
+                    "engine": "50.8 kWh (150 Hp) EV 500",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4680",
+                    "width": "1720",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "53851",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "E70",
+                    "generation": "E70",
+                    "engine": "61.3 kWh (150 Hp) EV 600",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4680",
+                    "width": "1720",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-11 13:57:43",
+        "name": "Haoji",
+        "id": "3590",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-11 13:58:44",
+              "name": "Haoji",
+              "modelYear": "2022",
+              "id": "10413",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53877",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Haoji",
+                    "generation": "Haoji",
+                    "engine": "1.5T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/5200-5500",
+                    "powerHp": "204",
+                    "powerRpm": "5200-5500",
+                    "powerRpmLow": "5200",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1910",
+                    "height": "1702",
+                    "heightMin": "1702",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1584-1608",
+                    "curbWeightMin": "1584",
+                    "curbWeightMax": "1608"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-12 11:08:53",
+        "name": "Yixuan",
+        "id": "3593",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-12 11:09:23",
+              "name": "Yixuan",
+              "modelYear": "2020",
+              "id": "10416",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53885",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.0T (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5500",
+                    "powerHp": "125",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1235",
+                    "curbWeightMin": "1235"
+                  },
+                  {
+                    "id": "53886",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.0T (125 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5500",
+                    "powerHp": "125",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1255",
+                    "curbWeightMin": "1255"
+                  },
+                  {
+                    "id": "53887",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.5T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1273",
+                    "curbWeightMin": "1273"
+                  },
+                  {
+                    "id": "53900",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.5 (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/6000",
+                    "powerHp": "125",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1203",
+                    "curbWeightMin": "1203"
+                  },
+                  {
+                    "id": "53901",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.5 (125 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/6000",
+                    "powerHp": "125",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1232",
+                    "curbWeightMin": "1232"
+                  },
+                  {
+                    "id": "53902",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Yixuan",
+                    "generation": "Yixuan",
+                    "engine": "1.5T (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5200",
+                    "powerHp": "197",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1253",
+                    "curbWeightMin": "1253"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-24 10:16:07",
+        "name": "Yixuan Max",
+        "id": "3625",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-24 10:16:47",
+              "name": "Yixuan Max",
+              "modelYear": "2021",
+              "id": "10459",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53969",
+                    "update": "2025-03-24 16:24:37",
+                    "brand": "Aeolus",
+                    "model": "Yixuan Max",
+                    "generation": "Yixuan Max",
+                    "engine": "1.5T (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5200",
+                    "powerHp": "190",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4797",
+                    "width": "1870",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1466",
+                    "curbWeightMin": "1466"
+                  },
+                  {
+                    "id": "53970",
+                    "update": "2025-03-24 16:24:37",
+                    "brand": "Aeolus",
+                    "model": "Yixuan Max",
+                    "generation": "Yixuan Max",
+                    "engine": "1.5T (205 Hp) Full Hybrid Multi-Mode",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "163/5200",
+                    "powerHp": "163",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4797",
+                    "width": "1870",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-24 12:25:58",
+        "name": "AX7",
+        "id": "3626",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-25 12:45:43",
+              "name": "AX7 II Plus/Mach Edition (facelift 2022)",
+              "modelYear": "2022",
+              "id": "10463",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53980",
+                    "update": "2025-03-25 16:16:14",
+                    "brand": "Aeolus",
+                    "model": "AX7",
+                    "generation": "AX7 II Plus/Mach Edition (facelift 2022)",
+                    "engine": "1.5T (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5200",
+                    "powerHp": "190",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4660",
+                    "width": "1880",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-25 12:40:10",
+              "name": "AX7 II Pro (facelift 2021)",
+              "modelYear": "2021",
+              "id": "10462",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53979",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "AX7",
+                    "generation": "AX7 II Pro (facelift 2021)",
+                    "engine": "1.6T (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1880",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-25 11:09:51",
+              "name": "AX7 II",
+              "modelYear": "2019",
+              "id": "10460",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53976",
+                    "update": "2025-03-25 16:16:14",
+                    "brand": "Aeolus",
+                    "model": "AX7",
+                    "generation": "AX7 II",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4696",
+                    "width": "1850",
+                    "height": "1712",
+                    "heightMin": "1712",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1542",
+                    "curbWeightMin": "1542"
+                  },
+                  {
+                    "id": "53977",
+                    "update": "2025-03-25 16:16:14",
+                    "brand": "Aeolus",
+                    "model": "AX7",
+                    "generation": "AX7 II",
+                    "engine": "1.6T (167 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "167/6000",
+                    "powerHp": "167",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4696",
+                    "width": "1850",
+                    "height": "1712",
+                    "heightMin": "1712",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1565-1585",
+                    "curbWeightMin": "1565",
+                    "curbWeightMax": "1585"
+                  },
+                  {
+                    "id": "53978",
+                    "update": "2025-03-25 16:16:14",
+                    "brand": "Aeolus",
+                    "model": "AX7",
+                    "generation": "AX7 II",
+                    "engine": "1.6T (170 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4645",
+                    "width": "1880",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-25 15:03:09",
+        "name": "Shine",
+        "id": "3627",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-25 15:15:34",
+              "name": "Shine",
+              "modelYear": "2024",
+              "id": "10464",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54059",
+                    "update": "2025-04-02 14:22:10",
+                    "brand": "Aeolus",
+                    "model": "Shine",
+                    "generation": "Shine",
+                    "engine": "1.5 (117 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117",
+                    "powerHp": "117",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54060",
+                    "update": "2025-04-02 14:22:10",
+                    "brand": "Aeolus",
+                    "model": "Shine",
+                    "generation": "Shine",
+                    "engine": "1.5 (117 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117",
+                    "powerHp": "117",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54061",
+                    "update": "2025-04-02 14:22:10",
+                    "brand": "Aeolus",
+                    "model": "Shine",
+                    "generation": "Shine",
+                    "engine": "1.5 Turbo (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190",
+                    "powerHp": "190",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1812",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-02 12:44:27",
+        "name": "Shine Max",
+        "id": "3632",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-02 12:44:51",
+              "name": "Shine Max",
+              "modelYear": "2024",
+              "id": "10477",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54062",
+                    "update": "2025-04-02 14:22:10",
+                    "brand": "Aeolus",
+                    "model": "Shine Max",
+                    "generation": "Shine Max",
+                    "engine": "1.5T (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190",
+                    "powerHp": "190",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4797",
+                    "width": "1870",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1486",
+                    "curbWeightMin": "1486"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-03 10:45:40",
+        "name": "Shine GS",
+        "id": "3633",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-03 10:46:02",
+              "name": "Shine GS",
+              "modelYear": "2024",
+              "id": "10479",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54071",
+                    "update": "2025-04-03 16:16:56",
+                    "brand": "Aeolus",
+                    "model": "Shine GS",
+                    "generation": "Shine GS",
+                    "engine": "1.5 (117 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117",
+                    "powerHp": "117",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1830",
+                    "height": "1610",
+                    "heightMin": "1610",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54072",
+                    "update": "2025-04-03 16:16:56",
+                    "brand": "Aeolus",
+                    "model": "Shine GS",
+                    "generation": "Shine GS",
+                    "engine": "1.5T (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190",
+                    "powerHp": "190",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1830",
+                    "height": "1610",
+                    "heightMin": "1610",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-03 11:56:51",
+        "name": "Yixuan GS",
+        "id": "3634",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-03 12:00:59",
+              "name": "Yixuan GS",
+              "modelYear": "2020",
+              "id": "10480",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54073",
+                    "update": "2025-04-03 16:16:56",
+                    "brand": "Aeolus",
+                    "model": "Yixuan GS",
+                    "generation": "Yixuan GS",
+                    "engine": "1.5T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4610",
+                    "width": "1830",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1345",
+                    "curbWeightMin": "1345"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-03 14:06:25",
+        "name": "Huge",
+        "id": "3635",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-03 14:07:53",
+              "name": "Huge",
+              "modelYear": "2022",
+              "id": "10481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54074",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Aeolus",
+                    "model": "Huge",
+                    "generation": "Huge",
+                    "engine": "1.5T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/5500",
+                    "powerHp": "204",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1910",
+                    "height": "1702",
+                    "heightMin": "1702",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1608",
+                    "curbWeightMin": "1608"
+                  },
+                  {
+                    "id": "54082",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Aeolus",
+                    "model": "Huge",
+                    "generation": "Huge",
+                    "engine": "1.5T (245 Hp) Full Hybrid Multi-Mode",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "167",
+                    "powerHp": "167",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1910",
+                    "height": "1702",
+                    "heightMin": "1702",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1697",
+                    "curbWeightMin": "1697"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-04 14:04:53",
+        "name": "Mage",
+        "id": "3636",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-04 14:05:21",
+              "name": "Mage",
+              "modelYear": "2024",
+              "id": "10485",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54080",
+                    "update": "2025-04-04 16:16:24",
+                    "brand": "Aeolus",
+                    "model": "Mage",
+                    "generation": "Mage",
+                    "engine": "1.5T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1905",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "202",
+                    "rideHeightMin": "202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54081",
+                    "update": "2025-04-04 16:16:24",
+                    "brand": "Aeolus",
+                    "model": "Mage",
+                    "generation": "Mage",
+                    "engine": "1.5T (292 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1905",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "202",
+                    "rideHeightMin": "202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

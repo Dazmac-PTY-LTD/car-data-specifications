@@ -1,0 +1,47 @@
+{
+  "update": "2025-09-12 13:10:02",
+  "name": "Scout",
+  "id": "371",
+  "models": {
+    "model": [
+      {
+        "update": "2025-11-04 09:09:10",
+        "name": "Terra",
+        "id": "3862",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-04 09:09:34",
+              "name": "Terra",
+              "modelYear": "2027",
+              "id": "10906",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-04 09:28:26",
+        "name": "Traveler",
+        "id": "3863",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-04 09:28:45",
+              "name": "Traveler",
+              "modelYear": "2027",
+              "id": "10907",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "update": "2020-10-23 16:39:42",
+  "name": "Zenvo",
+  "id": "203",
+  "models": {
+    "model": [
+      {
+        "update": "2017-10-17 14:17:25",
+        "name": "TS1",
+        "id": "2303",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TS1",
+              "modelYear": "2017",
+              "id": "5912",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31864",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Zenvo",
+                    "model": "TS1",
+                    "generation": "TS1",
+                    "engine": "5.8 V8 (1179 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1179/7700",
+                    "powerHp": "1179",
+                    "powerRpm": "7700",
+                    "powerRpmLow": "7700",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4680",
+                    "width": "2155",
+                    "height": "1198",
+                    "heightMin": "1198",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1710",
+                    "curbWeightMin": "1710"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-21 15:41:53",
+        "name": "ST1",
+        "id": "2305",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "ST1",
+              "modelYear": "2009",
+              "id": "5920",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31865",
+                    "update": "2023-08-08 12:51:00",
+                    "brand": "Zenvo",
+                    "model": "ST1",
+                    "generation": "ST1",
+                    "engine": "6.8 V8 (1102 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1102/6900",
+                    "powerHp": "1102",
+                    "powerRpm": "6900",
+                    "powerRpmLow": "6900",
+                    "yearstart": "2009",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4665",
+                    "width": "2041",
+                    "height": "1198",
+                    "heightMin": "1198",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1688",
+                    "curbWeightMin": "1688"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-23 16:39:42",
+        "name": "TSR-S",
+        "id": "2375",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TSR-S",
+              "modelYear": "2018",
+              "id": "6154",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32813",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Zenvo",
+                    "model": "TSR-S",
+                    "generation": "TSR-S",
+                    "engine": "5.8 V8 (1177 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1177/8500",
+                    "powerHp": "1177",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4815",
+                    "width": "2038",
+                    "height": "1198",
+                    "heightMin": "1198",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1495",
+                    "curbWeightMin": "1495"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-19 14:46:04",
+        "name": "TSR",
+        "id": "3040",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-19 14:48:20",
+              "name": "TSR",
+              "modelYear": "2016",
+              "id": "8705",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45097",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Zenvo",
+                    "model": "TSR",
+                    "generation": "TSR",
+                    "engine": "5.8 V8 (1104 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1104/7100",
+                    "powerHp": "1104",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4680",
+                    "width": "2115",
+                    "height": "1198",
+                    "heightMin": "1198",
+                    "rideHeight": "110-160",
+                    "rideHeightMin": "110",
+                    "rideHeightMax": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-08-21 10:24:44",
+        "name": "Aurora",
+        "id": "3308",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-08-21 10:25:11",
+              "name": "Aurora Tur",
+              "modelYear": "2026",
+              "id": "9598",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49114",
+                    "update": "2023-09-28 14:45:13",
+                    "brand": "Zenvo",
+                    "model": "Aurora",
+                    "generation": "Aurora Tur",
+                    "engine": "6.6 V12 (1850 Hp) Hybrid 4WD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "1250",
+                    "powerHp": "1250",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4819",
+                    "width": "2020",
+                    "height": "1117",
+                    "heightMin": "1117",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-08-21 12:14:14",
+        "name": "TSR-GT",
+        "id": "3309",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-08-21 12:14:44",
+              "name": "TSR-GT",
+              "modelYear": "2023",
+              "id": "9599",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49113",
+                    "update": "2023-08-21 16:16:12",
+                    "brand": "Zenvo",
+                    "model": "TSR-GT",
+                    "generation": "TSR-GT",
+                    "engine": "5.8 V8 (1360 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1360",
+                    "powerHp": "1360",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4815",
+                    "width": "2038",
+                    "height": "1198",
+                    "heightMin": "1198",
+                    "rideHeight": "95-145",
+                    "rideHeightMin": "95",
+                    "rideHeightMax": "145",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": "1495",
+                    "curbWeightMin": "1495"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "update": "2020-11-23 08:43:51",
+  "name": "Lvchi",
+  "id": "233",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-23 08:43:51",
+        "name": "Venere",
+        "id": "2381",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Venere",
+              "modelYear": "2019",
+              "id": "6168",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32844",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Lvchi",
+                    "model": "Venere",
+                    "generation": "Venere",
+                    "engine": "100 kWh (1006 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5150",
+                    "width": "2120",
+                    "height": "1418",
+                    "heightMin": "1418",
+                    "fuel": "Electricity",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

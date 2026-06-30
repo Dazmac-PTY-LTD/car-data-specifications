@@ -1,0 +1,397 @@
+{
+  "update": "2019-08-13 14:46:22",
+  "name": "Wiesmann",
+  "id": "105",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-13 14:46:22",
+        "name": "Roadster",
+        "id": "1068",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roadster MF5",
+              "modelYear": "2009",
+              "id": "5063",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25344",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF5",
+                    "engine": "4.4 V8 (555 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "555/5750-6250",
+                    "powerHp": "555",
+                    "powerRpm": "5750-6250",
+                    "powerRpmLow": "5750",
+                    "powerRpmHigh": "6250",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4220",
+                    "width": "1950",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roadster MF4",
+              "modelYear": "2009",
+              "id": "5062",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25234",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF4",
+                    "engine": "S 4.0 V8 (420 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "420/8300",
+                    "powerHp": "420",
+                    "powerRpm": "8300",
+                    "powerRpmLow": "8300",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "25376",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF4",
+                    "engine": "S 4.0 V8 (420 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "420/8300",
+                    "powerHp": "420",
+                    "powerRpm": "8300",
+                    "powerRpmLow": "8300",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "25599",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF4",
+                    "engine": "4.4 V8 (407 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "407/5500-6400",
+                    "powerHp": "407",
+                    "powerRpm": "5500-6400",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6400",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roadster MF3",
+              "modelYear": "2005",
+              "id": "5061",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10855",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF3",
+                    "engine": "3.2i 24V (325 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "325/7400",
+                    "powerHp": "325",
+                    "powerRpm": "7400",
+                    "powerRpmLow": "7400",
+                    "yearstart": "2005",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3860",
+                    "width": "1750",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "10856",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster MF3",
+                    "engine": "3.0i 24V (231 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "231/5900",
+                    "powerHp": "231",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2005",
+                    "yearstop": "2014",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3860",
+                    "width": "1750",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roadster",
+              "modelYear": "1993",
+              "id": "2214",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10853",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster",
+                    "engine": "2.8i 24V (193 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "193/5300",
+                    "powerHp": "193",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1993",
+                    "yearstop": "2005",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3860",
+                    "width": "1750",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "995",
+                    "curbWeightMin": "995"
+                  },
+                  {
+                    "id": "10854",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "Roadster",
+                    "generation": "Roadster",
+                    "engine": "3.2i 24V (321 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "321/7400",
+                    "powerHp": "321",
+                    "powerRpm": "7400",
+                    "powerRpmLow": "7400",
+                    "yearstart": "1993",
+                    "yearstop": "2005",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3860",
+                    "width": "1750",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-21 15:41:53",
+        "name": "GT",
+        "id": "2164",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT MF5",
+              "modelYear": "2009",
+              "id": "5065",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25235",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "GT",
+                    "generation": "GT MF5",
+                    "engine": "4.4 V8 (555 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "555/5750-6250",
+                    "powerHp": "555",
+                    "powerRpm": "5750-6250",
+                    "powerRpmLow": "5750",
+                    "powerRpmHigh": "6250",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4220",
+                    "width": "1950",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT MF4",
+              "modelYear": "2003",
+              "id": "5064",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "25217",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "GT",
+                    "generation": "GT MF4",
+                    "engine": "S 4.0 V8 (420 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "420/8300",
+                    "powerHp": "420",
+                    "powerRpm": "8300",
+                    "powerRpmLow": "8300",
+                    "yearstart": "2003",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "25254",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "GT",
+                    "generation": "GT MF4",
+                    "engine": "S 4.0 V8 (420 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "420/8300",
+                    "powerHp": "420",
+                    "powerRpm": "8300",
+                    "powerRpmLow": "8300",
+                    "yearstart": "2003",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "25359",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Wiesmann",
+                    "model": "GT",
+                    "generation": "GT MF4",
+                    "engine": "4.4 V8 (407 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "407/5500-6400",
+                    "powerHp": "407",
+                    "powerRpm": "5500-6400",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6400",
+                    "yearstart": "2003",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1880",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

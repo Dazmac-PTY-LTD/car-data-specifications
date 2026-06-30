@@ -1,0 +1,77 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Elemental",
+  "id": "257",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 11:25:26",
+        "name": "Rp1",
+        "id": "2538",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Rp1",
+              "modelYear": "2017",
+              "id": "6656",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34808",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Elemental",
+                    "model": "Rp1",
+                    "generation": "Rp1",
+                    "engine": "2.0 Ecoboost (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280",
+                    "powerHp": "280",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3740",
+                    "width": "1775",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "595",
+                    "curbWeightMin": "595"
+                  },
+                  {
+                    "id": "34809",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Elemental",
+                    "model": "Rp1",
+                    "generation": "Rp1",
+                    "engine": "2.3 Ecoboost (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320",
+                    "powerHp": "320",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3740",
+                    "width": "1775",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "595",
+                    "curbWeightMin": "595"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

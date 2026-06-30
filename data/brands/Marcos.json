@@ -1,0 +1,162 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "Marcos",
+  "id": "93",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-03 12:05:47",
+        "name": "LM 400",
+        "id": "991",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 15:39:19",
+              "name": "LM 400",
+              "modelYear": "1997",
+              "id": "2086",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10172",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Marcos",
+                    "model": "LM 400",
+                    "generation": "LM 400",
+                    "engine": "4.6 V8 (250 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "250",
+                    "powerHp": "250",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:06:48",
+        "name": "LM 500",
+        "id": "992",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 15:41:45",
+              "name": "LM 500",
+              "modelYear": "1996",
+              "id": "2087",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10173",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Marcos",
+                    "model": "LM 500",
+                    "generation": "LM 500",
+                    "engine": "5.0 V8 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320",
+                    "powerHp": "320",
+                    "yearstart": "1996",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:16:35",
+        "name": "Mantis",
+        "id": "993",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 16:05:44",
+              "name": "Mantis",
+              "modelYear": "1997",
+              "id": "2088",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10174",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Marcos",
+                    "model": "Mantis",
+                    "generation": "Mantis",
+                    "engine": "2.0 T (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200",
+                    "powerHp": "200",
+                    "yearstart": "1998",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 12:26:32",
+        "name": "TS",
+        "id": "994",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TS 250",
+              "modelYear": "2002",
+              "id": "2089",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10175",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Marcos",
+                    "model": "TS",
+                    "generation": "TS 250",
+                    "engine": "2.5 i V6 24V (180 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180/6000",
+                    "powerHp": "180",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2002",
+                    "yearstop": "2004",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4005",
+                    "width": "1680",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

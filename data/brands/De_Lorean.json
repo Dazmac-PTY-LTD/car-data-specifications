@@ -1,0 +1,104 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "De Lorean",
+  "id": "17",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-07 15:08:43",
+        "name": "Dmc-12",
+        "id": "230",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Dmc-12",
+              "modelYear": "1981",
+              "id": "481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1724",
+                    "update": "2023-08-18 11:54:18",
+                    "brand": "De Lorean",
+                    "model": "Dmc-12",
+                    "generation": "Dmc-12",
+                    "engine": "2.9 V6 (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/5500",
+                    "powerHp": "132",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1981",
+                    "yearstop": "1983",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4267",
+                    "width": "1989",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1233",
+                    "curbWeightMin": "1233"
+                  },
+                  {
+                    "id": "28402",
+                    "update": "2023-08-18 11:54:16",
+                    "brand": "De Lorean",
+                    "model": "Dmc-12",
+                    "generation": "Dmc-12",
+                    "engine": "2.9 V6 (145 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "145/5500",
+                    "powerHp": "145",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1981",
+                    "yearstop": "1982",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4267",
+                    "width": "1989",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1233",
+                    "curbWeightMin": "1233"
+                  },
+                  {
+                    "id": "28522",
+                    "update": "2023-08-18 11:54:17",
+                    "brand": "De Lorean",
+                    "model": "Dmc-12",
+                    "generation": "Dmc-12",
+                    "engine": "2.9 V6 (132 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/5500",
+                    "powerHp": "132",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1981",
+                    "yearstop": "1983",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4267",
+                    "width": "1989",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1233",
+                    "curbWeightMin": "1233"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

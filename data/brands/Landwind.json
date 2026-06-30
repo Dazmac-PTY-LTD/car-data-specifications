@@ -1,0 +1,304 @@
+{
+  "update": "2020-12-02 11:20:29",
+  "name": "Landwind",
+  "id": "53",
+  "models": {
+    "model": [
+      {
+        "update": "2020-12-02 11:20:29",
+        "name": "SUV",
+        "id": "610",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SUV",
+              "modelYear": "2006",
+              "id": "1305",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5781",
+                    "update": "2023-06-15 08:48:03",
+                    "brand": "Landwind",
+                    "model": "SUV",
+                    "generation": "SUV",
+                    "engine": "2.4i (126 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1800",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1885",
+                    "curbWeightMin": "1885"
+                  },
+                  {
+                    "id": "5782",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Landwind",
+                    "model": "SUV",
+                    "generation": "SUV",
+                    "engine": "2.8d (92 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92/3600",
+                    "powerHp": "92",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1800",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": "1935",
+                    "curbWeightMin": "1935"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 16:03:43",
+        "name": "X7",
+        "id": "2392",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X7",
+              "modelYear": "2015",
+              "id": "6187",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32915",
+                    "update": "2023-08-08 11:31:32",
+                    "brand": "Landwind",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "2.0 (190 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1910",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "168",
+                    "rideHeightMin": "168",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 16:07:13",
+        "name": "Xiaoyao",
+        "id": "2393",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Xiaoyao",
+              "modelYear": "2018",
+              "id": "6189",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32921",
+                    "update": "2023-08-08 11:54:38",
+                    "brand": "Landwind",
+                    "model": "Xiaoyao",
+                    "generation": "Xiaoyao",
+                    "engine": "1.5 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4439",
+                    "width": "1835",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "32922",
+                    "update": "2022-10-06 18:11:19",
+                    "brand": "Landwind",
+                    "model": "Xiaoyao",
+                    "generation": "Xiaoyao",
+                    "engine": "1.5 (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5400-5700",
+                    "powerHp": "163",
+                    "powerRpm": "5400-5700",
+                    "powerRpmLow": "5400",
+                    "powerRpmHigh": "5700",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4439",
+                    "width": "1835",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "32923",
+                    "update": "2022-10-06 18:11:19",
+                    "brand": "Landwind",
+                    "model": "Xiaoyao",
+                    "generation": "Xiaoyao",
+                    "engine": "1.5 (163 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5400-5700",
+                    "powerHp": "163",
+                    "powerRpm": "5400-5700",
+                    "powerRpmLow": "5400",
+                    "powerRpmHigh": "5700",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4439",
+                    "width": "1835",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 16:03:21",
+        "name": "X5",
+        "id": "2394",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X5",
+              "modelYear": "2013",
+              "id": "6190",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32918",
+                    "update": "2023-08-08 11:31:32",
+                    "brand": "Landwind",
+                    "model": "X5",
+                    "generation": "X5",
+                    "engine": "2.0 (190 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4568",
+                    "width": "1855",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  },
+                  {
+                    "id": "32919",
+                    "update": "2023-08-08 11:31:32",
+                    "brand": "Landwind",
+                    "model": "X5",
+                    "generation": "X5",
+                    "engine": "2.0 (190 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4568",
+                    "width": "1855",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

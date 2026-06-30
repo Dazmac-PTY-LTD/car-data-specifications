@@ -1,0 +1,557 @@
+{
+  "update": "2023-07-04 11:40:33",
+  "name": "Avatr",
+  "id": "330",
+  "models": {
+    "model": [
+      {
+        "update": "2023-07-04 11:48:04",
+        "name": "11",
+        "id": "3290",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-04 11:48:26",
+              "name": "11",
+              "modelYear": "2022",
+              "id": "9566",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49002",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "11",
+                    "generation": "11",
+                    "engine": "90 kWh (313 Hp) Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4880",
+                    "width": "1970",
+                    "height": "1601",
+                    "heightMin": "1601",
+                    "fuel": "Electricity",
+                    "curbWeight": "2160",
+                    "curbWeightMin": "2160"
+                  },
+                  {
+                    "id": "49003",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "11",
+                    "generation": "11",
+                    "engine": "116 kWh (313 Hp) Ultra Long Range Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4880",
+                    "width": "1970",
+                    "height": "1601",
+                    "heightMin": "1601",
+                    "fuel": "Electricity",
+                    "curbWeight": "2240",
+                    "curbWeightMin": "2240"
+                  },
+                  {
+                    "id": "49004",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "11",
+                    "generation": "11",
+                    "engine": "90 kWh (578 Hp) Long Range Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4880",
+                    "width": "1970",
+                    "height": "1601",
+                    "heightMin": "1601",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  },
+                  {
+                    "id": "49005",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "11",
+                    "generation": "11",
+                    "engine": "116 kWh (578 Hp) Ultra Long Range Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "4880",
+                    "width": "1970",
+                    "height": "1601",
+                    "heightMin": "1601",
+                    "fuel": "Electricity",
+                    "curbWeight": "2365",
+                    "curbWeightMin": "2365"
+                  },
+                  {
+                    "id": "54955",
+                    "update": "2025-07-28 16:16:23",
+                    "brand": "Avatr",
+                    "model": "11",
+                    "generation": "11",
+                    "engine": "1.5T 39.05 kWh (314 Hp) REEV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4895",
+                    "width": "1970",
+                    "height": "1601",
+                    "heightMin": "1601",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2240",
+                    "curbWeightMin": "2240"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-12 09:30:43",
+        "name": "12",
+        "id": "3450",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-07 13:58:10",
+              "name": "012",
+              "modelYear": "2025",
+              "id": "10913",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55730",
+                    "update": "2025-11-07 16:18:22",
+                    "brand": "Avatr",
+                    "model": "12",
+                    "generation": "012",
+                    "engine": "Limited Edition 93.4 kWh (547 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5020",
+                    "width": "1999",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "2425",
+                    "curbWeightMin": "2425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-06-12 09:32:23",
+              "name": "12",
+              "modelYear": "2023",
+              "id": "10052",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52006",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "12",
+                    "generation": "12",
+                    "engine": "94.5 kWh (313 Hp) Single Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5020",
+                    "width": "1999",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "rideHeight": "285",
+                    "rideHeightMin": "285",
+                    "fuel": "Electricity",
+                    "curbWeight": "2205",
+                    "curbWeightMin": "2205"
+                  },
+                  {
+                    "id": "52007",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Avatr",
+                    "model": "12",
+                    "generation": "12",
+                    "engine": "94.5 kWh (578 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5020",
+                    "width": "1999",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "rideHeight": "140-285",
+                    "rideHeightMin": "140",
+                    "rideHeightMax": "285",
+                    "fuel": "Electricity",
+                    "curbWeight": "2325",
+                    "curbWeightMin": "2325"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-03 09:59:36",
+        "name": "07",
+        "id": "3789",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-03 09:59:47",
+              "name": "07",
+              "modelYear": "2024",
+              "id": "10779",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55270",
+                    "update": "2025-09-03 14:06:19",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "1.5T 39.05 kWh (314 Hp) REEV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1980",
+                    "height": "1620-1635",
+                    "heightMin": "1620",
+                    "heightMax": "1635",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2240",
+                    "curbWeightMin": "2240"
+                  },
+                  {
+                    "id": "55271",
+                    "update": "2025-09-03 14:06:19",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "1.5T 39.05 kWh (492 Hp) REEV AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1980",
+                    "height": "1610-1620",
+                    "heightMin": "1610",
+                    "heightMax": "1620",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2326",
+                    "curbWeightMin": "2326"
+                  },
+                  {
+                    "id": "55272",
+                    "update": "2025-09-03 14:06:19",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "EV 82.16 kWh (343 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1980",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Electricity",
+                    "curbWeight": "2315",
+                    "curbWeightMin": "2315"
+                  },
+                  {
+                    "id": "55273",
+                    "update": "2025-09-03 14:06:19",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "EV 82.16 kWh (598 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1980",
+                    "height": "1610-1620",
+                    "heightMin": "1610",
+                    "heightMax": "1620",
+                    "fuel": "Electricity",
+                    "curbWeight": "2434",
+                    "curbWeightMin": "2434"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-03 12:39:57",
+        "name": "06",
+        "id": "3790",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-28 09:20:32",
+              "name": "06T",
+              "modelYear": "2026",
+              "id": "11188",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56913",
+                    "update": "2026-04-28 16:41:42",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06T",
+                    "engine": "EV 75.46 kWh (612 Hp) Dual Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Electricity",
+                    "curbWeight": "2200",
+                    "curbWeightMin": "2200"
+                  },
+                  {
+                    "id": "56914",
+                    "update": "2026-04-28 16:41:42",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06T",
+                    "engine": "EV 89.33 kWh (683 Hp) Dual Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1455-1475",
+                    "heightMin": "1455",
+                    "heightMax": "1475",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  },
+                  {
+                    "id": "56915",
+                    "update": "2026-04-28 16:41:42",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06T",
+                    "engine": "EV 89.33 kWh (968 Hp) Tri Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1455",
+                    "heightMin": "1455",
+                    "fuel": "Electricity",
+                    "curbWeight": "2385",
+                    "curbWeightMin": "2385"
+                  },
+                  {
+                    "id": "56916",
+                    "update": "2026-04-28 16:45:37",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06T",
+                    "engine": "1.5T 46.65 kWh (503 Hp) REEV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5000",
+                    "powerHp": "156",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2255",
+                    "curbWeightMin": "2255"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-03 12:41:21",
+              "name": "06",
+              "modelYear": "2025",
+              "id": "10781",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55274",
+                    "update": "2026-04-28 09:23:24",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06",
+                    "engine": "EV 72.88 kWh (343 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4855",
+                    "width": "1960",
+                    "height": "1467",
+                    "heightMin": "1467",
+                    "fuel": "Electricity",
+                    "curbWeight": "2210",
+                    "curbWeightMin": "2210"
+                  },
+                  {
+                    "id": "55275",
+                    "update": "2026-04-28 16:41:36",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06",
+                    "engine": "EV 72.88 kWh (598 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4855",
+                    "width": "1960",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "2320",
+                    "curbWeightMin": "2320"
+                  },
+                  {
+                    "id": "55289",
+                    "update": "2025-09-05 16:08:08",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06",
+                    "engine": "1.5T 31.7 kWh (314 Hp) REEV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4855",
+                    "width": "1960",
+                    "height": "1450-1467",
+                    "heightMin": "1450",
+                    "heightMax": "1467",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2120",
+                    "curbWeightMin": "2120"
+                  },
+                  {
+                    "id": "55290",
+                    "update": "2025-09-05 16:08:08",
+                    "brand": "Avatr",
+                    "model": "06",
+                    "generation": "06",
+                    "engine": "1.5T 45.06 kWh (314 Hp) REEV",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4855",
+                    "width": "1960",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 11:35:38",
+        "name": "Vision Xpectra",
+        "id": "3995",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2026-05-13 11:36:18",
+              "name": "Vision Xpectra Concept",
+              "modelYear": "2025",
+              "id": "11221",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

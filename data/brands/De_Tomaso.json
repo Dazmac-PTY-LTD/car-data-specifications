@@ -1,0 +1,567 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "De Tomaso",
+  "id": "22",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:23:33",
+        "name": "Bigua",
+        "id": "270",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Bigua",
+              "modelYear": "1996",
+              "id": "583",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2633",
+                    "update": "2023-08-18 10:46:52",
+                    "brand": "De Tomaso",
+                    "model": "Bigua",
+                    "generation": "Bigua",
+                    "engine": "4.6 i V8 32V (304 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "304/6500",
+                    "powerHp": "304",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1991",
+                    "yearstop": "1998",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4194",
+                    "width": "1900",
+                    "height": "1275",
+                    "heightMin": "1275",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 13:47:59",
+        "name": "Guara",
+        "id": "271",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Guara",
+              "modelYear": "1993",
+              "id": "584",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2634",
+                    "update": "2023-08-18 11:33:52",
+                    "brand": "De Tomaso",
+                    "model": "Guara",
+                    "generation": "Guara",
+                    "engine": "4.0 i V8 32V (283 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "283/5500",
+                    "powerHp": "283",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1993",
+                    "yearstop": "2001",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "2030",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  },
+                  {
+                    "id": "2635",
+                    "update": "2023-08-18 11:33:53",
+                    "brand": "De Tomaso",
+                    "model": "Guara",
+                    "generation": "Guara",
+                    "engine": "4.0 i V8 32V (304 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "304/5500",
+                    "powerHp": "304",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1993",
+                    "yearstop": "2001",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "2030",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "985",
+                    "curbWeightMin": "985"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-02-16 09:35:39",
+              "name": "Guara Barchetta",
+              "modelYear": "1993",
+              "id": "585",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2636",
+                    "update": "2023-08-18 11:33:52",
+                    "brand": "De Tomaso",
+                    "model": "Guara",
+                    "generation": "Guara Barchetta",
+                    "engine": "4.0 i V8 32V (304 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "304/5500",
+                    "powerHp": "304",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1993",
+                    "yearstop": "2001",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "2030",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:30:24",
+        "name": "Mangusta",
+        "id": "272",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Mangusta II",
+              "modelYear": "1996",
+              "id": "586",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2637",
+                    "update": "2023-08-18 11:33:51",
+                    "brand": "De Tomaso",
+                    "model": "Mangusta",
+                    "generation": "Mangusta II",
+                    "engine": "4.8 i V8 32V (305 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "305/6200",
+                    "powerHp": "305",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "1996",
+                    "yearstop": "2001",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4275",
+                    "width": "1830",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1185",
+                    "curbWeightMin": "1185"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:31:23",
+        "name": "Vallelunga",
+        "id": "273",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 14:47:36",
+              "name": "Vallelunga",
+              "modelYear": "1963",
+              "id": "587",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2638",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "De Tomaso",
+                    "model": "Vallelunga",
+                    "generation": "Vallelunga",
+                    "engine": "1500 (135 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "135/",
+                    "powerHp": "135",
+                    "yearstart": "1964",
+                    "yearstop": "1968",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-07 09:57:31",
+        "name": "Pantera",
+        "id": "3730",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-08 10:25:24",
+              "name": "Pantera Si",
+              "modelYear": "1990",
+              "id": "10661",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54829",
+                    "update": "2025-07-08 16:16:32",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera Si",
+                    "engine": "5.0 V8 (309 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "309/5800",
+                    "powerHp": "309",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1990",
+                    "yearstop": "1992",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4370",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1497",
+                    "curbWeightMin": "1497"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-07 15:54:13",
+              "name": "Pantera GT5",
+              "modelYear": "1980",
+              "id": "10656",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54815",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera GT5",
+                    "engine": "5.8 V8 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/6000",
+                    "powerHp": "350",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1980",
+                    "yearstop": "1989",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4270",
+                    "width": "1970",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "rideHeight": "146",
+                    "rideHeightMin": "146",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1474",
+                    "curbWeightMin": "1474"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-07 15:54:13",
+              "name": "Pantera GTS",
+              "modelYear": "1972",
+              "id": "10659",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54825",
+                    "update": "2025-07-08 16:16:31",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera GTS",
+                    "engine": "5.8 V8 (350 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "350/6000",
+                    "powerHp": "350",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1972",
+                    "yearstop": "1974",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4270",
+                    "width": "1900",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "54826",
+                    "update": "2025-07-08 16:16:32",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera GTS",
+                    "engine": "5.8 V8 (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270/5400",
+                    "powerHp": "270",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1973",
+                    "yearstop": "1974",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4453",
+                    "width": "1811",
+                    "height": "1128",
+                    "heightMin": "1128",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1488",
+                    "curbWeightMin": "1488"
+                  },
+                  {
+                    "id": "54827",
+                    "update": "2025-07-08 16:16:32",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera GTS",
+                    "engine": "5.8 V8 (290 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "290/5800",
+                    "powerHp": "290",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1978",
+                    "yearstop": "1988",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4270",
+                    "width": "1830",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "54828",
+                    "update": "2025-07-08 16:16:32",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera GTS",
+                    "engine": "5.8 V8 (212 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "212/4200",
+                    "powerHp": "212",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1988",
+                    "yearstop": "1990",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4450",
+                    "width": "1970",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-07 12:27:59",
+              "name": "Pantera L",
+              "modelYear": "1970",
+              "id": "10654",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54810",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera L",
+                    "engine": "5.8 V8 (314 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "314/5400",
+                    "powerHp": "314",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4242",
+                    "width": "1702",
+                    "height": "1102",
+                    "heightMin": "1102",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1297",
+                    "curbWeightMin": "1297"
+                  },
+                  {
+                    "id": "54811",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera L",
+                    "engine": "5.8 V8 (330 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "330/5400",
+                    "powerHp": "330",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1971",
+                    "yearstop": "1990",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4270",
+                    "width": "1830",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "54812",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera L",
+                    "engine": "5.8 V8 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/5400",
+                    "powerHp": "300",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1974",
+                    "yearstop": "1978",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4270",
+                    "width": "1830",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "54813",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera L",
+                    "engine": "5.0 V8 (248 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "248/5000",
+                    "powerHp": "248",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4365",
+                    "width": "1980",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  },
+                  {
+                    "id": "54814",
+                    "update": "2025-07-07 16:16:05",
+                    "brand": "De Tomaso",
+                    "model": "Pantera",
+                    "generation": "Pantera L",
+                    "engine": "5.0 V8 (305 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "305/5800",
+                    "powerHp": "305",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1990",
+                    "yearstop": "1991",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4365",
+                    "width": "1980",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

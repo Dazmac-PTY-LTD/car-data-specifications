@@ -1,0 +1,456 @@
+{
+  "update": "2019-08-27 15:15:08",
+  "name": "Morris",
+  "id": "193",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-27 15:15:08",
+        "name": "Marina",
+        "id": "1887",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:06:55",
+              "name": "Marina III Station Wagon",
+              "modelYear": "1978",
+              "id": "3682",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16388",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina III Station Wagon",
+                    "engine": "1.3 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16389",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina III Station Wagon",
+                    "engine": "1.7 (79 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "79",
+                    "powerHp": "79",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:09:28",
+              "name": "Marina III",
+              "modelYear": "1978",
+              "id": "3681",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16386",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina III",
+                    "engine": "1,3 (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57",
+                    "powerHp": "57",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16387",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina III",
+                    "engine": "1,5 Diesel (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:06:55",
+              "name": "Marina II Station Wagon",
+              "modelYear": "1975",
+              "id": "3680",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16384",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II Station Wagon",
+                    "engine": "1300 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16385",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II Station Wagon",
+                    "engine": "1800 (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78",
+                    "powerHp": "78",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:09:28",
+              "name": "Marina II",
+              "modelYear": "1975",
+              "id": "3684",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16397",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II",
+                    "engine": "1300 (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57",
+                    "powerHp": "57",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16398",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II",
+                    "engine": "1500 Diesel (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16399",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II",
+                    "engine": "1750 (ZA) (79 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "79",
+                    "powerHp": "79",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16400",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II",
+                    "engine": "1800 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16401",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina II",
+                    "engine": "2600 (ZA) (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:06:55",
+              "name": "Marina Station Wagon I",
+              "modelYear": "1971",
+              "id": "3686",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16405",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina Station Wagon I",
+                    "engine": "1800 (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78",
+                    "powerHp": "78",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 11:06:55",
+              "name": "Marina Coupe I",
+              "modelYear": "1971",
+              "id": "3685",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16402",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina Coupe I",
+                    "engine": "1300 (57 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "57",
+                    "powerHp": "57",
+                    "yearstart": "1970",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16403",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina Coupe I",
+                    "engine": "1800 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16404",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina Coupe I",
+                    "engine": "1800 TC (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Marina I",
+              "modelYear": "1971",
+              "id": "3683",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16390",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1.8 (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1971",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16391",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1.8 TC (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/5200",
+                    "powerHp": "95",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4150",
+                    "width": "1650",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "925",
+                    "curbWeightMin": "925"
+                  },
+                  {
+                    "id": "16392",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1300 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16393",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1500 Diesel (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16394",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1800 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16395",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1800 GT (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16396",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Morris",
+                    "model": "Marina",
+                    "generation": "Marina I",
+                    "engine": "1800 HL (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

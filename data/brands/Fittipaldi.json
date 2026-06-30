@@ -1,0 +1,55 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "Fittipaldi",
+  "id": "227",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-26 10:10:08",
+        "name": "EF7",
+        "id": "2366",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EF7",
+              "modelYear": "2018",
+              "id": "6119",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32691",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Fittipaldi",
+                    "model": "EF7",
+                    "generation": "EF7",
+                    "engine": "4.8 V8 (608 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "608/8250",
+                    "powerHp": "608",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "width": "1981",
+                    "height": "1125",
+                    "heightMin": "1125",
+                    "rideHeight": "61",
+                    "rideHeightMin": "61",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

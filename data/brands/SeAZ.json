@@ -1,0 +1,104 @@
+{
+  "update": "2019-05-22 15:10:20",
+  "name": "SeAZ",
+  "id": "180",
+  "models": {
+    "model": [
+      {
+        "update": "2019-05-30 12:43:13",
+        "name": "1111",
+        "id": "1788",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:47:55",
+              "name": "1111",
+              "modelYear": "1997",
+              "id": "3525",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15875",
+                    "update": "2023-08-10 10:59:16",
+                    "brand": "SeAZ",
+                    "model": "1111",
+                    "generation": "1111",
+                    "engine": "11113 (33 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "33/5600",
+                    "powerHp": "33",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1997",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3200",
+                    "width": "1420",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "675",
+                    "curbWeightMin": "675"
+                  },
+                  {
+                    "id": "15876",
+                    "update": "2023-08-10 10:59:16",
+                    "brand": "SeAZ",
+                    "model": "1111",
+                    "generation": "1111",
+                    "engine": "11116 i (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53/6000",
+                    "powerHp": "53",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2008",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3200",
+                    "width": "1420",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "660",
+                    "curbWeightMin": "660"
+                  },
+                  {
+                    "id": "15877",
+                    "update": "2023-08-10 10:59:15",
+                    "brand": "SeAZ",
+                    "model": "1111",
+                    "generation": "1111",
+                    "engine": "11301 (49 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "49/5300",
+                    "powerHp": "49",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1997",
+                    "yearstop": "2006",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3350",
+                    "width": "1420",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "705",
+                    "curbWeightMin": "705"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

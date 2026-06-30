@@ -1,0 +1,51 @@
+{
+  "update": "2020-11-05 08:25:49",
+  "name": "Engler",
+  "id": "272",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-05 08:25:49",
+        "name": "F.F SUPERQUAD",
+        "id": "2643",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-05-31 16:16:01",
+              "name": "F.F SUPERQUAD",
+              "modelYear": "2018",
+              "id": "6950",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36214",
+                    "update": "2022-09-01 11:49:17",
+                    "brand": "Engler",
+                    "model": "F.F SUPERQUAD",
+                    "generation": "F.F SUPERQUAD",
+                    "engine": "5.2 V10 (850 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "850",
+                    "powerHp": "850",
+                    "yearstart": "2018",
+                    "coupe": "Quadricycle",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4670",
+                    "width": "1950",
+                    "height": "950",
+                    "heightMin": "950",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "850",
+                    "curbWeightMin": "850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

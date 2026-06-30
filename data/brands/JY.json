@@ -1,0 +1,69 @@
+{
+  "update": "2026-03-23 14:16:00",
+  "name": "JY",
+  "id": "388",
+  "models": {
+    "model": [
+      {
+        "update": "2026-03-23 14:24:10",
+        "name": "Air",
+        "id": "3956",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-23 14:24:21",
+              "name": "Air",
+              "modelYear": "2025",
+              "id": "11133",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56737",
+                    "update": "2026-03-23 15:20:10",
+                    "brand": "JY",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Standard 51 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1860",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  },
+                  {
+                    "id": "56738",
+                    "update": "2026-03-23 15:20:10",
+                    "brand": "JY",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Plus 64 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1860",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Electricity",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

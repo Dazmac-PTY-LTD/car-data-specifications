@@ -1,0 +1,134 @@
+{
+  "update": "2020-11-02 14:23:14",
+  "name": "Aurus",
+  "id": "278",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-02 14:23:18",
+        "name": "Senat",
+        "id": "2665",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senat",
+              "modelYear": "2018",
+              "id": "6992",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36367",
+                    "update": "2023-08-21 12:29:51",
+                    "brand": "Aurus",
+                    "model": "Senat",
+                    "generation": "Senat",
+                    "engine": "S600 4.4 V8 (598 Hp) Hybrid AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "598/5500",
+                    "powerHp": "598",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5630",
+                    "width": "2020",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senat Limousine",
+              "modelYear": "2018",
+              "id": "6991",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36366",
+                    "update": "2023-08-21 12:29:51",
+                    "brand": "Aurus",
+                    "model": "Senat",
+                    "generation": "Senat Limousine",
+                    "engine": "L700 4.4 V8 (598 Hp) Hybrid AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "598/5500",
+                    "powerHp": "598",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "6630",
+                    "width": "2020",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-07-05 10:22:47",
+        "name": "Komendant",
+        "id": "3292",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-05 10:23:21",
+              "name": "Komendant",
+              "modelYear": "2023",
+              "id": "9568",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49006",
+                    "update": "2023-09-28 14:05:49",
+                    "brand": "Aurus",
+                    "model": "Komendant",
+                    "generation": "Komendant",
+                    "engine": "4.4 V8 (598 Hp) Hybrid AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "598",
+                    "powerHp": "598",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5380",
+                    "width": "2004",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "rideHeight": "230",
+                    "rideHeightMin": "230",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3235",
+                    "curbWeightMin": "3235"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

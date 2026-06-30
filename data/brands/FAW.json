@@ -1,0 +1,1557 @@
+{
+  "update": "2019-11-13 10:15:24",
+  "name": "FAW",
+  "id": "57",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-20 12:39:25",
+        "name": "A6",
+        "id": "639",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "A6",
+              "modelYear": "1998",
+              "id": "1340",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5853",
+                    "update": "2023-08-18 08:57:54",
+                    "brand": "FAW",
+                    "model": "A6",
+                    "generation": "A6",
+                    "engine": "1.8 i 20V (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5800",
+                    "powerHp": "125",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1810",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "5854",
+                    "update": "2023-08-18 08:57:24",
+                    "brand": "FAW",
+                    "model": "A6",
+                    "generation": "A6",
+                    "engine": "1.8 i 20V T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5700",
+                    "powerHp": "150",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1810",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1465",
+                    "curbWeightMin": "1465"
+                  },
+                  {
+                    "id": "5855",
+                    "update": "2023-08-18 08:58:08",
+                    "brand": "FAW",
+                    "model": "A6",
+                    "generation": "A6",
+                    "engine": "2.8 i V6 30V (193 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "193/6000",
+                    "powerHp": "193",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1810",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2017-03-29 09:45:51",
+        "name": "Audi 100",
+        "id": "640",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Audi 100",
+              "modelYear": "1989",
+              "id": "1341",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5856",
+                    "update": "2023-08-18 08:56:47",
+                    "brand": "FAW",
+                    "model": "Audi 100",
+                    "generation": "Audi 100",
+                    "engine": "2.0 (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/5400",
+                    "powerHp": "115",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1988",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4792",
+                    "width": "1814",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "5857",
+                    "update": "2023-08-18 08:56:39",
+                    "brand": "FAW",
+                    "model": "Audi 100",
+                    "generation": "Audi 100",
+                    "engine": "2.2 i 20V (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5700",
+                    "powerHp": "130",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1992",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4792",
+                    "width": "1814",
+                    "height": "1446",
+                    "heightMin": "1446",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "5858",
+                    "update": "2023-08-18 08:55:31",
+                    "brand": "FAW",
+                    "model": "Audi 100",
+                    "generation": "Audi 100",
+                    "engine": "2.6 i V6 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5750",
+                    "powerHp": "150",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1995",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1777",
+                    "height": "1431",
+                    "heightMin": "1431",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-03 14:23:54",
+        "name": "Bora",
+        "id": "641",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Bora",
+              "modelYear": "2002",
+              "id": "1342",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5859",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Bora",
+                    "generation": "Bora",
+                    "engine": "1.8i 20V (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5800",
+                    "powerHp": "125",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2001",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4376",
+                    "width": "1735",
+                    "height": "1446",
+                    "heightMin": "1446",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  },
+                  {
+                    "id": "5860",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Bora",
+                    "generation": "Bora",
+                    "engine": "1.8i 20V T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5700",
+                    "powerHp": "150",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2001",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4376",
+                    "width": "1735",
+                    "height": "1446",
+                    "heightMin": "1446",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  },
+                  {
+                    "id": "29998",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Bora",
+                    "generation": "Bora",
+                    "engine": "1.8i 20V T (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5700",
+                    "powerHp": "150",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2001",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4376",
+                    "width": "1735",
+                    "height": "1446",
+                    "heightMin": "1446",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  },
+                  {
+                    "id": "30114",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Bora",
+                    "generation": "Bora",
+                    "engine": "1.8i 20V (125 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5800",
+                    "powerHp": "125",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2001",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4376",
+                    "width": "1735",
+                    "height": "1446",
+                    "heightMin": "1446",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 12:10:59",
+        "name": "Jetta",
+        "id": "642",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Jetta (19E)",
+              "modelYear": "1991",
+              "id": "1343",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5861",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Jetta",
+                    "generation": "Jetta (19E)",
+                    "engine": "1.6 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5200",
+                    "powerHp": "70",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1991",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1674",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "970",
+                    "curbWeightMin": "970"
+                  },
+                  {
+                    "id": "5862",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Jetta",
+                    "generation": "Jetta (19E)",
+                    "engine": "1.6 i 16V Wang GTX (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/5800",
+                    "powerHp": "101",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2000",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1674",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  },
+                  {
+                    "id": "5863",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "FAW",
+                    "model": "Jetta",
+                    "generation": "Jetta (19E)",
+                    "engine": "1.6 i Ci (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/5300",
+                    "powerHp": "87",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1999",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1674",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-13 10:15:53",
+        "name": "Vita",
+        "id": "643",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vita Sedan",
+              "modelYear": "2006",
+              "id": "7405",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5866",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Vita",
+                    "generation": "Vita Sedan",
+                    "engine": "1.5 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4245",
+                    "width": "1680",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1020",
+                    "curbWeightMin": "1020"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vita",
+              "modelYear": "2006",
+              "id": "1344",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5865",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Vita",
+                    "generation": "Vita",
+                    "engine": "1.3 (92 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92/6000",
+                    "powerHp": "92",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3855",
+                    "width": "1680",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "955",
+                    "curbWeightMin": "955"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-20 12:58:02",
+        "name": "Admiral",
+        "id": "644",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Admiral",
+              "modelYear": "2007",
+              "id": "1345",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5867",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Admiral",
+                    "generation": "Admiral",
+                    "engine": "2.2 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103",
+                    "powerHp": "103",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2017-03-29 09:44:27",
+        "name": "City Golf",
+        "id": "646",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "City Golf",
+              "modelYear": "1990",
+              "id": "1347",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5869",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "City Golf",
+                    "generation": "City Golf",
+                    "engine": "1.6 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5000",
+                    "powerHp": "75",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1989",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3985",
+                    "width": "1665",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1001",
+                    "curbWeightMin": "1001"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 12:11:40",
+        "name": "Jinn",
+        "id": "647",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Jinn",
+              "modelYear": "2005",
+              "id": "1348",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5870",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Jinn",
+                    "generation": "Jinn",
+                    "engine": "1.1 i (52 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "52/5200",
+                    "powerHp": "52",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3395",
+                    "width": "1590",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "860",
+                    "curbWeightMin": "860"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 12:01:29",
+        "name": "Besturn X40",
+        "id": "2561",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn X40EV 400",
+              "modelYear": "2018",
+              "id": "6722",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35027",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "FAW",
+                    "model": "Besturn X40",
+                    "generation": "Besturn X40EV 400",
+                    "engine": "52.5 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4315",
+                    "width": "1780",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "fuel": "Electricity",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn X40",
+              "modelYear": "2017",
+              "id": "6711",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33307",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn X40",
+                    "generation": "Besturn X40",
+                    "engine": "1.6 (114 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/5500",
+                    "powerHp": "114",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4310",
+                    "width": "1780",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  },
+                  {
+                    "id": "33312",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn X40",
+                    "generation": "Besturn X40",
+                    "engine": "1.6 (114 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/5500",
+                    "powerHp": "114",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4310",
+                    "width": "1780",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 11:53:01",
+        "name": "Besturn B30",
+        "id": "2562",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B30",
+              "modelYear": "2015",
+              "id": "6712",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34984",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn B30",
+                    "generation": "Besturn B30",
+                    "engine": "1.6 (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/5500",
+                    "powerHp": "109",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4625",
+                    "width": "1790",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  },
+                  {
+                    "id": "34985",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn B30",
+                    "generation": "Besturn B30",
+                    "engine": "1.6 (109 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/5500",
+                    "powerHp": "109",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4625",
+                    "width": "1790",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-21 15:41:53",
+        "name": "Besturn B50",
+        "id": "2563",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B50 II",
+              "modelYear": "2016",
+              "id": "6713",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34986",
+                    "update": "2023-06-12 12:47:37",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 II",
+                    "engine": "1.6 (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/5500",
+                    "powerHp": "109",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1795",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1365",
+                    "curbWeightMin": "1365"
+                  },
+                  {
+                    "id": "34987",
+                    "update": "2023-06-12 12:47:39",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 II",
+                    "engine": "1.4 Turbo (136 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/4500-5500",
+                    "powerHp": "136",
+                    "powerRpm": "4500-5500",
+                    "powerRpmLow": "4500",
+                    "powerRpmHigh": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1795",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1432",
+                    "curbWeightMin": "1432"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B50 I (facelift 2013)",
+              "modelYear": "2013",
+              "id": "6717",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35126",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 I (facelift 2013)",
+                    "engine": "1.8 (139 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/6500",
+                    "powerHp": "139",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1785",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "35309",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 I (facelift 2013)",
+                    "engine": "1.6 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5600",
+                    "powerHp": "103",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1785",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1285",
+                    "curbWeightMin": "1285"
+                  },
+                  {
+                    "id": "35310",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 I (facelift 2013)",
+                    "engine": "1.6 (103 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/5600",
+                    "powerHp": "103",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1785",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B50 I",
+              "modelYear": "2009",
+              "id": "6716",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35017",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 I",
+                    "engine": "1.6 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6400",
+                    "powerHp": "103",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1785",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1285",
+                    "curbWeightMin": "1285"
+                  },
+                  {
+                    "id": "35018",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B50",
+                    "generation": "Besturn B50 I",
+                    "engine": "1.6 (103 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6400",
+                    "powerHp": "103",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2009",
+                    "yearstop": "2013",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1785",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 11:57:58",
+        "name": "Besturn B70",
+        "id": "2564",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B70 II",
+              "modelYear": "2014",
+              "id": "6714",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34998",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 II",
+                    "engine": "2.0 (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1820",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "35015",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 II",
+                    "engine": "2.0 (147 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1820",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "35016",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 II",
+                    "engine": "1.8 T (186 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500-6000",
+                    "powerHp": "186",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1820",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B70 I (facelift 2012)",
+              "modelYear": "2012",
+              "id": "6720",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35306",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 I (facelift 2012)",
+                    "engine": "2.3 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/6500",
+                    "powerHp": "163",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2012",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4729",
+                    "width": "1782",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  },
+                  {
+                    "id": "35307",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 I (facelift 2012)",
+                    "engine": "2.0 (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2012",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4729",
+                    "width": "1782",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1405",
+                    "curbWeightMin": "1405"
+                  },
+                  {
+                    "id": "35308",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 I (facelift 2012)",
+                    "engine": "2.0 (147 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2012",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4729",
+                    "width": "1782",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B70 I",
+              "modelYear": "2006",
+              "id": "6719",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35304",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 I",
+                    "engine": "2.3 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/",
+                    "powerHp": "163",
+                    "yearstart": "2006",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1782",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "35305",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Besturn B70",
+                    "generation": "Besturn B70 I",
+                    "engine": "2.0 (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/",
+                    "powerHp": "147",
+                    "yearstart": "2006",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1782",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1405",
+                    "curbWeightMin": "1405"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 11:58:49",
+        "name": "Besturn B90",
+        "id": "2565",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn B90",
+              "modelYear": "2012",
+              "id": "6721",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35028",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "FAW",
+                    "model": "Besturn B90",
+                    "generation": "Besturn B90",
+                    "engine": "1.8 Turbo (186 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500-6000",
+                    "powerHp": "186",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1812",
+                    "height": "1472",
+                    "heightMin": "1472",
+                    "rideHeight": "114",
+                    "rideHeightMin": "114",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 12:06:06",
+        "name": "Besturn X80",
+        "id": "2566",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn X80 I (facelift 2017)",
+              "modelYear": "2017",
+              "id": "6724",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35024",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn X80",
+                    "generation": "Besturn X80 I (facelift 2017)",
+                    "engine": "1.8 Turbo (186 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500-6000",
+                    "powerHp": "186",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1820",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "35025",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn X80",
+                    "generation": "Besturn X80 I (facelift 2017)",
+                    "engine": "2.0 (147 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1820",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "35026",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn X80",
+                    "generation": "Besturn X80 I (facelift 2017)",
+                    "engine": "2.0 (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6500",
+                    "powerHp": "147",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1820",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Besturn X80",
+              "modelYear": "2013",
+              "id": "6723",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35022",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn X80",
+                    "generation": "Besturn X80",
+                    "engine": "1.8 Turbo (180 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180/6000-6500",
+                    "powerHp": "180",
+                    "powerRpm": "6000-6500",
+                    "powerRpmLow": "6000",
+                    "powerRpmHigh": "6500",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4586",
+                    "width": "1820",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "190-130",
+                    "rideHeightMin": "130",
+                    "rideHeightMax": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "35023",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "FAW",
+                    "model": "Besturn X80",
+                    "generation": "Besturn X80",
+                    "engine": "2.0 (147 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/6000",
+                    "powerHp": "147",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4586",
+                    "width": "1820",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "190-130",
+                    "rideHeightMin": "130",
+                    "rideHeightMax": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 12:14:11",
+        "name": "Senia R7",
+        "id": "2607",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senia R7",
+              "modelYear": "2016",
+              "id": "6865",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35887",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Senia R7",
+                    "generation": "Senia R7",
+                    "engine": "1.6 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6000",
+                    "powerHp": "116",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4305",
+                    "width": "1780",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  },
+                  {
+                    "id": "35888",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "FAW",
+                    "model": "Senia R7",
+                    "generation": "Senia R7",
+                    "engine": "1.6 (116 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6000",
+                    "powerHp": "116",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4305",
+                    "width": "1780",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  },
+                  {
+                    "id": "35889",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "FAW",
+                    "model": "Senia R7",
+                    "generation": "Senia R7",
+                    "engine": "1.5 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/",
+                    "powerHp": "150",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4305",
+                    "width": "1780",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1335",
+                    "curbWeightMin": "1335"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "Milan",
+  "id": "250",
+  "models": {
+    "model": [
+      {
+        "update": "2020-06-24 16:21:08",
+        "name": "Red",
+        "id": "2490",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Red",
+              "modelYear": "2020",
+              "id": "6438",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33809",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Milan",
+                    "model": "Red",
+                    "generation": "Red",
+                    "engine": "6.2 V8 (1325 Hp) Hybrid Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "1325/7000",
+                    "powerHp": "1325",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4741",
+                    "widthOpenedMirrors": "2156",
+                    "height": "1197",
+                    "heightMin": "1197",
+                    "rideHeight": "135-90",
+                    "rideHeightMin": "90",
+                    "rideHeightMax": "135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

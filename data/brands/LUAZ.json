@@ -1,0 +1,50 @@
+{
+  "update": "2019-05-22 15:10:17",
+  "name": "LUAZ",
+  "id": "170",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 15:18:13",
+        "name": "969",
+        "id": "1707",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "969M",
+              "modelYear": "1979",
+              "id": "3361",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15339",
+                    "update": "2023-08-16 08:46:01",
+                    "brand": "LUAZ",
+                    "model": "969",
+                    "generation": "969M",
+                    "engine": "1.2 (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42",
+                    "powerHp": "42",
+                    "yearstart": "1979",
+                    "yearstop": "1990",
+                    "coupe": "Off-road vehicle",
+                    "length": "3430",
+                    "width": "1610",
+                    "height": "1754",
+                    "heightMin": "1754",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "970",
+                    "curbWeightMin": "970"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

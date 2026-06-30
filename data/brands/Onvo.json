@@ -1,0 +1,225 @@
+{
+  "update": "2025-08-29 14:39:12",
+  "name": "Onvo",
+  "id": "369",
+  "models": {
+    "model": [
+      {
+        "update": "2025-08-29 14:40:34",
+        "name": "L60",
+        "id": "3782",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-29 14:45:00",
+              "name": "L60",
+              "modelYear": "2024",
+              "id": "10768",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55232",
+                    "update": "2025-08-29 16:15:04",
+                    "brand": "Onvo",
+                    "model": "L60",
+                    "generation": "L60",
+                    "engine": "60 kWh (326 Hp) Standard Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4828",
+                    "width": "1930",
+                    "height": "1616",
+                    "heightMin": "1616",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1885-1900",
+                    "curbWeightMin": "1885",
+                    "curbWeightMax": "1900"
+                  },
+                  {
+                    "id": "55233",
+                    "update": "2025-08-29 16:15:04",
+                    "brand": "Onvo",
+                    "model": "L60",
+                    "generation": "L60",
+                    "engine": "60 kWh (462 Hp) 4WD Standard Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4828",
+                    "width": "1930",
+                    "height": "1616",
+                    "heightMin": "1616",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1955-1970",
+                    "curbWeightMin": "1955",
+                    "curbWeightMax": "1970"
+                  },
+                  {
+                    "id": "55234",
+                    "update": "2025-08-29 16:15:04",
+                    "brand": "Onvo",
+                    "model": "L60",
+                    "generation": "L60",
+                    "engine": "85 kWh (326 Hp) Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4828",
+                    "width": "1930",
+                    "height": "1616",
+                    "heightMin": "1616",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1895-1910",
+                    "curbWeightMin": "1895",
+                    "curbWeightMax": "1910"
+                  },
+                  {
+                    "id": "55235",
+                    "update": "2025-08-29 16:15:04",
+                    "brand": "Onvo",
+                    "model": "L60",
+                    "generation": "L60",
+                    "engine": "85 kWh (462 Hp) 4WD Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4828",
+                    "width": "1930",
+                    "height": "1616",
+                    "heightMin": "1616",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1965-1980",
+                    "curbWeightMin": "1965",
+                    "curbWeightMax": "1980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-29 16:02:17",
+        "name": "L90",
+        "id": "3783",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-29 16:03:07",
+              "name": "L90",
+              "modelYear": "2025",
+              "id": "10769",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55245",
+                    "update": "2025-09-01 16:12:01",
+                    "brand": "Onvo",
+                    "model": "L90",
+                    "generation": "L90",
+                    "engine": "85 kWh (462 Hp) 6 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5145",
+                    "width": "1998",
+                    "height": "1766-1786",
+                    "heightMin": "1766",
+                    "heightMax": "1786",
+                    "fuel": "Electricity",
+                    "curbWeight": "2250-2300",
+                    "curbWeightMin": "2250",
+                    "curbWeightMax": "2300"
+                  },
+                  {
+                    "id": "55246",
+                    "update": "2025-09-01 16:12:01",
+                    "brand": "Onvo",
+                    "model": "L90",
+                    "generation": "L90",
+                    "engine": "85 kWh (462 Hp) 7 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5145",
+                    "width": "1998",
+                    "height": "1766-1786",
+                    "heightMin": "1766",
+                    "heightMax": "1786",
+                    "fuel": "Electricity",
+                    "curbWeight": "2270-2320",
+                    "curbWeightMin": "2270",
+                    "curbWeightMax": "2320"
+                  },
+                  {
+                    "id": "55247",
+                    "update": "2025-09-01 16:12:01",
+                    "brand": "Onvo",
+                    "model": "L90",
+                    "generation": "L90",
+                    "engine": "85 kWh (599 Hp) 4WD 6 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5145",
+                    "width": "1998",
+                    "height": "1766",
+                    "heightMin": "1766",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  },
+                  {
+                    "id": "55248",
+                    "update": "2025-09-01 16:12:01",
+                    "brand": "Onvo",
+                    "model": "L90",
+                    "generation": "L90",
+                    "engine": "85 kWh (599 Hp) 4WD 7 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5145",
+                    "width": "1998",
+                    "height": "1766",
+                    "heightMin": "1766",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

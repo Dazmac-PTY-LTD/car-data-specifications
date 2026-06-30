@@ -1,0 +1,128 @@
+{
+  "update": "2020-01-09 10:31:38",
+  "name": "Sony",
+  "id": "289",
+  "models": {
+    "model": [
+      {
+        "update": "2024-01-05 08:51:35",
+        "name": "Vision-S 01",
+        "id": "2771",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-01-05 08:48:51",
+              "name": "Vision-S 01",
+              "modelYear": "2020",
+              "id": "9817",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50867",
+                    "update": "2024-01-05 16:20:46",
+                    "brand": "Sony",
+                    "model": "Vision-S 01",
+                    "generation": "Vision-S 01",
+                    "engine": "(544 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Sedan, Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4895",
+                    "width": "1900",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "rideHeight": "119-135",
+                    "rideHeightMin": "119",
+                    "rideHeightMax": "135",
+                    "fuel": "Electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Vision-S Concept",
+              "modelYear": "2020",
+              "id": "7507",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38497",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Sony",
+                    "model": "Vision-S 01",
+                    "generation": "Vision-S Concept",
+                    "engine": "(544 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Sedan, Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4895",
+                    "width": "1900",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "rideHeight": "120-135",
+                    "rideHeightMin": "120",
+                    "rideHeightMax": "135",
+                    "fuel": "Electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-01-05 08:51:24",
+        "name": "Vision-S 02",
+        "id": "3382",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-01-05 09:50:35",
+              "name": "Vision-S 02",
+              "modelYear": "2022",
+              "id": "9818",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50868",
+                    "update": "2024-01-05 16:20:47",
+                    "brand": "Sony",
+                    "model": "Vision-S 02",
+                    "generation": "Vision-S 02",
+                    "engine": "(544 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4895",
+                    "width": "1930",
+                    "height": "1651",
+                    "heightMin": "1651",
+                    "rideHeight": "157",
+                    "rideHeightMin": "157",
+                    "fuel": "Electricity",
+                    "curbWeight": "2480",
+                    "curbWeightMin": "2480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

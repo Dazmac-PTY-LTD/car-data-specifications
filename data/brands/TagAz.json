@@ -1,0 +1,842 @@
+{
+  "update": "2019-08-06 10:47:22",
+  "name": "TagAz",
+  "id": "190",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-04 12:06:57",
+        "name": "Accent",
+        "id": "1852",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Accent II",
+              "modelYear": "2001",
+              "id": "3632",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16254",
+                    "update": "2023-06-19 10:15:49",
+                    "brand": "TagAz",
+                    "model": "Accent",
+                    "generation": "Accent II",
+                    "engine": "1.5 (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/5800",
+                    "powerHp": "102",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2001",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1670",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  },
+                  {
+                    "id": "16255",
+                    "update": "2023-06-19 10:15:42",
+                    "brand": "TagAz",
+                    "model": "Accent",
+                    "generation": "Accent II",
+                    "engine": "1.5 (102 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/5800",
+                    "powerHp": "102",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2001",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1670",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1176",
+                    "curbWeightMin": "1176"
+                  },
+                  {
+                    "id": "16256",
+                    "update": "2023-08-09 14:07:47",
+                    "brand": "TagAz",
+                    "model": "Accent",
+                    "generation": "Accent II",
+                    "engine": "1.5 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/5800",
+                    "powerHp": "90",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2001",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4235",
+                    "width": "1670",
+                    "height": "1395",
+                    "heightMin": "1395",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 15:04:18",
+        "name": "Road Partner",
+        "id": "1853",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Road Partner Pickup",
+              "modelYear": "2008",
+              "id": "3633",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16257",
+                    "update": "2023-06-19 11:00:41",
+                    "brand": "TagAz",
+                    "model": "Road Partner",
+                    "generation": "Road Partner Pickup",
+                    "engine": "2.9 TD (120 Hp) P600",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/4000",
+                    "powerHp": "120",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2008",
+                    "yearstop": "2011",
+                    "coupe": "Pick-up",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4935",
+                    "width": "1864",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "fuel": "Diesel",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  },
+                  {
+                    "id": "16258",
+                    "update": "2023-06-19 11:00:41",
+                    "brand": "TagAz",
+                    "model": "Road Partner",
+                    "generation": "Road Partner Pickup",
+                    "engine": "2.9 TD (118 Hp) P400",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "118/4000",
+                    "powerHp": "118",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2008",
+                    "yearstop": "2011",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1864",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Road Partner",
+              "modelYear": "2008",
+              "id": "3634",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16259",
+                    "update": "2023-10-11 09:03:33",
+                    "brand": "TagAz",
+                    "model": "Road Partner",
+                    "generation": "Road Partner",
+                    "engine": "2.3 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6200",
+                    "powerHp": "150",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2008",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4656",
+                    "width": "1864",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1910",
+                    "curbWeightMin": "1910"
+                  },
+                  {
+                    "id": "16260",
+                    "update": "2023-06-19 10:57:18",
+                    "brand": "TagAz",
+                    "model": "Road Partner",
+                    "generation": "Road Partner",
+                    "engine": "3.2 (220 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220/6500",
+                    "powerHp": "220",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2008",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4656",
+                    "width": "1864",
+                    "height": "1735",
+                    "heightMin": "1735",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1910",
+                    "curbWeightMin": "1910"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-04 12:24:09",
+        "name": "Sonata",
+        "id": "1854",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sonata",
+              "modelYear": "2004",
+              "id": "3635",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16261",
+                    "update": "2023-06-19 10:25:34",
+                    "brand": "TagAz",
+                    "model": "Sonata",
+                    "generation": "Sonata",
+                    "engine": "2.0 (137 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/6000",
+                    "powerHp": "137",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4747",
+                    "width": "1820",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  },
+                  {
+                    "id": "16262",
+                    "update": "2023-10-11 09:03:36",
+                    "brand": "TagAz",
+                    "model": "Sonata",
+                    "generation": "Sonata",
+                    "engine": "2.0 (137 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/6000",
+                    "powerHp": "137",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4747",
+                    "width": "1820",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  },
+                  {
+                    "id": "16263",
+                    "update": "2023-06-19 10:23:49",
+                    "brand": "TagAz",
+                    "model": "Sonata",
+                    "generation": "Sonata",
+                    "engine": "2.7 (172 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "172/6000",
+                    "powerHp": "172",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4747",
+                    "width": "1820",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  },
+                  {
+                    "id": "16264",
+                    "update": "2023-10-11 09:03:34",
+                    "brand": "TagAz",
+                    "model": "Sonata",
+                    "generation": "Sonata",
+                    "engine": "2.7 (172 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "172/6000",
+                    "powerHp": "172",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4747",
+                    "width": "1820",
+                    "height": "1422",
+                    "heightMin": "1422",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-04 12:48:38",
+        "name": "Tiggo",
+        "id": "1855",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:47:56",
+              "name": "Tiggo",
+              "modelYear": "2005",
+              "id": "3636",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16265",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TagAz",
+                    "model": "Tiggo",
+                    "generation": "Tiggo",
+                    "engine": "1.8 (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5750",
+                    "powerHp": "130",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "2005",
+                    "yearstop": "2014",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4285",
+                    "width": "1765",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 15:20:45",
+        "name": "Vega",
+        "id": "1856",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vega (C100)",
+              "modelYear": "2009",
+              "id": "3637",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16266",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TagAz",
+                    "model": "Vega",
+                    "generation": "Vega (C100)",
+                    "engine": "1.6 (124 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "124/5600",
+                    "powerHp": "124",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2009",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4514",
+                    "width": "1746",
+                    "height": "1436",
+                    "heightMin": "1436",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-04 12:55:42",
+        "name": "Vortex Estina",
+        "id": "1857",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vortex Estina",
+              "modelYear": "2008",
+              "id": "3638",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16267",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TagAz",
+                    "model": "Vortex Estina",
+                    "generation": "Vortex Estina",
+                    "engine": "1.6 (119 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "119/6150",
+                    "powerHp": "119",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "length": "4552",
+                    "width": "1750",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1326",
+                    "curbWeightMin": "1326"
+                  },
+                  {
+                    "id": "16268",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "TagAz",
+                    "model": "Vortex Estina",
+                    "generation": "Vortex Estina",
+                    "engine": "2.0 (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "length": "4552",
+                    "width": "1750",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1326",
+                    "curbWeightMin": "1326"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 15:09:09",
+        "name": "Santa Fe Classic",
+        "id": "1858",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Santa Fe Classic",
+              "modelYear": "2007",
+              "id": "3639",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16269",
+                    "update": "2023-06-19 10:13:40",
+                    "brand": "TagAz",
+                    "model": "Santa Fe Classic",
+                    "generation": "Santa Fe Classic",
+                    "engine": "2.0 CRDi (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/4000",
+                    "powerHp": "112",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1845",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Diesel",
+                    "curbWeight": "1705-1786",
+                    "curbWeightMin": "1705",
+                    "curbWeightMax": "1786"
+                  },
+                  {
+                    "id": "16270",
+                    "update": "2023-06-19 10:13:06",
+                    "brand": "TagAz",
+                    "model": "Santa Fe Classic",
+                    "generation": "Santa Fe Classic",
+                    "engine": "2.7 V6 (173 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "173/6000",
+                    "powerHp": "173",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1845",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1756-1838",
+                    "curbWeightMin": "1756",
+                    "curbWeightMax": "1838"
+                  },
+                  {
+                    "id": "27197",
+                    "update": "2023-06-19 10:13:40",
+                    "brand": "TagAz",
+                    "model": "Santa Fe Classic",
+                    "generation": "Santa Fe Classic",
+                    "engine": "2.0 CRDi (112 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/4000",
+                    "powerHp": "112",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1845",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Diesel",
+                    "curbWeight": "1793-1897",
+                    "curbWeightMin": "1793",
+                    "curbWeightMax": "1897"
+                  },
+                  {
+                    "id": "27198",
+                    "update": "2023-06-19 10:13:39",
+                    "brand": "TagAz",
+                    "model": "Santa Fe Classic",
+                    "generation": "Santa Fe Classic",
+                    "engine": "2.0 CRDi (112 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/4000",
+                    "powerHp": "112",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1845",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Diesel",
+                    "curbWeight": "1793-1897",
+                    "curbWeightMin": "1793",
+                    "curbWeightMax": "1897"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 15:17:19",
+        "name": "Tager",
+        "id": "1859",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Tager",
+              "modelYear": "2008",
+              "id": "3640",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16271",
+                    "update": "2023-06-19 10:43:58",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "2.9 D (120 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/4000",
+                    "powerHp": "120",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1841",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  },
+                  {
+                    "id": "16272",
+                    "update": "2023-06-19 10:44:22",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "2.9 D (120 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/4000",
+                    "powerHp": "120",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1841",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  },
+                  {
+                    "id": "16273",
+                    "update": "2023-06-19 10:44:44",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "2.3 (110 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/6200",
+                    "powerHp": "110",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4512",
+                    "width": "1841",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1985",
+                    "curbWeightMin": "1985"
+                  },
+                  {
+                    "id": "16274",
+                    "update": "2023-06-19 10:43:39",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "2.3 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6200",
+                    "powerHp": "150",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16275",
+                    "update": "2023-06-19 10:43:35",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "2.3 (150 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6200",
+                    "powerHp": "150",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "16276",
+                    "update": "2023-06-19 10:30:19",
+                    "brand": "TagAz",
+                    "model": "Tager",
+                    "generation": "Tager",
+                    "engine": "3.2i (220 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220/6500",
+                    "powerHp": "220",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2008",
+                    "yearstop": "2012",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1841",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1935",
+                    "curbWeightMin": "1935"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-06 10:47:22",
+        "name": "Aquila",
+        "id": "2222",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Aquila",
+              "modelYear": "2013",
+              "id": "5470",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32541",
+                    "update": "2023-06-19 10:27:59",
+                    "brand": "TagAz",
+                    "model": "Aquila",
+                    "generation": "Aquila",
+                    "engine": "1.6 (107 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "107/6000",
+                    "powerHp": "107",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2013",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4683",
+                    "width": "1824",
+                    "height": "1388",
+                    "heightMin": "1388",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

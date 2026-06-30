@@ -1,0 +1,240 @@
+{
+  "update": "2020-11-02 20:08:01",
+  "name": "Borgward",
+  "id": "205",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-02 20:00:31",
+        "name": "BX7",
+        "id": "2297",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BX7 TS Limited Edition",
+              "modelYear": "2018",
+              "id": "5862",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31545",
+                    "update": "2023-08-21 16:34:08",
+                    "brand": "Borgward",
+                    "model": "BX7",
+                    "generation": "BX7 TS Limited Edition",
+                    "engine": "2.0 (224 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5500",
+                    "powerHp": "224",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4715",
+                    "width": "1911",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BX7",
+              "modelYear": "2017",
+              "id": "5860",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31546",
+                    "update": "2023-08-21 16:34:16",
+                    "brand": "Borgward",
+                    "model": "BX7",
+                    "generation": "BX7",
+                    "engine": "2.0 (224 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5500",
+                    "powerHp": "224",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4715",
+                    "width": "1911",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 19:17:12",
+        "name": "BX5",
+        "id": "2299",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BX5",
+              "modelYear": "2017",
+              "id": "5861",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31548",
+                    "update": "2023-08-21 16:31:56",
+                    "brand": "Borgward",
+                    "model": "BX5",
+                    "generation": "BX5",
+                    "engine": "1.8 (190 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4490",
+                    "width": "1877",
+                    "height": "1675",
+                    "heightMin": "1675",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-01 10:27:05",
+        "name": "BX6",
+        "id": "2320",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BX6 TS Project",
+              "modelYear": "2017",
+              "id": "5956",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32066",
+                    "update": "2023-08-21 16:33:41",
+                    "brand": "Borgward",
+                    "model": "BX6",
+                    "generation": "BX6 TS Project",
+                    "engine": "2.0 (224 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5500",
+                    "powerHp": "224",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2016",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4490",
+                    "width": "1870",
+                    "height": "1649",
+                    "heightMin": "1649",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 20:08:01",
+        "name": "Isabella",
+        "id": "2390",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Isabella Concept",
+              "modelYear": "2017",
+              "id": "6183",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 19:23:59",
+        "name": "BXi7",
+        "id": "2409",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Project BXi7 (Concept)",
+              "modelYear": "2019",
+              "id": "6218",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33014",
+                    "update": "2023-08-21 16:35:01",
+                    "brand": "Borgward",
+                    "model": "BXi7",
+                    "generation": "Project BXi7 (Concept)",
+                    "engine": "Electric (272 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2018",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4715",
+                    "width": "1911",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

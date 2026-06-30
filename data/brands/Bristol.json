@@ -1,0 +1,273 @@
+{
+  "update": "2019-05-22 15:10:13",
+  "name": "Bristol",
+  "id": "96",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 16:26:43",
+        "name": "Blenheim",
+        "id": "997",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Blenheim III",
+              "modelYear": "2000",
+              "id": "2093",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10187",
+                    "update": "2023-08-21 09:06:23",
+                    "brand": "Bristol",
+                    "model": "Blenheim",
+                    "generation": "Blenheim III",
+                    "engine": "5.9 i V8 (354 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "354/5500",
+                    "powerHp": "354",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2000",
+                    "yearstop": "2002",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4825",
+                    "width": "1765",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "10188",
+                    "update": "2023-08-21 09:06:22",
+                    "brand": "Bristol",
+                    "model": "Blenheim",
+                    "generation": "Blenheim III",
+                    "engine": "5.9 i V8 3S (390 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "390/5500",
+                    "powerHp": "390",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4825",
+                    "width": "1765",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1755",
+                    "curbWeightMin": "1755"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Blenheim II",
+              "modelYear": "1998",
+              "id": "2094",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10189",
+                    "update": "2023-08-21 09:06:23",
+                    "brand": "Bristol",
+                    "model": "Blenheim",
+                    "generation": "Blenheim II",
+                    "engine": "5.9 i V6 (265 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "265/4000",
+                    "powerHp": "265",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4825",
+                    "width": "1765",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 16:29:47",
+        "name": "Fighter",
+        "id": "998",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Fighter",
+              "modelYear": "2004",
+              "id": "2095",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10190",
+                    "update": "2023-08-21 08:57:42",
+                    "brand": "Bristol",
+                    "model": "Fighter",
+                    "generation": "Fighter",
+                    "engine": "8.0 i V10 (532 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "532/5600",
+                    "powerHp": "532",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4420",
+                    "width": "1795",
+                    "height": "1345",
+                    "heightMin": "1345",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1475",
+                    "curbWeightMin": "1475"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 16:35:15",
+        "name": "Speedster",
+        "id": "999",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Speedster",
+              "modelYear": "2004",
+              "id": "2096",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10191",
+                    "update": "2023-08-21 09:06:24",
+                    "brand": "Bristol",
+                    "model": "Speedster",
+                    "generation": "Speedster",
+                    "engine": "5.9 i V8 3S (390 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "390/5500",
+                    "powerHp": "390",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2003",
+                    "yearstop": "2011",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4674",
+                    "width": "1752",
+                    "height": "1118",
+                    "heightMin": "1118",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 16:28:26",
+        "name": "Bullet",
+        "id": "2352",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Bullet",
+              "modelYear": "2016",
+              "id": "6097",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32635",
+                    "update": "2023-08-21 08:59:23",
+                    "brand": "Bristol",
+                    "model": "Bullet",
+                    "generation": "Bullet",
+                    "engine": "4.8 V8 (374 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "374/6300",
+                    "powerHp": "374",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4200",
+                    "width": "1860",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "32636",
+                    "update": "2023-08-21 08:59:22",
+                    "brand": "Bristol",
+                    "model": "Bullet",
+                    "generation": "Bullet",
+                    "engine": "4.8 V8 (374 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "374/6300",
+                    "powerHp": "374",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4200",
+                    "width": "1860",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

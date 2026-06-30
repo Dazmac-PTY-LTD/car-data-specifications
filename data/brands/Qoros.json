@@ -1,0 +1,443 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Qoros",
+  "id": "248",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 14:24:17",
+        "name": "3",
+        "id": "2456",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3 GT",
+              "modelYear": "2017",
+              "id": "6338",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33430",
+                    "update": "2025-06-23 11:22:42",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 GT",
+                    "engine": "1.6 (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4633",
+                    "width": "1854",
+                    "height": "1509",
+                    "heightMin": "1509",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "33431",
+                    "update": "2025-06-23 11:22:43",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 GT",
+                    "engine": "1.6 (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4633",
+                    "width": "1854",
+                    "height": "1509",
+                    "heightMin": "1509",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "3 Hatch",
+              "modelYear": "2014",
+              "id": "6337",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33428",
+                    "update": "2025-06-23 11:22:39",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 Hatch",
+                    "engine": "1.6 (126 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/6150",
+                    "powerHp": "126",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1839",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360-1375",
+                    "curbWeightMin": "1360",
+                    "curbWeightMax": "1375"
+                  },
+                  {
+                    "id": "33429",
+                    "update": "2025-06-23 11:22:39",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 Hatch",
+                    "engine": "1.6 (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1839",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1425",
+                    "curbWeightMin": "1425"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-06-23 11:23:11",
+              "name": "3 City SUV",
+              "modelYear": "2014",
+              "id": "6329",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33410",
+                    "update": "2025-06-23 11:22:51",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 City SUV",
+                    "engine": "1.6 (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4463",
+                    "width": "1854",
+                    "height": "1504",
+                    "heightMin": "1504",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "33411",
+                    "update": "2025-06-23 11:22:50",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 City SUV",
+                    "engine": "1.6 (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4463",
+                    "width": "1854",
+                    "height": "1504",
+                    "heightMin": "1504",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-06-23 11:23:11",
+              "name": "3 Sedan",
+              "modelYear": "2014",
+              "id": "6331",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33412",
+                    "update": "2025-06-23 11:22:35",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 Sedan",
+                    "engine": "1.6 (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/6150",
+                    "powerHp": "126",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2013",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4627",
+                    "width": "1839",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  },
+                  {
+                    "id": "33413",
+                    "update": "2025-06-23 11:22:31",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 Sedan",
+                    "engine": "1.6 (126 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/6150",
+                    "powerHp": "126",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2013",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4627",
+                    "width": "1839",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360-1375",
+                    "curbWeightMin": "1360",
+                    "curbWeightMax": "1375"
+                  },
+                  {
+                    "id": "33414",
+                    "update": "2025-06-23 11:22:46",
+                    "brand": "Qoros",
+                    "model": "3",
+                    "generation": "3 Sedan",
+                    "engine": "1.6 (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2013",
+                    "yearstop": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4627",
+                    "width": "1839",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1425",
+                    "curbWeightMin": "1425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-25 14:36:12",
+        "name": "5",
+        "id": "2457",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-23 11:23:47",
+              "name": "5",
+              "modelYear": "2016",
+              "id": "6339",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33437",
+                    "update": "2025-06-23 11:21:11",
+                    "brand": "Qoros",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.6 (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1869",
+                    "height": "1676",
+                    "heightMin": "1676",
+                    "rideHeight": "240",
+                    "rideHeightMin": "240",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "33438",
+                    "update": "2025-06-23 11:21:10",
+                    "brand": "Qoros",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.6 (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4600",
+                    "width": "1869",
+                    "height": "1676",
+                    "heightMin": "1676",
+                    "rideHeight": "240",
+                    "rideHeightMin": "240",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570-1600",
+                    "curbWeightMin": "1570",
+                    "curbWeightMax": "1600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-23 10:47:47",
+        "name": "7",
+        "id": "3717",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-23 10:48:24",
+              "name": "7",
+              "modelYear": "2021",
+              "id": "10629",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54667",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "Qoros",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.6T (204 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204/6000",
+                    "powerHp": "204",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4679",
+                    "width": "1897",
+                    "height": "1679",
+                    "heightMin": "1679",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620-1650",
+                    "curbWeightMin": "1620",
+                    "curbWeightMax": "1650"
+                  },
+                  {
+                    "id": "54668",
+                    "update": "2025-06-23 16:03:47",
+                    "brand": "Qoros",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.8T (231 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "231/6000",
+                    "powerHp": "231",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4679",
+                    "width": "1897",
+                    "height": "1679",
+                    "heightMin": "1679",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1655",
+                    "curbWeightMin": "1655"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

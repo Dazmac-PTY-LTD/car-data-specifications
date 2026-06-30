@@ -1,0 +1,141 @@
+{
+  "update": "2019-08-09 10:45:47",
+  "name": "Autobianchi",
+  "id": "51",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-09 10:45:47",
+        "name": "A 112",
+        "id": "605",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:36:00",
+              "name": "A 112",
+              "modelYear": "1969",
+              "id": "1299",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5761",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "0.9 (44 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "44",
+                    "powerHp": "44",
+                    "yearstart": "1969",
+                    "yearstop": "1972",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5762",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "0.9 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5763",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "0.9 E (47 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "47",
+                    "powerHp": "47",
+                    "yearstart": "1973",
+                    "yearstop": "1977",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5764",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "0.9 Junior (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42",
+                    "powerHp": "42",
+                    "yearstart": "1975",
+                    "yearstop": "1985",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5765",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "1.0 Abarth (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1971",
+                    "yearstop": "1975",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5766",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "1.0 Abarth (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70",
+                    "powerHp": "70",
+                    "yearstart": "1974",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5767",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Autobianchi",
+                    "model": "A 112",
+                    "generation": "A 112",
+                    "engine": "1.0 E,Elite,LX (48 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "48",
+                    "powerHp": "48",
+                    "yearstart": "1977",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

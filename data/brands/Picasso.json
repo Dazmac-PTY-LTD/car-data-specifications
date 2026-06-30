@@ -1,0 +1,51 @@
+{
+  "update": "2022-07-08 10:00:10",
+  "name": "Picasso",
+  "id": "313",
+  "models": {
+    "model": [
+      {
+        "update": "2022-07-08 10:14:24",
+        "name": "660 LMS",
+        "id": "3138",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 10:18:41",
+              "name": "660 LMS",
+              "modelYear": "2023",
+              "id": "8947",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46083",
+                    "update": "2022-07-09 07:51:06",
+                    "brand": "Picasso",
+                    "model": "660 LMS",
+                    "generation": "660 LMS",
+                    "engine": "3.0 V6 (660 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "660",
+                    "powerHp": "660",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4366",
+                    "width": "1967",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

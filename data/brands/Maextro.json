@@ -1,0 +1,141 @@
+{
+  "update": "2026-02-20 14:50:26",
+  "name": "Maextro",
+  "id": "387",
+  "models": {
+    "model": [
+      {
+        "update": "2026-02-20 14:51:15",
+        "name": "S800",
+        "id": "3936",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-02-20 14:52:35",
+              "name": "S800",
+              "modelYear": "2025",
+              "id": "11082",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56481",
+                    "update": "2026-02-20 16:12:47",
+                    "brand": "Maextro",
+                    "model": "S800",
+                    "generation": "S800",
+                    "engine": "97 kWh (530 Hp) Electric 4WD 5 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5480",
+                    "width": "2000",
+                    "height": "1542",
+                    "heightMin": "1542",
+                    "fuel": "Electricity",
+                    "curbWeight": "2604",
+                    "curbWeightMin": "2604"
+                  },
+                  {
+                    "id": "56482",
+                    "update": "2026-02-20 16:12:47",
+                    "brand": "Maextro",
+                    "model": "S800",
+                    "generation": "S800",
+                    "engine": "97 kWh (530 Hp) Electric 4WD 4 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5480",
+                    "width": "2000",
+                    "height": "1542",
+                    "heightMin": "1542",
+                    "fuel": "Electricity",
+                    "curbWeight": "2685",
+                    "curbWeightMin": "2685"
+                  },
+                  {
+                    "id": "56511",
+                    "update": "2026-02-23 16:19:35",
+                    "brand": "Maextro",
+                    "model": "S800",
+                    "generation": "S800",
+                    "engine": "1.5T 65 kWh (530 Hp) Extended Range 4WD 5 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5480",
+                    "width": "2000",
+                    "height": "1542",
+                    "heightMin": "1542",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2770",
+                    "curbWeightMin": "2770"
+                  },
+                  {
+                    "id": "56512",
+                    "update": "2026-02-23 16:19:35",
+                    "brand": "Maextro",
+                    "model": "S800",
+                    "generation": "S800",
+                    "engine": "1.5T 65 kWh (864 Hp) Extended Range 4WD 5 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5480",
+                    "width": "2000",
+                    "height": "1542",
+                    "heightMin": "1542",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2822",
+                    "curbWeightMin": "2822"
+                  },
+                  {
+                    "id": "56513",
+                    "update": "2026-02-23 16:19:35",
+                    "brand": "Maextro",
+                    "model": "S800",
+                    "generation": "S800",
+                    "engine": "1.5T 65 kWh (864 Hp) Extended Range 4WD 4 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5480",
+                    "width": "2000",
+                    "height": "1542",
+                    "heightMin": "1542",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2851",
+                    "curbWeightMin": "2851"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

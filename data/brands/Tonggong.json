@@ -1,0 +1,45 @@
+{
+  "update": "2019-05-22 15:10:21",
+  "name": "Tonggong",
+  "id": "35",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-05 11:18:46",
+        "name": "TG",
+        "id": "357",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 13:53:31",
+              "name": "TG",
+              "modelYear": "1996",
+              "id": "716",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3034",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Tonggong",
+                    "model": "TG",
+                    "generation": "TG",
+                    "engine": "2.0 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1996",
+                    "yearstop": "2006",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

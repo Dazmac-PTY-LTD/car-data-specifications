@@ -1,0 +1,90 @@
+{
+  "update": "2019-05-22 15:10:17",
+  "name": "LTI",
+  "id": "83",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 15:14:31",
+        "name": "TX",
+        "id": "911",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TXII",
+              "modelYear": "2002",
+              "id": "1920",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9171",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "LTI",
+                    "model": "TX",
+                    "generation": "TXII",
+                    "engine": "2.4 DuraTorq (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1800",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "fuel": "Diesel",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TXI",
+              "modelYear": "1997",
+              "id": "1921",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9172",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "LTI",
+                    "model": "TX",
+                    "generation": "TXI",
+                    "engine": "2.7 D (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/4300",
+                    "powerHp": "82",
+                    "powerRpm": "4300",
+                    "powerRpmLow": "4300",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1800",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "fuel": "Diesel",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

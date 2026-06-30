@@ -1,0 +1,54 @@
+{
+  "update": "2020-03-02 16:01:09",
+  "name": "Melkus",
+  "id": "293",
+  "models": {
+    "model": [
+      {
+        "update": "2021-05-17 08:54:49",
+        "name": "RS2000",
+        "id": "2931",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-05-17 08:54:42",
+              "name": "RS2000",
+              "modelYear": "2009",
+              "id": "8364",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43450",
+                    "update": "2023-08-15 15:29:02",
+                    "brand": "Melkus",
+                    "model": "RS2000",
+                    "generation": "RS2000",
+                    "engine": "1.8 VVTL-i (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270/7800",
+                    "powerHp": "270",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2009",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3910",
+                    "width": "1777",
+                    "height": "1151",
+                    "heightMin": "1151",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

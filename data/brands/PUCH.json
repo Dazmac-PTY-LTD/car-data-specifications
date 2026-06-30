@@ -1,0 +1,375 @@
+{
+  "update": "2021-01-13 13:26:57",
+  "name": "PUCH",
+  "id": "79",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 12:36:03",
+        "name": "G-modell",
+        "id": "878",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 08:54:53",
+              "name": "G-modell (W 461)",
+              "modelYear": "1992",
+              "id": "1841",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8328",
+                    "update": "2023-08-11 10:40:12",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 461)",
+                    "engine": "230 GE (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "1992",
+                    "yearstop": "2001",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8329",
+                    "update": "2023-08-22 15:58:14",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 461)",
+                    "engine": "290 GD/G 290 D (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1992",
+                    "yearstop": "1997",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8330",
+                    "update": "2023-06-22 15:55:01",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 461)",
+                    "engine": "G 290 TD (120 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120",
+                    "powerHp": "120",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 08:54:53",
+              "name": "G-modell (W 463)",
+              "modelYear": "1990",
+              "id": "1840",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8319",
+                    "update": "2023-08-11 10:29:25",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "230 GE (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126",
+                    "powerHp": "126",
+                    "yearstart": "1990",
+                    "yearstop": "1995",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8320",
+                    "update": "2023-08-11 10:34:54",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "300 GD (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113",
+                    "powerHp": "113",
+                    "yearstart": "1990",
+                    "yearstop": "1994",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8321",
+                    "update": "2023-08-11 10:35:04",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "300 GE (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8322",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "350 G Turbo D (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136",
+                    "powerHp": "136",
+                    "yearstart": "1992",
+                    "yearstop": "1997",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8323",
+                    "update": "2023-06-22 15:55:02",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "G 300 TD (177 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177",
+                    "powerHp": "177",
+                    "yearstart": "1990",
+                    "yearstop": "1994",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8324",
+                    "update": "2023-08-11 10:39:28",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "G 320 V6 (211 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "211",
+                    "powerHp": "211",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8325",
+                    "update": "2023-08-11 10:42:53",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "G 36 AMG (272 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "1994",
+                    "yearstop": "1998",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8326",
+                    "update": "2023-08-11 10:40:57",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "G 500 (296 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "296",
+                    "powerHp": "296",
+                    "yearstart": "1998",
+                    "yearstop": "2007",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8327",
+                    "update": "2023-08-11 10:40:52",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 463)",
+                    "engine": "G 55 AMG (354 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "354",
+                    "powerHp": "354",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 08:54:53",
+              "name": "G-modell (W 460)",
+              "modelYear": "1979",
+              "id": "1842",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8331",
+                    "update": "2023-08-11 11:00:05",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "230 G (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102",
+                    "powerHp": "102",
+                    "yearstart": "1980",
+                    "yearstop": "1987",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8332",
+                    "update": "2023-08-11 11:00:25",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "230 GE (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "1982",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8333",
+                    "update": "2023-08-11 11:00:32",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "240 GD (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1979",
+                    "yearstop": "1987",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8334",
+                    "update": "2023-08-11 10:59:10",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "250 GD (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84",
+                    "powerHp": "84",
+                    "yearstart": "1987",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8335",
+                    "update": "2023-08-11 10:59:27",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "280 GE (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1984",
+                    "yearstop": "1989",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8336",
+                    "update": "2023-08-11 10:59:52",
+                    "brand": "PUCH",
+                    "model": "G-modell",
+                    "generation": "G-modell (W 460)",
+                    "engine": "300 GD (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88/",
+                    "powerHp": "88",
+                    "yearstart": "1979",
+                    "yearstop": "1991",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-13 13:26:57",
+        "name": "Pinzgauer",
+        "id": "879",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 09:00:28",
+              "name": "Pinzgauer",
+              "modelYear": "1971",
+              "id": "1843",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8337",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "PUCH",
+                    "model": "Pinzgauer",
+                    "generation": "Pinzgauer",
+                    "engine": "2.4 TD (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115",
+                    "powerHp": "115",
+                    "yearstart": "1971",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

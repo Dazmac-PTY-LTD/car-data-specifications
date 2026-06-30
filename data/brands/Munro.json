@@ -1,0 +1,220 @@
+{
+  "update": "2022-12-15 10:48:54",
+  "name": "Munro",
+  "id": "316",
+  "models": {
+    "model": [
+      {
+        "update": "2022-12-15 10:54:12",
+        "name": "MK_1",
+        "id": "3199",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2026-06-08 15:13:06",
+              "name": "MK_1 (Prototype)",
+              "modelYear": "2023",
+              "id": "9156",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47017",
+                    "update": "2026-06-08 16:00:33",
+                    "brand": "Munro",
+                    "model": "MK_1",
+                    "generation": "MK_1 (Prototype)",
+                    "engine": "Utility 61.2 kWh (295 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "widthOpenedMirrors": "1860",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "47018",
+                    "update": "2026-06-08 16:00:53",
+                    "brand": "Munro",
+                    "model": "MK_1",
+                    "generation": "MK_1 (Prototype)",
+                    "engine": "Range 82.4 kWh (295 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "widthOpenedMirrors": "1860",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "47019",
+                    "update": "2026-06-08 16:01:07",
+                    "brand": "Munro",
+                    "model": "MK_1",
+                    "generation": "MK_1 (Prototype)",
+                    "engine": "Performance 82.4 kWh (375 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "widthOpenedMirrors": "1860",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-08 15:33:29",
+        "name": "Series-M",
+        "id": "4040",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-09 08:39:22",
+              "name": "Series-M Truck",
+              "modelYear": "2024",
+              "id": "11295",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57198",
+                    "update": "2026-06-09 09:18:04",
+                    "brand": "Munro",
+                    "model": "Series-M",
+                    "generation": "Series-M Truck",
+                    "engine": "M170 88.32 kWh (228 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle, Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  },
+                  {
+                    "id": "57199",
+                    "update": "2026-06-09 09:19:00",
+                    "brand": "Munro",
+                    "model": "Series-M",
+                    "generation": "Series-M Truck",
+                    "engine": "M280 88.32 kWh (375 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle, Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-06-08 15:37:10",
+              "name": "Series-M Utility",
+              "modelYear": "2024",
+              "id": "11294",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57194",
+                    "update": "2026-06-08 16:22:05",
+                    "brand": "Munro",
+                    "model": "Series-M",
+                    "generation": "Series-M Utility",
+                    "engine": "M170 88.32 kWh (228 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  },
+                  {
+                    "id": "57195",
+                    "update": "2026-06-08 16:21:48",
+                    "brand": "Munro",
+                    "model": "Series-M",
+                    "generation": "Series-M Utility",
+                    "engine": "M280 88.32 kWh (375 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1812",
+                    "height": "2010",
+                    "heightMin": "2010",
+                    "rideHeight": "480",
+                    "rideHeightMin": "480",
+                    "fuel": "Electricity",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

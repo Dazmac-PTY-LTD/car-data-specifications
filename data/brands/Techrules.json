@@ -1,0 +1,71 @@
+{
+  "update": "2020-11-04 09:25:44",
+  "name": "Techrules",
+  "id": "231",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-04 09:25:44",
+        "name": "Ren",
+        "id": "2373",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ren",
+              "modelYear": "2018",
+              "id": "6149",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32808",
+                    "update": "2023-08-21 15:47:25",
+                    "brand": "Techrules",
+                    "model": "Ren",
+                    "generation": "Ren",
+                    "engine": "RS 28.4 kWh (1305 Hp) AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "5072",
+                    "width": "2055",
+                    "height": "1260",
+                    "heightMin": "1260",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Diesel",
+                    "curbWeight": "1854",
+                    "curbWeightMin": "1854"
+                  },
+                  {
+                    "id": "32809",
+                    "update": "2023-08-21 15:30:41",
+                    "brand": "Techrules",
+                    "model": "Ren",
+                    "generation": "Ren",
+                    "engine": "28.4 kWh (1305 Hp) AWD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4694",
+                    "width": "2048",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Diesel",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

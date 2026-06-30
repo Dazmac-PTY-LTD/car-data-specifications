@@ -1,0 +1,77 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "Fuqi",
+  "id": "82",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 15:12:30",
+        "name": "6500 (Land King)",
+        "id": "910",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "6500 (Land King)",
+              "modelYear": "2005",
+              "id": "1919",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "9169",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Fuqi",
+                    "model": "6500 (Land King)",
+                    "generation": "6500 (Land King)",
+                    "engine": "3.0 V6 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5200",
+                    "powerHp": "160",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5160",
+                    "width": "1895",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "9170",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Fuqi",
+                    "model": "6500 (Land King)",
+                    "generation": "6500 (Land King)",
+                    "engine": "3.2 D (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/3600",
+                    "powerHp": "136",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2007",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5160",
+                    "width": "1895",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "fuel": "Diesel",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

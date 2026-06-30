@@ -1,0 +1,544 @@
+{
+  "update": "2019-08-30 15:53:34",
+  "name": "Daimler",
+  "id": "7",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-29 15:42:54",
+        "name": "2.8 - 5.3",
+        "id": "150",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 16:28:53",
+              "name": "2.8 - 5.3",
+              "modelYear": "1969",
+              "id": "324",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1100",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six / Vanden 5.3 (253 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "253",
+                    "powerHp": "253",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1101",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six / Vanden 5.3 (269 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "269",
+                    "powerHp": "269",
+                    "yearstart": "1972",
+                    "yearstop": "1973",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1102",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six 5.3 (264 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "264",
+                    "powerHp": "264",
+                    "yearstart": "1986",
+                    "yearstop": "1993",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1103",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six 5.3 (268 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "268",
+                    "powerHp": "268",
+                    "yearstart": "1981",
+                    "yearstop": "1993",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1104",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six 5.3 (287 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "287",
+                    "powerHp": "287",
+                    "yearstart": "1975",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1105",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Double Six HE 5.3 (295 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "295",
+                    "powerHp": "295",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1106",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 2.8 (149 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149",
+                    "powerHp": "149",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1107",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 3.4 (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1108",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 4.2 (169 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169",
+                    "powerHp": "169",
+                    "yearstart": "1976",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1109",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 4.2 (173 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "173",
+                    "powerHp": "173",
+                    "yearstart": "1973",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1110",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 4.2 (186 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186",
+                    "powerHp": "186",
+                    "yearstart": "1969",
+                    "yearstop": "1973",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1111",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "2.8 - 5.3",
+                    "generation": "2.8 - 5.3",
+                    "engine": "Sovereign 4.2 (205 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "205",
+                    "powerHp": "205",
+                    "yearstart": "1979",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 15:53:34",
+        "name": "Daimler",
+        "id": "151",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Daimler (X300)",
+              "modelYear": "1998",
+              "id": "325",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1112",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Daimler",
+                    "model": "Daimler",
+                    "generation": "Daimler (X300)",
+                    "engine": "4.0 i V8 32V (284 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "284/6100",
+                    "powerHp": "284",
+                    "powerRpm": "6100",
+                    "powerRpmLow": "6100",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5148",
+                    "width": "1798",
+                    "height": "1380",
+                    "heightMin": "1380",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  },
+                  {
+                    "id": "1113",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Daimler",
+                    "model": "Daimler",
+                    "generation": "Daimler (X300)",
+                    "engine": "4.0 i V8 32V Super (363 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "363/6150",
+                    "powerHp": "363",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "1997",
+                    "yearstop": "1998",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5148",
+                    "width": "1798",
+                    "height": "1380",
+                    "heightMin": "1380",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-07 13:00:06",
+              "name": "Daimler Double Six",
+              "modelYear": "1993",
+              "id": "326",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1114",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "Daimler",
+                    "generation": "Daimler Double Six",
+                    "engine": "6.0 i V12 (318 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "318",
+                    "powerHp": "318",
+                    "yearstart": "1993",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 16:23:30",
+        "name": "Super Eight",
+        "id": "153",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 13:55:08",
+              "name": "Super Eight",
+              "modelYear": "2006",
+              "id": "327",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1115",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Daimler",
+                    "model": "Super Eight",
+                    "generation": "Super Eight",
+                    "engine": "4.2i V8 32V (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/6100",
+                    "powerHp": "400",
+                    "powerRpm": "6100",
+                    "powerRpmLow": "6100",
+                    "yearstart": "2005",
+                    "yearstop": "2009",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 16:25:35",
+        "name": "XJ 40, 81",
+        "id": "154",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 13:57:07",
+              "name": "XJ 40, 81",
+              "modelYear": "1986",
+              "id": "328",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1116",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "XJ 40, 81",
+                    "generation": "XJ 40, 81",
+                    "engine": "Double Six 6.0 (311 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "311",
+                    "powerHp": "311",
+                    "yearstart": "1993",
+                    "yearstop": "1994",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1117",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "XJ 40, 81",
+                    "generation": "XJ 40, 81",
+                    "engine": "Sovereign 3.6 (185 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185",
+                    "powerHp": "185",
+                    "yearstart": "1986",
+                    "yearstop": "1989",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1118",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "XJ 40, 81",
+                    "generation": "XJ 40, 81",
+                    "engine": "Sovereign 3.6 (197 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "1986",
+                    "yearstop": "1989",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1119",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "XJ 40, 81",
+                    "generation": "XJ 40, 81",
+                    "engine": "Sovereign 4.0 (222 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "222",
+                    "powerHp": "222",
+                    "yearstart": "1989",
+                    "yearstop": "1994",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 15:50:18",
+        "name": "Coupe",
+        "id": "155",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 12:58:22",
+              "name": "Coupe",
+              "modelYear": "1972",
+              "id": "329",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1120",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "Coupe",
+                    "generation": "Coupe",
+                    "engine": "Double Six 5.3 (289 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "289",
+                    "powerHp": "289",
+                    "yearstart": "1975",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1121",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "Coupe",
+                    "generation": "Coupe",
+                    "engine": "Sovereign 4.2 (172 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "172",
+                    "powerHp": "172",
+                    "yearstart": "1973",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Landaulette",
+        "id": "156",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 13:54:16",
+              "name": "Landaulette",
+              "modelYear": "1975",
+              "id": "330",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1122",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "Landaulette",
+                    "generation": "Landaulette",
+                    "engine": "4.2 (167 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "167",
+                    "powerHp": "167",
+                    "yearstart": "1974",
+                    "yearstop": "1991",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1123",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Daimler",
+                    "model": "Landaulette",
+                    "generation": "Landaulette",
+                    "engine": "4.2 (178 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "178",
+                    "powerHp": "178",
+                    "yearstart": "1988",
+                    "yearstop": "1991",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

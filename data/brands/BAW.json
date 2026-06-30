@@ -1,0 +1,49 @@
+{
+  "update": "2024-04-24 11:14:02",
+  "name": "BAW",
+  "id": "344",
+  "models": {
+    "model": [
+      {
+        "update": "2024-04-24 11:15:04",
+        "name": "Pony",
+        "id": "3436",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-04-24 11:25:49",
+              "name": "Pony",
+              "modelYear": "2023",
+              "id": "10003",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51623",
+                    "update": "2024-04-24 14:18:03",
+                    "brand": "BAW",
+                    "model": "Pony",
+                    "generation": "Pony",
+                    "engine": "13.7 kWh (27 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Quadricycle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3162",
+                    "width": "1498",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "fuel": "Electricity",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

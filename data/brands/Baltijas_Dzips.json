@@ -1,0 +1,45 @@
+{
+  "update": "2019-05-22 15:10:12",
+  "name": "Baltijas Dzips",
+  "id": "56",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 15:54:29",
+        "name": "BD",
+        "id": "638",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:36:40",
+              "name": "BD-1322",
+              "modelYear": "1998",
+              "id": "1339",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5852",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Baltijas Dzips",
+                    "model": "BD",
+                    "generation": "BD-1322",
+                    "engine": "2.7 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100",
+                    "powerHp": "100",
+                    "yearstart": "1998",
+                    "yearstop": "1998",
+                    "coupe": "Pick-up",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:20",
+  "name": "ShuangHuan",
+  "id": "149",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-01 12:16:08",
+        "name": "Sceo",
+        "id": "1507",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 15:34:22",
+              "name": "Sceo",
+              "modelYear": "2005",
+              "id": "3016",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13941",
+                    "update": "2023-06-15 08:48:05",
+                    "brand": "ShuangHuan",
+                    "model": "Sceo",
+                    "generation": "Sceo",
+                    "engine": "2.4 (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5250",
+                    "powerHp": "125",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2005",
+                    "yearstop": "2011",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1871",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

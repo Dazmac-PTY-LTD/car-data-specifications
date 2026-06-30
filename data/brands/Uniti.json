@@ -1,0 +1,69 @@
+{
+  "update": "2019-10-31 15:58:04",
+  "name": "Uniti",
+  "id": "287",
+  "models": {
+    "model": [
+      {
+        "update": "2019-11-05 09:35:08",
+        "name": "One",
+        "id": "2747",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "One",
+              "modelYear": "2018",
+              "id": "7381",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37975",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Uniti",
+                    "model": "One",
+                    "generation": "One",
+                    "engine": "12 kWh (68 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "3222",
+                    "width": "1709",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "600",
+                    "curbWeightMin": "600"
+                  },
+                  {
+                    "id": "37976",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Uniti",
+                    "model": "One",
+                    "generation": "One",
+                    "engine": "24 kWh (68 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "3222",
+                    "width": "1709",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "600",
+                    "curbWeightMin": "600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "Minelli",
+  "id": "163",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-12 09:13:38",
+        "name": "TF 1800",
+        "id": "1668",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TF 1800",
+              "modelYear": "1999",
+              "id": "3284",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14854",
+                    "update": "2022-07-08 08:52:20",
+                    "brand": "Minelli",
+                    "model": "TF 1800",
+                    "generation": "TF 1800",
+                    "engine": "1.8 i 16V (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/5750",
+                    "powerHp": "115",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3815",
+                    "width": "1680",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

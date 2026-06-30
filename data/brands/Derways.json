@@ -1,0 +1,419 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Derways",
+  "id": "27",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:34:08",
+        "name": "Antelope",
+        "id": "307",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Antelope",
+              "modelYear": "2007",
+              "id": "642",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2812",
+                    "update": "2023-06-15 08:48:02",
+                    "brand": "Derways",
+                    "model": "Antelope",
+                    "generation": "Antelope",
+                    "engine": "2.4 (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2007",
+                    "yearstop": "2007",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:34:59",
+        "name": "Cowboy",
+        "id": "308",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Cowboy",
+              "modelYear": "2004",
+              "id": "643",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2813",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Derways",
+                    "model": "Cowboy",
+                    "generation": "Cowboy",
+                    "engine": "2.0 TD (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1813",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Diesel",
+                    "curbWeight": "1802",
+                    "curbWeightMin": "1802"
+                  },
+                  {
+                    "id": "2814",
+                    "update": "2023-08-03 16:32:48",
+                    "brand": "Derways",
+                    "model": "Cowboy",
+                    "generation": "Cowboy",
+                    "engine": "2.4 i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5250",
+                    "powerHp": "130",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1813",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1880",
+                    "curbWeightMin": "1880"
+                  },
+                  {
+                    "id": "2815",
+                    "update": "2023-08-03 16:32:47",
+                    "brand": "Derways",
+                    "model": "Cowboy",
+                    "generation": "Cowboy",
+                    "engine": "2.7 i (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1813",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1888",
+                    "curbWeightMin": "1888"
+                  },
+                  {
+                    "id": "2816",
+                    "update": "2023-08-03 16:32:47",
+                    "brand": "Derways",
+                    "model": "Cowboy",
+                    "generation": "Cowboy",
+                    "engine": "3.0 i V6 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5200",
+                    "powerHp": "160",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4440",
+                    "width": "1813",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1888",
+                    "curbWeightMin": "1888"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:36:30",
+        "name": "Plutus",
+        "id": "309",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Plutus",
+              "modelYear": "2007",
+              "id": "644",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2817",
+                    "update": "2023-06-15 08:48:03",
+                    "brand": "Derways",
+                    "model": "Plutus",
+                    "generation": "Plutus",
+                    "engine": "2.4 (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5405",
+                    "width": "1725",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:36:56",
+        "name": "Saladin",
+        "id": "310",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Saladin",
+              "modelYear": "2008",
+              "id": "645",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2818",
+                    "update": "2023-08-18 10:34:36",
+                    "brand": "Derways",
+                    "model": "Saladin",
+                    "generation": "Saladin",
+                    "engine": "2.4 i (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5600",
+                    "powerHp": "150",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1840",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  },
+                  {
+                    "id": "2819",
+                    "update": "2023-08-18 10:36:59",
+                    "brand": "Derways",
+                    "model": "Saladin",
+                    "generation": "Saladin",
+                    "engine": "3.3 V6 (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5200",
+                    "powerHp": "170",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1840",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:37:20",
+        "name": "Shuttle",
+        "id": "311",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Shuttle",
+              "modelYear": "2006",
+              "id": "646",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2820",
+                    "update": "2023-06-15 08:48:03",
+                    "brand": "Derways",
+                    "model": "Shuttle",
+                    "generation": "Shuttle",
+                    "engine": "2.4 i 16V (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2005",
+                    "yearstop": "2008",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4985",
+                    "width": "1800",
+                    "height": "1885",
+                    "heightMin": "1885",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:34:17",
+        "name": "Aurora",
+        "id": "312",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 10:32:41",
+              "name": "Aurora",
+              "modelYear": "2006",
+              "id": "647",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2821",
+                    "update": "2023-06-15 08:48:02",
+                    "brand": "Derways",
+                    "model": "Aurora",
+                    "generation": "Aurora",
+                    "engine": "(126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/5250",
+                    "powerHp": "126",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2006",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1770",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-30 10:35:10",
+        "name": "Land Crown",
+        "id": "313",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Land Crown",
+              "modelYear": "2006",
+              "id": "648",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2822",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Derways",
+                    "model": "Land Crown",
+                    "generation": "Land Crown",
+                    "engine": "3.0 V6 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5200",
+                    "powerHp": "160",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2007",
+                    "yearstop": "2007",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4795",
+                    "width": "1835",
+                    "height": "1925",
+                    "heightMin": "1925",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

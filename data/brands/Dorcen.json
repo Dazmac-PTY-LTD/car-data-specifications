@@ -1,0 +1,274 @@
+{
+  "update": "2026-05-26 10:49:40",
+  "name": "Dorcen",
+  "id": "396",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-26 10:51:33",
+        "name": "G70S",
+        "id": "4023",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-26 10:52:23",
+              "name": "G70S",
+              "modelYear": "2019",
+              "id": "11265",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57082",
+                    "update": "2026-05-26 11:23:35",
+                    "brand": "Dorcen",
+                    "model": "G70S",
+                    "generation": "G70S",
+                    "engine": "2.0T (190 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4736",
+                    "width": "1942",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1731",
+                    "curbWeightMin": "1731"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-26 11:29:22",
+        "name": "G60",
+        "id": "4024",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-26 11:29:33",
+              "name": "G60",
+              "modelYear": "2019",
+              "id": "11267",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57083",
+                    "update": "2026-05-26 12:07:07",
+                    "brand": "Dorcen",
+                    "model": "G60",
+                    "generation": "G60",
+                    "engine": "1.6 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6000",
+                    "powerHp": "116",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4540",
+                    "width": "1840",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "57084",
+                    "update": "2026-05-26 13:28:49",
+                    "brand": "Dorcen",
+                    "model": "G60",
+                    "generation": "G60",
+                    "engine": "1.5T (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4540",
+                    "width": "1840",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "57085",
+                    "update": "2026-05-26 13:43:36",
+                    "brand": "Dorcen",
+                    "model": "G60",
+                    "generation": "G60",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6000",
+                    "powerHp": "150",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4540",
+                    "width": "1840",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-26 13:58:45",
+        "name": "G60S",
+        "id": "4028",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-26 14:00:14",
+              "name": "G60S",
+              "modelYear": "2019",
+              "id": "11272",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57086",
+                    "update": "2026-05-26 14:31:14",
+                    "brand": "Dorcen",
+                    "model": "G60S",
+                    "generation": "G60S",
+                    "engine": "1.5T (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4521",
+                    "width": "1840",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "57087",
+                    "update": "2026-05-26 14:47:33",
+                    "brand": "Dorcen",
+                    "model": "G60S",
+                    "generation": "G60S",
+                    "engine": "1.5T (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4521",
+                    "width": "1840",
+                    "height": "1672",
+                    "heightMin": "1672",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-26 15:14:17",
+        "name": "E20",
+        "id": "4029",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-26 15:14:53",
+              "name": "E20",
+              "modelYear": "2019",
+              "id": "11273",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57088",
+                    "update": "2026-05-26 15:24:08",
+                    "brand": "Dorcen",
+                    "model": "E20",
+                    "generation": "E20",
+                    "engine": "30.1 kWh (48 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2871",
+                    "width": "1563",
+                    "height": "1568",
+                    "heightMin": "1568",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": "912",
+                    "curbWeightMin": "912"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

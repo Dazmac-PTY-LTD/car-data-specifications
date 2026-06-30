@@ -1,0 +1,191 @@
+{
+  "update": "2020-03-17 13:05:43",
+  "name": "Fisker",
+  "id": "288",
+  "models": {
+    "model": [
+      {
+        "update": "2019-12-09 09:15:12",
+        "name": "EMotion",
+        "id": "2754",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EMotion EV",
+              "modelYear": "2020",
+              "id": "7390",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38197",
+                    "update": "2020-08-10 17:29:58",
+                    "brand": "Fisker",
+                    "model": "EMotion",
+                    "generation": "EMotion EV",
+                    "engine": "145 kWh (780 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5085",
+                    "widthOpenedMirrors": "2015",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-18 08:48:58",
+        "name": "Ocean",
+        "id": "2799",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ocean",
+              "modelYear": "2022",
+              "id": "7605",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39340",
+                    "update": "2026-04-01 14:08:32",
+                    "brand": "Fisker",
+                    "model": "Ocean",
+                    "generation": "Ocean",
+                    "engine": "Extreme/One 113 kWh Hyper Range (564 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1629",
+                    "heightMin": "1629",
+                    "rideHeight": "165-180",
+                    "rideHeightMin": "165",
+                    "rideHeightMax": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2436",
+                    "curbWeightMin": "2436"
+                  },
+                  {
+                    "id": "47137",
+                    "update": "2026-04-01 14:08:32",
+                    "brand": "Fisker",
+                    "model": "Ocean",
+                    "generation": "Ocean",
+                    "engine": "Sport 73 kWh Touring Range (282 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1631",
+                    "heightMin": "1631",
+                    "rideHeight": "165-180",
+                    "rideHeightMin": "165",
+                    "rideHeightMax": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2193",
+                    "curbWeightMin": "2193"
+                  },
+                  {
+                    "id": "47138",
+                    "update": "2026-04-01 14:08:32",
+                    "brand": "Fisker",
+                    "model": "Ocean",
+                    "generation": "Ocean",
+                    "engine": "Ultra 113 kWh Hyper Range (564 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "widthFoldedMirrors": "1990",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1629",
+                    "heightMin": "1629",
+                    "rideHeight": "165-180",
+                    "rideHeightMin": "165",
+                    "rideHeightMax": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2436",
+                    "curbWeightMin": "2436"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-07-09 09:21:07",
+        "name": "Karma",
+        "id": "2969",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-09 09:22:06",
+              "name": "Karma",
+              "modelYear": "2011",
+              "id": "8482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43847",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Fisker",
+                    "model": "Karma",
+                    "generation": "Karma",
+                    "engine": "2.0 (408 Hp) Plug-in Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "260/5300",
+                    "powerHp": "260",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2011",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4996",
+                    "width": "1984",
+                    "height": "1330",
+                    "heightMin": "1330",
+                    "rideHeight": "138",
+                    "rideHeightMin": "138",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2505",
+                    "curbWeightMin": "2505"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

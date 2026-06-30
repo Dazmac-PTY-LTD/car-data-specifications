@@ -1,0 +1,54 @@
+{
+  "update": "2019-08-07 13:47:43",
+  "name": "Ronart",
+  "id": "114",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-07 13:47:43",
+        "name": "Lightning",
+        "id": "1145",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Lightning",
+              "modelYear": "2000",
+              "id": "2308",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "11037",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ronart",
+                    "model": "Lightning",
+                    "generation": "Lightning",
+                    "engine": "4.6 i V8 32V (325 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "325/5800",
+                    "powerHp": "325",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1999",
+                    "yearstop": "2003",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "1870",
+                    "height": "1195",
+                    "heightMin": "1195",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

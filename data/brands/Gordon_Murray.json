@@ -1,0 +1,143 @@
+{
+  "update": "2022-02-14 12:23:25",
+  "name": "Gordon Murray",
+  "id": "307",
+  "models": {
+    "model": [
+      {
+        "update": "2022-02-14 12:31:52",
+        "name": "T.33",
+        "id": "3059",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-14 12:34:14",
+              "name": "T.33",
+              "modelYear": "2023",
+              "id": "8766",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45411",
+                    "update": "2022-02-14 13:31:25",
+                    "brand": "Gordon Murray",
+                    "model": "T.33",
+                    "generation": "T.33",
+                    "engine": "4.0 V12 (615 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "615/10500",
+                    "powerHp": "615",
+                    "powerRpm": "10500",
+                    "powerRpmLow": "10500",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4398",
+                    "width": "1850",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1090",
+                    "curbWeightMin": "1090"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-02-14 13:02:19",
+        "name": "T.50",
+        "id": "3060",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-14 13:02:44",
+              "name": "T.50",
+              "modelYear": "2022",
+              "id": "8767",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45412",
+                    "update": "2022-02-14 13:31:25",
+                    "brand": "Gordon Murray",
+                    "model": "T.50",
+                    "generation": "T.50",
+                    "engine": "4.0 V12 (650 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650",
+                    "powerHp": "650",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4349",
+                    "width": "1850",
+                    "height": "1152",
+                    "heightMin": "1152",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-02-14 13:20:57",
+        "name": "T.50s",
+        "id": "3061",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-14 13:21:19",
+              "name": "T.50s",
+              "modelYear": "2022",
+              "id": "8768",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45413",
+                    "update": "2022-02-14 13:31:25",
+                    "brand": "Gordon Murray",
+                    "model": "T.50s",
+                    "generation": "T.50s",
+                    "engine": "Niki Lauda 4.0 V12 (711 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "711/11500",
+                    "powerHp": "711",
+                    "powerRpm": "11500",
+                    "powerRpmLow": "11500",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4416",
+                    "width": "1917",
+                    "height": "1179",
+                    "heightMin": "1179",
+                    "rideHeight": "87",
+                    "rideHeightMin": "87",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "852",
+                    "curbWeightMin": "852"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

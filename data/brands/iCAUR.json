@@ -1,0 +1,73 @@
+{
+  "update": "2025-09-16 15:18:25",
+  "name": "iCAUR",
+  "id": "373",
+  "models": {
+    "model": [
+      {
+        "update": "2025-09-18 08:44:42",
+        "name": "03",
+        "id": "3820",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-18 08:47:23",
+              "name": "03",
+              "modelYear": "2025",
+              "id": "10827",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55384",
+                    "update": "2025-09-18 16:14:36",
+                    "brand": "iCAUR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "69.8 kWh (279 Hp) iWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Electricity",
+                    "curbWeight": "1874",
+                    "curbWeightMin": "1874"
+                  },
+                  {
+                    "id": "55385",
+                    "update": "2025-09-18 16:13:15",
+                    "brand": "iCAUR",
+                    "model": "03",
+                    "generation": "03",
+                    "engine": "65.7 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4406",
+                    "width": "1910",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "195",
+                    "rideHeightMin": "195",
+                    "fuel": "Electricity",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

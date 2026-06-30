@@ -1,0 +1,954 @@
+{
+  "update": "2024-07-16 12:10:40",
+  "name": "Denza",
+  "id": "347",
+  "models": {
+    "model": [
+      {
+        "update": "2024-07-16 12:15:20",
+        "name": "N7",
+        "id": "3470",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-16 15:02:06",
+              "name": "N7 (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10095",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52268",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "N7",
+                    "generation": "N7 (facelift 2024)",
+                    "engine": "71.8 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1935",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52269",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "N7",
+                    "generation": "N7 (facelift 2024)",
+                    "engine": "91.3 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1935",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52270",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "N7",
+                    "generation": "N7 (facelift 2024)",
+                    "engine": "91.3 kWh (530 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1935",
+                    "height": "1602",
+                    "heightMin": "1602",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-07-16 12:15:43",
+              "name": "N7",
+              "modelYear": "2023",
+              "id": "10093",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52266",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "N7",
+                    "generation": "N7",
+                    "engine": "91.3 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1935",
+                    "height": "1602",
+                    "heightMin": "1602",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280-2320",
+                    "curbWeightMin": "2280",
+                    "curbWeightMax": "2320"
+                  },
+                  {
+                    "id": "52267",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "N7",
+                    "generation": "N7",
+                    "engine": "91.3 kWh (530 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1935",
+                    "height": "1602",
+                    "heightMin": "1602",
+                    "fuel": "Electricity",
+                    "curbWeight": "2420-2440",
+                    "curbWeightMin": "2420",
+                    "curbWeightMax": "2440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-17 11:36:51",
+        "name": "D9",
+        "id": "3471",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-17 11:37:17",
+              "name": "D9",
+              "modelYear": "2022",
+              "id": "10099",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52275",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "DM-i 1.5Ti 20 kWh (300 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52276",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "PIONEER DM-i 1.5Ti 40 kWh (407 Hp) Plug-in Hybrid 4WD E-CVT 4 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52277",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "EV 103.36 kWh (313 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Electricity",
+                    "curbWeight": "2690",
+                    "curbWeightMin": "2690"
+                  },
+                  {
+                    "id": "52278",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "EV 103.36 kWh (374 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Electricity",
+                    "curbWeight": "2785",
+                    "curbWeightMin": "2785"
+                  },
+                  {
+                    "id": "52279",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "DM-i 1.5Ti 40 kWh (300 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52280",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "DM-i 1.5Ti 40 kWh (407 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56838",
+                    "update": "2026-04-14 16:18:26",
+                    "brand": "Denza",
+                    "model": "D9",
+                    "generation": "D9",
+                    "engine": "DM-i 1.5L 58.5 kWh (354 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "120",
+                    "powerHp": "120",
+                    "yearstart": "2026",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5250",
+                    "width": "1960",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2895",
+                    "curbWeightMin": "2895"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-19 11:13:51",
+        "name": "X/N8",
+        "id": "3472",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-22 11:12:20",
+              "name": "N8 (facelift 2023)",
+              "modelYear": "2023",
+              "id": "10104",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52295",
+                    "update": "2025-06-23 12:32:51",
+                    "brand": "Denza",
+                    "model": "X/N8",
+                    "generation": "N8 (facelift 2023)",
+                    "engine": "DM-p 1.5T (615 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4949",
+                    "width": "1950",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-07-19 11:09:32",
+              "name": "X",
+              "modelYear": "2019",
+              "id": "10100",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52281",
+                    "update": "2024-07-22 11:10:44",
+                    "brand": "Denza",
+                    "model": "X/N8",
+                    "generation": "X",
+                    "engine": "2.0T 20 kWh (586 Hp) Plug-in Hybrid 4WD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "192/5500",
+                    "powerHp": "192",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4890",
+                    "width": "1950",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2390",
+                    "curbWeightMin": "2390"
+                  },
+                  {
+                    "id": "52282",
+                    "update": "2024-07-22 11:10:42",
+                    "brand": "Denza",
+                    "model": "X/N8",
+                    "generation": "X",
+                    "engine": "2.0T 24 kWh (586 Hp) Plug-in Hybrid 4WD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "192/5500",
+                    "powerHp": "192",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4890",
+                    "width": "1950",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2390",
+                    "curbWeightMin": "2390"
+                  },
+                  {
+                    "id": "52283",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "X/N8",
+                    "generation": "X",
+                    "engine": "82.8 kWh (245 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4890",
+                    "width": "1950",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52284",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "X/N8",
+                    "generation": "X",
+                    "engine": "82.8 kWh (490 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4890",
+                    "width": "1950",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Electricity",
+                    "curbWeight": "2330",
+                    "curbWeightMin": "2330"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-22 14:02:26",
+        "name": "EV/500",
+        "id": "3474",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-22 15:09:16",
+              "name": "500 (facelift 2018)",
+              "modelYear": "2018",
+              "id": "10107",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52299",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "EV/500",
+                    "generation": "500 (facelift 2018)",
+                    "engine": "70 kWh (117 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4672",
+                    "width": "1850",
+                    "height": "1642",
+                    "heightMin": "1642",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52300",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "EV/500",
+                    "generation": "500 (facelift 2018)",
+                    "engine": "70 kWh (184 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4672",
+                    "width": "1850",
+                    "height": "1642",
+                    "heightMin": "1642",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-07-22 14:02:53",
+              "name": "EV",
+              "modelYear": "2014",
+              "id": "10105",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52296",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "EV/500",
+                    "generation": "EV",
+                    "engine": "47.5 kWh (117 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4642",
+                    "width": "1850",
+                    "height": "1642",
+                    "heightMin": "1642",
+                    "fuel": "Electricity",
+                    "curbWeight": "2090",
+                    "curbWeightMin": "2090"
+                  },
+                  {
+                    "id": "52297",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "EV/500",
+                    "generation": "EV",
+                    "engine": "62 kWh (117 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4642",
+                    "width": "1850",
+                    "height": "1642",
+                    "heightMin": "1642",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52298",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Denza",
+                    "model": "EV/500",
+                    "generation": "EV",
+                    "engine": "62 kWh (184 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "yearstop": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4642",
+                    "width": "1850",
+                    "height": "1642",
+                    "heightMin": "1642",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-07-22 16:07:20",
+        "name": "Z9",
+        "id": "3475",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-23 12:40:57",
+              "name": "Z9",
+              "modelYear": "2025",
+              "id": "10630",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54672",
+                    "update": "2026-04-09 10:36:27",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9",
+                    "engine": "2.0T 38.5 kWh (870 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "207",
+                    "powerHp": "207",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5235",
+                    "width": "1990",
+                    "height": "1500-1518",
+                    "heightMin": "1500",
+                    "heightMax": "1518",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54673",
+                    "update": "2025-08-22 12:46:08",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9",
+                    "engine": "100 kWh (965 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5220",
+                    "width": "1990",
+                    "height": "1500-1518",
+                    "heightMin": "1500",
+                    "heightMax": "1518",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-09-24 11:36:05",
+              "name": "Z9 GT",
+              "modelYear": "2025",
+              "id": "10108",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52796",
+                    "update": "2026-04-09 12:18:42",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "2.0T 38.5 kWh (870 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "207",
+                    "powerHp": "207",
+                    "yearstart": "2024",
+                    "yearstop": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5195",
+                    "width": "1990",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52797",
+                    "update": "2026-04-09 10:01:19",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "100 kWh (965 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5180",
+                    "width": "1990",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56829",
+                    "update": "2026-04-09 16:24:23",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "102.3 kWh (503 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5180",
+                    "width": "1990",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56830",
+                    "update": "2026-04-09 16:24:23",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "122.5 kWh (503 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5180",
+                    "width": "1990",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56831",
+                    "update": "2026-04-09 16:24:23",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "122.5 kWh (1156 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5180",
+                    "width": "1990",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56832",
+                    "update": "2026-04-09 16:24:23",
+                    "brand": "Denza",
+                    "model": "Z9",
+                    "generation": "Z9 GT",
+                    "engine": "2.0T 63.8 kWh (870 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "207",
+                    "powerHp": "207",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5195",
+                    "width": "1990",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-24 10:33:49",
+        "name": "N9",
+        "id": "3718",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-24 10:34:11",
+              "name": "N9",
+              "modelYear": "2025",
+              "id": "10631",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54692",
+                    "update": "2025-08-22 12:44:47",
+                    "brand": "Denza",
+                    "model": "N9",
+                    "generation": "N9",
+                    "engine": "2.0T (925 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "207",
+                    "powerHp": "207",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5258",
+                    "width": "2030",
+                    "height": "1830",
+                    "heightMin": "1830",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-01 12:03:02",
+        "name": "N8L",
+        "id": "3834",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-01 12:03:26",
+              "name": "N8L",
+              "modelYear": "2026",
+              "id": "10848",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55478",
+                    "update": "2025-10-01 14:18:41",
+                    "brand": "Denza",
+                    "model": "N8L",
+                    "generation": "N8L",
+                    "engine": "2.0T (762 Hp) Plug-in Hybrid AWD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "207",
+                    "powerHp": "207",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5200",
+                    "width": "1999",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2980",
+                    "curbWeightMin": "2980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-04 08:59:05",
+        "name": "B5",
+        "id": "3939",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-04 08:59:17",
+              "name": "B5",
+              "modelYear": "2026",
+              "id": "11103",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56605",
+                    "update": "2026-03-04 14:20:02",
+                    "brand": "Denza",
+                    "model": "B5",
+                    "generation": "B5",
+                    "engine": "DMO 1.5T (687 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "194/5400",
+                    "powerHp": "194",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4888",
+                    "width": "1970",
+                    "height": "1920-1930",
+                    "heightMin": "1920",
+                    "heightMax": "1930",
+                    "rideHeight": "220-310",
+                    "rideHeightMin": "220",
+                    "rideHeightMax": "310",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2897-3007",
+                    "curbWeightMin": "2897",
+                    "curbWeightMax": "3007"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-04 10:38:29",
+        "name": "B8",
+        "id": "3940",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-04 10:38:42",
+              "name": "B8",
+              "modelYear": "2026",
+              "id": "11106",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56606",
+                    "update": "2026-03-04 14:20:02",
+                    "brand": "Denza",
+                    "model": "B8",
+                    "generation": "B8",
+                    "engine": "DMO 2.0T (603 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5195",
+                    "width": "1994",
+                    "height": "1905",
+                    "heightMin": "1905",
+                    "rideHeight": "310",
+                    "rideHeightMin": "310",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3290",
+                    "curbWeightMin": "3290"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

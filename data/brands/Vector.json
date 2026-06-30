@@ -1,0 +1,90 @@
+{
+  "update": "2019-08-19 09:38:01",
+  "name": "Vector",
+  "id": "65",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-19 09:38:01",
+        "name": "M12",
+        "id": "735",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:47:50",
+              "name": "M12",
+              "modelYear": "1996",
+              "id": "1541",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6740",
+                    "update": "2023-08-09 10:04:13",
+                    "brand": "Vector",
+                    "model": "M12",
+                    "generation": "M12",
+                    "engine": "5.7 (492 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "492",
+                    "powerHp": "492",
+                    "yearstart": "1995",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-19 09:34:31",
+        "name": "W8 Twin Turbo",
+        "id": "736",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "W8 Twin Turbo",
+              "modelYear": "1990",
+              "id": "1542",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6741",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Vector",
+                    "model": "W8 Twin Turbo",
+                    "generation": "W8 Twin Turbo",
+                    "engine": "6.0 i V8 Biturbo (634 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "634/5700",
+                    "powerHp": "634",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4370",
+                    "width": "1930",
+                    "height": "1080",
+                    "heightMin": "1080",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

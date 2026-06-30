@@ -1,0 +1,2073 @@
+{
+  "update": "2019-08-30 12:06:18",
+  "name": "Talbot",
+  "id": "5",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-04 15:25:09",
+        "name": "1307-1510",
+        "id": "126",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:35:40",
+              "name": "1307-1510",
+              "modelYear": "1975",
+              "id": "282",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "943",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "1510 1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1981",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "944",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1307 1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1978",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "945",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1307 1.3 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1975",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "946",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1307 1.3 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1975",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "947",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1307 1.3S (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1975",
+                    "yearstop": "1978",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "948",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1308 1.4 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "949",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1308 1.4 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86",
+                    "powerHp": "86",
+                    "yearstart": "1978",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "950",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1510 1.4 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1980",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "951",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1510 1.4 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1980",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "952",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1510 1.4 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86",
+                    "powerHp": "86",
+                    "yearstart": "1980",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "953",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1510 1.6 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1980",
+                    "yearstop": "1983",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "954",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "1307-1510",
+                    "generation": "1307-1510",
+                    "engine": "Simca 1510 1.6 (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88",
+                    "powerHp": "88",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 11:22:08",
+        "name": "Avenger",
+        "id": "127",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:37:28",
+              "name": "Avenger Estate",
+              "modelYear": "1979",
+              "id": "283",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "955",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Avenger",
+                    "generation": "Avenger Estate",
+                    "engine": "1.3 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "956",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Avenger",
+                    "generation": "Avenger Estate",
+                    "engine": "1.6 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70",
+                    "powerHp": "70",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:37:28",
+              "name": "Avenger",
+              "modelYear": "1979",
+              "id": "284",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "957",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Avenger",
+                    "generation": "Avenger",
+                    "engine": "1.3 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "958",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Avenger",
+                    "generation": "Avenger",
+                    "engine": "1.6 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70",
+                    "powerHp": "70",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "959",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Avenger",
+                    "generation": "Avenger",
+                    "engine": "1.6 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81",
+                    "powerHp": "81",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 11:26:18",
+        "name": "Murena",
+        "id": "128",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:39:06",
+              "name": "Murena",
+              "modelYear": "1980",
+              "id": "285",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "960",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Murena",
+                    "generation": "Murena",
+                    "engine": "1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1981",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "961",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Murena",
+                    "generation": "Murena",
+                    "engine": "2.1 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "1980",
+                    "yearstop": "1984",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "962",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Murena",
+                    "generation": "Murena",
+                    "engine": "2.1 S (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140",
+                    "powerHp": "140",
+                    "yearstart": "1983",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 11:54:25",
+        "name": "Samba",
+        "id": "129",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:40:29",
+              "name": "Samba (51A)",
+              "modelYear": "1981",
+              "id": "286",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "963",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "0.9 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1981",
+                    "yearstop": "1985",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "964",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "1.1 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "965",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "1.2 Rallye (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88",
+                    "powerHp": "88",
+                    "yearstart": "1983",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "966",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "1.4 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1983",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "967",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "1.4 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "968",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba (51A)",
+                    "engine": "1.4 Rallye (79 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "79",
+                    "powerHp": "79",
+                    "yearstart": "1983",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:40:29",
+              "name": "Samba Cabrio (51E)",
+              "modelYear": "1981",
+              "id": "287",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "969",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Samba",
+                    "generation": "Samba Cabrio (51E)",
+                    "engine": "1.4 (79 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "79",
+                    "powerHp": "79",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 12:05:14",
+        "name": "Solara",
+        "id": "130",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Solara (facelift 1980)",
+              "modelYear": "1980",
+              "id": "288",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "970",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Solara",
+                    "generation": "Solara (facelift 1980)",
+                    "engine": "1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1980",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "971",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Solara",
+                    "generation": "Solara (facelift 1980)",
+                    "engine": "1.6 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1982",
+                    "yearstop": "1984",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "972",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Solara",
+                    "generation": "Solara (facelift 1980)",
+                    "engine": "1.6 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1981",
+                    "yearstop": "1984",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "973",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Solara",
+                    "generation": "Solara (facelift 1980)",
+                    "engine": "1.6 (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88",
+                    "powerHp": "88",
+                    "yearstart": "1980",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "974",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Solara",
+                    "generation": "Solara (facelift 1980)",
+                    "engine": "1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "160",
+        "id": "131",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:36:02",
+              "name": "160",
+              "modelYear": "1970",
+              "id": "289",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "975",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "160",
+                    "generation": "160",
+                    "engine": "1.6 (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1973",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "976",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "160",
+                    "generation": "160",
+                    "engine": "1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1976",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 11:24:16",
+        "name": "Horizon",
+        "id": "132",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:37:54",
+              "name": "Horizon",
+              "modelYear": "1978",
+              "id": "290",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "977",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.1 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1979",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "978",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1981",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "979",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.3 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1978",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "980",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.3 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1978",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "981",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.4 (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65",
+                    "powerHp": "65",
+                    "yearstart": "1982",
+                    "yearstop": "1984",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "982",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.4 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1979",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "983",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.4 (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83",
+                    "powerHp": "83",
+                    "yearstart": "1979",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "984",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1982",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "985",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.9 Diesel (64 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "64",
+                    "powerHp": "64",
+                    "yearstart": "1984",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "986",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Talbot",
+                    "model": "Horizon",
+                    "generation": "Horizon",
+                    "engine": "1.9 Diesel (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65",
+                    "powerHp": "65",
+                    "yearstart": "1982",
+                    "yearstop": "1986",
+                    "coupe": "Hatchback",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 11:51:50",
+        "name": "Rancho",
+        "id": "133",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:39:54",
+              "name": "Rancho",
+              "modelYear": "1980",
+              "id": "291",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "987",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Rancho",
+                    "generation": "Rancho",
+                    "engine": "1.4 (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1979",
+                    "yearstop": "1984",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 12:06:18",
+        "name": "Simca",
+        "id": "134",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:56:14",
+              "name": "Simca Sunbeam",
+              "modelYear": "1977",
+              "id": "292",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "988",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "0.9 (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42",
+                    "powerHp": "42",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "989",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "990",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "1.3 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "991",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "1.6 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70",
+                    "powerHp": "70",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "992",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "1.6 (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1978",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "993",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "1.6 Ti (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "1978",
+                    "yearstop": "1983",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "994",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "2.1 Lotus (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "1979",
+                    "yearstop": "1981",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "995",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca Sunbeam",
+                    "engine": "2.1 Lotus (155 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155",
+                    "powerHp": "155",
+                    "yearstart": "1979",
+                    "yearstop": "1982",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:51:37",
+              "name": "Simca 1000",
+              "modelYear": "1961",
+              "id": "293",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "996",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "0.9 (39 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "39",
+                    "powerHp": "39",
+                    "yearstart": "1961",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "997",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "0.9 GL,GLS (44 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "44",
+                    "powerHp": "44",
+                    "yearstart": "1961",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "998",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "0.9 LS,GL (44 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "44",
+                    "powerHp": "44",
+                    "yearstart": "1970",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "999",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.1 Rallye (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53",
+                    "powerHp": "53",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1000",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.1 Spezial (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53",
+                    "powerHp": "53",
+                    "yearstart": "1968",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1001",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.3 Rallye 1 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1002",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.3 Rallye 2 (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1972",
+                    "yearstop": "1976",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1003",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.3 Rallye 2 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86",
+                    "powerHp": "86",
+                    "yearstart": "1976",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1004",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.3 Rallye 3 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103",
+                    "powerHp": "103",
+                    "yearstart": "1978",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1005",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1.3 Spezial (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1974",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1006",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1005 LS,GLS (39 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "39",
+                    "powerHp": "39",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1007",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1000",
+                    "engine": "1006 SR,GLS (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:52:31",
+              "name": "Simca 1100 Break/tourisme",
+              "modelYear": "1967",
+              "id": "294",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1008",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Break/tourisme",
+                    "engine": "1.1 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1009",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Break/tourisme",
+                    "engine": "1.1 (56 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "56",
+                    "powerHp": "56",
+                    "yearstart": "1968",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1010",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Break/tourisme",
+                    "engine": "1.1 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1011",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Break/tourisme",
+                    "engine": "1.1 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1976",
+                    "yearstop": "1979",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1012",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Break/tourisme",
+                    "engine": "1.3 Spezial (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1974",
+                    "yearstop": "1976",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:52:31",
+              "name": "Simca 1100 Hatchback",
+              "modelYear": "1967",
+              "id": "295",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1013",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "0.9 LE (47 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "47",
+                    "powerHp": "47",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1014",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "0.9 LS (48 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "48",
+                    "powerHp": "48",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1015",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.1 LE,LX,GLS,ES (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50",
+                    "powerHp": "50",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1016",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.1 LE,LX,GLS,ES (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58",
+                    "powerHp": "58",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1017",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.1 LS,GLS (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1973",
+                    "yearstop": "1977",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1018",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.1 LS,GLS (56 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "56",
+                    "powerHp": "56",
+                    "yearstart": "1968",
+                    "yearstop": "1972",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1019",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.1 LS,GLS (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1968",
+                    "yearstop": "1976",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1020",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.2 Spezial (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1971",
+                    "yearstop": "1977",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1021",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1100 Hatchback",
+                    "engine": "1.3 Spezial TI (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:55:36",
+              "name": "Simca 1609/1610",
+              "modelYear": "1976",
+              "id": "296",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1022",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1609/1610",
+                    "engine": "1609 1.6 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1976",
+                    "yearstop": "1978",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1023",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1609/1610",
+                    "engine": "1610 1.8 (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1024",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1609/1610",
+                    "engine": "1610 2.0 D (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1976",
+                    "yearstop": "1980",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:53:23",
+              "name": "Simca 1301",
+              "modelYear": "1966",
+              "id": "297",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1025",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301",
+                    "engine": "1.3 LS (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1026",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301",
+                    "engine": "1.3 LS,GL,GLS (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1027",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301",
+                    "engine": "1.3 Spezial (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1974",
+                    "yearstop": "1976",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1028",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301",
+                    "engine": "1.3 Spezial (67 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "67",
+                    "powerHp": "67",
+                    "yearstart": "1973",
+                    "yearstop": "1976",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1029",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301",
+                    "engine": "1.3 Spezial (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:54:55",
+              "name": "Simca 1501",
+              "modelYear": "1966",
+              "id": "298",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1030",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501",
+                    "engine": "1.5 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1031",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501",
+                    "engine": "1.5 Autom. (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1032",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501",
+                    "engine": "1.5 Spezial (71 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "71",
+                    "powerHp": "71",
+                    "yearstart": "1973",
+                    "yearstop": "1976",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1033",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501",
+                    "engine": "1.5 Spezial (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:54:55",
+              "name": "Simca 1501 Break/tourisme",
+              "modelYear": "1966",
+              "id": "299",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1034",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501 Break/tourisme",
+                    "engine": "1.5 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1035",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501 Break/tourisme",
+                    "engine": "1.5 Autom. (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1036",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501 Break/tourisme",
+                    "engine": "1.5 Spezial (71 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "71",
+                    "powerHp": "71",
+                    "yearstart": "1973",
+                    "yearstop": "1976",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1037",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1501 Break/tourisme",
+                    "engine": "1.5 Spezial (82 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82",
+                    "powerHp": "82",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:54:10",
+              "name": "Simca 1301 Tourisme",
+              "modelYear": "1966",
+              "id": "300",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1038",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301 Tourisme",
+                    "engine": "1.3 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54",
+                    "powerHp": "54",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1039",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Simca",
+                    "generation": "Simca 1301 Tourisme",
+                    "engine": "1.3 Spezial (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-30 12:03:11",
+        "name": "Tagora",
+        "id": "135",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:56:52",
+              "name": "Tagora",
+              "modelYear": "1981",
+              "id": "301",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1040",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Tagora",
+                    "generation": "Tagora",
+                    "engine": "2.1 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "1980",
+                    "yearstop": "1983",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1041",
+                    "update": "2023-07-31 13:41:29",
+                    "brand": "Talbot",
+                    "model": "Tagora",
+                    "generation": "Tagora",
+                    "engine": "2.3 Turbo Diesel (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1981",
+                    "yearstop": "1987",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1042",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Tagora",
+                    "generation": "Tagora",
+                    "engine": "2.6 (166 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "166",
+                    "powerHp": "166",
+                    "yearstart": "1981",
+                    "yearstop": "1983",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "180",
+        "id": "136",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:36:20",
+              "name": "180",
+              "modelYear": "1970",
+              "id": "302",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1043",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "180",
+                    "generation": "180",
+                    "engine": "1.8 (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "1982",
+                    "yearstop": "1982",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1044",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Talbot",
+                    "model": "180",
+                    "generation": "180",
+                    "engine": "1.9 D (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60",
+                    "powerHp": "60",
+                    "yearstart": "1982",
+                    "yearstop": "1982",
+                    "coupe": "Sedan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1045",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "180",
+                    "generation": "180",
+                    "engine": "2.0 (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "1973",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 15:45:56",
+        "name": "Matra Bagheera",
+        "id": "137",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:38:35",
+              "name": "Matra Bagheera (X)",
+              "modelYear": "1974",
+              "id": "303",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1046",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Matra Bagheera",
+                    "generation": "Matra Bagheera (X)",
+                    "engine": "1.3 (X3550) (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84",
+                    "powerHp": "84",
+                    "yearstart": "1973",
+                    "yearstop": "1978",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1047",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Matra Bagheera",
+                    "generation": "Matra Bagheera (X)",
+                    "engine": "1.4 (X6) (84 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "84",
+                    "powerHp": "84",
+                    "yearstart": "1979",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1048",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Matra Bagheera",
+                    "generation": "Matra Bagheera (X)",
+                    "engine": "1.4 (X6) (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1979",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "1049",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Talbot",
+                    "model": "Matra Bagheera",
+                    "generation": "Matra Bagheera (X)",
+                    "engine": "1.4 (X6550) (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1975",
+                    "yearstop": "1979",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "update": "2020-11-04 13:56:29",
+  "name": "Eadon Green",
+  "id": "237",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-04 13:56:29",
+        "name": "Zeclat",
+        "id": "2398",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zeclat",
+              "modelYear": "2018",
+              "id": "6194",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32942",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Eadon Green",
+                    "model": "Zeclat",
+                    "generation": "Zeclat",
+                    "engine": "6.2 V8 (460 Hp) COD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/6000",
+                    "powerHp": "460",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4519",
+                    "width": "1966",
+                    "height": "1234",
+                    "heightMin": "1234",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  },
+                  {
+                    "id": "32943",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Eadon Green",
+                    "model": "Zeclat",
+                    "generation": "Zeclat",
+                    "engine": "6.2 V8 (460 Hp) COD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/6000",
+                    "powerHp": "460",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4519",
+                    "width": "1966",
+                    "height": "1234",
+                    "heightMin": "1234",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-04 13:45:02",
+        "name": "Zanturi",
+        "id": "2651",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zanturi",
+              "modelYear": "2019",
+              "id": "6967",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36259",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Eadon Green",
+                    "model": "Zanturi",
+                    "generation": "Zanturi",
+                    "engine": "6.6 V12 (601 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "601/6000",
+                    "powerHp": "601",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5575",
+                    "width": "2023",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2560",
+                    "curbWeightMin": "2560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-04 13:38:54",
+        "name": "Black Cuillin",
+        "id": "2652",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Black Cuillin",
+              "modelYear": "2017",
+              "id": "6968",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36264",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Eadon Green",
+                    "model": "Black Cuillin",
+                    "generation": "Black Cuillin",
+                    "engine": "6.0 V12 (445 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "445/6000",
+                    "powerHp": "445",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5368",
+                    "width": "2012",
+                    "height": "1566",
+                    "heightMin": "1566",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2470",
+                    "curbWeightMin": "2470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

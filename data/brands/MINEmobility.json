@@ -1,0 +1,127 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "MINEmobility",
+  "id": "268",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-12 09:28:15",
+        "name": "City EV",
+        "id": "2610",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "City EV Concept",
+              "modelYear": "2018",
+              "id": "6873",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35760",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "MINEmobility",
+                    "model": "City EV",
+                    "generation": "City EV Concept",
+                    "engine": "20 kWh (68 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3250",
+                    "width": "1750",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-12 09:35:54",
+        "name": "Sport EV",
+        "id": "2611",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Sport EV Concept",
+              "modelYear": "2018",
+              "id": "6871",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35759",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "MINEmobility",
+                    "model": "Sport EV",
+                    "generation": "Sport EV Concept",
+                    "engine": "45 kWh (163 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "length": "4300",
+                    "width": "1700",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Electricity",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-12 09:28:49",
+        "name": "MPV EV",
+        "id": "2612",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "MPV EV Concept",
+              "modelYear": "2018",
+              "id": "6872",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35761",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "MINEmobility",
+                    "model": "MPV EV",
+                    "generation": "MPV EV Concept",
+                    "engine": "30 kWh (109 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "MPV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4100",
+                    "width": "1750",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Electricity",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

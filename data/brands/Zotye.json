@@ -1,0 +1,569 @@
+{
+  "update": "2019-08-13 10:49:41",
+  "name": "Zotye",
+  "id": "245",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-13 10:49:41",
+        "name": "Z300/Z360",
+        "id": "2445",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Z300 (facelift 2014)",
+              "modelYear": "2014",
+              "id": "6297",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33298",
+                    "update": "2023-08-08 11:32:27",
+                    "brand": "Zotye",
+                    "model": "Z300/Z360",
+                    "generation": "Z300 (facelift 2014)",
+                    "engine": "1.5 (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1766",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1321",
+                    "curbWeightMin": "1321"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 16:21:23",
+        "name": "Z560",
+        "id": "2446",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Z560",
+              "modelYear": "2017",
+              "id": "6300",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33279",
+                    "update": "2023-08-08 11:40:56",
+                    "brand": "Zotye",
+                    "model": "Z560",
+                    "generation": "Z560",
+                    "engine": "1.5 (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6000",
+                    "powerHp": "150",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1810",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  },
+                  {
+                    "id": "33299",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Zotye",
+                    "model": "Z560",
+                    "generation": "Z560",
+                    "engine": "1.5 (144 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144/5600",
+                    "powerHp": "144",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1810",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 16:10:24",
+        "name": "T700",
+        "id": "2485",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T700",
+              "modelYear": "2016",
+              "id": "6410",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33768",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Zotye",
+                    "model": "T700",
+                    "generation": "T700",
+                    "engine": "1.8 (177 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4748",
+                    "width": "1933",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "33769",
+                    "update": "2023-08-08 11:31:33",
+                    "brand": "Zotye",
+                    "model": "T700",
+                    "generation": "T700",
+                    "engine": "2.0 (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4748",
+                    "width": "1933",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "33771",
+                    "update": "2023-08-08 11:31:34",
+                    "brand": "Zotye",
+                    "model": "T700",
+                    "generation": "T700",
+                    "engine": "2.0 (190 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4748",
+                    "width": "1933",
+                    "height": "1697",
+                    "heightMin": "1697",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 16:09:54",
+        "name": "T600",
+        "id": "2486",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-04-05 11:14:37",
+              "name": "T600 Coupe",
+              "modelYear": "2017",
+              "id": "8816",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T600",
+              "modelYear": "2014",
+              "id": "6411",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33719",
+                    "update": "2023-07-18 10:08:48",
+                    "brand": "Zotye",
+                    "model": "T600",
+                    "generation": "T600",
+                    "engine": "2.0 (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4631",
+                    "width": "1893",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "161",
+                    "rideHeightMin": "161",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1541",
+                    "curbWeightMin": "1541"
+                  },
+                  {
+                    "id": "33770",
+                    "update": "2023-07-18 10:08:03",
+                    "brand": "Zotye",
+                    "model": "T600",
+                    "generation": "T600",
+                    "engine": "1.5 (162 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/5500",
+                    "powerHp": "162",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2013",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4631",
+                    "width": "1893",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "161",
+                    "rideHeightMin": "161",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1541",
+                    "curbWeightMin": "1541"
+                  },
+                  {
+                    "id": "33781",
+                    "update": "2023-07-18 10:08:49",
+                    "brand": "Zotye",
+                    "model": "T600",
+                    "generation": "T600",
+                    "engine": "2.0 (177 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4631",
+                    "width": "1893",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "161",
+                    "rideHeightMin": "161",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1541",
+                    "curbWeightMin": "1541"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 16:11:30",
+        "name": "Z100",
+        "id": "2487",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Z100",
+              "modelYear": "2013",
+              "id": "6412",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33714",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Zotye",
+                    "model": "Z100",
+                    "generation": "Z100",
+                    "engine": "1.0 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/6200",
+                    "powerHp": "68",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3559",
+                    "width": "1620",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "898",
+                    "curbWeightMin": "898"
+                  },
+                  {
+                    "id": "33773",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Zotye",
+                    "model": "Z100",
+                    "generation": "Z100",
+                    "engine": "17.8 kWh (25 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3559",
+                    "width": "1620",
+                    "height": "1476",
+                    "heightMin": "1476",
+                    "fuel": "Electricity",
+                    "curbWeight": "968",
+                    "curbWeightMin": "968"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-09 15:13:28",
+        "name": "E200",
+        "id": "3032",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-09 15:13:46",
+              "name": "E200",
+              "modelYear": "2016",
+              "id": "8688",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45010",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Zotye",
+                    "model": "E200",
+                    "generation": "E200",
+                    "engine": "24.5 kWh (82 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2735",
+                    "width": "1600",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1090",
+                    "curbWeightMin": "1090"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-06-12 08:04:31",
+        "name": "T300",
+        "id": "3270",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-12 08:06:11",
+              "name": "T300",
+              "modelYear": "2017",
+              "id": "9527",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48845",
+                    "update": "2023-07-18 10:55:58",
+                    "brand": "Zotye",
+                    "model": "T300",
+                    "generation": "T300",
+                    "engine": "1.5 (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1830",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "rideHeight": "161-180",
+                    "rideHeightMin": "161",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1345",
+                    "curbWeightMin": "1345"
+                  },
+                  {
+                    "id": "48846",
+                    "update": "2023-07-18 10:55:58",
+                    "brand": "Zotye",
+                    "model": "T300",
+                    "generation": "T300",
+                    "engine": "1.5 (112 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112/6000",
+                    "powerHp": "112",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1830",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "rideHeight": "161-180",
+                    "rideHeightMin": "161",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1345",
+                    "curbWeightMin": "1345"
+                  },
+                  {
+                    "id": "48847",
+                    "update": "2023-07-18 10:55:32",
+                    "brand": "Zotye",
+                    "model": "T300",
+                    "generation": "T300",
+                    "engine": "1.5 T (144 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144/5600",
+                    "powerHp": "144",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2017",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1830",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "rideHeight": "161-180",
+                    "rideHeightMin": "161",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "48848",
+                    "update": "2023-06-12 10:07:04",
+                    "brand": "Zotye",
+                    "model": "T300",
+                    "generation": "T300",
+                    "engine": "1.5 T (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5600",
+                    "powerHp": "156",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2017",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1830",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "rideHeight": "161-180",
+                    "rideHeightMin": "161",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

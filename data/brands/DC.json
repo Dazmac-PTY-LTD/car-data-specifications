@@ -1,0 +1,56 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "DC",
+  "id": "217",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:00:23",
+        "name": "Avanti",
+        "id": "2324",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Avanti",
+              "modelYear": "2012",
+              "id": "5967",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32086",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "DC",
+                    "model": "Avanti",
+                    "generation": "Avanti",
+                    "engine": "2.0 (250 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "250/5500",
+                    "powerHp": "250",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2012",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4565",
+                    "width": "2120",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

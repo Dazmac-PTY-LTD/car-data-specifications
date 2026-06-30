@@ -1,0 +1,1306 @@
+{
+  "update": "2021-09-21 14:00:06",
+  "name": "Moskvich",
+  "id": "175",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-23 14:11:02",
+        "name": "2136 Kombi",
+        "id": "1762",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2136 Combi",
+              "modelYear": "1976",
+              "id": "3492",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15839",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "2136 Kombi",
+                    "generation": "2136 Combi",
+                    "engine": "1.4 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/4750",
+                    "powerHp": "50",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1976",
+                    "yearstop": "1987",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4210",
+                    "width": "1550",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1120",
+                    "curbWeightMin": "1120"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 14:24:41",
+        "name": "2141",
+        "id": "1763",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "214101",
+              "modelYear": "1998",
+              "id": "3493",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15840",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Moskvich",
+                    "model": "2141",
+                    "generation": "214101",
+                    "engine": "1.6 (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/5400",
+                    "powerHp": "76",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "width": "1690",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21412-136",
+              "modelYear": "1994",
+              "id": "3494",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15841",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Moskvich",
+                    "model": "2141",
+                    "generation": "21412-136",
+                    "engine": "1.7 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/5400",
+                    "powerHp": "85",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1994",
+                    "yearstop": "1999",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1690",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21412-01",
+              "modelYear": "1988",
+              "id": "3495",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15842",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Moskvich",
+                    "model": "2141",
+                    "generation": "21412-01",
+                    "engine": "1.5 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/5400",
+                    "powerHp": "72",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1987",
+                    "yearstop": "1997",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1690",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2141-01",
+              "modelYear": "1986",
+              "id": "3496",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15843",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Moskvich",
+                    "model": "2141",
+                    "generation": "2141-01",
+                    "engine": "1.6 (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/5400",
+                    "powerHp": "76",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "1986",
+                    "yearstop": "1994",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1690",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1055",
+                    "curbWeightMin": "1055"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:08:31",
+        "name": "403",
+        "id": "1764",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "403",
+              "modelYear": "1962",
+              "id": "3497",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15844",
+                    "update": "2022-10-07 09:44:29",
+                    "brand": "Moskvich",
+                    "model": "403",
+                    "generation": "403",
+                    "engine": "1.4 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/4500",
+                    "powerHp": "45",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1962",
+                    "yearstop": "1965",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4040",
+                    "width": "1540",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:26:20",
+        "name": "423 Kombi",
+        "id": "1765",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "423 Combi",
+              "modelYear": "1957",
+              "id": "3498",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15845",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "423 Kombi",
+                    "generation": "423 Combi",
+                    "engine": "1.4 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/4500",
+                    "powerHp": "45",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1958",
+                    "yearstop": "1963",
+                    "coupe": "Station wagon (estate)",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4055",
+                    "width": "1540",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "950",
+                    "curbWeightMin": "950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:53:11",
+        "name": "Knyaz Vladimir",
+        "id": "1766",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Knyaz Vladimir",
+              "modelYear": "1997",
+              "id": "3499",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15846",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Moskvich",
+                    "model": "Knyaz Vladimir",
+                    "generation": "Knyaz Vladimir",
+                    "engine": "2.0 i (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/5250",
+                    "powerHp": "113",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1997",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1690",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 14:13:59",
+        "name": "2137 Kombi",
+        "id": "1767",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2137 Combi",
+              "modelYear": "1976",
+              "id": "3500",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15847",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "2137 Kombi",
+                    "generation": "2137 Combi",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1976",
+                    "yearstop": "1987",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4210",
+                    "width": "1550",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1120",
+                    "curbWeightMin": "1120"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:02:54",
+        "name": "400",
+        "id": "1768",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "400",
+              "modelYear": "1946",
+              "id": "3501",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15848",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "400",
+                    "generation": "400",
+                    "engine": "1.1 (23 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "23/3600",
+                    "powerHp": "23",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "1946",
+                    "yearstop": "1954",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3855",
+                    "width": "1400",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "885",
+                    "curbWeightMin": "885"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:10:26",
+        "name": "407",
+        "id": "1769",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "407",
+              "modelYear": "1958",
+              "id": "3502",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15849",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "407",
+                    "generation": "407",
+                    "engine": "1.4 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/4500",
+                    "powerHp": "45",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1958",
+                    "yearstop": "1963",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4055",
+                    "width": "1540",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "910",
+                    "curbWeightMin": "910"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:28:19",
+        "name": "427",
+        "id": "1770",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "427 Combi",
+              "modelYear": "1967",
+              "id": "3503",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15850",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "427",
+                    "generation": "427 Combi",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1975",
+                    "yearstop": "1976",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4040",
+                    "width": "1550",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "427",
+              "modelYear": "1967",
+              "id": "3504",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15851",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "427",
+                    "generation": "427",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1967",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1550",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 14:15:27",
+        "name": "2138",
+        "id": "1772",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2138",
+              "modelYear": "1976",
+              "id": "3505",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15852",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "2138",
+                    "generation": "2138",
+                    "engine": "1.4 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/4750",
+                    "powerHp": "50",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1976",
+                    "yearstop": "1987",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4250",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:04:10",
+        "name": "401",
+        "id": "1773",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "401",
+              "modelYear": "1954",
+              "id": "3506",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15853",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "401",
+                    "generation": "401",
+                    "engine": "1.1 (26 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "26/4000",
+                    "powerHp": "26",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1954",
+                    "yearstop": "1956",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3855",
+                    "width": "1400",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "780",
+                    "curbWeightMin": "780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-27 11:43:55",
+        "name": "408",
+        "id": "1774",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "408 IE",
+              "modelYear": "1969",
+              "id": "3507",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15855",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "408",
+                    "generation": "408 IE",
+                    "engine": "1.4 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/4750",
+                    "powerHp": "50",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "990",
+                    "curbWeightMin": "990"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "408",
+              "modelYear": "1964",
+              "id": "3508",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15856",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "408",
+                    "generation": "408",
+                    "engine": "1.4 (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/4750",
+                    "powerHp": "50",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1964",
+                    "yearstop": "1969",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "990",
+                    "curbWeightMin": "990"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:51:55",
+        "name": "434",
+        "id": "1775",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "434",
+              "modelYear": "1968",
+              "id": "3509",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15857",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "434",
+                    "generation": "434",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4090",
+                    "width": "1550",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:54:52",
+        "name": "Yuriy Dolgorukiy",
+        "id": "1776",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Yuriy Dolgorukiy",
+              "modelYear": "1997",
+              "id": "3510",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15858",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "Yuriy Dolgorukiy",
+                    "generation": "Yuriy Dolgorukiy",
+                    "engine": "1,7 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/5300",
+                    "powerHp": "85",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "15859",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "Yuriy Dolgorukiy",
+                    "generation": "Yuriy Dolgorukiy",
+                    "engine": "2.0 (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/5250",
+                    "powerHp": "113",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1998",
+                    "yearstop": "2002",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1145",
+                    "curbWeightMin": "1145"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 14:19:13",
+        "name": "2140",
+        "id": "1777",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21406",
+              "modelYear": "1978",
+              "id": "3512",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15861",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "2140",
+                    "generation": "21406",
+                    "engine": "1.5 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/5800",
+                    "powerHp": "68",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1978",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4250",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2140",
+              "modelYear": "1976",
+              "id": "3511",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15860",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "2140",
+                    "generation": "2140",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1976",
+                    "yearstop": "1988",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4250",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:07:42",
+        "name": "402",
+        "id": "1778",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "402",
+              "modelYear": "1956",
+              "id": "3513",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15862",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "402",
+                    "generation": "402",
+                    "engine": "1.2 (35 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "35/4200",
+                    "powerHp": "35",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1956",
+                    "yearstop": "1958",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4055",
+                    "width": "1540",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-27 11:47:19",
+        "name": "412",
+        "id": "1779",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "412 IE",
+              "modelYear": "1969",
+              "id": "3514",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15863",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "412",
+                    "generation": "412 IE",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1969",
+                    "yearstop": "1976",
+                    "coupe": "Sedan",
+                    "length": "4250",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1045",
+                    "curbWeightMin": "1045"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "412",
+              "modelYear": "1967",
+              "id": "3515",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15864",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Moskvich",
+                    "model": "412",
+                    "generation": "412",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1967",
+                    "yearstop": "1969",
+                    "coupe": "Sedan",
+                    "length": "4250",
+                    "width": "1550",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1045",
+                    "curbWeightMin": "1045"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-02-17 11:39:45",
+        "name": "3",
+        "id": "3225",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-02-17 11:43:23",
+              "name": "3",
+              "modelYear": "2023",
+              "id": "9288",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47669",
+                    "update": "2026-03-04 13:16:52",
+                    "brand": "Moskvich",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "47670",
+                    "update": "2026-03-04 13:16:51",
+                    "brand": "Moskvich",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "48029",
+                    "update": "2023-03-07 16:04:26",
+                    "brand": "Moskvich",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "3e 65.7 kWh (193 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1800",
+                    "curbWeightMin": "1800"
+                  },
+                  {
+                    "id": "56609",
+                    "update": "2026-03-04 14:20:02",
+                    "brand": "Moskvich",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5T (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  },
+                  {
+                    "id": "56610",
+                    "update": "2026-03-04 14:20:02",
+                    "brand": "Moskvich",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5T (136 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1800",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-12-20 12:37:57",
+        "name": "6",
+        "id": "3380",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-12-20 12:38:26",
+              "name": "6",
+              "modelYear": "2023",
+              "id": "9812",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50829",
+                    "update": "2023-12-21 16:26:42",
+                    "brand": "Moskvich",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5T (136 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5500",
+                    "powerHp": "136",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1820",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "50830",
+                    "update": "2023-12-21 16:26:42",
+                    "brand": "Moskvich",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5T GDI (174 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/5500",
+                    "powerHp": "174",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1820",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-25 12:59:20",
+        "name": "8",
+        "id": "3779",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-25 14:36:56",
+              "name": "8",
+              "modelYear": "2025",
+              "id": "10756",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55177",
+                    "update": "2025-08-25 16:16:41",
+                    "brand": "Moskvich",
+                    "model": "8",
+                    "generation": "8",
+                    "engine": "1.5T GDI (174 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/5500",
+                    "powerHp": "174",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "Crossover",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4825",
+                    "width": "1870",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1665-1750",
+                    "curbWeightMin": "1665",
+                    "curbWeightMax": "1750"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

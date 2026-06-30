@@ -1,0 +1,342 @@
+{
+  "update": "2021-02-04 15:42:16",
+  "name": "Mitsuoka",
+  "id": "178",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-27 12:35:47",
+        "name": "Galue",
+        "id": "1784",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Galue II",
+              "modelYear": "1999",
+              "id": "3519",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15868",
+                    "update": "2023-08-15 09:45:43",
+                    "brand": "Mitsuoka",
+                    "model": "Galue",
+                    "generation": "Galue II",
+                    "engine": "2.5 (210 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "210/6400",
+                    "powerHp": "210",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5060",
+                    "width": "1770",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  },
+                  {
+                    "id": "15869",
+                    "update": "2023-08-15 09:46:10",
+                    "brand": "Mitsuoka",
+                    "model": "Galue",
+                    "generation": "Galue II",
+                    "engine": "3.0 (240 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/6400",
+                    "powerHp": "240",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5060",
+                    "width": "1770",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Galue I",
+              "modelYear": "1996",
+              "id": "3520",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15870",
+                    "update": "2023-08-15 10:00:28",
+                    "brand": "Mitsuoka",
+                    "model": "Galue",
+                    "generation": "Galue I",
+                    "engine": "2.0 (130 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5600",
+                    "powerHp": "130",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4860",
+                    "width": "1730",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-27 12:38:46",
+        "name": "Le-Seyde",
+        "id": "1785",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 10:57:07",
+              "name": "Le-Seyde",
+              "modelYear": "1990",
+              "id": "3521",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15871",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mitsuoka",
+                    "model": "Le-Seyde",
+                    "generation": "Le-Seyde",
+                    "engine": "1.8 (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "yearstart": "1989",
+                    "yearstop": "1994",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-27 12:45:14",
+        "name": "Ryoga",
+        "id": "1786",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Ryoga",
+              "modelYear": "1998",
+              "id": "3522",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15872",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mitsuoka",
+                    "model": "Ryoga",
+                    "generation": "Ryoga",
+                    "engine": "1.8 (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/6000",
+                    "powerHp": "125",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1695",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190",
+                    "curbWeightMin": "1190"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-27 12:37:13",
+        "name": "Himiko",
+        "id": "2406",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Himiko Concept",
+              "modelYear": "2018",
+              "id": "6207",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32987",
+                    "update": "2023-08-15 10:04:03",
+                    "brand": "Mitsuoka",
+                    "model": "Himiko",
+                    "generation": "Himiko Concept",
+                    "engine": "1.5 (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/7000",
+                    "powerHp": "131",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2018",
+                    "coupe": "Cabriolet, Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4580",
+                    "width": "1740",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1130-1180",
+                    "curbWeightMin": "1130",
+                    "curbWeightMax": "1180"
+                  },
+                  {
+                    "id": "32988",
+                    "update": "2023-08-15 10:04:02",
+                    "brand": "Mitsuoka",
+                    "model": "Himiko",
+                    "generation": "Himiko Concept",
+                    "engine": "1.5 (131 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/7000",
+                    "powerHp": "131",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2018",
+                    "coupe": "Cabriolet, Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4580",
+                    "width": "1740",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190-1200",
+                    "curbWeightMin": "1190",
+                    "curbWeightMax": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-02-04 15:42:16",
+        "name": "Rock Star",
+        "id": "2863",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-02-04 15:36:17",
+              "name": "Rock Star",
+              "modelYear": "2018",
+              "id": "8110",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "42220",
+                    "update": "2023-08-15 09:42:34",
+                    "brand": "Mitsuoka",
+                    "model": "Rock Star",
+                    "generation": "Rock Star",
+                    "engine": "1.5 SKYACTIV-G (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/7000",
+                    "powerHp": "132",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2018",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1770",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080-1120",
+                    "curbWeightMin": "1080",
+                    "curbWeightMax": "1120"
+                  },
+                  {
+                    "id": "42221",
+                    "update": "2023-08-15 09:42:33",
+                    "brand": "Mitsuoka",
+                    "model": "Rock Star",
+                    "generation": "Rock Star",
+                    "engine": "1.5 SKYACTIV-G (132 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/7000",
+                    "powerHp": "132",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2018",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "1770",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1140",
+                    "curbWeightMin": "1140"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

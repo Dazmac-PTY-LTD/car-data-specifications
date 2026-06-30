@@ -1,0 +1,166 @@
+{
+  "update": "2020-11-18 14:19:48",
+  "name": "Sin Cars",
+  "id": "199",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-18 14:19:48",
+        "name": "R1",
+        "id": "2139",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R1",
+              "modelYear": "2015",
+              "id": "4956",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24310",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Sin Cars",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "6.2 V8 (450 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "450/5900",
+                    "powerHp": "450",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "widthFoldedMirrors": "2000",
+                    "widthOpenedMirrors": "2251",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "24311",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Sin Cars",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "7.0 V8 (530 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "530/6300",
+                    "powerHp": "530",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "widthFoldedMirrors": "2000",
+                    "widthOpenedMirrors": "2251",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "24312",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Sin Cars",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "6.2 V8 (650 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/6300",
+                    "powerHp": "650",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "widthFoldedMirrors": "2000",
+                    "widthOpenedMirrors": "2251",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "31166",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Sin Cars",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "7.0 V8 (550 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "550/6300",
+                    "powerHp": "550",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "widthFoldedMirrors": "2000",
+                    "widthOpenedMirrors": "2251",
+                    "height": "1285",
+                    "heightMin": "1285",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "36404",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Sin Cars",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "GT4 6.2 V8 (430 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "430",
+                    "powerHp": "430",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-18 14:13:57",
+        "name": "S1",
+        "id": "2634",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 11:04:30",
+              "name": "S1",
+              "modelYear": "2018",
+              "id": "6928",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

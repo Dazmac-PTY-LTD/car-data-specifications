@@ -1,0 +1,209 @@
+{
+  "update": "2025-10-21 10:13:19",
+  "name": "Santana",
+  "id": "379",
+  "models": {
+    "model": [
+      {
+        "update": "2025-10-21 10:30:06",
+        "name": "300/350",
+        "id": "3854",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-21 12:02:54",
+              "name": "300",
+              "modelYear": "2005",
+              "id": "10883",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55590",
+                    "update": "2025-10-21 13:37:13",
+                    "brand": "Santana",
+                    "model": "300/350",
+                    "generation": "300",
+                    "engine": "1.6 HDi (90 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3660",
+                    "width": "1630",
+                    "height": "1665",
+                    "heightMin": "1665",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1304",
+                    "curbWeightMin": "1304"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-21 10:34:09",
+              "name": "350",
+              "modelYear": "2005",
+              "id": "10882",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55589",
+                    "update": "2025-10-21 13:37:13",
+                    "brand": "Santana",
+                    "model": "300/350",
+                    "generation": "350",
+                    "engine": "1.6 HDi (90 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2006",
+                    "yearstop": "2009",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4040",
+                    "width": "1635",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1417",
+                    "curbWeightMin": "1417"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-21 13:30:48",
+        "name": "PS-10",
+        "id": "3855",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-21 14:22:12",
+              "name": "PS-10 Pick-up",
+              "modelYear": "2004",
+              "id": "10885",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55592",
+                    "update": "2025-10-21 15:58:40",
+                    "brand": "Santana",
+                    "model": "PS-10",
+                    "generation": "PS-10 Pick-up",
+                    "engine": "2.8 TD (125 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/3600",
+                    "powerHp": "125",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle, Pick-up",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4541",
+                    "width": "1750",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": "1915",
+                    "curbWeightMin": "1915"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-21 14:22:28",
+              "name": "PS-10 SW",
+              "modelYear": "2004",
+              "id": "10884",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55591",
+                    "update": "2025-10-21 15:58:40",
+                    "brand": "Santana",
+                    "model": "PS-10",
+                    "generation": "PS-10 SW",
+                    "engine": "2.8 TD (125 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/3600",
+                    "powerHp": "125",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5-9",
+                    "placesMin": "5",
+                    "placesMax": "9",
+                    "length": "4714",
+                    "width": "1750",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": "2050-2140",
+                    "curbWeightMin": "2050",
+                    "curbWeightMax": "2140"
+                  },
+                  {
+                    "id": "55593",
+                    "update": "2025-10-21 15:58:40",
+                    "brand": "Santana",
+                    "model": "PS-10",
+                    "generation": "PS-10 SW",
+                    "engine": "2.8 TD (106 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/3600",
+                    "powerHp": "106",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5-9",
+                    "placesMin": "5",
+                    "placesMax": "9",
+                    "length": "4714",
+                    "width": "1750",
+                    "height": "2000",
+                    "heightMin": "2000",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": "2140",
+                    "curbWeightMin": "2140"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

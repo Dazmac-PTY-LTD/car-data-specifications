@@ -1,0 +1,1950 @@
+{
+  "update": "2019-08-12 10:27:39",
+  "name": "Maxus",
+  "id": "259",
+  "models": {
+    "model": [
+      {
+        "update": "2020-01-02 15:24:46",
+        "name": "G10",
+        "id": "2545",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G10 Plus (facelift 2016)",
+              "modelYear": "2016",
+              "id": "6668",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34865",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Plus (facelift 2016)",
+                    "engine": "2.0 TGI 16V (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34866",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Plus (facelift 2016)",
+                    "engine": "2.0 TGI 16V (224 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34867",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Plus (facelift 2016)",
+                    "engine": "1.9 TD (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34868",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Plus (facelift 2016)",
+                    "engine": "1.9 TD (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "EG10",
+              "modelYear": "2016",
+              "id": "6678",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34869",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "EG10",
+                    "engine": "71.8 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G10 Panel Van",
+              "modelYear": "2014",
+              "id": "6679",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34858",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Panel Van",
+                    "engine": "1.9 TD (144 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144",
+                    "powerHp": "144",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Minivan",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Diesel",
+                    "curbWeight": "1970",
+                    "curbWeightMin": "1970"
+                  },
+                  {
+                    "id": "34859",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Panel Van",
+                    "engine": "1.9 TD (144 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144",
+                    "powerHp": "144",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Minivan",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Diesel",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G10 Passenger",
+              "modelYear": "2014",
+              "id": "6667",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34856",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Passenger",
+                    "engine": "2.4 16V (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143",
+                    "powerHp": "143",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Minivan",
+                    "places": "9",
+                    "placesMin": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1907",
+                    "curbWeightMin": "1907"
+                  },
+                  {
+                    "id": "34857",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "G10",
+                    "generation": "G10 Passenger",
+                    "engine": "2.0 TGI 16V (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2014",
+                    "yearstop": "2016",
+                    "coupe": "Minivan",
+                    "places": "9",
+                    "placesMin": "9",
+                    "length": "5168",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2057",
+                    "curbWeightMin": "2057"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-04 08:49:05",
+        "name": "D90",
+        "id": "2546",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D90",
+              "modelYear": "2017",
+              "id": "6669",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34899",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Maxus",
+                    "model": "D90",
+                    "generation": "D90",
+                    "engine": "2.0 Turbo (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5300",
+                    "powerHp": "224",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5005",
+                    "width": "1932",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2040-2210",
+                    "curbWeightMin": "2040",
+                    "curbWeightMax": "2210"
+                  },
+                  {
+                    "id": "34900",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Maxus",
+                    "model": "D90",
+                    "generation": "D90",
+                    "engine": "2.0 Turbo (224 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5300",
+                    "powerHp": "224",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5005",
+                    "width": "1932",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2330",
+                    "curbWeightMin": "2330"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-20 10:27:14",
+        "name": "T60",
+        "id": "2547",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T60 Dual Cab",
+              "modelYear": "2017",
+              "id": "6671",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34958",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.4 (143 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5250",
+                    "powerHp": "143",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1900-2010",
+                    "curbWeightMin": "1900",
+                    "curbWeightMax": "2010"
+                  },
+                  {
+                    "id": "34959",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.4 (143 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5250",
+                    "powerHp": "143",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1900-2010",
+                    "curbWeightMin": "1900",
+                    "curbWeightMax": "2010"
+                  },
+                  {
+                    "id": "34960",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.0 Turbo (224 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5300",
+                    "powerHp": "224",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800-1900",
+                    "curbWeightMin": "1800",
+                    "curbWeightMax": "1900"
+                  },
+                  {
+                    "id": "34961",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.0 Turbo (224 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5300",
+                    "powerHp": "224",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1800-1900",
+                    "curbWeightMin": "1800",
+                    "curbWeightMax": "1900"
+                  },
+                  {
+                    "id": "34970",
+                    "update": "2023-08-15 16:16:43",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.8 TD (150 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3400",
+                    "powerHp": "150",
+                    "powerRpm": "3400",
+                    "powerRpmLow": "3400",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Diesel",
+                    "curbWeight": "1950-1995",
+                    "curbWeightMin": "1950",
+                    "curbWeightMax": "1995"
+                  },
+                  {
+                    "id": "34971",
+                    "update": "2023-08-15 16:16:40",
+                    "brand": "Maxus",
+                    "model": "T60",
+                    "generation": "T60 Dual Cab",
+                    "engine": "2.8 TD (150 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3400",
+                    "powerHp": "150",
+                    "powerRpm": "3400",
+                    "powerRpmLow": "3400",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "widthFoldedMirrors": "1900",
+                    "widthOpenedMirrors": "2145",
+                    "height": "1852",
+                    "heightMin": "1852",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Diesel",
+                    "curbWeight": "1980-2060",
+                    "curbWeightMin": "1980",
+                    "curbWeightMax": "2060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-12 10:27:39",
+        "name": "G50",
+        "id": "2549",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "G50",
+              "modelYear": "2019",
+              "id": "6674",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34861",
+                    "update": "2023-08-15 16:13:06",
+                    "brand": "Maxus",
+                    "model": "G50",
+                    "generation": "G50",
+                    "engine": "1.3 T (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5200",
+                    "powerHp": "163",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2018",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4825",
+                    "width": "1825",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34862",
+                    "update": "2023-08-15 16:13:03",
+                    "brand": "Maxus",
+                    "model": "G50",
+                    "generation": "G50",
+                    "engine": "1.5 TGI (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5600",
+                    "powerHp": "169",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2018",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4825",
+                    "width": "1825",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-06 12:42:01",
+        "name": "G20",
+        "id": "2984",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-06 12:42:42",
+              "name": "G20",
+              "modelYear": "2020",
+              "id": "8526",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44251",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Maxus",
+                    "model": "G20",
+                    "generation": "G20",
+                    "engine": "2.0TGI (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224",
+                    "powerHp": "224",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5198",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "44252",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Maxus",
+                    "model": "G20",
+                    "generation": "G20",
+                    "engine": "2.0T (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5198",
+                    "width": "1980",
+                    "height": "1928",
+                    "heightMin": "1928",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-26 09:50:00",
+        "name": "D60",
+        "id": "3057",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-26 10:32:20",
+              "name": "D60",
+              "modelYear": "2020",
+              "id": "8759",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45349",
+                    "update": "2023-08-15 16:03:16",
+                    "brand": "Maxus",
+                    "model": "D60",
+                    "generation": "D60",
+                    "engine": "1.3T (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5200",
+                    "powerHp": "163",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45350",
+                    "update": "2023-08-15 16:03:16",
+                    "brand": "Maxus",
+                    "model": "D60",
+                    "generation": "D60",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5600",
+                    "powerHp": "169",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45351",
+                    "update": "2023-08-15 16:03:16",
+                    "brand": "Maxus",
+                    "model": "D60",
+                    "generation": "D60",
+                    "engine": "1.5T (169 Hp) DCT 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5600",
+                    "powerHp": "169",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4720",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-10-07 12:55:44",
+        "name": "Mifa 9",
+        "id": "3167",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-10-07 12:56:17",
+              "name": "Mifa 9",
+              "modelYear": "2022",
+              "id": "9049",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46618",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Maxus",
+                    "model": "Mifa 9",
+                    "generation": "Mifa 9",
+                    "engine": "90 kWh (245 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Minivan",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5270",
+                    "width": "2000",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Electricity",
+                    "curbWeight": "2310-2570",
+                    "curbWeightMin": "2310",
+                    "curbWeightMax": "2570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-15 14:08:25",
+        "name": "T90",
+        "id": "3190",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:10:45",
+              "name": "T90 Standard box",
+              "modelYear": "2022",
+              "id": "9119",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46828",
+                    "update": "2022-11-19 07:51:07",
+                    "brand": "Maxus",
+                    "model": "T90",
+                    "generation": "T90 Standard box",
+                    "engine": "EV 88.55 kWh (177 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5365",
+                    "width": "1900",
+                    "height": "1809",
+                    "heightMin": "1809",
+                    "rideHeight": "187",
+                    "rideHeightMin": "187",
+                    "fuel": "Electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:10:45",
+              "name": "T90 Long box",
+              "modelYear": "2022",
+              "id": "9120",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-08 09:55:30",
+        "name": "Deliver 3",
+        "id": "3548",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-06 13:05:26",
+              "name": "eDeliver 3 L1",
+              "modelYear": "2020",
+              "id": "10320",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53454",
+                    "update": "2025-01-07 09:02:50",
+                    "brand": "Maxus",
+                    "model": "Deliver 3",
+                    "generation": "eDeliver 3 L1",
+                    "engine": "35 kWh (122 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Van",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4555",
+                    "width": "1780",
+                    "height": "1895",
+                    "heightMin": "1895",
+                    "fuel": "Electricity",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  },
+                  {
+                    "id": "53455",
+                    "update": "2025-01-07 09:02:56",
+                    "brand": "Maxus",
+                    "model": "Deliver 3",
+                    "generation": "eDeliver 3 L1",
+                    "engine": "50.23 kWh (122 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Van",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4555",
+                    "width": "1780",
+                    "height": "1895",
+                    "heightMin": "1895",
+                    "fuel": "Electricity",
+                    "curbWeight": "1425",
+                    "curbWeightMin": "1425"
+                  },
+                  {
+                    "id": "53456",
+                    "update": "2025-01-07 09:03:05",
+                    "brand": "Maxus",
+                    "model": "Deliver 3",
+                    "generation": "eDeliver 3 L1",
+                    "engine": "50 kWh (160 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Van",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4555",
+                    "width": "1780",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "144",
+                    "rideHeightMin": "144",
+                    "fuel": "Electricity",
+                    "curbWeight": "1615",
+                    "curbWeightMin": "1615"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-08 09:55:30",
+        "name": "Deliver 5",
+        "id": "3549",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-06 14:17:39",
+              "name": "eDeliver 5 L2",
+              "modelYear": "2025",
+              "id": "10322",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53458",
+                    "update": "2025-01-07 09:03:49",
+                    "brand": "Maxus",
+                    "model": "Deliver 5",
+                    "generation": "eDeliver 5 L2",
+                    "engine": "64 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5250",
+                    "width": "1874",
+                    "height": "1960",
+                    "heightMin": "1960",
+                    "fuel": "Electricity",
+                    "curbWeight": "1930",
+                    "curbWeightMin": "1930"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-06 14:17:22",
+              "name": "eDeliver 5 L1",
+              "modelYear": "2025",
+              "id": "10321",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53457",
+                    "update": "2025-01-07 09:03:24",
+                    "brand": "Maxus",
+                    "model": "Deliver 5",
+                    "generation": "eDeliver 5 L1",
+                    "engine": "64 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4800",
+                    "width": "1874",
+                    "height": "1960",
+                    "heightMin": "1960",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-08 09:55:30",
+        "name": "Deliver 7",
+        "id": "3550",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-07 09:20:14",
+              "name": "eDeliver 7 L2",
+              "modelYear": "2024",
+              "id": "10324",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53461",
+                    "update": "2025-01-07 16:31:36",
+                    "brand": "Maxus",
+                    "model": "Deliver 7",
+                    "generation": "eDeliver 7 L2",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5364",
+                    "width": "2030",
+                    "widthFoldedMirrors": "2118",
+                    "widthOpenedMirrors": "2323",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
+                    "fuel": "Electricity",
+                    "curbWeight": "2365",
+                    "curbWeightMin": "2365"
+                  },
+                  {
+                    "id": "53462",
+                    "update": "2025-01-07 16:31:36",
+                    "brand": "Maxus",
+                    "model": "Deliver 7",
+                    "generation": "eDeliver 7 L2",
+                    "engine": "88 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5364",
+                    "width": "2030",
+                    "widthFoldedMirrors": "2118",
+                    "widthOpenedMirrors": "2323",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
+                    "fuel": "Electricity",
+                    "curbWeight": "2445-2480",
+                    "curbWeightMin": "2445",
+                    "curbWeightMax": "2480"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-07 09:19:52",
+              "name": "eDeliver 7 L1",
+              "modelYear": "2024",
+              "id": "10323",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53459",
+                    "update": "2025-01-07 16:31:35",
+                    "brand": "Maxus",
+                    "model": "Deliver 7",
+                    "generation": "eDeliver 7 L1",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4998",
+                    "width": "2030",
+                    "widthFoldedMirrors": "2118",
+                    "widthOpenedMirrors": "2323",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  },
+                  {
+                    "id": "53460",
+                    "update": "2025-01-07 16:31:36",
+                    "brand": "Maxus",
+                    "model": "Deliver 7",
+                    "generation": "eDeliver 7 L1",
+                    "engine": "88 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4998",
+                    "width": "2030",
+                    "widthFoldedMirrors": "2118",
+                    "widthOpenedMirrors": "2323",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2375",
+                    "curbWeightMin": "2375"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-07 15:22:56",
+        "name": "eTerron 9",
+        "id": "3551",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-07 15:24:10",
+              "name": "eTerron 9",
+              "modelYear": "2025",
+              "id": "10325",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53463",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Maxus",
+                    "model": "eTerron 9",
+                    "generation": "eTerron 9",
+                    "engine": "102.2 kWh (442 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5500",
+                    "width": "1997",
+                    "height": "1874",
+                    "heightMin": "1874",
+                    "rideHeight": "230-237",
+                    "rideHeightMin": "230",
+                    "rideHeightMax": "237",
+                    "fuel": "Electricity",
+                    "curbWeight": "2880",
+                    "curbWeightMin": "2880"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-08 09:42:04",
+        "name": "Deliver 9",
+        "id": "3552",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "eDeliver 9 Double Cab L3H3",
+              "modelYear": "2024",
+              "id": "10330",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53485",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 Double Cab L3H3",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2730",
+                    "heightMin": "2730",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2695",
+                    "curbWeightMin": "2695"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "eDeliver 9 L3H3",
+              "modelYear": "2024",
+              "id": "10329",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53483",
+                    "update": "2025-01-09 16:26:38",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 L3H3",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2730",
+                    "heightMin": "2730",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2580-2600",
+                    "curbWeightMin": "2580",
+                    "curbWeightMax": "2600"
+                  },
+                  {
+                    "id": "53484",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 L3H3",
+                    "engine": "88 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2730",
+                    "heightMin": "2730",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2650-2670",
+                    "curbWeightMin": "2650",
+                    "curbWeightMax": "2670"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "eDeliver 9 Double Cab L3H2",
+              "modelYear": "2024",
+              "id": "10328",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53476",
+                    "update": "2025-01-08 14:28:22",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 Double Cab L3H2",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2515",
+                    "heightMin": "2515",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2645",
+                    "curbWeightMin": "2645"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "eDeliver 9 L3H2",
+              "modelYear": "2024",
+              "id": "10327",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53474",
+                    "update": "2025-01-08 14:28:22",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 L3H2",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2515",
+                    "heightMin": "2515",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2520-2540",
+                    "curbWeightMin": "2520",
+                    "curbWeightMax": "2540"
+                  },
+                  {
+                    "id": "53475",
+                    "update": "2025-01-08 14:28:22",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 L3H2",
+                    "engine": "88 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "width": "2062",
+                    "height": "2515",
+                    "heightMin": "2515",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": "2590-2610",
+                    "curbWeightMin": "2590",
+                    "curbWeightMax": "2610"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "eDeliver 9 L2H2",
+              "modelYear": "2024",
+              "id": "10326",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53473",
+                    "update": "2025-01-08 14:28:21",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "eDeliver 9 L2H2",
+                    "engine": "77 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5546",
+                    "width": "2062",
+                    "height": "2515",
+                    "heightMin": "2515",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Electricity",
+                    "curbWeight": "2460",
+                    "curbWeightMin": "2460"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:54:29",
+              "name": "Deliver 9 L3H3",
+              "modelYear": "2024",
+              "id": "10332",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53488",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "Deliver 9 L3H3",
+                    "engine": "2.0d (150 Hp) FWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3500",
+                    "powerHp": "150",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "widthOpenedMirrors": "2466",
+                    "height": "2755",
+                    "heightMin": "2755",
+                    "fuel": "Diesel",
+                    "curbWeight": "2300-2330",
+                    "curbWeightMin": "2300",
+                    "curbWeightMax": "2330"
+                  },
+                  {
+                    "id": "53489",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "Deliver 9 L3H3",
+                    "engine": "2.0d (150 Hp) RWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3500",
+                    "powerHp": "150",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "widthOpenedMirrors": "2466",
+                    "height": "2755",
+                    "heightMin": "2755",
+                    "fuel": "Diesel",
+                    "curbWeight": "2390-2420",
+                    "curbWeightMin": "2390",
+                    "curbWeightMax": "2420"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-01-09 11:53:52",
+              "name": "Deliver 9 L3H2",
+              "modelYear": "2024",
+              "id": "10331",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53486",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "Deliver 9 L3H2",
+                    "engine": "2.0d (150 Hp) FWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3500",
+                    "powerHp": "150",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "widthOpenedMirrors": "2466",
+                    "height": "2535",
+                    "heightMin": "2535",
+                    "fuel": "Diesel",
+                    "curbWeight": "2285-2315",
+                    "curbWeightMin": "2285",
+                    "curbWeightMax": "2315"
+                  },
+                  {
+                    "id": "53487",
+                    "update": "2025-01-09 16:26:39",
+                    "brand": "Maxus",
+                    "model": "Deliver 9",
+                    "generation": "Deliver 9 L3H2",
+                    "engine": "2.0d (150 Hp) RWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/3500",
+                    "powerHp": "150",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5940",
+                    "widthOpenedMirrors": "2466",
+                    "height": "2535",
+                    "heightMin": "2535",
+                    "fuel": "Diesel",
+                    "curbWeight": "2360-2390",
+                    "curbWeightMin": "2360",
+                    "curbWeightMax": "2390"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-10 09:15:29",
+        "name": "Mifa 7",
+        "id": "3553",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-10 09:16:50",
+              "name": "Mifa 7",
+              "modelYear": "2024",
+              "id": "10335",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53504",
+                    "update": "2025-01-10 16:28:11",
+                    "brand": "Maxus",
+                    "model": "Mifa 7",
+                    "generation": "Mifa 7",
+                    "engine": "77 kWh (245 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4907",
+                    "width": "1885",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2201",
+                    "height": "1768",
+                    "heightMin": "1768",
+                    "fuel": "Electricity",
+                    "curbWeight": "2159",
+                    "curbWeightMin": "2159"
+                  },
+                  {
+                    "id": "53505",
+                    "update": "2025-01-10 16:28:11",
+                    "brand": "Maxus",
+                    "model": "Mifa 7",
+                    "generation": "Mifa 7",
+                    "engine": "90 kWh (245 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4907",
+                    "width": "1885",
+                    "widthFoldedMirrors": "2045",
+                    "widthOpenedMirrors": "2201",
+                    "height": "1768",
+                    "heightMin": "1768",
+                    "fuel": "Electricity",
+                    "curbWeight": "2239",
+                    "curbWeightMin": "2239"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-10 11:18:48",
+        "name": "G70",
+        "id": "3554",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-10 11:19:16",
+              "name": "G70",
+              "modelYear": "2024",
+              "id": "10336",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53503",
+                    "update": "2025-01-10 16:28:09",
+                    "brand": "Maxus",
+                    "model": "G70",
+                    "generation": "G70",
+                    "engine": "2.0T (218 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "218",
+                    "powerHp": "218",
+                    "yearstart": "2023",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4900",
+                    "width": "1885",
+                    "height": "1756",
+                    "heightMin": "1756",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1890",
+                    "curbWeightMin": "1890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-10 14:50:42",
+        "name": "Territory",
+        "id": "3555",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-10 14:51:25",
+              "name": "Territory",
+              "modelYear": "2023",
+              "id": "10338",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53501",
+                    "update": "2025-01-10 16:28:05",
+                    "brand": "Maxus",
+                    "model": "Territory",
+                    "generation": "Territory",
+                    "engine": "2.0T (261 Hp) 4WD ZF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261",
+                    "powerHp": "261",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5046",
+                    "width": "2016",
+                    "height": "1876",
+                    "heightMin": "1876",
+                    "rideHeight": "208-230",
+                    "rideHeightMin": "208",
+                    "rideHeightMax": "230",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53502",
+                    "update": "2025-01-10 16:28:05",
+                    "brand": "Maxus",
+                    "model": "Territory",
+                    "generation": "Territory",
+                    "engine": "2.0T (218 Hp) Mild Hybrid 4WD ZF",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "218",
+                    "powerHp": "218",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5046",
+                    "width": "2016",
+                    "height": "1876",
+                    "heightMin": "1876",
+                    "rideHeight": "208-230",
+                    "rideHeightMin": "208",
+                    "rideHeightMax": "230",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-10 16:12:15",
+        "name": "Euniq 5",
+        "id": "3556",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-10 16:13:28",
+              "name": "Euniq 5",
+              "modelYear": "2020",
+              "id": "10339",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45358",
+                    "update": "2025-01-10 16:19:22",
+                    "brand": "Maxus",
+                    "model": "Euniq 5",
+                    "generation": "Euniq 5",
+                    "engine": "1.3T (245 Hp) Plug In",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4825",
+                    "width": "1825",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45359",
+                    "update": "2025-01-10 16:19:18",
+                    "brand": "Maxus",
+                    "model": "Euniq 5",
+                    "generation": "Euniq 5",
+                    "engine": "61 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4825",
+                    "width": "1825",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45360",
+                    "update": "2025-01-10 16:19:12",
+                    "brand": "Maxus",
+                    "model": "Euniq 5",
+                    "generation": "Euniq 5",
+                    "engine": "70 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "Minivan",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "4825",
+                    "width": "1825",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-10 16:20:32",
+        "name": "Euniq 6",
+        "id": "3557",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-10 16:21:47",
+              "name": "Euniq 6",
+              "modelYear": "2020",
+              "id": "10340",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45352",
+                    "update": "2025-01-10 16:23:56",
+                    "brand": "Maxus",
+                    "model": "Euniq 6",
+                    "generation": "Euniq 6",
+                    "engine": "1.3TI (245 Hp) Plug In",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163",
+                    "powerHp": "163",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45353",
+                    "update": "2025-01-10 16:24:25",
+                    "brand": "Maxus",
+                    "model": "Euniq 6",
+                    "generation": "Euniq 6",
+                    "engine": "52.5 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45354",
+                    "update": "2025-01-10 16:24:47",
+                    "brand": "Maxus",
+                    "model": "Euniq 6",
+                    "generation": "Euniq 6",
+                    "engine": "70 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-01-15 10:10:49",
+        "name": "Mifa 6",
+        "id": "3558",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-01-15 10:11:18",
+              "name": "Mifa 6",
+              "modelYear": "2023",
+              "id": "10341",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53523",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Maxus",
+                    "model": "Mifa 6",
+                    "generation": "Mifa 6",
+                    "engine": "61 kWh (160 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4735",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "53524",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Maxus",
+                    "model": "Mifa 6",
+                    "generation": "Mifa 6",
+                    "engine": "70 kWh (160 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "4735",
+                    "width": "1860",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  },
+                  {
+                    "id": "53525",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Maxus",
+                    "model": "Mifa 6",
+                    "generation": "Mifa 6",
+                    "engine": "1.3T (245 Hp) Plug In iHDU",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4719",
+                    "width": "1857",
+                    "height": "1736",
+                    "heightMin": "1736",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

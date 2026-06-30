@@ -1,0 +1,143 @@
+{
+  "update": "2020-11-05 12:13:27",
+  "name": "Hispano Suiza",
+  "id": "271",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-31 12:07:58",
+        "name": "Maguari HS1",
+        "id": "2635",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Maguari HS1",
+              "modelYear": "2019",
+              "id": "6930",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36116",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hispano Suiza",
+                    "model": "Maguari HS1",
+                    "generation": "Maguari HS1",
+                    "engine": "GTC 5.2 V10 (1085 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1085/8200",
+                    "powerHp": "1085",
+                    "powerRpm": "8200",
+                    "powerRpmLow": "8200",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5100",
+                    "width": "2100",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 12:04:13",
+        "name": "Carmen",
+        "id": "2658",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-04-15 16:16:37",
+              "name": "Carmen Boulogne",
+              "modelYear": "2020",
+              "id": "7593",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39277",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Hispano Suiza",
+                    "model": "Carmen",
+                    "generation": "Carmen Boulogne",
+                    "engine": "80 kWh (1114 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "width": "2040",
+                    "height": "1242",
+                    "heightMin": "1242",
+                    "fuel": "Electricity",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Carmen",
+              "modelYear": "2019",
+              "id": "6979",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36324",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Hispano Suiza",
+                    "model": "Carmen",
+                    "generation": "Carmen",
+                    "engine": "80 kWh (1019 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "width": "2040",
+                    "height": "1242",
+                    "heightMin": "1242",
+                    "fuel": "Electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 12:13:27",
+        "name": "K6",
+        "id": "2675",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 15:44:52",
+              "name": "K6 Coupe",
+              "modelYear": "1934",
+              "id": "7019",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

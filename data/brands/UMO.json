@@ -1,0 +1,51 @@
+{
+  "update": "2026-06-29 15:53:21",
+  "name": "UMO",
+  "id": "403",
+  "models": {
+    "model": [
+      {
+        "update": "2026-06-29 15:54:34",
+        "name": "5",
+        "id": "4064",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-29 15:55:23",
+              "name": "5",
+              "modelYear": "2026",
+              "id": "11342",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57384",
+                    "update": "2026-06-29 16:10:10",
+                    "brand": "UMO",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "63.2 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4535",
+                    "width": "1870",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1735",
+                    "curbWeightMin": "1735"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

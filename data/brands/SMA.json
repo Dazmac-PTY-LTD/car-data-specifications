@@ -1,0 +1,234 @@
+{
+  "update": "2019-05-22 15:10:20",
+  "name": "SMA",
+  "id": "159",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 09:39:04",
+        "name": "C61",
+        "id": "1632",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C61",
+              "modelYear": "2005",
+              "id": "3217",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14659",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SMA",
+                    "model": "C61",
+                    "generation": "C61",
+                    "engine": "1.6 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/6000",
+                    "powerHp": "105",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4435",
+                    "width": "1710",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 09:38:43",
+        "name": "C32",
+        "id": "1633",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C32",
+              "modelYear": "2005",
+              "id": "3218",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14662",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SMA",
+                    "model": "C32",
+                    "generation": "C32",
+                    "engine": "1.3i (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/6000",
+                    "powerHp": "85",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4435",
+                    "width": "1710",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 09:38:48",
+        "name": "C51",
+        "id": "1634",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C51",
+              "modelYear": "2005",
+              "id": "3219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14664",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SMA",
+                    "model": "C51",
+                    "generation": "C51",
+                    "engine": "1.5 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/6000",
+                    "powerHp": "95",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4435",
+                    "width": "1710",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 09:38:55",
+        "name": "C52",
+        "id": "1635",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C52",
+              "modelYear": "2005",
+              "id": "3220",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14667",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SMA",
+                    "model": "C52",
+                    "generation": "C52",
+                    "engine": "1.5 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/6000",
+                    "powerHp": "95",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4435",
+                    "width": "1710",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 09:39:27",
+        "name": "C81",
+        "id": "1636",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C81",
+              "modelYear": "2006",
+              "id": "3221",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14669",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SMA",
+                    "model": "C81",
+                    "generation": "C81",
+                    "engine": "1.8 (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/5600",
+                    "powerHp": "115",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2006",
+                    "yearstop": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4435",
+                    "width": "1710",
+                    "height": "1430",
+                    "heightMin": "1430",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1130",
+                    "curbWeightMin": "1130"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

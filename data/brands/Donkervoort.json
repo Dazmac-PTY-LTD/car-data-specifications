@@ -1,0 +1,316 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Donkervoort",
+  "id": "47",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 10:45:19",
+        "name": "D8",
+        "id": "558",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D8 GTO",
+              "modelYear": "2016",
+              "id": "6458",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44454",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 GTO",
+                    "engine": "GTO Invdividual Series 2.5 TFSI (435 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "435/5850-7000",
+                    "powerHp": "435",
+                    "powerRpm": "5850-7000",
+                    "powerRpmLow": "5850",
+                    "powerRpmHigh": "7000",
+                    "yearstart": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3836",
+                    "width": "1850",
+                    "height": "1081",
+                    "heightMin": "1081",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "680",
+                    "curbWeightMin": "680"
+                  },
+                  {
+                    "id": "33980",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 GTO",
+                    "engine": "GTO-RS 2.5 TFSI (386 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "386/5500",
+                    "powerHp": "386",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3833",
+                    "width": "1850",
+                    "height": "1122",
+                    "heightMin": "1122",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "695",
+                    "curbWeightMin": "695"
+                  },
+                  {
+                    "id": "33981",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 GTO",
+                    "engine": "GTO-40 2.5 TFSI (386 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "386/5500",
+                    "powerHp": "386",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3836",
+                    "width": "1850",
+                    "height": "1081",
+                    "heightMin": "1081",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "678",
+                    "curbWeightMin": "678"
+                  },
+                  {
+                    "id": "33982",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 GTO",
+                    "engine": "GTO-S 2.5 TFSI (360 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "360/5400",
+                    "powerHp": "360",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2016",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3740",
+                    "width": "1850",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  },
+                  {
+                    "id": "33983",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 GTO",
+                    "engine": "GTO-S 2.5 TFSI (345 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "345/5400",
+                    "powerHp": "345",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2016",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3740",
+                    "width": "1850",
+                    "height": "1140",
+                    "heightMin": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "D8 270 RS",
+              "modelYear": "2008",
+              "id": "1202",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5158",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Donkervoort",
+                    "model": "D8",
+                    "generation": "D8 270 RS",
+                    "engine": "RS 1.8 (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270/5700",
+                    "powerHp": "270",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2007",
+                    "yearstop": "2012",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "625",
+                    "curbWeightMin": "625"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-05-25 10:53:53",
+        "name": "S8",
+        "id": "2933",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-05-25 11:02:45",
+              "name": "S8",
+              "modelYear": "1986",
+              "id": "8370",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43447",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Donkervoort",
+                    "model": "S8",
+                    "generation": "S8",
+                    "engine": "AT (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/5500",
+                    "powerHp": "170",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1986",
+                    "yearstop": "1994",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3600",
+                    "width": "1730",
+                    "height": "1100",
+                    "heightMin": "1100",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "685",
+                    "curbWeightMin": "685"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-26 10:21:00",
+        "name": "P24 RS",
+        "id": "3924",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-26 12:37:18",
+              "name": "P24 RS",
+              "modelYear": "2026",
+              "id": "11039",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56245",
+                    "update": "2026-01-26 16:18:42",
+                    "brand": "Donkervoort",
+                    "model": "P24 RS",
+                    "generation": "P24 RS",
+                    "engine": "3.5 V6 (600 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/5500",
+                    "powerHp": "600",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4000",
+                    "width": "1912",
+                    "height": "1105",
+                    "heightMin": "1105",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "780",
+                    "curbWeightMin": "780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-26 12:30:36",
+        "name": "F22",
+        "id": "3925",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-26 12:37:36",
+              "name": "F22",
+              "modelYear": "2023",
+              "id": "11040",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56246",
+                    "update": "2026-01-26 16:18:42",
+                    "brand": "Donkervoort",
+                    "model": "F22",
+                    "generation": "F22",
+                    "engine": "2.5 R5 TFSI (500 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "500/6360",
+                    "powerHp": "500",
+                    "powerRpm": "6360",
+                    "powerRpmLow": "6360",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4039",
+                    "width": "1912",
+                    "height": "1105",
+                    "heightMin": "1105",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "716",
+                    "curbWeightMin": "716"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

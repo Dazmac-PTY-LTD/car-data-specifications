@@ -1,0 +1,91 @@
+{
+  "update": "2020-03-12 11:54:22",
+  "name": "BAC",
+  "id": "68",
+  "models": {
+    "model": [
+      {
+        "update": "2020-03-16 08:24:53",
+        "name": "Mono",
+        "id": "2223",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Mono R",
+              "modelYear": "2019",
+              "id": "7600",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39326",
+                    "update": "2023-08-21 11:27:32",
+                    "brand": "BAC",
+                    "model": "Mono",
+                    "generation": "Mono R",
+                    "engine": "2.5 (340 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340",
+                    "powerHp": "340",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4007",
+                    "width": "1836",
+                    "height": "1085",
+                    "heightMin": "1085",
+                    "rideHeight": "95-115",
+                    "rideHeightMin": "95",
+                    "rideHeightMax": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "566",
+                    "curbWeightMin": "566"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Mono",
+              "modelYear": "2016",
+              "id": "5985",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32126",
+                    "update": "2023-08-21 11:27:34",
+                    "brand": "BAC",
+                    "model": "Mono",
+                    "generation": "Mono",
+                    "engine": "2.5 (305 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "305",
+                    "powerHp": "305",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "Roadster",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "3952",
+                    "width": "1836",
+                    "height": "1110",
+                    "heightMin": "1110",
+                    "rideHeight": "100-110",
+                    "rideHeightMin": "100",
+                    "rideHeightMax": "110",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "580",
+                    "curbWeightMin": "580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

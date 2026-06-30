@@ -1,0 +1,123 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Praga",
+  "id": "235",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 15:11:35",
+        "name": "R1",
+        "id": "2395",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R1",
+              "modelYear": "2013",
+              "id": "6191",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32916",
+                    "update": "2023-08-11 13:45:38",
+                    "brand": "Praga",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "2.0 (210 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "210/7250",
+                    "powerHp": "210",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2013",
+                    "coupe": "Coupe",
+                    "places": "1-2",
+                    "placesMin": "1",
+                    "placesMax": "2",
+                    "length": "4144",
+                    "width": "1800",
+                    "height": "965",
+                    "heightMin": "965",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "592",
+                    "curbWeightMin": "592"
+                  },
+                  {
+                    "id": "32917",
+                    "update": "2023-08-11 13:47:13",
+                    "brand": "Praga",
+                    "model": "R1",
+                    "generation": "R1",
+                    "engine": "S 2.0 (235 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "235/7250",
+                    "powerHp": "235",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2013",
+                    "coupe": "Coupe",
+                    "places": "1-2",
+                    "placesMin": "1",
+                    "placesMax": "2",
+                    "length": "4144",
+                    "width": "1800",
+                    "height": "965",
+                    "heightMin": "965",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "592",
+                    "curbWeightMin": "592"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-22 15:11:32",
+        "name": "Bohema",
+        "id": "3778",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-22 15:11:47",
+              "name": "Bohema",
+              "modelYear": "2024",
+              "id": "10753",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55176",
+                    "update": "2025-08-25 16:07:33",
+                    "brand": "Praga",
+                    "model": "Bohema",
+                    "generation": "Bohema",
+                    "engine": "3.8 V6 (700 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/6800",
+                    "powerHp": "700",
+                    "powerRpm": "6800",
+                    "powerRpmLow": "6800",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4510",
+                    "width": "2000",
+                    "height": "1060",
+                    "heightMin": "1060",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "982",
+                    "curbWeightMin": "982"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

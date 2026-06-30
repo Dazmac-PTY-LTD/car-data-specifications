@@ -1,0 +1,1369 @@
+{
+  "update": "2022-07-08 10:00:10",
+  "name": "DR",
+  "id": "267",
+  "models": {
+    "model": [
+      {
+        "update": "2019-01-16 14:18:10",
+        "name": "Zero",
+        "id": "2596",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zero",
+              "modelYear": "2016",
+              "id": "6803",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35461",
+                    "update": "2022-07-07 14:56:30",
+                    "brand": "DR",
+                    "model": "Zero",
+                    "generation": "Zero",
+                    "engine": "1.0 Ecopower (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69/6000",
+                    "powerHp": "69",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3560",
+                    "width": "1600",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "945",
+                    "curbWeightMin": "945"
+                  },
+                  {
+                    "id": "35462",
+                    "update": "2022-07-07 14:56:29",
+                    "brand": "DR",
+                    "model": "Zero",
+                    "generation": "Zero",
+                    "engine": "1.0 Bifuel (67 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "67/",
+                    "powerHp": "67",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3560",
+                    "width": "1600",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "975",
+                    "curbWeightMin": "975"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-04 12:03:41",
+        "name": "3",
+        "id": "2597",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-11-08 15:05:20",
+              "name": "3EV",
+              "modelYear": "2019",
+              "id": "9099",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36322",
+                    "update": "2022-11-08 15:06:55",
+                    "brand": "DR",
+                    "model": "3",
+                    "generation": "3EV",
+                    "engine": "EV 54.3 kWh (122 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1760",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": "1515",
+                    "curbWeightMin": "1515"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-06 12:23:16",
+              "name": "3",
+              "modelYear": "2017",
+              "id": "6804",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35463",
+                    "update": "2022-07-06 12:25:17",
+                    "brand": "DR",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4170",
+                    "width": "1760",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  },
+                  {
+                    "id": "35464",
+                    "update": "2022-07-06 12:25:20",
+                    "brand": "DR",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5 (106/98 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000/98/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "powerHpLPG": "98",
+                    "powerRpmLPG": "6000",
+                    "powerRpmLowLPG": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4170",
+                    "width": "1760",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-04 12:14:33",
+        "name": "4",
+        "id": "2598",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "4",
+              "modelYear": "2017",
+              "id": "6805",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35359",
+                    "update": "2022-07-06 12:36:48",
+                    "brand": "DR",
+                    "model": "4",
+                    "generation": "4",
+                    "engine": "1.6 (114/106 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/6300/106/6300",
+                    "powerHp": "114",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "powerHpLPG": "106",
+                    "powerRpmLPG": "6300",
+                    "powerRpmLowLPG": "6300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4345",
+                    "width": "1765",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "35360",
+                    "update": "2022-07-06 12:36:45",
+                    "brand": "DR",
+                    "model": "4",
+                    "generation": "4",
+                    "engine": "1.6 (114 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/6300",
+                    "powerHp": "114",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4345",
+                    "width": "1765",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1260",
+                    "curbWeightMin": "1260"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-08 14:25:22",
+        "name": "EVO5",
+        "id": "2599",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-08 14:25:09",
+              "name": "EVO5",
+              "modelYear": "2017",
+              "id": "6806",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35354",
+                    "update": "2022-11-08 14:49:39",
+                    "brand": "DR",
+                    "model": "EVO5",
+                    "generation": "EVO5",
+                    "engine": "1.6 (126 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/6150",
+                    "powerHp": "126",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1760",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1315",
+                    "curbWeightMin": "1315"
+                  },
+                  {
+                    "id": "35355",
+                    "update": "2022-11-08 14:49:41",
+                    "brand": "DR",
+                    "model": "EVO5",
+                    "generation": "EVO5",
+                    "engine": "1.6 (126/118 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "126/6150/118/6150",
+                    "powerHp": "126",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "powerHpLPG": "118",
+                    "powerRpmLPG": "6150",
+                    "powerRpmLowLPG": "6150",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4420",
+                    "width": "1760",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-04 12:28:07",
+        "name": "6",
+        "id": "2600",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "6",
+              "modelYear": "2017",
+              "id": "6807",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35352",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "DR",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 Turbo (150/140 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150//140",
+                    "powerHp": "150",
+                    "powerHpLPG": "140",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4506",
+                    "width": "1841",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1498",
+                    "curbWeightMin": "1498"
+                  },
+                  {
+                    "id": "35353",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "DR",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 Turbo (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/",
+                    "powerHp": "150",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4506",
+                    "width": "1841",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1498",
+                    "curbWeightMin": "1498"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-01 09:58:48",
+        "name": "1",
+        "id": "3135",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-01 09:59:08",
+              "name": "1",
+              "modelYear": "2010",
+              "id": "8939",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46041",
+                    "update": "2023-04-12 11:49:05",
+                    "brand": "DR",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "1.3 Ecopower (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2009",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3620",
+                    "width": "1630",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "955",
+                    "curbWeightMin": "955"
+                  },
+                  {
+                    "id": "46042",
+                    "update": "2023-04-12 11:49:03",
+                    "brand": "DR",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "1.3 Ecopower (83 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2009",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3620",
+                    "width": "1630",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "955",
+                    "curbWeightMin": "955"
+                  },
+                  {
+                    "id": "46043",
+                    "update": "2022-10-11 12:11:54",
+                    "brand": "DR",
+                    "model": "1",
+                    "generation": "1",
+                    "engine": "1.1 Ecopower (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/6000",
+                    "powerHp": "68",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2011",
+                    "yearstop": "2013",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3620",
+                    "width": "1630",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "945",
+                    "curbWeightMin": "945"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-01 12:34:51",
+        "name": "F35",
+        "id": "3136",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-01 12:35:23",
+              "name": "F35",
+              "modelYear": "2020",
+              "id": "8940",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46044",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "DR",
+                    "model": "F35",
+                    "generation": "F35",
+                    "engine": "1.5 ACTECO Turbo (155 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/5500",
+                    "powerHp": "155",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1837",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1435",
+                    "curbWeightMin": "1435"
+                  },
+                  {
+                    "id": "46045",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "DR",
+                    "model": "F35",
+                    "generation": "F35",
+                    "engine": "1.5 ACTECO Turbo (155 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/5500",
+                    "powerHp": "155",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1837",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  },
+                  {
+                    "id": "46046",
+                    "update": "2022-07-01 16:20:00",
+                    "brand": "DR",
+                    "model": "F35",
+                    "generation": "F35",
+                    "engine": "1.5 ACTECO Turbo (150 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1837",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "46047",
+                    "update": "2022-07-01 16:20:00",
+                    "brand": "DR",
+                    "model": "F35",
+                    "generation": "F35",
+                    "engine": "1.5 ACTECO Turbo (150 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1837",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1515",
+                    "curbWeightMin": "1515"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 13:05:00",
+        "name": "7.0",
+        "id": "3144",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 13:07:41",
+              "name": "7.0",
+              "modelYear": "2022",
+              "id": "8953",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48632",
+                    "update": "2023-05-18 10:01:22",
+                    "brand": "DR",
+                    "model": "7.0",
+                    "generation": "7.0",
+                    "engine": "1.5 (160 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5680",
+                    "powerHp": "160",
+                    "powerRpm": "5680",
+                    "powerRpmLow": "5680",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1604",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1564",
+                    "curbWeightMin": "1564"
+                  },
+                  {
+                    "id": "48633",
+                    "update": "2023-05-18 10:06:54",
+                    "brand": "DR",
+                    "model": "7.0",
+                    "generation": "7.0",
+                    "engine": "1.5 (153 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "153/5680",
+                    "powerHp": "153",
+                    "powerRpm": "5680",
+                    "powerRpmLow": "5680",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1604",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1584",
+                    "curbWeightMin": "1584"
+                  },
+                  {
+                    "id": "54421",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "7.0",
+                    "generation": "7.0",
+                    "engine": "1.5 Turbo (317 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "146/5500",
+                    "powerHp": "146",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 13:39:16",
+        "name": "6.0",
+        "id": "3145",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 13:40:28",
+              "name": "6.0",
+              "modelYear": "2022",
+              "id": "8955",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47319",
+                    "update": "2025-05-29 15:16:43",
+                    "brand": "DR",
+                    "model": "6.0",
+                    "generation": "6.0",
+                    "engine": "1.5 Turbo (154 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "47320",
+                    "update": "2025-05-29 15:19:05",
+                    "brand": "DR",
+                    "model": "6.0",
+                    "generation": "6.0",
+                    "engine": "1.5 Turbo (154/149 Hp) ThermoHybrid LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500/149/5900",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "5900",
+                    "powerRpmLowLPG": "5900",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "54418",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "6.0",
+                    "generation": "6.0",
+                    "engine": "1.6 T-GDI (185 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/5500",
+                    "powerHp": "185",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1562",
+                    "curbWeightMin": "1562"
+                  },
+                  {
+                    "id": "54419",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "6.0",
+                    "generation": "6.0",
+                    "engine": "1.6 T-GDI (185/178 Hp) ThermoHybrid LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/5500/178/5500",
+                    "powerHp": "185",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "178",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1588",
+                    "curbWeightMin": "1588"
+                  },
+                  {
+                    "id": "54420",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "6.0",
+                    "generation": "6.0",
+                    "engine": "1.5 Turbo (317 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "146/5500",
+                    "powerHp": "146",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4513",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 14:35:07",
+        "name": "5.0",
+        "id": "3146",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-25 12:10:01",
+              "name": "5.0 (facelift 2021)",
+              "modelYear": "2022",
+              "id": "8956",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47310",
+                    "update": "2025-05-29 15:17:20",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  },
+                  {
+                    "id": "47311",
+                    "update": "2025-05-29 15:19:17",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 (116/114 Hp) ThermoHybrid LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150/114/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "powerHpLPG": "114",
+                    "powerRpmLPG": "6150",
+                    "powerRpmLowLPG": "6150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  },
+                  {
+                    "id": "47313",
+                    "update": "2025-05-29 15:17:02",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 Turbo (154 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1459",
+                    "curbWeightMin": "1459"
+                  },
+                  {
+                    "id": "47314",
+                    "update": "2025-05-29 15:19:15",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 Turbo (154/149 Hp) ThermoHybrid LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500/149/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1479",
+                    "curbWeightMin": "1479"
+                  },
+                  {
+                    "id": "54422",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 Turbo (154 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6150",
+                    "powerHp": "154",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1831",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  },
+                  {
+                    "id": "54423",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "DR",
+                    "model": "5.0",
+                    "generation": "5.0 (facelift 2021)",
+                    "engine": "1.5 Turbo (154/149 Hp) ThermoHybrid LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/6150/149/6150",
+                    "powerHp": "154",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "6150",
+                    "powerRpmLowLPG": "6150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1831",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-08 15:03:21",
+        "name": "3.0",
+        "id": "3183",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-26 10:22:23",
+              "name": "3.0",
+              "modelYear": "2023",
+              "id": "8946",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47321",
+                    "update": "2023-01-26 11:21:46",
+                    "brand": "DR",
+                    "model": "3.0",
+                    "generation": "3.0",
+                    "engine": "1.5 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  },
+                  {
+                    "id": "47322",
+                    "update": "2025-05-29 15:19:45",
+                    "brand": "DR",
+                    "model": "3.0",
+                    "generation": "3.0",
+                    "engine": "1.5 (116/114 Hp) ThermoHybrid LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150/114/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "powerHpLPG": "114",
+                    "powerRpmLPG": "6150",
+                    "powerRpmLowLPG": "6150",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  },
+                  {
+                    "id": "54436",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "DR",
+                    "model": "3.0",
+                    "generation": "3.0",
+                    "engine": "1.5 (116 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4170",
+                    "width": "1760",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "54437",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "DR",
+                    "model": "3.0",
+                    "generation": "3.0",
+                    "engine": "1.5 (116/114 Hp) ThermoHybrid LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150/114/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "powerHpLPG": "114",
+                    "powerRpmLPG": "6150",
+                    "powerRpmLowLPG": "6150",
+                    "yearstart": "2022",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4170",
+                    "width": "1760",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-01-26 11:01:43",
+        "name": "2",
+        "id": "3211",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-26 11:18:28",
+              "name": "2",
+              "modelYear": "2010",
+              "id": "9223",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47323",
+                    "update": "2023-01-26 12:11:56",
+                    "brand": "DR",
+                    "model": "2",
+                    "generation": "2",
+                    "engine": "1.3 (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/6000",
+                    "powerHp": "83",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2010",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3700",
+                    "width": "1578",
+                    "height": "1527",
+                    "heightMin": "1527",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "970",
+                    "curbWeightMin": "970"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-01-26 12:50:11",
+        "name": "CityCross",
+        "id": "3212",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-26 12:56:50",
+              "name": "CityCross",
+              "modelYear": "2014",
+              "id": "9224",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47324",
+                    "update": "2023-01-26 13:37:00",
+                    "brand": "DR",
+                    "model": "CityCross",
+                    "generation": "CityCross",
+                    "engine": "1.3 Ecopower (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/6000",
+                    "powerHp": "83",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3886",
+                    "width": "1622",
+                    "height": "1555",
+                    "heightMin": "1555",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1065",
+                    "curbWeightMin": "1065"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-18 10:07:32",
+        "name": "4.0",
+        "id": "3251",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-18 10:12:08",
+              "name": "4.0",
+              "modelYear": "2022",
+              "id": "9481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48634",
+                    "update": "2023-05-18 10:29:18",
+                    "brand": "DR",
+                    "model": "4.0",
+                    "generation": "4.0",
+                    "engine": "1.5 (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6150",
+                    "powerHp": "116",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  },
+                  {
+                    "id": "48635",
+                    "update": "2023-05-18 10:29:18",
+                    "brand": "DR",
+                    "model": "4.0",
+                    "generation": "4.0",
+                    "engine": "1.5 (114 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/6150",
+                    "powerHp": "114",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-18 10:30:50",
+        "name": "1.0",
+        "id": "3252",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-18 10:35:03",
+              "name": "1.0 EV",
+              "modelYear": "2023",
+              "id": "9482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48636",
+                    "update": "2023-05-18 11:28:20",
+                    "brand": "DR",
+                    "model": "1.0",
+                    "generation": "1.0 EV",
+                    "engine": "31 kWh (61 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3200",
+                    "width": "1670",
+                    "height": "1590",
+                    "heightMin": "1590",
+                    "fuel": "Electricity",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-30 09:06:52",
+        "name": "PK8",
+        "id": "3691",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-30 09:07:28",
+              "name": "PK8",
+              "modelYear": "2023",
+              "id": "10578",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54438",
+                    "update": "2025-05-30 16:15:38",
+                    "brand": "DR",
+                    "model": "PK8",
+                    "generation": "PK8",
+                    "engine": "2.0 CTI (136 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/3600",
+                    "powerHp": "136",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2023",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5315",
+                    "width": "1830",
+                    "height": "1815",
+                    "heightMin": "1815",
+                    "fuel": "Diesel",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

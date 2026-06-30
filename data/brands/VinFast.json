@@ -1,0 +1,684 @@
+{
+  "update": "2022-04-19 15:00:06",
+  "name": "VinFast",
+  "id": "260",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-02 13:10:33",
+        "name": "LUX A",
+        "id": "2551",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "LUX A",
+              "modelYear": "2019",
+              "id": "6695",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34924",
+                    "update": "2023-08-08 15:59:38",
+                    "brand": "VinFast",
+                    "model": "LUX A",
+                    "generation": "LUX A",
+                    "engine": "2.0 (174 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/4500-6000",
+                    "powerHp": "174",
+                    "powerRpm": "4500-6000",
+                    "powerRpmLow": "4500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4973",
+                    "width": "1900",
+                    "height": "1464",
+                    "heightMin": "1464",
+                    "rideHeight": "116",
+                    "rideHeightMin": "116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34925",
+                    "update": "2023-08-08 15:59:34",
+                    "brand": "VinFast",
+                    "model": "LUX A",
+                    "generation": "LUX A",
+                    "engine": "2.0 (228 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228/5000-6000",
+                    "powerHp": "228",
+                    "powerRpm": "5000-6000",
+                    "powerRpmLow": "5000",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4973",
+                    "width": "1900",
+                    "height": "1464",
+                    "heightMin": "1464",
+                    "rideHeight": "116",
+                    "rideHeightMin": "116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-02 13:03:53",
+        "name": "LUX SA",
+        "id": "2552",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "LUX SA",
+              "modelYear": "2019",
+              "id": "6696",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34926",
+                    "update": "2023-08-08 16:02:45",
+                    "brand": "VinFast",
+                    "model": "LUX SA",
+                    "generation": "LUX SA",
+                    "engine": "2.0 (228 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228/5000-6000",
+                    "powerHp": "228",
+                    "powerRpm": "5000-6000",
+                    "powerRpmLow": "5000",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1773",
+                    "heightMin": "1773",
+                    "rideHeight": "192",
+                    "rideHeightMin": "192",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  },
+                  {
+                    "id": "34927",
+                    "update": "2023-08-08 16:02:45",
+                    "brand": "VinFast",
+                    "model": "LUX SA",
+                    "generation": "LUX SA",
+                    "engine": "2.0 (228 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "228/5000-6000",
+                    "powerHp": "228",
+                    "powerRpm": "5000-6000",
+                    "powerRpmLow": "5000",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4940",
+                    "width": "1960",
+                    "height": "1773",
+                    "heightMin": "1773",
+                    "rideHeight": "192",
+                    "rideHeightMin": "192",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 10:14:26",
+        "name": "Fadil",
+        "id": "2642",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Fadil",
+              "modelYear": "2019",
+              "id": "6944",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36279",
+                    "update": "2023-08-08 16:14:41",
+                    "brand": "VinFast",
+                    "model": "Fadil",
+                    "generation": "Fadil",
+                    "engine": "1.4 (98 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "98/6200",
+                    "powerHp": "98",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2019",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3676",
+                    "width": "1632",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "992-1005",
+                    "curbWeightMin": "992",
+                    "curbWeightMax": "1005"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:02",
+        "name": "VF 8",
+        "id": "3101",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 13:03:09",
+              "name": "VF 8",
+              "modelYear": "2022",
+              "id": "8846",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45696",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 8",
+                    "generation": "VF 8",
+                    "engine": "Standard Range 82 kWh (348 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45697",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 8",
+                    "generation": "VF 8",
+                    "engine": "Enhanced Range 87.7 kWh (348 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45698",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 8",
+                    "generation": "VF 8",
+                    "engine": "Standard Range 82 kWh (402 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45699",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 8",
+                    "generation": "VF 8",
+                    "engine": "Enhanced Range 87.7 kWh (402 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1900",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:02",
+        "name": "VF 9",
+        "id": "3104",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 13:03:15",
+              "name": "VF 9",
+              "modelYear": "2022",
+              "id": "8849",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45700",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 9",
+                    "generation": "VF 9",
+                    "engine": "Standard Range 92 kWh (402 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5120",
+                    "width": "2000",
+                    "height": "1721",
+                    "heightMin": "1721",
+                    "rideHeight": "204",
+                    "rideHeightMin": "204",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45701",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "VinFast",
+                    "model": "VF 9",
+                    "generation": "VF 9",
+                    "engine": "Enhanced Range 123 kWh (402 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5120",
+                    "width": "2000",
+                    "height": "1721",
+                    "heightMin": "1721",
+                    "rideHeight": "204",
+                    "rideHeightMin": "204",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-04-21 14:14:45",
+        "name": "President",
+        "id": "3106",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-04-21 14:15:18",
+              "name": "President",
+              "modelYear": "2020",
+              "id": "8851",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45702",
+                    "update": "2023-08-08 16:03:42",
+                    "brand": "VinFast",
+                    "model": "President",
+                    "generation": "President",
+                    "engine": "6.2 V8 (420 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "420/5600",
+                    "powerHp": "420",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5146",
+                    "width": "1987",
+                    "height": "1760",
+                    "heightMin": "1760",
+                    "rideHeight": "183",
+                    "rideHeightMin": "183",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2424",
+                    "curbWeightMin": "2424"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:02",
+        "name": "VF 6",
+        "id": "3179",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 13:02:56",
+              "name": "VF 6",
+              "modelYear": "2023",
+              "id": "9093",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50389",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "VinFast",
+                    "model": "VF 6",
+                    "generation": "VF 6",
+                    "engine": "59.6 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4238",
+                    "width": "1820",
+                    "height": "1594",
+                    "heightMin": "1594",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "50390",
+                    "update": "2023-11-07 16:16:07",
+                    "brand": "VinFast",
+                    "model": "VF 6",
+                    "generation": "VF 6",
+                    "engine": "59.6 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4238",
+                    "width": "1820",
+                    "height": "1594",
+                    "heightMin": "1594",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50391",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "VinFast",
+                    "model": "VF 6",
+                    "generation": "VF 6",
+                    "engine": "59.6 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4238",
+                    "width": "1820",
+                    "height": "1594",
+                    "heightMin": "1594",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1743",
+                    "curbWeightMin": "1743"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:02",
+        "name": "VF 7",
+        "id": "3180",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 13:03:02",
+              "name": "VF 7",
+              "modelYear": "2023",
+              "id": "9094",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50392",
+                    "update": "2023-11-07 16:16:07",
+                    "brand": "VinFast",
+                    "model": "VF 7",
+                    "generation": "VF 7",
+                    "engine": "75.3 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4545",
+                    "width": "1890",
+                    "height": "1636",
+                    "heightMin": "1636",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50393",
+                    "update": "2023-11-07 16:16:07",
+                    "brand": "VinFast",
+                    "model": "VF 7",
+                    "generation": "VF 7",
+                    "engine": "75.3 kWh (354 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4545",
+                    "width": "1890",
+                    "height": "1636",
+                    "heightMin": "1636",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:02",
+        "name": "VF 5",
+        "id": "3297",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 13:02:50",
+              "name": "VF 5 Plus",
+              "modelYear": "2023",
+              "id": "9578",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49049",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "VinFast",
+                    "model": "VF 5",
+                    "generation": "VF 5 Plus",
+                    "engine": "37.23 kWh (136 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3965",
+                    "width": "1720",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "fuel": "Electricity",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-07-21 14:13:24",
+        "name": "VF e34",
+        "id": "3298",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-21 14:14:04",
+              "name": "VF e34",
+              "modelYear": "2021",
+              "id": "9579",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49048",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "VinFast",
+                    "model": "VF e34",
+                    "generation": "VF e34",
+                    "engine": "42 kWh (150 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4300",
+                    "width": "1768",
+                    "height": "1613",
+                    "heightMin": "1613",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-17 12:42:13",
+        "name": "VF 3",
+        "id": "3441",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-17 12:42:45",
+              "name": "VF 3",
+              "modelYear": "2024",
+              "id": "10022",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51794",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "VinFast",
+                    "model": "VF 3",
+                    "generation": "VF 3",
+                    "engine": "18.64 kWh (44 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3190",
+                    "width": "1679",
+                    "height": "1622",
+                    "heightMin": "1622",
+                    "rideHeight": "191",
+                    "rideHeightMin": "191",
+                    "fuel": "Electricity",
+                    "curbWeight": "857",
+                    "curbWeightMin": "857"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3433 @@
+{
+  "update": "2020-03-25 14:58:27",
+  "name": "Geely",
+  "id": "87",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-26 11:11:52",
+        "name": "Beauty Leopard",
+        "id": "954",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Beauty Leopard",
+              "modelYear": "2004",
+              "id": "2048",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10100",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Beauty Leopard",
+                    "generation": "Beauty Leopard",
+                    "engine": "1.3 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/6000",
+                    "powerHp": "86",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "length": "4110",
+                    "width": "1690",
+                    "height": "1325",
+                    "heightMin": "1325",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  },
+                  {
+                    "id": "10101",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Beauty Leopard",
+                    "generation": "Beauty Leopard",
+                    "engine": "1.5 (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2003",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "length": "4110",
+                    "width": "1690",
+                    "height": "1325",
+                    "heightMin": "1325",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Haoqing",
+        "id": "955",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 13:49:21",
+              "name": "Haoqing",
+              "modelYear": "1998",
+              "id": "2049",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 13:01:17",
+        "name": "MK",
+        "id": "956",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MK",
+              "modelYear": "2006",
+              "id": "2051",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10105",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "MK",
+                    "generation": "MK",
+                    "engine": "1.5i (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2006",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4342",
+                    "width": "1692",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Uliou",
+        "id": "957",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-11 13:54:27",
+              "name": "Uliou",
+              "modelYear": "2003",
+              "id": "2052",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 13:09:08",
+        "name": "Vision",
+        "id": "958",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vision",
+              "modelYear": "2007",
+              "id": "2053",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10107",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Geely",
+                    "model": "Vision",
+                    "generation": "Vision",
+                    "engine": "1.8 i 16V (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/6200",
+                    "powerHp": "133",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4602",
+                    "width": "1725",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 12:57:20",
+        "name": "FC",
+        "id": "959",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "FC",
+              "modelYear": "2006",
+              "id": "2054",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10108",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "FC",
+                    "generation": "FC",
+                    "engine": "1.8i (139 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139",
+                    "powerHp": "139",
+                    "yearstart": "2006",
+                    "yearstop": "2011",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 13:05:36",
+        "name": "Otaka",
+        "id": "961",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Otaka",
+              "modelYear": "2007",
+              "id": "2056",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10110",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Otaka",
+                    "generation": "Otaka",
+                    "engine": "1.5 (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2007",
+                    "yearstop": "2008",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4152",
+                    "width": "1680",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1052",
+                    "curbWeightMin": "1052"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-19 14:20:51",
+        "name": "Emgrand GT",
+        "id": "2410",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GT",
+              "modelYear": "2015",
+              "id": "6219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33021",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Emgrand GT",
+                    "generation": "GT",
+                    "engine": "2.4 (162 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/5700",
+                    "powerHp": "162",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4956",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  },
+                  {
+                    "id": "33022",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Emgrand GT",
+                    "generation": "GT",
+                    "engine": "3.5 V6 (275 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "275/6200",
+                    "powerHp": "275",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4956",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1705",
+                    "curbWeightMin": "1705"
+                  },
+                  {
+                    "id": "33077",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Emgrand GT",
+                    "generation": "GT",
+                    "engine": "2.4 (148 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "148/5700",
+                    "powerHp": "148",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4956",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  },
+                  {
+                    "id": "33078",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "Emgrand GT",
+                    "generation": "GT",
+                    "engine": "1.8 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2015",
+                    "yearstop": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4956",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1760",
+                    "curbWeightMin": "1760"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-25 12:45:10",
+        "name": "Emgrand GS",
+        "id": "2411",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GS Sport",
+              "modelYear": "2016",
+              "id": "6223",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33020",
+                    "update": "2023-06-09 16:28:50",
+                    "brand": "Geely",
+                    "model": "Emgrand GS",
+                    "generation": "GS Sport",
+                    "engine": "1.8 (133 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/6000",
+                    "powerHp": "133",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4437",
+                    "width": "1833",
+                    "height": "1545",
+                    "heightMin": "1545",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-01 12:54:31",
+        "name": "Emgrand X7",
+        "id": "2412",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X7",
+              "modelYear": "2016",
+              "id": "6544",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34252",
+                    "update": "2023-06-20 11:59:32",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7",
+                    "engine": "2.0 (139 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "34253",
+                    "update": "2023-06-20 12:00:19",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7",
+                    "engine": "1.8 (131 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "131/6000",
+                    "powerHp": "131",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1433",
+                    "curbWeightMin": "1433"
+                  },
+                  {
+                    "id": "34255",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7",
+                    "engine": "1.4 T (133 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5200",
+                    "powerHp": "133",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1544",
+                    "curbWeightMin": "1544"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X7 Sport",
+              "modelYear": "2016",
+              "id": "6224",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33023",
+                    "update": "2023-06-20 11:58:43",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7 Sport",
+                    "engine": "2.0 (139 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1475",
+                    "curbWeightMin": "1475"
+                  },
+                  {
+                    "id": "33024",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7 Sport",
+                    "engine": "2.4 (149 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5300",
+                    "powerHp": "149",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  },
+                  {
+                    "id": "33025",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7 Sport",
+                    "engine": "2.4 (149 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5300",
+                    "powerHp": "149",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1608",
+                    "curbWeightMin": "1608"
+                  },
+                  {
+                    "id": "36468",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "Emgrand X7",
+                    "generation": "X7 Sport",
+                    "engine": "1.8 (184 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1745",
+                    "curbWeightMin": "1745"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2018-08-16 09:54:51",
+        "name": "Emgrand EV",
+        "id": "2436",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Emgrand EV",
+              "modelYear": "2015",
+              "id": "6281",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33229",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Geely",
+                    "model": "Emgrand EV",
+                    "generation": "Emgrand EV",
+                    "engine": "EV 450 52 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "33942",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Geely",
+                    "model": "Emgrand EV",
+                    "generation": "Emgrand EV",
+                    "engine": "EV 300 41 kWh (129 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2015",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4631",
+                    "width": "1789",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "rideHeight": "115",
+                    "rideHeightMin": "115",
+                    "fuel": "Electricity",
+                    "curbWeight": "1598",
+                    "curbWeightMin": "1598"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:09:37",
+        "name": "Atlas",
+        "id": "2451",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Atlas",
+              "modelYear": "2016",
+              "id": "6317",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33374",
+                    "update": "2023-06-20 13:22:45",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "2.0 (139 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1645",
+                    "curbWeightMin": "1645"
+                  },
+                  {
+                    "id": "33375",
+                    "update": "2023-04-07 12:32:21",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "2.4 (149 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5300",
+                    "powerHp": "149",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1725",
+                    "curbWeightMin": "1725"
+                  },
+                  {
+                    "id": "33377",
+                    "update": "2023-04-07 12:32:08",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "2.4 (149 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "149/5300",
+                    "powerHp": "149",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1795",
+                    "curbWeightMin": "1795"
+                  },
+                  {
+                    "id": "48363",
+                    "update": "2023-04-07 16:23:17",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "1.8T (184 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48364",
+                    "update": "2023-04-07 16:23:17",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "1.8T (184 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "48365",
+                    "update": "2023-04-07 16:23:17",
+                    "brand": "Geely",
+                    "model": "Atlas",
+                    "generation": "Atlas",
+                    "engine": "1.8T (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:19:32",
+        "name": "Emgrand GL",
+        "id": "2535",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Emgrand GL",
+              "modelYear": "2016",
+              "id": "6638",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34752",
+                    "update": "2023-06-09 16:28:48",
+                    "brand": "Geely",
+                    "model": "Emgrand GL",
+                    "generation": "Emgrand GL",
+                    "engine": "1.8 (133 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/6000",
+                    "powerHp": "133",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4725",
+                    "width": "1802",
+                    "height": "1478",
+                    "heightMin": "1478",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  },
+                  {
+                    "id": "34753",
+                    "update": "2023-06-09 16:28:49",
+                    "brand": "Geely",
+                    "model": "Emgrand GL",
+                    "generation": "Emgrand GL",
+                    "engine": "1.8 (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/6000",
+                    "powerHp": "133",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4725",
+                    "width": "1802",
+                    "height": "1478",
+                    "heightMin": "1478",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-03-16 11:21:58",
+        "name": "GC6",
+        "id": "2666",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GC6",
+              "modelYear": "2018",
+              "id": "6993",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36368",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "GC6",
+                    "generation": "GC6",
+                    "engine": "1.5 (100 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4342",
+                    "width": "1692",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "rideHeight": "158",
+                    "rideHeightMin": "158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1142",
+                    "curbWeightMin": "1142"
+                  },
+                  {
+                    "id": "36369",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "GC6",
+                    "generation": "GC6",
+                    "engine": "1.5 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4342",
+                    "width": "1692",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "rideHeight": "158",
+                    "rideHeightMin": "158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1132",
+                    "curbWeightMin": "1132"
+                  },
+                  {
+                    "id": "36370",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "GC6",
+                    "generation": "GC6",
+                    "engine": "1.5 (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/6000",
+                    "powerHp": "94",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4342",
+                    "width": "1692",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "rideHeight": "158",
+                    "rideHeightMin": "158",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1103",
+                    "curbWeightMin": "1103"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:14:23",
+        "name": "Bo Rui GE",
+        "id": "2667",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Bo Rui GE",
+              "modelYear": "2018",
+              "id": "6995",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36466",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Bo Rui GE",
+                    "generation": "Bo Rui GE",
+                    "engine": "1.5 (193 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "180/5500",
+                    "powerHp": "180",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4986",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "36467",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Geely",
+                    "model": "Bo Rui GE",
+                    "generation": "Bo Rui GE",
+                    "engine": "1.5 (261 Hp) Plug-in Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "180/5500",
+                    "powerHp": "180",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4986",
+                    "width": "1861",
+                    "height": "1513",
+                    "heightMin": "1513",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:25:08",
+        "name": "Xingyue",
+        "id": "2707",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 09:16:33",
+              "name": "Xingyue",
+              "modelYear": "2019",
+              "id": "7183",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37388",
+                    "update": "2023-06-09 16:11:50",
+                    "brand": "Geely",
+                    "model": "Xingyue",
+                    "generation": "Xingyue",
+                    "engine": "400T 15.2 kWh (258 Hp) Plug-in-Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "177",
+                    "powerHp": "177",
+                    "yearstart": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "37389",
+                    "update": "2023-06-09 16:11:51",
+                    "brand": "Geely",
+                    "model": "Xingyue",
+                    "generation": "Xingyue",
+                    "engine": "400T 11.3 kWh (258 Hp) Plug-in-Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "177",
+                    "powerHp": "177",
+                    "yearstart": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "37394",
+                    "update": "2023-06-09 16:12:37",
+                    "brand": "Geely",
+                    "model": "Xingyue",
+                    "generation": "Xingyue",
+                    "engine": "350T (238 Hp) AWD AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238",
+                    "powerHp": "238",
+                    "yearstart": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "37395",
+                    "update": "2023-06-09 16:12:38",
+                    "brand": "Geely",
+                    "model": "Xingyue",
+                    "generation": "Xingyue",
+                    "engine": "350T (238 Hp) AISIN",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238",
+                    "powerHp": "238",
+                    "yearstart": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  },
+                  {
+                    "id": "37396",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Xingyue",
+                    "generation": "Xingyue",
+                    "engine": "300T (190 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177",
+                    "powerHp": "177",
+                    "yearstart": "2019",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-10-10 15:50:30",
+        "name": "Binyue",
+        "id": "2729",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-08-18 14:19:50",
+              "name": "Binyue Cool",
+              "modelYear": "2022",
+              "id": "9597",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49110",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue Cool",
+                    "engine": "1.5TD (181 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/5500",
+                    "powerHp": "181",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-08-18 12:19:50",
+              "name": "Binyue (facelift 2021)",
+              "modelYear": "2021",
+              "id": "9596",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49108",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue (facelift 2021)",
+                    "engine": "1.4T (141 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "141/5200",
+                    "powerHp": "141",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  },
+                  {
+                    "id": "49109",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue (facelift 2021)",
+                    "engine": "1.5TD (181 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/5500",
+                    "powerHp": "181",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Binyue",
+              "modelYear": "2018",
+              "id": "7325",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37802",
+                    "update": "2023-08-18 12:15:20",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue",
+                    "engine": "200T (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/6000",
+                    "powerHp": "136",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  },
+                  {
+                    "id": "37803",
+                    "update": "2023-08-18 12:18:30",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue",
+                    "engine": "260T (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340-1355",
+                    "curbWeightMin": "1340",
+                    "curbWeightMax": "1355"
+                  },
+                  {
+                    "id": "37804",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue",
+                    "engine": "260T (190 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  },
+                  {
+                    "id": "37805",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Geely",
+                    "model": "Binyue",
+                    "generation": "Binyue",
+                    "engine": "260T (258 Hp) Plug-in Hybrid DCTH",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1548",
+                    "curbWeightMin": "1548"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-25 14:54:09",
+        "name": "Coolray",
+        "id": "2730",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-04-23 14:39:13",
+              "name": "Coolray (facelift 2023)",
+              "modelYear": "2023",
+              "id": "10001",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51618",
+                    "update": "2024-04-24 08:13:40",
+                    "brand": "Geely",
+                    "model": "Coolray",
+                    "generation": "Coolray (facelift 2023)",
+                    "engine": "1.5 TD (172 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "172",
+                    "powerHp": "172",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1810",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "51620",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Coolray",
+                    "generation": "Coolray (facelift 2023)",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4380",
+                    "width": "1810",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1432",
+                    "curbWeightMin": "1432"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Coolray",
+              "modelYear": "2020",
+              "id": "7328",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37806",
+                    "update": "2024-04-23 14:32:56",
+                    "brand": "Geely",
+                    "model": "Coolray",
+                    "generation": "Coolray",
+                    "engine": "200T (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/6000",
+                    "powerHp": "136",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  },
+                  {
+                    "id": "37807",
+                    "update": "2024-04-23 14:32:53",
+                    "brand": "Geely",
+                    "model": "Coolray",
+                    "generation": "Coolray",
+                    "engine": "260T (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1800",
+                    "height": "1609",
+                    "heightMin": "1609",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-06-24 13:14:45",
+        "name": "Icon",
+        "id": "2787",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Icon",
+              "modelYear": "2020",
+              "id": "7575",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39237",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "Icon",
+                    "generation": "Icon",
+                    "engine": "260T (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1810",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1405",
+                    "curbWeightMin": "1405"
+                  },
+                  {
+                    "id": "39238",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Icon",
+                    "generation": "Icon",
+                    "engine": "300T (190 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177/1500-4000",
+                    "powerHp": "177",
+                    "powerRpm": "1500-4000",
+                    "powerRpmLow": "1500",
+                    "powerRpmHigh": "4000",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1810",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-02 10:08:25",
+        "name": "X7",
+        "id": "2788",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X7",
+              "modelYear": "2019",
+              "id": "7576",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39240",
+                    "update": "2023-06-20 13:06:22",
+                    "brand": "Geely",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.8L (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/6000",
+                    "powerHp": "130",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1433",
+                    "curbWeightMin": "1433"
+                  },
+                  {
+                    "id": "39241",
+                    "update": "2023-06-20 13:06:10",
+                    "brand": "Geely",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "2.0L (139 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "39242",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.4T (133 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5200",
+                    "powerHp": "133",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1834",
+                    "height": "1707",
+                    "heightMin": "1707",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1544",
+                    "curbWeightMin": "1544"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-03-02 14:08:19",
+        "name": "X7 Sport",
+        "id": "2789",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X7 Sport",
+              "modelYear": "2018",
+              "id": "7577",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39244",
+                    "update": "2023-06-20 12:03:34",
+                    "brand": "Geely",
+                    "model": "X7 Sport",
+                    "generation": "X7 Sport",
+                    "engine": "2.0L (139 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "39245",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "X7 Sport",
+                    "generation": "X7 Sport",
+                    "engine": "2.4L (152 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5300",
+                    "powerHp": "152",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  },
+                  {
+                    "id": "39246",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geely",
+                    "model": "X7 Sport",
+                    "generation": "X7 Sport",
+                    "engine": "2.4L (152 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5300",
+                    "powerHp": "152",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1683",
+                    "curbWeightMin": "1683"
+                  },
+                  {
+                    "id": "39247",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Geely",
+                    "model": "X7 Sport",
+                    "generation": "X7 Sport",
+                    "engine": "1.8T (184 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4519",
+                    "width": "1831",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1745",
+                    "curbWeightMin": "1745"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-17 11:25:53",
+        "name": "Tugella",
+        "id": "3052",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 10:13:08",
+              "name": "Tugella",
+              "modelYear": "2021",
+              "id": "8747",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46827",
+                    "update": "2022-11-15 16:21:19",
+                    "brand": "Geely",
+                    "model": "Tugella",
+                    "generation": "Tugella",
+                    "engine": "2.0 (238 Hp) 4WD Aisin",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238/5500",
+                    "powerHp": "238",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4605",
+                    "width": "1878",
+                    "height": "1643",
+                    "heightMin": "1643",
+                    "rideHeight": "204",
+                    "rideHeightMin": "204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-17 11:24:25",
+        "name": "Okavango",
+        "id": "3053",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-17 11:27:09",
+              "name": "Okavango",
+              "modelYear": "2020",
+              "id": "8748",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46849",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Okavango",
+                    "generation": "Okavango",
+                    "engine": "1.5L (190 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4835",
+                    "width": "1900",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "194",
+                    "rideHeightMin": "194",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-01-17 12:25:05",
+        "name": "Xingyue L",
+        "id": "3054",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-01-17 12:27:54",
+              "name": "Xingyue L",
+              "modelYear": "2021",
+              "id": "8749",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45315",
+                    "update": "2024-04-24 08:11:40",
+                    "brand": "Geely",
+                    "model": "Xingyue L",
+                    "generation": "Xingyue L",
+                    "engine": "2.0T (218 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "218",
+                    "powerHp": "218",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1895",
+                    "height": "1689",
+                    "heightMin": "1689",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1675",
+                    "curbWeightMin": "1675"
+                  },
+                  {
+                    "id": "45316",
+                    "update": "2023-06-09 16:12:54",
+                    "brand": "Geely",
+                    "model": "Xingyue L",
+                    "generation": "Xingyue L",
+                    "engine": "2.0T (238 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238",
+                    "powerHp": "238",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1895",
+                    "height": "1689",
+                    "heightMin": "1689",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-05-04 15:50:47",
+        "name": "Xingrui",
+        "id": "3111",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-05-04 15:51:14",
+              "name": "Xingrui",
+              "modelYear": "2021",
+              "id": "8859",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45751",
+                    "update": "2024-04-24 08:11:35",
+                    "brand": "Geely",
+                    "model": "Xingrui",
+                    "generation": "Xingrui",
+                    "engine": "2.0TD (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/4700",
+                    "powerHp": "190",
+                    "powerRpm": "4700",
+                    "powerRpmLow": "4700",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1869",
+                    "height": "1469",
+                    "heightMin": "1469",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500-1542",
+                    "curbWeightMin": "1500",
+                    "curbWeightMax": "1542"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-05-05 08:37:16",
+        "name": "Jia Ji",
+        "id": "3113",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-05-05 08:37:50",
+              "name": "Jia Ji",
+              "modelYear": "2019",
+              "id": "8862",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45752",
+                    "update": "2022-05-05 12:41:15",
+                    "brand": "Geely",
+                    "model": "Jia Ji",
+                    "generation": "Jia Ji",
+                    "engine": "1.8TD (184 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4706",
+                    "width": "1909",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  },
+                  {
+                    "id": "45753",
+                    "update": "2023-10-16 10:54:42",
+                    "brand": "Geely",
+                    "model": "Jia Ji",
+                    "generation": "Jia Ji",
+                    "engine": "1.5TD (190 Hp) Mild Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4706",
+                    "width": "1909",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "45754",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Geely",
+                    "model": "Jia Ji",
+                    "generation": "Jia Ji",
+                    "engine": "1.5TD (258 Hp) Plug-in Hybrid DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4706",
+                    "width": "1909",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1846",
+                    "curbWeightMin": "1846"
+                  },
+                  {
+                    "id": "45756",
+                    "update": "2023-06-09 16:16:42",
+                    "brand": "Geely",
+                    "model": "Jia Ji",
+                    "generation": "Jia Ji",
+                    "engine": "1.5TD (177 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4706",
+                    "width": "1909",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-17 10:40:51",
+        "name": "Haoyue",
+        "id": "3114",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-17 10:43:33",
+              "name": "Haoyue",
+              "modelYear": "2020",
+              "id": "8863",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45755",
+                    "update": "2023-06-09 16:23:55",
+                    "brand": "Geely",
+                    "model": "Haoyue",
+                    "generation": "Haoyue",
+                    "engine": "1.8TD (184 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "184/5500",
+                    "powerHp": "184",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4835",
+                    "width": "1900",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590-1660",
+                    "curbWeightMin": "1590",
+                    "curbWeightMax": "1660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-04-07 12:28:29",
+        "name": "Atlas Pro",
+        "id": "3242",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-04-07 12:30:50",
+              "name": "Atlas Pro",
+              "modelYear": "2022",
+              "id": "9422",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48366",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Atlas Pro",
+                    "generation": "Atlas Pro",
+                    "engine": "1.5T (177 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1713",
+                    "height": "1831",
+                    "heightMin": "1831",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "48367",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geely",
+                    "model": "Atlas Pro",
+                    "generation": "Atlas Pro",
+                    "engine": "1.5T (177 Hp) Mild Hybrid 4WD DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1713",
+                    "height": "1831",
+                    "heightMin": "1831",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1705",
+                    "curbWeightMin": "1705"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-04-10 12:02:39",
+        "name": "Monjaro",
+        "id": "3243",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-04-10 12:03:13",
+              "name": "Monjaro",
+              "modelYear": "2021",
+              "id": "9423",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48369",
+                    "update": "2023-06-20 11:52:21",
+                    "brand": "Geely",
+                    "model": "Monjaro",
+                    "generation": "Monjaro",
+                    "engine": "2.0TD (235 Hp) 4WD Aisin",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "235",
+                    "powerHp": "235",
+                    "yearstart": "2021",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1895",
+                    "height": "1689",
+                    "heightMin": "1689",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-08-14 13:38:43",
+        "name": "Azkarra",
+        "id": "3307",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-08-14 13:39:06",
+              "name": "Azkarra",
+              "modelYear": "2020",
+              "id": "9592",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49097",
+                    "update": "2023-09-28 12:05:52",
+                    "brand": "Geely",
+                    "model": "Azkarra",
+                    "generation": "Azkarra",
+                    "engine": "1.5TD (190 Hp) EMS 4WD DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4544",
+                    "width": "1831",
+                    "height": "1713",
+                    "heightMin": "1713",
+                    "rideHeight": "163",
+                    "rideHeightMin": "163",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1705",
+                    "curbWeightMin": "1705"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-08-05 13:09:27",
+        "name": "Galaxy E5",
+        "id": "3481",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-08-05 13:10:12",
+              "name": "Galaxy E5",
+              "modelYear": "2024",
+              "id": "10128",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52387",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geely",
+                    "model": "Galaxy E5",
+                    "generation": "Galaxy E5",
+                    "engine": "49.52 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1901",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "1615-1630",
+                    "curbWeightMin": "1615",
+                    "curbWeightMax": "1630"
+                  },
+                  {
+                    "id": "52388",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geely",
+                    "model": "Galaxy E5",
+                    "generation": "Galaxy E5",
+                    "engine": "60.22 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1901",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "1655-1740",
+                    "curbWeightMin": "1655",
+                    "curbWeightMax": "1740"
+                  },
+                  {
+                    "id": "55553",
+                    "update": "2025-10-15 14:21:16",
+                    "brand": "Geely",
+                    "model": "Galaxy E5",
+                    "generation": "Galaxy E5",
+                    "engine": "68.39 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1901",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "1730-1778",
+                    "curbWeightMin": "1730",
+                    "curbWeightMax": "1778"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-08-15 09:42:23",
+        "name": "Galaxy E8",
+        "id": "3484",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-08-15 09:42:55",
+              "name": "Galaxy E8",
+              "modelYear": "2024",
+              "id": "10138",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52489",
+                    "update": "2025-08-22 12:39:12",
+                    "brand": "Geely",
+                    "model": "Galaxy E8",
+                    "generation": "Galaxy E8",
+                    "engine": "62 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1920",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "rideHeight": "136",
+                    "rideHeightMin": "136",
+                    "fuel": "Electricity",
+                    "curbWeight": "1905",
+                    "curbWeightMin": "1905"
+                  },
+                  {
+                    "id": "52490",
+                    "update": "2025-08-22 12:39:37",
+                    "brand": "Geely",
+                    "model": "Galaxy E8",
+                    "generation": "Galaxy E8",
+                    "engine": "76 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1920",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "rideHeight": "143",
+                    "rideHeightMin": "143",
+                    "fuel": "Electricity",
+                    "curbWeight": "2030",
+                    "curbWeightMin": "2030"
+                  },
+                  {
+                    "id": "52491",
+                    "update": "2025-08-22 12:39:24",
+                    "brand": "Geely",
+                    "model": "Galaxy E8",
+                    "generation": "Galaxy E8",
+                    "engine": "75.6 kWh (646 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1920",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "rideHeight": "143",
+                    "rideHeightMin": "143",
+                    "fuel": "Electricity",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-17 10:57:27",
+        "name": "Starray",
+        "id": "3504",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-17 10:59:56",
+              "name": "Starray",
+              "modelYear": "2024",
+              "id": "10213",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52971",
+                    "update": "2024-10-17 16:06:10",
+                    "brand": "Geely",
+                    "model": "Starray",
+                    "generation": "Starray",
+                    "engine": "1.5T (174 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174",
+                    "powerHp": "174",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1571",
+                    "curbWeightMin": "1571"
+                  },
+                  {
+                    "id": "52972",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Geely",
+                    "model": "Starray",
+                    "generation": "Starray",
+                    "engine": "2.0T (218 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "218",
+                    "powerHp": "218",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1645",
+                    "curbWeightMin": "1645"
+                  },
+                  {
+                    "id": "56632",
+                    "update": "2026-03-06 16:06:06",
+                    "brand": "Geely",
+                    "model": "Starray",
+                    "generation": "Starray",
+                    "engine": "2.0T (238 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "238/5500",
+                    "powerHp": "238",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1900",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-24 12:56:25",
+        "name": "EX5",
+        "id": "3515",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-24 12:58:50",
+              "name": "EX5",
+              "modelYear": "2024",
+              "id": "10226",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54717",
+                    "update": "2025-06-26 16:18:59",
+                    "brand": "Geely",
+                    "model": "EX5",
+                    "generation": "EX5",
+                    "engine": "Pro 60.22 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1901",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "173",
+                    "rideHeightMin": "173",
+                    "fuel": "Electricity",
+                    "curbWeight": "1715",
+                    "curbWeightMin": "1715"
+                  },
+                  {
+                    "id": "54718",
+                    "update": "2025-06-26 16:18:59",
+                    "brand": "Geely",
+                    "model": "EX5",
+                    "generation": "EX5",
+                    "engine": "Max 60.22 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1901",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "173",
+                    "rideHeightMin": "173",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-10 15:26:45",
+        "name": "GX3",
+        "id": "3588",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 15:23:14",
+              "name": "GX3 Pro (facelift 2022)",
+              "modelYear": "2022",
+              "id": "10410",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53859",
+                    "update": "2025-05-20 13:53:16",
+                    "brand": "Geely",
+                    "model": "GX3",
+                    "generation": "GX3 Pro (facelift 2022)",
+                    "engine": "1.5 (102 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/5600",
+                    "powerHp": "102",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190-1215",
+                    "curbWeightMin": "1190",
+                    "curbWeightMax": "1215"
+                  },
+                  {
+                    "id": "53860",
+                    "update": "2025-05-20 13:53:16",
+                    "brand": "Geely",
+                    "model": "GX3",
+                    "generation": "GX3 Pro (facelift 2022)",
+                    "engine": "1.5 (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/5600",
+                    "powerHp": "102",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-05-20 14:43:24",
+              "name": "GX3",
+              "modelYear": "2018",
+              "id": "10558",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54323",
+                    "update": "2025-05-20 16:03:32",
+                    "brand": "Geely",
+                    "model": "GX3",
+                    "generation": "GX3",
+                    "engine": "1.5 (103 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6000",
+                    "powerHp": "103",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  },
+                  {
+                    "id": "54324",
+                    "update": "2025-05-20 16:03:32",
+                    "brand": "Geely",
+                    "model": "GX3",
+                    "generation": "GX3",
+                    "engine": "1.5 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6000",
+                    "powerHp": "103",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2022",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-20 11:25:49",
+        "name": "X3",
+        "id": "3676",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 14:36:21",
+              "name": "X3 Pro (facelift 2021)",
+              "modelYear": "2021",
+              "id": "10553",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54339",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3 Pro (facelift 2021)",
+                    "engine": "1.5L (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/6000",
+                    "powerHp": "109",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "54340",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3 Pro (facelift 2021)",
+                    "engine": "1.5L (109 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/6000",
+                    "powerHp": "109",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-05-20 11:26:14",
+              "name": "X3",
+              "modelYear": "2018",
+              "id": "10551",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54335",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "54336",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (102 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102/6000",
+                    "powerHp": "102",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1206",
+                    "curbWeightMin": "1206"
+                  },
+                  {
+                    "id": "54337",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/6000",
+                    "powerHp": "109",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "54338",
+                    "update": "2025-05-20 16:20:19",
+                    "brand": "Geely",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (109 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/6000",
+                    "powerHp": "109",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-10 12:27:26",
+        "name": "Xingyuan",
+        "id": "3732",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-10 12:27:51",
+              "name": "Xingyuan",
+              "modelYear": "2025",
+              "id": "10665",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54851",
+                    "update": "2025-07-10 16:16:55",
+                    "brand": "Geely",
+                    "model": "Xingyuan",
+                    "generation": "Xingyuan",
+                    "engine": "30.12 kWh (79 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54852",
+                    "update": "2025-07-10 16:16:55",
+                    "brand": "Geely",
+                    "model": "Xingyuan",
+                    "generation": "Xingyuan",
+                    "engine": "40.16 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-05 12:54:15",
+        "name": "Galaxy Wing L380",
+        "id": "3795",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-05 12:54:53",
+              "name": "Galaxy Wing L380",
+              "modelYear": "2025",
+              "id": "10791",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55298",
+                    "update": "2025-09-05 16:24:42",
+                    "brand": "Geely",
+                    "model": "Galaxy Wing L380",
+                    "generation": "Galaxy Wing L380",
+                    "engine": "100 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5316",
+                    "width": "1998",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Electricity",
+                    "curbWeight": "2805",
+                    "curbWeightMin": "2805"
+                  },
+                  {
+                    "id": "55299",
+                    "update": "2025-09-05 16:24:42",
+                    "brand": "Geely",
+                    "model": "Galaxy Wing L380",
+                    "generation": "Galaxy Wing L380",
+                    "engine": "116 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6-8",
+                    "placesMin": "6",
+                    "placesMax": "8",
+                    "length": "5316",
+                    "width": "1998",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Electricity",
+                    "curbWeight": "3100",
+                    "curbWeightMin": "3100"
+                  },
+                  {
+                    "id": "55300",
+                    "update": "2025-09-05 16:24:42",
+                    "brand": "Geely",
+                    "model": "Galaxy Wing L380",
+                    "generation": "Galaxy Wing L380",
+                    "engine": "140 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5316",
+                    "width": "1998",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Electricity",
+                    "curbWeight": "3025",
+                    "curbWeightMin": "3025"
+                  },
+                  {
+                    "id": "55301",
+                    "update": "2025-09-05 16:24:42",
+                    "brand": "Geely",
+                    "model": "Galaxy Wing L380",
+                    "generation": "Galaxy Wing L380",
+                    "engine": "140 kWh (544 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5316",
+                    "width": "1998",
+                    "height": "1920",
+                    "heightMin": "1920",
+                    "fuel": "Electricity",
+                    "curbWeight": "3130",
+                    "curbWeightMin": "3130"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-23 10:41:26",
+        "name": "E5",
+        "id": "3856",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-23 10:42:03",
+              "name": "E5",
+              "modelYear": "2024",
+              "id": "10888",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-23 12:39:32",
+        "name": "Galaxy M9",
+        "id": "3857",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-23 12:40:19",
+              "name": "Galaxy M9",
+              "modelYear": "2025",
+              "id": "10889",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55612",
+                    "update": "2025-10-23 16:24:05",
+                    "brand": "Geely",
+                    "model": "Galaxy M9",
+                    "generation": "Galaxy M9",
+                    "engine": "1.5T 18.4 kWh (408 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163/5000",
+                    "powerHp": "163",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2180",
+                    "curbWeightMin": "2180"
+                  },
+                  {
+                    "id": "55613",
+                    "update": "2025-10-23 16:24:05",
+                    "brand": "Geely",
+                    "model": "Galaxy M9",
+                    "generation": "Galaxy M9",
+                    "engine": "1.5T 41.46 kWh (408 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163/5000",
+                    "powerHp": "163",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "55614",
+                    "update": "2025-10-23 16:24:05",
+                    "brand": "Geely",
+                    "model": "Galaxy M9",
+                    "generation": "Galaxy M9",
+                    "engine": "1.5T 41.46 kWh (870 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "163/5000",
+                    "powerHp": "163",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-06 09:54:28",
+        "name": "Starray EM-i",
+        "id": "3941",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-06 09:54:49",
+              "name": "Starray EM-i",
+              "modelYear": "2026",
+              "id": "11107",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56631",
+                    "update": "2026-03-06 16:06:06",
+                    "brand": "Geely",
+                    "model": "Starray EM-i",
+                    "generation": "Starray EM-i",
+                    "engine": "1.5L (262 Hp) Plug-in Hybrid E-DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "99",
+                    "powerHp": "99",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1905",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "150-172",
+                    "rideHeightMin": "150",
+                    "rideHeightMax": "172",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1730-1770",
+                    "curbWeightMin": "1730",
+                    "curbWeightMax": "1770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-06 12:13:25",
+        "name": "Cityray",
+        "id": "3942",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-06 12:14:02",
+              "name": "Cityray",
+              "modelYear": "2025",
+              "id": "11110",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56633",
+                    "update": "2026-03-06 16:06:06",
+                    "brand": "Geely",
+                    "model": "Cityray",
+                    "generation": "Cityray",
+                    "engine": "1.5T (174 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/5500",
+                    "powerHp": "174",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4510",
+                    "width": "1865",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

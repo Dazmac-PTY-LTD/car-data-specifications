@@ -1,0 +1,141 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "Panoz",
+  "id": "34",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-23 15:16:40",
+        "name": "AIV Roadster",
+        "id": "355",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "AIV Roadster",
+              "modelYear": "1997",
+              "id": "714",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3032",
+                    "update": "2023-08-14 15:18:27",
+                    "brand": "Panoz",
+                    "model": "AIV Roadster",
+                    "generation": "AIV Roadster",
+                    "engine": "4.6 i V8 32V (309 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "309/5800",
+                    "powerHp": "309",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1996",
+                    "yearstop": "1999",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4040",
+                    "width": "1950",
+                    "height": "1190",
+                    "heightMin": "1190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:17:21",
+        "name": "Esperante",
+        "id": "356",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Esperante",
+              "modelYear": "2000",
+              "id": "715",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3033",
+                    "update": "2023-08-14 15:18:29",
+                    "brand": "Panoz",
+                    "model": "Esperante",
+                    "generation": "Esperante",
+                    "engine": "4.6 i V8 32V (324 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "324/6000",
+                    "powerHp": "324",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1999",
+                    "yearstop": "2009",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4475",
+                    "width": "1860",
+                    "height": "1355",
+                    "heightMin": "1355",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-23 15:15:09",
+        "name": "Abruzzi",
+        "id": "2496",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Abruzzi Prototype",
+              "modelYear": "2011",
+              "id": "6457",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34067",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Panoz",
+                    "model": "Abruzzi",
+                    "generation": "Abruzzi Prototype",
+                    "engine": "6.2 V8 (649 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "649/6500",
+                    "powerHp": "649",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2011",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4877",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

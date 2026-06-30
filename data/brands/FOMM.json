@@ -1,0 +1,51 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "FOMM",
+  "id": "232",
+  "models": {
+    "model": [
+      {
+        "update": "2021-02-16 14:12:35",
+        "name": "One",
+        "id": "2376",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Concept One",
+              "modelYear": "2018",
+              "id": "6156",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32812",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "FOMM",
+                    "model": "One",
+                    "generation": "Concept One",
+                    "engine": "11.84 kWh (14 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "2585",
+                    "width": "1295",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "630",
+                    "curbWeightMin": "630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

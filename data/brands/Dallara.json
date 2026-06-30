@@ -1,0 +1,53 @@
+{
+  "update": "2019-08-29 12:45:10",
+  "name": "Dallara",
+  "id": "224",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-29 12:45:10",
+        "name": "Stradale",
+        "id": "2348",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Stradale",
+              "modelYear": "2017",
+              "id": "6055",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32396",
+                    "update": "2025-04-07 08:13:59",
+                    "brand": "Dallara",
+                    "model": "Stradale",
+                    "generation": "Stradale",
+                    "engine": "2.3 (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/6200",
+                    "powerHp": "400",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4185",
+                    "width": "1875",
+                    "height": "1041",
+                    "heightMin": "1041",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "855",
+                    "curbWeightMin": "855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

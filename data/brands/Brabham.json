@@ -1,0 +1,53 @@
+{
+  "update": "2019-08-15 10:52:27",
+  "name": "Brabham",
+  "id": "254",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-15 10:52:27",
+        "name": "BT62",
+        "id": "2522",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "BT62",
+              "modelYear": "2019",
+              "id": "6557",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34286",
+                    "update": "2023-08-21 09:41:39",
+                    "brand": "Brabham",
+                    "model": "BT62",
+                    "generation": "BT62",
+                    "engine": "5.4 V8 (710 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "710/7400",
+                    "powerHp": "710",
+                    "powerRpm": "7400",
+                    "powerRpmLow": "7400",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4460",
+                    "width": "1950",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "972",
+                    "curbWeightMin": "972"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

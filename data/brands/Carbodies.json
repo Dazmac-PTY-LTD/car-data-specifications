@@ -1,0 +1,103 @@
+{
+  "update": "2019-08-28 11:11:12",
+  "name": "Carbodies",
+  "id": "131",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-28 11:11:12",
+        "name": "Taxi",
+        "id": "1337",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Taxi",
+              "modelYear": "1982",
+              "id": "2691",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12419",
+                    "update": "2023-07-26 09:14:27",
+                    "brand": "Carbodies",
+                    "model": "Taxi",
+                    "generation": "Taxi",
+                    "engine": "2.3 D (61 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "61/4000",
+                    "powerHp": "61",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1982",
+                    "yearstop": "1995",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1740",
+                    "height": "1770",
+                    "heightMin": "1770",
+                    "fuel": "Diesel",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "12420",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Carbodies",
+                    "model": "Taxi",
+                    "generation": "Taxi",
+                    "engine": "2.5 D (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68/4000",
+                    "powerHp": "68",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1982",
+                    "yearstop": "1995",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1740",
+                    "height": "1770",
+                    "heightMin": "1770",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12421",
+                    "update": "2023-07-26 09:14:27",
+                    "brand": "Carbodies",
+                    "model": "Taxi",
+                    "generation": "Taxi",
+                    "engine": "2.7 D (79 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "79/4300",
+                    "powerHp": "79",
+                    "powerRpm": "4300",
+                    "powerRpmLow": "4300",
+                    "yearstart": "1989",
+                    "yearstop": "1995",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4580",
+                    "width": "1740",
+                    "height": "1770",
+                    "heightMin": "1770",
+                    "fuel": "Diesel",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

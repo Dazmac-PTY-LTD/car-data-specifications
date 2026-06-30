@@ -1,0 +1,97 @@
+{
+  "update": "2019-08-29 12:31:38",
+  "name": "Lister",
+  "id": "230",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-29 12:31:38",
+        "name": "LFT-666",
+        "id": "2372",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "LFT-666",
+              "modelYear": "2018",
+              "id": "6146",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32799",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Lister",
+                    "model": "LFT-666",
+                    "generation": "LFT-666",
+                    "engine": "5.0 V8 (676 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "676/6000",
+                    "powerHp": "676",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4475",
+                    "height": "1290",
+                    "heightMin": "1290",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-03-25 13:09:58",
+        "name": "Storm",
+        "id": "3079",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-03-25 13:10:31",
+              "name": "Storm",
+              "modelYear": "1993",
+              "id": "8804",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45560",
+                    "update": "2022-03-26 14:27:46",
+                    "brand": "Lister",
+                    "model": "Storm",
+                    "generation": "Storm",
+                    "engine": "7.0 V12 (594 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "594/6100",
+                    "powerHp": "594",
+                    "powerRpm": "6100",
+                    "powerRpmLow": "6100",
+                    "yearstart": "1993",
+                    "yearstop": "1994",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4547",
+                    "width": "1975",
+                    "height": "1321",
+                    "heightMin": "1321",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1438",
+                    "curbWeightMin": "1438"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

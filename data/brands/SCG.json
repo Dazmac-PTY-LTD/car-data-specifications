@@ -1,0 +1,49 @@
+{
+  "update": "2019-05-22 15:10:20",
+  "name": "SCG",
+  "id": "211",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-28 13:32:27",
+        "name": "003",
+        "id": "2313",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "003S Concept",
+              "modelYear": "2017",
+              "id": "5945",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31968",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "SCG",
+                    "model": "003",
+                    "generation": "003S Concept",
+                    "engine": "4.4 V8 (750 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750",
+                    "powerHp": "750",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "width": "1995",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

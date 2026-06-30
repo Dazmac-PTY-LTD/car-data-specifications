@@ -1,0 +1,129 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "Force Motors",
+  "id": "243",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-26 10:10:51",
+        "name": "Gurkha",
+        "id": "2434",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gurkha Xpedition (facelift 2017)",
+              "modelYear": "2017",
+              "id": "6270",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33174",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Force Motors",
+                    "model": "Gurkha",
+                    "generation": "Gurkha Xpedition (facelift 2017)",
+                    "engine": "2.6d (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/3200",
+                    "powerHp": "85",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2017",
+                    "coupe": "Off-road vehicle",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "4342",
+                    "width": "1790",
+                    "height": "2055",
+                    "heightMin": "2055",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gurkha Xplorer (facelift 2017) 5Door",
+              "modelYear": "2017",
+              "id": "6269",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33173",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Force Motors",
+                    "model": "Gurkha",
+                    "generation": "Gurkha Xplorer (facelift 2017) 5Door",
+                    "engine": "2.6d (85 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/3200",
+                    "powerHp": "85",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2017",
+                    "coupe": "Off-road vehicle",
+                    "places": "7-9",
+                    "placesMin": "7",
+                    "placesMax": "9",
+                    "length": "4342",
+                    "width": "1790",
+                    "height": "2055",
+                    "heightMin": "2055",
+                    "rideHeight": "162",
+                    "rideHeightMin": "162",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Gurkha Xplorer (facelift 2017) 3Door",
+              "modelYear": "2017",
+              "id": "6268",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33172",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Force Motors",
+                    "model": "Gurkha",
+                    "generation": "Gurkha Xplorer (facelift 2017) 3Door",
+                    "engine": "2.6d (85 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/3200",
+                    "powerHp": "85",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2017",
+                    "coupe": "Off-road vehicle",
+                    "places": "5-8",
+                    "placesMin": "5",
+                    "placesMax": "8",
+                    "length": "3992",
+                    "width": "1790",
+                    "height": "2055",
+                    "heightMin": "2055",
+                    "rideHeight": "162",
+                    "rideHeightMin": "162",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "update": "2019-08-28 12:58:03",
+  "name": "ChangFeng",
+  "id": "146",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-28 12:58:03",
+        "name": "Flying",
+        "id": "1470",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Flying",
+              "modelYear": "2008",
+              "id": "2952",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13678",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ChangFeng",
+                    "model": "Flying",
+                    "generation": "Flying",
+                    "engine": "2.2 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103",
+                    "powerHp": "103",
+                    "yearstart": "2007",
+                    "yearstop": "2016",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5190",
+                    "width": "1700",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "13679",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "ChangFeng",
+                    "model": "Flying",
+                    "generation": "Flying",
+                    "engine": "2.7 TD (92 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92",
+                    "powerHp": "92",
+                    "yearstart": "2007",
+                    "yearstop": "2016",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5190",
+                    "width": "1700",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "fuel": "Diesel",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-22 12:12:13",
+        "name": "SUV",
+        "id": "1471",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SUV",
+              "modelYear": "2007",
+              "id": "2953",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13680",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ChangFeng",
+                    "model": "SUV",
+                    "generation": "SUV",
+                    "engine": "2.3 (103 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/",
+                    "powerHp": "103",
+                    "yearstart": "2007",
+                    "yearstop": "2009",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5065",
+                    "width": "1800",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

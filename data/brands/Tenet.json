@@ -1,0 +1,298 @@
+{
+  "update": "2026-06-12 10:40:16",
+  "name": "Tenet",
+  "id": "400",
+  "models": {
+    "model": [
+      {
+        "update": "2026-06-12 10:48:23",
+        "name": "T4",
+        "id": "4045",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-12 10:49:06",
+              "name": "T4",
+              "modelYear": "2025",
+              "id": "11305",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57246",
+                    "update": "2026-06-12 16:06:19",
+                    "brand": "Tenet",
+                    "model": "T4",
+                    "generation": "T4",
+                    "engine": "1.5 (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1652",
+                    "heightMin": "1652",
+                    "rideHeight": "208",
+                    "rideHeightMin": "208",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1379",
+                    "curbWeightMin": "1379"
+                  },
+                  {
+                    "id": "57247",
+                    "update": "2026-06-12 16:06:19",
+                    "brand": "Tenet",
+                    "model": "T4",
+                    "generation": "T4",
+                    "engine": "1.5 (113 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6150",
+                    "powerHp": "113",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1652",
+                    "heightMin": "1652",
+                    "rideHeight": "202",
+                    "rideHeightMin": "202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1418",
+                    "curbWeightMin": "1418"
+                  },
+                  {
+                    "id": "57248",
+                    "update": "2026-06-12 16:06:19",
+                    "brand": "Tenet",
+                    "model": "T4",
+                    "generation": "T4",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1652",
+                    "heightMin": "1652",
+                    "rideHeight": "197",
+                    "rideHeightMin": "197",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1462",
+                    "curbWeightMin": "1462"
+                  },
+                  {
+                    "id": "57249",
+                    "update": "2026-06-12 16:06:19",
+                    "brand": "Tenet",
+                    "model": "T4",
+                    "generation": "T4",
+                    "engine": "1.5T (147 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1652",
+                    "heightMin": "1652",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1589",
+                    "curbWeightMin": "1589"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-12 14:01:18",
+        "name": "T4L",
+        "id": "4046",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-12 14:01:37",
+              "name": "T4L",
+              "modelYear": "2026",
+              "id": "11306",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57245",
+                    "update": "2026-06-12 16:06:16",
+                    "brand": "Tenet",
+                    "model": "T4L",
+                    "generation": "T4L",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4506",
+                    "width": "1828",
+                    "height": "1701",
+                    "heightMin": "1701",
+                    "rideHeight": "203",
+                    "rideHeightMin": "203",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1543",
+                    "curbWeightMin": "1543"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-15 14:30:01",
+        "name": "T7",
+        "id": "4048",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-15 14:30:21",
+              "name": "T7",
+              "modelYear": "2025",
+              "id": "11310",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57268",
+                    "update": "2026-06-15 16:16:17",
+                    "brand": "Tenet",
+                    "model": "T7",
+                    "generation": "T7",
+                    "engine": "1.6T (150 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4513",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1557",
+                    "curbWeightMin": "1557"
+                  },
+                  {
+                    "id": "57269",
+                    "update": "2026-06-15 16:16:17",
+                    "brand": "Tenet",
+                    "model": "T7",
+                    "generation": "T7",
+                    "engine": "1.6T (150 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4553",
+                    "width": "1862",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "197",
+                    "rideHeightMin": "197",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1643",
+                    "curbWeightMin": "1643"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-17 13:28:14",
+        "name": "T8",
+        "id": "4052",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-17 13:28:43",
+              "name": "T8",
+              "modelYear": "2025",
+              "id": "11317",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57293",
+                    "update": "2026-06-17 14:18:02",
+                    "brand": "Tenet",
+                    "model": "T8",
+                    "generation": "T8",
+                    "engine": "2.0 TGDI (197 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4725",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "rideHeight": "196",
+                    "rideHeightMin": "196",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1864",
+                    "curbWeightMin": "1864"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

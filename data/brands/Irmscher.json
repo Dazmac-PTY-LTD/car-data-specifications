@@ -1,0 +1,152 @@
+{
+  "update": "2019-05-22 15:10:16",
+  "name": "Irmscher",
+  "id": "172",
+  "models": {
+    "model": [
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Coupe",
+        "id": "1709",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:47:55",
+              "name": "Coupe",
+              "modelYear": "1997",
+              "id": "3363",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15341",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Irmscher",
+                    "model": "Coupe",
+                    "generation": "Coupe",
+                    "engine": "1.6 16V (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106",
+                    "powerHp": "106",
+                    "yearstart": "1997",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 13:14:09",
+        "name": "GT",
+        "id": "1710",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-13 12:25:00",
+              "name": "GT",
+              "modelYear": "1989",
+              "id": "3364",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15342",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Irmscher",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "3.6 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200",
+                    "powerHp": "200",
+                    "yearstart": "1988",
+                    "yearstop": "1990",
+                    "coupe": "Grand Tourer",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Omega Caravan",
+        "id": "1711",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-13 12:27:54",
+              "name": "Omega Caravan",
+              "modelYear": "1991",
+              "id": "3365",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15343",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Irmscher",
+                    "model": "Omega Caravan",
+                    "generation": "Omega Caravan",
+                    "engine": "4.0 i (272 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "1990",
+                    "yearstop": "1996",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Senator",
+        "id": "1712",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-13 12:28:49",
+              "name": "Senator",
+              "modelYear": "1990",
+              "id": "3366",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15344",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Irmscher",
+                    "model": "Senator",
+                    "generation": "Senator",
+                    "engine": "4.0 i 24V (272 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "1990",
+                    "yearstop": "1996",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

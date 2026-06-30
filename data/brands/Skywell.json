@@ -1,0 +1,147 @@
+{
+  "update": "2026-01-13 13:05:20",
+  "name": "Skywell",
+  "id": "386",
+  "models": {
+    "model": [
+      {
+        "update": "2026-01-13 14:31:10",
+        "name": "ET5",
+        "id": "3918",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-13 14:34:05",
+              "name": "ET5 (2025)",
+              "modelYear": "2025",
+              "id": "11022",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56095",
+                    "update": "2026-01-13 16:26:05",
+                    "brand": "Skywell",
+                    "model": "ET5",
+                    "generation": "ET5 (2025)",
+                    "engine": "72 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": "1930",
+                    "curbWeightMin": "1930"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-01-13 14:34:05",
+              "name": "ET5 (2021)",
+              "modelYear": "2021",
+              "id": "11023",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56094",
+                    "update": "2026-01-13 16:26:03",
+                    "brand": "Skywell",
+                    "model": "ET5",
+                    "generation": "ET5 (2021)",
+                    "engine": "71.98 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4698",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-13 15:34:25",
+        "name": "BE11",
+        "id": "3919",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-13 15:34:47",
+              "name": "BE11",
+              "modelYear": "2024",
+              "id": "11024",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56141",
+                    "update": "2026-01-15 16:16:03",
+                    "brand": "Skywell",
+                    "model": "BE11",
+                    "generation": "BE11",
+                    "engine": "71.98 kWh (204 Hp) Standard Range Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": "1880",
+                    "curbWeightMin": "1880"
+                  },
+                  {
+                    "id": "56142",
+                    "update": "2026-01-15 16:16:03",
+                    "brand": "Skywell",
+                    "model": "BE11",
+                    "generation": "BE11",
+                    "engine": "85.96 kWh (204 Hp) Long Range Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4720",
+                    "width": "1908",
+                    "height": "1696",
+                    "heightMin": "1696",
+                    "rideHeight": "159",
+                    "rideHeightMin": "159",
+                    "fuel": "Electricity",
+                    "curbWeight": "1930",
+                    "curbWeightMin": "1930"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

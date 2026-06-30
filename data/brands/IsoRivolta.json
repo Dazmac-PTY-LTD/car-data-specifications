@@ -1,0 +1,47 @@
+{
+  "update": "2020-11-06 16:09:52",
+  "name": "IsoRivolta",
+  "id": "249",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-06 16:09:52",
+        "name": "Vision",
+        "id": "2471",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Vision Gran Tourismo",
+              "modelYear": "2018",
+              "id": "6371",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33538",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "IsoRivolta",
+                    "model": "Vision",
+                    "generation": "Vision Gran Tourismo",
+                    "engine": "6.2 V8 (997 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "997",
+                    "powerHp": "997",
+                    "yearstart": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1129",
+                    "curbWeightMin": "1129"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

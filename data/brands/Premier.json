@@ -1,0 +1,99 @@
+{
+  "update": "2019-07-24 15:32:39",
+  "name": "Premier",
+  "id": "69",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 15:15:04",
+        "name": "118",
+        "id": "786",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "118",
+              "modelYear": "1986",
+              "id": "1632",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7280",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Premier",
+                    "model": "118",
+                    "generation": "118",
+                    "engine": "1.2 (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53/5600",
+                    "powerHp": "53",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1986",
+                    "yearstop": "2001",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4050",
+                    "width": "1610",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 15:32:39",
+        "name": "Padmini",
+        "id": "787",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Padmini",
+              "modelYear": "1964",
+              "id": "1633",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7281",
+                    "update": "2022-07-12 12:29:12",
+                    "brand": "Premier",
+                    "model": "Padmini",
+                    "generation": "Padmini",
+                    "engine": "1.1 (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42/4800",
+                    "powerHp": "42",
+                    "powerRpm": "4800",
+                    "powerRpmLow": "4800",
+                    "yearstart": "1964",
+                    "yearstop": "2000",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3930",
+                    "width": "1460",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "895",
+                    "curbWeightMin": "895"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

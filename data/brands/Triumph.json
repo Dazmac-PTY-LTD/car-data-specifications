@@ -1,0 +1,1016 @@
+{
+  "update": "2019-08-15 16:13:57",
+  "name": "Triumph",
+  "id": "50",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-15 14:02:35",
+        "name": "1500",
+        "id": "593",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:10:07",
+              "name": "1500",
+              "modelYear": "1970",
+              "id": "1283",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5723",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "1500",
+                    "generation": "1500",
+                    "engine": "1.5 (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62",
+                    "powerHp": "62",
+                    "yearstart": "1970",
+                    "yearstop": "1974",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5724",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "1500",
+                    "generation": "1500",
+                    "engine": "1.5 (66 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "66",
+                    "powerHp": "66",
+                    "yearstart": "1972",
+                    "yearstop": "1974",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5725",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "1500",
+                    "generation": "1500",
+                    "engine": "1.5 TC (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1975",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 14:25:04",
+        "name": "2500",
+        "id": "594",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:12:21",
+              "name": "2500",
+              "modelYear": "1975",
+              "id": "1284",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5726",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "2500",
+                    "generation": "2500",
+                    "engine": "S (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/4700",
+                    "powerHp": "106",
+                    "powerRpm": "4700",
+                    "powerRpmLow": "4700",
+                    "yearstart": "1975",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4655",
+                    "width": "1712",
+                    "height": "1435",
+                    "heightMin": "1435",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1223",
+                    "curbWeightMin": "1223"
+                  },
+                  {
+                    "id": "5727",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2500",
+                    "generation": "2500",
+                    "engine": "TC (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100",
+                    "powerHp": "100",
+                    "yearstart": "1974",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:12:21",
+              "name": "2500 Estate",
+              "modelYear": "1975",
+              "id": "1285",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5728",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2500",
+                    "generation": "2500 Estate",
+                    "engine": "S (108 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108",
+                    "powerHp": "108",
+                    "yearstart": "1975",
+                    "yearstop": "1977",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5729",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2500",
+                    "generation": "2500 Estate",
+                    "engine": "TC (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100",
+                    "powerHp": "100",
+                    "yearstart": "1974",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 15:32:31",
+        "name": "Spitfire",
+        "id": "595",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:13:57",
+              "name": "Spitfire",
+              "modelYear": "1962",
+              "id": "1286",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5730",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1.2 MK I (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/5750",
+                    "powerHp": "63",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1962",
+                    "yearstop": "1965",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3685",
+                    "width": "1450",
+                    "height": "1205",
+                    "heightMin": "1205",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "710",
+                    "curbWeightMin": "710"
+                  },
+                  {
+                    "id": "5731",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1.2 MK II (67 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "67",
+                    "powerHp": "67",
+                    "yearstart": "1965",
+                    "yearstop": "1967",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5732",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1.3 MK III (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/6000",
+                    "powerHp": "75",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1967",
+                    "yearstop": "1970",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3734",
+                    "width": "1448",
+                    "height": "1207",
+                    "heightMin": "1207",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "748",
+                    "curbWeightMin": "748"
+                  },
+                  {
+                    "id": "5733",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1.3 MK IV (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76",
+                    "powerHp": "76",
+                    "yearstart": "1971",
+                    "yearstop": "1972",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5734",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1.5 MK IV (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5735",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Spitfire",
+                    "generation": "Spitfire",
+                    "engine": "1500 (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69/",
+                    "powerHp": "69",
+                    "yearstart": "1975",
+                    "yearstop": "1980",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 15:53:00",
+        "name": "Toledo",
+        "id": "596",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:14:54",
+              "name": "Toledo",
+              "modelYear": "1970",
+              "id": "1287",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5736",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Toledo",
+                    "generation": "Toledo",
+                    "engine": "1300 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/5500",
+                    "powerHp": "58",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1970",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3965",
+                    "width": "1568",
+                    "height": "1372",
+                    "heightMin": "1372",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5737",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Toledo",
+                    "generation": "Toledo",
+                    "engine": "1500 (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62",
+                    "powerHp": "62",
+                    "yearstart": "1970",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5738",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Toledo",
+                    "generation": "Toledo",
+                    "engine": "1500 (66 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "66",
+                    "powerHp": "66",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5739",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Toledo",
+                    "generation": "Toledo",
+                    "engine": "1500 TC (69 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "69",
+                    "powerHp": "69",
+                    "yearstart": "1971",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 16:11:52",
+        "name": "TR 7",
+        "id": "597",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:16:26",
+              "name": "TR 7 Cabriolet",
+              "modelYear": "1977",
+              "id": "1288",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5740",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "TR 7",
+                    "generation": "TR 7 Cabriolet",
+                    "engine": "2.0 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106",
+                    "powerHp": "106",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:16:26",
+              "name": "TR 7 Coupe",
+              "modelYear": "1977",
+              "id": "1289",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5741",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "TR 7",
+                    "generation": "TR 7 Coupe",
+                    "engine": "2.0 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/5500",
+                    "powerHp": "105",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4065",
+                    "width": "1681",
+                    "height": "1254",
+                    "heightMin": "1254",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 14:06:23",
+        "name": "2.5 PI MK",
+        "id": "598",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:10:39",
+              "name": "2.5 PI MK I",
+              "modelYear": "1969",
+              "id": "1290",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5742",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2.5 PI MK",
+                    "generation": "2.5 PI MK I",
+                    "engine": "2.5 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5743",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2.5 PI MK",
+                    "generation": "2.5 PI MK I",
+                    "engine": "2.5 (134 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "134",
+                    "powerHp": "134",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:10:39",
+              "name": "2.5 PI MK I Estate",
+              "modelYear": "1969",
+              "id": "1291",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5744",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2.5 PI MK",
+                    "generation": "2.5 PI MK I Estate",
+                    "engine": "2.5 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "1969",
+                    "yearstop": "1974",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5745",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2.5 PI MK",
+                    "generation": "2.5 PI MK I Estate",
+                    "engine": "2.5 (134 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "134",
+                    "powerHp": "134",
+                    "yearstart": "1969",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 14:35:34",
+        "name": "Acclaim",
+        "id": "599",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:13:12",
+              "name": "Acclaim",
+              "modelYear": "1981",
+              "id": "1292",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5746",
+                    "update": "2022-07-12 12:26:42",
+                    "brand": "Triumph",
+                    "model": "Acclaim",
+                    "generation": "Acclaim",
+                    "engine": "1.3 (XD) (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1981",
+                    "yearstop": "1984",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4094",
+                    "width": "1600",
+                    "height": "1339",
+                    "heightMin": "1339",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 15:33:37",
+        "name": "Stag",
+        "id": "600",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:14:27",
+              "name": "Stag",
+              "modelYear": "1970",
+              "id": "1293",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5747",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "Stag",
+                    "generation": "Stag",
+                    "engine": "3.0 (145 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "145",
+                    "powerHp": "145",
+                    "yearstart": "1970",
+                    "yearstop": "1977",
+                    "coupe": "Targa",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 16:07:21",
+        "name": "TR 6",
+        "id": "601",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:15:40",
+              "name": "TR 6",
+              "modelYear": "1968",
+              "id": "1294",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5748",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "TR 6",
+                    "generation": "TR 6",
+                    "engine": "2.5 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "1972",
+                    "yearstop": "1976",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5749",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "TR 6",
+                    "generation": "TR 6",
+                    "engine": "2.5 PI (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1968",
+                    "yearstop": "1976",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3937",
+                    "width": "1470",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "rideHeight": "152",
+                    "rideHeightMin": "152",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 16:13:57",
+        "name": "TR 8",
+        "id": "602",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:17:51",
+              "name": "TR 8",
+              "modelYear": "1978",
+              "id": "1295",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5750",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Triumph",
+                    "model": "TR 8",
+                    "generation": "TR 8",
+                    "engine": "3.5 (133 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "133/5000",
+                    "powerHp": "133",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1978",
+                    "yearstop": "1981",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4201",
+                    "width": "1681",
+                    "height": "1257",
+                    "heightMin": "1257",
+                    "rideHeight": "91",
+                    "rideHeightMin": "91",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1214",
+                    "curbWeightMin": "1214"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-12 08:35:27",
+        "name": "2000 MkII",
+        "id": "603",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-12 08:35:57",
+              "name": "2000 MkII",
+              "modelYear": "1970",
+              "id": "1296",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5751",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2000 MkII",
+                    "generation": "2000 MkII",
+                    "engine": "2.0 (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88",
+                    "powerHp": "88",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5752",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2000 MkII",
+                    "generation": "2000 MkII",
+                    "engine": "2.0 (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5753",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2000 MkII",
+                    "generation": "2000 MkII",
+                    "engine": "2.0 TC (93 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "93",
+                    "powerHp": "93",
+                    "yearstart": "1975",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-04-12 08:35:57",
+              "name": "2000 MkII Estate",
+              "modelYear": "1970",
+              "id": "1297",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5754",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2000 MkII",
+                    "generation": "2000 MkII Estate",
+                    "engine": "2.0 (91 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5755",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Triumph",
+                    "model": "2000 MkII",
+                    "generation": "2000 MkII Estate",
+                    "engine": "2.0 TC (92 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92",
+                    "powerHp": "92",
+                    "yearstart": "1972",
+                    "yearstop": "1975",
+                    "coupe": "Station wagon (estate)",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-15 14:58:53",
+        "name": "Dolomite",
+        "id": "604",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-28 14:13:33",
+              "name": "Dolomite",
+              "modelYear": "1972",
+              "id": "1298",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "5756",
+                    "update": "2023-08-09 13:02:12",
+                    "brand": "Triumph",
+                    "model": "Dolomite",
+                    "generation": "Dolomite",
+                    "engine": "1300 (59 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "59/5500",
+                    "powerHp": "59",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4122",
+                    "width": "1588",
+                    "height": "1372",
+                    "heightMin": "1372",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "943",
+                    "curbWeightMin": "943"
+                  },
+                  {
+                    "id": "5757",
+                    "update": "2023-08-09 13:02:11",
+                    "brand": "Triumph",
+                    "model": "Dolomite",
+                    "generation": "Dolomite",
+                    "engine": "1500 HL (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/5500",
+                    "powerHp": "72",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4122",
+                    "width": "1588",
+                    "height": "1372",
+                    "heightMin": "1372",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "956",
+                    "curbWeightMin": "956"
+                  },
+                  {
+                    "id": "5758",
+                    "update": "2023-08-09 13:02:11",
+                    "brand": "Triumph",
+                    "model": "Dolomite",
+                    "generation": "Dolomite",
+                    "engine": "1850 (91 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "91/5200",
+                    "powerHp": "91",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "1972",
+                    "yearstop": "1977",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4115",
+                    "width": "1568",
+                    "height": "1372",
+                    "heightMin": "1372",
+                    "rideHeight": "108",
+                    "rideHeightMin": "108",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "967",
+                    "curbWeightMin": "967"
+                  },
+                  {
+                    "id": "5759",
+                    "update": "2023-08-09 13:02:37",
+                    "brand": "Triumph",
+                    "model": "Dolomite",
+                    "generation": "Dolomite",
+                    "engine": "1850 HL (92 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "92",
+                    "powerHp": "92",
+                    "yearstart": "1977",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "5760",
+                    "update": "2023-08-09 13:02:09",
+                    "brand": "Triumph",
+                    "model": "Dolomite",
+                    "generation": "Dolomite",
+                    "engine": "Sprint (129 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "129/5700",
+                    "powerHp": "129",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1973",
+                    "yearstop": "1981",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4122",
+                    "width": "1588",
+                    "height": "1372",
+                    "heightMin": "1372",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1041",
+                    "curbWeightMin": "1041"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "update": "2019-05-22 15:10:13",
+  "name": "Bestune",
+  "id": "263",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-28 15:17:41",
+        "name": "T77",
+        "id": "2558",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "T77",
+              "modelYear": "2019",
+              "id": "6706",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34982",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Bestune",
+                    "model": "T77",
+                    "generation": "T77",
+                    "engine": "1.2 230 TID (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5500",
+                    "powerHp": "143",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4525",
+                    "width": "1845",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "rideHeight": "176",
+                    "rideHeightMin": "176",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  },
+                  {
+                    "id": "34983",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Bestune",
+                    "model": "T77",
+                    "generation": "T77",
+                    "engine": "1.2 230 TID (143 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/5500",
+                    "powerHp": "143",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4525",
+                    "width": "1845",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "rideHeight": "176",
+                    "rideHeightMin": "176",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485-1505",
+                    "curbWeightMin": "1485",
+                    "curbWeightMax": "1505"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-21 15:39:43",
+        "name": "E01",
+        "id": "3624",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-21 15:40:05",
+              "name": "E01",
+              "modelYear": "2020",
+              "id": "10458",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53968",
+                    "update": "2025-08-22 12:55:40",
+                    "brand": "Bestune",
+                    "model": "E01",
+                    "generation": "E01",
+                    "engine": "61.34 kWh (190 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4639",
+                    "width": "1880",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Electricity",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-28 10:58:39",
+        "name": "Pony",
+        "id": "3755",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-28 11:11:47",
+              "name": "Pony",
+              "modelYear": "2024",
+              "id": "10700",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54956",
+                    "update": "2025-07-28 16:16:23",
+                    "brand": "Bestune",
+                    "model": "Pony",
+                    "generation": "Pony",
+                    "engine": "18.11 kWh (41 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3000",
+                    "width": "1510",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "750",
+                    "curbWeightMin": "750"
+                  },
+                  {
+                    "id": "54957",
+                    "update": "2025-07-28 16:16:23",
+                    "brand": "Bestune",
+                    "model": "Pony",
+                    "generation": "Pony",
+                    "engine": "9.4 kWh (27 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3000",
+                    "width": "1510",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "685",
+                    "curbWeightMin": "685"
+                  },
+                  {
+                    "id": "54958",
+                    "update": "2025-07-28 16:16:23",
+                    "brand": "Bestune",
+                    "model": "Pony",
+                    "generation": "Pony",
+                    "engine": "13.9 kWh (27 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3000",
+                    "width": "1510",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "715",
+                    "curbWeightMin": "715"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-06 11:02:13",
+        "name": "Yueyi 07",
+        "id": "3837",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-06 11:02:36",
+              "name": "Yueyi 07",
+              "modelYear": "2025",
+              "id": "10854",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55505",
+                    "update": "2025-10-06 16:22:28",
+                    "brand": "Bestune",
+                    "model": "Yueyi 07",
+                    "generation": "Yueyi 07",
+                    "engine": "1.5T 21.2 kWh (228 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4745",
+                    "width": "1880",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  },
+                  {
+                    "id": "55506",
+                    "update": "2025-10-06 16:22:28",
+                    "brand": "Bestune",
+                    "model": "Yueyi 07",
+                    "generation": "Yueyi 07",
+                    "engine": "1.5T 30.9 kWh (228 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4745",
+                    "width": "1880",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-24 12:02:21",
+        "name": "B70S",
+        "id": "3888",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-24 12:02:49",
+              "name": "B70S",
+              "modelYear": "2022",
+              "id": "10953",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55844",
+                    "update": "2025-11-24 16:22:04",
+                    "brand": "Bestune",
+                    "model": "B70S",
+                    "generation": "B70S",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169/5500",
+                    "powerHp": "169",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4555",
+                    "width": "1850",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "55845",
+                    "update": "2025-11-24 16:22:04",
+                    "brand": "Bestune",
+                    "model": "B70S",
+                    "generation": "B70S",
+                    "engine": "2.0T (224 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "224/5500",
+                    "powerHp": "224",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4555",
+                    "width": "1850",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1535",
+                    "curbWeightMin": "1535"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-12-18 13:53:03",
+        "name": "Yueyi 03",
+        "id": "3906",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-12-18 13:53:34",
+              "name": "Yueyi 03",
+              "modelYear": "2025",
+              "id": "10990",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56046",
+                    "update": "2025-12-18 16:16:04",
+                    "brand": "Bestune",
+                    "model": "Yueyi 03",
+                    "generation": "Yueyi 03",
+                    "engine": "48.35 kWh (166 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1860",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Electricity",
+                    "curbWeight": "1530",
+                    "curbWeightMin": "1530"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-16 14:13:26",
+        "name": "T90",
+        "id": "3949",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-16 14:14:33",
+              "name": "T90",
+              "modelYear": "2023",
+              "id": "11123",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56706",
+                    "update": "2026-03-16 16:16:01",
+                    "brand": "Bestune",
+                    "model": "T90",
+                    "generation": "T90",
+                    "engine": "1.5T (169 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "169",
+                    "powerHp": "169",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4718",
+                    "width": "1880",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  },
+                  {
+                    "id": "56707",
+                    "update": "2026-03-16 16:16:01",
+                    "brand": "Bestune",
+                    "model": "T90",
+                    "generation": "T90",
+                    "engine": "2.0T (252 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252",
+                    "powerHp": "252",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4718",
+                    "width": "1880",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575",
+                    "curbWeightMin": "1575"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-18 12:07:34",
+        "name": "T55",
+        "id": "3952",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-18 12:08:20",
+              "name": "T55",
+              "modelYear": "2022",
+              "id": "11126",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56724",
+                    "update": "2026-03-18 14:16:05",
+                    "brand": "Bestune",
+                    "model": "T55",
+                    "generation": "T55",
+                    "engine": "1.5T (160 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4437",
+                    "width": "1850",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-18 12:38:33",
+        "name": "T33",
+        "id": "3953",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-18 12:39:19",
+              "name": "T33",
+              "modelYear": "2021",
+              "id": "11127",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56725",
+                    "update": "2026-03-18 14:16:05",
+                    "brand": "Bestune",
+                    "model": "T33",
+                    "generation": "T33",
+                    "engine": "1.6L (114 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114",
+                    "powerHp": "114",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1780",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1345",
+                    "curbWeightMin": "1345"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-19 12:08:20",
+        "name": "Xiaoma",
+        "id": "3955",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-19 12:08:56",
+              "name": "Xiaoma",
+              "modelYear": "2025",
+              "id": "11129",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56731",
+                    "update": "2026-03-19 16:16:06",
+                    "brand": "Bestune",
+                    "model": "Xiaoma",
+                    "generation": "Xiaoma",
+                    "engine": "13.9 kWh (27 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3000",
+                    "width": "1510",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

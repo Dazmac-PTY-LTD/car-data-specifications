@@ -1,0 +1,71 @@
+{
+  "update": "2020-11-18 13:42:52",
+  "name": "Italdesign",
+  "id": "225",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-18 13:42:52",
+        "name": "Zerouno",
+        "id": "2350",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zerouno",
+              "modelYear": "2018",
+              "id": "6087",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32553",
+                    "update": "2023-08-16 12:00:08",
+                    "brand": "Italdesign",
+                    "model": "Zerouno",
+                    "generation": "Zerouno",
+                    "engine": "5.2 V10 (610 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/8250",
+                    "powerHp": "610",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4847",
+                    "width": "1970",
+                    "height": "1204",
+                    "heightMin": "1204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-18 13:30:44",
+        "name": "Da Vinci",
+        "id": "2676",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Da Vinci Concept",
+              "modelYear": "2019",
+              "id": "7020",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

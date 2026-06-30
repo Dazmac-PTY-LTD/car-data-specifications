@@ -1,0 +1,75 @@
+{
+  "update": "2019-05-22 15:10:22",
+  "name": "Westfield",
+  "id": "100",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-17 16:06:51",
+        "name": "Westfield",
+        "id": "1051",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Westfield",
+              "modelYear": "1995",
+              "id": "2194",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10813",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Westfield",
+                    "model": "Westfield",
+                    "generation": "Westfield",
+                    "engine": "1.8 i 16V (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/6250",
+                    "powerHp": "116",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3520",
+                    "width": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "600",
+                    "curbWeightMin": "600"
+                  },
+                  {
+                    "id": "10814",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Westfield",
+                    "model": "Westfield",
+                    "generation": "Westfield",
+                    "engine": "4.0 i V8 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/4750",
+                    "powerHp": "200",
+                    "powerRpm": "4750",
+                    "powerRpmLow": "4750",
+                    "yearstart": "1995",
+                    "yearstop": "2001",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3520",
+                    "width": "1550",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "600",
+                    "curbWeightMin": "600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

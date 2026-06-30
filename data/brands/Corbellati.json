@@ -1,0 +1,53 @@
+{
+  "update": "2020-11-03 12:43:49",
+  "name": "Corbellati",
+  "id": "229",
+  "models": {
+    "model": [
+      {
+        "update": "2023-09-19 16:22:19",
+        "name": "Missile",
+        "id": "2371",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2023-09-19 16:21:54",
+              "name": "Missile (Concept)",
+              "modelYear": "2019",
+              "id": "6145",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32790",
+                    "update": "2023-09-19 16:24:08",
+                    "brand": "Corbellati",
+                    "model": "Missile",
+                    "generation": "Missile (Concept)",
+                    "engine": "9.0 V8 (1800 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1800",
+                    "powerHp": "1800",
+                    "yearstart": "2018",
+                    "yearstop": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4670",
+                    "width": "2040",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

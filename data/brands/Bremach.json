@@ -1,0 +1,54 @@
+{
+  "update": "2022-02-17 13:49:21",
+  "name": "Bremach",
+  "id": "309",
+  "models": {
+    "model": [
+      {
+        "update": "2022-02-17 13:55:52",
+        "name": "SUV",
+        "id": "3062",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-02-17 14:47:55",
+              "name": "SUV",
+              "modelYear": "2022",
+              "id": "8770",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45425",
+                    "update": "2023-06-05 10:19:59",
+                    "brand": "Bremach",
+                    "model": "SUV",
+                    "generation": "SUV",
+                    "engine": "2.7 (150 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "1900",
+                    "widthOpenedMirrors": "2110",
+                    "height": "2005",
+                    "heightMin": "2005",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2125",
+                    "curbWeightMin": "2125"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

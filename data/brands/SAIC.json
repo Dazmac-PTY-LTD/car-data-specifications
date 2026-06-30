@@ -1,0 +1,245 @@
+{
+  "update": "2025-09-24 14:29:17",
+  "name": "SAIC",
+  "id": "376",
+  "models": {
+    "model": [
+      {
+        "update": "2025-09-25 08:06:37",
+        "name": "H5",
+        "id": "3826",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-25 08:06:53",
+              "name": "H5",
+              "modelYear": "2025",
+              "id": "10838",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55426",
+                    "update": "2025-09-25 16:10:04",
+                    "brand": "SAIC",
+                    "model": "H5",
+                    "generation": "H5",
+                    "engine": "64.6 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1910",
+                    "height": "1657-1664",
+                    "heightMin": "1657",
+                    "heightMax": "1664",
+                    "fuel": "Electricity",
+                    "curbWeight": "1985",
+                    "curbWeightMin": "1985"
+                  },
+                  {
+                    "id": "55427",
+                    "update": "2025-09-25 16:10:04",
+                    "brand": "SAIC",
+                    "model": "H5",
+                    "generation": "H5",
+                    "engine": "80 kWh (245 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1910",
+                    "height": "1657-1664",
+                    "heightMin": "1657",
+                    "heightMax": "1664",
+                    "fuel": "Electricity",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  },
+                  {
+                    "id": "55428",
+                    "update": "2025-09-25 16:10:04",
+                    "brand": "SAIC",
+                    "model": "H5",
+                    "generation": "H5",
+                    "engine": "1.5T 32.6 kWh (204 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1910",
+                    "height": "1657-1664",
+                    "heightMin": "1657",
+                    "heightMax": "1664",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2000",
+                    "curbWeightMin": "2000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-24 08:21:53",
+        "name": "Z7",
+        "id": "3974",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-24 08:34:09",
+              "name": "Z7T",
+              "modelYear": "2026",
+              "id": "11186",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56895",
+                    "update": "2026-04-24 16:34:49",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7T",
+                    "engine": "81 kWh (359 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Electricity",
+                    "curbWeight": "2275",
+                    "curbWeightMin": "2275"
+                  },
+                  {
+                    "id": "56896",
+                    "update": "2026-04-24 16:34:49",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7T",
+                    "engine": "100 kWh (359 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Electricity",
+                    "curbWeight": "2225",
+                    "curbWeightMin": "2225"
+                  },
+                  {
+                    "id": "56897",
+                    "update": "2026-04-24 16:34:49",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7T",
+                    "engine": "100 kWh (590 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Electricity",
+                    "curbWeight": "2315",
+                    "curbWeightMin": "2315"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-04-24 08:33:58",
+              "name": "Z7",
+              "modelYear": "2026",
+              "id": "11185",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56901",
+                    "update": "2026-04-24 16:34:52",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7",
+                    "engine": "81 kWh (359 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1465",
+                    "heightMin": "1465",
+                    "fuel": "Electricity",
+                    "curbWeight": "2260",
+                    "curbWeightMin": "2260"
+                  },
+                  {
+                    "id": "56902",
+                    "update": "2026-04-24 16:34:52",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7",
+                    "engine": "100 kWh (359 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Electricity",
+                    "curbWeight": "2210",
+                    "curbWeightMin": "2210"
+                  },
+                  {
+                    "id": "56903",
+                    "update": "2026-04-24 16:34:52",
+                    "brand": "SAIC",
+                    "model": "Z7",
+                    "generation": "Z7",
+                    "engine": "100 kWh (590 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5036",
+                    "width": "1976",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "fuel": "Electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

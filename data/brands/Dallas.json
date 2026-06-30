@@ -1,0 +1,79 @@
+{
+  "update": "2013-01-24 21:00:00",
+  "name": "Dallas",
+  "id": "12",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-30 09:24:57",
+        "name": "Fun",
+        "id": "202",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "FUN",
+              "modelYear": "1993",
+              "id": "407",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1570",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Dallas",
+                    "model": "Fun",
+                    "generation": "FUN",
+                    "engine": "1.4 i (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5800",
+                    "powerHp": "75",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1994",
+                    "yearstop": "1998",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3100",
+                    "width": "1600",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "740",
+                    "curbWeightMin": "740"
+                  },
+                  {
+                    "id": "1571",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Dallas",
+                    "model": "Fun",
+                    "generation": "FUN",
+                    "engine": "1.8 D (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/4600",
+                    "powerHp": "58",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "1994",
+                    "yearstop": "1998",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3100",
+                    "width": "1600",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "fuel": "Diesel",
+                    "curbWeight": "800",
+                    "curbWeightMin": "800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

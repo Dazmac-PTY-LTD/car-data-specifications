@@ -1,0 +1,458 @@
+{
+  "update": "2022-07-08 10:00:10",
+  "name": "EVO",
+  "id": "314",
+  "models": {
+    "model": [
+      {
+        "update": "2022-07-08 10:30:34",
+        "name": "3",
+        "id": "3139",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 10:44:36",
+              "name": "3",
+              "modelYear": "2022",
+              "id": "8948",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46084",
+                    "update": "2022-07-08 13:21:33",
+                    "brand": "EVO",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "1.5 (113/107 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6250/107/6250",
+                    "powerHp": "113",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "powerHpLPG": "107",
+                    "powerRpmLPG": "6250",
+                    "powerRpmLowLPG": "6250",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1750",
+                    "height": "1568",
+                    "heightMin": "1568",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  },
+                  {
+                    "id": "46087",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "EVO",
+                    "model": "3",
+                    "generation": "3",
+                    "engine": "40 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1750",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "fuel": "Electricity",
+                    "curbWeight": "1535",
+                    "curbWeightMin": "1535"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 10:30:38",
+        "name": "4",
+        "id": "3140",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 13:17:28",
+              "name": "4 (facelift 2022)",
+              "modelYear": "2022",
+              "id": "8949",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48637",
+                    "update": "2023-05-18 11:57:16",
+                    "brand": "EVO",
+                    "model": "4",
+                    "generation": "4 (facelift 2022)",
+                    "engine": "1.6 (115/106 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/6300/106/5700",
+                    "powerHp": "115",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "powerHpLPG": "106",
+                    "powerRpmLPG": "5700",
+                    "powerRpmLowLPG": "5700",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1765",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1275",
+                    "curbWeightMin": "1275"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-08 13:17:28",
+              "name": "4",
+              "modelYear": "2020",
+              "id": "8954",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46085",
+                    "update": "2022-07-08 13:44:16",
+                    "brand": "EVO",
+                    "model": "4",
+                    "generation": "4",
+                    "engine": "1.6 (115/106 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/6300/106/5700",
+                    "powerHp": "115",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "powerHpLPG": "106",
+                    "powerRpmLPG": "5700",
+                    "powerRpmLowLPG": "5700",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1765",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1275",
+                    "curbWeightMin": "1275"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 10:31:08",
+        "name": "Cross4",
+        "id": "3141",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 11:11:11",
+              "name": "Cross4",
+              "modelYear": "2022",
+              "id": "8951",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46086",
+                    "update": "2022-07-09 07:51:06",
+                    "brand": "EVO",
+                    "model": "Cross4",
+                    "generation": "Cross4",
+                    "engine": "2.0 Diesel (136 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/3600",
+                    "powerHp": "136",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2022",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5315",
+                    "width": "1830",
+                    "height": "1815",
+                    "heightMin": "1815",
+                    "fuel": "Diesel",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-07-08 10:31:43",
+        "name": "5",
+        "id": "3142",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-07-08 11:10:02",
+              "name": "5",
+              "modelYear": "2022",
+              "id": "8950",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48638",
+                    "update": "2023-05-18 12:21:17",
+                    "brand": "EVO",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.5 (127/120 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "127/5390/120/5390",
+                    "powerHp": "127",
+                    "powerRpm": "5390",
+                    "powerRpmLow": "5390",
+                    "powerHpLPG": "120",
+                    "powerRpmLPG": "5390",
+                    "powerRpmLowLPG": "5390",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4325",
+                    "width": "1815",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-28 15:04:32",
+        "name": "7",
+        "id": "3369",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-28 15:05:01",
+              "name": "7",
+              "modelYear": "2024",
+              "id": "9775",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50589",
+                    "update": "2023-11-28 16:16:01",
+                    "brand": "EVO",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.5 (174 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/5500",
+                    "powerHp": "174",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4795",
+                    "width": "1870",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1605",
+                    "curbWeightMin": "1605"
+                  },
+                  {
+                    "id": "54417",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "EVO",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.5 Turbo (162 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/5500",
+                    "powerHp": "162",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4795",
+                    "width": "1870",
+                    "height": "1758",
+                    "heightMin": "1758",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1605",
+                    "curbWeightMin": "1605"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-28 13:58:09",
+        "name": "6",
+        "id": "3690",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-28 13:59:38",
+              "name": "6",
+              "modelYear": "2025",
+              "id": "10576",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54415",
+                    "update": "2025-05-29 16:02:47",
+                    "brand": "EVO",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 Turbo (176 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "176/5600",
+                    "powerHp": "176",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1860",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1571",
+                    "curbWeightMin": "1571"
+                  },
+                  {
+                    "id": "54416",
+                    "update": "2025-05-29 16:02:48",
+                    "brand": "EVO",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 Turbo (167 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "167/5600",
+                    "powerHp": "167",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1860",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1571",
+                    "curbWeightMin": "1571"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-10-07 14:47:00",
+        "name": "Cuatro",
+        "id": "3840",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-07 14:47:29",
+              "name": "Cuatro",
+              "modelYear": "2026",
+              "id": "10857",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55509",
+                    "update": "2025-10-07 16:20:57",
+                    "brand": "EVO",
+                    "model": "Cuatro",
+                    "generation": "Cuatro",
+                    "engine": "1.5L (117 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/6150",
+                    "powerHp": "117",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "55510",
+                    "update": "2025-10-07 16:20:57",
+                    "brand": "EVO",
+                    "model": "Cuatro",
+                    "generation": "Cuatro",
+                    "engine": "1.5L (114 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "114/4700",
+                    "powerHp": "114",
+                    "powerRpm": "4700",
+                    "powerRpmLow": "4700",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4400",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "update": "2019-08-13 12:40:21",
+  "name": "ZAZ",
+  "id": "150",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-19 14:18:37",
+        "name": "1102",
+        "id": "1508",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1102",
+              "modelYear": "1987",
+              "id": "3017",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13942",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1102",
+                    "generation": "1102",
+                    "engine": "1.1 (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53/5500",
+                    "powerHp": "53",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1987",
+                    "yearstop": "2007",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3708",
+                    "width": "1554",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "727",
+                    "curbWeightMin": "727"
+                  },
+                  {
+                    "id": "13943",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1102",
+                    "generation": "1102",
+                    "engine": "1.2 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/5300",
+                    "powerHp": "58",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2001",
+                    "yearstop": "2007",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3708",
+                    "width": "1564",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "745",
+                    "curbWeightMin": "745"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-20 09:54:09",
+        "name": "1105",
+        "id": "1509",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1105",
+              "modelYear": "1994",
+              "id": "3018",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13944",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1105",
+                    "generation": "1105",
+                    "engine": "1.1 (53 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "53/5500",
+                    "powerHp": "53",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1994",
+                    "yearstop": "1997",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3825",
+                    "width": "1554",
+                    "height": "1453",
+                    "heightMin": "1453",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  },
+                  {
+                    "id": "13945",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1105",
+                    "generation": "1105",
+                    "engine": "1.2 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/5300",
+                    "powerHp": "58",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2001",
+                    "yearstop": "2010",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3900",
+                    "width": "1676",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "760",
+                    "curbWeightMin": "760"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-18 11:10:13",
+        "name": "1140",
+        "id": "1510",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1140",
+              "modelYear": "1989",
+              "id": "3019",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13946",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1140",
+                    "generation": "1140",
+                    "engine": "1.0 (54 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "54/",
+                    "powerHp": "54",
+                    "yearstart": "1989",
+                    "yearstop": "2001",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3708",
+                    "width": "1554",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "727",
+                    "curbWeightMin": "727"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 14:34:18",
+        "name": "966",
+        "id": "1511",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "966",
+              "modelYear": "1966",
+              "id": "3020",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13947",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "966",
+                    "generation": "966",
+                    "engine": "0.9 (27 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "27/4000",
+                    "powerHp": "27",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1966",
+                    "yearstop": "1972",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3730",
+                    "width": "1570",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 14:41:38",
+        "name": "Chance",
+        "id": "1512",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Chance Sedan",
+              "modelYear": "2009",
+              "id": "3021",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13948",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "Chance",
+                    "generation": "Chance Sedan",
+                    "engine": "1.3 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1679",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1197",
+                    "curbWeightMin": "1197"
+                  },
+                  {
+                    "id": "13949",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "Chance",
+                    "generation": "Chance Sedan",
+                    "engine": "1.5 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/5800",
+                    "powerHp": "85",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1679",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1197",
+                    "curbWeightMin": "1197"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Chance Hatchback",
+              "modelYear": "2009",
+              "id": "3022",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13950",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "Chance",
+                    "generation": "Chance Hatchback",
+                    "engine": "1.3 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2009",
+                    "yearstop": "2014",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4074",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1182",
+                    "curbWeightMin": "1182"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 14:21:39",
+        "name": "1103",
+        "id": "1513",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1103",
+              "modelYear": "1999",
+              "id": "3023",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13951",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1103",
+                    "generation": "1103",
+                    "engine": "1.2 (58 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "58/5300",
+                    "powerHp": "58",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1999",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3980",
+                    "width": "1564",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  },
+                  {
+                    "id": "13952",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1103",
+                    "generation": "1103",
+                    "engine": "1.3 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5000",
+                    "powerHp": "60",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1999",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3980",
+                    "width": "1564",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  },
+                  {
+                    "id": "13953",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1103",
+                    "generation": "1103",
+                    "engine": "1.3 (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/5300",
+                    "powerHp": "63",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2002",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3980",
+                    "width": "1564",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  },
+                  {
+                    "id": "13954",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1103",
+                    "generation": "1103",
+                    "engine": "1.3 i (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/5300",
+                    "powerHp": "72",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3980",
+                    "width": "1564",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-18 11:10:13",
+        "name": "1125",
+        "id": "1514",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "1125",
+              "modelYear": "1989",
+              "id": "3024",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13955",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "1125",
+                    "generation": "1125",
+                    "engine": "1.3 (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/5500",
+                    "powerHp": "63",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1989",
+                    "yearstop": "2001",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3708",
+                    "width": "1554",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "727",
+                    "curbWeightMin": "727"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-19 14:33:23",
+        "name": "965",
+        "id": "1515",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "965",
+              "modelYear": "1960",
+              "id": "3025",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13956",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "965",
+                    "generation": "965",
+                    "engine": "0.7 (23 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "23/4000",
+                    "powerHp": "23",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1960",
+                    "yearstop": "1963",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3330",
+                    "width": "1395",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "13957",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "965",
+                    "generation": "965",
+                    "engine": "0.9 A (27 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "27/4000",
+                    "powerHp": "27",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1962",
+                    "yearstop": "1969",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3330",
+                    "width": "1395",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "650",
+                    "curbWeightMin": "650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-02 14:18:59",
+        "name": "968",
+        "id": "1516",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "968M",
+              "modelYear": "1979",
+              "id": "3026",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13958",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "968",
+                    "generation": "968M",
+                    "engine": "1.2 V4 (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42/4200",
+                    "powerHp": "42",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1979",
+                    "yearstop": "1994",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3765",
+                    "width": "1490",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "800",
+                    "curbWeightMin": "800"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "968A",
+              "modelYear": "1973",
+              "id": "3027",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13959",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "ZAZ",
+                    "model": "968",
+                    "generation": "968A",
+                    "engine": "1.2 A (42 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "42/4200",
+                    "powerHp": "42",
+                    "powerRpm": "4200",
+                    "powerRpmLow": "4200",
+                    "yearstart": "1973",
+                    "yearstop": "1979",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3730",
+                    "width": "1570",
+                    "height": "1400",
+                    "heightMin": "1400",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-13 12:02:36",
+        "name": "Sens",
+        "id": "1517",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sens Sedan",
+              "modelYear": "2002",
+              "id": "3028",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13960",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "Sens",
+                    "generation": "Sens Sedan",
+                    "engine": "1.3 i (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2018",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4237",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1081",
+                    "curbWeightMin": "1081"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Sens Hatchback",
+              "modelYear": "2002",
+              "id": "3029",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13961",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZAZ",
+                    "model": "Sens",
+                    "generation": "Sens Hatchback",
+                    "engine": "1.3L (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2018",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4074",
+                    "width": "1678",
+                    "height": "1432",
+                    "heightMin": "1432",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1182",
+                    "curbWeightMin": "1182"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

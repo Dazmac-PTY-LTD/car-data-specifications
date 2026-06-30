@@ -1,0 +1,54 @@
+{
+  "update": "2021-05-13 14:43:11",
+  "name": "Tramontana",
+  "id": "297",
+  "models": {
+    "model": [
+      {
+        "update": "2021-05-13 14:49:26",
+        "name": "XTR",
+        "id": "2928",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-05-13 14:53:22",
+              "name": "XTR",
+              "modelYear": "2015",
+              "id": "8360",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43387",
+                    "update": "2023-08-09 13:24:15",
+                    "brand": "Tramontana",
+                    "model": "XTR",
+                    "generation": "XTR",
+                    "engine": "5.5 V12 (720 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/5850",
+                    "powerHp": "720",
+                    "powerRpm": "5850",
+                    "powerRpmLow": "5850",
+                    "yearstart": "2015",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4900",
+                    "width": "2080",
+                    "height": "1220-1275",
+                    "heightMin": "1220",
+                    "heightMax": "1275",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

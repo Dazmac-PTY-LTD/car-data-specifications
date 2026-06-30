@@ -1,0 +1,85 @@
+{
+  "update": "2020-11-06 13:44:21",
+  "name": "IMSA",
+  "id": "239",
+  "models": {
+    "model": [
+      {
+        "update": "2020-11-06 13:19:37",
+        "name": "G-Class",
+        "id": "2416",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-13 12:19:06",
+              "name": "G-class",
+              "modelYear": "2017",
+              "id": "6227",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-06 13:27:27",
+        "name": "RXR One",
+        "id": "2417",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "RXR One Super Gran Turismo",
+              "modelYear": "2017",
+              "id": "6228",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33033",
+                    "update": "2023-08-17 10:32:05",
+                    "brand": "IMSA",
+                    "model": "RXR One",
+                    "generation": "RXR One Super Gran Turismo",
+                    "engine": "4.0 V8 (860 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "860",
+                    "powerHp": "860",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1296",
+                    "curbWeightMin": "1296"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-06 13:44:21",
+        "name": "S-class",
+        "id": "2418",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-13 12:18:23",
+              "name": "S-class S720 Facelift",
+              "modelYear": "2017",
+              "id": "6229",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "update": "2025-03-17 14:07:12",
+  "name": "Livan",
+  "id": "353",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-17 14:08:19",
+        "name": "X3 Pro",
+        "id": "3609",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 14:08:46",
+              "name": "X3 Pro",
+              "modelYear": "2023",
+              "id": "10439",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53955",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Livan",
+                    "model": "X3 Pro",
+                    "generation": "X3 Pro",
+                    "engine": "1.5 (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6000",
+                    "powerHp": "103",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  },
+                  {
+                    "id": "53956",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Livan",
+                    "model": "X3 Pro",
+                    "generation": "X3 Pro",
+                    "engine": "1.5 (103 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103/6000",
+                    "powerHp": "103",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  },
+                  {
+                    "id": "53957",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Livan",
+                    "model": "X3 Pro",
+                    "generation": "X3 Pro",
+                    "engine": "1.5 (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/5600",
+                    "powerHp": "113",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1157",
+                    "curbWeightMin": "1157"
+                  },
+                  {
+                    "id": "53958",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Livan",
+                    "model": "X3 Pro",
+                    "generation": "X3 Pro",
+                    "engine": "1.5 (113 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/5600",
+                    "powerHp": "113",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2023",
+                    "coupe": "CUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190",
+                    "curbWeightMin": "1190"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-13 14:02:35",
+        "name": "X6 Pro",
+        "id": "3660",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-13 14:03:06",
+              "name": "X6 Pro",
+              "modelYear": "2024",
+              "id": "10531",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54265",
+                    "update": "2025-05-13 16:16:03",
+                    "brand": "Livan",
+                    "model": "X6 Pro",
+                    "generation": "X6 Pro",
+                    "engine": "1.5 TGDI (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4535",
+                    "width": "1845",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1605",
+                    "curbWeightMin": "1605"
+                  },
+                  {
+                    "id": "54266",
+                    "update": "2025-05-13 16:16:03",
+                    "brand": "Livan",
+                    "model": "X6 Pro",
+                    "generation": "X6 Pro",
+                    "engine": "1.5 TGDI (174 Hp) WDCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "174/5500",
+                    "powerHp": "174",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4535",
+                    "width": "1845",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1499",
+                    "curbWeightMin": "1499"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-14 08:58:25",
+        "name": "S6 Pro",
+        "id": "3662",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-14 09:02:08",
+              "name": "S6 Pro",
+              "modelYear": "2024",
+              "id": "10534",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54276",
+                    "update": "2025-05-14 14:24:06",
+                    "brand": "Livan",
+                    "model": "S6 Pro",
+                    "generation": "S6 Pro",
+                    "engine": "1.5T (181 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/5500",
+                    "powerHp": "181",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1818",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  },
+                  {
+                    "id": "54277",
+                    "update": "2025-05-14 14:24:06",
+                    "brand": "Livan",
+                    "model": "S6 Pro",
+                    "generation": "S6 Pro",
+                    "engine": "1.5T (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1818",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1425",
+                    "curbWeightMin": "1425"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-14 10:48:35",
+        "name": "7",
+        "id": "3664",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-14 10:51:45",
+              "name": "7",
+              "modelYear": "2023",
+              "id": "10536",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54278",
+                    "update": "2025-05-14 14:24:06",
+                    "brand": "Livan",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "50.4 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1892",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54279",
+                    "update": "2025-05-14 14:24:06",
+                    "brand": "Livan",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "68.03 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1892",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54280",
+                    "update": "2025-05-14 14:24:06",
+                    "brand": "Livan",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "68.03 kWh (245 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1892",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-19 11:58:10",
+        "name": "Maple 80V",
+        "id": "3672",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-19 11:58:41",
+              "name": "Maple 80V",
+              "modelYear": "2022",
+              "id": "10546",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54319",
+                    "update": "2025-05-19 16:23:07",
+                    "brand": "Livan",
+                    "model": "Maple 80V",
+                    "generation": "Maple 80V",
+                    "engine": "50.4 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4812",
+                    "width": "1909",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  },
+                  {
+                    "id": "54320",
+                    "update": "2025-05-19 16:23:07",
+                    "brand": "Livan",
+                    "model": "Maple 80V",
+                    "generation": "Maple 80V",
+                    "engine": "68.08 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4812",
+                    "width": "1909",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-19 15:07:54",
+        "name": "Maple 60S",
+        "id": "3674",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-19 15:08:16",
+              "name": "Maple 60S",
+              "modelYear": "2022",
+              "id": "10548",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54321",
+                    "update": "2025-05-19 16:23:07",
+                    "brand": "Livan",
+                    "model": "Maple 60S",
+                    "generation": "Maple 60S",
+                    "engine": "52.56 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1804",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1600",
+                    "curbWeightMin": "1600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-23 14:14:04",
+        "name": "9",
+        "id": "3688",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-23 14:14:47",
+              "name": "9",
+              "modelYear": "2023",
+              "id": "10573",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54386",
+                    "update": "2025-05-23 16:18:04",
+                    "brand": "Livan",
+                    "model": "9",
+                    "generation": "9",
+                    "engine": "52.56 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4845",
+                    "width": "1890",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850-1870",
+                    "curbWeightMin": "1850",
+                    "curbWeightMax": "1870"
+                  },
+                  {
+                    "id": "54387",
+                    "update": "2025-05-23 16:18:04",
+                    "brand": "Livan",
+                    "model": "9",
+                    "generation": "9",
+                    "engine": "66.57 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4845",
+                    "width": "1890",
+                    "height": "1778",
+                    "heightMin": "1778",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850-1870",
+                    "curbWeightMin": "1850",
+                    "curbWeightMax": "1870"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-28 11:40:25",
+        "name": "8",
+        "id": "3689",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-28 11:41:25",
+              "name": "8",
+              "modelYear": "2025",
+              "id": "10575",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54411",
+                    "update": "2025-05-28 14:18:16",
+                    "brand": "Livan",
+                    "model": "8",
+                    "generation": "8",
+                    "engine": "50.4 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4812",
+                    "width": "1909",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  },
+                  {
+                    "id": "54412",
+                    "update": "2025-05-28 14:18:16",
+                    "brand": "Livan",
+                    "model": "8",
+                    "generation": "8",
+                    "engine": "68.03 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4812",
+                    "width": "1909",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "update": "2019-05-22 15:10:18",
+  "name": "MCC",
+  "id": "128",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-08 11:44:28",
+        "name": "Smart",
+        "id": "1333",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 08:44:52",
+              "name": "Smart Cabrio",
+              "modelYear": "1998",
+              "id": "2685",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12407",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "MCC",
+                    "model": "Smart",
+                    "generation": "Smart Cabrio",
+                    "engine": "0.6 (55 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "55",
+                    "powerHp": "55",
+                    "yearstart": "2000",
+                    "yearstop": "2000",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-27 08:45:53",
+              "name": "Smart (MC01)",
+              "modelYear": "1998",
+              "id": "2686",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12408",
+                    "update": "2023-08-15 15:57:47",
+                    "brand": "MCC",
+                    "model": "Smart",
+                    "generation": "Smart (MC01)",
+                    "engine": "0.6 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45",
+                    "powerHp": "45",
+                    "yearstart": "1998",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12409",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "MCC",
+                    "model": "Smart",
+                    "generation": "Smart (MC01)",
+                    "engine": "0.6 (55 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "55",
+                    "powerHp": "55",
+                    "yearstart": "1998",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "12410",
+                    "update": "2023-08-15 15:58:49",
+                    "brand": "MCC",
+                    "model": "Smart",
+                    "generation": "Smart (MC01)",
+                    "engine": "0.8 CDI (41 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "41",
+                    "powerHp": "41",
+                    "yearstart": "1999",
+                    "yearstop": "2000",
+                    "coupe": "Hatchback",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

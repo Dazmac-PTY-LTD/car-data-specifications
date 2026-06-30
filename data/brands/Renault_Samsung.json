@@ -1,0 +1,622 @@
+{
+  "update": "2019-08-07 12:52:15",
+  "name": "Renault Samsung",
+  "id": "104",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-07 12:47:50",
+        "name": "SM3",
+        "id": "1065",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM3 II (L38)",
+              "modelYear": "2017",
+              "id": "6272",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33178",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Renault Samsung",
+                    "model": "SM3",
+                    "generation": "SM3 II (L38)",
+                    "engine": "Z.E. 35.9 kWh (95 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1810",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Electricity",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM3 I (N17)",
+              "modelYear": "2003",
+              "id": "2210",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10845",
+                    "update": "2023-08-11 08:56:48",
+                    "brand": "Renault Samsung",
+                    "model": "SM3",
+                    "generation": "SM3 I (N17)",
+                    "engine": "1.5 i 16V (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/5600",
+                    "powerHp": "100",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4510",
+                    "width": "1705",
+                    "height": "1440",
+                    "heightMin": "1440",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 10:35:45",
+        "name": "SM5",
+        "id": "1066",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM5 II",
+              "modelYear": "2005",
+              "id": "2211",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10846",
+                    "update": "2023-08-11 08:29:36",
+                    "brand": "Renault Samsung",
+                    "model": "SM5",
+                    "generation": "SM5 II",
+                    "engine": "2.0 i 16V (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/5200",
+                    "powerHp": "136",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1765",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM5 I",
+              "modelYear": "1998",
+              "id": "2212",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10847",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Renault Samsung",
+                    "model": "SM5",
+                    "generation": "SM5 I",
+                    "engine": "518i (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/6200",
+                    "powerHp": "132",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4825",
+                    "width": "1775",
+                    "height": "1415",
+                    "heightMin": "1415",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  },
+                  {
+                    "id": "10848",
+                    "update": "2023-08-10 16:14:38",
+                    "brand": "Renault Samsung",
+                    "model": "SM5",
+                    "generation": "SM5 I",
+                    "engine": "520i (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/6000",
+                    "powerHp": "143",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4845",
+                    "width": "1785",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  },
+                  {
+                    "id": "10849",
+                    "update": "2023-08-10 16:21:24",
+                    "brand": "Renault Samsung",
+                    "model": "SM5",
+                    "generation": "SM5 I",
+                    "engine": "520 i V6 (144 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144/6400",
+                    "powerHp": "144",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4845",
+                    "width": "1785",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  },
+                  {
+                    "id": "10850",
+                    "update": "2023-08-10 16:21:23",
+                    "brand": "Renault Samsung",
+                    "model": "SM5",
+                    "generation": "SM5 I",
+                    "engine": "525 i V (173 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "173/6400",
+                    "powerHp": "173",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "1998",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4845",
+                    "width": "1785",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1455",
+                    "curbWeightMin": "1455"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-07 12:52:15",
+        "name": "SM7",
+        "id": "1067",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM7 II (L47) (facelift 2014)",
+              "modelYear": "2014",
+              "id": "6271",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33175",
+                    "update": "2023-08-11 08:57:38",
+                    "brand": "Renault Samsung",
+                    "model": "SM7",
+                    "generation": "SM7 II (L47) (facelift 2014)",
+                    "engine": "2.5i V6 (190 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/6000",
+                    "powerHp": "190",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4995",
+                    "width": "1870",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1635",
+                    "curbWeightMin": "1635"
+                  },
+                  {
+                    "id": "33176",
+                    "update": "2023-08-11 08:59:49",
+                    "brand": "Renault Samsung",
+                    "model": "SM7",
+                    "generation": "SM7 II (L47) (facelift 2014)",
+                    "engine": "3.5i V6 (258 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "258/6000",
+                    "powerHp": "258",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4995",
+                    "width": "1870",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  },
+                  {
+                    "id": "33177",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Renault Samsung",
+                    "model": "SM7",
+                    "generation": "SM7 II (L47) (facelift 2014)",
+                    "engine": "2.0 LPe V6 (140 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/6000",
+                    "powerHp": "140",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4995",
+                    "width": "1870",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1535",
+                    "curbWeightMin": "1535"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM7 I (EX2)",
+              "modelYear": "2005",
+              "id": "2213",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10851",
+                    "update": "2023-08-10 15:55:48",
+                    "brand": "Renault Samsung",
+                    "model": "SM7",
+                    "generation": "SM7 I (EX2)",
+                    "engine": "2.3 i V6 24V (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/6000",
+                    "powerHp": "170",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2004",
+                    "yearstop": "2008",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1790",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1555",
+                    "curbWeightMin": "1555"
+                  },
+                  {
+                    "id": "10852",
+                    "update": "2023-08-10 16:03:01",
+                    "brand": "Renault Samsung",
+                    "model": "SM7",
+                    "generation": "SM7 I (EX2)",
+                    "engine": "3.5 i V6 24V (218 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "218/5600",
+                    "powerHp": "218",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2004",
+                    "yearstop": "2008",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1790",
+                    "height": "1475",
+                    "heightMin": "1475",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 10:37:01",
+        "name": "SM6",
+        "id": "2447",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SM6",
+              "modelYear": "2016",
+              "id": "6312",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33361",
+                    "update": "2023-08-10 16:28:57",
+                    "brand": "Renault Samsung",
+                    "model": "SM6",
+                    "generation": "SM6",
+                    "engine": "2.0 GDe (150 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5800",
+                    "powerHp": "150",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1870",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1405",
+                    "curbWeightMin": "1405"
+                  },
+                  {
+                    "id": "33362",
+                    "update": "2023-08-10 16:27:23",
+                    "brand": "Renault Samsung",
+                    "model": "SM6",
+                    "generation": "SM6",
+                    "engine": "1.6 TCe (190 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5750",
+                    "powerHp": "190",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1870",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  },
+                  {
+                    "id": "33363",
+                    "update": "2023-06-15 13:17:28",
+                    "brand": "Renault Samsung",
+                    "model": "SM6",
+                    "generation": "SM6",
+                    "engine": "1.5 dCi (110 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/4000",
+                    "powerHp": "110",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1870",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Diesel",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-07 12:46:01",
+        "name": "QM6",
+        "id": "2448",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "QM6",
+              "modelYear": "2016",
+              "id": "6314",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33365",
+                    "update": "2023-06-15 13:17:15",
+                    "brand": "Renault Samsung",
+                    "model": "QM6",
+                    "generation": "QM6",
+                    "engine": "2.0 dCi (177 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/3750",
+                    "powerHp": "177",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1845",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Diesel",
+                    "curbWeight": "1645",
+                    "curbWeightMin": "1645"
+                  },
+                  {
+                    "id": "33366",
+                    "update": "2023-06-15 13:17:16",
+                    "brand": "Renault Samsung",
+                    "model": "QM6",
+                    "generation": "QM6",
+                    "engine": "2.0 dCi (177 Hp) 4WD CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/3750",
+                    "powerHp": "177",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1845",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Diesel",
+                    "curbWeight": "1735",
+                    "curbWeightMin": "1735"
+                  },
+                  {
+                    "id": "33367",
+                    "update": "2023-08-11 08:08:17",
+                    "brand": "Renault Samsung",
+                    "model": "QM6",
+                    "generation": "QM6",
+                    "engine": "2.0 GDe (144 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "144/6000",
+                    "powerHp": "144",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1845",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-07 12:43:48",
+        "name": "QM3",
+        "id": "2449",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "QM3",
+              "modelYear": "2013",
+              "id": "6315",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33370",
+                    "update": "2023-06-15 13:17:28",
+                    "brand": "Renault Samsung",
+                    "model": "QM3",
+                    "generation": "QM3",
+                    "engine": "1.5 dCi (90 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90/4000",
+                    "powerHp": "90",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2013",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4125",
+                    "width": "1780",
+                    "height": "1565",
+                    "heightMin": "1565",
+                    "fuel": "Diesel",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

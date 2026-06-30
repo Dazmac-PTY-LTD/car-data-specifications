@@ -1,0 +1,97 @@
+{
+  "update": "2019-05-22 15:10:12",
+  "name": "Ariel",
+  "id": "258",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-27 12:30:55",
+        "name": "Atom",
+        "id": "2540",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Atom 4",
+              "modelYear": "2019",
+              "id": "6659",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34827",
+                    "update": "2023-06-26 14:01:33",
+                    "brand": "Ariel",
+                    "model": "Atom",
+                    "generation": "Atom 4",
+                    "engine": "2.0 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/6500",
+                    "powerHp": "320",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2018",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3520",
+                    "width": "1880",
+                    "height": "1122",
+                    "heightMin": "1122",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "595",
+                    "curbWeightMin": "595"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 10:54:42",
+        "name": "Nomad",
+        "id": "2541",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-02 16:43:37",
+              "name": "Nomad",
+              "modelYear": "2015",
+              "id": "6660",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34831",
+                    "update": "2023-08-21 13:33:49",
+                    "brand": "Ariel",
+                    "model": "Nomad",
+                    "generation": "Nomad",
+                    "engine": "2.4 (235 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "235/7200",
+                    "powerHp": "235",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "2015",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3215",
+                    "width": "1850",
+                    "height": "1425",
+                    "heightMin": "1425",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "670",
+                    "curbWeightMin": "670"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

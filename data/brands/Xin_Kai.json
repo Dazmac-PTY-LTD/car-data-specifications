@@ -1,0 +1,161 @@
+{
+  "update": "2019-05-22 15:10:22",
+  "name": "Xin Kai",
+  "id": "110",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-18 08:42:20",
+        "name": "PICKUP X3",
+        "id": "1117",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Pickup X3",
+              "modelYear": "2004",
+              "id": "2269",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10947",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Xin Kai",
+                    "model": "PICKUP X3",
+                    "generation": "Pickup X3",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/",
+                    "powerHp": "105",
+                    "yearstart": "2003",
+                    "yearstop": "2017",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5400",
+                    "width": "1690",
+                    "height": "1615",
+                    "heightMin": "1615",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-18 08:42:21",
+        "name": "SR-V X3",
+        "id": "1118",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 16:10:30",
+              "name": "SR-V X3",
+              "modelYear": "2003",
+              "id": "2270",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10948",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Xin Kai",
+                    "model": "SR-V X3",
+                    "generation": "SR-V X3",
+                    "engine": "2.2i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/",
+                    "powerHp": "105",
+                    "yearstart": "2003",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1740",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "10949",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Xin Kai",
+                    "model": "SR-V X3",
+                    "generation": "SR-V X3",
+                    "engine": "2.8 D (157 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "157/",
+                    "powerHp": "157",
+                    "yearstart": "2003",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4850",
+                    "width": "1740",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Diesel",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-18 08:42:21",
+        "name": "SUV X3",
+        "id": "1119",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 16:10:37",
+              "name": "SUV X3",
+              "modelYear": "2003",
+              "id": "2271",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10950",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Xin Kai",
+                    "model": "SUV X3",
+                    "generation": "SUV X3",
+                    "engine": "2.2 i (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105/",
+                    "powerHp": "105",
+                    "yearstart": "2003",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4957",
+                    "width": "1760",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

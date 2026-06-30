@@ -1,0 +1,738 @@
+{
+  "update": "2025-06-02 09:14:05",
+  "name": "IM",
+  "id": "360",
+  "models": {
+    "model": [
+      {
+        "update": "2025-06-02 09:14:34",
+        "name": "L7",
+        "id": "3696",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-02 09:40:59",
+              "name": "L7 (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10585",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54452",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "L7",
+                    "generation": "L7 (facelift 2024)",
+                    "engine": "90 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5108",
+                    "width": "1960",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Electricity",
+                    "curbWeight": "2090",
+                    "curbWeightMin": "2090"
+                  },
+                  {
+                    "id": "54453",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "L7",
+                    "generation": "L7 (facelift 2024)",
+                    "engine": "90 kWh (578 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5108",
+                    "width": "1960",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Electricity",
+                    "curbWeight": "2290",
+                    "curbWeightMin": "2290"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-06-02 09:40:59",
+              "name": "L7",
+              "modelYear": "2022",
+              "id": "10587",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54451",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "L7",
+                    "generation": "L7",
+                    "engine": "90 kWh (578 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5098",
+                    "width": "1960",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "2290",
+                    "curbWeightMin": "2290"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-02 13:35:27",
+        "name": "L6",
+        "id": "3698",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-02 13:36:47",
+              "name": "L6 (facelift 2025)",
+              "modelYear": "2025",
+              "id": "10588",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54487",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6 (facelift 2025)",
+                    "engine": "74 kWh (333 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2130",
+                    "curbWeightMin": "2130"
+                  },
+                  {
+                    "id": "54488",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6 (facelift 2025)",
+                    "engine": "100 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2160",
+                    "curbWeightMin": "2160"
+                  },
+                  {
+                    "id": "54489",
+                    "update": "2025-06-05 16:12:04",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6 (facelift 2025)",
+                    "engine": "100 kWh (787 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2250",
+                    "curbWeightMin": "2250"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-06-02 13:36:47",
+              "name": "L6",
+              "modelYear": "2024",
+              "id": "10589",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54476",
+                    "update": "2025-06-04 14:12:17",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "75 kWh (294 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4931",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2130",
+                    "curbWeightMin": "2130"
+                  },
+                  {
+                    "id": "54477",
+                    "update": "2025-06-04 14:12:17",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "83 kWh (337 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4931",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2090",
+                    "curbWeightMin": "2090"
+                  },
+                  {
+                    "id": "54478",
+                    "update": "2025-06-04 14:12:17",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "100 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4931",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2160",
+                    "curbWeightMin": "2160"
+                  },
+                  {
+                    "id": "54479",
+                    "update": "2025-06-04 14:12:17",
+                    "brand": "IM",
+                    "model": "L6",
+                    "generation": "L6",
+                    "engine": "100 kWh (787 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4931",
+                    "width": "1960",
+                    "height": "1474",
+                    "heightMin": "1474",
+                    "fuel": "Electricity",
+                    "curbWeight": "2250",
+                    "curbWeightMin": "2250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-02 14:16:29",
+        "name": "LS7",
+        "id": "3699",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-02 14:16:52",
+              "name": "LS7",
+              "modelYear": "2023",
+              "id": "10590",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54454",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "LS7",
+                    "generation": "LS7",
+                    "engine": "100 kWh (578 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "2002",
+                    "height": "1731-1773",
+                    "heightMin": "1731",
+                    "heightMax": "1773",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "2630",
+                    "curbWeightMin": "2630"
+                  },
+                  {
+                    "id": "54455",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "LS7",
+                    "generation": "LS7",
+                    "engine": "90 kWh (578 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "2002",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54456",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "LS7",
+                    "generation": "LS7",
+                    "engine": "77 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "2002",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "54457",
+                    "update": "2025-06-02 16:21:26",
+                    "brand": "IM",
+                    "model": "LS7",
+                    "generation": "LS7",
+                    "engine": "90 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "2002",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "54463",
+                    "update": "2025-06-03 16:11:14",
+                    "brand": "IM",
+                    "model": "LS7",
+                    "generation": "LS7",
+                    "engine": "100 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "2002",
+                    "height": "1731",
+                    "heightMin": "1731",
+                    "fuel": "Electricity",
+                    "curbWeight": "2520",
+                    "curbWeightMin": "2520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-02 16:30:37",
+        "name": "LS6",
+        "id": "3700",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-11 15:48:46",
+              "name": "LS6 II",
+              "modelYear": "2026",
+              "id": "10809",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55322",
+                    "update": "2025-09-11 16:13:21",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 II",
+                    "engine": "76 kWh (333 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1988",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "fuel": "Electricity",
+                    "curbWeight": "2255",
+                    "curbWeightMin": "2255"
+                  },
+                  {
+                    "id": "55341",
+                    "update": "2025-09-12 16:07:15",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 II",
+                    "engine": "1.5T 52 kWh (313 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "155",
+                    "powerHp": "155",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1988",
+                    "height": "1673",
+                    "heightMin": "1673",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  },
+                  {
+                    "id": "55342",
+                    "update": "2025-09-12 16:07:15",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 II",
+                    "engine": "1.5T 66 kWh (313 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "155",
+                    "powerHp": "155",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4937",
+                    "width": "1988",
+                    "height": "1673",
+                    "heightMin": "1673",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2345",
+                    "curbWeightMin": "2345"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-11 15:55:39",
+              "name": "LS6 I (facelift 2024)",
+              "modelYear": "2025",
+              "id": "10592",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54462",
+                    "update": "2025-09-12 08:23:12",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I (facelift 2024)",
+                    "engine": "100 kWh (787 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2410",
+                    "curbWeightMin": "2410"
+                  },
+                  {
+                    "id": "54468",
+                    "update": "2025-09-12 08:23:12",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I (facelift 2024)",
+                    "engine": "75 kWh (294 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  },
+                  {
+                    "id": "54469",
+                    "update": "2025-09-12 08:23:11",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I (facelift 2024)",
+                    "engine": "83 kWh (337 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2235",
+                    "curbWeightMin": "2235"
+                  },
+                  {
+                    "id": "54470",
+                    "update": "2025-09-12 08:23:13",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I (facelift 2024)",
+                    "engine": "100 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2320",
+                    "curbWeightMin": "2320"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-11 15:55:39",
+              "name": "LS6 I",
+              "modelYear": "2023",
+              "id": "10591",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54464",
+                    "update": "2025-06-03 16:11:14",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I",
+                    "engine": "71 kWh (314 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4904",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  },
+                  {
+                    "id": "54465",
+                    "update": "2025-06-03 16:11:14",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I",
+                    "engine": "90 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4904",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2227",
+                    "curbWeightMin": "2227"
+                  },
+                  {
+                    "id": "54466",
+                    "update": "2025-06-03 16:11:14",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I",
+                    "engine": "100 kWh (515 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4904",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2354",
+                    "curbWeightMin": "2354"
+                  },
+                  {
+                    "id": "54467",
+                    "update": "2025-06-03 16:11:14",
+                    "brand": "IM",
+                    "model": "LS6",
+                    "generation": "LS6 I",
+                    "engine": "100 kWh (787 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4904",
+                    "width": "1988",
+                    "height": "1669",
+                    "heightMin": "1669",
+                    "fuel": "Electricity",
+                    "curbWeight": "2432",
+                    "curbWeightMin": "2432"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-17 09:05:37",
+        "name": "LS9",
+        "id": "3879",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-17 09:05:54",
+              "name": "LS9",
+              "modelYear": "2026",
+              "id": "10936",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55787",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "IM",
+                    "model": "LS9",
+                    "generation": "LS9",
+                    "engine": "1.5T 52 kWh (517 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "155",
+                    "powerHp": "155",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5279",
+                    "width": "2000",
+                    "height": "1806",
+                    "heightMin": "1806",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2670",
+                    "curbWeightMin": "2670"
+                  },
+                  {
+                    "id": "55788",
+                    "update": "2025-11-17 16:09:05",
+                    "brand": "IM",
+                    "model": "LS9",
+                    "generation": "LS9",
+                    "engine": "1.5T 66 kWh (530 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "155",
+                    "powerHp": "155",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5279",
+                    "width": "2000",
+                    "height": "1806",
+                    "heightMin": "1806",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2695",
+                    "curbWeightMin": "2695"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

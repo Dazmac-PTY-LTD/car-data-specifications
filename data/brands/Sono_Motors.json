@@ -1,0 +1,52 @@
+{
+  "update": "2021-07-20 15:06:18",
+  "name": "Sono Motors",
+  "id": "300",
+  "models": {
+    "model": [
+      {
+        "update": "2021-07-20 15:08:09",
+        "name": "Sion",
+        "id": "2978",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-20 15:08:40",
+              "name": "Sion",
+              "modelYear": "2023",
+              "id": "8501",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43988",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Sono Motors",
+                    "model": "Sion",
+                    "generation": "Sion",
+                    "engine": "54 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4470",
+                    "width": "1830",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

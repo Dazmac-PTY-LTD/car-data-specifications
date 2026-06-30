@@ -1,0 +1,102 @@
+{
+  "update": "2023-07-28 11:53:32",
+  "name": "LEVC",
+  "id": "331",
+  "models": {
+    "model": [
+      {
+        "update": "2023-07-28 12:01:52",
+        "name": "TX",
+        "id": "3300",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-28 12:02:21",
+              "name": "TX",
+              "modelYear": "2017",
+              "id": "9581",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49057",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "LEVC",
+                    "model": "TX",
+                    "generation": "TX",
+                    "engine": "1.5 Range Extender (150 Hp) Plug-in Hybrid Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "4855",
+                    "width": "1945",
+                    "widthOpenedMirrors": "2036",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2144-2305",
+                    "curbWeightMin": "2144",
+                    "curbWeightMax": "2305"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-07-31 10:31:12",
+        "name": "VN5",
+        "id": "3301",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-31 10:31:33",
+              "name": "VN5",
+              "modelYear": "2021",
+              "id": "9582",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49059",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "LEVC",
+                    "model": "VN5",
+                    "generation": "VN5",
+                    "engine": "1.5 Range Extender (150 Hp) Plug-in Hybrid Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "91",
+                    "powerHp": "91",
+                    "yearstart": "2020",
+                    "coupe": "Minivan",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5233",
+                    "width": "1945",
+                    "widthOpenedMirrors": "2083",
+                    "height": "1990",
+                    "heightMin": "1990",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2070-2222",
+                    "curbWeightMin": "2070",
+                    "curbWeightMax": "2222"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "update": "2025-08-13 14:23:45",
+  "name": "Hyptec",
+  "id": "366",
+  "models": {
+    "model": [
+      {
+        "update": "2025-08-14 08:39:46",
+        "name": "HT",
+        "id": "3765",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-14 08:44:28",
+              "name": "HT",
+              "modelYear": "2025",
+              "id": "10733",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55104",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "72.7 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "158-168",
+                    "rideHeightMin": "158",
+                    "rideHeightMax": "168",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55105",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "83.3 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "158-168",
+                    "rideHeightMin": "158",
+                    "rideHeightMax": "168",
+                    "fuel": "Electricity",
+                    "curbWeight": "2120",
+                    "curbWeightMin": "2120"
+                  },
+                  {
+                    "id": "55106",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "99.5 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "rideHeight": "158-168",
+                    "rideHeightMin": "158",
+                    "rideHeightMax": "168",
+                    "fuel": "Electricity",
+                    "curbWeight": "2180-2220",
+                    "curbWeightMin": "2180",
+                    "curbWeightMax": "2220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-14 12:35:22",
+        "name": "SSR",
+        "id": "3766",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-14 12:36:50",
+              "name": "SSR",
+              "modelYear": "2025",
+              "id": "10735",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55107",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "SSR",
+                    "generation": "SSR",
+                    "engine": "74.69 kWh (1225 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4556",
+                    "width": "1988",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-14 14:54:03",
+        "name": "HL",
+        "id": "3768",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-14 14:54:20",
+              "name": "HL",
+              "modelYear": "2025",
+              "id": "10737",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55108",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HL",
+                    "generation": "HL",
+                    "engine": "108.35 kWh (340 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5126",
+                    "width": "1990",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Electricity",
+                    "curbWeight": "2500",
+                    "curbWeightMin": "2500"
+                  },
+                  {
+                    "id": "55109",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HL",
+                    "generation": "HL",
+                    "engine": "108.35 kWh (517 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5126",
+                    "width": "1990",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Electricity",
+                    "curbWeight": "2620",
+                    "curbWeightMin": "2620"
+                  },
+                  {
+                    "id": "55110",
+                    "update": "2025-08-14 16:11:07",
+                    "brand": "Hyptec",
+                    "model": "HL",
+                    "generation": "HL",
+                    "engine": "1.5T 60.33 kWh (340 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "5126",
+                    "width": "1990",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2460",
+                    "curbWeightMin": "2460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-15 08:14:14",
+        "name": "GT",
+        "id": "3769",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-15 08:14:24",
+              "name": "GT",
+              "modelYear": "2025",
+              "id": "10738",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55114",
+                    "update": "2025-08-15 16:21:19",
+                    "brand": "Hyptec",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "70 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1880-1920",
+                    "curbWeightMin": "1880",
+                    "curbWeightMax": "1920"
+                  },
+                  {
+                    "id": "55115",
+                    "update": "2025-08-15 16:21:19",
+                    "brand": "Hyptec",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "83.3 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "2110",
+                    "curbWeightMin": "2110"
+                  },
+                  {
+                    "id": "55116",
+                    "update": "2025-08-15 16:21:19",
+                    "brand": "Hyptec",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "80 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  },
+                  {
+                    "id": "55696",
+                    "update": "2025-10-31 11:06:22",
+                    "brand": "Hyptec",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "60 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1820-1870",
+                    "curbWeightMin": "1820",
+                    "curbWeightMax": "1870"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

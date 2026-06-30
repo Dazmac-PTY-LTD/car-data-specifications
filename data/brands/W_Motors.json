@@ -1,0 +1,157 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "W Motors",
+  "id": "218",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-19 10:59:08",
+        "name": "Lykan",
+        "id": "2325",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Lykan HyperSport",
+              "modelYear": "2013",
+              "id": "5971",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32095",
+                    "update": "2023-08-08 15:46:06",
+                    "brand": "W Motors",
+                    "model": "Lykan",
+                    "generation": "Lykan HyperSport",
+                    "engine": "3.7 (780 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/7100",
+                    "powerHp": "780",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4495",
+                    "width": "1995",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  },
+                  {
+                    "id": "32096",
+                    "update": "2023-08-08 15:46:06",
+                    "brand": "W Motors",
+                    "model": "Lykan",
+                    "generation": "Lykan HyperSport",
+                    "engine": "3.7 (780 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/7100",
+                    "powerHp": "780",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4495",
+                    "width": "1995",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-30 15:17:29",
+        "name": "Fenyr",
+        "id": "2326",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Fenyr SuperSport Concept",
+              "modelYear": "2018",
+              "id": "6444",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Fenyr SuperSport",
+              "modelYear": "2015",
+              "id": "5973",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32100",
+                    "update": "2023-08-08 15:46:01",
+                    "brand": "W Motors",
+                    "model": "Fenyr",
+                    "generation": "Fenyr SuperSport",
+                    "engine": "4.0 (900 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "900/7100",
+                    "powerHp": "900",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4684",
+                    "width": "1983",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  },
+                  {
+                    "id": "33954",
+                    "update": "2023-08-08 15:46:06",
+                    "brand": "W Motors",
+                    "model": "Fenyr",
+                    "generation": "Fenyr SuperSport",
+                    "engine": "3.8 (800 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/7100",
+                    "powerHp": "800",
+                    "powerRpm": "7100",
+                    "powerRpmLow": "7100",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4684",
+                    "width": "1983",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

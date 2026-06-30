@@ -1,0 +1,240 @@
+{
+  "update": "2024-02-23 08:37:59",
+  "name": "Yangwang",
+  "id": "341",
+  "models": {
+    "model": [
+      {
+        "update": "2024-02-23 08:44:31",
+        "name": "U8",
+        "id": "3394",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-06 14:29:18",
+              "name": "U8L",
+              "modelYear": "2026",
+              "id": "10993",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56058",
+                    "update": "2026-01-06 16:20:26",
+                    "brand": "Yangwang",
+                    "model": "U8",
+                    "generation": "U8L",
+                    "engine": "2.0T (1197 Hp) Extended Range Pure Electric 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5400",
+                    "width": "2049",
+                    "height": "1921",
+                    "heightMin": "1921",
+                    "rideHeight": "205-285",
+                    "rideHeightMin": "205",
+                    "rideHeightMax": "285",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-02-23 08:45:17",
+              "name": "U8",
+              "modelYear": "2023",
+              "id": "9906",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51283",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Yangwang",
+                    "model": "U8",
+                    "generation": "U8",
+                    "engine": "2.0T (1197 Hp) Extended Range Pure Electric 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5319",
+                    "width": "2050",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "rideHeight": "285",
+                    "rideHeightMin": "285",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3460",
+                    "curbWeightMin": "3460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-03 13:04:57",
+        "name": "U9",
+        "id": "3448",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-03 13:05:21",
+              "name": "U9",
+              "modelYear": "2024",
+              "id": "10041",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51920",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Yangwang",
+                    "model": "U9",
+                    "generation": "U9",
+                    "engine": "80 kWh (1306 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4966",
+                    "widthOpenedMirrors": "2029",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-04-07 15:03:26",
+        "name": "U7",
+        "id": "3638",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-07 15:03:49",
+              "name": "U7",
+              "modelYear": "2025",
+              "id": "10490",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54094",
+                    "update": "2026-03-06 15:25:53",
+                    "brand": "Yangwang",
+                    "model": "U7",
+                    "generation": "U7",
+                    "engine": "135.5 kWh (1306 Hp) Electric e4",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "yearstop": "2026",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5265",
+                    "width": "1998",
+                    "height": "1517",
+                    "heightMin": "1517",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "3095",
+                    "curbWeightMin": "3095"
+                  },
+                  {
+                    "id": "54095",
+                    "update": "2026-03-06 15:41:12",
+                    "brand": "Yangwang",
+                    "model": "U7",
+                    "generation": "U7",
+                    "engine": "2.0T (1306 Hp) Plug-in Hybrid e4",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2025",
+                    "yearstop": "2026",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5360",
+                    "width": "2000",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3223",
+                    "curbWeightMin": "3223"
+                  },
+                  {
+                    "id": "56639",
+                    "update": "2026-03-06 16:08:37",
+                    "brand": "Yangwang",
+                    "model": "U7",
+                    "generation": "U7",
+                    "engine": "150.01 kWh (1306 Hp) Electric e4",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5265",
+                    "width": "1998",
+                    "height": "1517",
+                    "heightMin": "1517",
+                    "fuel": "Electricity",
+                    "curbWeight": "3120-3195",
+                    "curbWeightMin": "3120",
+                    "curbWeightMax": "3195"
+                  },
+                  {
+                    "id": "56640",
+                    "update": "2026-03-06 16:08:37",
+                    "brand": "Yangwang",
+                    "model": "U7",
+                    "generation": "U7",
+                    "engine": "2.0T (1360 Hp) Plug-in Hybrid e4",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "245",
+                    "powerHp": "245",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "4-5",
+                    "placesMin": "4",
+                    "placesMax": "5",
+                    "length": "5360",
+                    "width": "2000",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3223",
+                    "curbWeightMin": "3223"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

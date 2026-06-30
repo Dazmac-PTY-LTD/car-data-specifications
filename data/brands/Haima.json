@@ -1,0 +1,456 @@
+{
+  "update": "2019-08-29 16:46:20",
+  "name": "Haima",
+  "id": "241",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-29 16:46:20",
+        "name": "S5 Young",
+        "id": "2428",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S5 Young",
+              "modelYear": "2017",
+              "id": "6262",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33154",
+                    "update": "2023-08-17 13:45:27",
+                    "brand": "Haima",
+                    "model": "S5 Young",
+                    "generation": "S5 Young",
+                    "engine": "1.6 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6000",
+                    "powerHp": "122",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4195",
+                    "width": "1765",
+                    "height": "1637",
+                    "heightMin": "1637",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1258",
+                    "curbWeightMin": "1258"
+                  },
+                  {
+                    "id": "33155",
+                    "update": "2023-08-17 13:45:27",
+                    "brand": "Haima",
+                    "model": "S5 Young",
+                    "generation": "S5 Young",
+                    "engine": "1.6 (122 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6000",
+                    "powerHp": "122",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4195",
+                    "width": "1765",
+                    "height": "1637",
+                    "heightMin": "1637",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1321",
+                    "curbWeightMin": "1321"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 13:11:00",
+        "name": "S5",
+        "id": "2429",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S5",
+              "modelYear": "2014",
+              "id": "6263",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33156",
+                    "update": "2023-08-17 13:45:29",
+                    "brand": "Haima",
+                    "model": "S5",
+                    "generation": "S5",
+                    "engine": "1.6 (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122/6000",
+                    "powerHp": "122",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4358",
+                    "width": "1823",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  },
+                  {
+                    "id": "33157",
+                    "update": "2023-08-17 13:45:23",
+                    "brand": "Haima",
+                    "model": "S5",
+                    "generation": "S5",
+                    "engine": "1.5 (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4358",
+                    "width": "1823",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1432",
+                    "curbWeightMin": "1432"
+                  },
+                  {
+                    "id": "33158",
+                    "update": "2023-08-17 13:45:21",
+                    "brand": "Haima",
+                    "model": "S5",
+                    "generation": "S5",
+                    "engine": "1.5 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5500",
+                    "powerHp": "163",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4358",
+                    "width": "1823",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1435",
+                    "curbWeightMin": "1435"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 13:12:09",
+        "name": "S7",
+        "id": "2431",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "S7 (facelift 2017)",
+              "modelYear": "2017",
+              "id": "6265",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33164",
+                    "update": "2023-08-17 13:53:45",
+                    "brand": "Haima",
+                    "model": "S7",
+                    "generation": "S7 (facelift 2017)",
+                    "engine": "1.8 (188 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "188/5500",
+                    "powerHp": "188",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4480",
+                    "width": "1860",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "165-180",
+                    "rideHeightMin": "165",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "33165",
+                    "update": "2023-08-17 13:53:45",
+                    "brand": "Haima",
+                    "model": "S7",
+                    "generation": "S7 (facelift 2017)",
+                    "engine": "1.8 (188 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "188/5500",
+                    "powerHp": "188",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4480",
+                    "width": "1860",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "165-180",
+                    "rideHeightMin": "165",
+                    "rideHeightMax": "180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-28 14:21:26",
+        "name": "V70",
+        "id": "3446",
+        "generations": {
+          "generation": []
+        }
+      },
+      {
+        "update": "2024-06-27 12:08:29",
+        "name": "8S",
+        "id": "3462",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-27 12:08:54",
+              "name": "8S",
+              "modelYear": "2020",
+              "id": "10079",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52108",
+                    "update": "2024-06-27 16:20:10",
+                    "brand": "Haima",
+                    "model": "8S",
+                    "generation": "8S",
+                    "engine": "1.6 TGDI (195 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195/5000",
+                    "powerHp": "195",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1850",
+                    "height": "1682",
+                    "heightMin": "1682",
+                    "rideHeight": "213",
+                    "rideHeightMin": "213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "52109",
+                    "update": "2024-06-27 16:20:10",
+                    "brand": "Haima",
+                    "model": "8S",
+                    "generation": "8S",
+                    "engine": "1.6 TGDI (195 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195/5000",
+                    "powerHp": "195",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1850",
+                    "height": "1682",
+                    "heightMin": "1682",
+                    "rideHeight": "213",
+                    "rideHeightMin": "213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "52110",
+                    "update": "2024-06-27 16:20:10",
+                    "brand": "Haima",
+                    "model": "8S",
+                    "generation": "8S",
+                    "engine": "1.6 TGDI (195 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195/5000",
+                    "powerHp": "195",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1850",
+                    "height": "1682",
+                    "heightMin": "1682",
+                    "rideHeight": "213",
+                    "rideHeightMin": "213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-27 14:37:58",
+        "name": "7X",
+        "id": "3463",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-27 14:38:31",
+              "name": "7X",
+              "modelYear": "2020",
+              "id": "10081",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52111",
+                    "update": "2024-06-27 16:20:10",
+                    "brand": "Haima",
+                    "model": "7X",
+                    "generation": "7X",
+                    "engine": "1.5T (165 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "165/5500",
+                    "powerHp": "165",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2020",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4815",
+                    "width": "1874",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  },
+                  {
+                    "id": "52112",
+                    "update": "2024-06-27 16:20:10",
+                    "brand": "Haima",
+                    "model": "7X",
+                    "generation": "7X",
+                    "engine": "1.6 TGDI (195 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "195/5000",
+                    "powerHp": "195",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4815",
+                    "width": "1874",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  },
+                  {
+                    "id": "52119",
+                    "update": "2024-06-28 16:16:01",
+                    "brand": "Haima",
+                    "model": "7X",
+                    "generation": "7X",
+                    "engine": "7X-E 71.37 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4815",
+                    "width": "1874",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

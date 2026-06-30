@@ -1,0 +1,181 @@
+{
+  "update": "2019-05-22 15:16:31",
+  "name": "Rivian",
+  "id": "279",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-26 14:07:04",
+        "name": "R1S",
+        "id": "2692",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-12-08 12:23:22",
+              "name": "R1S",
+              "modelYear": "2022",
+              "id": "7070",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36856",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Rivian",
+                    "model": "R1S",
+                    "generation": "R1S",
+                    "engine": "Large Pack 135 kWh (835 Hp) AWD Quad Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5100",
+                    "widthFoldedMirrors": "2077",
+                    "height": "1963",
+                    "heightMin": "1963",
+                    "rideHeight": "205-378",
+                    "rideHeightMin": "205",
+                    "rideHeightMax": "378",
+                    "fuel": "Electricity",
+                    "curbWeight": "2650",
+                    "curbWeightMin": "2650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-06-26 14:07:13",
+        "name": "R1T",
+        "id": "2694",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-12-08 12:23:53",
+              "name": "R1T",
+              "modelYear": "2022",
+              "id": "7075",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36857",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Rivian",
+                    "model": "R1T",
+                    "generation": "R1T",
+                    "engine": "Large Pack 135 kWh (835 Hp) AWD Quad Motor",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5514",
+                    "widthFoldedMirrors": "2078",
+                    "height": "1986",
+                    "heightMin": "1986",
+                    "rideHeight": "200-378",
+                    "rideHeightMin": "200",
+                    "rideHeightMax": "378",
+                    "fuel": "Electricity",
+                    "curbWeight": "2670",
+                    "curbWeightMin": "2670"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-17 11:13:13",
+        "name": "R2",
+        "id": "3950",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-17 12:39:53",
+              "name": "R2",
+              "modelYear": "2027",
+              "id": "11124",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56714",
+                    "update": "2026-03-17 16:05:40",
+                    "brand": "Rivian",
+                    "model": "R2",
+                    "generation": "R2",
+                    "engine": "Standard 87.9 kWh (350 Hp) Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2027",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4722",
+                    "widthFoldedMirrors": "1984",
+                    "widthOpenedMirrors": "2151",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "244",
+                    "rideHeightMin": "244",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56715",
+                    "update": "2026-03-17 16:05:40",
+                    "brand": "Rivian",
+                    "model": "R2",
+                    "generation": "R2",
+                    "engine": "Performance 87.9 kWh (656 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4722",
+                    "widthFoldedMirrors": "1984",
+                    "widthOpenedMirrors": "2151",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "244",
+                    "rideHeightMin": "244",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56716",
+                    "update": "2026-03-17 16:05:40",
+                    "brand": "Rivian",
+                    "model": "R2",
+                    "generation": "R2",
+                    "engine": "Premium 87.9 kWh (450 Hp) Dual Motor AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4722",
+                    "widthFoldedMirrors": "1984",
+                    "widthOpenedMirrors": "2151",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "rideHeight": "244",
+                    "rideHeightMin": "244",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

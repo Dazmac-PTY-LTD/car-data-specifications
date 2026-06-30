@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-22 15:10:19",
+  "name": "O.S.C.A.",
+  "id": "24",
+  "models": {
+    "model": [
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "2500 GT",
+        "id": "302",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2500 GT",
+              "modelYear": "2001",
+              "id": "637",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2784",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "O.S.C.A.",
+                    "model": "2500 GT",
+                    "generation": "2500 GT",
+                    "engine": "2.5 i 16V (190 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/6000",
+                    "powerHp": "190",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1999",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4090",
+                    "width": "1760",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "680",
+                    "curbWeightMin": "680"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

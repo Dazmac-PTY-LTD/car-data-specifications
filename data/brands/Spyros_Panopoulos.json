@@ -1,0 +1,73 @@
+{
+  "update": "2022-06-13 10:44:33",
+  "name": "Spyros Panopoulos",
+  "id": "312",
+  "models": {
+    "model": [
+      {
+        "update": "2022-06-13 10:52:11",
+        "name": "Chaos",
+        "id": "3129",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-06-13 10:52:59",
+              "name": "Chaos",
+              "modelYear": "2022",
+              "id": "8910",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45958",
+                    "update": "2022-06-13 15:52:30",
+                    "brand": "Spyros Panopoulos",
+                    "model": "Chaos",
+                    "generation": "Chaos",
+                    "engine": "Earth Version 4.0 V10 (2049 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "2049",
+                    "powerHp": "2049",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5053",
+                    "width": "2068",
+                    "height": "1121",
+                    "heightMin": "1121",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1388",
+                    "curbWeightMin": "1388"
+                  },
+                  {
+                    "id": "45959",
+                    "update": "2022-06-13 15:52:30",
+                    "brand": "Spyros Panopoulos",
+                    "model": "Chaos",
+                    "generation": "Chaos",
+                    "engine": "Zero Gravity 4.0 V10 (3065 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "3065",
+                    "powerHp": "3065",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5053",
+                    "width": "2068",
+                    "height": "1121",
+                    "heightMin": "1121",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1272",
+                    "curbWeightMin": "1272"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

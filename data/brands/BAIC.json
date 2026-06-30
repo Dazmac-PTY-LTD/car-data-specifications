@@ -1,0 +1,748 @@
+{
+  "update": "2025-03-28 16:02:37",
+  "name": "BAIC",
+  "id": "61",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-09 11:01:51",
+        "name": "BJ 2020",
+        "id": "701",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-28 16:00:29",
+              "name": "BJ 2020",
+              "modelYear": "1989",
+              "id": "1480",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6516",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "BAIC",
+                    "model": "BJ 2020",
+                    "generation": "BJ 2020",
+                    "engine": "2.4 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/4800",
+                    "powerHp": "106",
+                    "powerRpm": "4800",
+                    "powerRpmLow": "4800",
+                    "yearstart": "1989",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4070",
+                    "width": "1780",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  },
+                  {
+                    "id": "6517",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "BAIC",
+                    "model": "BJ 2020",
+                    "generation": "BJ 2020",
+                    "engine": "2.4 (87 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/3800",
+                    "powerHp": "87",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "1989",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4070",
+                    "width": "1780",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-04 10:55:20",
+        "name": "Senova D50",
+        "id": "2757",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senova D50 II",
+              "modelYear": "2018",
+              "id": "7411",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38857",
+                    "update": "2023-08-21 10:51:30",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 II",
+                    "engine": "1.5i (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1820",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215",
+                    "curbWeightMin": "1215"
+                  },
+                  {
+                    "id": "38858",
+                    "update": "2023-08-21 10:51:28",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 II",
+                    "engine": "1.5i (116 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116",
+                    "powerHp": "116",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1820",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1240",
+                    "curbWeightMin": "1240"
+                  },
+                  {
+                    "id": "38859",
+                    "update": "2023-08-21 11:02:17",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 II",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1820",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1281",
+                    "curbWeightMin": "1281"
+                  },
+                  {
+                    "id": "38860",
+                    "update": "2023-08-21 11:02:18",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 II",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2019",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4630",
+                    "width": "1820",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1281-1288",
+                    "curbWeightMin": "1281",
+                    "curbWeightMax": "1288"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senova D50 I",
+              "modelYear": "2014",
+              "id": "7410",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38855",
+                    "update": "2023-08-21 11:18:04",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 I",
+                    "engine": "1.5i (113 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6000",
+                    "powerHp": "113",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4582",
+                    "width": "1794",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  },
+                  {
+                    "id": "38856",
+                    "update": "2023-08-21 11:18:03",
+                    "brand": "BAIC",
+                    "model": "Senova D50",
+                    "generation": "Senova D50 I",
+                    "engine": "1.5i (113 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "113/6000",
+                    "powerHp": "113",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4582",
+                    "width": "1794",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1321",
+                    "curbWeightMin": "1321"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-10 15:40:12",
+        "name": "Senova X55",
+        "id": "2777",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senova X55 II BJEV EX5",
+              "modelYear": "2019",
+              "id": "7540",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38996",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "BAIC",
+                    "model": "Senova X55",
+                    "generation": "Senova X55 II BJEV EX5",
+                    "engine": "61.8 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4480",
+                    "width": "1837",
+                    "height": "1673",
+                    "heightMin": "1673",
+                    "fuel": "Electricity",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senova X55 II",
+              "modelYear": "2018",
+              "id": "7539",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38993",
+                    "update": "2023-08-21 11:02:26",
+                    "brand": "BAIC",
+                    "model": "Senova X55",
+                    "generation": "Senova X55 II",
+                    "engine": "1.5T (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6000",
+                    "powerHp": "150",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4480",
+                    "width": "1837",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  },
+                  {
+                    "id": "38994",
+                    "update": "2023-08-21 11:02:24",
+                    "brand": "BAIC",
+                    "model": "Senova X55",
+                    "generation": "Senova X55 II",
+                    "engine": "1.5T (150 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6000",
+                    "powerHp": "150",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4480",
+                    "width": "1837",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1431",
+                    "curbWeightMin": "1431"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Senova X55 I",
+              "modelYear": "2016",
+              "id": "7538",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38990",
+                    "update": "2023-08-21 11:02:25",
+                    "brand": "BAIC",
+                    "model": "Senova X55",
+                    "generation": "Senova X55 I",
+                    "engine": "1.5T (148 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "148/6000",
+                    "powerHp": "148",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "yearstop": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1809",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  },
+                  {
+                    "id": "38992",
+                    "update": "2023-08-21 11:02:24",
+                    "brand": "BAIC",
+                    "model": "Senova X55",
+                    "generation": "Senova X55 I",
+                    "engine": "1.5T (148 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "148/6000",
+                    "powerHp": "148",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2016",
+                    "yearstop": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4405",
+                    "width": "1809",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1431",
+                    "curbWeightMin": "1431"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 11:11:20",
+        "name": "BJ30",
+        "id": "3598",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-27 15:52:22",
+              "name": "BJ30 II",
+              "modelYear": "2024",
+              "id": "10425",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54032",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "BAIC",
+                    "model": "BJ30",
+                    "generation": "BJ30 II",
+                    "engine": "e 1.5T (409 Hp) Hybrid 4WD DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "158/5000",
+                    "powerHp": "158",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1910",
+                    "height": "1790",
+                    "heightMin": "1790",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  },
+                  {
+                    "id": "54033",
+                    "update": "2025-03-31 16:13:25",
+                    "brand": "BAIC",
+                    "model": "BJ30",
+                    "generation": "BJ30 II",
+                    "engine": "1.5TD (185 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185",
+                    "powerHp": "185",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1910",
+                    "height": "1790",
+                    "heightMin": "1790",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1575-1600",
+                    "curbWeightMin": "1575",
+                    "curbWeightMax": "1600"
+                  },
+                  {
+                    "id": "54034",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "BAIC",
+                    "model": "BJ30",
+                    "generation": "BJ30 II",
+                    "engine": "e 1.5T (334 Hp) Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "158/5000",
+                    "powerHp": "158",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4730",
+                    "width": "1910",
+                    "height": "1790",
+                    "heightMin": "1790",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 11:18:14",
+        "name": "BJ60",
+        "id": "3599",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 11:18:28",
+              "name": "BJ60",
+              "modelYear": "2022",
+              "id": "10426",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54035",
+                    "update": "2025-03-31 16:13:25",
+                    "brand": "BAIC",
+                    "model": "BJ60",
+                    "generation": "BJ60",
+                    "engine": "2.0T (267 Hp) Mild Hybrid 4WD Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "267/5600",
+                    "powerHp": "267",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "5040",
+                    "width": "1955",
+                    "height": "1925",
+                    "heightMin": "1925",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2200-2474",
+                    "curbWeightMin": "2200",
+                    "curbWeightMax": "2474"
+                  },
+                  {
+                    "id": "54036",
+                    "update": "2025-03-31 16:13:25",
+                    "brand": "BAIC",
+                    "model": "BJ60",
+                    "generation": "BJ60",
+                    "engine": "2.0 TDI (163 Hp) Mild Hybrid 4WD Automatic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "163/3600",
+                    "powerHp": "163",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "5040",
+                    "width": "1955",
+                    "height": "1925",
+                    "heightMin": "1925",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Diesel",
+                    "curbWeight": "2400-2450",
+                    "curbWeightMin": "2400",
+                    "curbWeightMax": "2450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 11:27:42",
+        "name": "X55",
+        "id": "3600",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-27 15:51:47",
+              "name": "X55",
+              "modelYear": "2023",
+              "id": "10427",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54031",
+                    "update": "2025-03-31 16:13:25",
+                    "brand": "BAIC",
+                    "model": "X55",
+                    "generation": "X55",
+                    "engine": "1.5T (185 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/5500",
+                    "powerHp": "185",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1886",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550-1665",
+                    "curbWeightMin": "1550",
+                    "curbWeightMax": "1665"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 11:32:27",
+        "name": "X75",
+        "id": "3601",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 11:32:40",
+              "name": "X75 (facelift 2023)",
+              "modelYear": "2023",
+              "id": "10428",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54040",
+                    "update": "2025-04-01 16:17:23",
+                    "brand": "BAIC",
+                    "model": "X75",
+                    "generation": "X75 (facelift 2023)",
+                    "engine": "1.5T (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4745",
+                    "width": "1892",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1665-1740",
+                    "curbWeightMin": "1665",
+                    "curbWeightMax": "1740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-06-19 14:50:08",
+        "name": "BJ41",
+        "id": "4053",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-06-19 14:50:27",
+              "name": "BJ41",
+              "modelYear": "2026",
+              "id": "11321",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57315",
+                    "update": "2026-06-19 16:18:02",
+                    "brand": "BAIC",
+                    "model": "BJ41",
+                    "generation": "BJ41",
+                    "engine": "2.0 TDi (161 Hp) AWD ZF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "161",
+                    "powerHp": "161",
+                    "yearstart": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1940",
+                    "height": "1895",
+                    "heightMin": "1895",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57316",
+                    "update": "2026-06-19 16:18:02",
+                    "brand": "BAIC",
+                    "model": "BJ41",
+                    "generation": "BJ41",
+                    "engine": "e 1.5T (540 Hp) REEV AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4790",
+                    "width": "1940",
+                    "height": "1964",
+                    "heightMin": "1964",
+                    "rideHeight": "215",
+                    "rideHeightMin": "215",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

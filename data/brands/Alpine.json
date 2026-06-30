@@ -1,0 +1,928 @@
+{
+  "update": "2020-10-26 13:44:51",
+  "name": "Alpine",
+  "id": "21",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-14 09:46:41",
+        "name": "1300",
+        "id": "263",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:08:16",
+              "name": "1300",
+              "modelYear": "1967",
+              "id": "576",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2611",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1300",
+                    "generation": "1300",
+                    "engine": "1.3 (81 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "81",
+                    "powerHp": "81",
+                    "yearstart": "1970",
+                    "yearstop": "1973",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2612",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1300",
+                    "generation": "1300",
+                    "engine": "1.3 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1974",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2613",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1300",
+                    "generation": "1300",
+                    "engine": "1.3 G (103 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "103",
+                    "powerHp": "103",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2614",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1300",
+                    "generation": "1300",
+                    "engine": "1.3 S (132 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132",
+                    "powerHp": "132",
+                    "yearstart": "1970",
+                    "yearstop": "1972",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-26 13:44:51",
+        "name": "A110",
+        "id": "264",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-11-07 11:40:15",
+              "name": "A110 E-ternite (Prototype)",
+              "modelYear": "2022",
+              "id": "9089",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46826",
+                    "update": "2022-12-14 14:39:41",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 E-ternite (Prototype)",
+                    "engine": "60 kWh (242 Hp) DCT",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Electricity",
+                    "curbWeight": "1378",
+                    "curbWeightMin": "1378"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-07 11:39:32",
+              "name": "A110 (2017)",
+              "modelYear": "2018",
+              "id": "6025",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32274",
+                    "update": "2023-05-15 14:37:47",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "1.8 (252 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/6000",
+                    "powerHp": "252",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4180",
+                    "width": "1798",
+                    "height": "1252",
+                    "heightMin": "1252",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1103",
+                    "curbWeightMin": "1103"
+                  },
+                  {
+                    "id": "37288",
+                    "update": "2023-05-15 14:37:41",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "S 1.8 (292 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "292/6400",
+                    "powerHp": "292",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4180",
+                    "width": "1798",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1114",
+                    "curbWeightMin": "1114"
+                  },
+                  {
+                    "id": "39308",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "Legende GT 1.8 (252 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/6000",
+                    "powerHp": "252",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4180",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1252",
+                    "heightMin": "1252",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1123",
+                    "curbWeightMin": "1123"
+                  },
+                  {
+                    "id": "45123",
+                    "update": "2023-05-15 14:32:34",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "1.8 (252 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252/6000",
+                    "powerHp": "252",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4181",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1252",
+                    "heightMin": "1252",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1102-1140",
+                    "curbWeightMin": "1102",
+                    "curbWeightMax": "1140"
+                  },
+                  {
+                    "id": "45124",
+                    "update": "2026-01-28 11:32:24",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "GT 1.8 (300 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4181",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1252",
+                    "heightMin": "1252",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1119-1140",
+                    "curbWeightMin": "1119",
+                    "curbWeightMax": "1140"
+                  },
+                  {
+                    "id": "45125",
+                    "update": "2026-01-28 11:32:20",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "S 1.8 (300 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4181",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1252",
+                    "heightMin": "1252",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1109-1140",
+                    "curbWeightMin": "1109",
+                    "curbWeightMax": "1140"
+                  },
+                  {
+                    "id": "48449",
+                    "update": "2026-01-28 12:49:27",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "R 1.8 (300 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4256",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1238",
+                    "heightMin": "1238",
+                    "rideHeight": "106",
+                    "rideHeightMin": "106",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1082",
+                    "curbWeightMin": "1082"
+                  },
+                  {
+                    "id": "56258",
+                    "update": "2026-01-28 14:13:26",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "GTS 1.8 (300 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4181",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "rideHeight": "116",
+                    "rideHeightMin": "116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1108-1145",
+                    "curbWeightMin": "1108",
+                    "curbWeightMax": "1145"
+                  },
+                  {
+                    "id": "56259",
+                    "update": "2026-01-28 14:13:26",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 (2017)",
+                    "engine": "GTS Aero Kit 1.8 (300 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4256",
+                    "width": "1798",
+                    "widthOpenedMirrors": "1980",
+                    "height": "1248",
+                    "heightMin": "1248",
+                    "rideHeight": "116",
+                    "rideHeightMin": "116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1108-1145",
+                    "curbWeightMin": "1108",
+                    "curbWeightMax": "1145"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-11-07 11:39:32",
+              "name": "A110 Berlinette",
+              "modelYear": "1962",
+              "id": "577",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2615",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 Berlinette",
+                    "engine": "1100 (L) (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1968",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2616",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 Berlinette",
+                    "engine": "1300 (L) (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "1968",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2617",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 Berlinette",
+                    "engine": "1500 (L) (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70",
+                    "powerHp": "70",
+                    "yearstart": "1966",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2618",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A110",
+                    "generation": "A110 Berlinette",
+                    "engine": "1500 (L) (90 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "1966",
+                    "yearstop": "1970",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-14 10:06:27",
+        "name": "A610",
+        "id": "265",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "A610",
+              "modelYear": "1991",
+              "id": "578",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2619",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Alpine",
+                    "model": "A610",
+                    "generation": "A610",
+                    "engine": "3.0 i V6 Turbo (250 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "250/5750",
+                    "powerHp": "250",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1991",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4410",
+                    "width": "1760",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-14 10:25:56",
+        "name": "Berlinette",
+        "id": "266",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:09:33",
+              "name": "Berlinette",
+              "modelYear": "1977",
+              "id": "579",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2620",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "Berlinette",
+                    "generation": "Berlinette",
+                    "engine": "1300 (68 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "68",
+                    "powerHp": "68",
+                    "yearstart": "1976",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2621",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "Berlinette",
+                    "generation": "Berlinette",
+                    "engine": "1600 SX (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1976",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-04-13 10:32:07",
+        "name": "GTA",
+        "id": "267",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-04-13 10:33:41",
+              "name": "GTA",
+              "modelYear": "1984",
+              "id": "580",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2622",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "GTA",
+                    "generation": "GTA",
+                    "engine": "2.5 TURBO V6 (185 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185",
+                    "powerHp": "185",
+                    "yearstart": "1985",
+                    "yearstop": "1990",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2623",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "GTA",
+                    "generation": "GTA",
+                    "engine": "2.5 TURBO V6 (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200",
+                    "powerHp": "200",
+                    "yearstart": "1988",
+                    "yearstop": "1990",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2624",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "GTA",
+                    "generation": "GTA",
+                    "engine": "2.9 GT V6 (160 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "1985",
+                    "yearstop": "1990",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-14 09:52:26",
+        "name": "1600",
+        "id": "268",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:08:35",
+              "name": "1600",
+              "modelYear": "1970",
+              "id": "581",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2625",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1600",
+                    "generation": "1600",
+                    "engine": "1.6 (102 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "102",
+                    "powerHp": "102",
+                    "yearstart": "1970",
+                    "yearstop": "1971",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2626",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1600",
+                    "generation": "1600",
+                    "engine": "1.6 S (138 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "138",
+                    "powerHp": "138",
+                    "yearstart": "1969",
+                    "yearstop": "1973",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2627",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1600",
+                    "generation": "1600",
+                    "engine": "1.6 SC-SI (127 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "127",
+                    "powerHp": "127",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2628",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "1600",
+                    "generation": "1600",
+                    "engine": "1.6 SC-SI (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140",
+                    "powerHp": "140",
+                    "yearstart": "1973",
+                    "yearstop": "1975",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-14 09:54:25",
+        "name": "A310",
+        "id": "269",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:09:10",
+              "name": "A310",
+              "modelYear": "1971",
+              "id": "582",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2629",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A310",
+                    "generation": "A310",
+                    "engine": "1.6 (127 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "127",
+                    "powerHp": "127",
+                    "yearstart": "1971",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2630",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A310",
+                    "generation": "A310",
+                    "engine": "1.6 Injection (127 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "127",
+                    "powerHp": "127",
+                    "yearstart": "1976",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2631",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Alpine",
+                    "model": "A310",
+                    "generation": "A310",
+                    "engine": "1.7 (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "1971",
+                    "yearstop": "1977",
+                    "coupe": "Coupe",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "2632",
+                    "update": "2022-06-02 15:56:42",
+                    "brand": "Alpine",
+                    "model": "A310",
+                    "generation": "A310",
+                    "engine": "2.7 V6 (150 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/6000",
+                    "powerHp": "150",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1976",
+                    "yearstop": "1984",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-14 09:22:18",
+        "name": "A290",
+        "id": "3451",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-14 09:23:02",
+              "name": "A290",
+              "modelYear": "2025",
+              "id": "10056",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52031",
+                    "update": "2024-06-14 16:20:09",
+                    "brand": "Alpine",
+                    "model": "A290",
+                    "generation": "A290",
+                    "engine": "GT 52 kWh (177 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1820",
+                    "widthOpenedMirrors": "2020",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": "1479",
+                    "curbWeightMin": "1479"
+                  },
+                  {
+                    "id": "52032",
+                    "update": "2024-06-14 16:20:09",
+                    "brand": "Alpine",
+                    "model": "A290",
+                    "generation": "A290",
+                    "engine": "GTS 52 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1820",
+                    "widthOpenedMirrors": "2020",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": "1479",
+                    "curbWeightMin": "1479"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-25 13:25:08",
+        "name": "A390",
+        "id": "3519",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-28 09:35:58",
+              "name": "A390",
+              "modelYear": "2026",
+              "id": "10574",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54413",
+                    "update": "2025-05-28 14:18:18",
+                    "brand": "Alpine",
+                    "model": "A390",
+                    "generation": "A390",
+                    "engine": "GT 89 kWh (401 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1885",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "rideHeight": "152",
+                    "rideHeightMin": "152",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "54414",
+                    "update": "2025-05-28 14:18:18",
+                    "brand": "Alpine",
+                    "model": "A390",
+                    "generation": "A390",
+                    "engine": "GTS 89 kWh (469 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1885",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "rideHeight": "152",
+                    "rideHeightMin": "152",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "1",
+              "update": "2025-05-28 09:36:04",
+              "name": "A390_\u03b2 concept",
+              "modelYear": "2024",
+              "id": "10236",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

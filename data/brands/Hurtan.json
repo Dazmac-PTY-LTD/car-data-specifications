@@ -1,0 +1,177 @@
+{
+  "update": "2019-08-30 16:32:38",
+  "name": "Hurtan",
+  "id": "142",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-30 16:32:38",
+        "name": "Albaycin",
+        "id": "1430",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Albaycin",
+              "modelYear": "1997",
+              "id": "2867",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13310",
+                    "update": "2023-08-17 11:10:41",
+                    "brand": "Hurtan",
+                    "model": "Albaycin",
+                    "generation": "Albaycin",
+                    "engine": "1.6 16V (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "1997",
+                    "yearstop": "2007",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1625",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Cabriolet",
+        "id": "1431",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:47:55",
+              "name": "Cabriolet 2+2",
+              "modelYear": "2004",
+              "id": "2868",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13311",
+                    "update": "2023-08-17 11:10:42",
+                    "brand": "Hurtan",
+                    "model": "Cabriolet",
+                    "generation": "Cabriolet 2+2",
+                    "engine": "1.6 16V (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "2004",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1625",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-19 14:27:05",
+        "name": "Grand Albaycin",
+        "id": "1432",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Grand Albaycin",
+              "modelYear": "2008",
+              "id": "2869",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "13312",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hurtan",
+                    "model": "Grand Albaycin",
+                    "generation": "Grand Albaycin",
+                    "engine": "1.6 16 V (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "2008",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1625",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "13313",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hurtan",
+                    "model": "Grand Albaycin",
+                    "generation": "Grand Albaycin",
+                    "engine": "2.0 16V (178 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "178/",
+                    "powerHp": "178",
+                    "yearstart": "2008",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1625",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  },
+                  {
+                    "id": "13314",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Hurtan",
+                    "model": "Grand Albaycin",
+                    "generation": "Grand Albaycin",
+                    "engine": "2.0 16V (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/",
+                    "powerHp": "200",
+                    "yearstart": "2008",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4100",
+                    "width": "1625",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

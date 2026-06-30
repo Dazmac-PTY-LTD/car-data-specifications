@@ -1,0 +1,920 @@
+{
+  "update": "2025-02-11 09:49:26",
+  "name": "Deepal",
+  "id": "345",
+  "models": {
+    "model": [
+      {
+        "update": "2025-02-11 11:45:46",
+        "name": "S07",
+        "id": "3566",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-11 15:24:23",
+              "name": "S07 (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10369",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53685",
+                    "update": "2026-01-09 12:32:13",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "1.5L 31.73 kWh (238 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53686",
+                    "update": "2026-01-09 12:31:34",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "1.5L 39.05 kWh (258 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53687",
+                    "update": "2026-01-09 12:30:59",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "68.82 kWh (258 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56079",
+                    "update": "2026-01-09 16:16:18",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "1.5L 31.73 kWh (258 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98/5600",
+                    "powerHp": "98",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56080",
+                    "update": "2026-01-09 16:16:18",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "1.5L 39.05 kWh (272 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98/5600",
+                    "powerHp": "98",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56081",
+                    "update": "2026-01-09 16:16:18",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "68.82 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "56082",
+                    "update": "2026-01-09 16:16:18",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S07 (facelift 2024)",
+                    "engine": "77.94 kWh (258 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-02-11 11:46:16",
+              "name": "S7",
+              "modelYear": "2023",
+              "id": "10368",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53676",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S7",
+                    "engine": "1.5L 19 kWh (238 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95/5000",
+                    "powerHp": "95",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1895",
+                    "curbWeightMin": "1895"
+                  },
+                  {
+                    "id": "53677",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S7",
+                    "engine": "1.5L 31.7 kWh (238 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95/5000",
+                    "powerHp": "95",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  },
+                  {
+                    "id": "53678",
+                    "update": "2025-08-22 12:49:39",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S7",
+                    "engine": "80 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": "2035",
+                    "curbWeightMin": "2035"
+                  },
+                  {
+                    "id": "53679",
+                    "update": "2025-08-22 12:49:29",
+                    "brand": "Deepal",
+                    "model": "S07",
+                    "generation": "S7",
+                    "engine": "66.8 kWh (258 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4750",
+                    "width": "1930",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "fuel": "Electricity",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-13 12:47:56",
+        "name": "S05",
+        "id": "3569",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-13 12:48:31",
+              "name": "S05",
+              "modelYear": "2025",
+              "id": "10373",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53697",
+                    "update": "2025-08-22 12:48:45",
+                    "brand": "Deepal",
+                    "model": "S05",
+                    "generation": "S05",
+                    "engine": "1.5L 27.28 kWh (218 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98",
+                    "powerHp": "98",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2210",
+                    "curbWeightMin": "2210"
+                  },
+                  {
+                    "id": "53698",
+                    "update": "2025-08-22 12:48:56",
+                    "brand": "Deepal",
+                    "model": "S05",
+                    "generation": "S05",
+                    "engine": "56.12 kWh (238 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55471",
+                    "update": "2025-09-30 17:00:00",
+                    "brand": "Deepal",
+                    "model": "S05",
+                    "generation": "S05",
+                    "engine": "68.8 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4598",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
+                  },
+                  {
+                    "id": "55472",
+                    "update": "2025-09-30 17:00:00",
+                    "brand": "Deepal",
+                    "model": "S05",
+                    "generation": "S05",
+                    "engine": "68.8 kWh (435 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4598",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  },
+                  {
+                    "id": "55599",
+                    "update": "2025-10-22 13:36:15",
+                    "brand": "Deepal",
+                    "model": "S05",
+                    "generation": "S05",
+                    "engine": "56.12 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-17 13:33:03",
+        "name": "SL03",
+        "id": "3570",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-17 13:33:32",
+              "name": "SL03",
+              "modelYear": "2022",
+              "id": "10376",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53712",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "SL03",
+                    "generation": "SL03",
+                    "engine": "1.5L 18.99 kWh (238 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "2022",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53713",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "SL03",
+                    "generation": "SL03",
+                    "engine": "1.5L 28.39 kWh (218 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "95",
+                    "powerHp": "95",
+                    "yearstart": "2022",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53714",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "SL03",
+                    "generation": "SL03",
+                    "engine": "56.1 kWh (258 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53715",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "SL03",
+                    "generation": "SL03",
+                    "engine": "58.1 kWh (258 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-18 11:09:28",
+        "name": "L07",
+        "id": "3571",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-18 11:09:59",
+              "name": "L07",
+              "modelYear": "2025",
+              "id": "10378",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53721",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "L07",
+                    "generation": "L07",
+                    "engine": "56.12 kWh (252 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4875",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53722",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "L07",
+                    "generation": "L07",
+                    "engine": "1.5L 28.39 kWh (218 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98/5600",
+                    "powerHp": "98",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4875",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53723",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "L07",
+                    "generation": "L07",
+                    "engine": "1.5L 35.07 kWh (258 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "98/5600",
+                    "powerHp": "98",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4875",
+                    "width": "1890",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-19 09:53:34",
+        "name": "G318",
+        "id": "3572",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-19 09:54:33",
+              "name": "G318",
+              "modelYear": "2024",
+              "id": "10381",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53728",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Deepal",
+                    "model": "G318",
+                    "generation": "G318",
+                    "engine": "1.5T 18.99 kWh (252 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1985",
+                    "height": "1895",
+                    "heightMin": "1895",
+                    "rideHeight": "210",
+                    "rideHeightMin": "210",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53729",
+                    "update": "2025-08-22 12:47:51",
+                    "brand": "Deepal",
+                    "model": "G318",
+                    "generation": "G318",
+                    "engine": "1.5T 35.07 kWh (252 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1985",
+                    "height": "1895",
+                    "heightMin": "1895",
+                    "rideHeight": "210-240",
+                    "rideHeightMin": "210",
+                    "rideHeightMax": "240",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53730",
+                    "update": "2025-08-22 12:47:40",
+                    "brand": "Deepal",
+                    "model": "G318",
+                    "generation": "G318",
+                    "engine": "1.5T 35.07 kWh (430 Hp) 4WD Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5010",
+                    "width": "1985",
+                    "height": "1895-1960",
+                    "heightMin": "1895",
+                    "heightMax": "1960",
+                    "rideHeight": "210-240",
+                    "rideHeightMin": "210",
+                    "rideHeightMax": "240",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-14 14:06:49",
+        "name": "E07",
+        "id": "3767",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-14 14:07:35",
+              "name": "E07",
+              "modelYear": "2025",
+              "id": "10736",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55112",
+                    "update": "2025-08-22 12:46:52",
+                    "brand": "Deepal",
+                    "model": "E07",
+                    "generation": "E07",
+                    "engine": "89.98 kWh (343 Hp) Electric RWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5045",
+                    "width": "1996",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "133-223",
+                    "rideHeightMin": "133",
+                    "rideHeightMax": "223",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "55113",
+                    "update": "2025-08-22 12:47:03",
+                    "brand": "Deepal",
+                    "model": "E07",
+                    "generation": "E07",
+                    "engine": "89.98 kWh (598 Hp) Electric AWD Performance",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5045",
+                    "width": "1996",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "133-223",
+                    "rideHeightMin": "133",
+                    "rideHeightMax": "223",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-04 10:04:25",
+        "name": "S09",
+        "id": "3793",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-04 10:07:29",
+              "name": "S09",
+              "modelYear": "2025",
+              "id": "10784",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55282",
+                    "update": "2025-09-04 16:11:01",
+                    "brand": "Deepal",
+                    "model": "S09",
+                    "generation": "S09",
+                    "engine": "1.5T 40.18 kWh (314 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1996",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2510-2590",
+                    "curbWeightMin": "2510",
+                    "curbWeightMax": "2590"
+                  },
+                  {
+                    "id": "55283",
+                    "update": "2025-09-04 16:11:01",
+                    "brand": "Deepal",
+                    "model": "S09",
+                    "generation": "S09",
+                    "engine": "1.5T 40.18 kWh (492 Hp) 4WD Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150/5000",
+                    "powerHp": "150",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "1996",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2668",
+                    "curbWeightMin": "2668"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-05 10:58:29",
+        "name": "Hunter K50",
+        "id": "3794",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-05 10:58:44",
+              "name": "Hunter K50",
+              "modelYear": "2025",
+              "id": "10789",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55292",
+                    "update": "2025-09-05 16:08:08",
+                    "brand": "Deepal",
+                    "model": "Hunter K50",
+                    "generation": "Hunter K50",
+                    "engine": "2.0 T-GDI 31.18 kWh (272 Hp) REEV AWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "190",
+                    "powerHp": "190",
+                    "yearstart": "2025",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5380",
+                    "width": "1980",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "rideHeight": "220",
+                    "rideHeightMin": "220",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-11-19 09:08:00",
+        "name": "L06",
+        "id": "3886",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-19 09:08:22",
+              "name": "L06",
+              "modelYear": "2026",
+              "id": "10943",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55809",
+                    "update": "2025-11-19 14:11:03",
+                    "brand": "Deepal",
+                    "model": "L06",
+                    "generation": "L06",
+                    "engine": "56.12 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4830",
+                    "width": "1905",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  },
+                  {
+                    "id": "55810",
+                    "update": "2025-11-19 14:11:03",
+                    "brand": "Deepal",
+                    "model": "L06",
+                    "generation": "L06",
+                    "engine": "68.82 kWh (272 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4830",
+                    "width": "1905",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "fuel": "Electricity",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

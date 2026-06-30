@@ -1,0 +1,384 @@
+{
+  "update": "2019-05-22 15:10:17",
+  "name": "Jiangling",
+  "id": "18",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 10:48:45",
+        "name": "Yusheng",
+        "id": "231",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Yusheng S330",
+              "modelYear": "2017",
+              "id": "482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1725",
+                    "update": "2022-10-05 14:35:05",
+                    "brand": "Jiangling",
+                    "model": "Yusheng",
+                    "generation": "Yusheng S330",
+                    "engine": "1.5 (163 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5400-5700",
+                    "powerHp": "163",
+                    "powerRpm": "5400-5700",
+                    "powerRpmLow": "5400",
+                    "powerRpmHigh": "5700",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4588",
+                    "width": "1932",
+                    "height": "1676",
+                    "heightMin": "1676",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1465",
+                    "curbWeightMin": "1465"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Yusheng S350",
+              "modelYear": "2011",
+              "id": "6180",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "1726",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yusheng",
+                    "generation": "Yusheng S350",
+                    "engine": "2.4 (136 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136",
+                    "powerHp": "136",
+                    "yearstart": "2011",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1895",
+                    "height": "1862",
+                    "heightMin": "1862",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  },
+                  {
+                    "id": "1727",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yusheng",
+                    "generation": "Yusheng S350",
+                    "engine": "2.4 (136 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136",
+                    "powerHp": "136",
+                    "yearstart": "2011",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1895",
+                    "height": "1862",
+                    "heightMin": "1862",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  },
+                  {
+                    "id": "1728",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yusheng",
+                    "generation": "Yusheng S350",
+                    "engine": "2.4d (125 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2011",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1895",
+                    "height": "1862",
+                    "heightMin": "1862",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Diesel",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  },
+                  {
+                    "id": "1729",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yusheng",
+                    "generation": "Yusheng S350",
+                    "engine": "2.4d (125 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125",
+                    "powerHp": "125",
+                    "yearstart": "2011",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1895",
+                    "height": "1862",
+                    "heightMin": "1862",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Diesel",
+                    "curbWeight": "1855",
+                    "curbWeightMin": "1855"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 10:46:53",
+        "name": "Yuhu",
+        "id": "2388",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Yuhu",
+              "modelYear": "2016",
+              "id": "6181",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32907",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yuhu",
+                    "generation": "Yuhu",
+                    "engine": "2.4d (122 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1828",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Diesel",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  },
+                  {
+                    "id": "32908",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yuhu",
+                    "generation": "Yuhu",
+                    "engine": "2.4d (122 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "122",
+                    "powerHp": "122",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1828",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Diesel",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  },
+                  {
+                    "id": "32910",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yuhu",
+                    "generation": "Yuhu",
+                    "engine": "2.4i (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136",
+                    "powerHp": "136",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1828",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  },
+                  {
+                    "id": "32911",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Jiangling",
+                    "model": "Yuhu",
+                    "generation": "Yuhu",
+                    "engine": "2.4i (136 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136",
+                    "powerHp": "136",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5325",
+                    "width": "1828",
+                    "height": "1745",
+                    "heightMin": "1745",
+                    "rideHeight": "225",
+                    "rideHeightMin": "225",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2580",
+                    "curbWeightMin": "2580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 10:46:12",
+        "name": "E-series",
+        "id": "2391",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "E200",
+              "modelYear": "2016",
+              "id": "6186",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32914",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Jiangling",
+                    "model": "E-series",
+                    "generation": "E200",
+                    "engine": "17.3 kWh (41 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3580",
+                    "width": "1570",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "102",
+                    "rideHeightMin": "102",
+                    "fuel": "Electricity",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "E160",
+              "modelYear": "2017",
+              "id": "6185",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32913",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Jiangling",
+                    "model": "E-series",
+                    "generation": "E160",
+                    "engine": "19.2 kWh (20 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2017",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3994",
+                    "width": "1626",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "E100",
+              "modelYear": "2016",
+              "id": "6184",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32912",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Jiangling",
+                    "model": "E-series",
+                    "generation": "E100",
+                    "engine": "15 kWh (27 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3427",
+                    "width": "1565",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Electricity",
+                    "curbWeight": "825",
+                    "curbWeightMin": "825"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "update": "2019-05-22 15:10:15",
+  "name": "Geo",
+  "id": "92",
+  "models": {
+    "model": [
+      {
+        "update": "2019-11-20 14:54:49",
+        "name": "Metro",
+        "id": "986",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Metro Sedan",
+              "modelYear": "1995",
+              "id": "7425",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10162",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Geo",
+                    "model": "Metro",
+                    "generation": "Metro Sedan",
+                    "engine": "1.3 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1995",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4166",
+                    "width": "1590",
+                    "height": "1407",
+                    "heightMin": "1407",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "826",
+                    "curbWeightMin": "826"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Metro",
+              "modelYear": "1989",
+              "id": "2081",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10160",
+                    "update": "2023-10-26 11:50:11",
+                    "brand": "Geo",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.0 (55 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "55/5700",
+                    "powerHp": "55",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1989",
+                    "yearstop": "1996",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3745",
+                    "width": "1575",
+                    "height": "1330",
+                    "heightMin": "1330",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "750",
+                    "curbWeightMin": "750"
+                  },
+                  {
+                    "id": "10161",
+                    "update": "2023-10-26 11:48:21",
+                    "brand": "Geo",
+                    "model": "Metro",
+                    "generation": "Metro",
+                    "engine": "1.3 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5500",
+                    "powerHp": "70",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1989",
+                    "yearstop": "1995",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3795",
+                    "width": "1575",
+                    "height": "1390",
+                    "heightMin": "1390",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "826",
+                    "curbWeightMin": "826"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:40:29",
+        "name": "Prizm",
+        "id": "987",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Prizm",
+              "modelYear": "1989",
+              "id": "2082",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10163",
+                    "update": "2023-08-18 08:13:05",
+                    "brand": "Geo",
+                    "model": "Prizm",
+                    "generation": "Prizm",
+                    "engine": "1.6 16V (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/6000",
+                    "powerHp": "106",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1991",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4395",
+                    "width": "1685",
+                    "height": "1355",
+                    "heightMin": "1355",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1070",
+                    "curbWeightMin": "1070"
+                  },
+                  {
+                    "id": "10164",
+                    "update": "2023-08-18 08:13:08",
+                    "brand": "Geo",
+                    "model": "Prizm",
+                    "generation": "Prizm",
+                    "engine": "1.8 16V (115 Hp) LSi",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/",
+                    "powerHp": "115",
+                    "yearstart": "1991",
+                    "yearstop": "1997",
+                    "coupe": "Sedan",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2017-04-18 16:34:05",
+        "name": "Spectrum",
+        "id": "988",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Spectrum",
+              "modelYear": "1989",
+              "id": "2083",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10165",
+                    "update": "2023-08-17 16:31:51",
+                    "brand": "Geo",
+                    "model": "Spectrum",
+                    "generation": "Spectrum",
+                    "engine": "1.8i 16V (142 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "142/6400",
+                    "powerHp": "142",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4195",
+                    "width": "1680",
+                    "height": "1370",
+                    "heightMin": "1370",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:44:04",
+        "name": "Storm",
+        "id": "989",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Storm",
+              "modelYear": "1990",
+              "id": "2084",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10166",
+                    "update": "2023-08-17 16:03:52",
+                    "brand": "Geo",
+                    "model": "Storm",
+                    "generation": "Storm",
+                    "engine": "1.6i 12V (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/5800",
+                    "powerHp": "95",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4150",
+                    "width": "1695",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1035",
+                    "curbWeightMin": "1035"
+                  },
+                  {
+                    "id": "10167",
+                    "update": "2023-08-17 16:05:51",
+                    "brand": "Geo",
+                    "model": "Storm",
+                    "generation": "Storm",
+                    "engine": "1.6i Turbo (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130",
+                    "powerHp": "130",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4150",
+                    "width": "1695",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1010",
+                    "curbWeightMin": "1010"
+                  },
+                  {
+                    "id": "10168",
+                    "update": "2023-08-17 16:05:51",
+                    "brand": "Geo",
+                    "model": "Storm",
+                    "generation": "Storm",
+                    "engine": "1.6i (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/7000",
+                    "powerHp": "130",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4150",
+                    "width": "1695",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1010",
+                    "curbWeightMin": "1010"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-26 11:44:35",
+        "name": "Tracker",
+        "id": "990",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 11:00:46",
+              "name": "Tracker",
+              "modelYear": "1988",
+              "id": "2085",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10169",
+                    "update": "2023-08-17 15:11:16",
+                    "brand": "Geo",
+                    "model": "Tracker",
+                    "generation": "Tracker",
+                    "engine": "1.6 (97 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "97/",
+                    "powerHp": "97",
+                    "yearstart": "1988",
+                    "yearstop": "1998",
+                    "coupe": "SUV",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10171",
+                    "update": "2023-08-17 15:11:14",
+                    "brand": "Geo",
+                    "model": "Tracker",
+                    "generation": "Tracker",
+                    "engine": "1.6 16V (95 Hp) Convertible",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/5600",
+                    "powerHp": "95",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "1994",
+                    "yearstop": "1996",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3620",
+                    "width": "1630",
+                    "height": "1654",
+                    "heightMin": "1654",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1075",
+                    "curbWeightMin": "1075"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

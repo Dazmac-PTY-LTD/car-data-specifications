@@ -1,0 +1,287 @@
+{
+  "update": "2019-08-14 11:22:50",
+  "name": "Asia",
+  "id": "31",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-24 11:14:24",
+        "name": "Hi-topic",
+        "id": "331",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Hi-topic (AM 725)",
+              "modelYear": "1987",
+              "id": "669",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2871",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Asia",
+                    "model": "Hi-topic",
+                    "generation": "Hi-topic (AM 725)",
+                    "engine": "2.7 D (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/",
+                    "powerHp": "75",
+                    "yearstart": "1987",
+                    "yearstop": "1999",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-24 11:15:16",
+        "name": "Retona",
+        "id": "332",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Retona",
+              "modelYear": "1998",
+              "id": "670",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2872",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 (136 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/6000",
+                    "powerHp": "136",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "2873",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 (136 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "136/6000",
+                    "powerHp": "136",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "2874",
+                    "update": "2023-07-26 09:04:14",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 D (87 Hp) 4x2",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/6000",
+                    "powerHp": "87",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "2875",
+                    "update": "2023-07-26 09:04:13",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 D (87 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "87/6000",
+                    "powerHp": "87",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "2876",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 i (128 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "128/5300",
+                    "powerHp": "128",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  },
+                  {
+                    "id": "2877",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Retona",
+                    "generation": "Retona",
+                    "engine": "2.0 TD (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/4000",
+                    "powerHp": "83",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1997",
+                    "yearstop": "2003",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4000",
+                    "width": "1745",
+                    "height": "1840",
+                    "heightMin": "1840",
+                    "fuel": "Diesel",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-18 15:06:26",
+        "name": "Rocsta",
+        "id": "333",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Rocsta",
+              "modelYear": "1990",
+              "id": "671",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2878",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Rocsta",
+                    "generation": "Rocsta",
+                    "engine": "1.8 i 4x4 (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "86/5500",
+                    "powerHp": "86",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1993",
+                    "yearstop": "1997",
+                    "coupe": "Off-road vehicle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3585",
+                    "width": "1690",
+                    "height": "1820",
+                    "heightMin": "1820",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "2879",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Asia",
+                    "model": "Rocsta",
+                    "generation": "Rocsta",
+                    "engine": "2.2 D 4x4 (61 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "61/4000",
+                    "powerHp": "61",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1993",
+                    "yearstop": "1997",
+                    "coupe": "Off-road vehicle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1630",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Diesel",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

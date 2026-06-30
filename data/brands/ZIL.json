@@ -1,0 +1,205 @@
+{
+  "update": "2019-08-13 11:27:12",
+  "name": "ZIL",
+  "id": "155",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-13 11:27:12",
+        "name": "114",
+        "id": "1565",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "114",
+              "modelYear": "1967",
+              "id": "3107",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14295",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZIL",
+                    "model": "114",
+                    "generation": "114",
+                    "engine": "7.0 V8 (303 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "303/4400",
+                    "powerHp": "303",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "1967",
+                    "yearstop": "1985",
+                    "coupe": "Sedan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "6305",
+                    "width": "2068",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3085",
+                    "curbWeightMin": "3085"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-13 11:21:06",
+        "name": "117",
+        "id": "1566",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "117",
+              "modelYear": "1971",
+              "id": "3108",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14296",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "ZIL",
+                    "model": "117",
+                    "generation": "117",
+                    "engine": "7.0 V8 (303 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "303/4400",
+                    "powerHp": "303",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "1971",
+                    "yearstop": "1985",
+                    "coupe": "Sedan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5725",
+                    "width": "2068",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2880",
+                    "curbWeightMin": "2880"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-13 11:13:35",
+        "name": "4104",
+        "id": "1567",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "41047",
+              "modelYear": "1985",
+              "id": "3109",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14297",
+                    "update": "2023-08-08 12:44:05",
+                    "brand": "ZIL",
+                    "model": "4104",
+                    "generation": "41047",
+                    "engine": "7.7 V8 (315 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "315/4500",
+                    "powerHp": "315",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1985",
+                    "yearstop": "2002",
+                    "coupe": "Sedan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "6330",
+                    "width": "2086",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3335",
+                    "curbWeightMin": "3335"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "4104",
+              "modelYear": "1978",
+              "id": "3110",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14298",
+                    "update": "2023-08-08 12:40:38",
+                    "brand": "ZIL",
+                    "model": "4104",
+                    "generation": "4104",
+                    "engine": "7.7 V8 (315 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "315/4400",
+                    "powerHp": "315",
+                    "powerRpm": "4400",
+                    "powerRpmLow": "4400",
+                    "yearstart": "1978",
+                    "yearstop": "1985",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5750",
+                    "width": "2085",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3030",
+                    "curbWeightMin": "3030"
+                  },
+                  {
+                    "id": "14299",
+                    "update": "2023-08-08 12:40:37",
+                    "brand": "ZIL",
+                    "model": "4104",
+                    "generation": "4104",
+                    "engine": "7.7 V8 Pullman (315 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "315/4600",
+                    "powerHp": "315",
+                    "powerRpm": "4600",
+                    "powerRpmLow": "4600",
+                    "yearstart": "1978",
+                    "yearstop": "1985",
+                    "coupe": "Sedan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "6339",
+                    "width": "2089",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "3335",
+                    "curbWeightMin": "3335"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

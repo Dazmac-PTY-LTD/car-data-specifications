@@ -1,0 +1,379 @@
+{
+  "update": "2019-08-08 12:37:07",
+  "name": "Soueast",
+  "id": "169",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-08 12:37:07",
+        "name": "Lioncel",
+        "id": "1706",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Lioncel",
+              "modelYear": "2005",
+              "id": "3360",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15338",
+                    "update": "2023-08-10 09:37:19",
+                    "brand": "Soueast",
+                    "model": "Lioncel",
+                    "generation": "Lioncel",
+                    "engine": "1.6 i 16V (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/6000",
+                    "powerHp": "100",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2005",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4430",
+                    "width": "1700",
+                    "height": "1410",
+                    "heightMin": "1410",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1170",
+                    "curbWeightMin": "1170"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-14 11:20:58",
+        "name": "S09",
+        "id": "3665",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-14 11:21:57",
+              "name": "S09",
+              "modelYear": "2025",
+              "id": "10537",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54269",
+                    "update": "2025-05-14 14:20:29",
+                    "brand": "Soueast",
+                    "model": "S09",
+                    "generation": "S09",
+                    "engine": "2.0 TGDI (197 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4858",
+                    "width": "1925",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1935",
+                    "curbWeightMin": "1935"
+                  },
+                  {
+                    "id": "54270",
+                    "update": "2025-05-14 14:20:29",
+                    "brand": "Soueast",
+                    "model": "S09",
+                    "generation": "S09",
+                    "engine": "2.0 TGDI (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4858",
+                    "width": "1925",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1801",
+                    "curbWeightMin": "1801"
+                  },
+                  {
+                    "id": "54275",
+                    "update": "2025-05-14 14:20:29",
+                    "brand": "Soueast",
+                    "model": "S09",
+                    "generation": "S09",
+                    "engine": "2.0 TGDI (254 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "254/5500",
+                    "powerHp": "254",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4858",
+                    "width": "1925",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-15 09:34:26",
+        "name": "S07",
+        "id": "3666",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-15 09:35:02",
+              "name": "S07",
+              "modelYear": "2025",
+              "id": "10538",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54283",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S07",
+                    "generation": "S07",
+                    "engine": "1.6TD (190 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "190/5500",
+                    "powerHp": "190",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1626",
+                    "curbWeightMin": "1626"
+                  },
+                  {
+                    "id": "54284",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S07",
+                    "generation": "S07",
+                    "engine": "1.6TD (186 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1681-1687",
+                    "curbWeightMin": "1681",
+                    "curbWeightMax": "1687"
+                  },
+                  {
+                    "id": "54285",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S07",
+                    "generation": "S07",
+                    "engine": "1.6TD (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1617-1640",
+                    "curbWeightMin": "1617",
+                    "curbWeightMax": "1640"
+                  },
+                  {
+                    "id": "54286",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S07",
+                    "generation": "S07",
+                    "engine": "1.5T (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1589-1616",
+                    "curbWeightMin": "1589",
+                    "curbWeightMax": "1616"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-15 14:20:23",
+        "name": "S06",
+        "id": "3667",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-15 14:20:35",
+              "name": "S06",
+              "modelYear": "2025",
+              "id": "10539",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54281",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S06",
+                    "generation": "S06",
+                    "engine": "1.6TD (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4616",
+                    "width": "1910",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540-1580",
+                    "curbWeightMin": "1540",
+                    "curbWeightMax": "1580"
+                  },
+                  {
+                    "id": "54287",
+                    "update": "2025-05-15 16:17:36",
+                    "brand": "Soueast",
+                    "model": "S06",
+                    "generation": "S06",
+                    "engine": "1.5T (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4616",
+                    "width": "1910",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1512-1547",
+                    "curbWeightMin": "1512",
+                    "curbWeightMax": "1547"
+                  },
+                  {
+                    "id": "54288",
+                    "update": "2025-05-15 16:15:24",
+                    "brand": "Soueast",
+                    "model": "S06",
+                    "generation": "S06",
+                    "engine": "DM 1.5TD (355 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4616",
+                    "width": "1910",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1742",
+                    "curbWeightMin": "1742"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

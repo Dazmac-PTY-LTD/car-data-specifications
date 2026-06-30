@@ -1,0 +1,161 @@
+{
+  "update": "2022-05-10 13:02:43",
+  "name": "Micro",
+  "id": "311",
+  "models": {
+    "model": [
+      {
+        "update": "2022-05-10 13:09:19",
+        "name": "Microlino",
+        "id": "3116",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-05-10 13:11:44",
+              "name": "Microlino 2.0",
+              "modelYear": "2022",
+              "id": "8870",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45771",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Micro",
+                    "model": "Microlino",
+                    "generation": "Microlino 2.0",
+                    "engine": "6 kWh (17 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2519",
+                    "width": "1473",
+                    "height": "1501",
+                    "heightMin": "1501",
+                    "fuel": "Electricity",
+                    "curbWeight": "497",
+                    "curbWeightMin": "497"
+                  },
+                  {
+                    "id": "45772",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Micro",
+                    "model": "Microlino",
+                    "generation": "Microlino 2.0",
+                    "engine": "10.5 kWh (17 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2519",
+                    "width": "1473",
+                    "height": "1501",
+                    "heightMin": "1501",
+                    "fuel": "Electricity",
+                    "curbWeight": "515",
+                    "curbWeightMin": "515"
+                  },
+                  {
+                    "id": "45773",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Micro",
+                    "model": "Microlino",
+                    "generation": "Microlino 2.0",
+                    "engine": "14 kWh (17 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2519",
+                    "width": "1473",
+                    "height": "1501",
+                    "heightMin": "1501",
+                    "fuel": "Electricity",
+                    "curbWeight": "535",
+                    "curbWeightMin": "535"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-10 13:11:30",
+              "name": "Microlino 1.0",
+              "modelYear": "2018",
+              "id": "8869",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45769",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Micro",
+                    "model": "Microlino",
+                    "generation": "Microlino 1.0",
+                    "engine": "8 kWh (15 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2435",
+                    "widthOpenedMirrors": "1500",
+                    "height": "1459",
+                    "heightMin": "1459",
+                    "fuel": "Electricity",
+                    "curbWeight": "513",
+                    "curbWeightMin": "513"
+                  },
+                  {
+                    "id": "45770",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Micro",
+                    "model": "Microlino",
+                    "generation": "Microlino 1.0",
+                    "engine": "14.4 kWh (15 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2018",
+                    "yearstop": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "2435",
+                    "widthOpenedMirrors": "1500",
+                    "height": "1459",
+                    "heightMin": "1459",
+                    "fuel": "Electricity",
+                    "curbWeight": "571",
+                    "curbWeightMin": "571"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-11-10 15:23:22",
+        "name": "Lite",
+        "id": "3186",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2022-11-10 15:26:48",
+              "name": "Lite (Concept)",
+              "modelYear": "2023",
+              "id": "9105",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

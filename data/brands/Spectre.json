@@ -1,0 +1,54 @@
+{
+  "update": "2019-05-31 14:33:39",
+  "name": "Spectre",
+  "id": "174",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-02 11:01:55",
+        "name": "R42",
+        "id": "1761",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "R42",
+              "modelYear": "1995",
+              "id": "3491",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "15838",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Spectre",
+                    "model": "R42",
+                    "generation": "R42",
+                    "engine": "4.6 i V8 32V (355 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "355/5950",
+                    "powerHp": "355",
+                    "powerRpm": "5950",
+                    "powerRpmLow": "5950",
+                    "yearstart": "1995",
+                    "yearstop": "1998",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4190",
+                    "width": "1860",
+                    "height": "1090",
+                    "heightMin": "1090",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

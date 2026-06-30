@@ -1,0 +1,146 @@
+{
+  "update": "2025-05-20 12:09:00",
+  "name": "Tiger",
+  "id": "358",
+  "models": {
+    "model": [
+      {
+        "update": "2025-05-20 12:10:03",
+        "name": "Six",
+        "id": "3680",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 12:11:15",
+              "name": "Six",
+              "modelYear": "2025",
+              "id": "10556",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54327",
+                    "update": "2025-05-20 16:03:33",
+                    "brand": "Tiger",
+                    "model": "Six",
+                    "generation": "Six",
+                    "engine": "1.5 T-GDI (177/167 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500/167/5475",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "167",
+                    "powerRpmLPG": "5475",
+                    "powerRpmLowLPG": "5475",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1886",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1610",
+                    "curbWeightMin": "1610"
+                  },
+                  {
+                    "id": "54328",
+                    "update": "2025-05-20 16:03:33",
+                    "brand": "Tiger",
+                    "model": "Six",
+                    "generation": "Six",
+                    "engine": "1.5 T-GDI (177 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4620",
+                    "width": "1886",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-20 12:26:19",
+        "name": "Eight",
+        "id": "3681",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-20 12:26:59",
+              "name": "Eight",
+              "modelYear": "2025",
+              "id": "10557",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56379",
+                    "update": "2026-02-10 16:10:55",
+                    "brand": "Tiger",
+                    "model": "Eight",
+                    "generation": "Eight",
+                    "engine": "1.5 T-GDI (176/167 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "176/5500/167/5475",
+                    "powerHp": "176",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "167",
+                    "powerRpmLPG": "5475",
+                    "powerRpmLowLPG": "5475",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4745",
+                    "width": "1892",
+                    "height": "1715",
+                    "heightMin": "1715",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-02-10 11:48:40",
+        "name": "Nine",
+        "id": "3933",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-02-10 11:49:03",
+              "name": "Nine",
+              "modelYear": "2025",
+              "id": "11060",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "update": "2021-01-19 16:05:56",
+  "name": "KTM",
+  "id": "33",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-19 16:05:56",
+        "name": "X-Bow",
+        "id": "354",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-21 11:47:13",
+              "name": "X-Bow GT-XR",
+              "modelYear": "2023",
+              "id": "10024",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51821",
+                    "update": "2024-05-21 16:12:48",
+                    "brand": "KTM",
+                    "model": "X-Bow",
+                    "generation": "X-Bow GT-XR",
+                    "engine": "2.5 TFSI (500 Hp) DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "500/6350",
+                    "powerHp": "500",
+                    "powerRpm": "6350",
+                    "powerRpmLow": "6350",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4626",
+                    "width": "2041",
+                    "height": "1164",
+                    "heightMin": "1164",
+                    "rideHeight": "90",
+                    "rideHeightMin": "90",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1130",
+                    "curbWeightMin": "1130"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-05-03 16:17:21",
+              "name": "X-Bow GT",
+              "modelYear": "2013",
+              "id": "8856",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45739",
+                    "update": "2022-05-07 07:51:06",
+                    "brand": "KTM",
+                    "model": "X-Bow",
+                    "generation": "X-Bow GT",
+                    "engine": "2.0 Turbo (285 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "285/6400",
+                    "powerHp": "285",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2013",
+                    "yearstop": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3738",
+                    "width": "1915",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "847",
+                    "curbWeightMin": "847"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "X-Bow",
+              "modelYear": "2008",
+              "id": "713",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3031",
+                    "update": "2023-11-23 13:57:50",
+                    "brand": "KTM",
+                    "model": "X-Bow",
+                    "generation": "X-Bow",
+                    "engine": "R 2.0 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/6500",
+                    "powerHp": "240",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2007",
+                    "yearstop": "2016",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3738",
+                    "width": "1915",
+                    "height": "1202",
+                    "heightMin": "1202",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "790",
+                    "curbWeightMin": "790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

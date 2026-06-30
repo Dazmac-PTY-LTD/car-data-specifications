@@ -1,0 +1,69 @@
+{
+  "update": "2023-07-04 11:40:29",
+  "name": "Moke",
+  "id": "329",
+  "models": {
+    "model": [
+      {
+        "update": "2023-07-04 11:49:21",
+        "name": "Electric",
+        "id": "3291",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-07-04 11:57:40",
+              "name": "Electric",
+              "modelYear": "2019",
+              "id": "9567",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "49000",
+                    "update": "2023-07-04 12:43:16",
+                    "brand": "Moke",
+                    "model": "Electric",
+                    "generation": "Electric",
+                    "engine": "(45 Hp) Automatic",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Quadricycle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3325",
+                    "width": "1660",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "fuel": "Electricity",
+                    "curbWeight": "800",
+                    "curbWeightMin": "800"
+                  },
+                  {
+                    "id": "49001",
+                    "update": "2023-07-04 13:19:03",
+                    "brand": "Moke",
+                    "model": "Electric",
+                    "generation": "Electric",
+                    "engine": "12 kWh (20 Hp) Automatic (USA)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Quadricycle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3327",
+                    "width": "1651",
+                    "height": "1549",
+                    "heightMin": "1549",
+                    "fuel": "Electricity",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

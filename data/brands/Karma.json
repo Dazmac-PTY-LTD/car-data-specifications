@@ -1,0 +1,78 @@
+{
+  "update": "2019-05-22 15:16:31",
+  "name": "Karma",
+  "id": "280",
+  "models": {
+    "model": [
+      {
+        "update": "2020-01-10 09:34:31",
+        "name": "Revero",
+        "id": "2691",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Revero",
+              "modelYear": "2017",
+              "id": "7069",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36841",
+                    "update": "2023-08-16 09:03:33",
+                    "brand": "Karma",
+                    "model": "Revero",
+                    "generation": "Revero",
+                    "engine": "2.0 (403 Hp) Plug-in Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "235",
+                    "powerHp": "235",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4998",
+                    "widthOpenedMirrors": "2133",
+                    "height": "1330",
+                    "heightMin": "1330",
+                    "rideHeight": "142",
+                    "rideHeightMin": "142",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2449",
+                    "curbWeightMin": "2449"
+                  },
+                  {
+                    "id": "38495",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Karma",
+                    "model": "Revero",
+                    "generation": "Revero",
+                    "engine": "GT 1.5/28 kWh (536 Hp) Plug-in Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "228",
+                    "powerHp": "228",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5065",
+                    "widthOpenedMirrors": "2161",
+                    "height": "1332",
+                    "heightMin": "1332",
+                    "rideHeight": "138",
+                    "rideHeightMin": "138",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2296",
+                    "curbWeightMin": "2296"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

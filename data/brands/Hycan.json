@@ -1,0 +1,329 @@
+{
+  "update": "2026-05-27 08:25:39",
+  "name": "Hycan",
+  "id": "397",
+  "models": {
+    "model": [
+      {
+        "update": "2026-05-27 08:26:05",
+        "name": "A06",
+        "id": "4030",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-27 08:26:53",
+              "name": "A06",
+              "modelYear": "2023",
+              "id": "11274",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57091",
+                    "update": "2026-05-27 08:55:55",
+                    "brand": "Hycan",
+                    "model": "A06",
+                    "generation": "A06",
+                    "engine": "550A 63 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4965",
+                    "width": "1920",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  },
+                  {
+                    "id": "57092",
+                    "update": "2026-05-27 09:17:05",
+                    "brand": "Hycan",
+                    "model": "A06",
+                    "generation": "A06",
+                    "engine": "630C 71 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4965",
+                    "width": "1920",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "57093",
+                    "update": "2026-05-27 09:43:55",
+                    "brand": "Hycan",
+                    "model": "A06",
+                    "generation": "A06",
+                    "engine": "Performance 71 kWh (462 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4965",
+                    "width": "1920",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-27 10:06:18",
+        "name": "007",
+        "id": "4031",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-27 10:11:21",
+              "name": "007",
+              "modelYear": "2020",
+              "id": "11275",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57094",
+                    "update": "2026-05-27 10:33:36",
+                    "brand": "Hycan",
+                    "model": "007",
+                    "generation": "007",
+                    "engine": "93 kWh (204 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4879",
+                    "width": "1937",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2030",
+                    "curbWeightMin": "2030"
+                  },
+                  {
+                    "id": "57095",
+                    "update": "2026-05-27 10:42:14",
+                    "brand": "Hycan",
+                    "model": "007",
+                    "generation": "007",
+                    "engine": "73 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4879",
+                    "width": "1937",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-27 11:02:31",
+        "name": "V09",
+        "id": "4032",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-27 11:02:59",
+              "name": "V09",
+              "modelYear": "2024",
+              "id": "11276",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57096",
+                    "update": "2026-05-27 11:29:20",
+                    "brand": "Hycan",
+                    "model": "V09",
+                    "generation": "V09",
+                    "engine": "95.16 kWh (275 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5215",
+                    "width": "1967",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "2655",
+                    "curbWeightMin": "2655"
+                  },
+                  {
+                    "id": "57097",
+                    "update": "2026-05-27 11:53:25",
+                    "brand": "Hycan",
+                    "model": "V09",
+                    "generation": "V09",
+                    "engine": "114.19 kWh (275 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5215",
+                    "width": "1967",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "2655",
+                    "curbWeightMin": "2655"
+                  },
+                  {
+                    "id": "57098",
+                    "update": "2026-05-27 12:06:49",
+                    "brand": "Hycan",
+                    "model": "V09",
+                    "generation": "V09",
+                    "engine": "92 kWh (275 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Minivan, MPV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5215",
+                    "width": "1967",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "2590",
+                    "curbWeightMin": "2590"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-27 12:22:12",
+        "name": "Z03",
+        "id": "4033",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-27 12:22:39",
+              "name": "Z03",
+              "modelYear": "2022",
+              "id": "11277",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57099",
+                    "update": "2026-05-27 12:46:49",
+                    "brand": "Hycan",
+                    "model": "Z03",
+                    "generation": "Z03",
+                    "engine": "55.5 kWh (184 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4602",
+                    "width": "1900",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  },
+                  {
+                    "id": "57100",
+                    "update": "2026-05-27 13:13:35",
+                    "brand": "Hycan",
+                    "model": "Z03",
+                    "generation": "Z03",
+                    "engine": "76.8 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4602",
+                    "width": "1900",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Electricity",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  },
+                  {
+                    "id": "57101",
+                    "update": "2026-05-27 14:03:05",
+                    "brand": "Hycan",
+                    "model": "Z03",
+                    "generation": "Z03",
+                    "engine": "61.13 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4602",
+                    "width": "1900",
+                    "height": "1645",
+                    "heightMin": "1645",
+                    "fuel": "Electricity",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

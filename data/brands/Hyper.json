@@ -1,0 +1,241 @@
+{
+  "update": "2025-08-17 11:11:21",
+  "name": "Hyper",
+  "id": "367",
+  "models": {
+    "model": [
+      {
+        "update": "2025-08-18 08:05:02",
+        "name": "SSR",
+        "id": "3772",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-18 08:05:36",
+              "name": "SSR",
+              "modelYear": "2024",
+              "id": "10743",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55125",
+                    "update": "2025-08-18 16:12:32",
+                    "brand": "Hyper",
+                    "model": "SSR",
+                    "generation": "SSR",
+                    "engine": "74.69 kWh (1224 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4556",
+                    "width": "1988",
+                    "height": "1230",
+                    "heightMin": "1230",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-18 09:40:31",
+        "name": "GT",
+        "id": "3773",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-18 09:41:35",
+              "name": "GT",
+              "modelYear": "2023",
+              "id": "10744",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55126",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "60 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1780-1830",
+                    "curbWeightMin": "1780",
+                    "curbWeightMax": "1830"
+                  },
+                  {
+                    "id": "55127",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "80 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1920-2010",
+                    "curbWeightMin": "1920",
+                    "curbWeightMax": "2010"
+                  },
+                  {
+                    "id": "55128",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "GT",
+                    "generation": "GT",
+                    "engine": "70 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1885",
+                    "height": "1449",
+                    "heightMin": "1449",
+                    "fuel": "Electricity",
+                    "curbWeight": "1880",
+                    "curbWeightMin": "1880"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-08-18 13:44:05",
+        "name": "HT",
+        "id": "3774",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-08-18 13:44:20",
+              "name": "HT",
+              "modelYear": "2023",
+              "id": "10745",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55129",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "72.7 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Electricity",
+                    "curbWeight": "2080",
+                    "curbWeightMin": "2080"
+                  },
+                  {
+                    "id": "55130",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "70 kWh (245 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Electricity",
+                    "curbWeight": "2090-2130",
+                    "curbWeightMin": "2090",
+                    "curbWeightMax": "2130"
+                  },
+                  {
+                    "id": "55131",
+                    "update": "2025-08-18 16:12:33",
+                    "brand": "Hyper",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "80 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Electricity",
+                    "curbWeight": "2120-2220",
+                    "curbWeightMin": "2120",
+                    "curbWeightMax": "2220"
+                  },
+                  {
+                    "id": "55134",
+                    "update": "2025-08-19 16:15:35",
+                    "brand": "Hyper",
+                    "model": "HT",
+                    "generation": "HT",
+                    "engine": "93 kWh (340 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4935",
+                    "width": "1920",
+                    "height": "1700",
+                    "heightMin": "1700",
+                    "fuel": "Electricity",
+                    "curbWeight": "2220",
+                    "curbWeightMin": "2220"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

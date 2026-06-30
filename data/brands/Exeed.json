@@ -1,0 +1,1107 @@
+{
+  "update": "2024-01-26 11:40:55",
+  "name": "Exeed",
+  "id": "340",
+  "models": {
+    "model": [
+      {
+        "update": "2024-01-26 11:42:49",
+        "name": "VX",
+        "id": "3386",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-01-26 14:44:05",
+              "name": "VX (facelift 2023)",
+              "modelYear": "2023",
+              "id": "9855",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51045",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX (facelift 2023)",
+                    "engine": "400T (261 Hp) Aisin",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1792",
+                    "heightMin": "1792",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "51046",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX (facelift 2023)",
+                    "engine": "400T (261 Hp) Aisin 6 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1792",
+                    "heightMin": "1792",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "51047",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX (facelift 2023)",
+                    "engine": "400T (261 Hp) 4WD Aisin",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1792",
+                    "heightMin": "1792",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  },
+                  {
+                    "id": "51048",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX (facelift 2023)",
+                    "engine": "400T (261 Hp) 4WD Aisin 6 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1792",
+                    "heightMin": "1792",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1920",
+                    "curbWeightMin": "1920"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-01-26 11:46:18",
+              "name": "VX",
+              "modelYear": "2021",
+              "id": "9854",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51043",
+                    "update": "2024-01-26 16:22:06",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX",
+                    "engine": "290T (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1795",
+                    "heightMin": "1795",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1771",
+                    "curbWeightMin": "1771"
+                  },
+                  {
+                    "id": "51044",
+                    "update": "2024-01-26 16:22:06",
+                    "brand": "Exeed",
+                    "model": "VX",
+                    "generation": "VX",
+                    "engine": "400T (249 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249/5500",
+                    "powerHp": "249",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4970",
+                    "width": "1940",
+                    "height": "1788",
+                    "heightMin": "1788",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-01-31 10:34:34",
+        "name": "LX",
+        "id": "3389",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-01 10:21:10",
+              "name": "LX (Zhuifeng, facelift 2023)",
+              "modelYear": "2023",
+              "id": "9866",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51099",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX (Zhuifeng, facelift 2023)",
+                    "engine": "C-DM 1.5 TCI (326 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4538",
+                    "width": "1848",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1656",
+                    "curbWeightMin": "1656"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-01-31 14:00:34",
+              "name": "LX (Zhuifeng, facelift 2022)",
+              "modelYear": "2022",
+              "id": "9863",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51076",
+                    "update": "2024-02-01 10:10:52",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX (Zhuifeng, facelift 2022)",
+                    "engine": "1.5T (147 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "147/5500",
+                    "powerHp": "147",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4533",
+                    "width": "1848",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1536",
+                    "curbWeightMin": "1536"
+                  },
+                  {
+                    "id": "51077",
+                    "update": "2024-02-01 10:10:45",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX (Zhuifeng, facelift 2022)",
+                    "engine": "1.6T (150 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5500",
+                    "powerHp": "150",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4533",
+                    "width": "1848",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "185",
+                    "rideHeightMin": "185",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1658",
+                    "curbWeightMin": "1658"
+                  },
+                  {
+                    "id": "51098",
+                    "update": "2024-02-01 16:29:11",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX (Zhuifeng, facelift 2022)",
+                    "engine": "ET-i 1.5T (326 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2022",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4533",
+                    "width": "1848",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1656",
+                    "curbWeightMin": "1656"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-01-31 10:49:22",
+              "name": "LX",
+              "modelYear": "2019",
+              "id": "9861",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51074",
+                    "update": "2024-01-31 14:24:03",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX",
+                    "engine": "1.5 TCI (156 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2020",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4533",
+                    "width": "1848",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  },
+                  {
+                    "id": "51075",
+                    "update": "2024-01-31 14:24:03",
+                    "brand": "Exeed",
+                    "model": "LX",
+                    "generation": "LX",
+                    "engine": "1.6 TGDI (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197",
+                    "powerHp": "197",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4533",
+                    "width": "1848",
+                    "height": "1699",
+                    "heightMin": "1699",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1476",
+                    "curbWeightMin": "1476"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-02-01 12:53:57",
+        "name": "TX/TXL",
+        "id": "3390",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-01 15:00:19",
+              "name": "TXL (facelift 2021)",
+              "modelYear": "2021",
+              "id": "9869",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51102",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "TX/TXL",
+                    "generation": "TXL (facelift 2021)",
+                    "engine": "300T (201 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "201/5500",
+                    "powerHp": "201",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  },
+                  {
+                    "id": "51103",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "TX/TXL",
+                    "generation": "TXL (facelift 2021)",
+                    "engine": "400T (261 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  },
+                  {
+                    "id": "51104",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "TX/TXL",
+                    "generation": "TXL (facelift 2021)",
+                    "engine": "400T (261 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261/5500",
+                    "powerHp": "261",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1890",
+                    "height": "1730",
+                    "heightMin": "1730",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-02-01 12:54:26",
+              "name": "TX",
+              "modelYear": "2019",
+              "id": "9868",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51100",
+                    "update": "2024-02-01 16:29:11",
+                    "brand": "Exeed",
+                    "model": "TX/TXL",
+                    "generation": "TX",
+                    "engine": "1.6T (197 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1885",
+                    "height": "1706",
+                    "heightMin": "1706",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "51101",
+                    "update": "2024-02-01 16:29:11",
+                    "brand": "Exeed",
+                    "model": "TX/TXL",
+                    "generation": "TX",
+                    "engine": "1.6T (197 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "197/5500",
+                    "powerHp": "197",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4690",
+                    "width": "1885",
+                    "height": "1706",
+                    "heightMin": "1706",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1688",
+                    "curbWeightMin": "1688"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-02-02 10:44:21",
+        "name": "Yaoguang",
+        "id": "3391",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-02 10:44:41",
+              "name": "Yaoguang",
+              "modelYear": "2023",
+              "id": "9870",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51127",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "Yaoguang",
+                    "generation": "Yaoguang",
+                    "engine": "400T (261 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261",
+                    "powerHp": "261",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4781",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1701",
+                    "curbWeightMin": "1701"
+                  },
+                  {
+                    "id": "51128",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "Yaoguang",
+                    "generation": "Yaoguang",
+                    "engine": "400T (261 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261",
+                    "powerHp": "261",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4781",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1783",
+                    "curbWeightMin": "1783"
+                  },
+                  {
+                    "id": "51129",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Exeed",
+                    "model": "Yaoguang",
+                    "generation": "Yaoguang",
+                    "engine": "400T (261 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "261",
+                    "powerHp": "261",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4781",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1783",
+                    "curbWeightMin": "1783"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-02-02 10:44:57",
+        "name": "RX",
+        "id": "3392",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-02 10:45:20",
+              "name": "RX",
+              "modelYear": "2023",
+              "id": "9871",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51126",
+                    "update": "2024-02-02 16:20:54",
+                    "brand": "Exeed",
+                    "model": "RX",
+                    "generation": "RX",
+                    "engine": "2.0 TGDI (249 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "249/5500",
+                    "powerHp": "249",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4775",
+                    "width": "1920",
+                    "height": "1671",
+                    "heightMin": "1671",
+                    "rideHeight": "187",
+                    "rideHeightMin": "187",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1865",
+                    "curbWeightMin": "1865"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-02-05 11:08:18",
+        "name": "Sterra ES",
+        "id": "3393",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-02-05 11:08:42",
+              "name": "Sterra ES",
+              "modelYear": "2024",
+              "id": "9872",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51130",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ES",
+                    "generation": "Sterra ES",
+                    "engine": "60.7 kWh (252 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1978",
+                    "height": "1489",
+                    "heightMin": "1489",
+                    "fuel": "Electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  },
+                  {
+                    "id": "51131",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ES",
+                    "generation": "Sterra ES",
+                    "engine": "66.4 kWh (252 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1978",
+                    "height": "1467",
+                    "heightMin": "1467",
+                    "fuel": "Electricity",
+                    "curbWeight": "1975",
+                    "curbWeightMin": "1975"
+                  },
+                  {
+                    "id": "51132",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ES",
+                    "generation": "Sterra ES",
+                    "engine": "79.9 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1978",
+                    "height": "1467",
+                    "heightMin": "1467",
+                    "fuel": "Electricity",
+                    "curbWeight": "1960",
+                    "curbWeightMin": "1960"
+                  },
+                  {
+                    "id": "51133",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ES",
+                    "generation": "Sterra ES",
+                    "engine": "97.7 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1978",
+                    "height": "1467",
+                    "heightMin": "1467",
+                    "fuel": "Electricity",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  },
+                  {
+                    "id": "51134",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ES",
+                    "generation": "Sterra ES",
+                    "engine": "79.9 kWh (480 Hp) 4WD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4945",
+                    "width": "1978",
+                    "height": "1467",
+                    "heightMin": "1467",
+                    "fuel": "Electricity",
+                    "curbWeight": "2100",
+                    "curbWeightMin": "2100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-06-24 10:43:02",
+        "name": "Sterra ET",
+        "id": "3457",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-06-24 10:43:37",
+              "name": "Sterra ET",
+              "modelYear": "2024",
+              "id": "10070",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52087",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ET",
+                    "generation": "Sterra ET",
+                    "engine": "77 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4955",
+                    "width": "1975",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "fuel": "Electricity",
+                    "curbWeight": "2215",
+                    "curbWeightMin": "2215"
+                  },
+                  {
+                    "id": "52088",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ET",
+                    "generation": "Sterra ET",
+                    "engine": "77 kWh (480 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4955",
+                    "width": "1975",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "fuel": "Electricity",
+                    "curbWeight": "2339",
+                    "curbWeightMin": "2339"
+                  },
+                  {
+                    "id": "52089",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ET",
+                    "generation": "Sterra ET",
+                    "engine": "100 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4955",
+                    "width": "1975",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "fuel": "Electricity",
+                    "curbWeight": "2165",
+                    "curbWeightMin": "2165"
+                  },
+                  {
+                    "id": "52090",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ET",
+                    "generation": "Sterra ET",
+                    "engine": "100 kWh (562 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4955",
+                    "width": "1975",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "fuel": "Electricity",
+                    "curbWeight": "2340",
+                    "curbWeightMin": "2340"
+                  },
+                  {
+                    "id": "52091",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Exeed",
+                    "model": "Sterra ET",
+                    "generation": "Sterra ET",
+                    "engine": "1.5L 32 kWh (265 Hp) Extended Range Electric",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4955",
+                    "width": "1975",
+                    "height": "1698",
+                    "heightMin": "1698",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2140-2180",
+                    "curbWeightMin": "2140",
+                    "curbWeightMax": "2180"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-04-17 11:14:36",
+        "name": "ET8",
+        "id": "3968",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-04-17 11:14:58",
+              "name": "ET8",
+              "modelYear": "2026",
+              "id": "11167",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 13:25:49",
+        "name": "ES7",
+        "id": "4004",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:34:09",
+              "name": "ES7 GT",
+              "modelYear": "2026",
+              "id": "11236",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:26:10",
+              "name": "ES7",
+              "modelYear": "2025",
+              "id": "11235",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 13:46:29",
+        "name": "EX7",
+        "id": "4005",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:47:30",
+              "name": "EX7",
+              "modelYear": "2026",
+              "id": "11237",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57012",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Exeed",
+                    "model": "EX7",
+                    "generation": "EX7",
+                    "engine": "77 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1975",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Electricity",
+                    "curbWeight": "2230",
+                    "curbWeightMin": "2230"
+                  },
+                  {
+                    "id": "57013",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Exeed",
+                    "model": "EX7",
+                    "generation": "EX7",
+                    "engine": "100 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1975",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "178",
+                    "rideHeightMin": "178",
+                    "fuel": "Electricity",
+                    "curbWeight": "2200",
+                    "curbWeightMin": "2200"
+                  },
+                  {
+                    "id": "57014",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Exeed",
+                    "model": "EX7",
+                    "generation": "EX7",
+                    "engine": "1.5T (309 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1975",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "176",
+                    "rideHeightMin": "176",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  },
+                  {
+                    "id": "57015",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Exeed",
+                    "model": "EX7",
+                    "generation": "EX7",
+                    "engine": "1.5T (513 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5200",
+                    "powerHp": "156",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1975",
+                    "height": "1702-1710",
+                    "heightMin": "1702",
+                    "heightMax": "1710",
+                    "rideHeight": "164-176",
+                    "rideHeightMin": "164",
+                    "rideHeightMax": "176",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2400",
+                    "curbWeightMin": "2400"
+                  },
+                  {
+                    "id": "57016",
+                    "update": "2026-05-15 16:09:50",
+                    "brand": "Exeed",
+                    "model": "EX7",
+                    "generation": "EX7",
+                    "engine": "100 kWh (480 Hp) Electric 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4988",
+                    "width": "1975",
+                    "height": "1702",
+                    "heightMin": "1702",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 13:55:12",
+        "name": "MX",
+        "id": "4006",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 13:55:38",
+              "name": "MX",
+              "modelYear": "2026",
+              "id": "11238",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "update": "2019-05-22 15:10:13",
+  "name": "Bordrin",
+  "id": "282",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-01 10:04:54",
+        "name": "iV6",
+        "id": "2704",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "iV6",
+              "modelYear": "2019",
+              "id": "7135",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37153",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Bordrin",
+                    "model": "iV6",
+                    "generation": "iV6",
+                    "engine": "Standard (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1905",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "37154",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Bordrin",
+                    "model": "iV6",
+                    "generation": "iV6",
+                    "engine": "Long Range (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1905",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "37155",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Bordrin",
+                    "model": "iV6",
+                    "generation": "iV6",
+                    "engine": "Performance (313 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4700",
+                    "width": "1905",
+                    "height": "1640",
+                    "heightMin": "1640",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

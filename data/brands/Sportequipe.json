@@ -1,0 +1,465 @@
+{
+  "update": "2023-05-18 14:30:15",
+  "name": "Sportequipe",
+  "id": "322",
+  "models": {
+    "model": [
+      {
+        "update": "2023-05-19 10:24:51",
+        "name": "5",
+        "id": "3255",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-19 10:26:26",
+              "name": "5",
+              "modelYear": "2022",
+              "id": "9485",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48647",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.5 T (154 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1459-1479",
+                    "curbWeightMin": "1459",
+                    "curbWeightMax": "1479"
+                  },
+                  {
+                    "id": "48648",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.5 T (154/149 Hp) LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500/149/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1830",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1459-1479",
+                    "curbWeightMin": "1459",
+                    "curbWeightMax": "1479"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-19 10:25:06",
+        "name": "6",
+        "id": "3256",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-19 10:28:07",
+              "name": "6",
+              "modelYear": "2022",
+              "id": "9486",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48649",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 T (154 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1540-1560",
+                    "curbWeightMin": "1540",
+                    "curbWeightMax": "1560"
+                  },
+                  {
+                    "id": "48650",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "6",
+                    "generation": "6",
+                    "engine": "1.5 T (154/149 Hp) LPG CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500/149/5900",
+                    "powerHp": "154",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "5900",
+                    "powerRpmLowLPG": "5900",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1842",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1540-1560",
+                    "curbWeightMin": "1540",
+                    "curbWeightMax": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-05-19 10:25:11",
+        "name": "7",
+        "id": "3257",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-05-19 10:31:54",
+              "name": "7",
+              "modelYear": "2022",
+              "id": "9487",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48651",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.5 T (160 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5680",
+                    "powerHp": "160",
+                    "powerRpm": "5680",
+                    "powerRpmLow": "5680",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1564-1584",
+                    "curbWeightMin": "1564",
+                    "curbWeightMax": "1584"
+                  },
+                  {
+                    "id": "48652",
+                    "update": "2023-05-19 12:23:19",
+                    "brand": "Sportequipe",
+                    "model": "7",
+                    "generation": "7",
+                    "engine": "1.5 T (160/154 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160/5680/154/5500",
+                    "powerHp": "160",
+                    "powerRpm": "5680",
+                    "powerRpmLow": "5680",
+                    "powerHpLPG": "154",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1564-1584",
+                    "curbWeightMin": "1564",
+                    "curbWeightMax": "1584"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-08-01 11:50:18",
+        "name": "8",
+        "id": "3479",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-08-01 11:51:52",
+              "name": "8",
+              "modelYear": "2023",
+              "id": "10120",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52359",
+                    "update": "2024-08-01 14:00:10",
+                    "brand": "Sportequipe",
+                    "model": "8",
+                    "generation": "8",
+                    "engine": "1.5 (317 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "146/5500",
+                    "powerHp": "146",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4700",
+                    "width": "1860",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 15:24:50",
+        "name": "6 GT",
+        "id": "3613",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 15:25:18",
+              "name": "6 GT",
+              "modelYear": "2024",
+              "id": "10443",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53942",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Sportequipe",
+                    "model": "6 GT",
+                    "generation": "6 GT",
+                    "engine": "1.5 Turbo (155 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/5500",
+                    "powerHp": "155",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1900",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  },
+                  {
+                    "id": "53943",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Sportequipe",
+                    "model": "6 GT",
+                    "generation": "6 GT",
+                    "engine": "1.5 Turbo (155/149 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/5500/149/5900",
+                    "powerHp": "155",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "149",
+                    "powerRpmLPG": "5900",
+                    "powerRpmLowLPG": "5900",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1900",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  },
+                  {
+                    "id": "53944",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Sportequipe",
+                    "model": "6 GT",
+                    "generation": "6 GT",
+                    "engine": "1.6 T-GDI (186 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1900",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1562",
+                    "curbWeightMin": "1562"
+                  },
+                  {
+                    "id": "53945",
+                    "update": "2025-03-20 16:13:56",
+                    "brand": "Sportequipe",
+                    "model": "6 GT",
+                    "generation": "6 GT",
+                    "engine": "1.6 T-GDI (186/178 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500/178/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "178",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4590",
+                    "width": "1900",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1588",
+                    "curbWeightMin": "1588"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-17 15:33:47",
+        "name": "7 GTW",
+        "id": "3614",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-17 15:34:00",
+              "name": "7 GTW",
+              "modelYear": "2024",
+              "id": "10444",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53953",
+                    "update": "2025-03-21 16:17:44",
+                    "brand": "Sportequipe",
+                    "model": "7 GTW",
+                    "generation": "7 GTW",
+                    "engine": "1.5 Turbo (156/154 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5000/154/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "powerHpLPG": "154",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1564",
+                    "curbWeightMin": "1564"
+                  },
+                  {
+                    "id": "53954",
+                    "update": "2025-03-21 16:17:44",
+                    "brand": "Sportequipe",
+                    "model": "7 GTW",
+                    "generation": "7 GTW",
+                    "engine": "1.6 T-GDI (186 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "186/5500",
+                    "powerHp": "186",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4724",
+                    "width": "1900",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

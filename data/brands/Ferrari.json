@@ -1,0 +1,5020 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Ferrari",
+  "id": "62",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-21 11:31:46",
+        "name": "400",
+        "id": "703",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "400 I",
+              "modelYear": "1979",
+              "id": "1481",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6518",
+                    "update": "2023-07-27 12:01:08",
+                    "brand": "Ferrari",
+                    "model": "400",
+                    "generation": "400 I",
+                    "engine": "4.8 V12 (310 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "310/6500",
+                    "powerHp": "310",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1979",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1830",
+                    "curbWeightMin": "1830"
+                  },
+                  {
+                    "id": "25523",
+                    "update": "2023-07-27 12:01:05",
+                    "brand": "Ferrari",
+                    "model": "400",
+                    "generation": "400 I",
+                    "engine": "4.8 V12 (340 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/",
+                    "powerHp": "340",
+                    "yearstart": "1979",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "26573",
+                    "update": "2023-07-27 12:01:08",
+                    "brand": "Ferrari",
+                    "model": "400",
+                    "generation": "400 I",
+                    "engine": "4.8 V12 (310 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "310/6500",
+                    "powerHp": "310",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1979",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "26574",
+                    "update": "2023-07-27 12:01:07",
+                    "brand": "Ferrari",
+                    "model": "400",
+                    "generation": "400 I",
+                    "engine": "4.8 V12 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/",
+                    "powerHp": "340",
+                    "yearstart": "1979",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1900",
+                    "curbWeightMin": "1900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-01 16:24:08",
+        "name": "California",
+        "id": "705",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "California T",
+              "modelYear": "2015",
+              "id": "4555",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "21995",
+                    "update": "2023-05-16 09:59:50",
+                    "brand": "Ferrari",
+                    "model": "California",
+                    "generation": "California T",
+                    "engine": "3.9 V8 (560 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "560/7500",
+                    "powerHp": "560",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4570",
+                    "width": "1910",
+                    "height": "1322",
+                    "heightMin": "1322",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "California",
+              "modelYear": "2009",
+              "id": "1485",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6523",
+                    "update": "2023-05-16 09:57:24",
+                    "brand": "Ferrari",
+                    "model": "California",
+                    "generation": "California",
+                    "engine": "4.3 i V8 32V (460 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "460/9000",
+                    "powerHp": "460",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2009",
+                    "yearstop": "2012",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4562",
+                    "width": "1909",
+                    "height": "1322",
+                    "heightMin": "1322",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "18351",
+                    "update": "2023-05-16 09:57:23",
+                    "brand": "Ferrari",
+                    "model": "California",
+                    "generation": "California",
+                    "engine": "4.3 V8 (490 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "490/7750",
+                    "powerHp": "490",
+                    "powerRpm": "7750",
+                    "powerRpmLow": "7750",
+                    "yearstart": "2012",
+                    "yearstop": "2014",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4562",
+                    "width": "1909",
+                    "height": "1322",
+                    "heightMin": "1322",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1735",
+                    "curbWeightMin": "1735"
+                  },
+                  {
+                    "id": "23834",
+                    "update": "2023-05-16 09:57:24",
+                    "brand": "Ferrari",
+                    "model": "California",
+                    "generation": "California",
+                    "engine": "30 4.3 V8 (490 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "490/7750",
+                    "powerHp": "490",
+                    "powerRpm": "7750",
+                    "powerRpmLow": "7750",
+                    "yearstart": "2012",
+                    "yearstop": "2014",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4562",
+                    "width": "1909",
+                    "height": "1322",
+                    "heightMin": "1322",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1735",
+                    "curbWeightMin": "1735"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-21 15:13:45",
+        "name": "F40",
+        "id": "706",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-22 14:36:29",
+              "name": "F40 Competizione",
+              "modelYear": "1989",
+              "id": "8434",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43700",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "F40",
+                    "generation": "F40 Competizione",
+                    "engine": "3.0 V8 (700 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "700/8100",
+                    "powerHp": "700",
+                    "powerRpm": "8100",
+                    "powerRpmLow": "8100",
+                    "yearstart": "1989",
+                    "yearstop": "1989",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4535",
+                    "width": "1980",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F40",
+              "modelYear": "1987",
+              "id": "1486",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6524",
+                    "update": "2023-12-14 16:30:52",
+                    "brand": "Ferrari",
+                    "model": "F40",
+                    "generation": "F40",
+                    "engine": "2.9 i V8 32V (478 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "478/7000",
+                    "powerHp": "478",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1987",
+                    "yearstop": "1992",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4358",
+                    "width": "1970",
+                    "height": "1124",
+                    "heightMin": "1124",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-21 10:07:15",
+        "name": "208/308",
+        "id": "707",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "208/308",
+              "modelYear": "1976",
+              "id": "1487",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6525",
+                    "update": "2023-07-27 13:12:23",
+                    "brand": "Ferrari",
+                    "model": "208/308",
+                    "generation": "208/308",
+                    "engine": "208 Turbo (220 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "220",
+                    "powerHp": "220",
+                    "yearstart": "1982",
+                    "yearstop": "1989",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "6526",
+                    "update": "2023-07-27 09:43:19",
+                    "brand": "Ferrari",
+                    "model": "208/308",
+                    "generation": "208/308",
+                    "engine": "308 GTB (255 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "255/7700",
+                    "powerHp": "255",
+                    "powerRpm": "7700",
+                    "powerRpmLow": "7700",
+                    "yearstart": "1975",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1720",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1265",
+                    "curbWeightMin": "1265"
+                  },
+                  {
+                    "id": "6527",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Ferrari",
+                    "model": "208/308",
+                    "generation": "208/308",
+                    "engine": "308 GTB Qv (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/7000",
+                    "powerHp": "240",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1982",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1720",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "6528",
+                    "update": "2021-12-06 14:38:07",
+                    "brand": "Ferrari",
+                    "model": "208/308",
+                    "generation": "208/308",
+                    "engine": "308 GTS (255 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "255",
+                    "powerHp": "255",
+                    "yearstart": "1977",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1720",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "6529",
+                    "update": "2021-12-06 14:40:41",
+                    "brand": "Ferrari",
+                    "model": "208/308",
+                    "generation": "208/308",
+                    "engine": "308 GTS Qv (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240",
+                    "powerHp": "240",
+                    "yearstart": "1982",
+                    "yearstop": "1985",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1720",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-21 11:35:28",
+        "name": "412",
+        "id": "708",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "412 I",
+              "modelYear": "1985",
+              "id": "1488",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6530",
+                    "update": "2023-07-27 08:24:29",
+                    "brand": "Ferrari",
+                    "model": "412",
+                    "generation": "412 I",
+                    "engine": "4.9 V12 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/6000",
+                    "powerHp": "340",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1985",
+                    "yearstop": "1988",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1805",
+                    "curbWeightMin": "1805"
+                  },
+                  {
+                    "id": "25489",
+                    "update": "2023-07-27 08:24:29",
+                    "brand": "Ferrari",
+                    "model": "412",
+                    "generation": "412 I",
+                    "engine": "4.9 V12 (340 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/6000",
+                    "powerHp": "340",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1985",
+                    "yearstop": "1988",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4810",
+                    "width": "1798",
+                    "height": "1314",
+                    "heightMin": "1314",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-01 16:32:02",
+        "name": "599",
+        "id": "709",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-17 16:20:58",
+              "name": "599 GTO",
+              "modelYear": "2010",
+              "id": "8537",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44313",
+                    "update": "2023-05-16 09:46:52",
+                    "brand": "Ferrari",
+                    "model": "599",
+                    "generation": "599 GTO",
+                    "engine": "6.0 V12 (670 Hp) F1",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "670/8250",
+                    "powerHp": "670",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2010",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4709",
+                    "width": "1961",
+                    "height": "1326",
+                    "heightMin": "1326",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1495",
+                    "curbWeightMin": "1495"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-17 16:15:20",
+              "name": "SA Aperta",
+              "modelYear": "2010",
+              "id": "8538",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44318",
+                    "update": "2023-05-16 09:48:34",
+                    "brand": "Ferrari",
+                    "model": "599",
+                    "generation": "SA Aperta",
+                    "engine": "6.0 V12 (670 Hp) F1",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "670/8250",
+                    "powerHp": "670",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2010",
+                    "yearstop": "2010",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4700",
+                    "width": "1962",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1595",
+                    "curbWeightMin": "1595"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-17 16:20:58",
+              "name": "599XX",
+              "modelYear": "2009",
+              "id": "8436",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43705",
+                    "update": "2023-07-27 08:54:38",
+                    "brand": "Ferrari",
+                    "model": "599",
+                    "generation": "599XX",
+                    "engine": "6.0 V12 (730 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "730/9000",
+                    "powerHp": "730",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2009",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4787",
+                    "width": "1972",
+                    "height": "1283",
+                    "heightMin": "1283",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1345",
+                    "curbWeightMin": "1345"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-17 16:20:58",
+              "name": "599 GTB Fiorano",
+              "modelYear": "2007",
+              "id": "1489",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6531",
+                    "update": "2023-07-27 08:54:40",
+                    "brand": "Ferrari",
+                    "model": "599",
+                    "generation": "599 GTB Fiorano",
+                    "engine": "6.0 V12 (620 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/7600",
+                    "powerHp": "620",
+                    "powerRpm": "7600",
+                    "powerRpmLow": "7600",
+                    "yearstart": "2006",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4666",
+                    "width": "1961",
+                    "height": "1336",
+                    "heightMin": "1336",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1688",
+                    "curbWeightMin": "1688"
+                  },
+                  {
+                    "id": "41025",
+                    "update": "2023-07-27 08:54:45",
+                    "brand": "Ferrari",
+                    "model": "599",
+                    "generation": "599 GTB Fiorano",
+                    "engine": "6.0 V12 (620 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/7600",
+                    "powerHp": "620",
+                    "powerRpm": "7600",
+                    "powerRpmLow": "7600",
+                    "yearstart": "2006",
+                    "yearstop": "2012",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4666",
+                    "width": "1961",
+                    "height": "1336",
+                    "heightMin": "1336",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1688",
+                    "curbWeightMin": "1688"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-21 14:40:27",
+        "name": "Dino",
+        "id": "710",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 11:08:48",
+              "name": "Dino 246 GT",
+              "modelYear": "1969",
+              "id": "9933",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Dino GT4 (208/308)",
+              "modelYear": "1974",
+              "id": "1490",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6532",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "Dino",
+                    "generation": "Dino GT4 (208/308)",
+                    "engine": "208 2.0 V8 (170 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "170/7700",
+                    "powerHp": "170",
+                    "powerRpm": "7700",
+                    "powerRpmLow": "7700",
+                    "yearstart": "1975",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1800",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  },
+                  {
+                    "id": "6533",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "Dino",
+                    "generation": "Dino GT4 (208/308)",
+                    "engine": "308 2.9 V8 (255 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "255/7700",
+                    "powerHp": "255",
+                    "powerRpm": "7700",
+                    "powerRpmLow": "7700",
+                    "yearstart": "1973",
+                    "yearstop": "1980",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1800",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-22 14:09:19",
+        "name": "575M Maranello",
+        "id": "711",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "575M Maranello",
+              "modelYear": "1996",
+              "id": "1491",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6535",
+                    "update": "2023-07-27 08:12:57",
+                    "brand": "Ferrari",
+                    "model": "575M Maranello",
+                    "generation": "575M Maranello",
+                    "engine": "575 (515 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "515/7250",
+                    "powerHp": "515",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2002",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4550",
+                    "width": "1935",
+                    "height": "1277",
+                    "heightMin": "1277",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  },
+                  {
+                    "id": "6536",
+                    "update": "2023-07-27 08:12:57",
+                    "brand": "Ferrari",
+                    "model": "575M Maranello",
+                    "generation": "575M Maranello",
+                    "engine": "575M Superamerica (540 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "540/7250",
+                    "powerHp": "540",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2004",
+                    "yearstop": "2006",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4550",
+                    "width": "1935",
+                    "height": "1280",
+                    "heightMin": "1280",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1790",
+                    "curbWeightMin": "1790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-21 10:12:59",
+        "name": "328",
+        "id": "712",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "328 GTB",
+              "modelYear": "1986",
+              "id": "1492",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6537",
+                    "update": "2023-07-27 11:39:23",
+                    "brand": "Ferrari",
+                    "model": "328",
+                    "generation": "328 GTB",
+                    "engine": "3.2 V8 (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270/7000",
+                    "powerHp": "270",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1985",
+                    "yearstop": "1989",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4255",
+                    "width": "1730",
+                    "height": "1128",
+                    "heightMin": "1128",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1263",
+                    "curbWeightMin": "1263"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "328 GTS",
+              "modelYear": "1986",
+              "id": "1493",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6538",
+                    "update": "2023-07-27 11:39:23",
+                    "brand": "Ferrari",
+                    "model": "328",
+                    "generation": "328 GTS",
+                    "engine": "3.2 V8 (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270/7000",
+                    "powerHp": "270",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1985",
+                    "yearstop": "1989",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4255",
+                    "width": "1730",
+                    "height": "1128",
+                    "heightMin": "1128",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1273",
+                    "curbWeightMin": "1273"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-01 16:45:40",
+        "name": "F430",
+        "id": "713",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-23 10:52:15",
+              "name": "F430 Challenge",
+              "modelYear": "2007",
+              "id": "8441",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43710",
+                    "update": "2023-07-26 13:50:49",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430 Challenge",
+                    "engine": "4.3 V8 (490 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "490/8500",
+                    "powerHp": "490",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2007",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "1923",
+                    "height": "1184",
+                    "heightMin": "1184",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1225",
+                    "curbWeightMin": "1225"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 10:52:15",
+              "name": "F430 Scuderia",
+              "modelYear": "2007",
+              "id": "1494",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6539",
+                    "update": "2023-07-26 13:49:23",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430 Scuderia",
+                    "engine": "4.3i V8 32V (510 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "510/8500",
+                    "powerHp": "510",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2007",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "1923",
+                    "height": "1214",
+                    "heightMin": "1214",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 10:52:01",
+              "name": "F430 GTC",
+              "modelYear": "2006",
+              "id": "8443",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43711",
+                    "update": "2023-07-26 13:49:25",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430 GTC",
+                    "engine": "4.0 V8 (450 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "450/7000",
+                    "powerHp": "450",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2006",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4511",
+                    "width": "2000",
+                    "height": "1175",
+                    "heightMin": "1175",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1245",
+                    "curbWeightMin": "1245"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 10:52:15",
+              "name": "F430",
+              "modelYear": "2005",
+              "id": "1495",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6540",
+                    "update": "2023-07-26 13:49:27",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430",
+                    "engine": "4.3 i V8 32V (490 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "490/8500",
+                    "powerHp": "490",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2004",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "1923",
+                    "height": "1214",
+                    "heightMin": "1214",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 10:52:15",
+              "name": "F430 Spider",
+              "modelYear": "2005",
+              "id": "1496",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6541",
+                    "update": "2023-07-26 13:49:28",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430 Spider",
+                    "engine": "4.3 i V8 32V (490 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "490/8500",
+                    "powerHp": "490",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2004",
+                    "yearstop": "2009",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4512",
+                    "width": "1923",
+                    "height": "1234",
+                    "heightMin": "1234",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "46754",
+                    "update": "2023-07-26 13:49:27",
+                    "brand": "Ferrari",
+                    "model": "F430",
+                    "generation": "F430 Spider",
+                    "engine": "4.3 i V8 32V (510 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "510/8500",
+                    "powerHp": "510",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2008",
+                    "yearstop": "2009",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4511",
+                    "width": "1923",
+                    "height": "1217",
+                    "heightMin": "1217",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440",
+                    "curbWeightMin": "1440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-01 16:56:12",
+        "name": "612 Scaglietti",
+        "id": "714",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "612 Scaglietti",
+              "modelYear": "2004",
+              "id": "1497",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6542",
+                    "update": "2023-07-27 08:54:46",
+                    "brand": "Ferrari",
+                    "model": "612 Scaglietti",
+                    "generation": "612 Scaglietti",
+                    "engine": "5.7i V12 48V (540 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "540/7250",
+                    "powerHp": "540",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4902",
+                    "width": "1957",
+                    "height": "1344",
+                    "heightMin": "1344",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1850",
+                    "curbWeightMin": "1850"
+                  },
+                  {
+                    "id": "25448",
+                    "update": "2023-07-27 08:54:47",
+                    "brand": "Ferrari",
+                    "model": "612 Scaglietti",
+                    "generation": "612 Scaglietti",
+                    "engine": "5.7 i V12 48V (540 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "540/7250",
+                    "powerHp": "540",
+                    "powerRpm": "7250",
+                    "powerRpmLow": "7250",
+                    "yearstart": "2004",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4900",
+                    "width": "1955",
+                    "height": "1345",
+                    "heightMin": "1345",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-01 17:05:57",
+        "name": "Enzo",
+        "id": "715",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Enzo",
+              "modelYear": "2002",
+              "id": "1498",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6543",
+                    "update": "2023-07-27 09:17:58",
+                    "brand": "Ferrari",
+                    "model": "Enzo",
+                    "generation": "Enzo",
+                    "engine": "6.0 V12 (660 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "660/7800",
+                    "powerHp": "660",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "yearstart": "2001",
+                    "yearstop": "2005",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4702",
+                    "width": "2035",
+                    "height": "1147",
+                    "heightMin": "1147",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1365",
+                    "curbWeightMin": "1365"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-22 12:01:30",
+        "name": "Mondial",
+        "id": "716",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-06-24 09:16:36",
+              "name": "Mondial",
+              "modelYear": "1980",
+              "id": "1499",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6544",
+                    "update": "2023-07-27 12:10:14",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial",
+                    "engine": "3.2 Quattrovalvole (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270",
+                    "powerHp": "270",
+                    "yearstart": "1985",
+                    "yearstop": "1988",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4285",
+                    "width": "1795",
+                    "height": "1128",
+                    "heightMin": "1128",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  },
+                  {
+                    "id": "6545",
+                    "update": "2023-07-27 12:40:13",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial",
+                    "engine": "3.4 i V8 32V (286 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/7200",
+                    "powerHp": "286",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4535",
+                    "width": "1810",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  },
+                  {
+                    "id": "6546",
+                    "update": "2023-07-27 12:53:29",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial",
+                    "engine": "3.4 i V8 32V (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7200",
+                    "powerHp": "300",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4535",
+                    "width": "1810",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1505",
+                    "curbWeightMin": "1505"
+                  },
+                  {
+                    "id": "6547",
+                    "update": "2023-10-26 10:46:19",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial",
+                    "engine": "8 V8 (214 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "214/6600",
+                    "powerHp": "214",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "1980",
+                    "yearstop": "1982",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4580",
+                    "width": "1790",
+                    "height": "1250",
+                    "heightMin": "1250",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  },
+                  {
+                    "id": "6548",
+                    "update": "2023-07-27 12:38:10",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial",
+                    "engine": "8 Quattrovalvole (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240",
+                    "powerHp": "240",
+                    "yearstart": "1982",
+                    "yearstop": "1987",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4580",
+                    "width": "1790",
+                    "height": "1260",
+                    "heightMin": "1260",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-06-24 09:16:36",
+              "name": "Mondial t Cabriolet",
+              "modelYear": "1983",
+              "id": "1500",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6549",
+                    "update": "2023-07-27 12:56:12",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial t Cabriolet",
+                    "engine": "3.2 Quattrovalvole (270 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "270",
+                    "powerHp": "270",
+                    "yearstart": "1985",
+                    "yearstop": "1988",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4535",
+                    "width": "1810",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "6550",
+                    "update": "2023-07-27 12:40:15",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial t Cabriolet",
+                    "engine": "3.4 i V8 32V (286 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "286/7200",
+                    "powerHp": "286",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4535",
+                    "width": "1810",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  },
+                  {
+                    "id": "6551",
+                    "update": "2023-07-27 12:53:29",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial t Cabriolet",
+                    "engine": "3.4 i V8 32V (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7200",
+                    "powerHp": "300",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4535",
+                    "width": "1810",
+                    "height": "1235",
+                    "heightMin": "1235",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "6552",
+                    "update": "2023-07-27 12:38:10",
+                    "brand": "Ferrari",
+                    "model": "Mondial",
+                    "generation": "Mondial t Cabriolet",
+                    "engine": "8 Quattrovalvole (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/7000",
+                    "powerHp": "240",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1983",
+                    "yearstop": "1987",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4580",
+                    "width": "1790",
+                    "height": "1260",
+                    "heightMin": "1260",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 09:44:49",
+        "name": "348",
+        "id": "717",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "348 GTS",
+              "modelYear": "1993",
+              "id": "8001",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6554",
+                    "update": "2023-07-27 08:29:05",
+                    "brand": "Ferrari",
+                    "model": "348",
+                    "generation": "348 GTS",
+                    "engine": "3.4 V8 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/7200",
+                    "powerHp": "320",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1993",
+                    "yearstop": "1995",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1894",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "348 TS",
+              "modelYear": "1990",
+              "id": "1501",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6553",
+                    "update": "2023-07-27 08:29:13",
+                    "brand": "Ferrari",
+                    "model": "348",
+                    "generation": "348 TS",
+                    "engine": "3.4 V8 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7200",
+                    "powerHp": "300",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1894",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1393",
+                    "curbWeightMin": "1393"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "348 Spider",
+              "modelYear": "1994",
+              "id": "1502",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6555",
+                    "update": "2023-07-27 08:29:22",
+                    "brand": "Ferrari",
+                    "model": "348",
+                    "generation": "348 Spider",
+                    "engine": "3.4 V8 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/7200",
+                    "powerHp": "320",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1993",
+                    "yearstop": "1995",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1894",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "348 TB",
+              "modelYear": "1990",
+              "id": "1503",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6556",
+                    "update": "2023-07-27 08:29:29",
+                    "brand": "Ferrari",
+                    "model": "348",
+                    "generation": "348 TB",
+                    "engine": "3.4 V8 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7200",
+                    "powerHp": "300",
+                    "powerRpm": "7200",
+                    "powerRpmLow": "7200",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4230",
+                    "width": "1894",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1393",
+                    "curbWeightMin": "1393"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:52:06",
+        "name": "456",
+        "id": "718",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-07 15:30:13",
+              "name": "456M",
+              "modelYear": "1998",
+              "id": "8002",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43727",
+                    "update": "2023-07-27 08:21:10",
+                    "brand": "Ferrari",
+                    "model": "456",
+                    "generation": "456M",
+                    "engine": "GT 5.5 V12 (442 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "442/6250",
+                    "powerHp": "442",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1998",
+                    "yearstop": "2003",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4763",
+                    "width": "1920",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "rideHeight": "119",
+                    "rideHeightMin": "119",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "456",
+              "modelYear": "1992",
+              "id": "1504",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6557",
+                    "update": "2023-07-27 08:21:48",
+                    "brand": "Ferrari",
+                    "model": "456",
+                    "generation": "456",
+                    "engine": "GT 5.5 V12 (442 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "442/6250",
+                    "powerHp": "442",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1993",
+                    "yearstop": "1998",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4730",
+                    "width": "1920",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "rideHeight": "119",
+                    "rideHeightMin": "119",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  },
+                  {
+                    "id": "6558",
+                    "update": "2023-07-27 08:21:16",
+                    "brand": "Ferrari",
+                    "model": "456",
+                    "generation": "456",
+                    "engine": "GTA 5.5 V12 (442 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "442/6250",
+                    "powerHp": "442",
+                    "powerRpm": "6250",
+                    "powerRpmLow": "6250",
+                    "yearstart": "1996",
+                    "yearstop": "1998",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4730",
+                    "width": "1920",
+                    "height": "1300",
+                    "heightMin": "1300",
+                    "rideHeight": "119",
+                    "rideHeightMin": "119",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1770",
+                    "curbWeightMin": "1770"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:16:58",
+        "name": "550",
+        "id": "719",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "550 Maranello",
+              "modelYear": "1996",
+              "id": "7808",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6534",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Ferrari",
+                    "model": "550",
+                    "generation": "550 Maranello",
+                    "engine": "5.5 V12 (485 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "485/7000",
+                    "powerHp": "485",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1996",
+                    "yearstop": "2002",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4550",
+                    "width": "1935",
+                    "height": "1277",
+                    "heightMin": "1277",
+                    "rideHeight": "135",
+                    "rideHeightMin": "135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "550 Barchetta Pininfarina",
+              "modelYear": "2000",
+              "id": "1505",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6559",
+                    "update": "2023-07-27 08:18:14",
+                    "brand": "Ferrari",
+                    "model": "550",
+                    "generation": "550 Barchetta Pininfarina",
+                    "engine": "550 (485 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "485/7000",
+                    "powerHp": "485",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2000",
+                    "yearstop": "2006",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4550",
+                    "width": "1935",
+                    "height": "1260",
+                    "heightMin": "1260",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1690",
+                    "curbWeightMin": "1690"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-25 10:40:36",
+        "name": "F355",
+        "id": "720",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-18 08:27:25",
+              "name": "F355 Spider",
+              "modelYear": "1996",
+              "id": "1506",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6560",
+                    "update": "2025-11-18 09:31:48",
+                    "brand": "Ferrari",
+                    "model": "F355",
+                    "generation": "F355 Spider",
+                    "engine": "3.5 V8 (380 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "380/8250",
+                    "powerHp": "380",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "1995",
+                    "yearstop": "1999",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4250",
+                    "width": "1900",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1490-1515",
+                    "curbWeightMin": "1490",
+                    "curbWeightMax": "1515"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-11-18 09:15:58",
+              "name": "F355 GTS",
+              "modelYear": "1996",
+              "id": "1508",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6562",
+                    "update": "2025-11-18 09:31:48",
+                    "brand": "Ferrari",
+                    "model": "F355",
+                    "generation": "F355 GTS",
+                    "engine": "3.5 V8 (380 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "380/8250",
+                    "powerHp": "380",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "1995",
+                    "yearstop": "1999",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4250",
+                    "width": "1900",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440-1490",
+                    "curbWeightMin": "1440",
+                    "curbWeightMax": "1490"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-11-18 09:15:58",
+              "name": "F355 Berlinetta",
+              "modelYear": "1995",
+              "id": "1507",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6561",
+                    "update": "2025-11-18 09:31:48",
+                    "brand": "Ferrari",
+                    "model": "F355",
+                    "generation": "F355 Berlinetta",
+                    "engine": "3.5 V8 (380 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "380/8250",
+                    "powerHp": "380",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "1994",
+                    "yearstop": "1999",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4250",
+                    "width": "1900",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1440-1480",
+                    "curbWeightMin": "1440",
+                    "curbWeightMax": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-22 12:18:45",
+        "name": "Testarossa",
+        "id": "721",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "512 M",
+              "modelYear": "1995",
+              "id": "1482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6519",
+                    "update": "2023-07-26 13:16:41",
+                    "brand": "Ferrari",
+                    "model": "Testarossa",
+                    "generation": "512 M",
+                    "engine": "F512 M (440 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "440/6750",
+                    "powerHp": "440",
+                    "powerRpm": "6750",
+                    "powerRpmLow": "6750",
+                    "yearstart": "1994",
+                    "yearstop": "1996",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4480",
+                    "width": "1976",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "512 TR",
+              "modelYear": "1992",
+              "id": "1483",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6520",
+                    "update": "2023-07-26 13:16:41",
+                    "brand": "Ferrari",
+                    "model": "Testarossa",
+                    "generation": "512 TR",
+                    "engine": "4.9 i V12 48V (428 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "428/6750",
+                    "powerHp": "428",
+                    "powerRpm": "6750",
+                    "powerRpmLow": "6750",
+                    "yearstart": "1992",
+                    "yearstop": "1994",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4480",
+                    "width": "1975",
+                    "height": "1135",
+                    "heightMin": "1135",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Testarossa",
+              "modelYear": "1985",
+              "id": "1509",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6563",
+                    "update": "2023-07-26 14:08:42",
+                    "brand": "Ferrari",
+                    "model": "Testarossa",
+                    "generation": "Testarossa",
+                    "engine": "4.9 i V12 48V (380 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "380/5750",
+                    "powerHp": "380",
+                    "powerRpm": "5750",
+                    "powerRpmLow": "5750",
+                    "yearstart": "1984",
+                    "yearstop": "1992",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4485",
+                    "width": "1975",
+                    "height": "1130",
+                    "heightMin": "1130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  },
+                  {
+                    "id": "6564",
+                    "update": "2023-07-26 14:08:42",
+                    "brand": "Ferrari",
+                    "model": "Testarossa",
+                    "generation": "Testarossa",
+                    "engine": "4.9 i V12 48V (390 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "390/6300",
+                    "powerHp": "390",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "1984",
+                    "yearstop": "1992",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4485",
+                    "width": "1975",
+                    "height": "1130",
+                    "heightMin": "1130",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:20:57",
+        "name": "360",
+        "id": "722",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "360 Modena",
+              "modelYear": "2000",
+              "id": "1510",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6565",
+                    "update": "2023-07-27 08:33:19",
+                    "brand": "Ferrari",
+                    "model": "360",
+                    "generation": "360 Modena",
+                    "engine": "360 Challenge Stradale (425 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "425/8500",
+                    "powerHp": "425",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2003",
+                    "yearstop": "2004",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "1922",
+                    "height": "1199",
+                    "heightMin": "1199",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "6566",
+                    "update": "2023-07-27 08:34:15",
+                    "brand": "Ferrari",
+                    "model": "360",
+                    "generation": "360 Modena",
+                    "engine": "360 F1 (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/8500",
+                    "powerHp": "400",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4477",
+                    "width": "1922",
+                    "height": "1214",
+                    "heightMin": "1214",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "360 Modena Spider",
+              "modelYear": "2000",
+              "id": "1511",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6567",
+                    "update": "2023-07-27 08:34:16",
+                    "brand": "Ferrari",
+                    "model": "360",
+                    "generation": "360 Modena Spider",
+                    "engine": "360 Spider (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/8500",
+                    "powerHp": "400",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "1999",
+                    "yearstop": "2004",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4477",
+                    "width": "1922",
+                    "height": "1214",
+                    "heightMin": "1214",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-25 10:11:23",
+        "name": "FF",
+        "id": "1999",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "FF",
+              "modelYear": "2012",
+              "id": "4050",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18347",
+                    "update": "2023-05-16 10:14:58",
+                    "brand": "Ferrari",
+                    "model": "FF",
+                    "generation": "FF",
+                    "engine": "6.3 V12 (660 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "660/8000",
+                    "powerHp": "660",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4907",
+                    "width": "1953",
+                    "height": "1379",
+                    "heightMin": "1379",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1790",
+                    "curbWeightMin": "1790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:29:22",
+        "name": "F12",
+        "id": "2000",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F12tdf",
+              "modelYear": "2016",
+              "id": "4717",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22842",
+                    "update": "2023-05-16 10:04:19",
+                    "brand": "Ferrari",
+                    "model": "F12",
+                    "generation": "F12tdf",
+                    "engine": "6.3 V12 (780 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "780/8500",
+                    "powerHp": "780",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4656",
+                    "width": "1961",
+                    "height": "1273",
+                    "heightMin": "1273",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F12 Berlinetta",
+              "modelYear": "2012",
+              "id": "4051",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18348",
+                    "update": "2023-05-16 10:02:29",
+                    "brand": "Ferrari",
+                    "model": "F12",
+                    "generation": "F12 Berlinetta",
+                    "engine": "6.3 V12 (740 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "740/8250",
+                    "powerHp": "740",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2012",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4618",
+                    "width": "1942",
+                    "height": "1273",
+                    "heightMin": "1273",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:39:48",
+        "name": "458",
+        "id": "2001",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "458 Speciale A",
+              "modelYear": "2014",
+              "id": "4556",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "21996",
+                    "update": "2023-05-16 09:39:12",
+                    "brand": "Ferrari",
+                    "model": "458",
+                    "generation": "458 Speciale A",
+                    "engine": "4.5 V8 (605 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "605/9000",
+                    "powerHp": "605",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4571",
+                    "width": "1951",
+                    "height": "1204",
+                    "heightMin": "1204",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1445",
+                    "curbWeightMin": "1445"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "458 Speciale",
+              "modelYear": "2014",
+              "id": "4554",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "21994",
+                    "update": "2023-05-16 09:39:11",
+                    "brand": "Ferrari",
+                    "model": "458",
+                    "generation": "458 Speciale",
+                    "engine": "4.5 V8 (605 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "605/9000",
+                    "powerHp": "605",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4571",
+                    "width": "1951",
+                    "height": "1203",
+                    "heightMin": "1203",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1395",
+                    "curbWeightMin": "1395"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-03-19 08:52:14",
+              "name": "458 Spider",
+              "modelYear": "2012",
+              "id": "4052",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18349",
+                    "update": "2023-05-16 09:38:24",
+                    "brand": "Ferrari",
+                    "model": "458",
+                    "generation": "458 Spider",
+                    "engine": "4.5 V8 (570 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/9000",
+                    "powerHp": "570",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2011",
+                    "yearstop": "2015",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4527",
+                    "width": "1937",
+                    "height": "1211",
+                    "heightMin": "1211",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1535",
+                    "curbWeightMin": "1535"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "458 Italia",
+              "modelYear": "2010",
+              "id": "4053",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "18350",
+                    "update": "2023-05-16 09:38:21",
+                    "brand": "Ferrari",
+                    "model": "458",
+                    "generation": "458 Italia",
+                    "engine": "4.5 V8 (570 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/9000",
+                    "powerHp": "570",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2009",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4527",
+                    "width": "1937",
+                    "height": "1213",
+                    "heightMin": "1213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  },
+                  {
+                    "id": "23835",
+                    "update": "2023-05-16 09:38:23",
+                    "brand": "Ferrari",
+                    "model": "458",
+                    "generation": "458 Italia",
+                    "engine": "4.5 V8 (570 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "570/9000",
+                    "powerHp": "570",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2009",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4527",
+                    "width": "1937",
+                    "height": "1213",
+                    "heightMin": "1213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-25 10:29:59",
+        "name": "LaFerrari",
+        "id": "2070",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "LaFerrari Aperta",
+              "modelYear": "2016",
+              "id": "5242",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32293",
+                    "update": "2023-08-21 13:54:29",
+                    "brand": "Ferrari",
+                    "model": "LaFerrari",
+                    "generation": "LaFerrari Aperta",
+                    "engine": "6.3 V12 (963 Hp) Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "800/9000",
+                    "powerHp": "800",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4702",
+                    "width": "1992",
+                    "height": "1116",
+                    "heightMin": "1116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "LaFerrari",
+              "modelYear": "2013",
+              "id": "4557",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22008",
+                    "update": "2023-08-21 13:54:31",
+                    "brand": "Ferrari",
+                    "model": "LaFerrari",
+                    "generation": "LaFerrari",
+                    "engine": "6.3 V12 (963 Hp) Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "800/9000",
+                    "powerHp": "800",
+                    "powerRpm": "9000",
+                    "powerRpmLow": "9000",
+                    "yearstart": "2013",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4702",
+                    "width": "1992",
+                    "height": "1116",
+                    "heightMin": "1116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1430",
+                    "curbWeightMin": "1430"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-25 10:47:40",
+        "name": "488",
+        "id": "2099",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-06 15:47:14",
+              "name": "488 Pista Spider",
+              "modelYear": "2018",
+              "id": "6488",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34043",
+                    "update": "2023-05-16 09:44:42",
+                    "brand": "Ferrari",
+                    "model": "488",
+                    "generation": "488 Pista Spider",
+                    "engine": "3.9 V8 (720 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/8000",
+                    "powerHp": "720",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4605",
+                    "width": "1975",
+                    "height": "1206",
+                    "heightMin": "1206",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-25 10:03:42",
+              "name": "488 Pista",
+              "modelYear": "2018",
+              "id": "6132",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32741",
+                    "update": "2023-05-16 09:44:42",
+                    "brand": "Ferrari",
+                    "model": "488",
+                    "generation": "488 Pista",
+                    "engine": "3.9 V8 (720 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/8000",
+                    "powerHp": "720",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4605",
+                    "width": "1975",
+                    "height": "1206",
+                    "heightMin": "1206",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-25 12:17:04",
+              "name": "488 Challenge",
+              "modelYear": "2016",
+              "id": "8449",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43735",
+                    "update": "2023-05-16 09:43:10",
+                    "brand": "Ferrari",
+                    "model": "488",
+                    "generation": "488 Challenge",
+                    "engine": "3.9 V8 (670 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "670/8000",
+                    "powerHp": "670",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2016",
+                    "yearstop": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4587",
+                    "width": "1945",
+                    "height": "1203",
+                    "heightMin": "1203",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1340",
+                    "curbWeightMin": "1340"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-11-06 15:47:14",
+              "name": "488 Spider",
+              "modelYear": "2015",
+              "id": "4714",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22841",
+                    "update": "2023-05-16 09:41:46",
+                    "brand": "Ferrari",
+                    "model": "488",
+                    "generation": "488 Spider",
+                    "engine": "3.9 V8 (670 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "670/8000",
+                    "powerHp": "670",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4568",
+                    "width": "1952",
+                    "height": "1211",
+                    "heightMin": "1211",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "488 GTB",
+              "modelYear": "2015",
+              "id": "4713",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22840",
+                    "update": "2023-05-16 09:41:48",
+                    "brand": "Ferrari",
+                    "model": "488",
+                    "generation": "488 GTB",
+                    "engine": "3.9 V8 (670 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "670/8000",
+                    "powerHp": "670",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2015",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4568",
+                    "width": "1952",
+                    "height": "1213",
+                    "heightMin": "1213",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1420",
+                    "curbWeightMin": "1420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 12:53:44",
+        "name": "GTC4Lusso",
+        "id": "2101",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GTC4Lusso T",
+              "modelYear": "2018",
+              "id": "5241",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27233",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Ferrari",
+                    "model": "GTC4Lusso",
+                    "generation": "GTC4Lusso T",
+                    "engine": "3.9 V8 (610 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "610/7500",
+                    "powerHp": "610",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2017",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4922",
+                    "width": "1980",
+                    "height": "1383",
+                    "heightMin": "1383",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "GTC4Lusso",
+              "modelYear": "2017",
+              "id": "4716",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "22970",
+                    "update": "2023-08-21 13:54:27",
+                    "brand": "Ferrari",
+                    "model": "GTC4Lusso",
+                    "generation": "GTC4Lusso",
+                    "engine": "6.3 V12 (690 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "690/8000",
+                    "powerHp": "690",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4922",
+                    "width": "1980",
+                    "height": "1383",
+                    "heightMin": "1383",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1790",
+                    "curbWeightMin": "1790"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-17 10:16:17",
+        "name": "812",
+        "id": "2234",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-11-06 15:40:00",
+              "name": "812 Competizione A",
+              "modelYear": "2021",
+              "id": "10914",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55726",
+                    "update": "2025-11-06 16:24:32",
+                    "brand": "Ferrari",
+                    "model": "812",
+                    "generation": "812 Competizione A",
+                    "engine": "6.5 V12 (830 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "830/9250",
+                    "powerHp": "830",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4696",
+                    "width": "1971",
+                    "height": "1276",
+                    "heightMin": "1276",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1487",
+                    "curbWeightMin": "1487"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-23 15:05:28",
+              "name": "812 Competizione",
+              "modelYear": "2021",
+              "id": "8535",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44312",
+                    "update": "2025-11-06 14:40:45",
+                    "brand": "Ferrari",
+                    "model": "812",
+                    "generation": "812 Competizione",
+                    "engine": "6.5 V12 (830 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "830/9250",
+                    "powerHp": "830",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2021",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4696",
+                    "width": "1971",
+                    "height": "1276",
+                    "heightMin": "1276",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1487",
+                    "curbWeightMin": "1487"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-23 15:05:28",
+              "name": "812 GTS",
+              "modelYear": "2020",
+              "id": "7574",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39253",
+                    "update": "2025-11-06 14:37:28",
+                    "brand": "Ferrari",
+                    "model": "812",
+                    "generation": "812 GTS",
+                    "engine": "6.5 V12 (800 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/8500",
+                    "powerHp": "800",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4693",
+                    "width": "1971",
+                    "height": "1278",
+                    "heightMin": "1278",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1645",
+                    "curbWeightMin": "1645"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "812 Superfast",
+              "modelYear": "2018",
+              "id": "5527",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "29728",
+                    "update": "2025-11-06 14:39:16",
+                    "brand": "Ferrari",
+                    "model": "812",
+                    "generation": "812 Superfast",
+                    "engine": "6.5 V12 (800 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/8500",
+                    "powerHp": "800",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2017",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4657",
+                    "width": "1971",
+                    "height": "1276",
+                    "heightMin": "1276",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1630",
+                    "curbWeightMin": "1630"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 13:11:25",
+        "name": "Portofino",
+        "id": "2286",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-07-29 15:47:56",
+              "name": "Portofino M",
+              "modelYear": "2021",
+              "id": "8515",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44085",
+                    "update": "2025-11-06 14:31:51",
+                    "brand": "Ferrari",
+                    "model": "Portofino",
+                    "generation": "Portofino M",
+                    "engine": "3.9 V8 (620 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/5750-7500",
+                    "powerHp": "620",
+                    "powerRpm": "5750-7500",
+                    "powerRpmLow": "5750",
+                    "powerRpmHigh": "7500",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4594",
+                    "width": "1938",
+                    "widthOpenedMirrors": "2020",
+                    "height": "1318",
+                    "heightMin": "1318",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Portofino",
+              "modelYear": "2018",
+              "id": "5760",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31861",
+                    "update": "2023-07-26 14:11:44",
+                    "brand": "Ferrari",
+                    "model": "Portofino",
+                    "generation": "Portofino",
+                    "engine": "3.9 V8 (600 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "600/7500",
+                    "powerHp": "600",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4586",
+                    "width": "1938",
+                    "height": "1318",
+                    "heightMin": "1318",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2017-12-11 13:54:48",
+        "name": "FXX",
+        "id": "2319",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-23 08:50:15",
+              "name": "FXX-K Evo",
+              "modelYear": "2018",
+              "id": "5955",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32292",
+                    "update": "2025-11-06 14:30:49",
+                    "brand": "Ferrari",
+                    "model": "FXX",
+                    "generation": "FXX-K Evo",
+                    "engine": "6.3 V12 (1050 Hp) Hybrid DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "860/9200",
+                    "powerHp": "860",
+                    "powerRpm": "9200",
+                    "powerRpmLow": "9200",
+                    "yearstart": "2017",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 08:50:15",
+              "name": "FXX-K",
+              "modelYear": "2015",
+              "id": "5954",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32063",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Ferrari",
+                    "model": "FXX",
+                    "generation": "FXX-K",
+                    "engine": "6.3 V12 (1050 Hp) Hybrid DCT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "860/9200",
+                    "powerHp": "860",
+                    "powerRpm": "9200",
+                    "powerRpmLow": "9200",
+                    "yearstart": "2014",
+                    "yearstop": "2017",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4896",
+                    "width": "2051",
+                    "height": "1116",
+                    "heightMin": "1116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-23 08:50:15",
+              "name": "FXX",
+              "modelYear": "2005",
+              "id": "8438",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43709",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "FXX",
+                    "generation": "FXX",
+                    "engine": "6.3 V12 (800 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/8500",
+                    "powerHp": "800",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4832",
+                    "width": "2040",
+                    "height": "1127",
+                    "heightMin": "1127",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1155",
+                    "curbWeightMin": "1155"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-05 13:23:35",
+        "name": "Monza",
+        "id": "2519",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Monza SP",
+              "modelYear": "2019",
+              "id": "6551",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34276",
+                    "update": "2025-11-06 14:33:23",
+                    "brand": "Ferrari",
+                    "model": "Monza",
+                    "generation": "Monza SP",
+                    "engine": "SP1 6.5 V12 (810 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "810/8500",
+                    "powerHp": "810",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "1",
+                    "placesMin": "1",
+                    "length": "4657",
+                    "width": "1996",
+                    "height": "1155",
+                    "heightMin": "1155",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "34277",
+                    "update": "2025-11-06 14:33:20",
+                    "brand": "Ferrari",
+                    "model": "Monza",
+                    "generation": "Monza SP",
+                    "engine": "SP2 6.5 V12 (810 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "810/8500",
+                    "powerHp": "810",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4657",
+                    "width": "1996",
+                    "height": "1155",
+                    "heightMin": "1155",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-25 11:50:40",
+        "name": "SF90",
+        "id": "2714",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-06-30 09:38:17",
+              "name": "SF90 XX Spider",
+              "modelYear": "2023",
+              "id": "9563",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48990",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Ferrari",
+                    "model": "SF90",
+                    "generation": "SF90 XX Spider",
+                    "engine": "4.0 V8 (1030 Hp) Plug-in Hybrid E4WD F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "797/7900",
+                    "powerHp": "797",
+                    "powerRpm": "7900",
+                    "powerRpmLow": "7900",
+                    "yearstart": "2023",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4850",
+                    "width": "2014",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-30 09:38:09",
+              "name": "SF90 XX Stradale",
+              "modelYear": "2023",
+              "id": "9562",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48989",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Ferrari",
+                    "model": "SF90",
+                    "generation": "SF90 XX Stradale",
+                    "engine": "4.0 V8 (1030 Hp) Plug-in Hybrid E4WD F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "797/7900",
+                    "powerHp": "797",
+                    "powerRpm": "7900",
+                    "powerRpmLow": "7900",
+                    "yearstart": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4850",
+                    "width": "2014",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-06-30 09:33:11",
+              "name": "SF90 Spider",
+              "modelYear": "2021",
+              "id": "7987",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41753",
+                    "update": "2025-11-06 14:29:02",
+                    "brand": "Ferrari",
+                    "model": "SF90",
+                    "generation": "SF90 Spider",
+                    "engine": "4.0 V8 (1000 Hp) Plug-in Hybrid AWD F1",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "780/7500",
+                    "powerHp": "780",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4704",
+                    "width": "1973",
+                    "height": "1191",
+                    "heightMin": "1191",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "SF90 Stradale",
+              "modelYear": "2020",
+              "id": "7232",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37432",
+                    "update": "2025-11-06 14:28:54",
+                    "brand": "Ferrari",
+                    "model": "SF90",
+                    "generation": "SF90 Stradale",
+                    "engine": "4.0 V8 (1000 Hp) Plug-in Hybrid Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "780/7500",
+                    "powerHp": "780",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4710",
+                    "width": "1972",
+                    "height": "1186",
+                    "heightMin": "1186",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-02 13:44:26",
+        "name": "Roma",
+        "id": "2756",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-03-20 09:58:33",
+              "name": "Roma Spider",
+              "modelYear": "2023",
+              "id": "9403",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48239",
+                    "update": "2023-07-27 09:33:07",
+                    "brand": "Ferrari",
+                    "model": "Roma",
+                    "generation": "Roma Spider",
+                    "engine": "3.9 V8 (620 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/5750-7500",
+                    "powerHp": "620",
+                    "powerRpm": "5750-7500",
+                    "powerRpmLow": "5750",
+                    "powerRpmHigh": "7500",
+                    "yearstart": "2023",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4656",
+                    "width": "1974",
+                    "height": "1306",
+                    "heightMin": "1306",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1556",
+                    "curbWeightMin": "1556"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roma",
+              "modelYear": "2020",
+              "id": "7408",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38040",
+                    "update": "2023-07-27 09:33:33",
+                    "brand": "Ferrari",
+                    "model": "Roma",
+                    "generation": "Roma",
+                    "engine": "3.9 V8 (620 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "620/5750-7500",
+                    "powerHp": "620",
+                    "powerRpm": "5750-7500",
+                    "powerRpmLow": "5750",
+                    "powerRpmHigh": "7500",
+                    "yearstart": "2020",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4656",
+                    "width": "1974",
+                    "height": "1301",
+                    "heightMin": "1301",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-31 13:34:58",
+        "name": "F8",
+        "id": "2785",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-08-31 13:34:42",
+              "name": "F8 Tributo",
+              "modelYear": "2020",
+              "id": "6969",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36260",
+                    "update": "2025-10-29 13:21:18",
+                    "brand": "Ferrari",
+                    "model": "F8",
+                    "generation": "F8 Tributo",
+                    "engine": "3.9 V8 (720 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/7000",
+                    "powerHp": "720",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4611",
+                    "width": "1979",
+                    "height": "1206",
+                    "heightMin": "1206",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1435",
+                    "curbWeightMin": "1435"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F8 Spider",
+              "modelYear": "2020",
+              "id": "7573",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39252",
+                    "update": "2025-10-29 13:21:44",
+                    "brand": "Ferrari",
+                    "model": "F8",
+                    "generation": "F8 Spider",
+                    "engine": "3.9 V8 (720 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/8000",
+                    "powerHp": "720",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4611",
+                    "width": "1979",
+                    "height": "1206",
+                    "heightMin": "1206",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-05-21 14:53:10",
+        "name": "Berlinetta Boxer",
+        "id": "2812",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "512 BB",
+              "modelYear": "1977",
+              "id": "1484",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "6521",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "Berlinetta Boxer",
+                    "generation": "512 BB",
+                    "engine": "4.9 (322 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "322",
+                    "powerHp": "322",
+                    "yearstart": "1981",
+                    "yearstop": "1984",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "6522",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "Berlinetta Boxer",
+                    "generation": "512 BB",
+                    "engine": "4.9 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/6000",
+                    "powerHp": "340",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1976",
+                    "yearstop": "1981",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4400",
+                    "width": "1830",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1499",
+                    "curbWeightMin": "1499"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-28 11:17:45",
+        "name": "F50",
+        "id": "2832",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-22 13:51:41",
+              "name": "F50 GT",
+              "modelYear": "1996",
+              "id": "8432",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43698",
+                    "update": "2023-07-26 14:04:21",
+                    "brand": "Ferrari",
+                    "model": "F50",
+                    "generation": "F50 GT",
+                    "engine": "4.7 V12 (750 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/10500",
+                    "powerHp": "750",
+                    "powerRpm": "10500",
+                    "powerRpmLow": "10500",
+                    "yearstart": "1996",
+                    "yearstop": "1996",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4578",
+                    "width": "1986",
+                    "height": "1092",
+                    "heightMin": "1092",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "860",
+                    "curbWeightMin": "860"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "F50",
+              "modelYear": "1995",
+              "id": "7965",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41752",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Ferrari",
+                    "model": "F50",
+                    "generation": "F50",
+                    "engine": "4.7 V12 (520 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "520/8500",
+                    "powerHp": "520",
+                    "powerRpm": "8500",
+                    "powerRpmLow": "8500",
+                    "yearstart": "1995",
+                    "yearstop": "1997",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4480",
+                    "width": "1986",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "rideHeight": "115",
+                    "rideHeightMin": "115",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-09 09:02:20",
+        "name": "250 GT",
+        "id": "2834",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-06-24 08:44:14",
+              "name": "250 GT/E 2+2",
+              "modelYear": "1960",
+              "id": "8621",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44955",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Ferrari",
+                    "model": "250 GT",
+                    "generation": "250 GT/E 2+2",
+                    "engine": "3.0 V12 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/7000",
+                    "powerHp": "240",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1959",
+                    "yearstop": "1963",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4700",
+                    "width": "1710",
+                    "height": "1340",
+                    "heightMin": "1340",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-06-24 08:44:14",
+              "name": "250 GT Pininfarina Cabriolet (Series 1)",
+              "modelYear": "1957",
+              "id": "8934",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "250 GT Cabriolet",
+              "modelYear": "1957",
+              "id": "7989",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41754",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "250 GT",
+                    "generation": "250 GT Cabriolet",
+                    "engine": "3.0 V12 (240 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "240/7000",
+                    "powerHp": "240",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1957",
+                    "yearstop": "1962",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-09 08:52:06",
+        "name": "250 GTO",
+        "id": "2835",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "250 GTO",
+              "modelYear": "1962",
+              "id": "7990",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41755",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "250 GTO",
+                    "generation": "250 GTO",
+                    "engine": "3.0 V12 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7400",
+                    "powerHp": "300",
+                    "powerRpm": "7400",
+                    "powerRpmLow": "7400",
+                    "yearstart": "1962",
+                    "yearstop": "1964",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4325",
+                    "width": "1600",
+                    "height": "1210",
+                    "heightMin": "1210",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "880",
+                    "curbWeightMin": "880"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-10-11 15:16:10",
+        "name": "330",
+        "id": "2836",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-10-13 09:36:22",
+              "name": "330 GTC",
+              "modelYear": "1966",
+              "id": "7991",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41756",
+                    "update": "2023-07-27 11:45:35",
+                    "brand": "Ferrari",
+                    "model": "330",
+                    "generation": "330 GTC",
+                    "engine": "4.0 V12 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7000",
+                    "powerHp": "300",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1966",
+                    "yearstop": "1968",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4470",
+                    "width": "1665",
+                    "height": "1282",
+                    "heightMin": "1282",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-10-13 09:36:22",
+              "name": "330 GT 2+2 (Serie 2)",
+              "modelYear": "1965",
+              "id": "8630",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44832",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Ferrari",
+                    "model": "330",
+                    "generation": "330 GT 2+2 (Serie 2)",
+                    "engine": "4.0 V12 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/7000",
+                    "powerHp": "300",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1964",
+                    "yearstop": "1967",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4840",
+                    "width": "1715",
+                    "height": "1360",
+                    "heightMin": "1360",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1380",
+                    "curbWeightMin": "1380"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-09 09:07:59",
+        "name": "375",
+        "id": "2837",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "375 America",
+              "modelYear": "1953",
+              "id": "7996",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41759",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "375",
+                    "generation": "375 America",
+                    "engine": "4.5 V12 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/6300",
+                    "powerHp": "300",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "1953",
+                    "yearstop": "1954",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "375 MM",
+              "modelYear": "1953",
+              "id": "7992",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41757",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "375",
+                    "generation": "375 MM",
+                    "engine": "4.5 V12 (340 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "340/7000",
+                    "powerHp": "340",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1953",
+                    "yearstop": "1955",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "900",
+                    "curbWeightMin": "900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-12-09 09:15:39",
+        "name": "750 Monza",
+        "id": "2838",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "750 Monza",
+              "modelYear": "1954",
+              "id": "7993",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41758",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Ferrari",
+                    "model": "750 Monza",
+                    "generation": "750 Monza",
+                    "engine": "3.0 (260 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "260",
+                    "powerHp": "260",
+                    "yearstart": "1954",
+                    "yearstop": "1954",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "760",
+                    "curbWeightMin": "760"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-06-22 14:54:01",
+        "name": "GTO",
+        "id": "2949",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-22 14:54:32",
+              "name": "288 GTO",
+              "modelYear": "1984",
+              "id": "8435",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43702",
+                    "update": "2022-09-12 16:55:28",
+                    "brand": "Ferrari",
+                    "model": "GTO",
+                    "generation": "288 GTO",
+                    "engine": "2.9 V8 (400 Hp)",
+                    "power": "400/7000",
+                    "powerHp": "400",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "1984",
+                    "yearstop": "1987",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4290",
+                    "width": "1910",
+                    "height": "1120",
+                    "heightMin": "1120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-04-20 08:26:16",
+        "name": "296",
+        "id": "2950",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-04-30 09:44:15",
+              "name": "296 Speciale A",
+              "modelYear": "2026",
+              "id": "10520",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54202",
+                    "update": "2025-05-07 08:37:05",
+                    "brand": "Ferrari",
+                    "model": "296",
+                    "generation": "296 Speciale A",
+                    "engine": "3.0 V6 (880 Hp) Plug-in Hybrid F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "700/8000",
+                    "powerHp": "700",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2025",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4625",
+                    "width": "1968",
+                    "height": "1181",
+                    "heightMin": "1181",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1490",
+                    "curbWeightMin": "1490"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-04-30 09:43:48",
+              "name": "296 Speciale",
+              "modelYear": "2026",
+              "id": "10519",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54201",
+                    "update": "2025-05-07 08:36:28",
+                    "brand": "Ferrari",
+                    "model": "296",
+                    "generation": "296 Speciale",
+                    "engine": "3.0 V6 (880 Hp) Plug-in Hybrid F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "700/8000",
+                    "powerHp": "700",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4625",
+                    "width": "1968",
+                    "height": "1181",
+                    "heightMin": "1181",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1410",
+                    "curbWeightMin": "1410"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-04-20 08:32:17",
+              "name": "296 GTS",
+              "modelYear": "2022",
+              "id": "8845",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45695",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Ferrari",
+                    "model": "296",
+                    "generation": "296 GTS",
+                    "engine": "3.0 V6 (830 Hp) Plug-in Hybrid F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "663",
+                    "powerHp": "663",
+                    "yearstart": "2022",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4565",
+                    "width": "1958",
+                    "height": "1191",
+                    "heightMin": "1191",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-06-24 15:44:39",
+              "name": "296 GTB",
+              "modelYear": "2021",
+              "id": "8447",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43732",
+                    "update": "2023-10-16 10:54:56",
+                    "brand": "Ferrari",
+                    "model": "296",
+                    "generation": "296 GTB",
+                    "engine": "3.0 V6 (830 Hp) Plug-in Hybrid F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "663/8000",
+                    "powerHp": "663",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4565",
+                    "width": "1958",
+                    "height": "1187",
+                    "heightMin": "1187",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-08-18 12:46:51",
+        "name": "365",
+        "id": "2989",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-01-03 15:10:31",
+              "name": "365 GTB4 (Daytona)",
+              "modelYear": "1969",
+              "id": "9179",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47117",
+                    "update": "2023-07-27 08:37:41",
+                    "brand": "Ferrari",
+                    "model": "365",
+                    "generation": "365 GTB4 (Daytona)",
+                    "engine": "4.4 V12 (352 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "352/7500",
+                    "powerHp": "352",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "1969",
+                    "yearstop": "1973",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4425",
+                    "width": "1760",
+                    "height": "1245",
+                    "heightMin": "1245",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-06-16 09:39:18",
+              "name": "365 GTC",
+              "modelYear": "1968",
+              "id": "8917",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-08-18 12:47:59",
+              "name": "365 GT 2+2",
+              "modelYear": "1967",
+              "id": "8541",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44321",
+                    "update": "2023-01-03 15:38:39",
+                    "brand": "Ferrari",
+                    "model": "365",
+                    "generation": "365 GT 2+2",
+                    "engine": "4.4 V12 (320 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "320/6600",
+                    "powerHp": "320",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "1967",
+                    "yearstop": "1971",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4974",
+                    "width": "1786",
+                    "height": "1345",
+                    "heightMin": "1345",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-10-11 13:04:56",
+        "name": "275",
+        "id": "3019",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-10-18 09:44:27",
+              "name": "275 GTB",
+              "modelYear": "1964",
+              "id": "8619",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "44819",
+                    "update": "2023-07-27 11:48:51",
+                    "brand": "Ferrari",
+                    "model": "275",
+                    "generation": "275 GTB",
+                    "engine": "GTB/4 3.3 V12 (300 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "300/8000",
+                    "powerHp": "300",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "1966",
+                    "yearstop": "1968",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "44821",
+                    "update": "2023-07-27 11:48:52",
+                    "brand": "Ferrari",
+                    "model": "275",
+                    "generation": "275 GTB",
+                    "engine": "GTB 3.3 V12 (280 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "280/7600",
+                    "powerHp": "280",
+                    "powerRpm": "7600",
+                    "powerRpmLow": "7600",
+                    "yearstart": "1964",
+                    "yearstop": "1966",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4325",
+                    "width": "1725",
+                    "height": "1245",
+                    "heightMin": "1245",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-12 08:17:54",
+        "name": "BR20",
+        "id": "3033",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-12 08:18:10",
+              "name": "BR20",
+              "modelYear": "2022",
+              "id": "8693",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-22 08:53:51",
+        "name": "Daytona SP3",
+        "id": "3041",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-22 09:03:19",
+              "name": "Daytona SP3",
+              "modelYear": "2022",
+              "id": "8706",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45102",
+                    "update": "2022-05-16 13:06:08",
+                    "brand": "Ferrari",
+                    "model": "Daytona SP3",
+                    "generation": "Daytona SP3",
+                    "engine": "6.5 V12 (840 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "840/9250",
+                    "powerHp": "840",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2022",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4686",
+                    "width": "2050",
+                    "height": "1142",
+                    "heightMin": "1142",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-05-09 14:59:56",
+        "name": "SP48 Unica",
+        "id": "3115",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-05-09 15:00:48",
+              "name": "SP48 Unica",
+              "modelYear": "2022",
+              "id": "8865",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2022-09-14 10:07:09",
+        "name": "Purosangue",
+        "id": "3159",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-09-14 10:07:37",
+              "name": "Purosangue",
+              "modelYear": "2023",
+              "id": "9021",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46494",
+                    "update": "2022-09-17 07:51:07",
+                    "brand": "Ferrari",
+                    "model": "Purosangue",
+                    "generation": "Purosangue",
+                    "engine": "6.5 V12 (725 Hp) AWD F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "725/7750",
+                    "powerHp": "725",
+                    "powerRpm": "7750",
+                    "powerRpmLow": "7750",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4973",
+                    "width": "2028",
+                    "height": "1589",
+                    "heightMin": "1589",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2033",
+                    "curbWeightMin": "2033"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-19 10:50:57",
+        "name": "500 Superfast",
+        "id": "3406",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 10:51:40",
+              "name": "500 Superfast",
+              "modelYear": "1964",
+              "id": "9931",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-05-07 08:51:39",
+        "name": "12Cilindri",
+        "id": "3438",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-05-07 08:59:44",
+              "name": "12Cilindri Spider",
+              "modelYear": "2024",
+              "id": "10009",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51667",
+                    "update": "2024-05-07 16:26:05",
+                    "brand": "Ferrari",
+                    "model": "12Cilindri",
+                    "generation": "12Cilindri Spider",
+                    "engine": "6.5 V12 (830 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "830/9250",
+                    "powerHp": "830",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2024",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "width": "2176",
+                    "height": "1292",
+                    "heightMin": "1292",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-05-07 08:53:08",
+              "name": "12Cilindri",
+              "modelYear": "2024",
+              "id": "10008",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51666",
+                    "update": "2024-05-07 16:26:05",
+                    "brand": "Ferrari",
+                    "model": "12Cilindri",
+                    "generation": "12Cilindri",
+                    "engine": "6.5 V12 (830 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "830/9250",
+                    "powerHp": "830",
+                    "powerRpm": "9250",
+                    "powerRpmLow": "9250",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4733",
+                    "width": "2176",
+                    "height": "1292",
+                    "heightMin": "1292",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1560",
+                    "curbWeightMin": "1560"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-10-17 15:23:36",
+        "name": "F80",
+        "id": "3505",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-10-17 15:26:23",
+              "name": "F80",
+              "modelYear": "2025",
+              "id": "10214",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52974",
+                    "update": "2024-10-17 16:38:27",
+                    "brand": "Ferrari",
+                    "model": "F80",
+                    "generation": "F80",
+                    "engine": "3.0 V6 (1200 Hp) Mild Hybrid e-4WD F1 DCT",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "900/8750",
+                    "powerHp": "900",
+                    "powerRpm": "8750",
+                    "powerRpmLow": "8750",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4840",
+                    "width": "2060",
+                    "height": "1138",
+                    "heightMin": "1138",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-07-02 08:32:04",
+        "name": "Amalfi",
+        "id": "3729",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-13 07:58:15",
+              "name": "Amalfi Spider",
+              "modelYear": "2027",
+              "id": "11120",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56689",
+                    "update": "2026-03-13 16:13:38",
+                    "brand": "Ferrari",
+                    "model": "Amalfi",
+                    "generation": "Amalfi Spider",
+                    "engine": "3.9 V8 (640 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/7500",
+                    "powerHp": "640",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2026",
+                    "coupe": "Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4660",
+                    "width": "1974",
+                    "height": "1305",
+                    "heightMin": "1305",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1556",
+                    "curbWeightMin": "1556"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-02 08:32:24",
+              "name": "Amalfi",
+              "modelYear": "2026",
+              "id": "10647",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54774",
+                    "update": "2026-03-13 08:48:59",
+                    "brand": "Ferrari",
+                    "model": "Amalfi",
+                    "generation": "Amalfi",
+                    "engine": "3.9 V8 (640 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "640/7500",
+                    "powerHp": "640",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4660",
+                    "width": "1974",
+                    "height": "1301",
+                    "heightMin": "1301",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-10 07:48:25",
+        "name": "849 Testarossa",
+        "id": "3802",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-10 07:48:57",
+              "name": "849 Testarossa Spider",
+              "modelYear": "2026",
+              "id": "10802",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55314",
+                    "update": "2025-09-10 14:18:21",
+                    "brand": "Ferrari",
+                    "model": "849 Testarossa",
+                    "generation": "849 Testarossa Spider",
+                    "engine": "4.0 V8 (1050 Hp) Plug-in Hybrid AWD F1",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "830/7500",
+                    "powerHp": "830",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2025",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4718",
+                    "width": "2304",
+                    "height": "1186",
+                    "heightMin": "1186",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1660",
+                    "curbWeightMin": "1660"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-09-10 07:48:46",
+              "name": "849 Testarossa",
+              "modelYear": "2026",
+              "id": "10801",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55313",
+                    "update": "2025-09-10 14:18:21",
+                    "brand": "Ferrari",
+                    "model": "849 Testarossa",
+                    "generation": "849 Testarossa",
+                    "engine": "4.0 V8 (1050 Hp) Plug-in Hybrid AWD F1",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "830/7500",
+                    "powerHp": "830",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4718",
+                    "width": "2304",
+                    "height": "1225",
+                    "heightMin": "1225",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-13 11:03:16",
+        "name": "GTS Turbo",
+        "id": "3994",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-13 11:03:47",
+              "name": "GTS Turbo",
+              "modelYear": "1986",
+              "id": "11219",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57010",
+                    "update": "2026-05-15 16:09:49",
+                    "brand": "Ferrari",
+                    "model": "GTS Turbo",
+                    "generation": "GTS Turbo",
+                    "engine": "2.0 V8 (254 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "254/6500",
+                    "powerHp": "254",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "1986",
+                    "yearstop": "1989",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4255",
+                    "width": "1730",
+                    "height": "1128",
+                    "heightMin": "1128",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1275",
+                    "curbWeightMin": "1275"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-18 08:13:53",
+        "name": "HC25",
+        "id": "4016",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-18 08:14:28",
+              "name": "HC25",
+              "modelYear": "2026",
+              "id": "11254",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57031",
+                    "update": "2026-05-18 16:19:14",
+                    "brand": "Ferrari",
+                    "model": "HC25",
+                    "generation": "HC25",
+                    "engine": "3.9 V8 (720 Hp) F1 DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "720/7000",
+                    "powerHp": "720",
+                    "powerRpm": "7000",
+                    "powerRpmLow": "7000",
+                    "yearstart": "2026",
+                    "coupe": "Coupe - Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4758",
+                    "width": "2006",
+                    "height": "1183",
+                    "heightMin": "1183",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-05-26 08:07:46",
+        "name": "Luce",
+        "id": "4022",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-05-26 08:51:26",
+              "name": "Luce",
+              "modelYear": "2027",
+              "id": "11264",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57080",
+                    "update": "2026-05-26 09:03:34",
+                    "brand": "Ferrari",
+                    "model": "Luce",
+                    "generation": "Luce",
+                    "engine": "122 kWh (1050 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5026",
+                    "width": "1999",
+                    "height": "1544",
+                    "heightMin": "1544",
+                    "fuel": "Electricity",
+                    "curbWeight": "2260",
+                    "curbWeightMin": "2260"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Lucid",
+  "id": "302",
+  "models": {
+    "model": [
+      {
+        "update": "2021-09-24 15:46:52",
+        "name": "Air",
+        "id": "3006",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-09-24 15:48:57",
+              "name": "Air",
+              "modelYear": "2022",
+              "id": "8590",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46526",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Dream Edition Performance 118 kWh (1111 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4975",
+                    "width": "1939",
+                    "widthOpenedMirrors": "2196",
+                    "height": "1414",
+                    "heightMin": "1414",
+                    "rideHeight": "136",
+                    "rideHeightMin": "136",
+                    "fuel": "Electricity",
+                    "curbWeight": "2375",
+                    "curbWeightMin": "2375"
+                  },
+                  {
+                    "id": "46527",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Dream Edition Range 118 kWh (933 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4975",
+                    "width": "1939",
+                    "widthOpenedMirrors": "2196",
+                    "height": "1408",
+                    "heightMin": "1408",
+                    "rideHeight": "126",
+                    "rideHeightMin": "126",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  },
+                  {
+                    "id": "46528",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Grand Touring 112 kWh (819 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4975",
+                    "width": "1939",
+                    "widthOpenedMirrors": "2196",
+                    "height": "1408",
+                    "heightMin": "1408",
+                    "rideHeight": "126",
+                    "rideHeightMin": "126",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "51298",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Pure 88 kWh (430 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4976",
+                    "width": "1935",
+                    "widthOpenedMirrors": "2195",
+                    "height": "1407",
+                    "heightMin": "1407",
+                    "rideHeight": "124",
+                    "rideHeightMin": "124",
+                    "fuel": "Electricity",
+                    "curbWeight": "2070",
+                    "curbWeightMin": "2070"
+                  },
+                  {
+                    "id": "51299",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Touring 92 kWh (620 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4976",
+                    "width": "1935",
+                    "widthOpenedMirrors": "2195",
+                    "height": "1407",
+                    "heightMin": "1407",
+                    "rideHeight": "124",
+                    "rideHeightMin": "124",
+                    "fuel": "Electricity",
+                    "curbWeight": "2263",
+                    "curbWeightMin": "2263"
+                  },
+                  {
+                    "id": "51300",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Lucid",
+                    "model": "Air",
+                    "generation": "Air",
+                    "engine": "Sapphire 118 kWh (1235 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5004",
+                    "width": "1989",
+                    "widthOpenedMirrors": "2195",
+                    "height": "1407",
+                    "heightMin": "1407",
+                    "fuel": "Electricity",
+                    "curbWeight": "2420",
+                    "curbWeightMin": "2420"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-03-19 12:49:07",
+        "name": "Gravity",
+        "id": "3409",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-03-19 12:50:27",
+              "name": "Gravity",
+              "modelYear": "2025",
+              "id": "9938",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55333",
+                    "update": "2025-09-11 16:24:11",
+                    "brand": "Lucid",
+                    "model": "Gravity",
+                    "generation": "Gravity",
+                    "engine": "Grand Touring 123 kWh (828 Hp) AWD Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5034",
+                    "width": "1999",
+                    "widthOpenedMirrors": "2215",
+                    "height": "1656",
+                    "heightMin": "1656",
+                    "rideHeight": "178",
+                    "rideHeightMin": "178",
+                    "fuel": "Electricity",
+                    "curbWeight": "2679",
+                    "curbWeightMin": "2679"
+                  },
+                  {
+                    "id": "55334",
+                    "update": "2025-09-11 16:24:11",
+                    "brand": "Lucid",
+                    "model": "Gravity",
+                    "generation": "Gravity",
+                    "engine": "Grand Touring 123 kWh (828 Hp) AWD Electric 7 Seat",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5034",
+                    "width": "1999",
+                    "widthOpenedMirrors": "2215",
+                    "height": "1656",
+                    "heightMin": "1656",
+                    "rideHeight": "178",
+                    "rideHeightMin": "178",
+                    "fuel": "Electricity",
+                    "curbWeight": "2743",
+                    "curbWeightMin": "2743"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

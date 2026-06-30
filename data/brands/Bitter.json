@@ -1,0 +1,106 @@
+{
+  "update": "2019-08-14 16:05:48",
+  "name": "Bitter",
+  "id": "76",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-06 16:52:39",
+        "name": "Type 3",
+        "id": "863",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:53:23",
+              "name": "Type 3 Cabriolet",
+              "modelYear": "1987",
+              "id": "1819",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "8265",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bitter",
+                    "model": "Type 3",
+                    "generation": "Type 3 Cabriolet",
+                    "engine": "3.0 i (204 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "204",
+                    "powerHp": "204",
+                    "yearstart": "1991",
+                    "yearstop": "1992",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "8266",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bitter",
+                    "model": "Type 3",
+                    "generation": "Type 3 Cabriolet",
+                    "engine": "4.0 i (272 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "272",
+                    "powerHp": "272",
+                    "yearstart": "1991",
+                    "yearstop": "1992",
+                    "coupe": "Cabriolet",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-05-14 08:41:26",
+        "name": "Vero",
+        "id": "2930",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-05-14 08:44:14",
+              "name": "Vero",
+              "modelYear": "2008",
+              "id": "8362",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43392",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "Bitter",
+                    "model": "Vero",
+                    "generation": "Vero",
+                    "engine": "6.0 V8 (378 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "378/5700",
+                    "powerHp": "378",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "2008",
+                    "yearstop": "2008",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5200",
+                    "width": "1899",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1890",
+                    "curbWeightMin": "1890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

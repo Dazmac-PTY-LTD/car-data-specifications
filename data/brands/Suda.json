@@ -1,0 +1,51 @@
+{
+  "update": "2022-12-20 15:02:12",
+  "name": "Suda",
+  "id": "317",
+  "models": {
+    "model": [
+      {
+        "update": "2022-12-20 15:04:37",
+        "name": "SA01",
+        "id": "3202",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-20 15:44:50",
+              "name": "SA01",
+              "modelYear": "2021",
+              "id": "9169",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "47049",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Suda",
+                    "model": "SA01",
+                    "generation": "SA01",
+                    "engine": "39.5 kWh (109 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2020",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4417",
+                    "width": "1737",
+                    "height": "1576",
+                    "heightMin": "1576",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Electricity",
+                    "curbWeight": "1390",
+                    "curbWeightMin": "1390"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

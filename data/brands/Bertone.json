@@ -1,0 +1,215 @@
+{
+  "update": "2019-08-14 15:57:04",
+  "name": "Bertone",
+  "id": "71",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-14 15:57:04",
+        "name": "Freeclimber",
+        "id": "792",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:52:08",
+              "name": "Freeclimber 2",
+              "modelYear": "1992",
+              "id": "1640",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7289",
+                    "update": "2022-07-26 14:23:00",
+                    "brand": "Bertone",
+                    "model": "Freeclimber",
+                    "generation": "Freeclimber 2",
+                    "engine": "1.6 (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/",
+                    "powerHp": "100",
+                    "yearstart": "1992",
+                    "yearstop": "1996",
+                    "coupe": "Off-road vehicle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-06 16:52:08",
+              "name": "Freeclimber",
+              "modelYear": "1989",
+              "id": "1641",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7290",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bertone",
+                    "model": "Freeclimber",
+                    "generation": "Freeclimber",
+                    "engine": "2.0 (129 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "129/",
+                    "powerHp": "129",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Off-road vehicle",
+                    "places": "4",
+                    "placesMin": "4",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "7291",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bertone",
+                    "model": "Freeclimber",
+                    "generation": "Freeclimber",
+                    "engine": "2.0 CAT (129 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "129",
+                    "powerHp": "129",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "7292",
+                    "update": "2023-06-28 08:56:36",
+                    "brand": "Bertone",
+                    "model": "Freeclimber",
+                    "generation": "Freeclimber",
+                    "engine": "2.4 TD (115 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115",
+                    "powerHp": "115",
+                    "yearstart": "1989",
+                    "yearstop": "1993",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "7293",
+                    "update": "2023-10-26 15:14:24",
+                    "brand": "Bertone",
+                    "model": "Freeclimber",
+                    "generation": "Freeclimber",
+                    "engine": "2.7 (129 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "129/",
+                    "powerHp": "129",
+                    "yearstart": "1990",
+                    "yearstop": "1993",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-02-13 08:22:39",
+        "name": "GB110",
+        "id": "3568",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-02-13 08:28:03",
+              "name": "GB110",
+              "modelYear": "2024",
+              "id": "10371",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53689",
+                    "update": "2025-02-13 16:10:14",
+                    "brand": "Bertone",
+                    "model": "GB110",
+                    "generation": "GB110",
+                    "engine": "5.2 V10 (1124 Hp) AWD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1124/8170",
+                    "powerHp": "1124",
+                    "powerRpm": "8170",
+                    "powerRpmLow": "8170",
+                    "yearstart": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4535",
+                    "width": "1990",
+                    "widthOpenedMirrors": "2232",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Synthetic gasoline",
+                    "curbWeight": "1423",
+                    "curbWeightMin": "1423"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-01-26 14:45:25",
+        "name": "Runabout",
+        "id": "3926",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-01-26 14:46:13",
+              "name": "Runabout",
+              "modelYear": "2026",
+              "id": "11041",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56247",
+                    "update": "2026-01-26 16:18:42",
+                    "brand": "Bertone",
+                    "model": "Runabout",
+                    "generation": "Runabout",
+                    "engine": "3.5 V6 (475 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "475",
+                    "powerHp": "475",
+                    "yearstart": "2026",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3990",
+                    "width": "1933",
+                    "height": "1116",
+                    "heightMin": "1116",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1057",
+                    "curbWeightMin": "1057"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "update": "2020-05-21 16:38:53",
+  "name": "Paykan",
+  "id": "39",
+  "models": {
+    "model": [
+      {
+        "update": "2020-05-21 16:38:50",
+        "name": "Saloon",
+        "id": "385",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Saloon",
+              "modelYear": "1985",
+              "id": "762",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "3103",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Paykan",
+                    "model": "Saloon",
+                    "generation": "Saloon",
+                    "engine": "1.6 (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/5000",
+                    "powerHp": "65",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "1985",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4345",
+                    "width": "1615",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "915",
+                    "curbWeightMin": "915"
+                  },
+                  {
+                    "id": "3104",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Paykan",
+                    "model": "Saloon",
+                    "generation": "Saloon",
+                    "engine": "1.8 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73/5250",
+                    "powerHp": "73",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "1989",
+                    "yearstop": "2005",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4270",
+                    "width": "1620",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "920",
+                    "curbWeightMin": "920"
+                  },
+                  {
+                    "id": "16708",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Paykan",
+                    "model": "Saloon",
+                    "generation": "Saloon",
+                    "engine": "1.8 (96 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "96/6000",
+                    "powerHp": "96",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2001",
+                    "yearstop": "2010",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4502",
+                    "width": "1735",
+                    "height": "1462",
+                    "heightMin": "1462",
+                    "rideHeight": "123",
+                    "rideHeightMin": "123",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "915",
+                    "curbWeightMin": "915"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

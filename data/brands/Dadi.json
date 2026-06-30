@@ -1,0 +1,192 @@
+{
+  "update": "2019-05-22 15:10:14",
+  "name": "Dadi",
+  "id": "186",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-29 09:06:18",
+        "name": "City Leading",
+        "id": "1825",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 09:54:01",
+              "name": "City Leading",
+              "modelYear": "2005",
+              "id": "3579",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16035",
+                    "update": "2023-06-15 08:50:31",
+                    "brand": "Dadi",
+                    "model": "City Leading",
+                    "generation": "City Leading",
+                    "engine": "2.4L (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5250",
+                    "powerHp": "125",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5060",
+                    "width": "1780",
+                    "height": "1860",
+                    "heightMin": "1860",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1795",
+                    "curbWeightMin": "1795"
+                  },
+                  {
+                    "id": "16036",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Dadi",
+                    "model": "City Leading",
+                    "generation": "City Leading",
+                    "engine": "2.8 D (88 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "88/3600",
+                    "powerHp": "88",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5060",
+                    "width": "1780",
+                    "height": "1860",
+                    "heightMin": "1860",
+                    "fuel": "Diesel",
+                    "curbWeight": "1795",
+                    "curbWeightMin": "1795"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 09:11:41",
+        "name": "Shuttle",
+        "id": "1826",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Shuttle",
+              "modelYear": "2008",
+              "id": "3580",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16037",
+                    "update": "2023-08-18 13:38:21",
+                    "brand": "Dadi",
+                    "model": "Shuttle",
+                    "generation": "Shuttle",
+                    "engine": "2.3 (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5250",
+                    "powerHp": "130",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2007",
+                    "yearstop": "2011",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1785",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-29 09:14:15",
+        "name": "Smoothing",
+        "id": "1827",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Smoothing",
+              "modelYear": "2006",
+              "id": "3581",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "16038",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Dadi",
+                    "model": "Smoothing",
+                    "generation": "Smoothing",
+                    "engine": "2.2 (105 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "105",
+                    "powerHp": "105",
+                    "yearstart": "2006",
+                    "yearstop": "2007",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5035",
+                    "width": "1740",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  },
+                  {
+                    "id": "16039",
+                    "update": "2023-06-15 08:48:02",
+                    "brand": "Dadi",
+                    "model": "Smoothing",
+                    "generation": "Smoothing",
+                    "engine": "2.4 i (125 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "125/5250",
+                    "powerHp": "125",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2006",
+                    "yearstop": "2007",
+                    "coupe": "Pick-up",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5035",
+                    "width": "1740",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1460",
+                    "curbWeightMin": "1460"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

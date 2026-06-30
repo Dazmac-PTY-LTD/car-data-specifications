@@ -1,0 +1,343 @@
+{
+  "update": "2025-05-21 09:54:00",
+  "name": "JMEV",
+  "id": "359",
+  "models": {
+    "model": [
+      {
+        "update": "2025-05-21 10:06:05",
+        "name": "Elight",
+        "id": "3683",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-21 10:06:56",
+              "name": "Elight",
+              "modelYear": "2025",
+              "id": "10563",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54349",
+                    "update": "2025-08-22 12:29:47",
+                    "brand": "JMEV",
+                    "model": "Elight",
+                    "generation": "Elight",
+                    "engine": "49 kWh (160 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1500",
+                    "curbWeightMin": "1500"
+                  },
+                  {
+                    "id": "54351",
+                    "update": "2025-08-22 12:29:37",
+                    "brand": "JMEV",
+                    "model": "Elight",
+                    "generation": "Elight",
+                    "engine": "49 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1470",
+                    "curbWeightMin": "1470"
+                  },
+                  {
+                    "id": "54352",
+                    "update": "2025-08-22 12:29:58",
+                    "brand": "JMEV",
+                    "model": "Elight",
+                    "generation": "Elight",
+                    "engine": "63 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  },
+                  {
+                    "id": "54353",
+                    "update": "2025-08-22 12:30:09",
+                    "brand": "JMEV",
+                    "model": "Elight",
+                    "generation": "Elight",
+                    "engine": "63 kWh (160 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-22 09:51:23",
+        "name": "EV3",
+        "id": "3684",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-22 11:02:11",
+              "name": "EV3 (facelift 2025)",
+              "modelYear": "2025",
+              "id": "10568",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54370",
+                    "update": "2025-05-22 16:20:14",
+                    "brand": "JMEV",
+                    "model": "EV3",
+                    "generation": "EV3 (facelift 2025)",
+                    "engine": "30.24 kWh (68 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1640",
+                    "height": "1535",
+                    "heightMin": "1535",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-05-22 09:51:59",
+              "name": "EV3",
+              "modelYear": "2019",
+              "id": "10565",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54367",
+                    "update": "2025-05-22 16:20:14",
+                    "brand": "JMEV",
+                    "model": "EV3",
+                    "generation": "EV3",
+                    "engine": "31.9 kWh (48 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1640",
+                    "height": "1485-1494",
+                    "heightMin": "1485",
+                    "heightMax": "1494",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Electricity",
+                    "curbWeight": "1115",
+                    "curbWeightMin": "1115"
+                  },
+                  {
+                    "id": "54368",
+                    "update": "2025-05-22 16:20:14",
+                    "brand": "JMEV",
+                    "model": "EV3",
+                    "generation": "EV3",
+                    "engine": "31.9 kWh (49 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1640",
+                    "height": "1535",
+                    "heightMin": "1535",
+                    "fuel": "Electricity",
+                    "curbWeight": "1125",
+                    "curbWeightMin": "1125"
+                  },
+                  {
+                    "id": "54369",
+                    "update": "2025-05-22 16:20:14",
+                    "brand": "JMEV",
+                    "model": "EV3",
+                    "generation": "EV3",
+                    "engine": "31.2 kWh (49 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1640",
+                    "height": "1535",
+                    "heightMin": "1535",
+                    "fuel": "Electricity",
+                    "curbWeight": "1125",
+                    "curbWeightMin": "1125"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-05-23 09:48:51",
+        "name": "EV2/Xiaoqilin",
+        "id": "3686",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-23 09:49:20",
+              "name": "EV2/Xiaoqilin",
+              "modelYear": "2022",
+              "id": "10571",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54383",
+                    "update": "2025-05-23 16:18:03",
+                    "brand": "JMEV",
+                    "model": "EV2/Xiaoqilin",
+                    "generation": "EV2/Xiaoqilin",
+                    "engine": "15.86 kWh (35 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3500",
+                    "width": "1646",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Electricity",
+                    "curbWeight": "890",
+                    "curbWeightMin": "890"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-06-02 09:38:09",
+        "name": "EVeasy Limo",
+        "id": "3697",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-06-02 09:38:51",
+              "name": "EVeasy Limo",
+              "modelYear": "2025",
+              "id": "10586",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54350",
+                    "update": "2025-08-22 12:31:25",
+                    "brand": "JMEV",
+                    "model": "EVeasy Limo",
+                    "generation": "EVeasy Limo",
+                    "engine": "56.31 kWh (224 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "145-150",
+                    "rideHeightMin": "145",
+                    "rideHeightMax": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "54458",
+                    "update": "2025-06-02 16:22:04",
+                    "brand": "JMEV",
+                    "model": "EVeasy Limo",
+                    "generation": "EVeasy Limo",
+                    "engine": "60 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4675",
+                    "width": "1835",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "1675",
+                    "curbWeightMin": "1675"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

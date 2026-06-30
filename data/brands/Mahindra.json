@@ -1,0 +1,3718 @@
+{
+  "update": "2021-01-27 08:40:09",
+  "name": "Mahindra",
+  "id": "88",
+  "models": {
+    "model": [
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Ambulance",
+        "id": "962",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 13:55:55",
+              "name": "Ambulance",
+              "modelYear": "1990",
+              "id": "2057",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10111",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "Ambulance",
+                    "generation": "Ambulance",
+                    "engine": "2.5 D (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1990",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:40:07",
+        "name": "CJ 3 Wagon",
+        "id": "963",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:28:08",
+              "name": "CJ 3 Wagon",
+              "modelYear": "1988",
+              "id": "2058",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10112",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3 Wagon",
+                    "generation": "CJ 3 Wagon",
+                    "engine": "2.1 D (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63",
+                    "powerHp": "63",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10113",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "CJ 3 Wagon",
+                    "generation": "CJ 3 Wagon",
+                    "engine": "2.2 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10114",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3 Wagon",
+                    "generation": "CJ 3 Wagon",
+                    "engine": "2.3 D (38 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "38",
+                    "powerHp": "38",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10115",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3 Wagon",
+                    "generation": "CJ 3 Wagon",
+                    "engine": "2.5 D (39 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "39",
+                    "powerHp": "39",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 09:13:28",
+        "name": "Marshal",
+        "id": "964",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Marshal",
+              "modelYear": "2002",
+              "id": "2059",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10116",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Marshal",
+                    "generation": "Marshal",
+                    "engine": "2.0 i 16V (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/5500",
+                    "powerHp": "116",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Off-road vehicle",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4475",
+                    "width": "1916",
+                    "height": "1916",
+                    "heightMin": "1916",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 10:44:35",
+        "name": "MM Double Cab",
+        "id": "965",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:32:05",
+              "name": "MM Double Cab",
+              "modelYear": "1992",
+              "id": "2060",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10117",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "MM Double Cab",
+                    "generation": "MM Double Cab",
+                    "engine": "2.5 D (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:05:13",
+        "name": "Scorpio",
+        "id": "966",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:42:22",
+              "name": "Scorpio (facelift 2017)",
+              "modelYear": "2017",
+              "id": "6599",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34551",
+                    "update": "2023-07-25 12:23:15",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio (facelift 2017)",
+                    "engine": "2.5 m2DICR (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/3200",
+                    "powerHp": "75",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4456",
+                    "width": "1820",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34552",
+                    "update": "2023-07-26 08:21:48",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio (facelift 2017)",
+                    "engine": "2.2 mHawk (120 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/4000",
+                    "powerHp": "120",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4456",
+                    "width": "1820",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34553",
+                    "update": "2023-07-26 08:21:47",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio (facelift 2017)",
+                    "engine": "2.2 mHawk (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4456",
+                    "width": "1820",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "34554",
+                    "update": "2023-07-26 08:21:46",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio (facelift 2017)",
+                    "engine": "2.2 mHawk (140 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4456",
+                    "width": "1820",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:42:22",
+              "name": "Scorpio",
+              "modelYear": "2002",
+              "id": "2061",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10118",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio",
+                    "engine": "2.0 i MPFI 2WD (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/5500",
+                    "powerHp": "116",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4475",
+                    "width": "1774",
+                    "height": "1916",
+                    "heightMin": "1916",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  },
+                  {
+                    "id": "10119",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio",
+                    "engine": "2.0 i MPFI 4WD (116 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "116/5500",
+                    "powerHp": "116",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4475",
+                    "width": "1774",
+                    "height": "1916",
+                    "heightMin": "1916",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1810",
+                    "curbWeightMin": "1810"
+                  },
+                  {
+                    "id": "10120",
+                    "update": "2024-05-27 14:04:10",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio",
+                    "engine": "2.6 DI 2WD (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/3800",
+                    "powerHp": "109",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2002",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4475",
+                    "width": "1774",
+                    "height": "1916",
+                    "heightMin": "1916",
+                    "fuel": "Diesel",
+                    "curbWeight": "1910",
+                    "curbWeightMin": "1910"
+                  },
+                  {
+                    "id": "10121",
+                    "update": "2024-05-27 14:04:10",
+                    "brand": "Mahindra",
+                    "model": "Scorpio",
+                    "generation": "Scorpio",
+                    "engine": "2.6 DI 4WD (109 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "109/3800",
+                    "powerHp": "109",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2002",
+                    "yearstop": "2008",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4475",
+                    "width": "1774",
+                    "height": "1916",
+                    "heightMin": "1916",
+                    "fuel": "Diesel",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:28:16",
+        "name": "Armada",
+        "id": "967",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Armada (CJ7)",
+              "modelYear": "1990",
+              "id": "2062",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10122",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Armada",
+                    "generation": "Armada (CJ7)",
+                    "engine": "2.1 D (62 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1990",
+                    "yearstop": "2001",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4305",
+                    "width": "1680",
+                    "height": "1738",
+                    "heightMin": "1738",
+                    "fuel": "Diesel",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  },
+                  {
+                    "id": "10123",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Armada",
+                    "generation": "Armada (CJ7)",
+                    "engine": "2.5 D 4WD Grand (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/4000",
+                    "powerHp": "72",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1992",
+                    "yearstop": "2001",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4360",
+                    "width": "1800",
+                    "height": "1738",
+                    "heightMin": "1738",
+                    "fuel": "Diesel",
+                    "curbWeight": "1730",
+                    "curbWeightMin": "1730"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:40:52",
+        "name": "CL",
+        "id": "968",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:31:20",
+              "name": "CL",
+              "modelYear": "1993",
+              "id": "2063",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10124",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CL",
+                    "generation": "CL",
+                    "engine": "2.5 D (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1993",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 09:27:11",
+        "name": "MM 540/550",
+        "id": "969",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MM 540/550",
+              "modelYear": "1990",
+              "id": "2064",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10125",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 540/550",
+                    "generation": "MM 540/550",
+                    "engine": "540 DP (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1995",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3810",
+                    "width": "1650",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": "1330",
+                    "curbWeightMin": "1330"
+                  },
+                  {
+                    "id": "10126",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 540/550",
+                    "generation": "MM 540/550",
+                    "engine": "540 XDB (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/4000",
+                    "powerHp": "72",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1990",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "3810",
+                    "width": "1650",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "10127",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 540/550",
+                    "generation": "MM 540/550",
+                    "engine": "550 DP (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1994",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3810",
+                    "width": "1650",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Diesel",
+                    "curbWeight": "1335",
+                    "curbWeightMin": "1335"
+                  },
+                  {
+                    "id": "10128",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 540/550",
+                    "generation": "MM 540/550",
+                    "engine": "550 PE (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/4500",
+                    "powerHp": "94",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1990",
+                    "yearstop": "2004",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "3810",
+                    "width": "1650",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2013-01-24 20:00:00",
+        "name": "Mm550 DP",
+        "id": "970",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:30:38",
+              "name": "Mm550 DP",
+              "modelYear": "1998",
+              "id": "2065",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10129",
+                    "update": "2022-11-15 14:04:38",
+                    "brand": "Mahindra",
+                    "model": "Mm550 DP",
+                    "generation": "Mm550 DP",
+                    "engine": "2.5 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1998",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:39:28",
+        "name": "Tempo",
+        "id": "971",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2022-11-15 14:30:38",
+              "name": "Tempo",
+              "modelYear": "1990",
+              "id": "2066",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10130",
+                    "update": "2022-11-15 15:22:11",
+                    "brand": "Mahindra",
+                    "model": "Tempo",
+                    "generation": "Tempo",
+                    "engine": "2.5 D (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1990",
+                    "yearstop": "2000",
+                    "coupe": "Pick-up",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-27 08:19:19",
+        "name": "Bolero",
+        "id": "972",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-10-09 09:28:02",
+              "name": "Bolero (facelift 2025)",
+              "modelYear": "2025",
+              "id": "10858",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55517",
+                    "update": "2025-10-09 16:20:06",
+                    "brand": "Mahindra",
+                    "model": "Bolero",
+                    "generation": "Bolero (facelift 2025)",
+                    "engine": "1.5 TD (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/3600",
+                    "powerHp": "76",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1745",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-09 09:27:48",
+              "name": "Bolero EX",
+              "modelYear": "2011",
+              "id": "5262",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27289",
+                    "update": "2025-10-09 09:20:49",
+                    "brand": "Mahindra",
+                    "model": "Bolero",
+                    "generation": "Bolero EX",
+                    "engine": "2.5 TDI (63 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/3200",
+                    "powerHp": "63",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2011",
+                    "yearstop": "2025",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4107",
+                    "width": "1745",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "183",
+                    "rideHeightMin": "183",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-10-09 09:27:42",
+              "name": "Bolero (CJ7)",
+              "modelYear": "2001",
+              "id": "2067",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10131",
+                    "update": "2023-07-26 08:35:13",
+                    "brand": "Mahindra",
+                    "model": "Bolero",
+                    "generation": "Bolero (CJ7)",
+                    "engine": "2.5 D (72 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/4000",
+                    "powerHp": "72",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2001",
+                    "yearstop": "2007",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4285",
+                    "widthOpenedMirrors": "1815",
+                    "height": "1810",
+                    "heightMin": "1810",
+                    "fuel": "Diesel",
+                    "curbWeight": "1695",
+                    "curbWeightMin": "1695"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:41:27",
+        "name": "Commander",
+        "id": "973",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Commander",
+              "modelYear": "1990",
+              "id": "2068",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10132",
+                    "update": "2024-05-27 14:04:10",
+                    "brand": "Mahindra",
+                    "model": "Commander",
+                    "generation": "Commander",
+                    "engine": "650 Di (50 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "50/3000",
+                    "powerHp": "50",
+                    "powerRpm": "3000",
+                    "powerRpmLow": "3000",
+                    "yearstart": "1990",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4305",
+                    "width": "1680",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Diesel",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "10133",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Commander",
+                    "generation": "Commander",
+                    "engine": "750 ST (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1990",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4305",
+                    "width": "1680",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Diesel",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "10134",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Commander",
+                    "generation": "Commander",
+                    "engine": "750 ST 2WD (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1990",
+                    "yearstop": "2013",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4305",
+                    "width": "1680",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Diesel",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 09:41:16",
+        "name": "MM 775",
+        "id": "974",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "MM 775",
+              "modelYear": "1992",
+              "id": "2069",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10135",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 775",
+                    "generation": "MM 775",
+                    "engine": "2.1 D XDB (62 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/4500",
+                    "powerHp": "62",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4190",
+                    "width": "1660",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Diesel",
+                    "curbWeight": "1540",
+                    "curbWeightMin": "1540"
+                  },
+                  {
+                    "id": "10136",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 775",
+                    "generation": "MM 775",
+                    "engine": "2.1 XDB (94 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "94/4500",
+                    "powerHp": "94",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4190",
+                    "width": "1660",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1510",
+                    "curbWeightMin": "1510"
+                  },
+                  {
+                    "id": "10137",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "MM 775",
+                    "generation": "MM 775",
+                    "engine": "2.5 D XDB (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72/4000",
+                    "powerHp": "72",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "1992",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4190",
+                    "width": "1660",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Diesel",
+                    "curbWeight": "1580",
+                    "curbWeightMin": "1580"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 10:52:19",
+        "name": "NC 640 DP",
+        "id": "975",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:33:20",
+              "name": "NC 640 DP",
+              "modelYear": "1985",
+              "id": "2070",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10138",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "NC 640 DP",
+                    "generation": "NC 640 DP",
+                    "engine": "2.5 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73",
+                    "powerHp": "73",
+                    "yearstart": "1985",
+                    "yearstop": "2000",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:51:48",
+        "name": "Voyager",
+        "id": "976",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:40:50",
+              "name": "Voyager",
+              "modelYear": "1997",
+              "id": "2071",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10139",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "Voyager",
+                    "generation": "Voyager",
+                    "engine": "2.5 D (80 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "80",
+                    "powerHp": "80",
+                    "yearstart": "1997",
+                    "yearstop": "2000",
+                    "coupe": "Minivan",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-27 08:28:36",
+        "name": "CJ 3",
+        "id": "977",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-26 14:28:32",
+              "name": "CJ 3",
+              "modelYear": "1988",
+              "id": "2072",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10140",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3",
+                    "generation": "CJ 3",
+                    "engine": "2.1 D (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63",
+                    "powerHp": "63",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10141",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "CJ 3",
+                    "generation": "CJ 3",
+                    "engine": "2.2 (72 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "72",
+                    "powerHp": "72",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10142",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3",
+                    "generation": "CJ 3",
+                    "engine": "2.3 D (38 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "38",
+                    "powerHp": "38",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "10143",
+                    "update": "2023-07-31 13:43:09",
+                    "brand": "Mahindra",
+                    "model": "CJ 3",
+                    "generation": "CJ 3",
+                    "engine": "2.5 D (39 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "39",
+                    "powerHp": "39",
+                    "yearstart": "1988",
+                    "yearstop": "1992",
+                    "coupe": "Off-road vehicle",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-19 11:57:40",
+        "name": "KUV100",
+        "id": "2178",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "KUV100 NXT (facelift 2017)",
+              "modelYear": "2017",
+              "id": "6136",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32754",
+                    "update": "2023-07-25 11:45:05",
+                    "brand": "Mahindra",
+                    "model": "KUV100",
+                    "generation": "KUV100 NXT (facelift 2017)",
+                    "engine": "1.2 (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "3700",
+                    "width": "1735",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "32755",
+                    "update": "2023-07-25 11:44:20",
+                    "brand": "Mahindra",
+                    "model": "KUV100",
+                    "generation": "KUV100 NXT (facelift 2017)",
+                    "engine": "1.2d (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78/3750",
+                    "powerHp": "78",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2017",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "3700",
+                    "width": "1735",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "KUV100",
+              "modelYear": "2016",
+              "id": "5293",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27431",
+                    "update": "2023-07-25 11:44:28",
+                    "brand": "Mahindra",
+                    "model": "KUV100",
+                    "generation": "KUV100",
+                    "engine": "1.2d (78 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "78/3750",
+                    "powerHp": "78",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "3675",
+                    "width": "1705",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27436",
+                    "update": "2023-07-25 11:45:06",
+                    "brand": "Mahindra",
+                    "model": "KUV100",
+                    "generation": "KUV100",
+                    "engine": "1.2 (83 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/5500",
+                    "powerHp": "83",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2016",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "5-6",
+                    "placesMin": "5",
+                    "placesMax": "6",
+                    "length": "3675",
+                    "width": "1705",
+                    "height": "1635-1655",
+                    "heightMin": "1635",
+                    "heightMax": "1655",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:00:28",
+        "name": "Quanto",
+        "id": "2180",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Quanto",
+              "modelYear": "2012",
+              "id": "5295",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27432",
+                    "update": "2023-07-24 16:31:31",
+                    "brand": "Mahindra",
+                    "model": "Quanto",
+                    "generation": "Quanto",
+                    "engine": "1.5d (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/3750",
+                    "powerHp": "101",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2012",
+                    "yearstop": "2016",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3985",
+                    "width": "1850",
+                    "height": "1868-1880",
+                    "heightMin": "1868",
+                    "heightMax": "1880",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Diesel",
+                    "curbWeight": "1640",
+                    "curbWeightMin": "1640"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:00:51",
+        "name": "NuvoSport",
+        "id": "2192",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "NuvoSport",
+              "modelYear": "2017",
+              "id": "5320",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27631",
+                    "update": "2023-07-24 16:26:30",
+                    "brand": "Mahindra",
+                    "model": "NuvoSport",
+                    "generation": "NuvoSport",
+                    "engine": "1.5 d (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/3750",
+                    "powerHp": "101",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2016",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3985",
+                    "width": "1850",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27642",
+                    "update": "2023-07-24 16:26:29",
+                    "brand": "Mahindra",
+                    "model": "NuvoSport",
+                    "generation": "NuvoSport",
+                    "engine": "1.5 d (101 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101/3750",
+                    "powerHp": "101",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2016",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3985",
+                    "width": "1850",
+                    "height": "1870",
+                    "heightMin": "1870",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-02-19 11:21:47",
+        "name": "Supro",
+        "id": "2193",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Supro",
+              "modelYear": "2016",
+              "id": "5321",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27643",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Supro",
+                    "generation": "Supro",
+                    "engine": "0.9 (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/3750",
+                    "powerHp": "45",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "coupe": "Minivan",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "3798",
+                    "width": "1540",
+                    "height": "1922",
+                    "heightMin": "1922",
+                    "fuel": "Diesel",
+                    "curbWeight": "1210",
+                    "curbWeightMin": "1210"
+                  },
+                  {
+                    "id": "27644",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Supro",
+                    "generation": "Supro",
+                    "engine": "0.9 d (45 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "45/3750",
+                    "powerHp": "45",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "coupe": "Minivan",
+                    "places": "5-8",
+                    "placesMin": "5",
+                    "placesMax": "8",
+                    "length": "3798",
+                    "width": "1540",
+                    "height": "1910-1922",
+                    "heightMin": "1910",
+                    "heightMax": "1922",
+                    "fuel": "Diesel",
+                    "curbWeight": "1198-1215",
+                    "curbWeightMin": "1198",
+                    "curbWeightMax": "1215"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:40:33",
+        "name": "TUV300",
+        "id": "2194",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "TUV300",
+              "modelYear": "2015",
+              "id": "5322",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27645",
+                    "update": "2023-07-25 12:48:28",
+                    "brand": "Mahindra",
+                    "model": "TUV300",
+                    "generation": "TUV300",
+                    "engine": "1.5 (101 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1835",
+                    "height": "1839",
+                    "heightMin": "1839",
+                    "rideHeight": "184",
+                    "rideHeightMin": "184",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27667",
+                    "update": "2023-07-25 12:49:32",
+                    "brand": "Mahindra",
+                    "model": "TUV300",
+                    "generation": "TUV300",
+                    "engine": "1.5 d (82 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "82/3750",
+                    "powerHp": "82",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1835",
+                    "height": "1839",
+                    "heightMin": "1839",
+                    "rideHeight": "184",
+                    "rideHeightMin": "184",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27683",
+                    "update": "2023-07-25 12:49:31",
+                    "brand": "Mahindra",
+                    "model": "TUV300",
+                    "generation": "TUV300",
+                    "engine": "1.5 d (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/3750",
+                    "powerHp": "85",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1835",
+                    "height": "1839",
+                    "heightMin": "1839",
+                    "rideHeight": "184",
+                    "rideHeightMin": "184",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27896",
+                    "update": "2023-07-25 12:48:28",
+                    "brand": "Mahindra",
+                    "model": "TUV300",
+                    "generation": "TUV300",
+                    "engine": "1.5 (101 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "101",
+                    "powerHp": "101",
+                    "yearstart": "2015",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3995",
+                    "width": "1835",
+                    "height": "1839",
+                    "heightMin": "1839",
+                    "rideHeight": "184",
+                    "rideHeightMin": "184",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-09-09 10:23:00",
+        "name": "Thar",
+        "id": "2195",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-09-03 11:30:16",
+              "name": "Thar Roxx",
+              "modelYear": "2025",
+              "id": "10161",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52599",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.2L (152 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/3750",
+                    "powerHp": "152",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52598",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.2L (152 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/3750",
+                    "powerHp": "152",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52597",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.2L (152 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/3750",
+                    "powerHp": "152",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52595",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.0L (162 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "162/5000",
+                    "powerHp": "162",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52596",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.0L (177 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "177/5000",
+                    "powerHp": "177",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52600",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.2L (175 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175/3500",
+                    "powerHp": "175",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "52601",
+                    "update": "2024-09-03 16:16:03",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar Roxx",
+                    "engine": "2.2L (175 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "175/3500",
+                    "powerHp": "175",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2024",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4428",
+                    "width": "1870",
+                    "height": "1923",
+                    "heightMin": "1923",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Thar II",
+              "modelYear": "2021",
+              "id": "7873",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "41008",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.2 mHawk CRDe (132 Hp) 4WD 4-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/3750",
+                    "powerHp": "132",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219-226",
+                    "rideHeightMin": "219",
+                    "rideHeightMax": "226",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41009",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.2 mHawk CRDe (132 Hp) 4WD Automatic 4-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/3750",
+                    "powerHp": "132",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219-226",
+                    "rideHeightMin": "219",
+                    "rideHeightMax": "226",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41010",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.0 mStallion TGDi (152 Hp) 4WD 6-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5000",
+                    "powerHp": "152",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219",
+                    "rideHeightMin": "219",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41011",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.0 mStallion TGDi (152 Hp) 4WD Automatic 6-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5000",
+                    "powerHp": "152",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219",
+                    "rideHeightMin": "219",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41164",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.2 mHawk CRDe (132 Hp) 4WD 6-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/3750",
+                    "powerHp": "132",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219",
+                    "rideHeightMin": "219",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41165",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.2 mHawk CRDe (132 Hp) 4WD Automatic 6-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "132/3750",
+                    "powerHp": "132",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219",
+                    "rideHeightMin": "219",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41166",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.0 mStallion TGDi (152 Hp) 4WD 4-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5000",
+                    "powerHp": "152",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219-226",
+                    "rideHeightMin": "219",
+                    "rideHeightMax": "226",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "41167",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar II",
+                    "engine": "2.0 mStallion TGDi (152 Hp) 4WD Automatic 4-Seater",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "152/5000",
+                    "powerHp": "152",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3985",
+                    "width": "1820",
+                    "height": "1844-1920",
+                    "heightMin": "1844",
+                    "heightMax": "1920",
+                    "rideHeight": "219-226",
+                    "rideHeightMin": "219",
+                    "rideHeightMax": "226",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-12-05 13:43:20",
+              "name": "Thar I",
+              "modelYear": "2011",
+              "id": "5324",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27646",
+                    "update": "2022-07-12 12:12:26",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar I",
+                    "engine": "2.6 (64 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "64/3200",
+                    "powerHp": "64",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2010",
+                    "yearstop": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "3760",
+                    "width": "1640",
+                    "height": "1904",
+                    "heightMin": "1904",
+                    "rideHeight": "187",
+                    "rideHeightMin": "187",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27668",
+                    "update": "2023-07-25 12:38:14",
+                    "brand": "Mahindra",
+                    "model": "Thar",
+                    "generation": "Thar I",
+                    "engine": "2.5 d (106 Hp) 4x4",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/3800",
+                    "powerHp": "106",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2010",
+                    "yearstop": "2020",
+                    "coupe": "Off-road vehicle, Cabriolet",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "3920",
+                    "width": "1726",
+                    "height": "1930",
+                    "heightMin": "1930",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": "1750",
+                    "curbWeightMin": "1750"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:44:34",
+        "name": "Verito",
+        "id": "2196",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Verito",
+              "modelYear": "2011",
+              "id": "5326",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27876",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Verito",
+                    "generation": "Verito",
+                    "engine": "1.5d (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/4000",
+                    "powerHp": "65",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2011",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4277",
+                    "width": "1740",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "172",
+                    "rideHeightMin": "172",
+                    "fuel": "Diesel",
+                    "curbWeight": "1140",
+                    "curbWeightMin": "1140"
+                  },
+                  {
+                    "id": "27976",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Verito",
+                    "generation": "Verito",
+                    "engine": "1.4 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/5500",
+                    "powerHp": "75",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2011",
+                    "yearstop": "2012",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4277",
+                    "width": "1740",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "172",
+                    "rideHeightMin": "172",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1080",
+                    "curbWeightMin": "1080"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-29 16:15:44",
+        "name": "Verito Vibe",
+        "id": "2197",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Verito Vibe",
+              "modelYear": "2013",
+              "id": "5327",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27959",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Mahindra",
+                    "model": "Verito Vibe",
+                    "generation": "Verito Vibe",
+                    "engine": "1.5 dCi (65 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "65/4000",
+                    "powerHp": "65",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2013",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3991",
+                    "width": "1740",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "rideHeight": "172",
+                    "rideHeightMin": "172",
+                    "fuel": "Diesel",
+                    "curbWeight": "1155",
+                    "curbWeightMin": "1155"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-10-30 15:04:40",
+        "name": "XUV500",
+        "id": "2198",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "XUV500 (facelift 2018)",
+              "modelYear": "2018",
+              "id": "6220",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "33016",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2018)",
+                    "engine": "2.2i (140 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/4500",
+                    "powerHp": "140",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "33017",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2018)",
+                    "engine": "2.2i (140 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/4500",
+                    "powerHp": "140",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "33018",
+                    "update": "2023-07-25 10:42:20",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2018)",
+                    "engine": "2.2d (155 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/3750",
+                    "powerHp": "155",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2018",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "33019",
+                    "update": "2023-07-25 10:42:19",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2018)",
+                    "engine": "2.2d (155 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/3750",
+                    "powerHp": "155",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2018",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "XUV500 (facelift 2015)",
+              "modelYear": "2015",
+              "id": "5328",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27855",
+                    "update": "2023-07-25 10:31:14",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.2d (140 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27928",
+                    "update": "2023-07-25 10:31:16",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.0d (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27977",
+                    "update": "2023-07-25 10:31:14",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.0d (140 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27997",
+                    "update": "2023-07-25 10:31:15",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.2d (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "28017",
+                    "update": "2023-07-25 10:31:13",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.2d (140 Hp) AWD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "28037",
+                    "update": "2023-07-25 10:31:13",
+                    "brand": "Mahindra",
+                    "model": "XUV500",
+                    "generation": "XUV500 (facelift 2015)",
+                    "engine": "2.2d (140 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "140/3750",
+                    "powerHp": "140",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2015",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4585",
+                    "width": "1890",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:55:14",
+        "name": "Xylo",
+        "id": "2199",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Xylo",
+              "modelYear": "2012",
+              "id": "5330",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27856",
+                    "update": "2023-07-25 13:00:41",
+                    "brand": "Mahindra",
+                    "model": "Xylo",
+                    "generation": "Xylo",
+                    "engine": "2.2 CRDe (120 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "120/4000",
+                    "powerHp": "120",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2012",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "8",
+                    "placesMin": "8",
+                    "length": "4520",
+                    "width": "1850",
+                    "height": "1905",
+                    "heightMin": "1905",
+                    "rideHeight": "186",
+                    "rideHeightMin": "186",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "27979",
+                    "update": "2023-07-25 13:13:06",
+                    "brand": "Mahindra",
+                    "model": "Xylo",
+                    "generation": "Xylo",
+                    "engine": "2.5 CRDe (95 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/3600",
+                    "powerHp": "95",
+                    "powerRpm": "3600",
+                    "powerRpmLow": "3600",
+                    "yearstart": "2012",
+                    "yearstop": "2017",
+                    "coupe": "SUV",
+                    "places": "9",
+                    "placesMin": "9",
+                    "length": "4520",
+                    "width": "1850",
+                    "height": "1880",
+                    "heightMin": "1880",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 08:15:18",
+        "name": "E Verito",
+        "id": "2200",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "E Verito",
+              "modelYear": "2016",
+              "id": "5331",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "27960",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Mahindra",
+                    "model": "E Verito",
+                    "generation": "E Verito",
+                    "engine": "14.4 kWh (41 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4247",
+                    "width": "1740",
+                    "height": "1540",
+                    "heightMin": "1540",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-01-02 15:45:12",
+        "name": "Marazzo",
+        "id": "2510",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Marazzo",
+              "modelYear": "2018",
+              "id": "6511",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34240",
+                    "update": "2023-07-25 11:30:48",
+                    "brand": "Mahindra",
+                    "model": "Marazzo",
+                    "generation": "Marazzo",
+                    "engine": "1.5d (121 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "121/3500",
+                    "powerHp": "121",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "7-8",
+                    "placesMin": "7",
+                    "placesMax": "8",
+                    "length": "4585",
+                    "width": "1866",
+                    "height": "1774",
+                    "heightMin": "1774",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-02 16:13:29",
+        "name": "Alturas G4",
+        "id": "2553",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Alturas G4",
+              "modelYear": "2018",
+              "id": "6697",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34913",
+                    "update": "2023-06-16 15:58:39",
+                    "brand": "Mahindra",
+                    "model": "Alturas G4",
+                    "generation": "Alturas G4",
+                    "engine": "2.2 CRDI (181 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/4000",
+                    "powerHp": "181",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4850",
+                    "width": "1960",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "fuel": "Diesel",
+                    "curbWeight": "2050",
+                    "curbWeightMin": "2050"
+                  },
+                  {
+                    "id": "34914",
+                    "update": "2023-06-16 15:58:41",
+                    "brand": "Mahindra",
+                    "model": "Alturas G4",
+                    "generation": "Alturas G4",
+                    "engine": "2.2 CRDI (181 Hp) 4x4 Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "181/4000",
+                    "powerHp": "181",
+                    "powerRpm": "4000",
+                    "powerRpmLow": "4000",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4850",
+                    "width": "1960",
+                    "height": "1845",
+                    "heightMin": "1845",
+                    "fuel": "Diesel",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 08:40:25",
+        "name": "Imperio",
+        "id": "2601",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Imperio Double cab",
+              "modelYear": "2016",
+              "id": "6813",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35396",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Mahindra",
+                    "model": "Imperio",
+                    "generation": "Imperio Double cab",
+                    "engine": "2.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/3200",
+                    "powerHp": "75",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5180",
+                    "width": "1890",
+                    "height": "1952",
+                    "heightMin": "1952",
+                    "rideHeight": "211",
+                    "rideHeightMin": "211",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Imperio Single cab",
+              "modelYear": "2016",
+              "id": "6812",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35413",
+                    "update": "2022-09-07 11:54:08",
+                    "brand": "Mahindra",
+                    "model": "Imperio",
+                    "generation": "Imperio Single cab",
+                    "engine": "2.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/3200",
+                    "powerHp": "75",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2016",
+                    "coupe": "Pick-up",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5280",
+                    "width": "1890",
+                    "height": "1943",
+                    "heightMin": "1943",
+                    "rideHeight": "211",
+                    "rideHeightMin": "211",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-03 11:02:35",
+        "name": "Roxor",
+        "id": "2605",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Roxor",
+              "modelYear": "2018",
+              "id": "6859",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "35869",
+                    "update": "2023-07-25 13:27:23",
+                    "brand": "Mahindra",
+                    "model": "Roxor",
+                    "generation": "Roxor",
+                    "engine": "2.5 m2DiCR (62 Hp) 4WD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "62/3200",
+                    "powerHp": "62",
+                    "powerRpm": "3200",
+                    "powerRpmLow": "3200",
+                    "yearstart": "2018",
+                    "coupe": "Off-road vehicle",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3759",
+                    "width": "1575",
+                    "height": "1905",
+                    "heightMin": "1905",
+                    "rideHeight": "229",
+                    "rideHeightMin": "229",
+                    "fuel": "Diesel",
+                    "curbWeight": "1377",
+                    "curbWeightMin": "1377"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-01-27 08:40:09",
+        "name": "Goa",
+        "id": "2684",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Goa",
+              "modelYear": "2008",
+              "id": "7037",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "36696",
+                    "update": "2023-07-25 10:50:49",
+                    "brand": "Mahindra",
+                    "model": "Goa",
+                    "generation": "Goa",
+                    "engine": "2.5 (106 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/3800",
+                    "powerHp": "106",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2008",
+                    "yearstop": "2013",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4482",
+                    "width": "1775",
+                    "height": "1975",
+                    "heightMin": "1975",
+                    "fuel": "Diesel",
+                    "curbWeight": "1942",
+                    "curbWeightMin": "1942"
+                  },
+                  {
+                    "id": "36697",
+                    "update": "2023-07-25 10:50:48",
+                    "brand": "Mahindra",
+                    "model": "Goa",
+                    "generation": "Goa",
+                    "engine": "2.5 (106 Hp) AWD",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "106/3800",
+                    "powerHp": "106",
+                    "powerRpm": "3800",
+                    "powerRpmLow": "3800",
+                    "yearstart": "2008",
+                    "yearstop": "2013",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4482",
+                    "width": "1775",
+                    "height": "1975",
+                    "heightMin": "1975",
+                    "fuel": "Diesel",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-11-24 09:43:16",
+        "name": "XUV700",
+        "id": "3042",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-11-24 09:44:03",
+              "name": "XUV700",
+              "modelYear": "2022",
+              "id": "8711",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45112",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.0 TGDi (200 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5000",
+                    "powerHp": "200",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45113",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.0 TGDi (200 Hp) 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5000",
+                    "powerHp": "200",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45114",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.0 TGDi (200 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5000",
+                    "powerHp": "200",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45115",
+                    "update": "2022-09-07 11:54:14",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.0 TGDi (200 Hp) Automatic 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/5000",
+                    "powerHp": "200",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45116",
+                    "update": "2023-08-04 09:17:04",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (155 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/3750",
+                    "powerHp": "155",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45117",
+                    "update": "2023-08-04 09:17:04",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (155 Hp) 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "155/3750",
+                    "powerHp": "155",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45118",
+                    "update": "2023-08-04 09:17:04",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (185 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/3500",
+                    "powerHp": "185",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45119",
+                    "update": "2023-08-04 09:17:03",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (185 Hp) 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/3500",
+                    "powerHp": "185",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45120",
+                    "update": "2023-08-04 09:17:03",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (185 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/3500",
+                    "powerHp": "185",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45121",
+                    "update": "2023-08-04 09:17:02",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (185 Hp) Automatic 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/3500",
+                    "powerHp": "185",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "45122",
+                    "update": "2023-08-04 09:17:02",
+                    "brand": "Mahindra",
+                    "model": "XUV700",
+                    "generation": "XUV700",
+                    "engine": "2.2 CRDi (185 Hp) AWD Automatic 7 Seat",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "185/3500",
+                    "powerHp": "185",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4695",
+                    "width": "1890",
+                    "height": "1755",
+                    "heightMin": "1755",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-12-05 09:31:31",
+        "name": "XUV300",
+        "id": "3542",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-12-05 11:33:21",
+              "name": "XUV 3XO (facelift 2024)",
+              "modelYear": "2024",
+              "id": "10306",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53389",
+                    "update": "2024-12-05 16:20:25",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.2 TCMPFi (111 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "111/5000",
+                    "powerHp": "111",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53390",
+                    "update": "2024-12-05 16:20:22",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.2 TCMPFi (111 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "111/5000",
+                    "powerHp": "111",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53391",
+                    "update": "2024-12-05 16:20:17",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.2 TGDi (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5000",
+                    "powerHp": "130",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53392",
+                    "update": "2024-12-05 16:20:13",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.2 TGDi (130 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5000",
+                    "powerHp": "130",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53393",
+                    "update": "2024-12-05 16:20:00",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.5 CRDe (117 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/3750",
+                    "powerHp": "117",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53394",
+                    "update": "2024-12-05 16:19:56",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV 3XO (facelift 2024)",
+                    "engine": "1.5 CRDe (117 Hp) AutoSHIFT+",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/3750",
+                    "powerHp": "117",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3990",
+                    "width": "1821",
+                    "height": "1647",
+                    "heightMin": "1647",
+                    "rideHeight": "201",
+                    "rideHeightMin": "201",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-12-05 09:32:00",
+              "name": "XUV300",
+              "modelYear": "2019",
+              "id": "10304",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53383",
+                    "update": "2024-12-05 16:21:04",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.2 TCMPFI (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/5000",
+                    "powerHp": "110",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53384",
+                    "update": "2024-12-05 16:21:02",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.2 TCMPFI (110 Hp) AutoSHIFT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/5000",
+                    "powerHp": "110",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53385",
+                    "update": "2024-12-05 16:21:00",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.2 TGDi (130 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5000",
+                    "powerHp": "130",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53386",
+                    "update": "2024-12-05 16:20:58",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.2 TGDi (130 Hp) AutoSHIFT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "130/5000",
+                    "powerHp": "130",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53387",
+                    "update": "2024-12-05 16:20:49",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.5 CRDi (117 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/3750",
+                    "powerHp": "117",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53388",
+                    "update": "2024-12-05 16:20:47",
+                    "brand": "Mahindra",
+                    "model": "XUV300",
+                    "generation": "XUV300",
+                    "engine": "1.5 CRDi (117 Hp) AutoSHIFT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/3750",
+                    "powerHp": "117",
+                    "powerRpm": "3750",
+                    "powerRpmLow": "3750",
+                    "yearstart": "2019",
+                    "yearstop": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1821",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-12-06 09:38:50",
+        "name": "XUV400",
+        "id": "3543",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-12-06 09:39:13",
+              "name": "XUV400",
+              "modelYear": "2024",
+              "id": "10310",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53419",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "XUV400",
+                    "generation": "XUV400",
+                    "engine": "34.5 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1821",
+                    "height": "1634",
+                    "heightMin": "1634",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53420",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "XUV400",
+                    "generation": "XUV400",
+                    "engine": "39.4 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1821",
+                    "height": "1634",
+                    "heightMin": "1634",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-12-06 11:46:15",
+        "name": "BE 6e",
+        "id": "3544",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-12-06 11:49:47",
+              "name": "BE 6e",
+              "modelYear": "2025",
+              "id": "10311",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53421",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "BE 6e",
+                    "generation": "BE 6e",
+                    "engine": "59 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4371",
+                    "width": "1907",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53422",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "BE 6e",
+                    "generation": "BE 6e",
+                    "engine": "79 kWh (286 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4371",
+                    "width": "1907",
+                    "height": "1627",
+                    "heightMin": "1627",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2024-12-06 11:54:57",
+        "name": "XEV 9e",
+        "id": "3545",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-12-06 11:55:27",
+              "name": "XEV 9e",
+              "modelYear": "2025",
+              "id": "10312",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53423",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "XEV 9e",
+                    "generation": "XEV 9e",
+                    "engine": "59 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4789",
+                    "width": "1907",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53424",
+                    "update": "2024-12-06 16:16:08",
+                    "brand": "Mahindra",
+                    "model": "XEV 9e",
+                    "generation": "XEV 9e",
+                    "engine": "79 kWh (286 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4789",
+                    "width": "1907",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "rideHeight": "207",
+                    "rideHeightMin": "207",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "update": "2019-08-19 08:50:55",
+  "name": "Venturi",
+  "id": "70",
+  "models": {
+    "model": [
+      {
+        "update": "2020-05-21 15:15:35",
+        "name": "210",
+        "id": "788",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "210 Cabrio",
+              "modelYear": "1990",
+              "id": "1634",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7282",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "210",
+                    "generation": "210 Cabrio",
+                    "engine": "2.5 i V6 (210 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "210/5550",
+                    "powerHp": "210",
+                    "powerRpm": "5550",
+                    "powerRpmLow": "5550",
+                    "yearstart": "1990",
+                    "yearstop": "1995",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4090",
+                    "width": "1700",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1255",
+                    "curbWeightMin": "1255"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "210",
+              "modelYear": "1984",
+              "id": "1635",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7283",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "210",
+                    "generation": "210",
+                    "engine": "2.5 i V6 (210 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "210/5550",
+                    "powerHp": "210",
+                    "powerRpm": "5550",
+                    "powerRpmLow": "5550",
+                    "yearstart": "1984",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4090",
+                    "width": "1700",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1255",
+                    "curbWeightMin": "1255"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 15:27:04",
+        "name": "260",
+        "id": "789",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "260",
+              "modelYear": "1989",
+              "id": "1636",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7284",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "260",
+                    "generation": "260",
+                    "engine": "2.8 i V6 (260 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "260/5500",
+                    "powerHp": "260",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1989",
+                    "yearstop": "1995",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4090",
+                    "width": "1700",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1255",
+                    "curbWeightMin": "1255"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "260 Cabrio",
+              "modelYear": "1990",
+              "id": "1637",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7285",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "260",
+                    "generation": "260 Cabrio",
+                    "engine": "2.8 i V6 (260 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "260/5500",
+                    "powerHp": "260",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1989",
+                    "yearstop": "1995",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4090",
+                    "width": "1700",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1110",
+                    "curbWeightMin": "1110"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 14:56:35",
+        "name": "300",
+        "id": "790",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "300",
+              "modelYear": "1996",
+              "id": "1638",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7286",
+                    "update": "2023-08-09 09:11:58",
+                    "brand": "Venturi",
+                    "model": "300",
+                    "generation": "300",
+                    "engine": "3.0 i V6 Atlantiq (282 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "282/5300",
+                    "powerHp": "282",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "1996",
+                    "yearstop": "1998",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4240",
+                    "width": "1840",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-08-16 14:54:14",
+        "name": "400",
+        "id": "791",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "400",
+              "modelYear": "1994",
+              "id": "1639",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "7287",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "400",
+                    "generation": "400",
+                    "engine": "3.0 i V6 24V GT (400 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "400/6000",
+                    "powerHp": "400",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1994",
+                    "yearstop": "1997",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4140",
+                    "width": "1990",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  },
+                  {
+                    "id": "7288",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Venturi",
+                    "model": "400",
+                    "generation": "400",
+                    "engine": "3.0 i V6 24V GT (408 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "408/6000",
+                    "powerHp": "408",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "1994",
+                    "yearstop": "1997",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4140",
+                    "width": "1990",
+                    "height": "1170",
+                    "heightMin": "1170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1150",
+                    "curbWeightMin": "1150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

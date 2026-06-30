@@ -1,0 +1,418 @@
+{
+  "update": "2019-05-22 15:10:17",
+  "name": "Izh",
+  "id": "160",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-31 10:21:40",
+        "name": "2125",
+        "id": "1637",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2125",
+              "modelYear": "1973",
+              "id": "3222",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14671",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Izh",
+                    "model": "2125",
+                    "generation": "2125",
+                    "engine": "1.5 (70 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "70/5800",
+                    "powerHp": "70",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "1973",
+                    "yearstop": "1997",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4205",
+                    "width": "1555",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1040",
+                    "curbWeightMin": "1040"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 10:22:34",
+        "name": "2126",
+        "id": "1638",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2126 4x4",
+              "modelYear": "1997",
+              "id": "3224",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14676",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126 4x4",
+                    "engine": "1.6 (73 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "73/",
+                    "powerHp": "73",
+                    "yearstart": "1997",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "14677",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126 4x4",
+                    "engine": "1.7 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/",
+                    "powerHp": "85",
+                    "yearstart": "1997",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1100",
+                    "curbWeightMin": "1100"
+                  },
+                  {
+                    "id": "14678",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126 4x4",
+                    "engine": "1.8 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/",
+                    "powerHp": "85",
+                    "yearstart": "1997",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "2126",
+              "modelYear": "1992",
+              "id": "3223",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14672",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126",
+                    "engine": "1.6 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/",
+                    "powerHp": "75",
+                    "yearstart": "1993",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  },
+                  {
+                    "id": "14673",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126",
+                    "engine": "1.7 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/",
+                    "powerHp": "85",
+                    "yearstart": "1993",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "980",
+                    "curbWeightMin": "980"
+                  },
+                  {
+                    "id": "14674",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126",
+                    "engine": "1.8 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/",
+                    "powerHp": "85",
+                    "yearstart": "1993",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "14675",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "2126",
+                    "generation": "2126",
+                    "engine": "1.8 D (63 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "63/4800",
+                    "powerHp": "63",
+                    "powerRpm": "4800",
+                    "powerRpmLow": "4800",
+                    "yearstart": "2004",
+                    "yearstop": "2005",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "fuel": "Diesel",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 11:07:13",
+        "name": "21261",
+        "id": "1639",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21261",
+              "modelYear": "2003",
+              "id": "3225",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14679",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "21261",
+                    "generation": "21261",
+                    "engine": "1.8 (99 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "99/5500",
+                    "powerHp": "99",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "21261 4X4",
+              "modelYear": "2003",
+              "id": "3226",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14680",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "21261",
+                    "generation": "21261 4X4",
+                    "engine": "1.6 (74 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "74/5400",
+                    "powerHp": "74",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1090",
+                    "curbWeightMin": "1090"
+                  },
+                  {
+                    "id": "14681",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "21261",
+                    "generation": "21261 4X4",
+                    "engine": "1.7 (85 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "85/5400",
+                    "powerHp": "85",
+                    "powerRpm": "5400",
+                    "powerRpmLow": "5400",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1450",
+                    "heightMin": "1450",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1090",
+                    "curbWeightMin": "1090"
+                  },
+                  {
+                    "id": "14682",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Izh",
+                    "model": "21261",
+                    "generation": "21261 4X4",
+                    "engine": "1.8 (99 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "99/5500",
+                    "powerHp": "99",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4053",
+                    "width": "1660",
+                    "height": "1437",
+                    "heightMin": "1437",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-07-31 11:10:22",
+        "name": "412",
+        "id": "1640",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "412",
+              "modelYear": "1967",
+              "id": "3227",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "14684",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Izh",
+                    "model": "412",
+                    "generation": "412",
+                    "engine": "1.5 (75 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75",
+                    "powerHp": "75",
+                    "yearstart": "1967",
+                    "yearstop": "1982",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4205",
+                    "width": "1555",
+                    "height": "1500",
+                    "heightMin": "1500",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000",
+                    "curbWeightMin": "1000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

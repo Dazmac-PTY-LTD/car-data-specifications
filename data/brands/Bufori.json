@@ -1,0 +1,140 @@
+{
+  "update": "2019-10-31 11:03:01",
+  "name": "Bufori",
+  "id": "101",
+  "models": {
+    "model": [
+      {
+        "update": "2019-10-31 10:41:04",
+        "name": "La Joya",
+        "id": "1052",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "La Joya",
+              "modelYear": "2005",
+              "id": "2195",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "10815",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Bufori",
+                    "model": "La Joya",
+                    "generation": "La Joya",
+                    "engine": "2.7 i (172 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "172/6000",
+                    "powerHp": "172",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2004",
+                    "yearstop": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4300",
+                    "width": "1757",
+                    "height": "1380",
+                    "heightMin": "1380",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1604",
+                    "curbWeightMin": "1604"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2019-11-05 11:15:26",
+        "name": "Geneva",
+        "id": "2746",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Geneva",
+              "modelYear": "2010",
+              "id": "7380",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "37983",
+                    "update": "2023-08-21 08:50:57",
+                    "brand": "Bufori",
+                    "model": "Geneva",
+                    "generation": "Geneva",
+                    "engine": "6.4i V8 (477 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "477/6000",
+                    "powerHp": "477",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2010",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5540",
+                    "width": "1910",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2450",
+                    "curbWeightMin": "2450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-09-04 09:09:34",
+        "name": "CS8",
+        "id": "3791",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-04 09:09:53",
+              "name": "CS8",
+              "modelYear": "2026",
+              "id": "10782",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55285",
+                    "update": "2025-09-04 16:14:01",
+                    "brand": "Bufori",
+                    "model": "CS8",
+                    "generation": "CS8",
+                    "engine": "6.4 V8 (810 Hp) ZF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "810",
+                    "powerHp": "810",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4568",
+                    "widthOpenedMirrors": "2030",
+                    "height": "1292",
+                    "heightMin": "1292",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

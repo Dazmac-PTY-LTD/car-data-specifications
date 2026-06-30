@@ -1,0 +1,222 @@
+{
+  "update": "2026-03-23 14:51:29",
+  "name": "Farizon",
+  "id": "389",
+  "models": {
+    "model": [
+      {
+        "update": "2026-03-23 14:58:02",
+        "name": "SV",
+        "id": "3957",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-24 11:43:20",
+              "name": "SV L2H2/H3 Passenger",
+              "modelYear": "2024",
+              "id": "11137",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56745",
+                    "update": "2026-03-24 16:08:56",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L2H2/H3 Passenger",
+                    "engine": "82.9 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "9",
+                    "placesMin": "9",
+                    "length": "5490",
+                    "width": "1980",
+                    "height": "2180-2500",
+                    "heightMin": "2180",
+                    "heightMax": "2500",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-03-24 11:43:20",
+              "name": "SV L1H1 Passenger",
+              "modelYear": "2024",
+              "id": "11138",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56744",
+                    "update": "2026-03-24 16:08:56",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L1H1 Passenger",
+                    "engine": "82.9 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5018",
+                    "width": "1980",
+                    "height": "1940",
+                    "heightMin": "1940",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-03-23 15:00:08",
+              "name": "SV L3H3",
+              "modelYear": "2024",
+              "id": "11136",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56742",
+                    "update": "2026-03-24 16:08:56",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L3H3",
+                    "engine": "83 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5995",
+                    "width": "1980",
+                    "height": "2500",
+                    "heightMin": "2500",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2420",
+                    "curbWeightMin": "2420"
+                  },
+                  {
+                    "id": "56743",
+                    "update": "2026-03-24 16:08:56",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L3H3",
+                    "engine": "106 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5995",
+                    "width": "1980",
+                    "height": "2500",
+                    "heightMin": "2500",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2465",
+                    "curbWeightMin": "2465"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-03-23 14:59:53",
+              "name": "SV L2H2",
+              "modelYear": "2024",
+              "id": "11135",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56741",
+                    "update": "2026-03-24 16:08:56",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L2H2",
+                    "engine": "83 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "5490",
+                    "width": "1980",
+                    "height": "2180",
+                    "heightMin": "2180",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2300",
+                    "curbWeightMin": "2300"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-03-23 14:59:22",
+              "name": "SV L1H1",
+              "modelYear": "2024",
+              "id": "11134",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56739",
+                    "update": "2026-03-23 16:26:10",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L1H1",
+                    "engine": "67 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4990",
+                    "width": "1980",
+                    "height": "1980",
+                    "heightMin": "1980",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2110",
+                    "curbWeightMin": "2110"
+                  },
+                  {
+                    "id": "56740",
+                    "update": "2026-03-23 16:26:10",
+                    "brand": "Farizon",
+                    "model": "SV",
+                    "generation": "SV L1H1",
+                    "engine": "83 kWh (231 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Van",
+                    "places": "3",
+                    "placesMin": "3",
+                    "length": "4990",
+                    "width": "1980",
+                    "height": "1980",
+                    "heightMin": "1980",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "curbWeight": "2200",
+                    "curbWeightMin": "2200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

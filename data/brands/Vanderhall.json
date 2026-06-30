@@ -1,0 +1,97 @@
+{
+  "update": "2019-08-16 12:51:14",
+  "name": "Vanderhall",
+  "id": "261",
+  "models": {
+    "model": [
+      {
+        "update": "2019-08-16 12:51:14",
+        "name": "Venice",
+        "id": "2554",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Venice",
+              "modelYear": "2017",
+              "id": "6702",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "34951",
+                    "update": "2023-08-09 10:08:43",
+                    "brand": "Vanderhall",
+                    "model": "Venice",
+                    "generation": "Venice",
+                    "engine": "1.4 T (180 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "180/4950",
+                    "powerHp": "180",
+                    "powerRpm": "4950",
+                    "powerRpmLow": "4950",
+                    "yearstart": "2017",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3581",
+                    "width": "1778",
+                    "height": "1118",
+                    "heightMin": "1118",
+                    "rideHeight": "114",
+                    "rideHeightMin": "114",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "658",
+                    "curbWeightMin": "658"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-17 11:38:06",
+        "name": "Carmel",
+        "id": "3363",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-17 11:38:31",
+              "name": "Carmel",
+              "modelYear": "2020",
+              "id": "9756",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50498",
+                    "update": "2023-11-17 16:08:31",
+                    "brand": "Vanderhall",
+                    "model": "Carmel",
+                    "generation": "Carmel",
+                    "engine": "1.5 Turbo (194 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "194",
+                    "powerHp": "194",
+                    "yearstart": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3700",
+                    "width": "1750",
+                    "height": "1270",
+                    "heightMin": "1270",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "723",
+                    "curbWeightMin": "723"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

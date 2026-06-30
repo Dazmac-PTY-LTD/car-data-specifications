@@ -1,0 +1,132 @@
+{
+  "update": "2020-11-19 11:49:31",
+  "name": "Rimac",
+  "id": "210",
+  "models": {
+    "model": [
+      {
+        "update": "2019-06-26 12:52:26",
+        "name": "One",
+        "id": "2312",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "Concept One",
+              "modelYear": "2013",
+              "id": "5944",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31964",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Rimac",
+                    "model": "One",
+                    "generation": "Concept One",
+                    "engine": "90 kWh (1224 Hp) AWD CVT",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2016",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4146",
+                    "width": "1854",
+                    "height": "1070",
+                    "heightMin": "1070",
+                    "rideHeight": "105-115",
+                    "rideHeightMin": "105",
+                    "rideHeightMax": "115",
+                    "fuel": "Electricity",
+                    "curbWeight": "1900",
+                    "curbWeightMin": "1900"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-19 11:49:31",
+        "name": "CTwo",
+        "id": "2380",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "1",
+              "update": "2021-02-16 14:06:27",
+              "name": "C_Two (Concept)",
+              "modelYear": "2019",
+              "id": "6166",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "32837",
+                    "update": "2022-11-03 20:39:26",
+                    "brand": "Rimac",
+                    "model": "CTwo",
+                    "generation": "C_Two (Concept)",
+                    "engine": "120 kWh (1914 Hp) AWD CVT",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4750",
+                    "width": "1986",
+                    "height": "1208",
+                    "heightMin": "1208",
+                    "fuel": "Electricity",
+                    "curbWeight": "1950",
+                    "curbWeightMin": "1950"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2021-06-03 16:42:31",
+        "name": "Nevera",
+        "id": "2940",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-06-03 16:46:01",
+              "name": "Nevera",
+              "modelYear": "2021",
+              "id": "8387",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "43581",
+                    "update": "2022-11-03 20:39:27",
+                    "brand": "Rimac",
+                    "model": "Nevera",
+                    "generation": "Nevera",
+                    "engine": "120 kWh (1914 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4750",
+                    "width": "1986",
+                    "height": "1208",
+                    "heightMin": "1208",
+                    "fuel": "Electricity",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

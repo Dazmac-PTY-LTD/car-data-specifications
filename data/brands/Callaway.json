@@ -1,0 +1,90 @@
+{
+  "update": "2019-05-22 15:10:13",
+  "name": "Callaway",
+  "id": "126",
+  "models": {
+    "model": [
+      {
+        "update": "2019-07-25 10:19:02",
+        "name": "C12",
+        "id": "1281",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C12 Cabrio",
+              "modelYear": "1997",
+              "id": "2553",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12031",
+                    "update": "2023-08-21 08:35:22",
+                    "brand": "Callaway",
+                    "model": "C12",
+                    "generation": "C12 Cabrio",
+                    "engine": "5.7 i V8 (440 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "440/6300",
+                    "powerHp": "440",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4850",
+                    "width": "2000",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "C12 Coupe",
+              "modelYear": "1997",
+              "id": "2554",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "12032",
+                    "update": "2023-08-21 08:35:22",
+                    "brand": "Callaway",
+                    "model": "C12",
+                    "generation": "C12 Coupe",
+                    "engine": "5.7 i V8 (440 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "440/6300",
+                    "powerHp": "440",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "1998",
+                    "yearstop": "2001",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4850",
+                    "width": "2000",
+                    "height": "1200",
+                    "heightMin": "1200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1480",
+                    "curbWeightMin": "1480"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

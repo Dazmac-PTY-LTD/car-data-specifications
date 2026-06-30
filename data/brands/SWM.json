@@ -1,0 +1,698 @@
+{
+  "update": "2025-03-13 13:45:37",
+  "name": "SWM",
+  "id": "350",
+  "models": {
+    "model": [
+      {
+        "update": "2025-03-13 13:55:54",
+        "name": "X7",
+        "id": "3595",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-13 13:56:44",
+              "name": "X7",
+              "modelYear": "2017",
+              "id": "10419",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53903",
+                    "update": "2025-03-13 16:24:04",
+                    "brand": "SWM",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.8L (137 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137/5600-6000",
+                    "powerHp": "137",
+                    "powerRpm": "5600-6000",
+                    "powerRpmLow": "5600",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1855",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53904",
+                    "update": "2025-03-13 16:24:04",
+                    "brand": "SWM",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.5T (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5600-6000",
+                    "powerHp": "156",
+                    "powerRpm": "5600-6000",
+                    "powerRpmLow": "5600",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1855",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53905",
+                    "update": "2025-03-13 16:24:04",
+                    "brand": "SWM",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "1.5T (156 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5600-6000",
+                    "powerHp": "156",
+                    "powerRpm": "5600-6000",
+                    "powerRpmLow": "5600",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1855",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53906",
+                    "update": "2025-03-13 16:24:04",
+                    "brand": "SWM",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "2.0L (137 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137",
+                    "powerHp": "137",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1855",
+                    "height": "1770",
+                    "heightMin": "1770",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53907",
+                    "update": "2025-03-13 16:24:04",
+                    "brand": "SWM",
+                    "model": "X7",
+                    "generation": "X7",
+                    "engine": "2.0L (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/6000",
+                    "powerHp": "143",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2020",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4710",
+                    "width": "1855",
+                    "height": "1750",
+                    "heightMin": "1750",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-14 09:53:55",
+        "name": "G01",
+        "id": "3596",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-14 09:55:10",
+              "name": "G01",
+              "modelYear": "2019",
+              "id": "10422",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53917",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "SWM",
+                    "model": "G01",
+                    "generation": "G01",
+                    "engine": "1.5T (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4610",
+                    "width": "1855",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "53918",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "SWM",
+                    "model": "G01",
+                    "generation": "G01",
+                    "engine": "1.5T (156 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2018",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4610",
+                    "width": "1855",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  },
+                  {
+                    "id": "53919",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "SWM",
+                    "model": "G01",
+                    "generation": "G01",
+                    "engine": "2.0L (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/6000",
+                    "powerHp": "143",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4610",
+                    "width": "1855",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-20 12:16:18",
+        "name": "G05",
+        "id": "3618",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-20 14:46:00",
+              "name": "G05 Pro (facelift 2021)",
+              "modelYear": "2021",
+              "id": "10452",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53948",
+                    "update": "2025-03-20 16:24:14",
+                    "brand": "SWM",
+                    "model": "G05",
+                    "generation": "G05 Pro (facelift 2021)",
+                    "engine": "2.0L (143 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "143/6000",
+                    "powerHp": "143",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4750",
+                    "width": "1860",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53949",
+                    "update": "2025-03-20 16:24:14",
+                    "brand": "SWM",
+                    "model": "G05",
+                    "generation": "G05 Pro (facelift 2021)",
+                    "engine": "1.5T (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500-5600",
+                    "powerHp": "156",
+                    "powerRpm": "5500-5600",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "5600",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4750",
+                    "width": "1860",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53950",
+                    "update": "2025-03-20 16:24:14",
+                    "brand": "SWM",
+                    "model": "G05",
+                    "generation": "G05 Pro (facelift 2021)",
+                    "engine": "1.5T (139 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "139/5600",
+                    "powerHp": "139",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2021",
+                    "coupe": "SUV",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4750",
+                    "width": "1860",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1670",
+                    "curbWeightMin": "1670"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-03-20 12:16:41",
+              "name": "G05",
+              "modelYear": "2019",
+              "id": "10450",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53946",
+                    "update": "2025-03-20 16:24:14",
+                    "brand": "SWM",
+                    "model": "G05",
+                    "generation": "G05",
+                    "engine": "2.0 (141 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "141/6000",
+                    "powerHp": "141",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4750",
+                    "width": "1860",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "53947",
+                    "update": "2025-03-20 16:24:14",
+                    "brand": "SWM",
+                    "model": "G05",
+                    "generation": "G05",
+                    "engine": "1.5T (154 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "154/5500-5600",
+                    "powerHp": "154",
+                    "powerRpm": "5500-5600",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "5600",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4750",
+                    "width": "1860",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1595",
+                    "curbWeightMin": "1595"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-21 09:00:28",
+        "name": "X3",
+        "id": "3619",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-21 09:01:13",
+              "name": "X3",
+              "modelYear": "2018",
+              "id": "10453",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53963",
+                    "update": "2025-03-21 16:22:15",
+                    "brand": "SWM",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.5L (112 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "112",
+                    "powerHp": "112",
+                    "yearstart": "2018",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4615",
+                    "width": "1790",
+                    "height": "1790",
+                    "heightMin": "1790",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  },
+                  {
+                    "id": "53964",
+                    "update": "2025-03-21 16:22:15",
+                    "brand": "SWM",
+                    "model": "X3",
+                    "generation": "X3",
+                    "engine": "1.6L (117 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "117/5800",
+                    "powerHp": "117",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2018",
+                    "yearstop": "2023",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4615",
+                    "width": "1790",
+                    "height": "1790",
+                    "heightMin": "1790",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1450",
+                    "curbWeightMin": "1450"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-21 10:56:56",
+        "name": "G03F",
+        "id": "3620",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-21 10:58:49",
+              "name": "G03F",
+              "modelYear": "2024",
+              "id": "10454",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53965",
+                    "update": "2025-03-21 16:22:15",
+                    "brand": "SWM",
+                    "model": "G03F",
+                    "generation": "G03F",
+                    "engine": "1.5L (108 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "108/6000",
+                    "powerHp": "108",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4605",
+                    "width": "1815",
+                    "height": "1825",
+                    "heightMin": "1825",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400",
+                    "curbWeightMin": "1400"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-21 12:13:14",
+        "name": "Tiger",
+        "id": "3622",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-21 12:13:47",
+              "name": "Tiger",
+              "modelYear": "2023",
+              "id": "10456",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53966",
+                    "update": "2025-03-21 16:22:15",
+                    "brand": "SWM",
+                    "model": "Tiger",
+                    "generation": "Tiger",
+                    "engine": "1.5L (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4605",
+                    "width": "1815",
+                    "height": "1810-1825",
+                    "heightMin": "1810",
+                    "heightMax": "1825",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "53967",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "SWM",
+                    "model": "Tiger",
+                    "generation": "Tiger",
+                    "engine": "EDi 1.5L (143 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "102",
+                    "powerHp": "102",
+                    "yearstart": "2023",
+                    "coupe": "SUV, Crossover",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4605",
+                    "width": "1815",
+                    "height": "1810-1825",
+                    "heightMin": "1810",
+                    "heightMax": "1825",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2025-03-21 14:56:47",
+        "name": "G01FF",
+        "id": "3623",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-03-21 14:58:52",
+              "name": "G01FF",
+              "modelYear": "2019",
+              "id": "10457",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53920",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "SWM",
+                    "model": "G01FF",
+                    "generation": "G01FF",
+                    "engine": "1.5T (156 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1855",
+                    "height": "1725",
+                    "heightMin": "1725",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "53921",
+                    "update": "2025-04-11 16:16:53",
+                    "brand": "SWM",
+                    "model": "G01FF",
+                    "generation": "G01FF",
+                    "engine": "1.5T (156 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1855",
+                    "height": "1725-1740",
+                    "heightMin": "1725",
+                    "heightMax": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "53922",
+                    "update": "2025-03-21 15:00:06",
+                    "brand": "SWM",
+                    "model": "G01FF",
+                    "generation": "G01FF",
+                    "engine": "1.5T (137 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137",
+                    "powerHp": "137",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1855",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1520",
+                    "curbWeightMin": "1520"
+                  },
+                  {
+                    "id": "53923",
+                    "update": "2025-03-21 15:01:31",
+                    "brand": "SWM",
+                    "model": "G01FF",
+                    "generation": "G01FF",
+                    "engine": "1.5T (137 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "137",
+                    "powerHp": "137",
+                    "yearstart": "2020",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4670",
+                    "width": "1855",
+                    "height": "1740",
+                    "heightMin": "1740",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1570",
+                    "curbWeightMin": "1570"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

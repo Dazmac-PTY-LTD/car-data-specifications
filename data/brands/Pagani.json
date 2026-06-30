@@ -1,0 +1,782 @@
+{
+  "update": "2022-04-14 16:44:04",
+  "name": "Pagani",
+  "id": "29",
+  "models": {
+    "model": [
+      {
+        "update": "2021-01-27 08:55:43",
+        "name": "Zonda",
+        "id": "315",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2021-01-27 12:53:44",
+              "name": "Zonda Hp Barchetta",
+              "modelYear": "2017",
+              "id": "6924",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda R",
+              "modelYear": "2009",
+              "id": "4852",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23797",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda R",
+                    "engine": "Revolucion 6.0 V12 48V (800 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "800/8000",
+                    "powerHp": "800",
+                    "powerRpm": "8000",
+                    "powerRpmLow": "8000",
+                    "yearstart": "2013",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4886",
+                    "width": "2014",
+                    "height": "1141",
+                    "heightMin": "1141",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1070",
+                    "curbWeightMin": "1070"
+                  },
+                  {
+                    "id": "24036",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda R",
+                    "engine": "6.0 V12 48V (749 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "749/7500",
+                    "powerHp": "749",
+                    "powerRpm": "7500",
+                    "powerRpmLow": "7500",
+                    "yearstart": "2009",
+                    "yearstop": "2011",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4886",
+                    "width": "2014",
+                    "height": "1141",
+                    "heightMin": "1141",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1070",
+                    "curbWeightMin": "1070"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda Cinque Roadster",
+              "modelYear": "2009",
+              "id": "4856",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24110",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda Cinque Roadster",
+                    "engine": "7.3 V12 (678 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "678/6400",
+                    "powerHp": "678",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2008",
+                    "yearstop": "2009",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1210",
+                    "curbWeightMin": "1210"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda Cinque",
+              "modelYear": "2009",
+              "id": "4851",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23799",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda Cinque",
+                    "engine": "Tricolore 7.3 V12 (678 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "678/6400",
+                    "powerHp": "678",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2010",
+                    "yearstop": "2010",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1210",
+                    "curbWeightMin": "1210"
+                  },
+                  {
+                    "id": "24109",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda Cinque",
+                    "engine": "7.3 V12 (678 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "678/6400",
+                    "powerHp": "678",
+                    "powerRpm": "6400",
+                    "powerRpmLow": "6400",
+                    "yearstart": "2008",
+                    "yearstop": "2009",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1210",
+                    "curbWeightMin": "1210"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda Roadster F",
+              "modelYear": "2006",
+              "id": "4855",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24022",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda Roadster F",
+                    "engine": "7.3 V12 48V (650 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "650/6200",
+                    "powerHp": "650",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2006",
+                    "yearstop": "2007",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4435",
+                    "width": "2055",
+                    "height": "1141",
+                    "heightMin": "1141",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda F",
+              "modelYear": "2005",
+              "id": "4853",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24006",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda F",
+                    "engine": "7.3 V12 48V (602 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "602/6150",
+                    "powerHp": "602",
+                    "powerRpm": "6150",
+                    "powerRpmLow": "6150",
+                    "yearstart": "2005",
+                    "yearstop": "2007",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4435",
+                    "width": "2055",
+                    "height": "1141",
+                    "heightMin": "1141",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda Roadster",
+              "modelYear": "2003",
+              "id": "4854",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "24004",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda Roadster",
+                    "engine": "7.3 V12 (555 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "555/5900",
+                    "powerHp": "555",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2002",
+                    "yearstop": "2003",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4395",
+                    "width": "2055",
+                    "height": "1151",
+                    "heightMin": "1151",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Zonda C12",
+              "modelYear": "1999",
+              "id": "650",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "2825",
+                    "update": "2022-10-11 12:09:39",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda C12",
+                    "engine": "7.3 i V12 48V (550 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "550/5500",
+                    "powerHp": "550",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "1999",
+                    "yearstop": "2002",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4345",
+                    "width": "2055",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  },
+                  {
+                    "id": "24005",
+                    "update": "2021-12-03 11:53:43",
+                    "brand": "Pagani",
+                    "model": "Zonda",
+                    "generation": "Zonda C12",
+                    "engine": "S 7.3 V12 (555 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "555/5900",
+                    "powerHp": "555",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2002",
+                    "yearstop": "2005",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4395",
+                    "width": "2055",
+                    "height": "1151",
+                    "heightMin": "1151",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2020-11-23 13:33:52",
+        "name": "Huayra",
+        "id": "2122",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-07-09 11:45:53",
+              "name": "Huayra Codalunga Speedster",
+              "modelYear": "2025",
+              "id": "10663",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54835",
+                    "update": "2025-07-09 14:13:28",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra Codalunga Speedster",
+                    "engine": "6.0 V12 (864 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "864/6000",
+                    "powerHp": "864",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2025",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4912",
+                    "width": "2050",
+                    "height": "1174",
+                    "heightMin": "1174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270",
+                    "curbWeightMin": "1270"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2024-02-13 14:54:32",
+              "name": "Huayra R Evo",
+              "modelYear": "2024",
+              "id": "9890",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "51215",
+                    "update": "2024-02-13 16:08:44",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra R Evo",
+                    "engine": "6.0 V12 (900 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "900/8750",
+                    "powerHp": "900",
+                    "powerRpm": "8750",
+                    "powerRpmLow": "8750",
+                    "yearstart": "2024",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5180",
+                    "width": "2077",
+                    "height": "1164",
+                    "heightMin": "1164",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-06 09:34:22",
+              "name": "Huayra Codalunga",
+              "modelYear": "2023",
+              "id": "8926",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "45982",
+                    "update": "2024-07-03 11:24:52",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra Codalunga",
+                    "engine": "6.0 V12 (840 Hp) Xtrac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "840/5900",
+                    "powerHp": "840",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2022",
+                    "yearstop": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-06 09:34:22",
+              "name": "Huayra R",
+              "modelYear": "2022",
+              "id": "8944",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "46076",
+                    "update": "2022-10-11 12:10:53",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra R",
+                    "engine": "6.0 V12 (850 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "850/8250",
+                    "powerHp": "850",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2021",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1050",
+                    "curbWeightMin": "1050"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Huayra Imola",
+              "modelYear": "2020",
+              "id": "7558",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "39116",
+                    "update": "2024-07-03 11:25:53",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra Imola",
+                    "engine": "6.0 V12 (827 Hp) Xtrac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "827",
+                    "powerHp": "827",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4853",
+                    "width": "2035",
+                    "widthOpenedMirrors": "2264",
+                    "height": "1269",
+                    "heightMin": "1269",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1246",
+                    "curbWeightMin": "1246"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2022-07-06 09:29:11",
+              "name": "Huayra Roadster BC",
+              "modelYear": "2019",
+              "id": "7504",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "38656",
+                    "update": "2024-07-03 11:26:13",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra Roadster BC",
+                    "engine": "6.0 V12 (802 Hp) Xtrac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "802/5900",
+                    "powerHp": "802",
+                    "powerRpm": "5900",
+                    "powerRpmLow": "5900",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1250",
+                    "curbWeightMin": "1250"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Huayra Roadster",
+              "modelYear": "2017",
+              "id": "5778",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "31591",
+                    "update": "2023-04-13 09:51:26",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra Roadster",
+                    "engine": "6.0 V12 (764 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "764/5500",
+                    "powerHp": "764",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "yearstop": "2019",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4605",
+                    "width": "2036",
+                    "height": "1169",
+                    "heightMin": "1169",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Huayra BC",
+              "modelYear": "2017",
+              "id": "4859",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23772",
+                    "update": "2023-04-13 09:51:26",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra BC",
+                    "engine": "6.0 V12 36V (750 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "750/6200",
+                    "powerHp": "750",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2016",
+                    "yearstop": "2019",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4724",
+                    "width": "1934",
+                    "widthOpenedMirrors": "2040",
+                    "height": "1174",
+                    "heightMin": "1174",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1218",
+                    "curbWeightMin": "1218"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2021-01-05 21:49:32",
+              "name": "Huayra",
+              "modelYear": "2012",
+              "id": "4858",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "23800",
+                    "update": "2023-04-13 09:51:27",
+                    "brand": "Pagani",
+                    "model": "Huayra",
+                    "generation": "Huayra",
+                    "engine": "6.0 V12 (730 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "730/5800",
+                    "powerHp": "730",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2011",
+                    "yearstop": "2018",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4605",
+                    "width": "2036",
+                    "widthOpenedMirrors": "2356",
+                    "height": "1169",
+                    "heightMin": "1169",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-04-06 11:54:41",
+        "name": "Utopia",
+        "id": "3240",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2024-07-31 08:14:51",
+              "name": "Utopia Roadster",
+              "modelYear": "2025",
+              "id": "10112",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "52346",
+                    "update": "2024-07-31 09:15:42",
+                    "brand": "Pagani",
+                    "model": "Utopia",
+                    "generation": "Utopia Roadster",
+                    "engine": "6.0 V12 (864 Hp) Xtrac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "864/6000",
+                    "powerHp": "864",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4673",
+                    "width": "2060",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "52347",
+                    "update": "2024-07-31 09:15:43",
+                    "brand": "Pagani",
+                    "model": "Utopia",
+                    "generation": "Utopia Roadster",
+                    "engine": "6.0 V12 (864 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "864/6000",
+                    "powerHp": "864",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2024",
+                    "coupe": "Roadster",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4673",
+                    "width": "2060",
+                    "height": "1165",
+                    "heightMin": "1165",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-04-06 11:55:30",
+              "name": "Utopia",
+              "modelYear": "2023",
+              "id": "9418",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "48359",
+                    "update": "2024-07-31 09:43:34",
+                    "brand": "Pagani",
+                    "model": "Utopia",
+                    "generation": "Utopia",
+                    "engine": "6.0 V12 (864 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "864/6000",
+                    "powerHp": "864",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  },
+                  {
+                    "id": "48360",
+                    "update": "2024-07-31 09:43:34",
+                    "brand": "Pagani",
+                    "model": "Utopia",
+                    "generation": "Utopia",
+                    "engine": "6.0 V12 (864 Hp) Xtrac",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "864/6000",
+                    "powerHp": "864",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1280",
+                    "curbWeightMin": "1280"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

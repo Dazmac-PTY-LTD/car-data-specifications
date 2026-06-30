@@ -1,0 +1,241 @@
+{
+  "update": "2025-03-21 11:23:25",
+  "name": "AUDI",
+  "id": "355",
+  "models": {
+    "model": [
+      {
+        "update": "2025-05-08 14:59:54",
+        "name": "E5",
+        "id": "3621",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-05-08 15:00:16",
+              "name": "E5 Sportback",
+              "modelYear": "2025",
+              "id": "10525",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55165",
+                    "update": "2025-08-25 11:14:00",
+                    "brand": "AUDI",
+                    "model": "E5",
+                    "generation": "E5 Sportback",
+                    "engine": "76 kWh (299 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4881",
+                    "width": "1960",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "fuel": "Electricity",
+                    "curbWeight": "2225",
+                    "curbWeightMin": "2225"
+                  },
+                  {
+                    "id": "55166",
+                    "update": "2025-08-25 11:14:00",
+                    "brand": "AUDI",
+                    "model": "E5",
+                    "generation": "E5 Sportback",
+                    "engine": "100 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4881",
+                    "width": "1960",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "fuel": "Electricity",
+                    "curbWeight": "2240",
+                    "curbWeightMin": "2240"
+                  },
+                  {
+                    "id": "55167",
+                    "update": "2025-08-25 11:14:01",
+                    "brand": "AUDI",
+                    "model": "E5",
+                    "generation": "E5 Sportback",
+                    "engine": "83 kWh (525 Hp) quattro",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4881",
+                    "width": "1960",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "fuel": "Electricity",
+                    "curbWeight": "2234",
+                    "curbWeightMin": "2234"
+                  },
+                  {
+                    "id": "55168",
+                    "update": "2025-08-25 11:14:00",
+                    "brand": "AUDI",
+                    "model": "E5",
+                    "generation": "E5 Sportback",
+                    "engine": "100 kWh (787 Hp) quattro",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4881",
+                    "width": "1960",
+                    "height": "1479",
+                    "heightMin": "1479",
+                    "fuel": "Electricity",
+                    "curbWeight": "2343",
+                    "curbWeightMin": "2343"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "1",
+              "update": "2025-03-21 11:31:14",
+              "name": "E concept",
+              "modelYear": "2024",
+              "id": "10455",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "53959",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "AUDI",
+                    "model": "E5",
+                    "generation": "E concept",
+                    "engine": "100 kWh (775 Hp) quattro",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "yearstop": "2024",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4870",
+                    "width": "1990",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-03-18 13:35:23",
+        "name": "E7X",
+        "id": "3954",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-03-18 13:37:29",
+              "name": "E7X",
+              "modelYear": "2027",
+              "id": "11128",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "56723",
+                    "update": "2026-05-11 16:13:02",
+                    "brand": "AUDI",
+                    "model": "E7X",
+                    "generation": "E7X",
+                    "engine": "109 kWh (680 Hp) Electric quattro",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5049",
+                    "width": "1997",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Electricity",
+                    "curbWeight": "2673",
+                    "curbWeightMin": "2673"
+                  },
+                  {
+                    "id": "56972",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "AUDI",
+                    "model": "E7X",
+                    "generation": "E7X",
+                    "engine": "100 kWh (408 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "1997",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Electricity",
+                    "curbWeight": "2457-2482",
+                    "curbWeightMin": "2457",
+                    "curbWeightMax": "2482"
+                  },
+                  {
+                    "id": "56973",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "AUDI",
+                    "model": "E7X",
+                    "generation": "E7X",
+                    "engine": "109 kWh (408 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "1997",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Electricity",
+                    "curbWeight": "2526",
+                    "curbWeightMin": "2526"
+                  },
+                  {
+                    "id": "56974",
+                    "update": "2026-05-11 16:12:15",
+                    "brand": "AUDI",
+                    "model": "E7X",
+                    "generation": "E7X",
+                    "engine": "100 kWh (680 Hp) Electric quattro",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5049",
+                    "width": "1997",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Electricity",
+                    "curbWeight": "2584",
+                    "curbWeightMin": "2584"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

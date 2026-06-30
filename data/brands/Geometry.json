@@ -1,0 +1,508 @@
+{
+  "update": "2023-11-01 09:50:04",
+  "name": "Geometry",
+  "id": "336",
+  "models": {
+    "model": [
+      {
+        "update": "2023-11-01 10:38:08",
+        "name": "E",
+        "id": "3343",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-01 10:38:40",
+              "name": "E",
+              "modelYear": "2022",
+              "id": "9719",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50304",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "E",
+                    "generation": "E",
+                    "engine": "29.67 kWh (82 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4006",
+                    "width": "1765",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1240",
+                    "curbWeightMin": "1240"
+                  },
+                  {
+                    "id": "50305",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "E",
+                    "generation": "E",
+                    "engine": "39.3 kWh (82 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4006",
+                    "width": "1765",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "rideHeight": "165",
+                    "rideHeightMin": "165",
+                    "fuel": "Electricity",
+                    "curbWeight": "1325",
+                    "curbWeightMin": "1325"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-01 12:20:17",
+        "name": "Panda Mini",
+        "id": "3346",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-03 10:08:58",
+              "name": "Panda Mini Knight",
+              "modelYear": "2023",
+              "id": "9731",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50321",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "Panda Mini",
+                    "generation": "Panda Mini Knight",
+                    "engine": "17.03 kWh (41 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3135",
+                    "width": "1565",
+                    "height": "1655",
+                    "heightMin": "1655",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "807",
+                    "curbWeightMin": "807"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-11-01 12:20:37",
+              "name": "Panda Mini",
+              "modelYear": "2023",
+              "id": "9721",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50306",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "Panda Mini",
+                    "generation": "Panda Mini",
+                    "engine": "9.61 kWh (27 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3065",
+                    "width": "1522",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "715",
+                    "curbWeightMin": "715"
+                  },
+                  {
+                    "id": "50307",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "Panda Mini",
+                    "generation": "Panda Mini",
+                    "engine": "17.03 kWh (41 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3065",
+                    "width": "1522",
+                    "height": "1600-1610",
+                    "heightMin": "1600",
+                    "heightMax": "1610",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "788-797",
+                    "curbWeightMin": "788",
+                    "curbWeightMax": "797"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-03 14:50:29",
+        "name": "C/M6",
+        "id": "3353",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-03 14:47:30",
+              "name": "M6 (facelift 2022)",
+              "modelYear": "2022",
+              "id": "9733",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50324",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "C/M6",
+                    "generation": "M6 (facelift 2022)",
+                    "engine": "53 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1833",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1545",
+                    "curbWeightMin": "1545"
+                  },
+                  {
+                    "id": "50325",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "C/M6",
+                    "generation": "M6 (facelift 2022)",
+                    "engine": "70 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1833",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1665",
+                    "curbWeightMin": "1665"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-11-03 12:23:38",
+              "name": "C",
+              "modelYear": "2019",
+              "id": "9732",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50322",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "C/M6",
+                    "generation": "C",
+                    "engine": "53 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1833",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1545-1607",
+                    "curbWeightMin": "1545",
+                    "curbWeightMax": "1607"
+                  },
+                  {
+                    "id": "50323",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "C/M6",
+                    "generation": "C",
+                    "engine": "70 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4432",
+                    "width": "1833",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1665",
+                    "curbWeightMin": "1665"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-06 10:18:39",
+        "name": "A/G6",
+        "id": "3355",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-06 12:27:27",
+              "name": "G6 (facelift 2022)",
+              "modelYear": "2023",
+              "id": "9738",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50337",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "G6 (facelift 2022)",
+                    "engine": "46.1 kWh (136 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4752",
+                    "width": "1804",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50338",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "G6 (facelift 2022)",
+                    "engine": "53.4 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4752",
+                    "width": "1804",
+                    "height": "1520",
+                    "heightMin": "1520",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-11-06 11:59:47",
+              "name": "A Pro (facelift 2021)",
+              "modelYear": "2021",
+              "id": "9737",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50335",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "A Pro (facelift 2021)",
+                    "engine": "53 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4752",
+                    "width": "1804",
+                    "height": "1503",
+                    "heightMin": "1503",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "50336",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "A Pro (facelift 2021)",
+                    "engine": "70 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4752",
+                    "width": "1804",
+                    "height": "1503",
+                    "heightMin": "1503",
+                    "fuel": "Electricity",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2023-11-06 10:19:10",
+              "name": "A",
+              "modelYear": "2019",
+              "id": "9736",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50333",
+                    "update": "2023-11-06 16:28:26",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "A",
+                    "engine": "51.9 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4736",
+                    "width": "1804",
+                    "height": "1503",
+                    "heightMin": "1503",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  },
+                  {
+                    "id": "50334",
+                    "update": "2023-11-06 16:28:26",
+                    "brand": "Geometry",
+                    "model": "A/G6",
+                    "generation": "A",
+                    "engine": "61.9 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2019",
+                    "yearstop": "2021",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4736",
+                    "width": "1804",
+                    "height": "1503",
+                    "heightMin": "1503",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1650",
+                    "curbWeightMin": "1650"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2023-11-07 08:59:54",
+        "name": "EX3",
+        "id": "3356",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2023-11-07 09:00:42",
+              "name": "EX3",
+              "modelYear": "2021",
+              "id": "9739",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "50388",
+                    "update": "2025-04-11 12:24:32",
+                    "brand": "Geometry",
+                    "model": "EX3",
+                    "generation": "EX3",
+                    "engine": "37.23 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2021",
+                    "yearstop": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4005",
+                    "width": "1760",
+                    "height": "1575",
+                    "heightMin": "1575",
+                    "rideHeight": "148",
+                    "rideHeightMin": "148",
+                    "fuel": "Electricity",
+                    "curbWeight": "1290",
+                    "curbWeightMin": "1290"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

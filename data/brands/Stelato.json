@@ -1,0 +1,208 @@
+{
+  "update": "2025-07-22 10:23:14",
+  "name": "Stelato",
+  "id": "364",
+  "models": {
+    "model": [
+      {
+        "update": "2025-07-22 10:32:28",
+        "name": "S9",
+        "id": "3752",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2025-09-24 12:21:10",
+              "name": "S9T",
+              "modelYear": "2025",
+              "id": "10837",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "55409",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9T",
+                    "engine": "1.5T 53.4 kWh (309 Hp) Extended Range Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2388",
+                    "curbWeightMin": "2388"
+                  },
+                  {
+                    "id": "55410",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9T",
+                    "engine": "1.5T 37 kWh (309 Hp) Extended Range Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2354",
+                    "curbWeightMin": "2354"
+                  },
+                  {
+                    "id": "55411",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9T",
+                    "engine": "100 kWh (524 Hp) Electric Dual Motor 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "fuel": "Electricity",
+                    "curbWeight": "2437",
+                    "curbWeightMin": "2437"
+                  },
+                  {
+                    "id": "55412",
+                    "update": "2025-09-24 14:15:45",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9T",
+                    "engine": "100 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1492",
+                    "heightMin": "1492",
+                    "fuel": "Electricity",
+                    "curbWeight": "2302",
+                    "curbWeightMin": "2302"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2025-07-22 10:33:10",
+              "name": "S9",
+              "modelYear": "2024",
+              "id": "10692",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "54926",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9",
+                    "engine": "100 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "1987",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "fuel": "Electricity",
+                    "curbWeight": "2246",
+                    "curbWeightMin": "2246"
+                  },
+                  {
+                    "id": "54927",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9",
+                    "engine": "100 kWh (524 Hp) Electric Dual Motor 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "1987",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "fuel": "Electricity",
+                    "curbWeight": "2355",
+                    "curbWeightMin": "2355"
+                  },
+                  {
+                    "id": "54928",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9",
+                    "engine": "1.5T 37 kWh (309 Hp) Extended Range Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2330",
+                    "curbWeightMin": "2330"
+                  },
+                  {
+                    "id": "54929",
+                    "update": "2025-07-22 16:13:57",
+                    "brand": "Stelato",
+                    "model": "S9",
+                    "generation": "S9",
+                    "engine": "1.5T 53.4 kWh (309 Hp) Extended Range Hybrid",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5160",
+                    "width": "2005",
+                    "height": "1486",
+                    "heightMin": "1486",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2350",
+                    "curbWeightMin": "2350"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
