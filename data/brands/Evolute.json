@@ -1,0 +1,95 @@
+{
+  "update": "2026-07-01 10:58:22",
+  "name": "Evolute",
+  "id": "404",
+  "models": {
+    "model": [
+      {
+        "update": "2026-07-01 11:02:14",
+        "name": "i-Jet",
+        "id": "4065",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-01 11:03:39",
+              "name": "i-Jet",
+              "modelYear": "2022",
+              "id": "11346",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57399",
+                    "update": "2026-07-01 14:14:06",
+                    "brand": "Evolute",
+                    "model": "i-Jet",
+                    "generation": "i-Jet",
+                    "engine": "80 kWh (585 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4710",
+                    "width": "1930",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2360",
+                    "curbWeightMin": "2360"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-01 12:18:34",
+        "name": "i-Van",
+        "id": "4066",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-01 12:19:08",
+              "name": "i-Van",
+              "modelYear": "2022",
+              "id": "11347",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57400",
+                    "update": "2026-07-01 14:14:07",
+                    "brand": "Evolute",
+                    "model": "i-Van",
+                    "generation": "i-Van",
+                    "engine": "67.5 kWh (122 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "coupe": "Minivan",
+                    "places": "5-9",
+                    "placesMin": "5",
+                    "placesMax": "9",
+                    "length": "5145",
+                    "width": "1720",
+                    "height": "1995",
+                    "heightMin": "1995",
+                    "rideHeight": "170",
+                    "rideHeightMin": "170",
+                    "fuel": "Electricity",
+                    "curbWeight": "1720-1850",
+                    "curbWeightMin": "1720",
+                    "curbWeightMax": "1850"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
