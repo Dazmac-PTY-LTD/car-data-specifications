@@ -2534,7 +2534,7 @@
                 "modification": [
                   {
                     "id": "51627",
-                    "update": "2024-04-25 16:23:51",
+                    "update": "2026-07-02 09:54:43",
                     "brand": "Lamborghini",
                     "model": "Urus",
                     "generation": "Urus (facelift 2024)",
@@ -2556,6 +2556,29 @@
                     "fuel": "Petrol / electricity",
                     "curbWeight": "2505",
                     "curbWeightMin": "2505"
+                  },
+                  {
+                    "id": "57401",
+                    "update": "2026-07-02 09:56:56",
+                    "brand": "Lamborghini",
+                    "model": "Urus",
+                    "generation": "Urus (facelift 2024)",
+                    "engine": "SE Performante 4.0 V8 (812 Hp) Plug-in Hybrid 4WD Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "620",
+                    "powerHp": "620",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5117",
+                    "width": "2031",
+                    "widthOpenedMirrors": "2181",
+                    "height": "1638",
+                    "heightMin": "1638",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2473",
+                    "curbWeightMin": "2473"
                   }
                 ]
               }

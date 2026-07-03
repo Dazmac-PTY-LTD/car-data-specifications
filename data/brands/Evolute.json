@@ -89,6 +89,49 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-02 10:27:21",
+        "name": "i-Pro",
+        "id": "4067",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-02 10:28:02",
+              "name": "i-Pro",
+              "modelYear": "2022",
+              "id": "11350",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57410",
+                    "update": "2026-07-02 16:16:22",
+                    "brand": "Evolute",
+                    "model": "i-Pro",
+                    "generation": "i-Pro",
+                    "engine": "53 kWh (150 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4680",
+                    "width": "1720",
+                    "height": "1530",
+                    "heightMin": "1530",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Electricity",
+                    "curbWeight": "1577",
+                    "curbWeightMin": "1577"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

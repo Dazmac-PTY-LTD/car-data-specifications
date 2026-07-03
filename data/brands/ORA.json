@@ -316,7 +316,7 @@
                 "modification": [
                   {
                     "id": "55785",
-                    "update": "2025-11-17 16:09:05",
+                    "update": "2026-07-02 15:13:39",
                     "brand": "ORA",
                     "model": "5",
                     "generation": "5",
@@ -335,7 +335,7 @@
                   },
                   {
                     "id": "55789",
-                    "update": "2025-11-17 16:09:05",
+                    "update": "2026-07-02 15:12:55",
                     "brand": "ORA",
                     "model": "5",
                     "generation": "5",
@@ -351,6 +351,54 @@
                     "heightMin": "1641",
                     "fuel": "Electricity",
                     "curbWeight": ""
+                  },
+                  {
+                    "id": "57411",
+                    "update": "2026-07-02 16:16:22",
+                    "brand": "ORA",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.5T (160 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "160",
+                    "powerHp": "160",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4471",
+                    "width": "1833",
+                    "height": "1641",
+                    "heightMin": "1641",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  },
+                  {
+                    "id": "57412",
+                    "update": "2026-07-02 16:16:22",
+                    "brand": "ORA",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "1.5T (223 Hp) Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4471",
+                    "width": "1833",
+                    "height": "1641",
+                    "heightMin": "1641",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1585",
+                    "curbWeightMin": "1585"
                   }
                 ]
               }
