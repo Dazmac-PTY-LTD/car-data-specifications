@@ -6377,6 +6377,55 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-06 15:39:17",
+        "name": "Dakota",
+        "id": "4068",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-06 15:41:31",
+              "name": "Dakota",
+              "modelYear": "2026",
+              "id": "11354",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57431",
+                    "update": "2026-07-06 16:25:33",
+                    "brand": "RAM",
+                    "model": "Dakota",
+                    "generation": "Dakota",
+                    "engine": "2.2 MultiJet (200 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "200/3500",
+                    "powerHp": "200",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2025",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5357",
+                    "width": "1965",
+                    "widthOpenedMirrors": "2225",
+                    "height": "1873-1874",
+                    "heightMin": "1873",
+                    "heightMax": "1874",
+                    "rideHeight": "228-229",
+                    "rideHeightMin": "228",
+                    "rideHeightMax": "229",
+                    "fuel": "Diesel",
+                    "curbWeight": "2150",
+                    "curbWeightMin": "2150"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
