@@ -107007,12 +107007,37 @@
           "generation": [
             {
               "prototype": "0",
-              "update": "2026-07-06 16:30:57",
-              "name": "VLE",
+              "update": "2026-07-07 09:12:02",
+              "name": "VLE (E449)",
               "modelYear": "2027",
               "id": "11355",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57436",
+                    "update": "2026-07-07 09:49:59",
+                    "brand": "Mercedes-Benz",
+                    "model": "VLE",
+                    "generation": "VLE (E449)",
+                    "engine": "VLE 300 115 kWh (276 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "MPV",
+                    "places": "5-8",
+                    "placesMin": "5",
+                    "placesMax": "8",
+                    "length": "5309",
+                    "width": "1999",
+                    "widthFoldedMirrors": "2092",
+                    "widthOpenedMirrors": "2248",
+                    "height": "1943",
+                    "heightMin": "1943",
+                    "fuel": "Electricity",
+                    "curbWeight": "2865-3082",
+                    "curbWeightMin": "2865",
+                    "curbWeightMax": "3082"
+                  }
+                ]
               }
             }
           ]

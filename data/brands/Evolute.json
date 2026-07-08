@@ -132,6 +132,158 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-07 10:23:57",
+        "name": "i-Joy",
+        "id": "4070",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-07 12:13:08",
+              "name": "i-Joy II",
+              "modelYear": "2025",
+              "id": "11357",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57443",
+                    "update": "2026-07-07 16:31:08",
+                    "brand": "Evolute",
+                    "model": "i-Joy",
+                    "generation": "i-Joy II",
+                    "engine": "51.87 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4306",
+                    "width": "1868",
+                    "height": "1654",
+                    "heightMin": "1654",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-07-07 11:25:15",
+              "name": "i-Joy I",
+              "modelYear": "2022",
+              "id": "11356",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57442",
+                    "update": "2026-07-07 16:31:08",
+                    "brand": "Evolute",
+                    "model": "i-Joy",
+                    "generation": "i-Joy I",
+                    "engine": "53 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4385",
+                    "width": "1850",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-07 14:21:01",
+        "name": "i-Sky",
+        "id": "4071",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-07 15:02:15",
+              "name": "i-Sky II",
+              "modelYear": "2026",
+              "id": "11361",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57445",
+                    "update": "2026-07-07 16:31:08",
+                    "brand": "Evolute",
+                    "model": "i-Sky",
+                    "generation": "i-Sky II",
+                    "engine": "62 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4685",
+                    "width": "1900",
+                    "height": "1613",
+                    "heightMin": "1613",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-07-07 15:02:01",
+              "name": "i-Sky I",
+              "modelYear": "2023",
+              "id": "11359",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57444",
+                    "update": "2026-07-07 16:31:08",
+                    "brand": "Evolute",
+                    "model": "i-Sky",
+                    "generation": "i-Sky I",
+                    "engine": "85.9 kWh (204 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "yearstop": "2026",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4565",
+                    "width": "1860",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "2025",
+                    "curbWeightMin": "2025"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

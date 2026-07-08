@@ -1217,7 +1217,52 @@
               "modelYear": "2026",
               "id": "11002",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57437",
+                    "update": "2026-07-07 11:33:03",
+                    "brand": "Leapmotor",
+                    "model": "B03X",
+                    "generation": "B03X",
+                    "engine": "39.8 kWh (177 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4270",
+                    "width": "1810",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1525",
+                    "curbWeightMin": "1525"
+                  },
+                  {
+                    "id": "57438",
+                    "update": "2026-07-07 12:11:31",
+                    "brand": "Leapmotor",
+                    "model": "B03X",
+                    "generation": "B03X",
+                    "engine": "53 kWh (197 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4270",
+                    "width": "1810",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1625",
+                    "curbWeightMin": "1625"
+                  }
+                ]
               }
             }
           ]
