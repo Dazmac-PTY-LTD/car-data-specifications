@@ -284,6 +284,110 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-08 10:55:28",
+        "name": "i-Space",
+        "id": "4072",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-08 13:23:37",
+              "name": "i-Space (facelift 2025)",
+              "modelYear": "2025",
+              "id": "11364",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57454",
+                    "update": "2026-07-08 14:26:35",
+                    "brand": "Evolute",
+                    "model": "i-Space",
+                    "generation": "i-Space (facelift 2025)",
+                    "engine": "1.5L (218 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57455",
+                    "update": "2026-07-08 14:26:35",
+                    "brand": "Evolute",
+                    "model": "i-Space",
+                    "generation": "i-Space (facelift 2025)",
+                    "engine": "1.5L (367 Hp) Plug-in Hybrid AWD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "90",
+                    "powerHp": "90",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "5-7",
+                    "placesMin": "5",
+                    "placesMax": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-07-08 10:58:35",
+              "name": "i-Space",
+              "modelYear": "2023",
+              "id": "11363",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57453",
+                    "update": "2026-07-08 14:26:35",
+                    "brand": "Evolute",
+                    "model": "i-Space",
+                    "generation": "i-Space",
+                    "engine": "1.5L (177 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "110",
+                    "powerHp": "110",
+                    "yearstart": "2023",
+                    "yearstop": "2025",
+                    "coupe": "SUV, Crossover",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4760",
+                    "width": "1865",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
