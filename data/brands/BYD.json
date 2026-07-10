@@ -7168,6 +7168,51 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-09 08:51:37",
+        "name": "Shark",
+        "id": "4073",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-09 08:52:14",
+              "name": "Shark",
+              "modelYear": "2026",
+              "id": "11365",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57461",
+                    "update": "2026-07-09 16:19:01",
+                    "brand": "BYD",
+                    "model": "Shark",
+                    "generation": "Shark",
+                    "engine": "DMO 1.5T 32.2 kWh (436 Hp) Plug-in Hybrid AWD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2026",
+                    "coupe": "Pick-up",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5457",
+                    "width": "1971",
+                    "height": "1925",
+                    "heightMin": "1925",
+                    "rideHeight": "210-230",
+                    "rideHeightMin": "210",
+                    "rideHeightMax": "230",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2710",
+                    "curbWeightMin": "2710"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

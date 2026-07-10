@@ -1363,6 +1363,78 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-09 13:34:09",
+        "name": "5",
+        "id": "4076",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-09 13:34:33",
+              "name": "5",
+              "modelYear": "2026",
+              "id": "11369",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57462",
+                    "update": "2026-07-09 16:19:01",
+                    "brand": "DR",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "Collection 1.5 (95/88 Hp) LPG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "95/5500/88/5000",
+                    "powerHp": "95",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "88",
+                    "powerRpmLPG": "5000",
+                    "powerRpmLowLPG": "5000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4318",
+                    "width": "1831",
+                    "height": "1662",
+                    "heightMin": "1662",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1326-1346",
+                    "curbWeightMin": "1326",
+                    "curbWeightMax": "1346"
+                  },
+                  {
+                    "id": "57463",
+                    "update": "2026-07-09 16:19:01",
+                    "brand": "DR",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "Collection 1.5 (204 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "95/6000",
+                    "powerHp": "95",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4320",
+                    "width": "1831",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1550",
+                    "curbWeightMin": "1550"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

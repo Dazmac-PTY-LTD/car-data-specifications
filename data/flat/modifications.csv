@@ -10280,10 +10280,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 28642,Toyota,Yaris,Yaris I (3-door),2000,1.3i 16V (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),Hatchback,5,1999,2003,3615,1660,1500,975,2023-12-11 12:55:45
 28656,Toyota,Yaris,Yaris I (3-door),2000,1.5i 16V (106 Hp) Automatic,Internal Combustion engine,106,6000,Petrol (Gasoline),Hatchback,5,2001,2003,3615,1660,1500,1015,2023-12-11 12:56:09
 28757,Toyota,Yaris,Yaris I (3-door),2000,1.0i 16V (68 Hp) Automatic,Internal Combustion engine,68,6000,Petrol (Gasoline),Hatchback,5,1999,2003,3615,1660,1500,830,2023-12-11 12:55:29
-4061,Toyota,Yaris,Yaris Verso,1999,1.3i 16V (86 Hp),Internal Combustion engine,86,6000,Petrol (Gasoline),Minivan,5,1999,2006,3890,1690,1680,1055,2022-10-12 12:54:19
-4062,Toyota,Yaris,Yaris Verso,1999,1.4 DI (75 Hp),Internal Combustion engine,75,4000,Diesel,Minivan,5,2001,2006,3890,1690,1680,1050,2023-12-11 15:14:11
-4063,Toyota,Yaris,Yaris Verso,1999,1.5 i 16V (106 Hp),Internal Combustion engine,106,6000,Petrol (Gasoline),Minivan,5,1999,2006,3860,1660,1680,1075,2022-10-12 12:54:00
-28657,Toyota,Yaris,Yaris Verso,1999,1.3i 16V (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),Minivan,5,1999,2006,3890,1690,1680,1055,2022-10-12 12:54:18
 4064,Toyota,Cavalier,Cavalier,1995,2.4i (150 Hp),Internal Combustion engine,150,6000,Petrol (Gasoline),Sedan,5,1995,2000,4595,1735,1395,1300,2021-12-03 11:53:43
 30713,Toyota,Cavalier,Cavalier,1995,2.4i (150 Hp) Automatic,Internal Combustion engine,150,6000,Petrol (Gasoline),Sedan,5,1995,2000,4595,1735,1395,1300,2021-12-03 11:53:43
 4065,Toyota,Granvia,Granvia,1996,2.7 i (152 Hp),Internal Combustion engine,152,4800,Petrol (Gasoline),Minivan,7-8,1995,2002,,,,,2022-09-12 16:55:28
@@ -10701,6 +10697,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56801,Toyota,Bozhi 7,Bozhi 7,2026,710 Ultra 88.13 kWh (281 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,5130,1965,1491-1500,2255-2275,2026-04-02 16:24:50
 56843,Toyota,Starlet Cross,Starlet Cross,2025,1.5L (105 Hp),Internal Combustion engine,105,6000,Petrol (Gasoline),SUV,5,2024,,3995,1765,1550,1005-1010,2026-04-16 16:30:15
 56844,Toyota,Starlet Cross,Starlet Cross,2025,1.5L (105 Hp) Automatic,Internal Combustion engine,105,6000,Petrol (Gasoline),SUV,5,2024,,3995,1765,1550,1010-1015,2026-04-16 16:30:15
+4061,Toyota,Yaris Verso,Yaris Verso,2000,1.3i 16V (86 Hp),Internal Combustion engine,86,6000,Petrol (Gasoline),"Minivan, MPV",5,1999,2003,3890,1690,1680,1055,2026-07-09 15:55:59
+4062,Toyota,Yaris Verso,Yaris Verso,2000,1.4 DI (75 Hp),Internal Combustion engine,75,4000,Diesel,"Minivan, MPV",5,2001,2003,3890,1690,1680,1050,2026-07-09 15:55:58
+4063,Toyota,Yaris Verso,Yaris Verso,2000,1.5 i 16V (106 Hp),Internal Combustion engine,106,6000,Petrol (Gasoline),"Minivan, MPV",5,1999,2003,3860,1660,1680,1075,2026-07-09 15:55:58
+28657,Toyota,Yaris Verso,Yaris Verso,2000,1.3i 16V (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),"Minivan, MPV",5,1999,2003,3890,1690,1680,1055,2026-07-09 15:55:58
 4070,Audi,100,"100 Avant (4A,C4)",1990,2.0 (101 Hp),Internal Combustion engine,101,5500,Petrol (Gasoline),Station wagon (estate),5,1991,1994,4790,1777,1440,1360,2023-06-20 16:18:01
 4071,Audi,100,"100 Avant (4A,C4)",1990,2.0 E (115 Hp),Internal Combustion engine,115,5400,Petrol (Gasoline),Station wagon (estate),5,1991,1994,4790,1777,1440,1375,2023-06-20 16:18:01
 4072,Audi,100,"100 Avant (4A,C4)",1990,2.0 E (115 Hp) quattro,Internal Combustion engine,115,5400,Petrol (Gasoline),Station wagon (estate),5,1991,1994,4790,1777,1448,1480,2023-06-20 16:18:01
@@ -10849,12 +10849,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 4173,Audi,100,100 (C1),1968,1.8 LS (116 Hp),Internal Combustion engine,116,5500,Petrol (Gasoline),Sedan,5,1970,1976,4638,1730,1425,1080,2021-12-03 11:53:43
 4174,Audi,100,100 (C1),1968,1.9 GL (112 Hp),Internal Combustion engine,112,,Petrol (Gasoline),Sedan,5,1971,1973,4625,1729,1421,1100,2021-12-03 11:53:43
 26159,Audi,100,100 (C1),1968,1.9 LS (92 Hp),Internal Combustion engine,92,5200,Petrol (Gasoline),Sedan,5,1971,1973,4638,1730,1425,,2021-12-03 11:53:43
-51315,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Crossover,5,2024,,4353,1816,1470,1435,2024-07-08 11:17:14
+51315,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Crossover,5,2024,,4353,1816,1470,1435,2026-07-09 14:19:43
 51316,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,35 TFSI (150 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",150,5000-6000,Petrol (Gasoline),Crossover,5,2024,,4353,1816,1470,1350,2024-07-08 11:15:15
 52196,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,35 TFSI (150 Hp),Internal Combustion engine,150,5000-6000,Petrol (Gasoline),Crossover,5,2024,,4353,1816,1470,1320,2024-07-08 11:17:35
 53140,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,40 TFSI e (204 Hp) Plug-in Hybrid S tronic,PHEV (Plug-in Hybrid Electric Vehicle),150,5000-6000,Petrol / electricity,Crossover,5,2024,,4353,1816,1470,1610,2024-11-12 16:18:09
 55034,Audi,A3,"A3 allstreet (8Y, facelift 2024)",2025,40 TFSI (204 Hp) quattro S tronic,Internal Combustion engine,204,4500-6000,Petrol (Gasoline),Crossover,5,2025,,4353,1816,1470,1475,2025-08-05 16:06:21
-51317,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Sedan,5,2024,,4504,1816,1417,1410,2024-07-08 11:16:31
+51317,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Sedan,5,2024,,4504,1816,1417,1410,2026-07-09 14:19:43
 51318,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,35 TFSI (150 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",150,5000-6000,Petrol (Gasoline),Sedan,5,2024,,4504,1816,1417,1325,2024-07-08 11:13:47
 52192,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,30 TFSI (116 Hp),Internal Combustion engine,116,5000-6000,Petrol (Gasoline),Sedan,5,2024,,4504,1816,1417,1285,2024-07-08 11:17:35
 52193,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,30 TFSI (116 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",116,5000-6000,Petrol (Gasoline),Sedan,5,2024,,4504,1816,1417,1315,2024-07-08 11:17:35
@@ -10864,7 +10864,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55033,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,40 TFSI (204 Hp) quattro S tronic,Internal Combustion engine,204,4500-6000,Petrol (Gasoline),Sedan,5,2025,,4504,1816,1417,1455,2025-08-05 16:06:21
 55466,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,40 TFSI (190 Hp) S tronic,Internal Combustion engine,190,4180-6000,Petrol (Gasoline),Sedan,5,2024,,4504,1816,1433,1380,2025-09-30 16:21:15
 55467,Audi,A3,"A3 Sedan (8Y, facelift 2024)",2025,35 TFSI (150 Hp) tiptronic,Internal Combustion engine,150,5000-6000,Petrol (Gasoline),Sedan,5,2024,,4504,1816,1417-1433,1290,2025-09-30 16:21:15
-51324,Audi,A3,"A3 Sportback (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Hatchback,5,2024,,4352,1816,1441,1410,2024-07-08 11:15:52
+51324,Audi,A3,"A3 Sportback (8Y, facelift 2024)",2025,35 TDI (150 Hp) S tronic,Internal Combustion engine,150,3000-4200,Diesel,Hatchback,5,2024,,4352,1816,1441,1410,2026-07-09 14:19:43
 51372,Audi,A3,"A3 Sportback (8Y, facelift 2024)",2025,35 TFSI (150 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",150,5000-6000,Petrol (Gasoline),Hatchback,5,2024,,4352,1816,1441,1325,2024-07-08 11:13:04
 52188,Audi,A3,"A3 Sportback (8Y, facelift 2024)",2025,30 TFSI (116 Hp),Internal Combustion engine,116,5000-6000,Petrol (Gasoline),Hatchback,5,2024,,4352,1816,1441,1285,2024-07-08 11:17:35
 52189,Audi,A3,"A3 Sportback (8Y, facelift 2024)",2025,30 TFSI (116 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",116,5000-6000,Petrol (Gasoline),Hatchback,5,2024,,4352,1816,1441,1315,2024-07-08 11:17:35
@@ -12465,16 +12465,16 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 50731,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,55 TFSI V6 (340 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",340,5200-6400,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4939,1886,1494,1835,2025-04-15 16:25:56
 50732,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,45 TFSI (265 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",265,5250-6500,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4939,1886,1494,1710,2025-04-15 16:25:24
 50733,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,45 TFSI (265 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",265,5250-6500,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4939,1886,1494,1770,2025-04-15 16:25:24
-50734,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,35 TDI (163 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,3250-4400,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1705,2025-04-15 16:24:38
-50735,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1705,2025-04-15 16:24:52
-50736,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1770,2025-04-15 16:24:53
+50734,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,35 TDI (163 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,3250-4400,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1705,2026-07-09 14:18:28
+50735,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1705,2026-07-09 14:18:26
+50736,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1770,2026-07-09 14:18:27
 50737,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,45 TDI V6 (245 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",245,3500-4750,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1890,2025-04-15 16:25:12
 50738,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,50 TDI V6 (286 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",286,3500-4000,Diesel,Station wagon (estate),5,2023,2025,4939,1886,1494,1890,2025-04-15 16:25:40
 50763,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,55 TFSI e (367 Hp) Plug-in Hybrid quattro ultra S tronic,PHEV (Plug-in Hybrid Electric Vehicle),265,5250-6500,Petrol / electricity,Station wagon (estate),5,2023,2025,4939,1886,1494,2075,2025-04-15 16:25:56
 50769,Audi,A6,"A6 Avant (C8, facelift 2023)",2024,50 TFSI e (299 Hp) Plug-in Hybrid quattro ultra S tronic,PHEV (Plug-in Hybrid Electric Vehicle),265,5250-6500,Petrol / electricity,Station wagon (estate),5,2023,2025,4939,1886,1494,2075,2025-04-15 16:25:57
-50698,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,35 TDI (163 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,3250-4400,Diesel,Sedan,5,2023,2025,4939,1886,1457,1640,2025-04-15 16:26:20
-50699,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Sedan,5,2023,2025,4939,1886,1457,1640,2025-04-15 16:26:20
-50700,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Sedan,5,2023,2025,4939,1886,1457,1705,2025-04-15 16:26:20
+50698,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,35 TDI (163 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,3250-4400,Diesel,Sedan,5,2023,2025,4939,1886,1457,1640,2026-07-09 14:18:32
+50699,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Sedan,5,2023,2025,4939,1886,1457,1640,2026-07-09 14:18:29
+50700,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Sedan,5,2023,2025,4939,1886,1457,1705,2026-07-09 14:18:30
 50701,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,45 TDI V6 (245 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",245,3500-4750,Diesel,Sedan,5,2023,2025,4939,1886,1457,1825,2025-04-15 16:26:20
 50702,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,50 TDI V6 (286 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",286,3500-4000,Diesel,Sedan,5,2023,2025,4939,1886,1457,1825,2025-04-15 16:26:21
 50709,Audi,A6,"A6 Sedan (C8, facelift 2023)",2024,45 TFSI (265 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",265,5250-6500,Petrol (Gasoline),Sedan,5,2023,2025,4939,1886,1457,1645,2025-04-15 16:26:21
@@ -12491,7 +12491,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 37273,Audi,A6,A6 allroad (C8),2019,55 TDI V6 (349 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",349,3850,Diesel,"Station wagon (estate), Crossover",5,2019,2020,4951,1902,1497-1542,2010,2025-04-11 12:24:32
 47534,Audi,A6,A6 allroad (C8),2019,55 TDI V6 (344 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",344,3850-4000,Diesel,"Station wagon (estate), Crossover",5,2020,2025,4951,1902,1497-1542,2010,2025-04-15 16:28:32
 47535,Audi,A6,A6 allroad (C8),2019,55 TFSI V6 (340 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",340,5200-6400,Petrol (Gasoline),"Station wagon (estate), Crossover",5,2019,2025,4951,1902,1497-1542,1870,2025-04-15 16:28:20
-47536,Audi,A6,A6 allroad (C8),2019,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,"Station wagon (estate), Crossover",5,2020,2025,4951,1902,1497-1542,1825,2025-04-15 16:28:50
+47536,Audi,A6,A6 allroad (C8),2019,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,"Station wagon (estate), Crossover",5,2020,2025,4951,1902,1497-1542,1825,2026-07-09 14:18:33
 47537,Audi,A6,A6 allroad (C8),2019,50 TDI V6 (286 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",286,3500-4000,Diesel,"Station wagon (estate), Crossover",5,2020,2025,4951,1902,1497-1542,1945,2025-04-15 16:28:39
 47538,Audi,A6,A6 allroad (C8),2019,45 TDI V6 (245 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",245,3500-4750,Diesel,"Station wagon (estate), Crossover",5,2020,2025,4951,1902,1497-1542,1945,2025-04-15 16:28:46
 32801,Audi,A6,A6 Sedan (C8),2019,55 TFSI V6 (340 Hp) quattro Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",340,5000-6400,Petrol (Gasoline),Sedan,5,2018,2023,4939,1886,1457,1760,2023-12-13 08:34:47
@@ -13470,8 +13470,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 18968,Audi,A1,A1 (8X),2010,1.6 TDI (105 Hp),Internal Combustion engine,105,4400,Diesel,Hatchback,5,2010,2014,3954,1740,1416,1215,2022-10-05 14:35:05
 18969,Audi,A1,A1 (8X),2010,2.0 TDI (143 Hp),Internal Combustion engine,143,4200,Diesel,Hatchback,5,2011,2014,3954,1740,1416,1265,2022-10-05 14:35:05
 47023,Audi,A1,A1 (8X),2010,2.0 TFSI (256 Hp) quattro,Internal Combustion engine,256,6000,Petrol (Gasoline),Hatchback,4,2012,2012,3987,1740,1416,1390,2022-12-17 07:51:06
-50742,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Liftback,5,2023,2025,4969,1908,1422,1695,2025-07-14 15:25:42
-50743,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Liftback,5,2023,2025,4969,1908,1422,1765,2025-07-14 15:25:41
+50742,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Liftback,5,2023,2025,4969,1908,1422,1695,2026-07-09 14:18:34
+50743,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,40 TDI (204 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,3800-4200,Diesel,Liftback,5,2023,2025,4969,1908,1422,1765,2026-07-09 14:18:34
 50744,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,45 TDI V6 (245 Hp) Mild Hybrid quattro ultra S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",245,3500-4750,Diesel,Liftback,5,2023,2025,4969,1908,1422,1880,2025-07-14 15:25:48
 50745,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,50 TDI V6 (286 Hp) Mild Hybrid quattro tiptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",286,3500-4000,Diesel,Liftback,5,2023,2025,4969,1908,1422,1880,2025-07-14 15:25:47
 50746,Audi,A7,"A7 Sportback (C8, facelift 2023)",2024,45 TFSI (265 Hp) Mild Hybrid S tronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",265,5250-6500,Petrol (Gasoline),Liftback,5,2023,2025,4969,1908,1422,1700,2025-07-14 15:24:53
@@ -24005,10 +24005,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 8522,Volkswagen,Fox,Fox 3Door Europe,2005,1.2 i (55 Hp),Internal Combustion engine,55,4750,Petrol (Gasoline),Hatchback,4,2005,2011,3828,1660,1544,998,2022-09-14 09:24:28
 8523,Volkswagen,Fox,Fox 3Door Europe,2005,1.4 i (75 Hp),Internal Combustion engine,75,5000,Petrol (Gasoline),Hatchback,4,2005,2011,3828,1660,1544,1012,2022-09-14 09:24:31
 8524,Volkswagen,Fox,Fox 3Door Europe,2005,1.4 TDI (70 Hp),Internal Combustion engine,70,4000,Diesel,Hatchback,4,2005,2011,3828,1660,1544,1085,2022-09-12 16:55:28
-57277,Volkswagen,Multivan,"Multivan (T7, facelift 2026) Long",2027,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3000,Diesel,Van,5-8,2026,,5173,1941,1909,2032-2108,2026-06-16 12:44:07
+57277,Volkswagen,Multivan,"Multivan (T7, facelift 2026) Long",2027,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3000,Diesel,Van,5-8,2026,,5173,1941,1909,2032-2108,2026-07-09 14:19:50
 57278,Volkswagen,Multivan,"Multivan (T7, facelift 2026) Long",2027,1.5 TSI (245 Hp) eHybrid 4MOTION DSG,PHEV (Plug-in Hybrid Electric Vehicle),177,5500,Petrol / electricity,Van,5-8,2026,,5173,1941,1909,2258-2348,2026-06-16 12:57:02
 57279,Volkswagen,Multivan,"Multivan (T7, facelift 2026) Long",2027,2.0 TSI (204 Hp) DSG,Internal Combustion engine,204,5000,Petrol (Gasoline),Van,5-8,2026,,5173,1941,1909,1980-2058,2026-06-16 13:17:15
-57264,Volkswagen,Multivan,"Multivan (T7, facelift 2026)",2027,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3000,Diesel,Van,5-7,2026,,4973,1941,1909,2008-2084,2026-06-16 12:44:19
+57264,Volkswagen,Multivan,"Multivan (T7, facelift 2026)",2027,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3000,Diesel,Van,5-7,2026,,4973,1941,1909,2008-2084,2026-07-09 14:19:50
 57265,Volkswagen,Multivan,"Multivan (T7, facelift 2026)",2027,1.5 TSI (245 Hp) eHybrid 4MOTION DSG,PHEV (Plug-in Hybrid Electric Vehicle),177,5500,Petrol / electricity,Van,5-7,2026,,4973,1941,1909,2234-2323,2026-06-16 12:44:19
 57270,Volkswagen,Multivan,"Multivan (T7, facelift 2026)",2027,2.0 TSI (204 Hp) DSG,Internal Combustion engine,204,5000,Petrol (Gasoline),Van,5-7,2026,,4973,1941,1909,1956-2034,2026-06-16 12:44:19
 45286,Volkswagen,Multivan,Multivan (T7) Long,2022,1.5 TSI (136 Hp) DSG,Internal Combustion engine,136,5000-6000,Petrol (Gasoline),Van,7,2021,2023,5173,1941,1907,1963-2037,2026-06-15 11:45:44
@@ -24306,7 +24306,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51268,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,1.5 TSI (150 Hp),Internal Combustion engine,150,,Petrol (Gasoline),Station wagon (estate),5,2024,,4631,1789,1487,1342,2025-02-25 11:04:04
 51269,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,1.5 eTSI (116 Hp) Mild Hybrid DSG,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",116,,Petrol (Gasoline),Station wagon (estate),5,2024,,4631,1789,1487,1328,2025-02-25 11:03:32
 51270,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,1.5 eTSI (150 Hp) Mild Hybrid DSG,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",150,,Petrol (Gasoline),Station wagon (estate),5,2024,,4631,1789,1487,1365,2025-02-25 11:03:44
-51733,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,,Diesel,Station wagon (estate),5,2024,,4631,1789,1487,1452,2024-05-14 16:09:22
+51733,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,,Diesel,Station wagon (estate),5,2024,,4631,1789,1487,1452,2026-07-09 14:19:49
 51735,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,2.0 TDI (116 Hp),Internal Combustion engine,116,,Diesel,Station wagon (estate),5,2024,,4631,1789,1487,1381,2024-05-14 16:09:22
 52150,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,R 2.0 TSI (333 Hp) 4MOTION DSG,Internal Combustion engine,333,5600-6500,Petrol (Gasoline),Station wagon (estate),5,2024,,4651,1789,1462,1546,2024-07-03 13:59:34
 54657,Volkswagen,Golf,Golf VIII Variant (facelift 2024),2024,2.0 TSI (204 Hp) 4MOTION DSG,Internal Combustion engine,204,,Petrol (Gasoline),Station wagon (estate),5,2025,,4631,1789,1487,1477,2025-06-20 16:20:14
@@ -24314,7 +24314,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51251,Volkswagen,Golf,Golf VIII (facelift 2024),2024,1.5 eTSI (116 Hp) Mild Hybrid DSG,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",116,,Petrol (Gasoline),Hatchback,5,2024,,4282,1789,1483,1260,2025-02-25 10:59:52
 51252,Volkswagen,Golf,Golf VIII (facelift 2024),2024,1.5 eTSI (150 Hp) Mild Hybrid DSG,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",150,,Petrol (Gasoline),Hatchback,5,2024,,4282,1789,1483,1301,2025-02-25 10:59:25
 51263,Volkswagen,Golf,Golf VIII (facelift 2024),2024,1.5 TSI (116 Hp),Internal Combustion engine,116,,Petrol (Gasoline),Hatchback,5,2024,,4282,1789,1483,1229,2025-02-25 11:01:31
-51742,Volkswagen,Golf,Golf VIII (facelift 2024),2024,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,,Diesel,Hatchback,5,2024,,4282,1789,1483,1369,2024-05-14 16:09:22
+51742,Volkswagen,Golf,Golf VIII (facelift 2024),2024,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,,Diesel,Hatchback,5,2024,,4282,1789,1483,1369,2026-07-09 14:19:49
 51743,Volkswagen,Golf,Golf VIII (facelift 2024),2024,2.0 TDI (116 Hp),Internal Combustion engine,116,,Diesel,Hatchback,5,2024,,4282,1789,1483,1315,2024-05-14 16:09:22
 51761,Volkswagen,Golf,Golf VIII (facelift 2024),2024,GTI 2.0 TSI (265 Hp) DSG,Internal Combustion engine,265,5250-6500,Petrol (Gasoline),Hatchback,5,2024,,4289,1789,1471,1391,2025-02-25 11:02:10
 51778,Volkswagen,Golf,Golf VIII (facelift 2024),2024,1.5 TSI (204 Hp) eHybrid DSG,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,Hatchback,5,2024,,4289,1789,1476,1577,2024-07-19 13:27:20
@@ -26314,7 +26314,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52938,Volkswagen,Tayron,Tayron II,2025,2.0 TDI (193 Hp) 4MOTION DSG,Internal Combustion engine,193,3500,Diesel,SUV,5-7,2024,,4792,1853,1666,1749,2026-03-13 15:09:43
 52939,Volkswagen,Tayron,Tayron II,2025,1.5 TSI (204 Hp) eHybrid DSG,PHEV (Plug-in Hybrid Electric Vehicle),150,5000,Petrol / electricity,SUV,5,2024,,4792,1853,1666,1864,2025-01-14 16:44:50
 52940,Volkswagen,Tayron,Tayron II,2025,1.5 TSI (272 Hp) eHybrid DSG,PHEV (Plug-in Hybrid Electric Vehicle),177,5000,Petrol / electricity,SUV,5,2024,,4792,1866,1666,1873,2025-01-14 16:44:50
-53222,Volkswagen,Tayron,Tayron II,2025,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3500,Diesel,SUV,5-7,2024,,4792,1853,1668,1696-1706,2025-01-14 16:44:50
+53222,Volkswagen,Tayron,Tayron II,2025,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3500,Diesel,SUV,5-7,2024,,4792,1853,1668,1696-1706,2026-07-09 14:19:52
 53517,Volkswagen,Tayron,Tayron II,2025,2.0 TSI (204 Hp) 4MOTION DSG,Internal Combustion engine,204,5000,Petrol (Gasoline),SUV,5-7,2024,,4792,1853,1666,1707,2025-01-14 16:49:29
 53518,Volkswagen,Tayron,Tayron II,2025,2.0 TSI (265 Hp) 4MOTION DSG,Internal Combustion engine,265,5000,Petrol (Gasoline),SUV,5-7,2024,,4792,1866,1666,1734,2025-01-14 16:49:29
 45335,Volkswagen,Tayron,Tayron X,2020,330TSI (186 Hp) DSG,Internal Combustion engine,186,4100-6000,Petrol (Gasoline),"Coupe, CUV",5,2020,2022,4626,1860,1662,1675,2024-10-14 12:14:57
@@ -33119,9 +33119,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 28963,Renault,Clio,Clio II (Phase I) 5-door,1998,1.4 (75 Hp) Automatic,Internal Combustion engine,75,5500,Petrol (Gasoline),Hatchback,5,2000,2001,3773,1640,1417,985,2023-05-15 08:40:05
 28968,Renault,Clio,Clio II (Phase I) 5-door,1998,1.6 (90 Hp) Automatic,Internal Combustion engine,90,5250,Petrol (Gasoline),Hatchback,5,1998,2000,3773,1640,1417,1000,2023-05-15 08:40:05
 46357,Renault,Clio,Clio II (Phase I) 5-door,1998,1.4 16V (98 Hp) Automatic,Internal Combustion engine,98,6000,Petrol (Gasoline),Hatchback,5,1999,2000,3773,1640,1417,1030,2023-05-15 08:40:05
-10428,Renault,Clio,Clio Symbol,1999,1.4 (75 Hp),Internal Combustion engine,75,5800,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,940,2023-05-15 08:40:05
-10429,Renault,Clio,Clio Symbol,1999,1.4 i 16V (98 Hp),Internal Combustion engine,98,5700,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,950,2023-05-15 08:40:05
-24849,Renault,Clio,Clio Symbol,1999,1.4 i 16V (98 Hp) Automatic,Internal Combustion engine,98,5700,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,950,2023-05-15 08:40:05
 10430,Renault,Clio,Clio I (Phase I),1990,1.1 (49 Hp),Internal Combustion engine,49,5250,Petrol (Gasoline),Hatchback,5,1990,1995,3709,1616,1395,810,2023-06-22 08:20:30
 10431,Renault,Clio,Clio I (Phase I),1990,1.2 (55 Hp),Internal Combustion engine,55,6000,Petrol (Gasoline),Hatchback,5,1990,1997,3709,1616,1395,915,2023-06-22 08:19:50
 10432,Renault,Clio,Clio I (Phase I),1990,1.2 i (58 Hp),Internal Combustion engine,58,6000,Petrol (Gasoline),Hatchback,5,1996,1998,3709,1616,1395,830,2023-05-15 08:40:05
@@ -33994,9 +33991,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 10656,Renault,Fluence,Fluence,2009,1.6 16V (110 Hp),Internal Combustion engine,110,6000,Petrol (Gasoline),Sedan,5,2009,2012,4620,1809,1479,1225,2023-05-15 08:40:05
 16721,Renault,Fluence,Fluence,2009,1.5 dCi (110 Hp) FAP EDC,Internal Combustion engine,110,4000,Diesel,Sedan,5,2009,2012,,,,1285,2022-10-05 14:35:05
 10657,Renault,Rapid,Rapid,1991,1.4i (75 Hp),Internal Combustion engine,75,5500,Petrol (Gasoline),Pick-up,2,1991,1994,,,,,2023-05-15 08:40:08
-38414,Renault,Symbol,Symbol III (facelift 2017),2017,1.6 16V (102 Hp) Automatic,Internal Combustion engine,102,5750,Petrol (Gasoline),Sedan,5,2017,,4354,1733,1529,1081,2023-05-15 08:40:09
-38415,Renault,Symbol,Symbol III (facelift 2017),2017,0.9 TCe (90 Hp),Internal Combustion engine,90,5000,Petrol (Gasoline),Sedan,5,2019,,4354,1733,1517,1088,2022-10-05 13:44:35
-38416,Renault,Symbol,Symbol III (facelift 2017),2017,1.5 Blue dCi (95 Hp),Internal Combustion engine,95,3750,Diesel,Sedan,5,2019,,4354,1733,1517,1191,2022-10-06 08:13:04
+38414,Renault,Symbol,Symbol III (facelift 2017),2017,1.6 16V (102 Hp) Automatic,Internal Combustion engine,102,5750,Petrol (Gasoline),Sedan,5,2017,2021,4354,1733,1529,1081,2026-07-09 15:38:00
+38415,Renault,Symbol,Symbol III (facelift 2017),2017,0.9 TCe (90 Hp),Internal Combustion engine,90,5000,Petrol (Gasoline),Sedan,5,2019,2021,4354,1733,1517,1088,2026-07-09 15:37:59
+38416,Renault,Symbol,Symbol III (facelift 2017),2017,1.5 Blue dCi (95 Hp),Internal Combustion engine,95,3750,Diesel,Sedan,5,2019,2021,4354,1733,1517,1191,2026-07-09 15:37:59
 38417,Renault,Symbol,Symbol III,2013,0.9 TCe (90 Hp),Internal Combustion engine,90,5250,Petrol (Gasoline),Sedan,5,2013,2017,4348,1733,1517,998,2023-05-15 08:44:20
 38418,Renault,Symbol,Symbol III,2013,1.2 16V (75 Hp),Internal Combustion engine,75,5500,Petrol (Gasoline),Sedan,5,2013,2017,4348,1733,1517,974,2023-05-15 08:40:09
 38419,Renault,Symbol,Symbol III,2013,1.5 dCi (75 Hp) FAP,Internal Combustion engine,75,4000,Diesel,Sedan,5,2013,2017,4348,1733,1517,1059,2022-10-04 15:34:40
@@ -34015,6 +34012,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 10664,Renault,Symbol,Symbol I (facelift 2002),2002,1.5 dCi (65 Hp),Internal Combustion engine,65,4000,Diesel,Sedan,5,2002,2006,4171,1639,1437,980,2023-05-15 09:26:21
 10665,Renault,Symbol,Symbol I (facelift 2002),2002,1.6 i 16V (107 Hp),Internal Combustion engine,107,5750,Petrol (Gasoline),Sedan,5,2002,2008,4171,1639,1437,960,2023-05-15 08:41:35
 28995,Renault,Symbol,Symbol I (facelift 2002),2002,1.4 16V (98 Hp) Automatic,Internal Combustion engine,98,6000,Petrol (Gasoline),Sedan,5,2002,2008,4171,1639,1437,950,2023-05-15 08:41:47
+10428,Renault,Symbol,Clio Symbol I,1999,1.4 (75 Hp),Internal Combustion engine,75,5800,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,940,2026-07-09 16:05:18
+10429,Renault,Symbol,Clio Symbol I,1999,1.4 i 16V (98 Hp),Internal Combustion engine,98,5700,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,950,2026-07-09 16:05:18
+24849,Renault,Symbol,Clio Symbol I,1999,1.4 i 16V (98 Hp) Automatic,Internal Combustion engine,98,5700,Petrol (Gasoline),Sedan,5,1999,2002,4150,1639,1416,950,2026-07-09 16:05:18
 10666,Renault,17,17,1971,1.6 (90 Hp),Internal Combustion engine,90,,Petrol (Gasoline),Coupe,5,1971,1979,,,,,2021-12-03 11:53:43
 10667,Renault,17,17,1971,1.6 Gordini (108 Hp),Internal Combustion engine,108,,Petrol (Gasoline),Coupe,5,1974,1979,,,,,2021-12-03 11:53:43
 51289,Renault,5,5 E-Tech Electric,2024,40 kWh (95 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,3920,1770,1500,1350,2025-08-20 18:00:09
@@ -35688,6 +35688,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57326,BYD,Datang,Datang,2026,105.7 kWh (408 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",7,2026,,5263,1999,1800,,2026-06-22 16:16:15
 57343,BYD,Datang,Datang,2026,130.1 kWh (503 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",7,2026,,5263,1999,1790,,2026-06-23 16:14:31
 57344,BYD,Datang,Datang,2026,130.1 kWh (795 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",7,2026,,5263,1999,1790,,2026-06-23 16:14:31
+57461,BYD,Shark,Shark,2026,DMO 1.5T 32.2 kWh (436 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,Pick-up,5,2026,,5457,1971,1925,2710,2026-07-09 16:19:01
 11046,Hindustan,Ambassador,Ambassador,1991,1.5 D Nova (32 Hp),Internal Combustion engine,32,4000,Diesel,Sedan,5,1991,2014,4325,1662,1600,1200,2022-10-11 12:09:39
 11047,Hindustan,Ambassador,Ambassador,1991,1.5 Nova (55 Hp),Internal Combustion engine,55,4400,Petrol (Gasoline),Sedan,5,1991,2014,4325,1662,1600,1142,2022-10-11 12:09:39
 11048,Hindustan,Ambassador,Ambassador,1991,1.8 i (75 Hp),Internal Combustion engine,75,5000,Petrol (Gasoline),Sedan,5,1999,2014,4325,1660,1600,1150,2022-10-11 12:09:39
@@ -37383,10 +37384,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 11835,McLaren,F1,F1,1993,GT 6.1 V12 (627 Hp),Internal Combustion engine,627,7400,Petrol (Gasoline),Coupe,3,1997,1997,4928,1940,1200,1120,2024-03-21 08:03:53
 11837,McLaren,F1,F1,1993,6.1 V12 (627 Hp),Internal Combustion engine,627,7500,Petrol (Gasoline),Coupe,3,1992,2000,4287,1820,1140,1140,2024-03-20 14:27:05
 11838,McLaren,LM,LM,1995,6.0 (668 Hp),Internal Combustion engine,668,,Petrol (Gasoline),Coupe,,1995,2000,,,,,2021-12-03 11:53:43
-30238,McLaren,570S,570S Spider,2017,3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Roadster,2,2017,,4530,1930,1202,1498,2023-05-12 12:56:26
-23266,McLaren,570S,570S,2015,3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,,4530,,1200,1344,2023-05-12 12:56:27
-23546,McLaren,570S,570S,2015,GT 3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,,4530,,1200,1400,2023-05-12 12:56:27
-23547,McLaren,570S,570S,2015,S GT 3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,,4606,,1179,,2023-05-12 12:56:26
+30238,McLaren,570S,570S Spider,2017,3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Roadster,2,2017,2021,4530,1930,1202,1498,2026-07-09 13:23:42
+23266,McLaren,570S,570S,2015,3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,2021,4530,,1200,1344,2026-07-09 13:23:44
+23546,McLaren,570S,570S,2015,GT 3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,2021,4530,,1200,1400,2026-07-09 13:23:43
+23547,McLaren,570S,570S,2015,S GT 3.8 V8 (570 Hp) SSG,Internal Combustion engine,570,7500,Petrol (Gasoline),Coupe,2,2015,2021,4606,,1179,,2026-07-09 13:23:43
 23548,McLaren,650S,650S Spider,2015,3.8 V8 (650 Hp) SSG,Internal Combustion engine,650,7250,Petrol (Gasoline),Roadster,2,2015,2017,4512,,1203,1468,2023-05-12 13:54:23
 23552,McLaren,650S,650S Spider,2015,CAN-AM 3.8 V8 (650 Hp) SSG,Internal Combustion engine,650,7250,Petrol (Gasoline),Roadster,2,2015,2016,,,,1468,2023-05-12 13:54:21
 24383,McLaren,650S,650S Spider,2015,625C 3.8 V8 (625 Hp) SSG,Internal Combustion engine,625,7250,Petrol (Gasoline),Roadster,2,2015,2017,4512,,1199,1376,2023-05-12 14:01:25
@@ -37397,18 +37398,18 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 23555,McLaren,MP4-12C,MP4-12C Coupe,2011,3.8 V8 (625 Hp) SSG,Internal Combustion engine,625,7500,Petrol (Gasoline),Coupe,2,2011,2014,4509,1908,1199,1434,2023-05-12 13:40:22
 35041,McLaren,720S,720S Spider,2019,4.0 V8 (720 Hp) SSG,Internal Combustion engine,720,7500,Petrol (Gasoline),Roadster,2,2019,2023,4544,,1194,1468,2023-05-12 12:57:14
 28867,McLaren,720S,720S,2017,4.0 V8 (720 Hp) SSG,Internal Combustion engine,720,7250,Petrol (Gasoline),Coupe,2,2017,2023,4543,1930,1196,1419,2023-05-12 12:57:17
-24258,McLaren,540C,540C,2016,3.8 V8 (540 Hp) SSG,Internal Combustion engine,540,7500,Petrol (Gasoline),Coupe,2,2015,,4530,2095,1202,1311,2023-05-12 12:56:24
+24258,McLaren,540C,540C,2016,3.8 V8 (540 Hp) SSG,Internal Combustion engine,540,7500,Petrol (Gasoline),Coupe,2,2015,2021,4530,2095,1202,1311,2026-07-09 13:22:29
 23550,McLaren,675LT,675LT Spider,2016,3.8 V8 (675 Hp) SSG,Internal Combustion engine,675,7100,Petrol (Gasoline),Roadster,2,2016,2017,4546,,,1368,2023-05-12 14:02:50
 23551,McLaren,675LT,675LT Coupe,2015,3.8 V8 (675 Hp) SSG,Internal Combustion engine,675,7100,Petrol (Gasoline),Coupe,2,2015,2017,4546,,,1328,2023-05-12 14:02:51
-32677,McLaren,Senna,Senna,2019,4.0 V8 (800 Hp) Automatic,Internal Combustion engine,800,7250,Petrol (Gasoline),Coupe,2,2018,,4744,2153,1195,1198,2023-05-12 14:09:42
-35657,McLaren,600LT,600LT Spider,2019,3.8 V8 (600 Hp) SSG,Internal Combustion engine,600,7500,Petrol (Gasoline),Roadster,2,2019,,4604,,1196,1404,2023-05-12 12:56:27
-33655,McLaren,600LT,600LT,2018,3.8 V8 (600 Hp) SSG,Internal Combustion engine,600,7500,Petrol (Gasoline),Coupe,2,2018,,4597,1930,1194,1247-1356,2023-05-12 12:56:28
+32677,McLaren,Senna,Senna,2019,4.0 V8 (800 Hp) Automatic,Internal Combustion engine,800,7250,Petrol (Gasoline),Coupe,2,2018,2019,4744,2153,1195,1198,2026-07-09 13:27:38
+35657,McLaren,600LT,600LT Spider,2019,3.8 V8 (600 Hp) SSG,Internal Combustion engine,600,7500,Petrol (Gasoline),Roadster,2,2019,2021,4604,,1196,1404,2026-07-09 13:24:03
+33655,McLaren,600LT,600LT,2018,3.8 V8 (600 Hp) SSG,Internal Combustion engine,600,7500,Petrol (Gasoline),Coupe,2,2018,2021,4597,1930,1194,1247-1356,2026-07-09 13:24:03
 37110,McLaren,GT,GT,2019,4.0 V8 (620 Hp) SSG,Internal Combustion engine,620,7500,Petrol (Gasoline),Coupe,2,2019,2023,4683,,1213-1234,1530,2023-12-19 13:39:10
-38204,McLaren,620R,620R,2020,3.8 V8 (620 Hp) SSG,Internal Combustion engine,620,7000,Petrol (Gasoline),Coupe,2,2019,,4557,1944,1194,1386,2023-05-12 12:56:28
+38204,McLaren,620R,620R,2020,3.8 V8 (620 Hp) SSG,Internal Combustion engine,620,7000,Petrol (Gasoline),Coupe,2,2019,2021,4557,1944,1194,1386,2026-07-09 13:24:09
 48991,McLaren,Speedtail,Speedtail,2020,4.0 V8 (1070 Hp) Plug-in hybrid,PHEV (Plug-in Hybrid Electric Vehicle),1070,,Petrol (Gasoline),Coupe,4,2020,2020,5137,2000,1120,1597,2023-06-30 14:24:25
-38336,McLaren,Elva,Elva,2020,4.0 V8 (815 Hp) Automatic,Internal Combustion engine,815,,Petrol (Gasoline),Roadster,2,2020,,,,,,2023-05-12 13:17:15
-44248,McLaren,765LT,765LT Spider,2022,4.0 V8 (765 Hp) SSG,Internal Combustion engine,765,7500,Petrol (Gasoline),Roadster,2,2021,,4600,,1192,1388,2023-05-12 13:31:31
-39420,McLaren,765LT,765LT,2020,4.0 V8 (765 Hp) SSG,Internal Combustion engine,765,7500,Petrol (Gasoline),Coupe,2,2020,,4600,,1159,1339,2023-05-12 13:31:32
+38336,McLaren,Elva,Elva,2020,4.0 V8 (815 Hp) Automatic,Internal Combustion engine,815,,Petrol (Gasoline),Roadster,2,2020,2023,,,,,2026-07-09 13:26:27
+44248,McLaren,765LT,765LT Spider,2022,4.0 V8 (765 Hp) SSG,Internal Combustion engine,765,7500,Petrol (Gasoline),Roadster,2,2021,2023,4600,,1192,1388,2026-07-09 13:25:00
+39420,McLaren,765LT,765LT,2020,4.0 V8 (765 Hp) SSG,Internal Combustion engine,765,7500,Petrol (Gasoline),Coupe,2,2020,2023,4600,,1159,1339,2026-07-09 13:25:01
 39422,McLaren,625C,625C Spider,2015,3.8 V8 (625 Hp) SSG,Internal Combustion engine,625,7250,Petrol (Gasoline),Cabriolet,2,2015,2016,4512,2093,1199,1376,2023-05-12 13:59:43
 39421,McLaren,625C,625C,2015,3.8 V8 (625 Hp) SSG,Internal Combustion engine,625,7250,Petrol (Gasoline),Coupe,2,2015,2016,4512,2093,1199,1336,2023-05-12 14:03:32
 51294,McLaren,Artura,Artura Spider,2024,3.0 V6 (700 Hp) Plug-in Hybrid SSG,PHEV (Plug-in Hybrid Electric Vehicle),605,7500,Petrol / electricity,Roadster,2,2024,,4539,1913,1193,1560,2024-03-06 14:22:01
@@ -37418,6 +37419,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48465,McLaren,750S,750S,2023,4.0 V8 (750 Hp) SSG,Internal Combustion engine,750,7500,Petrol (Gasoline),Coupe,2,2023,,4569,1930,1196,1389,2023-05-12 13:13:27
 50790,McLaren,GTS,GTS,2024,4.0 V8 (635 Hp) SSG,Internal Combustion engine,635,7500,Petrol (Gasoline),Coupe,2,2023,,4683,,1213,1520,2023-12-19 16:28:53
 52881,McLaren,W1,W1,2025,4.0 V8 (1275 Hp) Plug-in Hybrid DCT,PHEV (Plug-in Hybrid Electric Vehicle),928,,Petrol / electricity,Coupe,2,2025,,4635,,1182,1399,2024-10-07 16:06:13
+57459,McLaren,788HS,788HS Spider,2027,4.0 V8 (788 Hp) SSG,Internal Combustion engine,788,7500,Petrol (Gasoline),Roadster,2,2026,,4569,2161,,1313,2026-07-09 13:18:04
+57458,McLaren,788HS,788HS,2027,4.0 V8 (788 Hp) SSG,Internal Combustion engine,788,7500,Petrol (Gasoline),Coupe,2,2026,,4569,2161,,1265,2026-07-09 13:17:29
 11839,Saab,9-2X,9-2X,2005,2.0 i 16V T Aero (230 Hp),Internal Combustion engine,230,6000,Petrol (Gasoline),Station wagon (estate),5,2004,2006,4460,1695,1465,1445,2023-04-07 10:59:09
 11840,Saab,9-2X,9-2X,2005,2.5i 16V (173 Hp),Internal Combustion engine,173,5600,Petrol (Gasoline),Station wagon (estate),5,2004,2006,4460,1695,1465,1395,2023-04-07 10:59:07
 37635,Saab,9-5,9-5 II Sport Combi,2010,2.0i (220 Hp) XWD Automatic,Internal Combustion engine,220,5300,Petrol (Gasoline),Station wagon (estate),5,2009,2011,5008,1862,1484,1885-1975,2023-09-19 15:16:14
@@ -41557,6 +41560,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 29439,Mercedes-Benz,A-class,A-class (W168),1997,A 170 CDI (90 Hp) Automatic,Internal Combustion engine,90,4200,Diesel,Hatchback,5,1998,2001,3575,1719,1590,1100,2023-04-13 14:15:52
 54876,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2025,,4723,1855,1469,2000,2025-11-26 08:06:15
 54877,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 350 85 kWh (354 Hp) 4MATIC EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2025,,4723,1855,1469,2080,2025-11-26 08:08:32
+57457,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,4723,1855,1469,1990,2026-07-09 11:41:16
 55721,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 180 (156 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1695,2025-11-06 16:24:32
 55722,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
 55723,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
@@ -41564,7 +41568,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55725,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 220 (211 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
 53915,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1980,2025-10-15 11:04:30
 53916,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 350 85 kWh (354 Hp) 4MATIC EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2025-10-15 11:04:54
-55544,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2025-10-15 11:08:31
+55544,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2026-07-09 11:37:59
+57456,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4723,1855,1468,1980,2026-07-09 10:16:50
 47281,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,AMG CLA 35 (306 Hp) Mild Hybrid 4MATIC AMG SPEEDSHIFT DCT 8G,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",306,6100,Petrol (Gasoline),Station wagon (estate),5,2023,,4692,1834,1407,1630,2024-05-17 14:59:47
 47285,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 180 (136 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Station wagon (estate),5,2023,,4688,1830,1430,1455,2024-05-17 14:59:47
 47286,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 200 (163 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Station wagon (estate),5,2023,,4688,1830,1430,1455,2024-05-17 14:59:47
@@ -46870,6 +46875,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 49130,Skoda,Karoq,Karoq (facelift 2021),2022,1.0 TSI (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2021,2023,4390,1841,1603,1280-1500,2024-07-04 15:49:20
 50220,Skoda,Karoq,Karoq (facelift 2021),2022,2.0 TSI (190 Hp) 4x4 DSG,Internal Combustion engine,190,4200-6000,Petrol (Gasoline),SUV,5,2021,,4384,1841,1608,1508-1688,2024-03-15 15:35:53
 52158,Skoda,Karoq,Karoq (facelift 2021),2022,1.0 TSI ACT (115 Hp),Internal Combustion engine,115,5500,Petrol (Gasoline),SUV,5,2024,,4390,1841,1624,1289-1296,2024-07-04 16:21:08
+57460,Skoda,Karoq,Karoq (facelift 2021),2022,2.0 TDI (150 Hp) DSG,Internal Combustion engine,150,3000-4200,Diesel,SUV,5,2024,,4390,1841,1603-1629,1439-1652,2026-07-09 14:46:34
 34524,Skoda,Karoq,Karoq Scout,2018,2.0 TDI (150 Hp) 4x4,Internal Combustion engine,150,3500-4000,Diesel,SUV,5,2018,2019,4399,1841,1607,1561,2022-09-12 16:55:28
 37574,Skoda,Karoq,Karoq Scout,2018,2.0 TDI (190 Hp) 4x4 DSG,Internal Combustion engine,190,3500-4000,Diesel,SUV,5,2019,2020,4398,1841,1628,1527-1696,2025-04-11 16:16:53
 37653,Skoda,Karoq,Karoq Scout,2018,2.0 TDI (150 Hp) 4x4 DSG,Internal Combustion engine,150,3500-4000,Diesel,SUV,5,2019,2021,4398,1841,1607,1516-1684,2025-04-11 16:16:53
@@ -49221,14 +49227,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 38813,Citroen,C3,"C3 III (Phase I, 2016)",2016,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),Hatchback,5,2019,2020,3996,1749,1474,1085-1090,2025-04-11 16:16:53
 38814,Citroen,C3,"C3 III (Phase I, 2016)",2016,1.2 PureTech (110 Hp) Automatic,Internal Combustion engine,110,5500,Petrol (Gasoline),Hatchback,5,2019,2020,3996,1749,1474,1090,2025-04-11 16:16:53
 38815,Citroen,C3,"C3 III (Phase I, 2016)",2016,1.5 BlueHDi (102 Hp),Internal Combustion engine,102,3500,Diesel,Hatchback,5,2018,2020,3996,1749,1474,1090,2025-04-11 16:16:53
-21043,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 VTi (120 Hp) EGS,Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1278,2023-04-05 14:12:59
-21044,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1277,2022-12-14 11:23:26
-21080,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1204,2023-04-05 14:11:16
-21081,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1246,2023-04-05 14:12:48
-21082,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 e-HDi (92 Hp) EGS,Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1235,2022-12-14 11:23:25
-21083,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 HDi (114 Hp),Internal Combustion engine,114,3600,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1436,2022-12-14 11:23:26
-23757,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),"Station wagon (estate), MPV",5,2015,2017,4101,1766,1631-1670,1205,2023-04-11 16:14:39
-23769,Citroen,C3,"C3 I Picasso (Phase II, 2013)",2013,1.6 BlueHDi (98 Hp),Internal Combustion engine,98,3750,Diesel,"Station wagon (estate), MPV",5,2015,2017,4101,1766,1631-1670,1240,2022-12-14 11:22:53
 21039,Citroen,C3,"C3 II (Phase II, 2013)",2013,1.2 PureTech (82 Hp),Internal Combustion engine,82,5750,Petrol (Gasoline),Hatchback,5,2013,2014,3941,1728,1538,1050,2023-04-11 11:20:52
 21040,Citroen,C3,"C3 II (Phase II, 2013)",2013,1.4 HDi (68 Hp),Internal Combustion engine,68,4000,Diesel,Hatchback,5,2013,2015,3941,1728,1538,1145,2022-12-14 11:29:11
 21041,Citroen,C3,"C3 II (Phase II, 2013)",2013,1.6 e-HDI (92 Hp),Internal Combustion engine,92,4000,Diesel,Hatchback,5,2013,2015,3941,1728,1538,1160,2022-12-14 11:24:25
@@ -49259,16 +49257,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 15084,Citroen,C3,"C3 II (Phase I, 2009)",2010,1.4 HDi (68 Hp),Internal Combustion engine,68,4000,Diesel,Hatchback,5,2009,2010,3941,1728,1524,1065,2022-12-14 11:29:52
 16560,Citroen,C3,"C3 II (Phase I, 2009)",2010,1.6 e-HDi (92 Hp) EGS,Internal Combustion engine,92,4000,Diesel,Hatchback,5,2012,2013,3941,1728,1524,1170,2022-12-14 11:29:45
 27451,Citroen,C3,"C3 II (Phase I, 2009)",2010,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),Hatchback,5,2009,2013,3941,1728,1524,1075,2023-04-05 14:14:00
-15078,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1322,2023-04-05 13:32:43
-15079,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1258,2023-04-05 13:24:53
-15080,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1278,2023-07-18 09:52:23
-18190,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1277,2023-04-05 13:24:53
-18191,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 e-HDI (92 Hp) FAP EGS,Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2011,2012,4078,1766,1669-1672,1291,2022-12-14 11:30:33
-27452,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1171,2023-04-05 13:32:35
-27453,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp) LPG,Internal Combustion engine,95,5700,Petrol / LPG,"Station wagon (estate), MPV",5,2012,2013,4078,1766,1669-1672,1375,2023-04-05 13:32:35
-27454,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (115 Hp),Internal Combustion engine,115,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2012,4078,1766,1669-1672,1290,2023-07-18 09:52:25
-27455,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1204,2023-07-18 09:52:22
-27456,Citroen,C3,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (112 Hp) FAP,Internal Combustion engine,112,3600,Diesel,"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1318,2023-04-05 13:24:52
 10817,Citroen,C3,"C3 I X-TR (Phase II, 2005)",2005,1.4i 16V (88 Hp) SensoDrive,Internal Combustion engine,88,5250,Petrol (Gasoline),Hatchback,5,2005,2006,3860,1667,1612,1057,2023-08-11 13:11:53
 11023,Citroen,C3,"C3 I X-TR (Phase II, 2005)",2005,1.4 HDi (68 Hp),Internal Combustion engine,68,4000,Diesel,Hatchback,5,2005,2006,3860,1667,1612,1049,2023-08-11 13:11:50
 11024,Citroen,C3,"C3 I X-TR (Phase II, 2005)",2005,1.6 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Hatchback,5,2005,2006,3860,1667,1612,1093,2023-08-11 13:11:47
@@ -49333,13 +49321,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 15110,Citroen,LN,LNA,1978,1.1 (50 Hp),Internal Combustion engine,50,5500,Petrol (Gasoline),Hatchback,4,1982,1985,3384,1522,1373,760,2022-08-25 15:59:23
 46430,Citroen,LN,LNA,1978,11E (50 Hp),Internal Combustion engine,50,5500,Petrol (Gasoline),Hatchback,4,1983,1985,3427,1540,1380,749,2022-08-26 08:48:19
 15107,Citroen,LN,LN,1976,0.6 (32 Hp),Internal Combustion engine,32,5750,Petrol (Gasoline),Hatchback,4,1976,1978,3380,1520,1370,706,2022-08-25 15:18:51
-15111,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,1.6 16V (109 Hp),Internal Combustion engine,109,6000,Petrol (Gasoline),Minivan,5,2005,2010,4276,1751,1637,1268,2023-04-11 14:08:35
-15113,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,1.6 HDi (109 Hp) DPF,Internal Combustion engine,109,4000,Diesel,Minivan,5,2004,2010,4276,1751,1637,1313,2022-12-14 13:34:31
-46571,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,1.6 (95 Hp),Internal Combustion engine,95,5700,Petrol (Gasoline),Minivan,5,2004,2005,4276,1751,1637,1240,2023-04-11 14:08:35
-46572,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,1.8 16V (116 Hp),Internal Combustion engine,116,5500,Petrol (Gasoline),Minivan,5,2004,2005,4276,1751,1637,1245,2023-04-11 14:08:35
-46573,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,2.0 16V (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5,2004,2006,4276,1751,1637,1326,2023-04-11 14:08:35
-46574,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,2.0 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5,2004,2005,4276,1751,1637,1300,2023-04-10 14:20:06
-46575,Citroen,Xsara,"Xsara Picasso (N68, Phase II)",2004,1.6 HDi 16V (92 Hp),Internal Combustion engine,92,4000,Diesel,Minivan,5,2005,2010,4276,1751,1637,1290,2023-04-10 14:20:09
 15127,Citroen,Xsara,"Xsara Break (N2, Phase III)",2003,1.4 HDi (68 Hp),Internal Combustion engine,68,4000,Diesel,Station wagon (estate),5,2003,2004,4369,1705,1420,1164,2023-04-10 14:20:12
 46566,Citroen,Xsara,"Xsara Break (N2, Phase III)",2003,2.0 16V (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Station wagon (estate),5,2003,2004,4369,1705,1420,1218,2023-04-11 14:08:35
 46564,Citroen,Xsara,"Xsara Break (N2, Phase III)",2003,1.6 i 16 V (109 Hp),Internal Combustion engine,109,5800,Petrol (Gasoline),Station wagon (estate),5,2003,2005,4369,1705,1420,1166,2023-04-11 14:08:35
@@ -49382,10 +49363,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 24738,Citroen,Xsara,"Xsara Coupe (N0, Phase II)",2000,2.0 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Coupe,5,2001,2003,4188,1705,1405,1204,2023-04-10 14:20:35
 24740,Citroen,Xsara,"Xsara Coupe (N0, Phase II)",2000,2.0 16V (163 Hp),Internal Combustion engine,163,6500,Petrol (Gasoline),Coupe,5,2000,2002,4188,1705,1405,1219,2023-04-11 14:08:35
 46537,Citroen,Xsara,"Xsara Coupe (N0, Phase II)",2000,1.4 i (75 Hp),Internal Combustion engine,75,5500,Petrol (Gasoline),Coupe,5,2000,2003,4188,1705,1405,1109,2023-04-11 14:08:35
-15112,Citroen,Xsara,"Xsara Picasso (N68, Phase I)",1999,1.6 (95 Hp),Internal Combustion engine,95,5700,Petrol (Gasoline),Minivan,5,2000,2004,4276,1751,1637,1240,2023-04-11 14:08:35
-15114,Citroen,Xsara,"Xsara Picasso (N68, Phase I)",1999,1.8 16V (116 Hp),Internal Combustion engine,116,5500,Petrol (Gasoline),Minivan,5,2000,2004,4276,1751,1637,1245,2023-04-11 14:08:35
-15115,Citroen,Xsara,"Xsara Picasso (N68, Phase I)",1999,2.0 16V (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5,2003,2004,4276,1751,1637,1326,2023-04-11 14:08:35
-15116,Citroen,Xsara,"Xsara Picasso (N68, Phase I)",1999,2.0 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5,1999,2004,4276,1751,1637,1300,2023-07-21 11:18:33
 15128,Citroen,Xsara,"Xsara Break (N2, Phase I)",1997,1.4 i (75 Hp),Internal Combustion engine,75,5500,Petrol (Gasoline),Station wagon (estate),5,1998,2000,4354,1698,1426,1080,2022-09-26 15:08:46
 15129,Citroen,Xsara,"Xsara Break (N2, Phase I)",1997,1.6 i (88 Hp) Automatic,Internal Combustion engine,88,5600,Petrol (Gasoline),Station wagon (estate),5,1998,2000,4354,1698,1426,1150,2022-09-26 14:34:14
 15131,Citroen,Xsara,"Xsara Break (N2, Phase I)",1997,1.8 i (101 Hp) Automatic,Internal Combustion engine,101,6000,Petrol (Gasoline),Station wagon (estate),5,1997,2000,4354,1698,1426,1145,2022-09-27 09:45:32
@@ -49506,39 +49483,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 50633,Citroen,C4,"C4 III (Phase I, 2020)",2020,e-C4 54 kWh (156 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV",5,2023,2024,4355,1800,1520,1561-1639,2024-10-24 15:13:38
 52648,Citroen,C4,"C4 III (Phase I, 2020)",2020,1.2 (101 Hp) Mild Hybrid e-DSC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",101,5500,Petrol (Gasoline),"Coupe, SUV",5,2024,2024,4355,1800,1525,1324-1397,2024-10-24 14:45:26
 52649,Citroen,C4,"C4 III (Phase I, 2020)",2020,1.2 (136 Hp) Mild Hybrid e-DSC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),"Coupe, SUV",5,2024,2024,4355,1800,1525,1335-1407,2024-10-29 10:37:44
-4055,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.6 BlueHDi (100 Hp) ETG,Internal Combustion engine,100,3750,Diesel,SUV,5,2018,2018,4170,1710,1480,,2022-12-15 15:50:29
-16096,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp) ETG,Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2023-04-11 16:14:07
-16100,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2023-04-11 16:14:07
-22390,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.6 BlueHDi (100 Hp),Internal Combustion engine,100,3750,Diesel,SUV,5,2018,2018,4170,1710,1480,,2022-12-15 15:50:29
-24099,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (82 Hp),Internal Combustion engine,82,5750,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2023-04-11 11:20:52
-31707,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (130 Hp),Internal Combustion engine,130,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1714,1480,1045,2023-04-11 16:14:07
-38552,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2020,4170,1714,1480,1065,2025-04-11 16:16:53
-38553,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp) EAT6,Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2019,4170,1714,1480,1090,2025-04-11 16:16:53
-39020,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (130 Hp),Internal Combustion engine,130,5500,Petrol (Gasoline),SUV,5,2018,2019,4170,1714,1480,1085,2025-04-11 16:16:53
-39021,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.5 BlueHDi (102 Hp),Internal Combustion engine,102,3500,Diesel,SUV,5,2018,2020,4170,1714,1480,1085,2024-09-09 08:30:44
-39022,Citroen,C4,"C4 Cactus (Phase II, 2018)",2018,1.5 BlueHDi (120 Hp) EAT6,Internal Combustion engine,120,3750,Diesel,SUV,5,2019,2020,4170,1714,1480,1180,2025-04-11 16:16:53
-34630,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1280,2023-04-11 16:14:07
-34631,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1280,2023-04-11 16:14:07
-34632,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1298,2023-04-11 16:14:07
-34633,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1310,2023-04-10 09:49:10
-34634,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1296,2022-12-14 11:44:54
-34635,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 BlueHDi (120 Hp) Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1320,2022-12-14 11:44:49
-34642,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp),Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",5,2018,2020,4438,1826,1610-1625,1320,2025-04-11 16:16:53
-34643,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1415,2022-12-14 11:44:44
-34644,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,2.0 BlueHDi (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",5,2018,2019,4438,1826,1610-1625,1517,2022-12-14 11:31:17
-39023,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp) Automatic,Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",5,2018,2020,4438,1826,1610-1625,1406,2025-04-11 16:16:53
-39075,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2019,4438,1826,1638,1395,2023-04-11 16:14:07
-39082,Citroen,C4,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2019,2020,4438,1826,1610,1320,2025-04-11 16:16:53
-34649,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2018,2022,4602,1826,1638-1644,1297,2024-09-09 08:28:29
-34650,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1317,2023-04-11 16:14:07
-34651,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1320,2023-04-10 09:50:47
-34652,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1320,2022-12-14 12:08:41
-34653,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.6 BlueHDi (120 Hp) Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1359,2022-12-14 12:08:31
-34654,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp),Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",7,2018,2022,4602,1826,1638,1430,2025-04-11 16:16:53
-34655,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1430,2022-12-14 12:08:23
-34656,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,2.0 BlueHDi (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",7,2018,2021,4602,1826,1638-1644,1540,2024-09-09 08:27:26
-39065,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp) Automatic,Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",7,2018,2022,4602,1826,1638,1430,2025-04-11 16:16:53
-39083,Citroen,C4,"C4 Grand SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2019,2022,4602,1826,1638,1404,2025-04-11 16:16:53
 27857,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.6 HDi (114 Hp),Internal Combustion engine,114,3600,Diesel,Sedan,5,2016,2018,4644,1789,1513-1518,1357,2023-04-05 13:51:37
 27981,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.6 VTi 16V (116 Hp) Automatic,Internal Combustion engine,116,6050,Petrol (Gasoline),Sedan,5,2016,2018,4644,1789,1513-1518,1365,2023-04-10 10:06:27
 28001,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.6 VTi 16V (116 Hp),Internal Combustion engine,116,6050,Petrol (Gasoline),Sedan,5,2016,2018,4644,1789,1513-1518,1330,2023-04-10 10:06:32
@@ -49546,25 +49490,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 28038,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.2 PureTech 12V (136 Hp) Manual 5-speed,Internal Combustion engine,136,5500,Petrol (Gasoline),Sedan,5,2016,2018,4675,1780,1500,1320,2023-10-11 09:09:37
 28039,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.2 PureTech 12V (136 Hp) Manual 6-speed,Internal Combustion engine,136,5500,Petrol (Gasoline),Sedan,5,2016,2018,4675,1780,1500,1390,2023-10-11 09:09:34
 28049,Citroen,C4,"C4 L Sedan (Phase II, 2016)",2016,1.6 PureTech 16V (167 Hp),Internal Combustion engine,167,6000,Petrol (Gasoline),Sedan,5,2016,2018,4675,1780,1500,1420,2023-04-11 12:34:07
-23759,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (110 Hp) S&amp;S,Internal Combustion engine,110,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1280,2023-04-10 10:07:11
-23770,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2022-12-14 12:10:15
-24346,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2022-12-14 12:10:00
-24367,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S 94g,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2022-12-14 12:10:07
-24376,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1296,2022-12-14 12:10:21
-24385,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1435,2022-12-14 12:09:42
-24394,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1280,2023-04-10 10:07:11
-24560,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1310,2023-04-10 10:07:10
-27817,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1298,2023-04-10 10:07:11
-27878,Citroen,C4,"C4 II Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1415,2022-12-14 12:09:53
-24484,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1317,2023-04-10 10:07:14
-24493,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1359,2022-12-14 12:10:34
-24602,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (99 Hp) S&amp;S,Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1320,2022-12-14 12:10:32
-24651,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1476,2022-12-14 12:10:32
-24675,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1320,2023-04-10 10:07:12
-27816,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1347,2022-12-14 12:10:33
-27824,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1430,2022-12-14 12:10:35
-27859,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1297,2023-04-10 10:07:15
-28005,Citroen,C4,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S 98g,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1365,2022-12-14 12:10:33
 27753,Citroen,C4,"C4 Berline (Phase I, 2015)",2015,1.2 PureTech 12V (136 Hp),Internal Combustion engine,136,5500,Petrol (Gasoline),Sedan,5,2015,2020,4588,1800,1800,1295,2023-04-10 10:17:31
 27819,Citroen,C4,"C4 Berline (Phase I, 2015)",2015,1.2 PureTech 12V (136 Hp) Automatic,Internal Combustion engine,136,5500,Petrol (Gasoline),Sedan,5,2015,2020,4588,1800,1800,1320,2023-04-10 10:17:29
 27980,Citroen,C4,"C4 Berline (Phase I, 2015)",2015,1.6 16V (117 Hp) Automatic,Internal Combustion engine,117,6000,Petrol (Gasoline),Sedan,5,2015,2020,4588,1800,1800,1350,2023-04-10 10:09:00
@@ -49577,57 +49502,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 21089,Citroen,C4,"C4 II Hatchback (Phase II, 2015)",2016,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,Hatchback,5,2015,2018,4329,1789,1498-1502,1280,2022-12-14 12:10:45
 22227,Citroen,C4,"C4 II Hatchback (Phase II, 2015)",2016,1.6 BlueHDi (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,Hatchback,5,2015,2018,4329,1789,1498-1502,1300,2022-12-14 12:10:45
 27815,Citroen,C4,"C4 II Hatchback (Phase II, 2015)",2016,1.2 PureTech (130 Hp) S&amp;S,Internal Combustion engine,130,5500,Petrol (Gasoline),Hatchback,5,2015,2018,4329,1789,1498-1502,1205,2023-04-11 16:14:46
-21025,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (82 Hp),Internal Combustion engine,82,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,965,2023-04-11 11:20:52
-21026,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.6 e-HDI (92 Hp) EGS,Internal Combustion engine,92,3750,Diesel,Crossover,5,2014,2015,4157,1729,1490-1530,1055,2022-12-14 12:29:59
-21037,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (75 Hp),Internal Combustion engine,75,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,965,2023-04-10 10:20:09
-21054,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (82 Hp) EGS,Internal Combustion engine,82,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,975,2023-04-11 11:20:52
-21057,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.2 e-THP (110 Hp),Internal Combustion engine,110,6250,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,1020,2023-04-10 10:20:13
-21058,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1070,2022-12-14 12:28:06
-21071,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (110 Hp) EGS,Internal Combustion engine,110,5500,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,1050,2023-04-11 16:14:46
-23758,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp) 82g,Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1070,2022-12-14 12:28:07
-23780,Citroen,C4,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp) S&amp;S EGS,Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1085,2022-12-14 12:25:21
-18193,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1252,2023-04-10 10:20:18
-18194,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 THP (156 Hp) S&amp;S,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1296,2023-04-10 10:20:17
-18195,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1298,2022-12-14 12:31:55
-18196,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream EGS,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1295,2022-12-14 12:31:54
-18197,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1279,2022-12-14 12:31:31
-18198,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) S&amp;S,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1415,2022-12-14 12:30:50
-21055,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.2 PureTech (130 Hp) S&amp;S,Internal Combustion engine,130,5500,Petrol (Gasoline),"Minivan, MPV",5,2015,2016,4428,1826,1610-1625,1280,2023-04-11 16:14:46
-21056,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3500,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1296,2022-12-14 12:30:44
-21091,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 THP (165 Hp) S&amp;S Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1310,2023-04-11 11:39:40
-21092,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1625,1320,2022-12-14 12:30:48
-21093,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1474,2022-12-14 12:30:50
-27749,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 HDi (116 Hp),Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1298,2022-12-14 12:31:28
-27975,Citroen,C4,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (92 Hp) AirDream EGS,Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1289,2022-12-14 12:40:50
-21062,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1297,2023-04-11 16:14:46
-21063,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1320,2022-12-14 12:42:23
-21064,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) AirDream S&amp;S,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1430,2022-12-14 12:41:58
-21094,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 THP (156 Hp),Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1313,2023-04-10 10:20:15
-21095,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 THP (165 Hp) S&amp;S Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2014,2016,4597,1826,1638-1644,1320,2023-04-11 11:39:39
-21096,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) EGS,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1320,2022-12-14 12:42:22
-21097,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1347,2022-12-14 12:41:51
-21106,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) AirDream S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1476,2022-12-14 12:41:55
-23760,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1432,2022-12-14 12:41:59
-23807,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3500,Diesel,"Minivan, MPV",7,2014,2016,4597,1826,1638-1644,1320,2022-12-14 12:41:48
-27707,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (92 Hp) AirDream EGS,Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1316,2022-12-14 12:42:26
-27874,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2013,2015,4597,1826,1638-1644,1278,2023-04-10 10:20:16
-27875,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 HDi (116 Hp),Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2015,4597,1826,1638-1644,1320,2022-12-14 12:42:19
-27996,Citroen,C4,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1279,2022-12-14 12:42:20
 18257,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.6 VTi 16V (116 Hp),Internal Combustion engine,116,6050,Petrol (Gasoline),Sedan,5,2012,2016,4621,1779,1498-1508,1330,2023-04-10 10:26:09
 18258,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.8 16V (139 Hp),Internal Combustion engine,139,6300,Petrol (Gasoline),Sedan,5,2013,2016,4621,1779,1498-1508,1381,2023-04-10 10:22:02
 18259,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.6 THP (163 Hp) Automatic,Internal Combustion engine,163,6000,Petrol (Gasoline),Sedan,5,2012,2016,4621,1779,1498-1508,1435,2023-04-10 10:26:21
 27752,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.8 16V (139 Hp) Automatic,Internal Combustion engine,139,6300,Petrol (Gasoline),Sedan,5,2013,2016,4621,1779,1498-1508,1431,2023-04-10 10:22:01
 27754,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.6 VTi 16V (120 Hp) Automatic,Internal Combustion engine,120,6000,Petrol (Gasoline),Sedan,5,2012,2016,4621,1779,1498-1508,1340,2023-04-10 10:26:05
 28000,Citroen,C4,"C4 L Sedan (Phase I, 2012)",2012,1.6 THP 16V (150 Hp) Automatic,Internal Combustion engine,150,6050,Petrol (Gasoline),Sedan,5,2012,2016,4621,1779,1498-1508,1390,2023-04-10 10:26:22
-18231,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,1.6i (117 Hp),Internal Combustion engine,117,6000,Petrol (Gasoline),SUV,5,2012,2015,4340,1799,1625-1635,1305,2023-04-10 10:44:52
-18232,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,1.6 HDi (114 Hp),Internal Combustion engine,114,3600,Diesel,SUV,5,2012,2017,4340,1799,1625-1635,1315,2022-12-14 12:44:56
-18233,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,1.6 HDi (114 Hp) 4x4,Internal Combustion engine,114,3600,Diesel,SUV,5,2012,2017,4341,1799,1625-1635,1425,2022-12-14 12:44:53
-18234,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,1.8 HDi (150 Hp) 4x4,Internal Combustion engine,150,4000,Diesel,SUV,5,2012,2015,4340,1799,1625-1635,1495,2022-12-14 12:44:53
-27648,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) CVT,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1395,2023-04-10 10:44:43
-27688,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) 4x4,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1430,2023-04-10 10:44:43
-27706,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,1.8 HDi (150 Hp),Internal Combustion engine,150,4000,Diesel,SUV,5,2012,2015,4340,1799,1625-1635,1430,2022-12-14 12:44:53
-27872,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) 4x4 CVT,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1460,2023-04-10 10:44:43
-27972,Citroen,C4,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp),Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1365,2023-04-10 10:44:51
 18235,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),Hatchback,5,2010,2015,4329,1789,1489-1502,1200,2023-04-10 11:20:37
 18236,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.6 VTi (120 Hp) VTR+,Internal Combustion engine,120,6000,Petrol (Gasoline),Hatchback,5,2011,2014,4329,1789,1489-1502,1205,2023-04-10 10:57:40
 18237,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.6 VTi (120 Hp) Automatic,Internal Combustion engine,120,6000,Petrol (Gasoline),Hatchback,5,2010,2014,4329,1789,1489-1502,1270,2023-04-10 10:57:48
@@ -49644,21 +49524,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 27870,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.6 e-HDI (114 Hp) Airdream,Internal Combustion engine,114,3600,Diesel,Hatchback,5,2013,2015,4329,1789,1489-1502,1205,2022-12-14 12:45:47
 27957,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.6 HDI (114 Hp),Internal Combustion engine,114,3600,Diesel,Hatchback,5,2013,2014,4329,1789,1489-1502,1205,2022-12-14 12:45:53
 27971,Citroen,C4,"C4 II Hatchback (Phase I, 2010)",2011,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),Hatchback,5,2011,2014,4329,1789,1489-1502,1205,2023-04-10 10:57:49
-15189,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,1.6 THP (156 Hp) EGS,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1430,2023-04-10 11:21:18
-18201,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1591,2023-04-10 10:57:55
-27686,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1614,2022-12-14 12:48:00
-27721,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp),Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2010,2011,4470,1830,1660-1680,1610,2022-12-14 12:47:55
-27895,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp) EGS,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2012,2013,4470,1830,1660-1680,1660,2022-12-14 12:47:55
-27956,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,1.6 HDI (112 Hp),Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",5,2010,2011,4470,1830,1660-1680,1489,2022-12-14 12:47:54
-27970,Citroen,C4,"C4 I Picasso (Phase II, 2010)",2010,1.6 e-HDI (112 Hp) EGS,Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1499,2022-12-14 12:47:54
-18243,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1530,2023-04-10 10:58:00
-18244,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 THP (156 Hp) EGS,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1517,2023-04-10 12:08:43
-18245,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 HDI (109 Hp),Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1530,2022-12-14 12:48:00
-18246,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 e-HDI (112 Hp) EGS,Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1539,2022-12-14 12:48:14
-18247,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",7,2010,2012,4590,1830,1660-1710,1637,2022-12-14 12:48:03
-18248,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp),Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2010,2012,4590,1830,1660-1710,1613,2022-12-14 12:48:01
-27629,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 HDI (112 Hp),Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",7,2012,2013,4590,1830,1660-1710,1550,2022-12-14 12:48:01
-27954,Citroen,C4,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp) EGS,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2012,2013,4590,1830,1660-1710,1690,2022-12-14 12:48:02
 27751,Citroen,C4,"C4 C-Quatre (Phase I, 2009)",2009,2.0 16V (147 Hp),Internal Combustion engine,147,6000,Petrol (Gasoline),Sedan,5,2009,2012,4588,1773,1486,1338,2023-04-10 12:24:17
 27929,Citroen,C4,"C4 C-Quatre (Phase I, 2009)",2009,1.6 16V (117 Hp),Internal Combustion engine,117,6000,Petrol (Gasoline),Sedan,5,2009,2012,4588,1773,1486,1321,2023-04-10 12:25:37
 27998,Citroen,C4,"C4 C-Quatre (Phase I, 2009)",2009,1.6 16V (117 Hp) Automatic,Internal Combustion engine,117,6000,Petrol (Gasoline),Sedan,5,2009,2012,4588,1773,1486,1350,2023-04-10 12:25:37
@@ -49690,33 +49555,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 27923,Citroen,C4,"C4 I Hatchback (Phase II, 2008)",2009,2.0 HDi (136 Hp) FAP Automatic,Internal Combustion engine,136,4000,Diesel,Hatchback,5,2008,2010,4275,1773,1496,1416,2022-12-14 13:01:36
 27952,Citroen,C4,"C4 I Hatchback (Phase II, 2008)",2009,1.4i 16V (90 Hp),Internal Combustion engine,90,6500,Petrol (Gasoline),Hatchback,5,2008,2009,4275,1773,1496,1182,2023-04-10 15:15:18
 27969,Citroen,C4,"C4 I Hatchback (Phase II, 2008)",2009,2.0 HDi (140 Hp) FAP,Internal Combustion engine,140,4000,Diesel,Hatchback,5,2008,2010,4275,1773,1496,1381,2022-12-14 13:01:36
-15187,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp),Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1489,2023-04-05 13:53:54
-15188,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1489,2022-12-14 13:04:15
-15190,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 THP (150 Hp) EGS,Internal Combustion engine,150,5800,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1506,2023-04-10 15:45:28
-15191,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1458,2023-04-10 15:45:27
-15192,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.8i 16V (125 Hp) EGS,Internal Combustion engine,125,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1470,2023-04-10 15:45:04
-15193,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,2.0i 16V (140 Hp) Automatic,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1552,2023-04-10 15:45:03
-15194,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,2.0i 16V (140 Hp) EGS,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1511,2023-04-10 15:45:02
-15195,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (136 Hp) FAP EGS,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1581,2022-12-14 13:04:17
-18199,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp) FAP EGS,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1499,2022-12-14 13:04:16
-18200,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (150 Hp) FAP,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2009,2010,4470,1830,1660-1680,1610,2022-12-14 13:04:18
-27586,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (136 Hp) FAP Automatic,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",5,2007,2010,4470,1830,1660-1680,1640,2022-12-14 13:04:17
-27718,Citroen,C4,"C4 I Picasso (Phase I, 2007)",2007,1.6 THP (140 Hp) Automatic,Internal Combustion engine,140,5800,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1539,2023-04-10 15:45:30
 18260,Citroen,C4,"C4 C-Triomphe (Phase I, 2007)",2007,1.6 16V (109 Hp),Internal Combustion engine,109,5800,Petrol (Gasoline),Sedan,5,2007,2011,4785,1773,1500,1317,2023-04-10 15:55:37
 18261,Citroen,C4,"C4 C-Triomphe (Phase I, 2007)",2007,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,Sedan,5,2007,2011,4785,1773,1500,1356,2022-12-14 13:31:26
 18262,Citroen,C4,"C4 C-Triomphe (Phase I, 2007)",2007,2.0i 16V (140 Hp),Internal Combustion engine,140,6000,Petrol (Gasoline),Sedan,5,2008,2011,4785,1773,1500,1370,2023-04-10 15:46:22
 27717,Citroen,C4,"C4 C-Triomphe (Phase I, 2007)",2007,2.0i 16V (140 Hp) Automatic,Internal Combustion engine,140,6000,Petrol (Gasoline),Sedan,5,2008,2011,4785,1773,1500,1400,2023-04-10 15:46:17
-27602,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1486,2023-04-10 15:54:00
-27608,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (136 Hp) FAP Automatic,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",7,2006,2010,4590,1830,1660-1710,1650,2022-12-14 13:28:51
-27685,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 THP (150 Hp) EGS,Internal Combustion engine,150,5800,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1530,2023-04-10 15:54:02
-27719,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.8i 16V (125 Hp),Internal Combustion engine,125,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1510,2023-04-10 15:53:58
-27743,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0i 16V (140 Hp) EGS,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1560,2023-04-10 15:53:55
-27744,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (136 Hp) FAP EGS,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1620,2022-12-14 13:28:48
-27891,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (150 Hp) FAP,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2009,2010,4590,1830,1660-1710,1613,2022-12-14 13:28:27
-27905,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 HDi (109 Hp) FAP EGS,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1539,2022-12-14 13:28:26
-27921,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1530,2022-12-14 13:28:24
-27933,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 THP (140 Hp) Automatic,Internal Combustion engine,140,5800,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1568,2023-04-10 15:54:03
-27951,Citroen,C4,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0i 16V (140 Hp) Automatic,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1600,2023-04-10 15:53:56
 15161,Citroen,C4,"C4 I Coupe (Phase I, 2004)",2005,1.4i 16V (88 Hp),Internal Combustion engine,88,5250,Petrol (Gasoline),Coupe,5,2004,2008,4273,1769,1456,1181,2023-04-10 15:59:27
 15162,Citroen,C4,"C4 I Coupe (Phase I, 2004)",2005,1.6 HDi 16V (109 Hp),Internal Combustion engine,109,4000,Diesel,Coupe,5,2004,2008,4273,1769,1456,1269,2023-04-05 13:54:04
 15163,Citroen,C4,"C4 I Coupe (Phase I, 2004)",2005,1.6 HDi 16V (90 Hp) VTR,Internal Combustion engine,90,4000,Diesel,Coupe,5,2004,2008,4273,1769,1456,1255,2023-04-05 13:54:05
@@ -50342,6 +50184,170 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54981,Citroen,Nemo,Nemo Multispace,2008,1.4 (75 Hp),Internal Combustion engine,75,5200,Petrol (Gasoline),Minivan,5,2008,2014,3959,1716,1721,1165-1180,2025-07-31 16:08:49
 54982,Citroen,Nemo,Nemo Multispace,2008,1.3 HDi (75 Hp),Internal Combustion engine,75,4000,Diesel,Minivan,5,2010,2015,3959,1716,1721,1185-1330,2025-07-31 16:08:49
 54983,Citroen,Nemo,Nemo Multispace,2008,1.3 HDi (75 Hp) EGS,Internal Combustion engine,75,4000,Diesel,Minivan,5,2010,2015,3959,1716,1721,1200-1330,2025-07-31 16:08:49
+21043,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 VTi (120 Hp) EGS,Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1278,2026-07-09 15:51:24
+21044,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1277,2026-07-09 15:51:24
+21080,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1204,2026-07-09 15:51:24
+21081,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1246,2026-07-09 15:51:24
+21082,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 e-HDi (92 Hp) EGS,Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1235,2026-07-09 15:51:24
+21083,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 HDi (114 Hp),Internal Combustion engine,114,3600,Diesel,"Station wagon (estate), MPV",5,2013,2015,4078,1766,1631-1670,1436,2026-07-09 15:51:24
+23757,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),"Station wagon (estate), MPV",5,2015,2017,4101,1766,1631-1670,1205,2026-07-09 15:51:24
+23769,Citroen,C3 Picasso,"C3 I Picasso (Phase II, 2013)",2013,1.6 BlueHDi (98 Hp),Internal Combustion engine,98,3750,Diesel,"Station wagon (estate), MPV",5,2015,2017,4101,1766,1631-1670,1240,2026-07-09 15:51:24
+15078,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1322,2026-07-09 15:51:24
+15079,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1258,2026-07-09 15:51:24
+15080,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1278,2026-07-09 15:51:24
+18190,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,"Station wagon (estate), MPV",5,2008,2010,4078,1766,1669-1672,1277,2026-07-09 15:51:24
+18191,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 e-HDI (92 Hp) FAP EGS,Internal Combustion engine,92,4000,Diesel,"Station wagon (estate), MPV",5,2011,2012,4078,1766,1669-1672,1291,2026-07-09 15:51:24
+27452,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp),Internal Combustion engine,95,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1171,2026-07-09 15:51:24
+27453,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.4 VTi (95 Hp) LPG,Internal Combustion engine,95,5700,Petrol / LPG,"Station wagon (estate), MPV",5,2012,2013,4078,1766,1669-1672,1375,2026-07-09 15:51:24
+27454,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (115 Hp),Internal Combustion engine,115,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2008,2012,4078,1766,1669-1672,1290,2026-07-09 15:51:24
+27455,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1204,2026-07-09 15:51:24
+27456,Citroen,C3 Picasso,"C3 I Picasso (Phase I, 2008)",2008,1.6 HDi (112 Hp) FAP,Internal Combustion engine,112,3600,Diesel,"Station wagon (estate), MPV",5,2010,2012,4078,1766,1669-1672,1318,2026-07-09 15:51:24
+23759,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (110 Hp) S&amp;S,Internal Combustion engine,110,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1280,2026-07-09 15:57:22
+23770,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2026-07-09 15:57:22
+24346,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2026-07-09 15:57:22
+24367,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S 94g,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1320,2026-07-09 15:57:22
+24376,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1296,2026-07-09 15:57:22
+24385,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1435,2026-07-09 15:57:22
+24394,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1280,2026-07-09 15:57:22
+24560,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1310,2026-07-09 15:57:22
+27817,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1298,2026-07-09 15:57:22
+27878,Citroen,C4 Picasso,"C4 II Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2016,2018,4438,1826,1610-1625,1415,2026-07-09 15:57:22
+24484,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1317,2026-07-09 15:57:22
+24493,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1359,2026-07-09 15:57:22
+24602,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (99 Hp) S&amp;S,Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1320,2026-07-09 15:57:22
+24651,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1476,2026-07-09 15:57:22
+24675,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1320,2026-07-09 15:57:22
+27816,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1347,2026-07-09 15:57:22
+27824,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,2.0 BlueHDI (150 Hp) S&amp;S,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1430,2026-07-09 15:57:22
+27859,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1297,2026-07-09 15:57:22
+28005,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase II, 2016)",2016,1.6 BlueHDI (120 Hp) S&amp;S 98g,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2016,2018,4602,1826,1638-1644,1365,2026-07-09 15:57:22
+18193,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1252,2026-07-09 15:57:22
+18194,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 THP (156 Hp) S&amp;S,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1296,2026-07-09 15:57:22
+18195,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1298,2026-07-09 15:57:22
+18196,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream EGS,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1295,2026-07-09 15:57:22
+18197,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1279,2026-07-09 15:57:22
+18198,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) S&amp;S,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1415,2026-07-09 15:57:22
+21055,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.2 PureTech (130 Hp) S&amp;S,Internal Combustion engine,130,5500,Petrol (Gasoline),"Minivan, MPV",5,2015,2016,4428,1826,1610-1625,1280,2026-07-09 15:57:22
+21056,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3500,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1296,2026-07-09 15:57:22
+21091,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 THP (165 Hp) S&amp;S Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1310,2026-07-09 15:57:22
+21092,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1625,1320,2026-07-09 15:57:22
+21093,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2014,2016,4428,1826,1610-1625,1474,2026-07-09 15:57:22
+27749,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 HDi (116 Hp),Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",5,2013,2015,4428,1826,1610-1625,1298,2026-07-09 15:57:22
+27975,Citroen,C4 Picasso,"C4 II Picasso (Phase I, 2013)",2014,1.6 e-HDi (92 Hp) AirDream EGS,Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",5,2013,2014,4428,1826,1610-1625,1289,2026-07-09 15:57:22
+21062,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.2 PureTech (131 Hp) S&amp;S,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1297,2026-07-09 15:57:22
+21063,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) AirDream,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1320,2026-07-09 15:57:22
+21064,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) AirDream S&amp;S,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1430,2026-07-09 15:57:22
+21094,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 THP (156 Hp),Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1313,2026-07-09 15:57:22
+21095,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 THP (165 Hp) S&amp;S Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2014,2016,4597,1826,1638-1644,1320,2026-07-09 15:57:22
+21096,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (116 Hp) EGS,Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1320,2026-07-09 15:57:22
+21097,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1347,2026-07-09 15:57:22
+21106,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,2.0 BlueHDi (150 Hp) AirDream S&amp;S Automatic,Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1476,2026-07-09 15:57:22
+23760,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (120 Hp) S&amp;S Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2014,2015,4597,1826,1638-1644,1432,2026-07-09 15:57:22
+23807,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 BlueHDi (99 Hp) S&amp;S,Internal Combustion engine,99,3500,Diesel,"Minivan, MPV",7,2014,2016,4597,1826,1638-1644,1320,2026-07-09 15:57:22
+27707,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 e-HDi (92 Hp) AirDream EGS,Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1316,2026-07-09 15:57:22
+27874,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2013,2015,4597,1826,1638-1644,1278,2026-07-09 15:57:22
+27875,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 HDi (116 Hp),Internal Combustion engine,116,3600,Diesel,"Minivan, MPV",7,2013,2015,4597,1826,1638-1644,1320,2026-07-09 15:57:22
+27996,Citroen,C4 Picasso,"C4 II Grand Picasso (Phase I, 2013)",2014,1.6 HDi (92 Hp),Internal Combustion engine,92,4000,Diesel,"Minivan, MPV",7,2013,2014,4597,1826,1638-1644,1279,2026-07-09 15:57:22
+15189,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,1.6 THP (156 Hp) EGS,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1430,2026-07-09 15:57:22
+18201,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1591,2026-07-09 15:57:22
+27686,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1614,2026-07-09 15:57:22
+27721,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp),Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2010,2011,4470,1830,1660-1680,1610,2026-07-09 15:57:22
+27895,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp) EGS,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2012,2013,4470,1830,1660-1680,1660,2026-07-09 15:57:22
+27956,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,1.6 HDI (112 Hp),Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",5,2010,2011,4470,1830,1660-1680,1489,2026-07-09 15:57:22
+27970,Citroen,C4 Picasso,"C4 I Picasso (Phase II, 2010)",2010,1.6 e-HDI (112 Hp) EGS,Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",5,2010,2013,4470,1830,1660-1680,1499,2026-07-09 15:57:22
+18243,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1530,2026-07-09 15:57:22
+18244,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 THP (156 Hp) EGS,Internal Combustion engine,156,6000,Petrol (Gasoline),"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1517,2026-07-09 15:57:22
+18245,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 HDI (109 Hp),Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1530,2026-07-09 15:57:22
+18246,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 e-HDI (112 Hp) EGS,Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",7,2010,2013,4590,1830,1660-1710,1539,2026-07-09 15:57:22
+18247,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",7,2010,2012,4590,1830,1660-1710,1637,2026-07-09 15:57:22
+18248,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp),Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2010,2012,4590,1830,1660-1710,1613,2026-07-09 15:57:22
+27629,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,1.6 HDI (112 Hp),Internal Combustion engine,112,3600,Diesel,"Minivan, MPV",7,2012,2013,4590,1830,1660-1710,1550,2026-07-09 15:57:22
+27954,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase II, 2010)",2010,2.0 HDI (150 Hp) EGS,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2012,2013,4590,1830,1660-1710,1690,2026-07-09 15:57:22
+15187,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp),Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1489,2026-07-09 15:57:22
+15188,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1489,2026-07-09 15:57:22
+15190,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 THP (150 Hp) EGS,Internal Combustion engine,150,5800,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1506,2026-07-09 15:57:22
+15191,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1458,2026-07-09 15:57:22
+15192,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.8i 16V (125 Hp) EGS,Internal Combustion engine,125,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1470,2026-07-09 15:57:22
+15193,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,2.0i 16V (140 Hp) Automatic,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1552,2026-07-09 15:57:22
+15194,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,2.0i 16V (140 Hp) EGS,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1511,2026-07-09 15:57:22
+15195,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (136 Hp) FAP EGS,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1581,2026-07-09 15:57:22
+18199,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 HDi (109 Hp) FAP EGS,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",5,2007,2008,4470,1830,1660-1680,1499,2026-07-09 15:57:22
+18200,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (150 Hp) FAP,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",5,2009,2010,4470,1830,1660-1680,1610,2026-07-09 15:57:22
+27586,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,2.0 HDi (136 Hp) FAP Automatic,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",5,2007,2010,4470,1830,1660-1680,1640,2026-07-09 15:57:22
+27718,Citroen,C4 Picasso,"C4 I Picasso (Phase I, 2007)",2007,1.6 THP (140 Hp) Automatic,Internal Combustion engine,140,5800,Petrol (Gasoline),"Minivan, MPV",5,2008,2010,4470,1830,1660-1680,1539,2026-07-09 15:57:22
+27602,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 VTi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1486,2026-07-09 15:57:22
+27608,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (136 Hp) FAP Automatic,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",7,2006,2010,4590,1830,1660-1710,1650,2026-07-09 15:57:22
+27685,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 THP (150 Hp) EGS,Internal Combustion engine,150,5800,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1530,2026-07-09 15:57:22
+27719,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.8i 16V (125 Hp),Internal Combustion engine,125,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1510,2026-07-09 15:57:22
+27743,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0i 16V (140 Hp) EGS,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1560,2026-07-09 15:57:22
+27744,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (136 Hp) FAP EGS,Internal Combustion engine,136,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1620,2026-07-09 15:57:22
+27891,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0 HDi (150 Hp) FAP,Internal Combustion engine,150,3750,Diesel,"Minivan, MPV",7,2009,2010,4590,1830,1660-1710,1613,2026-07-09 15:57:22
+27905,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 HDi (109 Hp) FAP EGS,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1539,2026-07-09 15:57:22
+27921,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 HDi (109 Hp) FAP,Internal Combustion engine,109,4000,Diesel,"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1530,2026-07-09 15:57:22
+27933,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,1.6 THP (140 Hp) Automatic,Internal Combustion engine,140,5800,Petrol (Gasoline),"Minivan, MPV",7,2008,2010,4590,1830,1660-1710,1568,2026-07-09 15:57:22
+27951,Citroen,C4 Picasso,"C4 I Grand Picasso (Phase I, 2006)",2006,2.0i 16V (140 Hp) Automatic,Internal Combustion engine,140,6000,Petrol (Gasoline),"Minivan, MPV",7,2006,2008,4590,1830,1660-1710,1600,2026-07-09 15:57:22
+15111,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,1.6 16V (109 Hp),Internal Combustion engine,109,6000,Petrol (Gasoline),Minivan,5,2005,2010,4276,1751,1637,1268,2026-07-09 15:57:18
+15113,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,1.6 HDi (109 Hp) DPF,Internal Combustion engine,109,4000,Diesel,Minivan,5,2004,2010,4276,1751,1637,1313,2026-07-09 15:57:18
+46571,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,1.6 (95 Hp),Internal Combustion engine,95,5700,Petrol (Gasoline),Minivan,5,2004,2005,4276,1751,1637,1240,2026-07-09 15:57:18
+46572,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,1.8 16V (116 Hp),Internal Combustion engine,116,5500,Petrol (Gasoline),Minivan,5,2004,2005,4276,1751,1637,1245,2026-07-09 15:57:18
+46573,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,2.0 16V (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5,2004,2006,4276,1751,1637,1326,2026-07-09 15:57:18
+46574,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,2.0 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5,2004,2005,4276,1751,1637,1300,2026-07-09 15:57:18
+46575,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase II)",2004,1.6 HDi 16V (92 Hp),Internal Combustion engine,92,4000,Diesel,Minivan,5,2005,2010,4276,1751,1637,1290,2026-07-09 15:57:18
+15112,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase I)",1999,1.6 (95 Hp),Internal Combustion engine,95,5700,Petrol (Gasoline),Minivan,5,2000,2004,4276,1751,1637,1240,2026-07-09 15:57:27
+15114,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase I)",1999,1.8 16V (116 Hp),Internal Combustion engine,116,5500,Petrol (Gasoline),Minivan,5,2000,2004,4276,1751,1637,1245,2026-07-09 15:57:27
+15115,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase I)",1999,2.0 16V (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5,2003,2004,4276,1751,1637,1326,2026-07-09 15:57:27
+15116,Citroen,Xsara Picasso,"Xsara Picasso (N68, Phase I)",1999,2.0 HDi (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5,1999,2004,4276,1751,1637,1300,2026-07-09 15:57:27
+34630,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1280,2026-07-09 16:01:31
+34631,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1280,2026-07-09 16:01:31
+34632,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1298,2026-07-09 16:01:31
+34633,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1310,2026-07-09 16:01:31
+34634,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1296,2026-07-09 16:01:31
+34635,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.6 BlueHDi (120 Hp) Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1320,2026-07-09 16:01:31
+34642,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp),Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",5,2018,2020,4438,1826,1610-1625,1320,2026-07-09 16:01:31
+34643,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",5,2018,2018,4438,1826,1610-1625,1415,2026-07-09 16:01:31
+34644,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,2.0 BlueHDi (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",5,2018,2019,4438,1826,1610-1625,1517,2026-07-09 16:01:31
+39023,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp) Automatic,Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",5,2018,2020,4438,1826,1610-1625,1406,2026-07-09 16:01:31
+39075,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2018,2019,4438,1826,1638,1395,2026-07-09 16:01:31
+39082,Citroen,C4 SpaceTourer,"C4 SpaceTourer  (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",5,2019,2020,4438,1826,1610,1320,2026-07-09 16:01:31
+34649,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp),Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2018,2022,4602,1826,1638-1644,1297,2026-07-09 16:01:31
+34650,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1317,2026-07-09 16:01:31
+34651,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.6 THP (165 Hp) Automatic,Internal Combustion engine,165,6000,Petrol (Gasoline),"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1320,2026-07-09 16:01:31
+34652,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1320,2026-07-09 16:01:31
+34653,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.6 BlueHDi (120 Hp) Automatic,Internal Combustion engine,120,3500,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1359,2026-07-09 16:01:31
+34654,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp),Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",7,2018,2022,4602,1826,1638,1430,2026-07-09 16:01:31
+34655,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,"Minivan, MPV",7,2018,2018,4602,1826,1638-1644,1430,2026-07-09 16:01:31
+34656,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,2.0 BlueHDi (163 Hp) Automatic,Internal Combustion engine,163,3750,Diesel,"Minivan, MPV",7,2018,2021,4602,1826,1638-1644,1540,2026-07-09 16:01:31
+39065,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.5 BlueHDi (131 Hp) Automatic,Internal Combustion engine,131,3750,Diesel,"Minivan, MPV",7,2018,2022,4602,1826,1638,1430,2026-07-09 16:01:31
+39083,Citroen,C4 SpaceTourer,"Grand C4 SpaceTourer (Phase I, 2018)",2018,1.2 PureTech (131 Hp) Automatic,Internal Combustion engine,131,5500,Petrol (Gasoline),"Minivan, MPV",7,2019,2022,4602,1826,1638,1404,2026-07-09 16:01:31
+4055,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.6 BlueHDi (100 Hp) ETG,Internal Combustion engine,100,3750,Diesel,SUV,5,2018,2018,4170,1710,1480,,2026-07-09 16:05:02
+16096,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp) ETG,Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2026-07-09 16:05:02
+16100,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2026-07-09 16:05:02
+22390,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.6 BlueHDi (100 Hp),Internal Combustion engine,100,3750,Diesel,SUV,5,2018,2018,4170,1710,1480,,2026-07-09 16:05:02
+24099,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (82 Hp),Internal Combustion engine,82,5750,Petrol (Gasoline),SUV,5,2018,2018,4170,1710,1480,,2026-07-09 16:05:02
+31707,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (130 Hp),Internal Combustion engine,130,5500,Petrol (Gasoline),SUV,5,2018,2018,4170,1714,1480,1045,2026-07-09 16:05:02
+38552,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2020,4170,1714,1480,1065,2026-07-09 16:05:02
+38553,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (110 Hp) EAT6,Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2018,2019,4170,1714,1480,1090,2026-07-09 16:05:02
+39020,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.2 PureTech (130 Hp),Internal Combustion engine,130,5500,Petrol (Gasoline),SUV,5,2018,2019,4170,1714,1480,1085,2026-07-09 16:05:02
+39021,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.5 BlueHDi (102 Hp),Internal Combustion engine,102,3500,Diesel,SUV,5,2018,2020,4170,1714,1480,1085,2026-07-09 16:05:02
+39022,Citroen,C4 Cactus,"C4 Cactus (Phase II, 2018)",2018,1.5 BlueHDi (120 Hp) EAT6,Internal Combustion engine,120,3750,Diesel,SUV,5,2019,2020,4170,1714,1480,1180,2026-07-09 16:05:02
+21025,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (82 Hp),Internal Combustion engine,82,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,965,2026-07-09 16:05:02
+21026,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.6 e-HDI (92 Hp) EGS,Internal Combustion engine,92,3750,Diesel,Crossover,5,2014,2015,4157,1729,1490-1530,1055,2026-07-09 16:05:02
+21037,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (75 Hp),Internal Combustion engine,75,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,965,2026-07-09 16:05:02
+21054,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (82 Hp) EGS,Internal Combustion engine,82,5750,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,975,2026-07-09 16:05:02
+21057,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.2 e-THP (110 Hp),Internal Combustion engine,110,6250,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,1020,2026-07-09 16:05:02
+21058,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp),Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1070,2026-07-09 16:05:02
+21071,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.2 PureTech (110 Hp) EGS,Internal Combustion engine,110,5500,Petrol (Gasoline),Crossover,5,2014,2017,4157,1729,1490-1530,1050,2026-07-09 16:05:02
+23758,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp) 82g,Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1070,2026-07-09 16:05:02
+23780,Citroen,C4 Cactus,"C4 Cactus (Phase I, 2014)",2014,1.6 BlueHDi (99 Hp) S&amp;S EGS,Internal Combustion engine,99,3750,Diesel,Crossover,5,2014,2017,4157,1729,1490-1530,1085,2026-07-09 16:05:02
+18231,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,1.6i (117 Hp),Internal Combustion engine,117,6000,Petrol (Gasoline),SUV,5,2012,2015,4340,1799,1625-1635,1305,2026-07-09 16:08:08
+18232,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,1.6 HDi (114 Hp),Internal Combustion engine,114,3600,Diesel,SUV,5,2012,2017,4340,1799,1625-1635,1315,2026-07-09 16:08:08
+18233,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,1.6 HDi (114 Hp) 4x4,Internal Combustion engine,114,3600,Diesel,SUV,5,2012,2017,4341,1799,1625-1635,1425,2026-07-09 16:08:08
+18234,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,1.8 HDi (150 Hp) 4x4,Internal Combustion engine,150,4000,Diesel,SUV,5,2012,2015,4340,1799,1625-1635,1495,2026-07-09 16:08:08
+27648,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) CVT,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1395,2026-07-09 16:08:08
+27688,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) 4x4,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1430,2026-07-09 16:08:08
+27706,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,1.8 HDi (150 Hp),Internal Combustion engine,150,4000,Diesel,SUV,5,2012,2015,4340,1799,1625-1635,1430,2026-07-09 16:08:08
+27872,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp) 4x4 CVT,Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1460,2026-07-09 16:08:08
+27972,Citroen,C4 Aircross,"C4 Aircross (Phase I, 2012)",2012,2.0i (154 Hp),Internal Combustion engine,154,6000,Petrol (Gasoline),SUV,5,2012,2017,4340,1799,1625-1635,1365,2026-07-09 16:08:08
 15323,Iran Khodro,Samand,Samand,2004,1.8 i (100 Hp),Internal Combustion engine,100,6000,Petrol (Gasoline),Sedan,5,2003,,4410,1720,1460,1200,2023-08-17 09:53:36
 15324,Iran Khodro,Soren,Soren,2007,1.6 16V (110 Hp),Internal Combustion engine,110,6500,Petrol (Gasoline),Sedan,5,2007,,4527,1720,1460,,2023-08-17 09:53:38
 16705,Iran Khodro,Soren,Soren,2007,ELX 1.6 16V (113 Hp),Internal Combustion engine,113,6000,Petrol (Gasoline),Sedan,5,2008,,,,,1200,2023-08-17 09:53:37
@@ -55150,6 +55156,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48635,DR,4.0,4.0,2022,1.5 (114 Hp) LPG,Internal Combustion engine,114,6150,Petrol / LPG,SUV,5,2022,,4318,,1670,1380,2023-05-18 10:29:18
 48636,DR,1.0,1.0 EV,2023,31 kWh (61 Hp) Automatic,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2023,,3200,1670,1590,1050,2023-05-18 11:28:20
 54438,DR,PK8,PK8,2023,2.0 CTI (136 Hp) 4WD,Internal Combustion engine,136,3600,Diesel,Pick-up,5,2023,,5315,1830,1815,2040,2025-05-30 16:15:38
+57462,DR,5,5,2026,Collection 1.5 (95/88 Hp) LPG,Internal Combustion engine,95,5500,Petrol / LPG,SUV,5,2026,,4318,1831,1662,1326-1346,2026-07-09 16:19:01
+57463,DR,5,5,2026,Collection 1.5 (204 Hp) Full Hybrid DHT,FHEV (Full Hybrid Electric Vehicle),95,6000,Petrol (Gasoline),SUV,5,2026,,4320,1831,1653,1550,2026-07-09 16:19:01
 35760,MINEmobility,City EV,City EV Concept,2018,20 kWh (68 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,2,2018,,3250,1750,1600,900,2022-11-03 20:39:27
 35759,MINEmobility,Sport EV,Sport EV Concept,2018,45 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,Coupe,,2018,,4300,1700,1200,1100,2022-11-03 20:39:27
 35761,MINEmobility,MPV EV,MPV EV Concept,2018,30 kWh (109 Hp),BEV (Electric Vehicle),,,Electricity,MPV,5,2018,,4100,1750,1660,1200,2022-11-03 20:39:27
