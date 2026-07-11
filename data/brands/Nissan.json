@@ -42097,6 +42097,101 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-10 15:40:27",
+        "name": "Tekton",
+        "id": "4084",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-10 15:40:56",
+              "name": "Tekton",
+              "modelYear": "2027",
+              "id": "11371",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57469",
+                    "update": "2026-07-10 16:30:07",
+                    "brand": "Nissan",
+                    "model": "Tekton",
+                    "generation": "Tekton",
+                    "engine": "T160 1.0 Turbo (100 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/5000",
+                    "powerHp": "100",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4349",
+                    "width": "1815",
+                    "height": "1674",
+                    "heightMin": "1674",
+                    "rideHeight": "212",
+                    "rideHeightMin": "212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57470",
+                    "update": "2026-07-10 16:33:05",
+                    "brand": "Nissan",
+                    "model": "Tekton",
+                    "generation": "Tekton",
+                    "engine": "T280 1.3 Turbo (163 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5250",
+                    "powerHp": "163",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4349",
+                    "width": "1815",
+                    "height": "1674",
+                    "heightMin": "1674",
+                    "rideHeight": "212",
+                    "rideHeightMin": "212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57471",
+                    "update": "2026-07-10 16:34:57",
+                    "brand": "Nissan",
+                    "model": "Tekton",
+                    "generation": "Tekton",
+                    "engine": "T280 1.3 Turbo (163 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "163/5250",
+                    "powerHp": "163",
+                    "powerRpm": "5250",
+                    "powerRpmLow": "5250",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4349",
+                    "width": "1815",
+                    "height": "1674",
+                    "heightMin": "1674",
+                    "rideHeight": "212",
+                    "rideHeightMin": "212",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

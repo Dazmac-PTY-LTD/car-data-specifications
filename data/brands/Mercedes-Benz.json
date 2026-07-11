@@ -75777,11 +75777,11 @@
                   },
                   {
                     "id": "54877",
-                    "update": "2025-11-26 08:08:32",
+                    "update": "2026-07-10 09:23:26",
                     "brand": "Mercedes-Benz",
                     "model": "CLA",
                     "generation": "CLA Shooting Brake (X174)",
-                    "engine": "CLA 350 85 kWh (354 Hp) 4MATIC EQ Technology",
+                    "engine": "CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2025",
                     "coupe": "Station wagon (estate)",
@@ -75817,6 +75817,26 @@
                     "fuel": "Electricity",
                     "curbWeight": "1990",
                     "curbWeightMin": "1990"
+                  },
+                  {
+                    "id": "57465",
+                    "update": "2026-07-10 09:35:54",
+                    "brand": "Mercedes-Benz",
+                    "model": "CLA",
+                    "generation": "CLA Shooting Brake (X174)",
+                    "engine": "AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4742",
+                    "width": "1859",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "fuel": "Electricity",
+                    "curbWeight": "2295",
+                    "curbWeightMin": "2295"
                   }
                 ]
               }
@@ -75988,11 +76008,11 @@
                   },
                   {
                     "id": "53916",
-                    "update": "2025-10-15 11:04:54",
+                    "update": "2026-07-10 09:23:34",
                     "brand": "Mercedes-Benz",
                     "model": "CLA",
                     "generation": "CLA Saloon (C174)",
-                    "engine": "CLA 350 85 kWh (354 Hp) 4MATIC EQ Technology",
+                    "engine": "CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2025",
                     "coupe": "Sedan",
@@ -76049,6 +76069,26 @@
                     "fuel": "Electricity",
                     "curbWeight": "1980",
                     "curbWeightMin": "1980"
+                  },
+                  {
+                    "id": "57464",
+                    "update": "2026-07-10 09:35:48",
+                    "brand": "Mercedes-Benz",
+                    "model": "CLA",
+                    "generation": "CLA Saloon (C174)",
+                    "engine": "AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4742",
+                    "width": "1859",
+                    "height": "1469",
+                    "heightMin": "1469",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
                   }
                 ]
               }
