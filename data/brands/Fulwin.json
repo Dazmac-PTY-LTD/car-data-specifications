@@ -760,7 +760,29 @@
               "modelYear": "2026",
               "id": "11239",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57475",
+                    "update": "2026-07-13 15:11:43",
+                    "brand": "Fulwin",
+                    "model": "A9",
+                    "generation": "A9",
+                    "engine": "70.11 kWh (242 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4836",
+                    "width": "1896",
+                    "height": "1489",
+                    "heightMin": "1489",
+                    "fuel": "Electricity",
+                    "curbWeight": "1850-1876",
+                    "curbWeightMin": "1850",
+                    "curbWeightMax": "1876"
+                  }
+                ]
               }
             }
           ]

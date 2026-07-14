@@ -7213,6 +7213,86 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-13 08:47:42",
+        "name": "Seal 08",
+        "id": "4085",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-13 08:48:59",
+              "name": "Seal 08",
+              "modelYear": "2026",
+              "id": "11372",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57472",
+                    "update": "2026-07-13 09:53:36",
+                    "brand": "BYD",
+                    "model": "Seal 08",
+                    "generation": "Seal 08",
+                    "engine": "76.744 kWh (347 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5150",
+                    "width": "1999",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "2040",
+                    "curbWeightMin": "2040"
+                  },
+                  {
+                    "id": "57473",
+                    "update": "2026-07-13 10:27:54",
+                    "brand": "BYD",
+                    "model": "Seal 08",
+                    "generation": "Seal 08",
+                    "engine": "92.093 kWh (435 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5150",
+                    "width": "1999",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "2160",
+                    "curbWeightMin": "2160"
+                  },
+                  {
+                    "id": "57474",
+                    "update": "2026-07-13 10:46:36",
+                    "brand": "BYD",
+                    "model": "Seal 08",
+                    "generation": "Seal 08",
+                    "engine": "92.093 kWh (694 Hp) EV 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5150",
+                    "width": "1999",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
