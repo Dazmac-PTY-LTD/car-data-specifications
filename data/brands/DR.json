@@ -1429,6 +1429,34 @@
                     "fuel": "Petrol (Gasoline)",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
+                  },
+                  {
+                    "id": "57476",
+                    "update": "2026-07-14 16:16:24",
+                    "brand": "DR",
+                    "model": "5",
+                    "generation": "5",
+                    "engine": "Stilnovo 1.4 TGDI (158/154 Hp) LPG DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "158/5500/154/5500",
+                    "powerHp": "158",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "powerHpLPG": "154",
+                    "powerRpmLPG": "5500",
+                    "powerRpmLowLPG": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4330",
+                    "width": "1825",
+                    "height": "1660",
+                    "heightMin": "1660",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "1420-1460",
+                    "curbWeightMin": "1420",
+                    "curbWeightMax": "1460"
                   }
                 ]
               }

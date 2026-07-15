@@ -3084,7 +3084,7 @@
                 "modification": [
                   {
                     "id": "54851",
-                    "update": "2025-07-10 16:16:55",
+                    "update": "2026-07-14 15:21:49",
                     "brand": "Geely",
                     "model": "Xingyuan",
                     "generation": "Xingyuan",
@@ -3103,13 +3103,32 @@
                   },
                   {
                     "id": "54852",
-                    "update": "2025-07-10 16:16:55",
+                    "update": "2026-07-14 15:22:16",
                     "brand": "Geely",
                     "model": "Xingyuan",
                     "generation": "Xingyuan",
                     "engine": "40.16 kWh (116 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57478",
+                    "update": "2026-07-14 16:16:24",
+                    "brand": "Geely",
+                    "model": "Xingyuan",
+                    "generation": "Xingyuan",
+                    "engine": "47.14 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
                     "coupe": "Hatchback",
                     "places": "5",
                     "placesMin": "5",
@@ -3421,6 +3440,49 @@
                     "fuel": "Petrol (Gasoline)",
                     "curbWeight": "1470",
                     "curbWeightMin": "1470"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-14 12:25:09",
+        "name": "E2",
+        "id": "4086",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-14 12:25:25",
+              "name": "E2",
+              "modelYear": "2026",
+              "id": "11374",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57477",
+                    "update": "2026-07-14 16:16:24",
+                    "brand": "Geely",
+                    "model": "E2",
+                    "generation": "E2",
+                    "engine": "39.4 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "rideHeight": "130-162",
+                    "rideHeightMin": "130",
+                    "rideHeightMax": "162",
+                    "fuel": "Electricity",
+                    "curbWeight": "1300",
+                    "curbWeightMin": "1300"
                   }
                 ]
               }

@@ -20807,13 +20807,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 7770,Ford,Fusion,Fusion I,2002,1.6 TDCi (90 Hp),Internal Combustion engine,90,4000,Diesel,Hatchback,5,2002,2005,4020,1708,1503,1105,2022-11-16 09:50:13
 29228,Ford,Fusion,Fusion I,2002,1.4 TDCi (68 Hp) Automatic,Internal Combustion engine,68,4000,Diesel,Hatchback,5,2002,2005,4020,1708,1503,1105,2022-11-16 09:50:04
 29482,Ford,Fusion,Fusion I,2002,1.4 Duratec (80 Hp) Automatic,Internal Combustion engine,80,5000,Petrol (Gasoline),Hatchback,5,2002,2005,4020,1708,1503,1075,2022-11-16 09:49:29
-46780,Ford,Mustang,Mustang Convertible VII,2024,2.3 EcoBoost (315 Hp) SelectShift,Internal Combustion engine,315,5500,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1697,2024-02-05 08:45:06
-46781,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (480 Hp),Internal Combustion engine,480,7150,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1810,2024-02-05 08:46:21
-46782,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (480 Hp) SelectShift,Internal Combustion engine,480,7150,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1820,2024-02-05 08:46:44
-50618,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (486 Hp),Internal Combustion engine,486,7250,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1810,2024-02-05 08:46:21
-50619,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (486 Hp) SelectShift,Internal Combustion engine,486,7250,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1820,2024-02-05 08:46:45
-51140,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (446 Hp),Internal Combustion engine,446,7250,Petrol (Gasoline),Cabriolet,4,2024,,4810,1916,1388-1408,1801,2024-02-05 16:37:25
-51141,Ford,Mustang,Mustang Convertible VII,2024,GT 5.0 V8 (446 Hp) SelectShift,Internal Combustion engine,446,7250,Petrol (Gasoline),Cabriolet,4,2024,,4810,1916,1388-1408,1801,2024-02-05 16:37:25
+46780,Ford,Mustang,Mustang VII Convertible,2024,2.3 EcoBoost (315 Hp) SelectShift,Internal Combustion engine,315,5500,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1697,2024-02-05 08:45:06
+46781,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (480 Hp),Internal Combustion engine,480,7150,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1810,2024-02-05 08:46:21
+46782,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (480 Hp) SelectShift,Internal Combustion engine,480,7150,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1820,2024-02-05 08:46:44
+50618,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (486 Hp),Internal Combustion engine,486,7250,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1810,2024-02-05 08:46:21
+50619,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (486 Hp) SelectShift,Internal Combustion engine,486,7250,Petrol (Gasoline),Cabriolet,4,2023,,4811,1915,1397,1820,2024-02-05 08:46:45
+51140,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (446 Hp),Internal Combustion engine,446,7250,Petrol (Gasoline),Cabriolet,4,2024,,4810,1916,1388-1408,1801,2024-02-05 16:37:25
+51141,Ford,Mustang,Mustang VII Convertible,2024,GT 5.0 V8 (446 Hp) SelectShift,Internal Combustion engine,446,7250,Petrol (Gasoline),Cabriolet,4,2024,,4810,1916,1388-1408,1801,2024-02-05 16:37:25
 46775,Ford,Mustang,Mustang VII,2024,Dark Horse 5.0 V8 (500 Hp),Internal Combustion engine,500,7250,Petrol (Gasoline),"Coupe, Fastback",4,2023,,4818,1918,1402,1791,2024-02-05 08:49:49
 46776,Ford,Mustang,Mustang VII,2024,2.3 EcoBoost (315 Hp) SelectShift,Internal Combustion engine,315,5500,Petrol (Gasoline),"Coupe, Fastback",4,2023,,4811,1915,1397,1627,2024-02-05 08:45:04
 46777,Ford,Mustang,Mustang VII,2024,GT 5.0 V8 (480 Hp),Internal Combustion engine,480,7150,Petrol (Gasoline),"Coupe, Fastback",4,2023,,4811,1915,1397,1736,2024-02-05 08:46:23
@@ -20825,12 +20825,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51123,Ford,Mustang,Mustang VII,2024,GT 5.0 V8 (446 Hp),Internal Combustion engine,446,7250,Petrol (Gasoline),"Coupe, Fastback",4,2024,,4810,1916,1394-1414,1733,2024-02-05 08:46:24
 51124,Ford,Mustang,Mustang VII,2024,Dark Horse 5.0 V8 (453 Hp),Internal Combustion engine,453,7250,Petrol (Gasoline),"Coupe, Fastback",4,2024,,4819,1917,1403,1742,2024-02-05 08:49:52
 51125,Ford,Mustang,Mustang VII,2024,Dark Horse 5.0 V8 (453 Hp) SelectShift,Internal Combustion engine,453,7250,Petrol (Gasoline),"Coupe, Fastback",4,2024,,4819,1917,1403,1762,2024-02-05 08:47:01
-32143,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,GT 5.0 Ti-VCT V8 (460 Hp),Internal Combustion engine,460,5500,Petrol (Gasoline),Cabriolet,4,2017,2021,4788,1915,1394,1765,2022-11-04 08:33:42
-32144,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,GT 5.0 Ti-VCT V8 (460 Hp) SelectShift,Internal Combustion engine,460,5500,Petrol (Gasoline),Cabriolet,4,2017,2021,4788,1915,1394,1771,2022-11-04 08:33:45
-32152,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,2.3 GTDi EcoBoost (310 Hp),Internal Combustion engine,310,5500,Petrol (Gasoline),Cabriolet,4,2017,2023,4788,1915,1394,1681,2022-11-04 08:33:09
-32153,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,2.3 GTDi EcoBoost (310 Hp) SelectShift,Internal Combustion engine,310,5500,Petrol (Gasoline),Cabriolet,4,2017,2023,4788,1915,1394,1684,2022-11-04 08:33:11
-45545,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp),Internal Combustion engine,450,7000,Petrol (Gasoline),Cabriolet,4,2022,2023,4789,1916,1396,1732,2022-11-04 08:33:45
-45546,Ford,Mustang,Mustang Convertible VI (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp) SelectShift,Internal Combustion engine,450,7000,Petrol (Gasoline),Cabriolet,4,2022,2023,4789,1916,1396,1743,2022-11-04 08:33:46
+32143,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,GT 5.0 Ti-VCT V8 (460 Hp),Internal Combustion engine,460,5500,Petrol (Gasoline),Cabriolet,4,2017,2021,4788,1915,1394,1765,2022-11-04 08:33:42
+32144,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,GT 5.0 Ti-VCT V8 (460 Hp) SelectShift,Internal Combustion engine,460,5500,Petrol (Gasoline),Cabriolet,4,2017,2021,4788,1915,1394,1771,2022-11-04 08:33:45
+32152,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,2.3 GTDi EcoBoost (310 Hp),Internal Combustion engine,310,5500,Petrol (Gasoline),Cabriolet,4,2017,2023,4788,1915,1394,1681,2022-11-04 08:33:09
+32153,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,2.3 GTDi EcoBoost (310 Hp) SelectShift,Internal Combustion engine,310,5500,Petrol (Gasoline),Cabriolet,4,2017,2023,4788,1915,1394,1684,2022-11-04 08:33:11
+45545,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp),Internal Combustion engine,450,7000,Petrol (Gasoline),Cabriolet,4,2022,2023,4789,1916,1396,1732,2022-11-04 08:33:45
+45546,Ford,Mustang,Mustang VI Convertible (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp) SelectShift,Internal Combustion engine,450,7000,Petrol (Gasoline),Cabriolet,4,2022,2023,4789,1916,1396,1743,2022-11-04 08:33:46
 33603,Ford,Mustang,Mustang VI (facelift 2017),2018,BULLITT 5.0 Ti-VCT V8 (480 Hp),Internal Combustion engine,480,7000,Petrol (Gasoline),Fastback,4,2018,2020,4788,1915,1379,1746,2022-11-03 16:37:56
 32136,Ford,Mustang,Mustang VI (facelift 2017),2018,Shelby GT350 R 5.2 V8 (526 Hp),Internal Combustion engine,526,7500,Petrol (Gasoline),Fastback,2,2017,2020,4816,1915,1361,1661,2022-11-03 16:43:38
 32137,Ford,Mustang,Mustang VI (facelift 2017),2018,GT 5.0 Ti-VCT V8 (460 Hp) SelectShift,Internal Combustion engine,460,5500,Petrol (Gasoline),Fastback,4,2017,2021,4788,1915,1379,1693,2022-11-04 08:33:38
@@ -20843,16 +20843,16 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 43519,Ford,Mustang,Mustang VI (facelift 2017),2018,Mach 1 5.0 Ti-VCT V8 (460 Hp) Automatic,Internal Combustion engine,460,7250,Petrol (Gasoline),Fastback,4,2020,2023,4797,1916,1382,1786,2022-11-03 16:47:23
 45543,Ford,Mustang,Mustang VI (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp),Internal Combustion engine,450,7000,Petrol (Gasoline),Fastback,4,2022,2023,4789,1916,1382,1669,2022-11-04 08:33:42
 45544,Ford,Mustang,Mustang VI (facelift 2017),2018,GT/CS 5.0 V8 (450 Hp) SelectShift,Internal Combustion engine,450,7000,Petrol (Gasoline),Fastback,4,2022,2023,4789,1916,1382,1682,2022-11-04 08:33:39
-19863,Ford,Mustang,Mustang Convertible VI,2015,2.3 EcoBoost (317 Hp) Automatic,Internal Combustion engine,317,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1718,2022-11-04 08:32:55
-19864,Ford,Mustang,Mustang Convertible VI,2015,GT 5.0 Ti-VCT V8 (421 Hp) Automatic,Internal Combustion engine,421,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1792,2022-11-03 16:13:52
-22131,Ford,Mustang,Mustang Convertible VI,2015,GT 5.0 Ti-VCT V8 (421 Hp),Internal Combustion engine,421,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1786,2022-11-03 16:13:51
-22132,Ford,Mustang,Mustang Convertible VI,2015,2.3 EcoBoost (317 Hp),Internal Combustion engine,317,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1715,2022-11-04 08:32:52
-31597,Ford,Mustang,Mustang Convertible VI,2015,2.3 EcoBoost (309 Hp),Internal Combustion engine,309,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-04 08:32:51
-31598,Ford,Mustang,Mustang Convertible VI,2015,2.3 EcoBoost (309 Hp) Automatic,Internal Combustion engine,309,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-04 08:32:52
-31603,Ford,Mustang,Mustang Convertible VI,2015,3.7 V6 (304 Hp),Internal Combustion engine,304,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:00
-31604,Ford,Mustang,Mustang Convertible VI,2015,3.7 V6 (304 Hp) Automatic,Internal Combustion engine,304,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:00
-31608,Ford,Mustang,Mustang Convertible VI,2015,GT 5.0 V8 (426 Hp),Internal Combustion engine,426,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:52
-31610,Ford,Mustang,Mustang Convertible VI,2015,GT 5.0 V8 (426 Hp) Automatic,Internal Combustion engine,426,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:53
+19863,Ford,Mustang,Mustang VI Convertible,2015,2.3 EcoBoost (317 Hp) Automatic,Internal Combustion engine,317,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1718,2022-11-04 08:32:55
+19864,Ford,Mustang,Mustang VI Convertible,2015,GT 5.0 Ti-VCT V8 (421 Hp) Automatic,Internal Combustion engine,421,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1792,2022-11-03 16:13:52
+22131,Ford,Mustang,Mustang VI Convertible,2015,GT 5.0 Ti-VCT V8 (421 Hp),Internal Combustion engine,421,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1786,2022-11-03 16:13:51
+22132,Ford,Mustang,Mustang VI Convertible,2015,2.3 EcoBoost (317 Hp),Internal Combustion engine,317,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4784,1916,1394,1715,2022-11-04 08:32:52
+31597,Ford,Mustang,Mustang VI Convertible,2015,2.3 EcoBoost (309 Hp),Internal Combustion engine,309,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-04 08:32:51
+31598,Ford,Mustang,Mustang VI Convertible,2015,2.3 EcoBoost (309 Hp) Automatic,Internal Combustion engine,309,5500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-04 08:32:52
+31603,Ford,Mustang,Mustang VI Convertible,2015,3.7 V6 (304 Hp),Internal Combustion engine,304,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:00
+31604,Ford,Mustang,Mustang VI Convertible,2015,3.7 V6 (304 Hp) Automatic,Internal Combustion engine,304,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:00
+31608,Ford,Mustang,Mustang VI Convertible,2015,GT 5.0 V8 (426 Hp),Internal Combustion engine,426,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:52
+31610,Ford,Mustang,Mustang VI Convertible,2015,GT 5.0 V8 (426 Hp) Automatic,Internal Combustion engine,426,6500,Petrol (Gasoline),Cabriolet,4,2015,2017,4783,1915,1394,,2022-11-03 16:13:53
 19861,Ford,Mustang,Mustang VI,2015,2.3 EcoBoost (317 Hp) Automatic,Internal Combustion engine,317,5500,Petrol (Gasoline),Fastback,4,2015,2017,4784,1916,1381,1653,2022-11-04 08:32:57
 19862,Ford,Mustang,Mustang VI,2015,GT 5.0 Ti-VCT V8 (421 Hp) Automatic,Internal Combustion engine,421,6500,Petrol (Gasoline),Fastback,4,2015,2017,4784,1916,1381,1732,2022-11-03 16:13:48
 22129,Ford,Mustang,Mustang VI,2015,GT 5.0 Ti-VCT V8 (421 Hp),Internal Combustion engine,421,6500,Petrol (Gasoline),Fastback,4,2015,2017,4784,1916,1381,1720,2022-11-03 16:13:48
@@ -20863,23 +20863,23 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 31621,Ford,Mustang,Mustang VI,2015,2.3 EcoBoost (309 Hp) Automatic,Internal Combustion engine,309,5500,Petrol (Gasoline),Fastback,4,2015,2017,4783,1915,1382,1598,2022-11-04 08:32:56
 31624,Ford,Mustang,Mustang VI,2015,3.7 V6 (304 Hp),Internal Combustion engine,304,6500,Petrol (Gasoline),Fastback,4,2015,2017,4783,1915,1382,1599,2022-11-03 16:09:22
 31626,Ford,Mustang,Mustang VI,2015,3.7 V6 (304 Hp) Automatic,Internal Combustion engine,304,6500,Petrol (Gasoline),Fastback,4,2015,2017,4783,1915,1382,1601,2022-11-03 16:09:22
-46058,Ford,Mustang,Mustang Convertible V (facelift 2012),2013,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1647,2022-10-11 12:10:53
-46059,Ford,Mustang,Mustang Convertible V (facelift 2012),2013,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1657,2022-10-11 12:10:53
-46062,Ford,Mustang,Mustang Convertible V (facelift 2012),2013,GT 5.0 V8 (420 Hp),Internal Combustion engine,420,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1694,2022-10-11 12:10:53
-46063,Ford,Mustang,Mustang Convertible V (facelift 2012),2013,GT 5.0 V8 (420 Hp) Automatic,Internal Combustion engine,420,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1720,2022-10-11 12:10:53
+46058,Ford,Mustang,Mustang V Convertible (facelift 2012),2013,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1647,2022-10-11 12:10:53
+46059,Ford,Mustang,Mustang V Convertible (facelift 2012),2013,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1657,2022-10-11 12:10:53
+46062,Ford,Mustang,Mustang V Convertible (facelift 2012),2013,GT 5.0 V8 (420 Hp),Internal Combustion engine,420,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1694,2022-10-11 12:10:53
+46063,Ford,Mustang,Mustang V Convertible (facelift 2012),2013,GT 5.0 V8 (420 Hp) Automatic,Internal Combustion engine,420,6500,Petrol (Gasoline),Cabriolet,4,2012,2014,4788,1877,1417,1720,2022-10-11 12:10:53
 46056,Ford,Mustang,Mustang V (facelift 2012),2013,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Coupe,4,2012,2014,4788,1877,1417,1588,2022-10-11 12:10:53
 46057,Ford,Mustang,Mustang V (facelift 2012),2013,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Coupe,4,2012,2014,4788,1877,1417,1598,2022-10-11 12:10:53
 46060,Ford,Mustang,Mustang V (facelift 2012),2013,GT 5.0 V8 (420 Hp),Internal Combustion engine,420,6500,Petrol (Gasoline),Coupe,4,2012,2014,4788,1877,1417,1641,2022-10-11 12:10:53
 46061,Ford,Mustang,Mustang V (facelift 2012),2013,GT 5.0 V8 (420 Hp) Automatic,Internal Combustion engine,420,6500,Petrol (Gasoline),Coupe,4,2012,2014,4788,1877,1417,1667,2022-10-11 12:10:53
 46065,Ford,Mustang,Mustang V (facelift 2012),2013,Boss 302 5.0 V8 (444 Hp),Internal Combustion engine,444,7400,Petrol (Gasoline),Coupe,4,2012,2013,4778,1877,1400,1647,2022-10-11 12:10:53
-46048,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,4.0 V6 (210 Hp),Internal Combustion engine,210,5300,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
-46049,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,4.0 V6 (210 Hp) Automatic,Internal Combustion engine,210,5300,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
-46050,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,GT 4.6 V8 (315 Hp),Internal Combustion engine,315,6000,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
-46051,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,GT 4.6 V8 (315 Hp) Automatic,Internal Combustion engine,315,6000,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
-46052,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,GT 5.0 V8 (412 Hp) Automatic,Internal Combustion engine,412,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1710,2022-10-11 12:10:53
-46053,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1627,2022-10-11 12:10:53
-46054,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1635,2022-10-11 12:10:53
-46055,Ford,Mustang,Mustang Convertible V (facelift 2009),2010,GT 5.0 V8 (412 Hp),Internal Combustion engine,412,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1687,2022-10-11 12:10:53
+46048,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,4.0 V6 (210 Hp),Internal Combustion engine,210,5300,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
+46049,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,4.0 V6 (210 Hp) Automatic,Internal Combustion engine,210,5300,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
+46050,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,GT 4.6 V8 (315 Hp),Internal Combustion engine,315,6000,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
+46051,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,GT 4.6 V8 (315 Hp) Automatic,Internal Combustion engine,315,6000,Petrol (Gasoline),Cabriolet,4,2009,2010,4778,1877,1425,,2022-10-11 12:10:53
+46052,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,GT 5.0 V8 (412 Hp) Automatic,Internal Combustion engine,412,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1710,2022-10-11 12:10:53
+46053,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1627,2022-10-11 12:10:53
+46054,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1635,2022-10-11 12:10:53
+46055,Ford,Mustang,Mustang V Convertible (facelift 2009),2010,GT 5.0 V8 (412 Hp),Internal Combustion engine,412,6500,Petrol (Gasoline),Cabriolet,4,2010,2012,4778,1877,1417,1687,2022-10-11 12:10:53
 16692,Ford,Mustang,Mustang V (facelift 2009),2010,3.7 V6 (305 Hp),Internal Combustion engine,305,6500,Petrol (Gasoline),Coupe,4,2010,2012,4778,1877,1417,1566,2022-10-11 12:10:53
 23894,Ford,Mustang,Mustang V (facelift 2009),2010,3.7 V6 (305 Hp) Automatic,Internal Combustion engine,305,6500,Petrol (Gasoline),Coupe,4,2010,2012,4778,1877,1417,1575,2022-10-11 12:10:53
 46033,Ford,Mustang,Mustang V (facelift 2009),2010,4.0 V6 (210 Hp),Internal Combustion engine,210,5300,Petrol (Gasoline),Coupe,4,2009,2010,4778,1877,1412,1543,2022-10-11 12:10:53
@@ -20889,21 +20889,21 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46039,Ford,Mustang,Mustang V (facelift 2009),2010,GT 5.0 V8 (412 Hp),Internal Combustion engine,412,6500,Petrol (Gasoline),Coupe,4,2010,2012,4778,1877,1417,1635,2022-10-11 12:10:53
 46040,Ford,Mustang,Mustang V (facelift 2009),2010,GT 5.0 V8 (412 Hp) Automatic,Internal Combustion engine,412,6500,Petrol (Gasoline),Coupe,4,2010,2012,4778,1877,1417,1657,2022-10-11 12:10:53
 46064,Ford,Mustang,Mustang V (facelift 2009),2010,Boss 302 5.0 V8 (444 Hp),Internal Combustion engine,444,7400,Petrol (Gasoline),Coupe,4,2011,2012,4778,1877,1400,1647,2022-10-11 12:10:53
-7776,Ford,Mustang,Mustang Convertible V,2005,4.0 i V6 12V (212 Hp),Internal Combustion engine,212,5200,Petrol (Gasoline),Cabriolet,4,2005,2009,4765,1877,1415,1625,2022-11-04 08:47:17
-7777,Ford,Mustang,Mustang Convertible V,2005,4.6 i V8 24V (304 Hp),Internal Combustion engine,304,5750,Petrol (Gasoline),Cabriolet,4,2005,2009,4765,1877,1415,1685,2022-11-04 08:48:24
+7776,Ford,Mustang,Mustang V Convertible,2005,4.0 i V6 12V (212 Hp),Internal Combustion engine,212,5200,Petrol (Gasoline),Cabriolet,4,2005,2009,4765,1877,1415,1625,2022-11-04 08:47:17
+7777,Ford,Mustang,Mustang V Convertible,2005,4.6 i V8 24V (304 Hp),Internal Combustion engine,304,5750,Petrol (Gasoline),Cabriolet,4,2005,2009,4765,1877,1415,1685,2022-11-04 08:48:24
 7773,Ford,Mustang,Mustang V,2005,4.0i V6 (205 Hp),Internal Combustion engine,205,5250,Petrol (Gasoline),Coupe,4,2004,2005,4765,1875,1385,1495,2022-11-04 08:47:23
 7774,Ford,Mustang,Mustang V,2005,4.0i V6 12V (212 Hp),Internal Combustion engine,212,5200,Petrol (Gasoline),Coupe,4,2005,2009,4765,1875,1385,1530,2022-11-04 08:47:20
 7775,Ford,Mustang,Mustang V,2005,GT 4.6i V8 (304 Hp),Internal Combustion engine,304,6000,Petrol (Gasoline),Coupe,4,2004,2009,4765,1875,1385,1565,2022-11-04 08:48:23
 29229,Ford,Mustang,Mustang V,2005,4.0i V6 12V (212 Hp) Automatic,Internal Combustion engine,212,5200,Petrol (Gasoline),Coupe,4,2005,2009,4765,1875,1385,1530,2022-11-04 08:47:19
-7778,Ford,Mustang,Mustang Convertible IV,1994,3.8 V6 (147 Hp),Internal Combustion engine,147,4000,Petrol (Gasoline),Cabriolet,4,1993,1997,4610,1823,1341,1472,2022-11-04 09:29:03
-7779,Ford,Mustang,Mustang Convertible IV,1994,3.8 V6 (190 Hp),Internal Combustion engine,190,5250,Petrol (Gasoline),Cabriolet,4,1998,2005,4653,1857,1351,1453,2022-11-04 09:29:00
-7780,Ford,Mustang,Mustang Convertible IV,1994,3.8 V6 GT (152 Hp),Internal Combustion engine,152,4000,Petrol (Gasoline),Cabriolet,4,1998,1999,4610,1820,1360,1455,2022-11-04 09:29:00
-7781,Ford,Mustang,Mustang Convertible IV,1994,4.6 i V8 32V Cobra R (390 Hp),Internal Combustion engine,390,6000,Petrol (Gasoline),Cabriolet,4,2003,2005,4661,1857,1344,1745,2022-11-28 16:01:46
-7782,Ford,Mustang,Mustang Convertible IV,1994,4.6 V8 32V Cobra (324 Hp),Internal Combustion engine,324,6000,Petrol (Gasoline),Cabriolet,4,1999,2005,4653,1857,1350,1615,2022-11-04 09:23:23
-7783,Ford,Mustang,Mustang Convertible IV,1994,4.6 V8 GT (215 Hp),Internal Combustion engine,215,4400,Petrol (Gasoline),Cabriolet,4,1995,1997,4610,1824,1356,1554,2022-11-04 09:34:03
-7784,Ford,Mustang,Mustang Convertible IV,1994,4.6 V8 GT (228 Hp),Internal Combustion engine,228,4750,Petrol (Gasoline),Cabriolet,4,1998,2005,4635,1820,1360,1550,2022-11-04 09:35:41
-7785,Ford,Mustang,Mustang Convertible IV,1994,4.6 V8 GT (263 Hp),Internal Combustion engine,263,5250,Petrol (Gasoline),Cabriolet,4,1998,2005,4653,1857,1351,1531,2022-11-04 09:54:32
-7786,Ford,Mustang,Mustang Convertible IV,1994,5.0 GT (218 Hp),Internal Combustion engine,218,4200,Petrol (Gasoline),Cabriolet,4,1993,1995,4610,1823,1341,1566,2022-11-04 09:17:13
+7778,Ford,Mustang,Mustang IV Convertible,1994,3.8 V6 (147 Hp),Internal Combustion engine,147,4000,Petrol (Gasoline),Cabriolet,4,1993,1997,4610,1823,1341,1472,2022-11-04 09:29:03
+7779,Ford,Mustang,Mustang IV Convertible,1994,3.8 V6 (190 Hp),Internal Combustion engine,190,5250,Petrol (Gasoline),Cabriolet,4,1998,2005,4653,1857,1351,1453,2022-11-04 09:29:00
+7780,Ford,Mustang,Mustang IV Convertible,1994,3.8 V6 GT (152 Hp),Internal Combustion engine,152,4000,Petrol (Gasoline),Cabriolet,4,1998,1999,4610,1820,1360,1455,2022-11-04 09:29:00
+7781,Ford,Mustang,Mustang IV Convertible,1994,4.6 i V8 32V Cobra R (390 Hp),Internal Combustion engine,390,6000,Petrol (Gasoline),Cabriolet,4,2003,2005,4661,1857,1344,1745,2022-11-28 16:01:46
+7782,Ford,Mustang,Mustang IV Convertible,1994,4.6 V8 32V Cobra (324 Hp),Internal Combustion engine,324,6000,Petrol (Gasoline),Cabriolet,4,1999,2005,4653,1857,1350,1615,2022-11-04 09:23:23
+7783,Ford,Mustang,Mustang IV Convertible,1994,4.6 V8 GT (215 Hp),Internal Combustion engine,215,4400,Petrol (Gasoline),Cabriolet,4,1995,1997,4610,1824,1356,1554,2022-11-04 09:34:03
+7784,Ford,Mustang,Mustang IV Convertible,1994,4.6 V8 GT (228 Hp),Internal Combustion engine,228,4750,Petrol (Gasoline),Cabriolet,4,1998,2005,4635,1820,1360,1550,2022-11-04 09:35:41
+7785,Ford,Mustang,Mustang IV Convertible,1994,4.6 V8 GT (263 Hp),Internal Combustion engine,263,5250,Petrol (Gasoline),Cabriolet,4,1998,2005,4653,1857,1351,1531,2022-11-04 09:54:32
+7786,Ford,Mustang,Mustang IV Convertible,1994,5.0 GT (218 Hp),Internal Combustion engine,218,4200,Petrol (Gasoline),Cabriolet,4,1993,1995,4610,1823,1341,1566,2022-11-04 09:17:13
 7787,Ford,Mustang,Mustang IV,1994,3.8 V6 (147 Hp),Internal Combustion engine,147,4000,Petrol (Gasoline),Coupe,4,1993,1997,4610,1823,1342,1390,2022-11-04 09:29:03
 7788,Ford,Mustang,Mustang IV,1994,3.8 V6 (152 Hp),Internal Combustion engine,152,4000,Petrol (Gasoline),Coupe,4,1993,1997,4610,1820,1350,1390,2022-11-04 09:29:05
 7789,Ford,Mustang,Mustang IV,1994,3.8 V6 (190 Hp),Internal Combustion engine,190,5250,Petrol (Gasoline),Coupe,4,1998,2004,4653,1857,1354,1390,2022-11-04 09:29:10
@@ -20914,24 +20914,24 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 7794,Ford,Mustang,Mustang IV,1994,4.6 V8 GT (215 Hp),Internal Combustion engine,215,4400,Petrol (Gasoline),Coupe,4,1995,1997,4610,1824,1356,1493,2022-11-04 09:33:54
 7795,Ford,Mustang,Mustang IV,1994,4.6 V8 GT (263 Hp),Internal Combustion engine,263,5250,Petrol (Gasoline),Coupe,4,1998,2004,4653,1857,1357,1530,2022-11-04 09:54:32
 7796,Ford,Mustang,Mustang IV,1994,5.0 GT (218 Hp),Internal Combustion engine,218,4200,Petrol (Gasoline),Coupe,4,1993,1995,4610,1823,1342,1486,2022-11-04 09:13:41
-7799,Ford,Mustang,Mustang Convertible III,1979,2.3i (106 Hp),Internal Combustion engine,106,4600,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1340,2022-10-11 12:09:39
-7800,Ford,Mustang,Mustang Convertible III,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1380,2022-10-11 12:09:39
+7799,Ford,Mustang,Mustang III Convertible,1979,2.3i (106 Hp),Internal Combustion engine,106,4600,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1340,2022-10-11 12:09:39
+7800,Ford,Mustang,Mustang III Convertible,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1380,2022-10-11 12:09:39
 7797,Ford,Mustang,Mustang III,1979,2.3i (106 Hp),Internal Combustion engine,106,4600,Petrol (Gasoline),Coupe,2,1978,1993,4560,1735,1320,1250,2022-10-11 12:09:39
 7798,Ford,Mustang,Mustang III,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Coupe,4,1983,1993,4560,1735,1320,1380,2022-10-11 12:09:39
-42573,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,4.1 (145 Hp),Internal Combustion engine,145,4000,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1283,1456,2023-07-24 11:06:57
-42825,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,4.9 V8 (210 Hp),Internal Combustion engine,210,4600,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:55
-42844,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,5.8 V8 (285 Hp),Internal Combustion engine,285,5400,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:13
-42851,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,5.8 V8 (240 Hp),Internal Combustion engine,240,5400,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:55
-42896,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,7.0 Cobra Jet V8 (370 Hp),Internal Combustion engine,370,5200,Petrol (Gasoline),Cabriolet,4,1970,1971,4813,1882,1290,,2023-07-24 11:06:58
-42897,Ford,Mustang,Mustang Convertible I (facelift 1970),1971,7.0 Super Cobra Jet V8 (375 Hp),Internal Combustion engine,375,5200,Petrol (Gasoline),Cabriolet,4,1970,1971,4813,1882,1290,,2023-07-24 11:06:59
-7801,Ford,Mustang,Mustang Convertible I,1965,2.8 V6 (101 Hp),Internal Combustion engine,101,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:25
-7802,Ford,Mustang,Mustang Convertible I,1965,4.3 V8 (164 Hp),Internal Combustion engine,164,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:23
-7803,Ford,Mustang,Mustang Convertible I,1965,4.7 V8 (210 Hp),Internal Combustion engine,210,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:24
-7804,Ford,Mustang,Mustang Convertible I,1965,4.7 V8 (271 Hp),Internal Combustion engine,271,6000,Petrol (Gasoline),Cabriolet,4,1964,1967,4613,1732,1298,1243,2023-07-24 11:06:26
-7805,Ford,Mustang,Mustang I,1965,2.8 V6 (101 Hp),Internal Combustion engine,101,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1162,2023-07-24 11:06:21
-7806,Ford,Mustang,Mustang I,1965,4.3 V8 (164 Hp),Internal Combustion engine,164,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1116,2023-07-24 11:06:22
-7807,Ford,Mustang,Mustang I,1965,4.7 V8 (210 Hp),Internal Combustion engine,210,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1116,2023-07-24 11:06:22
-7808,Ford,Mustang,Mustang I,1965,4.7 V8 (271 Hp),Internal Combustion engine,271,6000,Petrol (Gasoline),Coupe,4,1964,1967,4613,1732,1298,1116,2023-07-24 11:06:22
+42573,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,4.1 (145 Hp),Internal Combustion engine,145,4000,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1283,1456,2023-07-24 11:06:57
+42825,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,4.9 V8 (210 Hp),Internal Combustion engine,210,4600,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:55
+42844,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,5.8 V8 (285 Hp),Internal Combustion engine,285,5400,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:13
+42851,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,5.8 V8 (240 Hp),Internal Combustion engine,240,5400,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:55
+42896,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,7.0 Cobra Jet V8 (370 Hp),Internal Combustion engine,370,5200,Petrol (Gasoline),Cabriolet,4,1970,1971,4813,1882,1290,,2023-07-24 11:06:58
+42897,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,7.0 Super Cobra Jet V8 (375 Hp),Internal Combustion engine,375,5200,Petrol (Gasoline),Cabriolet,4,1970,1971,4813,1882,1290,,2023-07-24 11:06:59
+7801,Ford,Mustang,Mustang I Convertible,1965,2.8 V6 (101 Hp),Internal Combustion engine,101,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:25
+7802,Ford,Mustang,Mustang I Convertible,1965,4.3 V8 (164 Hp),Internal Combustion engine,164,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:23
+7803,Ford,Mustang,Mustang I Convertible,1965,4.7 V8 (210 Hp),Internal Combustion engine,210,4400,Petrol (Gasoline),Cabriolet,4,1964,1964,4613,1732,1298,1243,2023-07-24 11:06:24
+7804,Ford,Mustang,Mustang I Convertible,1965,4.7 V8 (271 Hp),Internal Combustion engine,271,6000,Petrol (Gasoline),Cabriolet,4,1964,1967,4613,1732,1298,1243,2023-07-24 11:06:26
+7805,Ford,Mustang,Mustang I Hardtop,1965,2.8 V6 (101 Hp),Internal Combustion engine,101,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1162,2023-07-24 11:06:21
+7806,Ford,Mustang,Mustang I Hardtop,1965,4.3 V8 (164 Hp),Internal Combustion engine,164,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1116,2023-07-24 11:06:22
+7807,Ford,Mustang,Mustang I Hardtop,1965,4.7 V8 (210 Hp),Internal Combustion engine,210,4400,Petrol (Gasoline),Coupe,4,1964,1964,4613,1732,1298,1116,2023-07-24 11:06:22
+7808,Ford,Mustang,Mustang I Hardtop,1965,4.7 V8 (271 Hp),Internal Combustion engine,271,6000,Petrol (Gasoline),Coupe,4,1964,1967,4613,1732,1298,1116,2023-07-24 11:06:22
 7809,Ford,Taunus,Taunus 80 Turnier (GBNS),1979,1.6 (70 Hp),Internal Combustion engine,70,,Petrol (Gasoline),Station wagon (estate),,1979,1982,,,,,2021-12-03 11:53:43
 7810,Ford,Taunus,Taunus 80 Turnier (GBNS),1979,1.6 (73 Hp),Internal Combustion engine,73,,Petrol (Gasoline),Station wagon (estate),,1979,1982,,,,,2021-12-03 11:53:43
 7811,Ford,Taunus,Taunus 80 Turnier (GBNS),1979,2.0 (100 Hp),Internal Combustion engine,100,,Petrol (Gasoline),Station wagon (estate),,1979,1982,,,,,2021-12-03 11:53:43
@@ -31775,8 +31775,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54336,Geely,X3,X3,2018,1.5L (102 Hp) Automatic,Internal Combustion engine,102,6000,Petrol (Gasoline),CUV,5,2017,2021,4005,1760,1575,1206,2025-05-20 16:20:19
 54337,Geely,X3,X3,2018,1.5L (109 Hp),Internal Combustion engine,109,6000,Petrol (Gasoline),CUV,5,2019,2021,4005,1760,1575,1180,2025-05-20 16:20:19
 54338,Geely,X3,X3,2018,1.5L (109 Hp) CVT,Internal Combustion engine,109,6000,Petrol (Gasoline),CUV,5,2019,2021,4005,1760,1575,1215,2025-05-20 16:20:19
-54851,Geely,Xingyuan,Xingyuan,2025,30.12 kWh (79 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2025-07-10 16:16:55
-54852,Geely,Xingyuan,Xingyuan,2025,40.16 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2025-07-10 16:16:55
+54851,Geely,Xingyuan,Xingyuan,2025,30.12 kWh (79 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-07-14 15:21:49
+54852,Geely,Xingyuan,Xingyuan,2025,40.16 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-07-14 15:22:16
+57478,Geely,Xingyuan,Xingyuan,2025,47.14 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1570,,2026-07-14 16:16:24
 55298,Geely,Galaxy Wing L380,Galaxy Wing L380,2025,100 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,6,2025,,5316,1998,1940,2805,2025-09-05 16:24:42
 55299,Geely,Galaxy Wing L380,Galaxy Wing L380,2025,116 kWh (544 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Minivan,6-8,2025,,5316,1998,1920,3100,2025-09-05 16:24:42
 55300,Geely,Galaxy Wing L380,Galaxy Wing L380,2025,140 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,6,2025,,5316,1998,1920,3025,2025-09-05 16:24:42
@@ -31786,6 +31787,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55614,Geely,Galaxy M9,Galaxy M9,2025,1.5T 41.46 kWh (870 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),163,5000,Petrol / electricity,SUV,6,2025,,5205,1999,1800,2530,2025-10-23 16:24:05
 56631,Geely,Starray EM-i,Starray EM-i,2026,1.5L (262 Hp) Plug-in Hybrid E-DHT,PHEV (Plug-in Hybrid Electric Vehicle),99,,Petrol / electricity,SUV,5,2026,,4740,1905,1685,1730-1770,2026-03-06 16:06:06
 56633,Geely,Cityray,Cityray,2025,1.5T (174 Hp) DCT,Internal Combustion engine,174,5500,Petrol (Gasoline),Crossover,5,2025,,4510,1865,1650,1470,2026-03-06 16:06:06
+57477,Geely,E2,E2,2026,39.4 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1580,1300,2026-07-14 16:16:24
 10111,Mahindra,Ambulance,Ambulance,1990,2.5 D (73 Hp),Internal Combustion engine,73,,Diesel,Off-road vehicle,,1990,2000,,,,,2023-07-31 13:43:09
 10112,Mahindra,CJ 3 Wagon,CJ 3 Wagon,1988,2.1 D (63 Hp),Internal Combustion engine,63,,Diesel,Off-road vehicle,,1988,1992,,,,,2023-07-31 13:43:09
 10113,Mahindra,CJ 3 Wagon,CJ 3 Wagon,1988,2.2 (72 Hp),Internal Combustion engine,72,,Petrol (Gasoline),Off-road vehicle,,1988,1992,,,,,2021-12-03 11:53:43
@@ -39078,7 +39080,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 41188,Mercedes-Benz,SL,SL Roadster (W198 II),1957,300 SL (215 Hp),Internal Combustion engine,215,5800,Petrol (Gasoline),Roadster,2,1957,1963,4570,1790,1300,1330,2024-03-20 11:26:35
 40877,Mercedes-Benz,SL,SL Roadster (W121),1955,190 SL (105 Hp),Internal Combustion engine,105,5700,Petrol (Gasoline),Roadster,3,1955,1963,4220,1740,1320,1140,2024-03-20 11:01:40
 41187,Mercedes-Benz,SL,SL Coupe (W198),1954,300 SL (215 Hp),Internal Combustion engine,215,5800,Petrol (Gasoline),Coupe,2,1954,1957,4520,1790,1300,1295,2024-03-20 11:26:38
-56857,Mercedes-Benz,C-class,C-class (W520),2027,C 400 94.5 kWh (490 Hp) 4MATIC Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4883,1892,1503,2385,2026-04-21 16:09:36
+56857,Mercedes-Benz,C-class,C-class (W520),2027,C 400 94.5 kWh (490 Hp) 4MATIC Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4883,1892,1503,2385,2026-07-14 09:15:29
 44924,Mercedes-Benz,C-class,C-class All-Terrain,2022,C 220d (200 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",200,4200,Diesel,"Station wagon (estate), Crossover",5,2021,,4755,1841,1494,1800,2024-05-14 12:05:05
 44925,Mercedes-Benz,C-class,C-class All-Terrain,2022,C 200 (204 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,5800-6100,Petrol (Gasoline),"Station wagon (estate), Crossover",5,2021,,4755,1841,1494,1720,2024-05-14 12:04:59
 42350,Mercedes-Benz,C-class,C-class T-modell (S206),2021,C 200 (204 Hp) EQ Boost 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,5800-6100,Petrol (Gasoline),Station wagon (estate),5,2021,,4751,1820,1454,1635,2025-04-11 12:24:32
@@ -41576,8 +41578,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55723,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
 55724,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 220 (211 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
 55725,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 220 (211 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
-53915,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1980,2025-10-15 11:04:30
-53916,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2026-07-10 09:23:34
+53915,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1980,2026-07-14 10:10:50
+53916,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2026-07-14 10:11:56
 55544,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2026-07-09 11:37:59
 57456,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4723,1855,1468,1980,2026-07-09 10:16:50
 57464,Mercedes-Benz,CLA,CLA Saloon (C174),2025,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Sedan,4,2026,,4742,1859,1469,2280,2026-07-10 09:35:48
@@ -55169,6 +55171,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54438,DR,PK8,PK8,2023,2.0 CTI (136 Hp) 4WD,Internal Combustion engine,136,3600,Diesel,Pick-up,5,2023,,5315,1830,1815,2040,2025-05-30 16:15:38
 57462,DR,5,5,2026,Collection 1.5 (95/88 Hp) LPG,Internal Combustion engine,95,5500,Petrol / LPG,SUV,5,2026,,4318,1831,1662,1326-1346,2026-07-09 16:19:01
 57463,DR,5,5,2026,Collection 1.5 (204 Hp) Full Hybrid DHT,FHEV (Full Hybrid Electric Vehicle),95,6000,Petrol (Gasoline),SUV,5,2026,,4320,1831,1653,1550,2026-07-09 16:19:01
+57476,DR,5,5,2026,Stilnovo 1.4 TGDI (158/154 Hp) LPG DCT,Internal Combustion engine,158,5500,Petrol / LPG,SUV,5,2026,,4330,1825,1660,1420-1460,2026-07-14 16:16:24
 35760,MINEmobility,City EV,City EV Concept,2018,20 kWh (68 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,2,2018,,3250,1750,1600,900,2022-11-03 20:39:27
 35759,MINEmobility,Sport EV,Sport EV Concept,2018,45 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,Coupe,,2018,,4300,1700,1200,1100,2022-11-03 20:39:27
 35761,MINEmobility,MPV EV,MPV EV Concept,2018,30 kWh (109 Hp),BEV (Electric Vehicle),,,Electricity,MPV,5,2018,,4100,1750,1660,1200,2022-11-03 20:39:27
