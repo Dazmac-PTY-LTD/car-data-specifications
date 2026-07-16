@@ -3489,6 +3489,90 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-15 10:06:59",
+        "name": "EX2",
+        "id": "4087",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-15 10:07:25",
+              "name": "EX2",
+              "modelYear": "2025",
+              "id": "11375",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57486",
+                    "update": "2026-07-15 14:16:11",
+                    "brand": "Geely",
+                    "model": "EX2",
+                    "generation": "EX2",
+                    "engine": "40.8 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2024",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "rideHeight": "161-162",
+                    "rideHeightMin": "161",
+                    "rideHeightMax": "162",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-15 11:51:29",
+        "name": "Galaxy M7",
+        "id": "4088",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-15 11:51:56",
+              "name": "Galaxy M7",
+              "modelYear": "2026",
+              "id": "11376",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57487",
+                    "update": "2026-07-15 14:16:11",
+                    "brand": "Geely",
+                    "model": "Galaxy M7",
+                    "generation": "Galaxy M7",
+                    "engine": "EM-i 1.5L (238 Hp) Plug-in Hybrid E-DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "111",
+                    "powerHp": "111",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4770",
+                    "width": "1905",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
