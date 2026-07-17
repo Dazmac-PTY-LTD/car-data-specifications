@@ -576,6 +576,46 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-16 15:19:20",
+        "name": "E05",
+        "id": "4089",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-16 15:19:40",
+              "name": "E05",
+              "modelYear": "2023",
+              "id": "11378",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57493",
+                    "update": "2026-07-16 16:16:17",
+                    "brand": "Bestune",
+                    "model": "E05",
+                    "generation": "E05",
+                    "engine": "54 kWh (163 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2023",
+                    "coupe": "Minivan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1840",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "fuel": "Electricity",
+                    "curbWeight": "1700",
+                    "curbWeightMin": "1700"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

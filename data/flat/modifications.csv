@@ -2788,6 +2788,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56001,Tata,Sierra,Sierra II,2026,1.5L Hyperion (160 Hp) Automatic,Internal Combustion engine,160,5000,Petrol (Gasoline),SUV,5,2025,,4340,1841,1715,,2025-12-12 16:16:14
 56002,Tata,Sierra,Sierra II,2026,1.5L Kryojet (118 Hp),Internal Combustion engine,118,4000,Diesel,SUV,5,2025,,4340,1841,1715,,2025-12-12 16:16:14
 56003,Tata,Sierra,Sierra II,2026,1.5L Kryojet (118 Hp) Automatic,Internal Combustion engine,118,4000,Diesel,SUV,5,2025,,4340,1841,1715,,2025-12-12 16:16:14
+57490,Tata,Sierra,Sierra II,2026,63 kWh (238 Hp) EV,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4340,1841,1750,,2026-07-16 16:16:17
+57491,Tata,Sierra,Sierra II,2026,75 kWh (209 Hp) EV,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4340,1841,1750,,2026-07-16 16:16:17
+57492,Tata,Sierra,Sierra II,2026,75 kWh (349 Hp) EV QWD Dual Motor,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4340,1841,1750,,2026-07-16 16:16:17
 1220,Tata,Sierra,Sierra I,1991,1.9 D (68 Hp),Internal Combustion engine,68,4500,Diesel,Off-road vehicle,5,1991,2000,4410,1710,1770,1520,2022-10-11 12:09:39
 1221,Tata,Sierra,Sierra I,1991,1.9 TD (90 Hp),Internal Combustion engine,90,4300,Diesel,Off-road vehicle,5,1997,2000,4400,1710,1770,1600,2022-10-11 12:09:39
 36558,Tata,Sumo,Sumo Gold,2011,3.0 CR4 (85 Hp) 4WD,Internal Combustion engine,85,3000,Diesel,Off-road vehicle,7-9,2011,2013,4258,1700,1925,,2023-06-19 09:41:30
@@ -27449,6 +27452,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55137,Volkswagen,Tera,Tera,2026,1.0 TSI (109 Hp) Tiptronic,Internal Combustion engine,109,5000,Petrol (Gasoline),SUV,5,2025,,4151,1777,1504,,2025-08-19 16:15:35
 55138,Volkswagen,Tera,Tera,2026,1.0 TSI (109/116 Hp) TOTALFLEX,Internal Combustion engine,109,5000,Petrol / Ethanol - E100,SUV,5,2025,,4151,1777,1504,1130,2025-08-21 08:53:14
 55139,Volkswagen,Tera,Tera,2026,1.0 TSI (109/116 Hp) TOTALFLEX Tiptronic,Internal Combustion engine,109,5000,Petrol / Ethanol - E100,SUV,5,2025,,4151,1777,1504,1169,2025-08-21 08:53:03
+57489,Volkswagen,ID. Cross,ID. Cross,2027,55 kWh (211 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,4153,1794,1581,1631,2026-07-16 16:16:17
 56921,Volkswagen,ID.ERA 9X,ID.ERA 9X,2026,1.5 TSI 51.1 kWh (503 Hp) Plug-in Hybrid AWD,PHEV (Plug-in Hybrid Electric Vehicle),143,4500,Petrol / electricity,SUV,6,2026,,5207,1997,1810,2680,2026-04-29 14:10:22
 56922,Volkswagen,ID.ERA 9X,ID.ERA 9X,2026,1.5 TSI 65.2 kWh (517 Hp) Plug-in Hybrid AWD,PHEV (Plug-in Hybrid Electric Vehicle),143,4500,Petrol / electricity,SUV,6,2026,,5207,1997,1810,2700,2026-04-29 14:10:22
 56924,Volkswagen,ID. Polo,ID. Polo,2026,55 kWh (211 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4053,1816,1530,1501,2026-06-05 08:51:38
@@ -55007,6 +55011,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56724,Bestune,T55,T55,2022,1.5T (160 Hp) DCT,Internal Combustion engine,160,5500,Petrol (Gasoline),SUV,5,2021,2025,4437,1850,1625,1485,2026-03-18 14:16:05
 56725,Bestune,T33,T33,2021,1.6L (114 Hp) Automatic,Internal Combustion engine,114,,Petrol (Gasoline),SUV,5,2021,,4330,1780,1680,1345,2026-03-18 14:16:05
 56731,Bestune,Xiaoma,Xiaoma,2025,13.9 kWh (27 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2025,,3000,1510,1630,,2026-03-19 16:16:06
+57493,Bestune,E05,E05,2023,54 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,5,2023,,4450,1840,1680,1700,2026-07-16 16:16:17
 35286,HSV,Avalanche,Avalanche XUV,2003,5.7 V8 (367 Hp) 4WD Automatic,Internal Combustion engine,367,,Petrol (Gasoline),"Pick-up, SUV",5,2003,2005,5323,,1542,1985,2021-12-03 11:53:43
 35288,HSV,Avalanche,Avalanche,2003,5.7 V8 (367 Hp) 4WD Automatic,Internal Combustion engine,367,5700,Petrol (Gasoline),SUV,5,2003,2005,5106,1942,1654,2026,2021-12-03 11:53:43
 35277,HSV,Calais,Calais SV88,1988,5.0 V8 (185 Hp) Automatic,Internal Combustion engine,185,4400,Petrol (Gasoline),Sedan,5,1987,1988,4766,1722,1368,1379,2021-12-03 11:53:43

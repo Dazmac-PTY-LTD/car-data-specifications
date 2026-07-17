@@ -112143,7 +112143,29 @@
               "modelYear": "2027",
               "id": "11377",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57489",
+                    "update": "2026-07-16 16:16:17",
+                    "brand": "Volkswagen",
+                    "model": "ID. Cross",
+                    "generation": "ID. Cross",
+                    "engine": "55 kWh (211 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4153",
+                    "width": "1794",
+                    "widthOpenedMirrors": "2000",
+                    "height": "1581",
+                    "heightMin": "1581",
+                    "fuel": "Electricity",
+                    "curbWeight": "1631",
+                    "curbWeightMin": "1631"
+                  }
+                ]
               }
             },
             {
