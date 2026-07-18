@@ -1447,6 +1447,85 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-17 10:23:15",
+        "name": "Mona L03",
+        "id": "4090",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-17 10:23:41",
+              "name": "Mona L03",
+              "modelYear": "2027",
+              "id": "11379",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57502",
+                    "update": "2026-07-17 16:13:29",
+                    "brand": "XPENG",
+                    "model": "Mona L03",
+                    "generation": "Mona L03",
+                    "engine": "56 kWh (249 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1920",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57503",
+                    "update": "2026-07-17 16:13:29",
+                    "brand": "XPENG",
+                    "model": "Mona L03",
+                    "generation": "Mona L03",
+                    "engine": "69 kWh (249 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1920",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57504",
+                    "update": "2026-07-17 16:13:29",
+                    "brand": "XPENG",
+                    "model": "Mona L03",
+                    "generation": "Mona L03",
+                    "engine": "1.5L 37.2 kWh (249 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "92",
+                    "powerHp": "92",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1920",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
