@@ -2406,6 +2406,111 @@
                     "fuel": "Electricity",
                     "curbWeight": "1765",
                     "curbWeightMin": "1765"
+                  },
+                  {
+                    "id": "57505",
+                    "update": "2026-07-20 16:16:54",
+                    "brand": "Proton",
+                    "model": "e.MAS 7",
+                    "generation": "e.MAS 7",
+                    "engine": "1.5L 18.4 kWh (262 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "99",
+                    "powerHp": "99",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1905",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1735-1760",
+                    "curbWeightMin": "1735",
+                    "curbWeightMax": "1760"
+                  },
+                  {
+                    "id": "57506",
+                    "update": "2026-07-20 16:16:54",
+                    "brand": "Proton",
+                    "model": "e.MAS 7",
+                    "generation": "e.MAS 7",
+                    "engine": "1.5L 29.8 kWh (262 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "99",
+                    "powerHp": "99",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4740",
+                    "width": "1905",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1835",
+                    "curbWeightMin": "1835"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-20 12:22:10",
+        "name": "e.MAS 5",
+        "id": "4091",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-20 12:26:12",
+              "name": "e.MAS 5",
+              "modelYear": "2026",
+              "id": "11380",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57507",
+                    "update": "2026-07-20 16:16:54",
+                    "brand": "Proton",
+                    "model": "e.MAS 5",
+                    "generation": "e.MAS 5",
+                    "engine": "30.12 kWh (79 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "fuel": "Electricity",
+                    "curbWeight": "1230",
+                    "curbWeightMin": "1230"
+                  },
+                  {
+                    "id": "57508",
+                    "update": "2026-07-20 16:16:54",
+                    "brand": "Proton",
+                    "model": "e.MAS 5",
+                    "generation": "e.MAS 5",
+                    "engine": "40.16 kWh (116 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4135",
+                    "width": "1805",
+                    "height": "1580",
+                    "heightMin": "1580",
+                    "fuel": "Electricity",
+                    "curbWeight": "1305",
+                    "curbWeightMin": "1305"
                   }
                 ]
               }
