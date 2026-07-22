@@ -1036,6 +1036,80 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-21 09:19:49",
+        "name": "G700",
+        "id": "4093",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-21 09:23:37",
+              "name": "G700",
+              "modelYear": "2026",
+              "id": "11382",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57510",
+                    "update": "2026-07-21 10:27:23",
+                    "brand": "Jetour",
+                    "model": "G700",
+                    "generation": "G700",
+                    "engine": "2.0TD (904 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "211/5200",
+                    "powerHp": "211",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5198",
+                    "width": "2050",
+                    "height": "1956",
+                    "heightMin": "1956",
+                    "rideHeight": "230",
+                    "rideHeightMin": "230",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3063-3121",
+                    "curbWeightMin": "3063",
+                    "curbWeightMax": "3121"
+                  },
+                  {
+                    "id": "57511",
+                    "update": "2026-07-21 10:58:09",
+                    "brand": "Jetour",
+                    "model": "G700",
+                    "generation": "G700",
+                    "engine": "2.0TD (904 Hp) Plug-in Hybrid 4WD DHT 6 Seat",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "211/5200",
+                    "powerHp": "211",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5198",
+                    "width": "2050",
+                    "height": "1956",
+                    "heightMin": "1956",
+                    "rideHeight": "230",
+                    "rideHeightMin": "230",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3176-3211",
+                    "curbWeightMin": "3176",
+                    "curbWeightMax": "3211"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

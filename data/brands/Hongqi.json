@@ -1151,6 +1151,89 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-21 12:08:58",
+        "name": "Guoya",
+        "id": "4094",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-21 12:09:11",
+              "name": "Guoya",
+              "modelYear": "2025",
+              "id": "11384",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57517",
+                    "update": "2026-07-21 16:00:03",
+                    "brand": "Hongqi",
+                    "model": "Guoya",
+                    "generation": "Guoya",
+                    "engine": "4.0 V8 (585 Hp) Hybrid 4WD Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "476",
+                    "powerHp": "476",
+                    "yearstart": "2024",
+                    "coupe": "Sedan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5353",
+                    "width": "1998",
+                    "height": "1511",
+                    "heightMin": "1511",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1895",
+                    "curbWeightMin": "1895"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-07-21 14:50:40",
+        "name": "H6",
+        "id": "4095",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-21 14:51:22",
+              "name": "H6",
+              "modelYear": "2023",
+              "id": "11385",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57518",
+                    "update": "2026-07-21 16:00:03",
+                    "brand": "Hongqi",
+                    "model": "H6",
+                    "generation": "H6",
+                    "engine": "2.0T (252 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "252",
+                    "powerHp": "252",
+                    "yearstart": "2023",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4991",
+                    "width": "1880",
+                    "height": "1452",
+                    "heightMin": "1452",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

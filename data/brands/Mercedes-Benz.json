@@ -87135,6 +87135,42 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-07-21 11:04:43",
+              "name": "Maybach GLS (X167, facelift 2026)",
+              "modelYear": "2027",
+              "id": "11383",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57512",
+                    "update": "2026-07-21 12:11:34",
+                    "brand": "Mercedes-Benz",
+                    "model": "GLS",
+                    "generation": "Maybach GLS (X167, facelift 2026)",
+                    "engine": "GLS 680 V8 (612 Hp) EQ Boost 4MATIC 9G-TRONIC",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "612/5500-6100",
+                    "powerHp": "612",
+                    "powerRpm": "5500-6100",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6100",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "5219",
+                    "width": "2030",
+                    "height": "1838",
+                    "heightMin": "1838",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2735",
+                    "curbWeightMin": "2735"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2026-06-01 08:28:45",
               "name": "GLS (X167, facelift 2026)",
               "modelYear": "2027",
@@ -87240,7 +87276,7 @@
                 "modification": [
                   {
                     "id": "51561",
-                    "update": "2026-06-01 08:56:52",
+                    "update": "2026-07-21 11:04:17",
                     "brand": "Mercedes-Benz",
                     "model": "GLS",
                     "generation": "Maybach GLS (X167, facelift 2023)",
@@ -87252,6 +87288,7 @@
                     "powerRpmLow": "6000",
                     "powerRpmHigh": "6500",
                     "yearstart": "2023",
+                    "yearstop": "2026",
                     "coupe": "SUV",
                     "places": "4",
                     "placesMin": "4",

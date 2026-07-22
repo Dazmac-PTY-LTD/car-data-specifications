@@ -26460,6 +26460,48 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-21 09:11:43",
+        "name": "Super-One",
+        "id": "4092",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-21 09:12:04",
+              "name": "Super-One",
+              "modelYear": "2026",
+              "id": "11381",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57516",
+                    "update": "2026-07-21 16:00:03",
+                    "brand": "Honda",
+                    "model": "Super-One",
+                    "generation": "Super-One",
+                    "engine": "29.6 kWh (95 Hp) EV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3589",
+                    "width": "1573",
+                    "height": "1616",
+                    "heightMin": "1616",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1092",
+                    "curbWeightMin": "1092"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
