@@ -12,6 +12,71 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-07-22 11:52:15",
+              "name": "700 (facelift 2026)",
+              "modelYear": "2026",
+              "id": "11386",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57521",
+                    "update": "2026-07-22 12:13:05",
+                    "brand": "Tank",
+                    "model": "700",
+                    "generation": "700 (facelift 2026)",
+                    "engine": "Hi4-Z 2.0T (864 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "252/6000",
+                    "powerHp": "252",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5105",
+                    "width": "2061",
+                    "height": "1985",
+                    "heightMin": "1985",
+                    "rideHeight": "200-270",
+                    "rideHeightMin": "200",
+                    "rideHeightMax": "270",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3260",
+                    "curbWeightMin": "3260"
+                  },
+                  {
+                    "id": "57522",
+                    "update": "2026-07-22 12:35:56",
+                    "brand": "Tank",
+                    "model": "700",
+                    "generation": "700 (facelift 2026)",
+                    "engine": "Hi4-T 3.0T V6 (537 Hp) Plug-in Hybrid 4WD Automatic",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "360/6000",
+                    "powerHp": "360",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5105",
+                    "width": "2061",
+                    "height": "1985",
+                    "heightMin": "1985",
+                    "rideHeight": "249-282",
+                    "rideHeightMin": "249",
+                    "rideHeightMax": "282",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "3165",
+                    "curbWeightMin": "3165"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2025-09-18 13:34:29",
               "name": "700",
               "modelYear": "2024",
@@ -20,7 +85,7 @@
                 "modification": [
                   {
                     "id": "55389",
-                    "update": "2025-10-01 13:13:52",
+                    "update": "2026-07-22 12:13:01",
                     "brand": "Tank",
                     "model": "700",
                     "generation": "700",
@@ -31,6 +96,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2024",
+                    "yearstop": "2026",
                     "coupe": "SUV",
                     "places": "5",
                     "placesMin": "5",
