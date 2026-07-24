@@ -1,0 +1,54 @@
+{
+  "update": "2026-07-23 09:43:19",
+  "name": "HWA",
+  "id": "405",
+  "models": {
+    "model": [
+      {
+        "update": "2026-07-23 09:41:26",
+        "name": "EVO",
+        "id": "4096",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-23 09:41:37",
+              "name": "EVO",
+              "modelYear": "2026",
+              "id": "11387",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57525",
+                    "update": "2026-07-23 10:14:41",
+                    "brand": "HWA",
+                    "model": "EVO",
+                    "generation": "EVO",
+                    "engine": "3.0 V6 (500 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "500",
+                    "powerHp": "500",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "2-4",
+                    "placesMin": "2",
+                    "placesMax": "4",
+                    "length": "4598",
+                    "width": "1912",
+                    "height": "1357",
+                    "heightMin": "1357",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1485",
+                    "curbWeightMin": "1485"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

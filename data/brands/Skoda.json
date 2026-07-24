@@ -848,7 +848,7 @@
                   },
                   {
                     "id": "40637",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid II (Russia)",
@@ -873,7 +873,7 @@
                   },
                   {
                     "id": "40638",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid II (Russia)",
@@ -1186,7 +1186,7 @@
                   },
                   {
                     "id": "35873",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid (facelift 2017)",
@@ -1214,7 +1214,7 @@
                   },
                   {
                     "id": "35874",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid (facelift 2017)",
@@ -1439,7 +1439,7 @@
                   },
                   {
                     "id": "34600",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid Spaceback (facelift 2017)",
@@ -1464,7 +1464,7 @@
                   },
                   {
                     "id": "34601",
-                    "update": "2022-09-16 11:36:03",
+                    "update": "2026-07-23 12:12:34",
                     "brand": "Skoda",
                     "model": "Rapid",
                     "generation": "Rapid Spaceback (facelift 2017)",
@@ -14022,7 +14022,7 @@
                   },
                   {
                     "id": "35813",
-                    "update": "2022-09-29 08:20:20",
+                    "update": "2026-07-23 12:12:07",
                     "brand": "Skoda",
                     "model": "Octavia",
                     "generation": "Octavia III Combi (facelift 2017)",
@@ -14195,7 +14195,7 @@
                   },
                   {
                     "id": "35893",
-                    "update": "2022-09-29 08:20:20",
+                    "update": "2026-07-23 12:12:07",
                     "brand": "Skoda",
                     "model": "Octavia",
                     "generation": "Octavia III Combi (facelift 2017)",
@@ -15014,7 +15014,7 @@
                   },
                   {
                     "id": "35792",
-                    "update": "2022-09-29 08:20:20",
+                    "update": "2026-07-23 12:12:09",
                     "brand": "Skoda",
                     "model": "Octavia",
                     "generation": "Octavia III (facelift 2017)",
@@ -15042,7 +15042,7 @@
                   },
                   {
                     "id": "35793",
-                    "update": "2022-09-29 08:20:20",
+                    "update": "2026-07-23 12:12:08",
                     "brand": "Skoda",
                     "model": "Octavia",
                     "generation": "Octavia III (facelift 2017)",
@@ -26098,7 +26098,7 @@
                 "modification": [
                   {
                     "id": "34524",
-                    "update": "2022-09-12 16:55:28",
+                    "update": "2026-07-23 11:38:03",
                     "brand": "Skoda",
                     "model": "Karoq",
                     "generation": "Karoq Scout",
@@ -26127,7 +26127,7 @@
                   },
                   {
                     "id": "37574",
-                    "update": "2025-04-11 16:16:53",
+                    "update": "2026-07-23 11:38:03",
                     "brand": "Skoda",
                     "model": "Karoq",
                     "generation": "Karoq Scout",
@@ -26156,7 +26156,7 @@
                   },
                   {
                     "id": "37653",
-                    "update": "2025-04-11 16:16:53",
+                    "update": "2026-07-23 11:38:03",
                     "brand": "Skoda",
                     "model": "Karoq",
                     "generation": "Karoq Scout",
@@ -26183,6 +26183,37 @@
                     "curbWeight": "1516-1684",
                     "curbWeightMin": "1516",
                     "curbWeightMax": "1684"
+                  },
+                  {
+                    "id": "57526",
+                    "update": "2026-07-23 11:54:25",
+                    "brand": "Skoda",
+                    "model": "Karoq",
+                    "generation": "Karoq Scout",
+                    "engine": "1.5 TSI (150 Hp) 4x4 DSG",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "150/5000-6000",
+                    "powerHp": "150",
+                    "powerRpm": "5000-6000",
+                    "powerRpmLow": "5000",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2018",
+                    "yearstop": "2019",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4398",
+                    "width": "1841",
+                    "widthOpenedMirrors": "2025",
+                    "height": "1607-1628",
+                    "heightMin": "1607",
+                    "heightMax": "1628",
+                    "rideHeight": "167",
+                    "rideHeightMin": "167",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1493-1608",
+                    "curbWeightMin": "1493",
+                    "curbWeightMax": "1608"
                   }
                 ]
               }
@@ -27548,6 +27579,62 @@
                     "curbWeight": "1161-1330",
                     "curbWeightMin": "1161",
                     "curbWeightMax": "1330"
+                  },
+                  {
+                    "id": "57527",
+                    "update": "2026-07-23 12:23:24",
+                    "brand": "Skoda",
+                    "model": "Scala",
+                    "generation": "Scala",
+                    "engine": "1.6 MPI (110 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/5800",
+                    "powerHp": "110",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4362",
+                    "width": "1793",
+                    "widthOpenedMirrors": "1988",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "rideHeight": "149",
+                    "rideHeightMin": "149",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1190",
+                    "curbWeightMin": "1190"
+                  },
+                  {
+                    "id": "57528",
+                    "update": "2026-07-23 12:34:09",
+                    "brand": "Skoda",
+                    "model": "Scala",
+                    "generation": "Scala",
+                    "engine": "1.6 MPI (110 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "110/5800",
+                    "powerHp": "110",
+                    "powerRpm": "5800",
+                    "powerRpmLow": "5800",
+                    "yearstart": "2019",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4362",
+                    "width": "1793",
+                    "widthOpenedMirrors": "1988",
+                    "height": "1471",
+                    "heightMin": "1471",
+                    "rideHeight": "149",
+                    "rideHeightMin": "149",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1210",
+                    "curbWeightMin": "1210"
                   }
                 ]
               }
