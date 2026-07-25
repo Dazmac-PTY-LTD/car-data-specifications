@@ -30926,7 +30926,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 33624,BMW,X3,X3 (E83),2003,3.0d (218 Hp),Internal Combustion engine,218,4000,Diesel,SUV,5,2004,2006,4569,1853,1674,1880,2023-04-13 16:24:06
 33625,BMW,X3,X3 (E83),2003,2.0i (150 Hp),Internal Combustion engine,150,6200,Petrol (Gasoline),SUV,5,2005,2006,4569,1853,1674,1660,2023-04-25 15:04:39
 33726,BMW,X3,X3 (E83),2003,3.0d (218 Hp) Steptronic,Internal Combustion engine,218,4000,Diesel,SUV,5,2004,2006,4569,1853,1674,1925,2024-04-16 12:06:24
-57395,BMW,X5,X5 (G65),2027,40 (400 Hp) Mild Hybrid xDrive Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",400,5200-6500,Petrol (Gasoline),SAV,5,2026,,4994,2000,1751,2290,2026-07-01 09:59:51
+57395,BMW,X5,X5 (G65),2027,40 (400 Hp) Mild Hybrid xDrive Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",400,5200-6500,Petrol (Gasoline),SAV,5,2026,,4994,2000,1751,2290,2026-07-24 11:17:58
 57396,BMW,X5,X5 (G65),2027,40d (286 Hp) Mild Hybrid xDrive Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",286,4000,Diesel,SAV,5,2026,,4994,2000,1751,2355,2026-07-01 11:01:20
 57397,BMW,X5,X5 (G65),2027,50e (489 Hp) Plug-in Hybrid xDrive Steptronic,PHEV (Plug-in Hybrid Electric Vehicle),313,5500,Petrol / electricity,SAV,5,2026,,4994,2000,1751,2565,2026-07-01 12:23:35
 57398,BMW,X5,X5 (G65),2027,M60e (612 Hp) Plug-in Hybrid xDrive Steptronic,PHEV (Plug-in Hybrid Electric Vehicle),426,5600,Petrol / electricity,SAV,5,2026,,4998,2000,1751,2640,2026-07-01 12:24:08
@@ -35658,8 +35658,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55836,BYD,Atto 2,Atto 2,2025,DM-i 1.5L 18 kWh (212 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,,Petrol / electricity,SUV,5,2025,,4330,1830,1675,1620,2025-11-21 16:18:06
 54124,BYD,Shark 6,Shark 6,2024,DMO 1.5T 29.6 kWh (435 Hp) Plug-in Hybrid AWD EHS,PHEV (Plug-in Hybrid Electric Vehicle),184,5400,Petrol / electricity,Pick-up,5,2024,,5457,1971,1925,2710,2026-06-22 13:29:18
 57323,BYD,Shark 6,Shark 6,2024,Performance DMO 2.0T 29.6 kWh (476 Hp) Plug-in Hybrid AWD EHS,PHEV (Plug-in Hybrid Electric Vehicle),245,,Petrol / electricity,Pick-up,5,2026,,5457,1971,1925,2775,2026-06-22 13:29:05
-54140,BYD,Seal 05,Seal 05,2025,DM-i 1.5L 7.68 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2025,,4780,1837,1515,,2025-04-11 16:15:42
+54140,BYD,Seal 05,Seal 05,2025,DM-i 1.5L 7.68 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2025,2026,4780,1837,1515,,2026-07-24 16:25:52
 54141,BYD,Seal 05,Seal 05,2025,DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2025,,4780,1837,1515,,2025-08-22 08:51:41
+57545,BYD,Seal 05,Seal 05,2025,DM-i 1.5L 25.28 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2026,,4780,1837,1515,,2026-07-24 16:20:08
 54147,BYD,Destroyer 05,Destroyer 05,2022,DM-i 1.5L 18.3 kWh (197 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,Sedan,5,2022,,4780,1837,1495,1620,2025-08-22 08:39:44
 54146,BYD,Destroyer 05,Destroyer 05,2022,DM-i 1.5L 8.3 kWh (180 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,Sedan,5,2022,,4780,1837,1495,1515,2025-08-22 08:39:59
 54157,BYD,S7,S7,2014,2.0L GS-I (202 Hp) DCT,Internal Combustion engine,202,5500,Petrol (Gasoline),SUV,7,2014,2018,4835,1855,1720,1750,2025-04-15 16:25:00
@@ -48542,6 +48543,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56534,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp),Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1070-1125,2026-02-25 14:09:43
 56560,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 8V (83 Hp),Internal Combustion engine,83,5600,Petrol (Gasoline),Sedan,5,2005,2006,4235,1670,1495,1035-1090,2026-02-26 09:17:28
 56562,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp) Automatic,Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1075-1130,2026-02-26 09:17:28
+57538,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (360 Hp),Internal Combustion engine,360,4400,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1683,2026-07-24 15:12:27
+57539,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (450 Hp),Internal Combustion engine,450,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1681,2026-07-24 15:12:28
+57540,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1657,2026-07-24 15:12:26
+57541,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (375 Hp),Internal Combustion engine,375,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1690,2026-07-24 15:12:27
+57542,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,6.6 Turbo-Jet V8 (330 Hp),Internal Combustion engine,330,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1635,2026-07-24 15:15:02
+57543,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1549,2026-07-24 15:25:46
+57544,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (250 Hp),Internal Combustion engine,250,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1542,2026-07-24 15:56:53
 14646,Innocenti,Elba,Elba,1986,1.4 i (68 Hp),Internal Combustion engine,68,5500,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,930,2023-05-12 14:14:54
 14647,Innocenti,Elba,Elba,1986,1.6 i (76 Hp),Internal Combustion engine,76,5750,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,950,2023-05-12 14:14:53
 14648,Innocenti,Elba,Elba,1986,1.7 D (58 Hp),Internal Combustion engine,58,4600,Diesel,Station wagon (estate),5,1986,1996,4037,1555,1450,970,2021-12-03 11:53:43
@@ -52632,6 +52640,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 24104,Subaru,Baja,Baja,2003,2.5 i 16V (165 Hp) 4WD Automatic,Internal Combustion engine,165,5600,Petrol (Gasoline),Pick-up,5,2002,2006,4910,1781,1590,1582,2023-05-02 10:37:20
 48722,Subaru,Impreza,Impreza VI Hatchback,2024,2.0 (152 Hp) AWD CVT,Internal Combustion engine,152,6000,Petrol (Gasoline),Hatchback,5,2023,,4475,1781,1481,1437-1488,2025-04-11 16:16:53
 48723,Subaru,Impreza,Impreza VI Hatchback,2024,RS 2.5 (182 Hp) AWD CVT,Internal Combustion engine,182,5800,Petrol (Gasoline),Hatchback,5,2023,,4475,1781,1481,1486-1507,2025-04-11 16:16:53
+57546,Subaru,Impreza,Impreza VI Hatchback,2024,2.0ie (136 Hp) Mild Hybrid AWD CVT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5600,Petrol (Gasoline),Hatchback,5,2024,,4490,1780,1515,1499-1524,2026-07-24 16:20:09
 46250,Subaru,Impreza,Impreza V Sedan (facelift 2020),2021,2.0 (152 Hp) AWD,Internal Combustion engine,152,6000,Petrol (Gasoline),Sedan,5,2020,2023,4625,1778,1455,1350,2023-05-26 11:57:13
 46251,Subaru,Impreza,Impreza V Sedan (facelift 2020),2021,2.0 (152 Hp) AWD Lineartronic,Internal Combustion engine,152,6000,Petrol (Gasoline),Sedan,5,2020,2023,4625,1778,1455,1382-1425,2023-05-26 11:57:11
 42140,Subaru,Impreza,Impreza V Hatchback (facelift 2020),2021,1.6i (114 Hp) AWD Lineartronic,Internal Combustion engine,114,6200,Petrol (Gasoline),Hatchback,5,2020,2023,4475,1775,1480,1361-1404,2025-04-11 16:16:53
@@ -56244,6 +56253,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51530,Lynk &amp; Co,01,01,2017,1.5 T3 (256 Hp) Plug-in Hybrid DCTH,PHEV (Plug-in Hybrid Electric Vehicle),180,5500,Petrol / electricity,SUV,5,2019,2020,4512,1857,1689,1735-1769,2025-04-11 12:24:32
 51531,Lynk &amp; Co,01,01,2017,1.5 T3 (256 Hp) Plug-in Hybrid DCTH,PHEV (Plug-in Hybrid Electric Vehicle),180,5500,Petrol / electricity,SUV,5,2018,2019,4512,1857,1673,1735-1769,2025-04-11 12:24:32
 51532,Lynk &amp; Co,01,01,2017,1.5T (197 Hp) Hybrid DCTH,FHEV (Full Hybrid Electric Vehicle),143,5500,Petrol (Gasoline),SUV,5,2019,2020,4512,1857,1689,1736,2025-04-11 12:24:32
+57536,Lynk &amp; Co,07,07 GT,2027,1.5TD Evo (408 Hp) Plug-in Hybrid DHT Evo,PHEV (Plug-in Hybrid Electric Vehicle),163,5500,Petrol / electricity,Station wagon (estate),5,2026,,4846,1900,1485,1915,2026-07-24 10:25:39
+57537,Lynk &amp; Co,07,07 GT,2027,1.5TD Evo (530 Hp) Plug-in Hybrid 4WD DHT Evo,PHEV (Plug-in Hybrid Electric Vehicle),163,5500,Petrol / electricity,Station wagon (estate),5,2026,,4846,1900,1485,2029,2026-07-24 10:52:26
 52900,Lynk &amp; Co,07,07,2024,EM-P 126 Long Range 1.5TD (381 Hp) Plug-in Hybrid DHT Evo,PHEV (Plug-in Hybrid Electric Vehicle),163,5500,Petrol / electricity,Sedan,5,2024,,4827,1900,1480,1915,2025-04-11 12:24:32
 54743,Lynk &amp; Co,Z10,Z10,2025,71 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,5028,1966,1468,2098,2025-06-27 18:16:52
 54744,Lynk &amp; Co,Z10,Z10,2025,95 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,5028,1966,1468,2275,2025-06-27 18:16:52
