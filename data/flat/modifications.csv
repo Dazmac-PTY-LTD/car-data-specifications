@@ -7215,11 +7215,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51793,Kia,EV6,EV6 (facelift 2024),2024,Long Range 84 kWh (325 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2024,,4695,1880,1550,2085-2100,2026-06-22 08:42:11
 54182,Kia,EV6,EV6 (facelift 2024),2024,GT 84 kWh (650 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2025,,4694,1890,1544,2215,2026-06-22 08:42:48
 54181,Kia,EV6,EV6 (facelift 2024),2024,Standard Range 63 kWh (170 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2024,,4694,1880,1544,1874,2026-06-22 09:15:28
-42612,Kia,EV6,EV6,2021,Long Range 77.4 kWh (229 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4680,1880,1550,1910-2000,2026-06-22 08:58:30
-42613,Kia,EV6,EV6,2021,Long Range 77.4 kWh (325 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4680,1880,1550,2015-2105,2026-06-22 08:58:23
+42612,Kia,EV6,EV6,2021,Long Range 77.4 kWh (229 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4680,1880,1550,1910-2000,2026-07-27 08:56:45
+42613,Kia,EV6,EV6,2021,Long Range 77.4 kWh (325 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4680,1880,1550,2015-2105,2026-07-27 08:55:35
 42614,Kia,EV6,EV6,2021,Standard Range 58 kWh (170 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4680,1880,1550,1800-1890,2026-06-22 08:58:14
 42615,Kia,EV6,EV6,2021,GT-line Standard Range 58 kWh (235 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4695,1890,1550,,2026-06-22 09:01:21
-42616,Kia,EV6,EV6,2021,GT Long Range 77.4 kWh (585 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4695,1890,1545,2125-2185,2026-06-22 09:01:52
+42616,Kia,EV6,EV6,2021,GT Long Range 77.4 kWh (585 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2021,2024,4695,1890,1545,2125-2185,2026-07-27 08:57:32
 57281,Kia,K8,K8 (facelift 2024),2025,2.5 Smartstream GDi (198 Hp) Automatic,Internal Combustion engine,198,6100,Petrol (Gasoline),Sedan,5,2024,,5050,1880,1455-1480,1555-1620,2026-06-17 09:56:49
 57289,Kia,K8,K8 (facelift 2024),2025,3.5 Smartstream GDi V6 (300 Hp) Automatic,Internal Combustion engine,300,6400,Petrol (Gasoline),Sedan,5,2024,,5050,1880,1455-1480,1645-1695,2026-06-17 09:56:49
 57290,Kia,K8,K8 (facelift 2024),2025,3.5 Smartstream GDi V6 (300 Hp) AWD Automatic,Internal Combustion engine,300,6400,Petrol (Gasoline),Sedan,5,2024,,5050,1880,1455-1480,1745-1765,2026-06-17 09:56:49
@@ -35722,6 +35722,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56686,BYD,Sealion 8,Sealion 8,2026,DM-p 1.5T (488 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,SUV,7,2026,,5040,1996,1760,2580,2026-03-12 16:22:03
 56697,BYD,Atto 1,Atto 1,2026,30 kWh (88 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2025,,3990,1720,1590,1294,2026-03-13 16:16:10
 56698,BYD,Atto 1,Atto 1,2026,43.2 kWh (156 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2025,,3990,1720,1590,1390,2026-03-13 16:16:10
+57555,BYD,Atto 1,Atto 1,2026,30.08 kWh (75 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,3925,1720,1590,1225,2026-07-27 16:00:38
+57556,BYD,Atto 1,Atto 1,2026,38.88 kWh (75 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,3925,1720,1590,1280,2026-07-27 16:00:38
 56822,BYD,D1,D1,2021,53.56 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2020,,4390,1850,1650,1640,2026-04-07 16:16:37
 54144,BYD,S6,S6,2011,1.5T (154 Hp),Internal Combustion engine,154,5200,Petrol (Gasoline),SUV,7,2014,2016,4810,1855,1725,,2026-05-12 16:05:17
 54145,BYD,S6,S6,2011,2.4L (167 Hp) DCT,Internal Combustion engine,167,6000,Petrol (Gasoline),SUV,7,2011,2016,4810,1855,1725,,2026-05-12 16:05:45
@@ -48543,13 +48545,21 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56534,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp),Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1070-1125,2026-02-25 14:09:43
 56560,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 8V (83 Hp),Internal Combustion engine,83,5600,Petrol (Gasoline),Sedan,5,2005,2006,4235,1670,1495,1035-1090,2026-02-26 09:17:28
 56562,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp) Automatic,Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1075-1130,2026-02-26 09:17:28
-57538,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (360 Hp),Internal Combustion engine,360,4400,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1683,2026-07-24 15:12:27
-57539,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (450 Hp),Internal Combustion engine,450,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1681,2026-07-24 15:12:28
-57540,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1657,2026-07-24 15:12:26
-57541,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (375 Hp),Internal Combustion engine,375,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1690,2026-07-24 15:12:27
-57542,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,6.6 Turbo-Jet V8 (330 Hp),Internal Combustion engine,330,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1635,2026-07-24 15:15:02
-57543,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1549,2026-07-24 15:25:46
-57544,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (250 Hp),Internal Combustion engine,250,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1542,2026-07-24 15:56:53
+57549,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,4.1 Turbo-Thrift (145 Hp),Internal Combustion engine,145,4200,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1481-1593,2026-07-27 12:29:59
+57550,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1539-1652,2026-07-27 14:16:37
+57551,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.7 Turbo-Fire V8 (245 Hp),Internal Combustion engine,245,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1551-1671,2026-07-27 14:18:12
+57552,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.7 Turbo-Fire V8 (270 Hp),Internal Combustion engine,270,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1553-1660,2026-07-27 14:53:50
+57553,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,6.6 Turbo-Jet V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1655-1750,2026-07-27 15:58:26
+57554,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,SS 454 7.4 Turbo-Jet V8 (365 Hp),Internal Combustion engine,365,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1680-1776,2026-07-27 15:59:26
+57538,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (360 Hp),Internal Combustion engine,360,4400,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1683-1806,2026-07-27 16:27:24
+57539,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (450 Hp),Internal Combustion engine,450,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1681-1731,2026-07-27 16:27:31
+57540,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1657-1780,2026-07-27 16:27:21
+57541,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (375 Hp),Internal Combustion engine,375,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1690-1740,2026-07-27 16:27:28
+57542,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,6.6 Turbo-Jet V8 (330 Hp),Internal Combustion engine,330,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1635-1758,2026-07-27 16:27:18
+57543,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1549-1672,2026-07-27 16:27:15
+57544,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (250 Hp),Internal Combustion engine,250,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1542-1665,2026-07-27 16:27:10
+57547,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1525-1648,2026-07-27 16:27:07
+57548,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1472-1599,2026-07-27 16:27:03
 14646,Innocenti,Elba,Elba,1986,1.4 i (68 Hp),Internal Combustion engine,68,5500,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,930,2023-05-12 14:14:54
 14647,Innocenti,Elba,Elba,1986,1.6 i (76 Hp),Internal Combustion engine,76,5750,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,950,2023-05-12 14:14:53
 14648,Innocenti,Elba,Elba,1986,1.7 D (58 Hp),Internal Combustion engine,58,4600,Diesel,Station wagon (estate),5,1986,1996,4037,1555,1450,970,2021-12-03 11:53:43
