@@ -31690,7 +31690,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44627,BMW,New Class,New Class,1962,2000 (100 Hp) Automatic,Internal Combustion engine,100,5500,Petrol (Gasoline),Sedan,5,1966,1972,4500,1710,1445,1150,2023-06-22 10:35:42
 44628,BMW,New Class,New Class,1962,1800 (90 Hp) Automatic,Internal Combustion engine,90,5250,Petrol (Gasoline),Sedan,5,1963,1968,4500,1710,1450,1070,2023-06-22 10:32:09
 44012,BMW,M1,M1 (E26),1978,3.5 (277 Hp),Internal Combustion engine,277,6500,Petrol (Gasoline),Coupe,2,1978,1981,4360,1824,1140,1300,2021-12-03 11:53:43
-57394,BMW,iX5,iX5 (G65),2027,60 141 kWh (578 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4994,2000,1748,2825,2026-07-01 09:46:24
+57394,BMW,iX5,iX5 (G65),2027,60 141 kWh (578 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4994,2000,1748,2825,2026-07-28 14:45:26
 44635,BMW,Isetta,Isetta,1955,250 (12 Hp),Internal Combustion engine,12,5800,Petrol (Gasoline),Quadricycle,2,1955,1962,2355,1380,1340,370,2022-10-03 11:49:22
 44636,BMW,Isetta,Isetta,1955,300 (13 Hp),Internal Combustion engine,13,5800,Petrol (Gasoline),Quadricycle,2,1955,1962,2355,1380,1340,370,2022-10-03 11:49:20
 56888,BMW,i7,"i7 (G70 LCI, facelift 2026)",2027,50 112.5 kWh (455 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,5395,1950,1550,2695,2026-04-23 16:07:41
@@ -35532,8 +35532,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46499,BYD,Atto 3,Atto 3,2022,Standard Range 49.92 kWh (204 Hp) BEV,BEV (Electric Vehicle),,,Electricity,SUV,5,2022,,4455,1875,1615,1680,2025-04-11 12:24:32
 46500,BYD,Atto 3,Atto 3,2022,Extended Range 60.48 kWh (204 Hp) BEV,BEV (Electric Vehicle),,,Electricity,SUV,5,2022,,4455,1875,1615,1750,2025-04-11 12:24:32
 46609,BYD,M3e,M3e,2021,50.3 kWh (95 Hp) BEV,BEV (Electric Vehicle),,,Electricity,MPV,7,2020,,4460,1720,1875,1780,2022-11-03 20:39:27
-54550,BYD,Song,Song Pro (facelift 2024),2025,DM-i 1.5L 12.9 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV,5,2024,,4735,1860,1710,,2025-08-22 08:58:31
+54550,BYD,Song,Song Pro (facelift 2024),2025,DM-i 1.5L 12.9 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV,5,2024,2026,4735,1860,1710,,2026-07-28 16:21:57
 54551,BYD,Song,Song Pro (facelift 2024),2025,DM-i 1.5L 18.3 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV,5,2024,,4735,1860,1710,,2025-08-22 08:58:52
+57564,BYD,Song,Song Pro (facelift 2024),2025,DM-i 1.5L 26.6 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV,5,2026,,4735,1860,1690,,2026-07-28 16:16:29
 49730,BYD,Song,Song Plus (facelift 2023),2023,DM-i 1.5 18.3 kWh (197 Hp) E-CVT Champion Edition,PHEV (Plug-in Hybrid Electric Vehicle),110,,Petrol / electricity,SUV,5,2023,2024,4775,1890,1670,,2025-06-09 11:20:52
 49731,BYD,Song,Song Plus (facelift 2023),2023,DM-i 1.5 26.6 kWh (197 Hp) E-CVT Champion Edition,PHEV (Plug-in Hybrid Electric Vehicle),110,,Petrol / electricity,SUV,5,2023,2024,4775,1890,1670,,2025-06-09 11:20:47
 49732,BYD,Song,Song Plus (facelift 2023),2023,EV 71.8 kWh (204 Hp) Champion Edition,BEV (Electric Vehicle),,,Electricity,SUV,5,2023,,4785,1890,1660,,2025-04-11 12:24:32
@@ -35561,8 +35562,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46891,BYD,Song,Song,2015,2.0 TID (207 Hp) DCT,Internal Combustion engine,207,5500,Petrol (Gasoline),SUV,5,2015,2018,4565,1830,1720,,2023-05-19 14:16:54
 46935,BYD,Song Max,Song Max (facelift 2021),2021,1.5TI (160 Hp),Internal Combustion engine,160,5200,Petrol (Gasoline),MPV,6-7,2021,2022,4710,1810,1680,,2023-06-09 15:49:05
 46936,BYD,Song Max,Song Max (facelift 2021),2021,1.5TI (160 Hp) DCT,Internal Combustion engine,160,5200,Petrol (Gasoline),MPV,6-7,2021,2022,4710,1810,1680,,2023-06-09 15:49:04
-46937,BYD,Song Max,Song Max (facelift 2021),2021,DM-i 1.5 (179 Hp) E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,MPV,6-7,2022,,4710,1810,1690,,2025-04-11 12:24:32
-46938,BYD,Song Max,Song Max (facelift 2021),2021,DM-i 1.5 (197 Hp) E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,MPV,6-7,2022,,4710,1810,1690,,2025-04-11 12:24:32
+46937,BYD,Song Max,Song Max (facelift 2021),2021,DM-i 1.5 (179 Hp) E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,MPV,6-7,2022,2024,4710,1810,1690,,2026-07-28 12:13:10
+46938,BYD,Song Max,Song Max (facelift 2021),2021,DM-i 1.5 (197 Hp) E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,6000,Petrol / electricity,MPV,6-7,2022,2024,4710,1810,1690,,2026-07-28 12:13:05
 46921,BYD,Song Max,Song Max,2018,1.5TI (154 Hp),Internal Combustion engine,154,5200,Petrol (Gasoline),MPV,6-7,2017,2019,4680,1810,1680,,2023-05-19 14:19:02
 46922,BYD,Song Max,Song Max,2018,1.5TI (154 Hp) DCT,Internal Combustion engine,154,5200,Petrol (Gasoline),MPV,6-7,2017,2019,4680,1810,1680,,2023-05-19 14:19:02
 46923,BYD,Song Max,Song Max,2018,1.5TI (160 Hp),Internal Combustion engine,160,5200,Petrol (Gasoline),MPV,6-7,2019,2021,4680,1810,1680,,2023-06-09 15:47:43
@@ -35620,8 +35621,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52241,BYD,Qin,Qin Pro II,2018,EV 53.1 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2019,2021,4765,1837,1515,,2025-04-11 12:24:32
 52242,BYD,Qin,Qin Pro II,2018,EV 56.4 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2019,2021,4765,1837,1515,1650,2025-04-11 12:24:32
 52243,BYD,Qin,Qin Pro II,2018,EV 69.5 kWh (184 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2019,2021,4765,1837,1515,1710,2025-04-11 12:24:32
-52580,BYD,M6,M6 (2024),2024,55.4 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV,7,2024,,4710,1810,1690,1800,2025-04-11 12:24:32
-52581,BYD,M6,M6 (2024),2024,71.8 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV,6-7,2024,,4710,1810,1690,1895-1915,2025-04-11 12:24:32
+52580,BYD,M6,M6 (2024),2024,55.4 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV,7,2024,,4710,1810,1690,1800,2026-07-28 14:08:13
+52581,BYD,M6,M6 (2024),2024,71.8 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV,6-7,2024,,4710,1810,1690,1895-1915,2026-07-28 14:08:52
+57565,BYD,M6,M6 (2024),2024,DM-i 1.5L 7.4 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,MPV,7,2026,,4680,1810,1695,1615,2026-07-28 16:16:29
+57566,BYD,M6,M6 (2024),2024,DM-i 1.5L 18.3 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,MPV,6-7,2026,,4710,1830,1695,1750,2026-07-28 16:16:29
 52584,BYD,M6,M6 (facelift 2013),2013,2.0L (140 Hp),Internal Combustion engine,140,6000,Petrol (Gasoline),MPV,7,2013,2015,4820,1810,1765,1710,2024-09-02 16:04:08
 52585,BYD,M6,M6 (facelift 2013),2013,2.4L (160 Hp) Automatic,Internal Combustion engine,160,5800,Petrol (Gasoline),MPV,7,2013,2015,4820,1810,1765,1760,2024-09-02 16:04:05
 52586,BYD,M6,M6 (facelift 2013),2013,2.4L (167 Hp),Internal Combustion engine,167,6000,Petrol (Gasoline),MPV,7,2013,2017,4820,1810,1765,1720,2024-09-02 16:04:01
@@ -48545,12 +48548,19 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56534,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp),Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1070-1125,2026-02-25 14:09:43
 56560,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 8V (83 Hp),Internal Combustion engine,83,5600,Petrol (Gasoline),Sedan,5,2005,2006,4235,1670,1495,1035-1090,2026-02-26 09:17:28
 56562,Chevrolet,Kalos,Kalos Sedan (T200),2006,1.4 16V (94 Hp) Automatic,Internal Combustion engine,94,6200,Petrol (Gasoline),Sedan,5,2005,2008,4235,1670,1495,1075-1130,2026-02-26 09:17:28
+57558,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,4.1 Turbo-Thrift (110 Hp),Internal Combustion engine,110,3800,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1483-1579,2026-07-28 12:11:00
+57559,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,5.0 Turbo-Fire V8 (130 Hp),Internal Combustion engine,130,4000,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1541-1640,2026-07-28 13:28:55
+57560,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,5.7 Turbo-Fire V8 (165 Hp),Internal Combustion engine,165,4000,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1550-1649,2026-07-28 13:38:06
+57561,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,5.7 Turbo-Fire V8 (175 Hp),Internal Combustion engine,175,4000,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1553-1652,2026-07-28 14:19:53
+57562,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,6.6 Turbo-Jet V8 (240 Hp),Internal Combustion engine,240,4400,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1667-1766,2026-07-28 14:42:15
+57563,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1971),1972,SS 454 7.4 Turbo-Jet V8 (270 Hp),Internal Combustion engine,270,4000,Petrol (Gasoline),Coupe,5,1971,1972,5017,1915,1339,1674-1759,2026-07-28 15:30:03
 57549,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,4.1 Turbo-Thrift (145 Hp),Internal Combustion engine,145,4200,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1481-1593,2026-07-27 12:29:59
 57550,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1539-1652,2026-07-27 14:16:37
 57551,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.7 Turbo-Fire V8 (245 Hp),Internal Combustion engine,245,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1551-1671,2026-07-27 14:18:12
 57552,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,5.7 Turbo-Fire V8 (270 Hp),Internal Combustion engine,270,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1553-1660,2026-07-27 14:53:50
 57553,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,6.6 Turbo-Jet V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1655-1750,2026-07-27 15:58:26
-57554,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,SS 454 7.4 Turbo-Jet V8 (365 Hp),Internal Combustion engine,365,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1680-1776,2026-07-27 15:59:26
+57554,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,SS 454 7.4 Turbo-Jet V8 (365 Hp),Internal Combustion engine,365,4800,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1685-1776,2026-07-28 09:09:11
+57557,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1970),1971,SS 454 7.4 Turbo-Jet V8 (425 Hp),Internal Combustion engine,425,5600,Petrol (Gasoline),Coupe,5,1970,1971,5017,1915,1339,1670-1766,2026-07-28 09:09:48
 57538,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (360 Hp),Internal Combustion engine,360,4400,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1683-1806,2026-07-27 16:27:24
 57539,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 454 7.4 Turbo-Jet V8 (450 Hp),Internal Combustion engine,450,5600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1681-1731,2026-07-27 16:27:31
 57540,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,SS 396 6.6 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1657-1780,2026-07-27 16:27:21
