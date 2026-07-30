@@ -703,6 +703,78 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-29 09:17:27",
+        "name": "V9X",
+        "id": "4098",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-29 09:20:34",
+              "name": "V9X LWB",
+              "modelYear": "2026",
+              "id": "11394",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-07-29 09:20:19",
+              "name": "V9X SWB",
+              "modelYear": "2026",
+              "id": "11393",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57567",
+                    "update": "2026-07-29 14:24:23",
+                    "brand": "WEY",
+                    "model": "V9X",
+                    "generation": "V9X SWB",
+                    "engine": "Hi4 1.5T 66.6 kWh (612 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "2025",
+                    "height": "1825",
+                    "heightMin": "1825",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57568",
+                    "update": "2026-07-29 14:24:23",
+                    "brand": "WEY",
+                    "model": "V9X",
+                    "generation": "V9X SWB",
+                    "engine": "Hi4 2.0T 66.6 kWh (680 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "238",
+                    "powerHp": "238",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5205",
+                    "width": "2025",
+                    "height": "1825",
+                    "heightMin": "1825",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

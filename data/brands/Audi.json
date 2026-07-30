@@ -85435,6 +85435,80 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-29 12:30:21",
+        "name": "Q9",
+        "id": "4099",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-29 12:30:44",
+              "name": "Q9",
+              "modelYear": "2027",
+              "id": "11395",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57569",
+                    "update": "2026-07-29 14:24:23",
+                    "brand": "Audi",
+                    "model": "Q9",
+                    "generation": "Q9",
+                    "engine": "3.0 TDI V6 (299 Hp) Mild Hybrid plus quattro tiptronic",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "299/3500-3750",
+                    "powerHp": "299",
+                    "powerRpm": "3500-3750",
+                    "powerRpmLow": "3500",
+                    "powerRpmHigh": "3750",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5307",
+                    "width": "2010",
+                    "widthOpenedMirrors": "2205",
+                    "height": "1768-1806",
+                    "heightMin": "1768",
+                    "heightMax": "1806",
+                    "fuel": "Diesel",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  },
+                  {
+                    "id": "57570",
+                    "update": "2026-07-29 14:24:23",
+                    "brand": "Audi",
+                    "model": "Q9",
+                    "generation": "Q9",
+                    "engine": "3.0 TDI V6 (299 Hp) Mild Hybrid plus quattro tiptronic 7 seats",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "299/3500-3750",
+                    "powerHp": "299",
+                    "powerRpm": "3500-3750",
+                    "powerRpmLow": "3500",
+                    "powerRpmHigh": "3750",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5307",
+                    "width": "2010",
+                    "widthOpenedMirrors": "2205",
+                    "height": "1768-1806",
+                    "heightMin": "1768",
+                    "heightMax": "1806",
+                    "fuel": "Diesel",
+                    "curbWeight": "2530",
+                    "curbWeightMin": "2530"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
