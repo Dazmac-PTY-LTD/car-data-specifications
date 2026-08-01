@@ -880,6 +880,74 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-31 09:53:22",
+        "name": "Blue Mountain",
+        "id": "4101",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-31 09:54:02",
+              "name": "Blue Mountain",
+              "modelYear": "2025",
+              "id": "11399",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57583",
+                    "update": "2026-07-31 16:16:07",
+                    "brand": "WEY",
+                    "model": "Blue Mountain",
+                    "generation": "Blue Mountain",
+                    "engine": "Hi4 1.5T 44.5 kWh (533 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170/5500-6000",
+                    "powerHp": "170",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5156",
+                    "width": "1980",
+                    "height": "1805",
+                    "heightMin": "1805",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57584",
+                    "update": "2026-07-31 16:16:07",
+                    "brand": "WEY",
+                    "model": "Blue Mountain",
+                    "generation": "Blue Mountain",
+                    "engine": "Hi4 1.5T 52.3 kWh (574 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170/5500-6000",
+                    "powerHp": "170",
+                    "powerRpm": "5500-6000",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6000",
+                    "yearstart": "2024",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5156",
+                    "width": "1980",
+                    "height": "1805",
+                    "heightMin": "1805",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

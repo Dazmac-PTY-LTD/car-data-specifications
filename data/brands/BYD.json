@@ -7573,6 +7573,71 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-07-31 11:21:35",
+        "name": "Racco",
+        "id": "4102",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-07-31 11:22:17",
+              "name": "Racco",
+              "modelYear": "2026",
+              "id": "11400",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57585",
+                    "update": "2026-07-31 16:16:07",
+                    "brand": "BYD",
+                    "model": "Racco",
+                    "generation": "Racco",
+                    "engine": "22.40 kWh (64 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Minivan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3395",
+                    "width": "1475",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1160",
+                    "curbWeightMin": "1160"
+                  },
+                  {
+                    "id": "57586",
+                    "update": "2026-07-31 16:16:07",
+                    "brand": "BYD",
+                    "model": "Racco",
+                    "generation": "Racco",
+                    "engine": "35.84 kWh (64 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Minivan",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3395",
+                    "width": "1475",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "rideHeight": "130",
+                    "rideHeightMin": "130",
+                    "fuel": "Electricity",
+                    "curbWeight": "1220-1230",
+                    "curbWeightMin": "1220",
+                    "curbWeightMax": "1230"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
