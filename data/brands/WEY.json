@@ -948,6 +948,161 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-03 11:30:18",
+        "name": "Gaoshan",
+        "id": "4103",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-03 11:31:34",
+              "name": "Gaoshan 9 LWB",
+              "modelYear": "2025",
+              "id": "11403",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57591",
+                    "update": "2026-08-03 17:10:00",
+                    "brand": "WEY",
+                    "model": "Gaoshan",
+                    "generation": "Gaoshan 9 LWB",
+                    "engine": "Hi4 1.5T 51.55 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5410",
+                    "width": "1960",
+                    "height": "1890",
+                    "heightMin": "1890",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-08-03 11:31:03",
+              "name": "Gaoshan 8 MWB",
+              "modelYear": "2025",
+              "id": "11402",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57590",
+                    "update": "2026-08-03 17:10:00",
+                    "brand": "WEY",
+                    "model": "Gaoshan",
+                    "generation": "Gaoshan 8 MWB",
+                    "engine": "Hi4 1.5T 44.28 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5280",
+                    "width": "1960",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-08-03 11:30:59",
+              "name": "Gaoshan 7 SWB",
+              "modelYear": "2025",
+              "id": "11401",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57589",
+                    "update": "2026-08-03 17:10:00",
+                    "brand": "WEY",
+                    "model": "Gaoshan",
+                    "generation": "Gaoshan 7 SWB",
+                    "engine": "Hi4 1.5T 44.28 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2025",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5050",
+                    "width": "1960",
+                    "height": "1900",
+                    "heightMin": "1900",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-08-03 16:05:18",
+        "name": "Mocha",
+        "id": "4104",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-03 16:05:43",
+              "name": "Mocha (facelift 2023)",
+              "modelYear": "2023",
+              "id": "11404",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57588",
+                    "update": "2026-08-03 17:09:56",
+                    "brand": "WEY",
+                    "model": "Mocha",
+                    "generation": "Mocha (facelift 2023)",
+                    "engine": "Hi4 1.5T 35.04 kWh (476 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2023",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4881",
+                    "width": "1960",
+                    "height": "1690",
+                    "heightMin": "1690",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
