@@ -32209,6 +32209,227 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-04 10:41:16",
+        "name": "Morning",
+        "id": "4105",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-04 13:56:03",
+              "name": "Morning III (facelift 2023)",
+              "modelYear": "2023",
+              "id": "11405",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57597",
+                    "update": "2026-08-04 16:16:22",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III (facelift 2023)",
+                    "engine": "1.0 (76 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/6200",
+                    "powerHp": "76",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "975-1010",
+                    "curbWeightMin": "975",
+                    "curbWeightMax": "1010"
+                  },
+                  {
+                    "id": "57598",
+                    "update": "2026-08-04 16:16:22",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III (facelift 2023)",
+                    "engine": "1.2 (83 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "83/6000",
+                    "powerHp": "83",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "rideHeight": "151",
+                    "rideHeightMin": "151",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-08-04 13:56:03",
+              "name": "Morning III (facelift 2020)",
+              "modelYear": "2020",
+              "id": "11406",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57596",
+                    "update": "2026-08-04 16:16:18",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III (facelift 2020)",
+                    "engine": "1.0 (76 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/6200",
+                    "powerHp": "76",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2020",
+                    "yearstop": "2023",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "910-995",
+                    "curbWeightMin": "910",
+                    "curbWeightMax": "995"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-08-04 13:56:03",
+              "name": "Morning III",
+              "modelYear": "2017",
+              "id": "11407",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57592",
+                    "update": "2026-08-04 16:16:16",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III",
+                    "engine": "1.0 (76 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/6200",
+                    "powerHp": "76",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "890-935",
+                    "curbWeightMin": "890",
+                    "curbWeightMax": "935"
+                  },
+                  {
+                    "id": "57593",
+                    "update": "2026-08-04 16:16:16",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III",
+                    "engine": "1.0 (76 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "76/6200",
+                    "powerHp": "76",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2017",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "910-955",
+                    "curbWeightMin": "910",
+                    "curbWeightMax": "955"
+                  },
+                  {
+                    "id": "57594",
+                    "update": "2026-08-04 16:16:16",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III",
+                    "engine": "1.0 LPi (74 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "74/6200",
+                    "powerHp": "74",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol / LPG",
+                    "curbWeight": "960-975",
+                    "curbWeightMin": "960",
+                    "curbWeightMax": "975"
+                  },
+                  {
+                    "id": "57595",
+                    "update": "2026-08-04 16:16:16",
+                    "brand": "Kia",
+                    "model": "Morning",
+                    "generation": "Morning III",
+                    "engine": "1.0 T-GDI (100 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "100/4500",
+                    "powerHp": "100",
+                    "powerRpm": "4500",
+                    "powerRpmLow": "4500",
+                    "yearstart": "2018",
+                    "yearstop": "2020",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3595",
+                    "width": "1595",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "965",
+                    "curbWeightMin": "965"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
