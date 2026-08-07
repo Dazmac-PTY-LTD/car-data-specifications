@@ -337,6 +337,90 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-06 14:17:32",
+        "name": "EWIND",
+        "id": "4106",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-06 15:03:49",
+              "name": "EWIND",
+              "modelYear": "2026",
+              "id": "11409",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57609",
+                    "update": "2026-08-06 16:16:06",
+                    "brand": "JMEV",
+                    "model": "EWIND",
+                    "generation": "EWIND",
+                    "engine": "70.38 kWh (224 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4640",
+                    "width": "1870",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": "1815",
+                    "curbWeightMin": "1815"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-08-06 14:58:13",
+        "name": "EAngel 03",
+        "id": "4107",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-06 15:03:41",
+              "name": "EAngel 03",
+              "modelYear": "2026",
+              "id": "11410",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57610",
+                    "update": "2026-08-06 16:16:06",
+                    "brand": "JMEV",
+                    "model": "EAngel 03",
+                    "generation": "EAngel 03",
+                    "engine": "30.24 kWh (68 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3720",
+                    "width": "1640",
+                    "height": "1535",
+                    "heightMin": "1535",
+                    "rideHeight": "175",
+                    "rideHeightMin": "175",
+                    "fuel": "Electricity",
+                    "curbWeight": "1060",
+                    "curbWeightMin": "1060"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

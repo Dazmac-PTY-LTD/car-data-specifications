@@ -7274,6 +7274,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57593,Kia,Morning,Morning III,2017,1.0 (76 Hp) Automatic,Internal Combustion engine,76,6200,Petrol (Gasoline),Hatchback,5,2017,2020,3595,1595,1485,910-955,2026-08-04 16:16:16
 57594,Kia,Morning,Morning III,2017,1.0 LPi (74 Hp) Automatic,Internal Combustion engine,74,6200,Petrol / LPG,Hatchback,5,2018,2020,3595,1595,1485,960-975,2026-08-04 16:16:16
 57595,Kia,Morning,Morning III,2017,1.0 T-GDI (100 Hp) Automatic,Internal Combustion engine,100,4500,Petrol (Gasoline),Hatchback,5,2018,2020,3595,1595,1485,965,2026-08-04 16:16:16
+57604,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp),Internal Combustion engine,78,6200,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1485,925,2026-08-06 16:16:06
+57605,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp) Automatic,Internal Combustion engine,78,6200,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1485,945,2026-08-06 16:16:06
+57606,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp) Bi-fuel LPI,Internal Combustion engine,78,6200,Petrol / LPG,Hatchback,5,2015,2017,3595,1595,1485,980,2026-08-06 16:16:06
+57607,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp) Bi-fuel LPI Automatic,Internal Combustion engine,78,6200,Petrol / LPG,Hatchback,5,2015,2017,3595,1595,1485,1000,2026-08-06 16:16:06
+57608,Kia,Morning,Morning II (facelift 2015),2015,1.0 TCI (106 Hp) CVT,Internal Combustion engine,106,6000,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1485,975,2026-08-06 16:16:06
 2784,O.S.C.A.,2500 GT,2500 GT,2001,2.5 i 16V (190 Hp),Internal Combustion engine,190,6000,Petrol (Gasoline),Coupe,2,1999,1999,4090,1760,1150,680,2021-12-03 11:53:43
 2785,Tianye,Admiral,Admiral,2001,2.2i 4WD (103 Hp),Internal Combustion engine,103,4200,Petrol (Gasoline),Pick-up,5,2001,2007,5000,1800,1880,1700,2021-12-03 11:53:43
 2786,Aro,10,10,1984,1.4 (10.4) (58 Hp),Internal Combustion engine,58,5000,Petrol (Gasoline),Off-road vehicle,5,1999,2006,3850,1645,1780,1250,2022-10-11 12:09:39
@@ -56580,6 +56585,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54383,JMEV,EV2/Xiaoqilin,EV2/Xiaoqilin,2022,15.86 kWh (35 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2022,,3500,1646,1460,890,2025-05-23 16:18:03
 54350,JMEV,EVeasy Limo,EVeasy Limo,2025,56.31 kWh (224 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4675,1835,1480,1520,2025-08-22 12:31:25
 54458,JMEV,EVeasy Limo,EVeasy Limo,2025,60 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,4675,1835,1480,1675,2025-06-02 16:22:04
+57609,JMEV,EWIND,EWIND,2026,70.38 kWh (224 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4640,1870,1685,1815,2026-08-06 16:16:06
+57610,JMEV,EAngel 03,EAngel 03,2026,30.24 kWh (68 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2025,,3720,1640,1535,1060,2026-08-06 16:16:06
 54452,IM,L7,L7 (facelift 2024),2024,90 kWh (340 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,5108,1960,1485,2090,2025-06-02 16:21:26
 54453,IM,L7,L7 (facelift 2024),2024,90 kWh (578 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,5108,1960,1485,2290,2025-06-02 16:21:26
 54451,IM,L7,L7,2022,90 kWh (578 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,2024,5098,1960,1485,2290,2025-06-02 16:21:26
