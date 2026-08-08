@@ -7279,6 +7279,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57606,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp) Bi-fuel LPI,Internal Combustion engine,78,6200,Petrol / LPG,Hatchback,5,2015,2017,3595,1595,1485,980,2026-08-06 16:16:06
 57607,Kia,Morning,Morning II (facelift 2015),2015,1.0 (78 Hp) Bi-fuel LPI Automatic,Internal Combustion engine,78,6200,Petrol / LPG,Hatchback,5,2015,2017,3595,1595,1485,1000,2026-08-06 16:16:06
 57608,Kia,Morning,Morning II (facelift 2015),2015,1.0 TCI (106 Hp) CVT,Internal Combustion engine,106,6000,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1485,975,2026-08-06 16:16:06
+57611,Kia,Morning,Morning II (facelift 2015),2015,1.2 (86 Hp),Internal Combustion engine,86,6000,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1490,940,2026-08-07 16:16:17
+57612,Kia,Morning,Morning II (facelift 2015),2015,1.2 (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),Hatchback,5,2015,2017,3595,1595,1490,960,2026-08-07 16:16:17
+57613,Kia,Morning,Morning II,2011,1.0 (82 Hp),Internal Combustion engine,82,6400,Petrol (Gasoline),Hatchback,4-5,2011,2015,3595,1595,1485,880,2026-08-07 16:16:17
+57614,Kia,Morning,Morning II,2011,1.0 (82 Hp) Automatic,Internal Combustion engine,82,6400,Petrol (Gasoline),Hatchback,4-5,2011,2015,3595,1595,1485,900,2026-08-07 16:16:17
+57615,Kia,Morning,Morning II,2011,1.2 (86 Hp),Internal Combustion engine,86,6000,Petrol (Gasoline),Hatchback,4-5,2011,2015,3595,1595,1490,,2026-08-07 16:16:17
+57616,Kia,Morning,Morning II,2011,1.2 (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),Hatchback,4-5,2011,2015,3595,1595,1490,,2026-08-07 16:16:17
 2784,O.S.C.A.,2500 GT,2500 GT,2001,2.5 i 16V (190 Hp),Internal Combustion engine,190,6000,Petrol (Gasoline),Coupe,2,1999,1999,4090,1760,1150,680,2021-12-03 11:53:43
 2785,Tianye,Admiral,Admiral,2001,2.2i 4WD (103 Hp),Internal Combustion engine,103,4200,Petrol (Gasoline),Pick-up,5,2001,2007,5000,1800,1880,1700,2021-12-03 11:53:43
 2786,Aro,10,10,1984,1.4 (10.4) (58 Hp),Internal Combustion engine,58,5000,Petrol (Gasoline),Off-road vehicle,5,1999,2006,3850,1645,1780,1250,2022-10-11 12:09:39
@@ -55851,8 +55857,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48638,EVO,5,5,2022,1.5 (127/120 Hp) LPG,Internal Combustion engine,127,5390,Petrol / LPG,SUV,5,2022,,4325,1815,1640,1325,2023-05-18 12:21:17
 50589,EVO,7,7,2024,1.5 (174 Hp) DCT,Internal Combustion engine,174,5500,Petrol (Gasoline),SUV,6,2023,,4795,1870,1758,1605,2023-11-28 16:16:01
 54417,EVO,7,7,2024,1.5 Turbo (162 Hp) LPG DCT,Internal Combustion engine,162,5500,Petrol / LPG,SUV,6-7,2023,,4795,1870,1758,1605,2025-05-29 16:02:48
-54415,EVO,6,6,2025,1.5 Turbo (176 Hp) DCT,Internal Combustion engine,176,5600,Petrol (Gasoline),SUV,5,2024,,4565,1860,1690,1571,2025-05-29 16:02:47
-54416,EVO,6,6,2025,1.5 Turbo (167 Hp) LPG DCT,Internal Combustion engine,167,5600,Petrol / LPG,SUV,5,2024,,4565,1860,1690,1571,2025-05-29 16:02:48
+54415,EVO,6,6,2025,1.5 Turbo (176 Hp) DCT,Internal Combustion engine,176,5600,Petrol (Gasoline),SUV,5,2024,,4565,1860,1690,1571,2026-08-07 16:23:54
+54416,EVO,6,6,2025,1.5 Turbo (167 Hp) LPG DCT,Internal Combustion engine,167,5600,Petrol / LPG,SUV,5,2024,,4565,1860,1690,1571,2026-08-07 16:23:08
+57617,EVO,6,6,2025,1.5 Turbo (245 Hp) Hybrid DHT,FHEV (Full Hybrid Electric Vehicle),170,5500,Petrol (Gasoline),SUV,5,2026,,4595,1865,1680,1775,2026-08-07 16:16:17
 55509,EVO,Cuatro,Cuatro,2026,1.5L (117 Hp),Internal Combustion engine,117,6150,Petrol (Gasoline),SUV,5,2025,,4400,1831,1653,1300,2025-10-07 16:20:57
 55510,EVO,Cuatro,Cuatro,2026,1.5L (114 Hp) LPG,Internal Combustion engine,114,4700,Petrol / LPG,SUV,5,2025,,4400,1831,1653,1330,2025-10-07 16:20:57
 55870,AITO,M5,M5 Ultra (facelift 2025),2025,1.5T (272 Hp) Extended Range Hybrid,PHEV (Plug-in Hybrid Electric Vehicle),152,,Petrol / electricity,SUV,5,2025,,4785,1930,1625,2220,2025-11-27 16:14:18
