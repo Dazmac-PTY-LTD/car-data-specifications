@@ -549,6 +549,92 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-10 11:47:07",
+        "name": "Alpha S6",
+        "id": "4109",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-10 11:47:29",
+              "name": "Alpha S6",
+              "modelYear": "2025",
+              "id": "11413",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57618",
+                    "update": "2026-08-10 16:16:09",
+                    "brand": "Arcfox",
+                    "model": "Alpha S6",
+                    "generation": "Alpha S6",
+                    "engine": "93.6 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4930",
+                    "width": "1940",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "2070",
+                    "curbWeightMin": "2070"
+                  },
+                  {
+                    "id": "57619",
+                    "update": "2026-08-10 16:16:09",
+                    "brand": "Arcfox",
+                    "model": "Alpha S6",
+                    "generation": "Alpha S6",
+                    "engine": "94.5 kWh (238 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4930",
+                    "width": "1940",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "2060",
+                    "curbWeightMin": "2060"
+                  },
+                  {
+                    "id": "57620",
+                    "update": "2026-08-10 16:16:09",
+                    "brand": "Arcfox",
+                    "model": "Alpha S6",
+                    "generation": "Alpha S6",
+                    "engine": "74.5 kWh (343 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV, Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4980",
+                    "width": "1960",
+                    "height": "1599",
+                    "heightMin": "1599",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1985",
+                    "curbWeightMin": "1985"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
