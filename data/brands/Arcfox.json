@@ -635,6 +635,110 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-11 11:20:56",
+        "name": "Beta S3",
+        "id": "4110",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-11 11:21:16",
+              "name": "Beta S3",
+              "modelYear": "2026",
+              "id": "11414",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57622",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Arcfox",
+                    "model": "Beta S3",
+                    "generation": "Beta S3",
+                    "engine": "44.2 kWh (216 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4916",
+                    "width": "1900",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57623",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Arcfox",
+                    "model": "Beta S3",
+                    "generation": "Beta S3",
+                    "engine": "54 kWh (216 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4916",
+                    "width": "1900",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "127",
+                    "rideHeightMin": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57624",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Arcfox",
+                    "model": "Beta S3",
+                    "generation": "Beta S3",
+                    "engine": "55.6 kWh (216 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4916",
+                    "width": "1900",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "129",
+                    "rideHeightMin": "129",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57625",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Arcfox",
+                    "model": "Beta S3",
+                    "generation": "Beta S3",
+                    "engine": "65.8 kWh (216 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4916",
+                    "width": "1900",
+                    "height": "1480",
+                    "heightMin": "1480",
+                    "rideHeight": "129",
+                    "rideHeightMin": "129",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

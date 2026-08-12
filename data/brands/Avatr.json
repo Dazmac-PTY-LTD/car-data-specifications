@@ -233,6 +233,58 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-08-11 12:51:56",
+              "name": "07L",
+              "modelYear": "2026",
+              "id": "11415",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57626",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07L",
+                    "engine": "EV 89.33 kWh (415 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1980",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "fuel": "Electricity",
+                    "curbWeight": "2335-2340",
+                    "curbWeightMin": "2335",
+                    "curbWeightMax": "2340"
+                  },
+                  {
+                    "id": "57627",
+                    "update": "2026-08-11 16:16:04",
+                    "brand": "Avatr",
+                    "model": "07",
+                    "generation": "07L",
+                    "engine": "EV 89.33 kWh (968 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4910",
+                    "width": "1980",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "2480",
+                    "curbWeightMin": "2480"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2025-09-03 09:59:47",
               "name": "07",
               "modelYear": "2024",
