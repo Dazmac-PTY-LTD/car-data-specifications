@@ -713,6 +713,52 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-17 12:32:42",
+        "name": "CCGT1",
+        "id": "4113",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-17 12:32:58",
+              "name": "CCGT1",
+              "modelYear": "2027",
+              "id": "11420",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57641",
+                    "update": "2026-08-17 16:16:09",
+                    "brand": "Koenigsegg",
+                    "model": "CCGT1",
+                    "generation": "CCGT1",
+                    "engine": "5.0 V8 (1280/1600 Hp) LST",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "1280/7800/1600/",
+                    "powerHp": "1280",
+                    "powerRpm": "7800",
+                    "powerRpmLow": "7800",
+                    "powerHpE85": "1600",
+                    "yearstart": "2026",
+                    "coupe": "Targa",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4478",
+                    "width": "2058",
+                    "height": "1160",
+                    "heightMin": "1160",
+                    "rideHeight": "100",
+                    "rideHeightMin": "100",
+                    "fuel": "Petrol / Ethanol - E85",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

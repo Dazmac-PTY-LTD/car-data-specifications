@@ -5014,6 +5014,49 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-17 08:59:06",
+        "name": "CZ26",
+        "id": "4111",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-17 08:59:32",
+              "name": "CZ26",
+              "modelYear": "2027",
+              "id": "11418",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57639",
+                    "update": "2026-08-17 16:18:05",
+                    "brand": "Ferrari",
+                    "model": "CZ26",
+                    "generation": "CZ26",
+                    "engine": "4.0 V8 (1017 Hp) Plug-in Hybrid E4WD F1 DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "797/7900",
+                    "powerHp": "797",
+                    "powerRpm": "7900",
+                    "powerRpmLow": "7900",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4762",
+                    "width": "2005",
+                    "height": "1189",
+                    "heightMin": "1189",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

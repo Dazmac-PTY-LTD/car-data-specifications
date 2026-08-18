@@ -4968,6 +4968,52 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-17 10:44:58",
+        "name": "Valen",
+        "id": "4112",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-17 10:45:20",
+              "name": "Valen",
+              "modelYear": "2027",
+              "id": "11419",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57640",
+                    "update": "2026-08-17 16:16:09",
+                    "brand": "Aston Martin",
+                    "model": "Valen",
+                    "generation": "Valen",
+                    "engine": "5.2 V12 (850 Hp) ZF",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "850/6500",
+                    "powerHp": "850",
+                    "powerRpm": "6500",
+                    "powerRpmLow": "6500",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4830",
+                    "widthFoldedMirrors": "2044",
+                    "widthOpenedMirrors": "2120",
+                    "height": "1290",
+                    "heightMin": "1290",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

@@ -7343,6 +7343,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 39255,Koenigsegg,Gemera,Gemera,2020,2.0 (1700 Hp) Hybrid AWD KDD,FHEV (Full Hybrid Electric Vehicle),600,7500,Petrol / Ethanol - E85 / electricity,Grand Tourer,4,2020,,4975,1988,1295,1850,2023-11-23 13:57:51
 46432,Koenigsegg,CC850,CC850,2024,5.0 V8 (1185/1385 Hp) LST,Internal Combustion engine,1185,7800,Petrol / Ethanol - E85,Targa,2,2024,,4364,2024,1127,1385,2022-08-27 07:51:07
 54734,Koenigsegg,Sadairs Spear,Sadairs Spear,2025,5.0 V8 (1300/1625 Hp) LST,Internal Combustion engine,1300,7800,Petrol / Ethanol - E85,Targa,2,2025,,4690,2030,1210,1320,2025-06-27 16:26:49
+57641,Koenigsegg,CCGT1,CCGT1,2027,5.0 V8 (1280/1600 Hp) LST,Internal Combustion engine,1280,7800,Petrol / Ethanol - E85,Targa,2,2026,,4478,2058,1160,,2026-08-17 16:16:09
 23797,Pagani,Zonda,Zonda R,2009,Revolucion 6.0 V12 48V (800 Hp) Automatic,Internal Combustion engine,800,8000,Petrol (Gasoline),Coupe,2,2013,2013,4886,2014,1141,1070,2021-12-03 11:53:43
 24036,Pagani,Zonda,Zonda R,2009,6.0 V12 48V (749 Hp) Automatic,Internal Combustion engine,749,7500,Petrol (Gasoline),Coupe,2,2009,2011,4886,2014,1141,1070,2021-12-03 11:53:43
 24110,Pagani,Zonda,Zonda Cinque Roadster,2009,7.3 V12 (678 Hp) Automatic,Internal Combustion engine,678,6400,Petrol (Gasoline),Roadster,2,2008,2009,,,,1210,2021-12-03 11:53:43
@@ -7994,6 +7995,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48721,Aston Martin,DB12,DB12,2024,4.0 V8 (680 Hp) Automatic,Internal Combustion engine,680,6000,Petrol (Gasoline),Coupe,4,2023,,4725,,1295,1685,2023-08-15 10:09:17
 55514,Aston Martin,DB12,DB12,2024,S 4.0 V8 (700 Hp) Automatic,Internal Combustion engine,700,6000,Petrol (Gasoline),Coupe,4,2025,,4725,,1295,1820,2025-10-08 14:24:19
 52251,Aston Martin,Valour,Valour,2024,5.2 V12 (715 Hp),Internal Combustion engine,715,6500,Petrol (Gasoline),Coupe,2,2023,,4599,1987,1274,,2024-07-15 16:23:43
+57640,Aston Martin,Valen,Valen,2027,5.2 V12 (850 Hp) ZF,Internal Combustion engine,850,6500,Petrol (Gasoline),Coupe,2,2026,,4830,,1290,,2026-08-17 16:16:09
 3067,DongFeng,MPV,MPV,2008,2.0i (110 Hp),Internal Combustion engine,110,,Petrol (Gasoline),Minivan,7,2007,2009,5050,1695,1690,1750,2021-12-03 11:53:43
 3068,DongFeng,Oting,Oting,2008,2.4i (130 Hp),Internal Combustion engine,130,,Petrol (Gasoline),Off-road vehicle,,2007,2013,,,,,2021-12-03 11:53:43
 3069,DongFeng,Oting,Oting,2008,2.4 (150 Hp) 4x4,Internal Combustion engine,,,Petrol (Gasoline),Off-road vehicle,,2007,2013,,,,,2021-12-03 11:53:43
@@ -8111,7 +8113,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 3083,Lamborghini,LMA002,LMA002 (Prototype),1982,4.8 (332 Hp),Internal Combustion engine,332,6000,Petrol (Gasoline),Off-road vehicle,4,1982,1982,4790,,1850,2600,2022-01-19 10:54:10
 45572,Lamborghini,Islero,Islero,1968,4.0 V12 (320 Hp),Internal Combustion engine,320,6500,Petrol (Gasoline),Coupe,4,1968,1970,4525,1730,1270,1220,2022-04-02 07:51:07
 47351,Lamborghini,350 GT,350 GT,1964,3.5 V12 (280 Hp),Internal Combustion engine,280,6500,Petrol (Gasoline),Coupe,4,1964,1967,4460,1730,1230,1200,2023-02-04 07:51:07
-48341,Lamborghini,Revuelto,Revuelto (LB744),2024,6.5 V12 (1015 Hp) HPEV 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),825,9250,Petrol / electricity,Coupe,2,2023,,4947,2033,1160,1772,2023-09-27 12:34:11
+48341,Lamborghini,Revuelto,Revuelto (LB744),2024,6.5 V12 (1015 Hp) Plug-in Hybrid 4WD DCT,PHEV (Plug-in Hybrid Electric Vehicle),825,9250,Petrol / electricity,Coupe,2,2023,,4947,2033,1160,1772,2026-08-17 15:36:52
+57642,Lamborghini,Revuelto,Revuelto (LB744),2024,SV 6.5 V12 (1065 Hp) Plug-in Hybrid 4WD DCT,PHEV (Plug-in Hybrid Electric Vehicle),825,9250,Petrol / electricity,Coupe,2,2026,,4944,2038,1161,1772,2026-08-17 16:16:09
 52514,Lamborghini,Temerario,Temerario,2025,4.0 V8 (920 Hp) HPEV e-4WD DCT,PHEV (Plug-in Hybrid Electric Vehicle),800,9000-9750,Petrol / electricity,Coupe,2,2024,,4706,1996,1201,1690,2024-08-19 16:16:17
 55133,Lamborghini,Fenomeno,Fenomeno,2026,6.5 V12 (1080 Hp) Plug-in Hybrid 4WD DCT,PHEV (Plug-in Hybrid Electric Vehicle),835,9250,Petrol / electricity,Coupe,2,2025,,5036,2072,1161,1772,2025-08-18 16:18:21
 3103,Paykan,Saloon,Saloon,1985,1.6 (65 Hp),Internal Combustion engine,65,5000,Petrol (Gasoline),Sedan,5,1985,2005,4345,1615,1420,915,2022-10-11 12:09:39
@@ -15978,7 +15981,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 5757,Triumph,Dolomite,Dolomite,1972,1500 HL (72 Hp),Internal Combustion engine,72,5500,Petrol (Gasoline),Sedan,5,1977,1981,4122,1588,1372,956,2023-08-09 13:02:11
 5758,Triumph,Dolomite,Dolomite,1972,1850 (91 Hp),Internal Combustion engine,91,5200,Petrol (Gasoline),Sedan,5,1972,1977,4115,1568,1372,967,2023-08-09 13:02:11
 5759,Triumph,Dolomite,Dolomite,1972,1850 HL (92 Hp),Internal Combustion engine,92,,Petrol (Gasoline),Sedan,,1977,1981,,,,,2023-08-09 13:02:37
-5760,Triumph,Dolomite,Dolomite,1972,Sprint (129 Hp),Internal Combustion engine,129,5700,Petrol (Gasoline),Sedan,5,1973,1981,4122,1588,1372,1041,2023-08-09 13:02:09
+5760,Triumph,Dolomite,Dolomite,1972,Sprint (129 Hp),Internal Combustion engine,129,5700,Petrol (Gasoline),Sedan,5,1973,1981,4115,1568,1500,970,2026-08-17 14:36:06
 5761,Autobianchi,A 112,A 112,1969,0.9 (44 Hp),Internal Combustion engine,44,,Petrol (Gasoline),Hatchback,,1969,1972,,,,,2021-12-03 11:53:43
 5762,Autobianchi,A 112,A 112,1969,0.9 (45 Hp),Internal Combustion engine,45,,Petrol (Gasoline),Hatchback,,1976,1978,,,,,2021-12-03 11:53:43
 5763,Autobianchi,A 112,A 112,1969,0.9 E (47 Hp),Internal Combustion engine,47,,Petrol (Gasoline),Hatchback,,1973,1977,,,,,2021-12-03 11:53:43
@@ -17847,6 +17850,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57010,Ferrari,GTS Turbo,GTS Turbo,1986,2.0 V8 (254 Hp),Internal Combustion engine,254,6500,Petrol (Gasoline),Targa,2,1986,1989,4255,1730,1128,1275,2026-05-15 16:09:49
 57031,Ferrari,HC25,HC25,2026,3.9 V8 (720 Hp) F1 DCT,Internal Combustion engine,720,7000,Petrol (Gasoline),Coupe - Cabriolet,2,2026,,4758,2006,1183,,2026-05-18 16:19:14
 57080,Ferrari,Luce,Luce,2027,122 kWh (1050 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2026,,5026,1999,1544,2260,2026-05-26 09:03:34
+57639,Ferrari,CZ26,CZ26,2027,4.0 V8 (1017 Hp) Plug-in Hybrid E4WD F1 DCT,PHEV (Plug-in Hybrid Electric Vehicle),797,7900,Petrol / electricity,Coupe,2,2026,,4762,2005,1189,,2026-08-17 16:18:05
 51872,Porsche,911,"911 (992, facelift 2024)",2024,Carrera 3.0 (394 Hp) PDK,Internal Combustion engine,394,,Petrol (Gasoline),Coupe,4,2024,,4542,1852,,1520,2024-05-29 14:18:55
 51873,Porsche,911,"911 (992, facelift 2024)",2024,Carrera GTS 3.6 (541 Hp) T-Hybrid PDK,FHEV (Full Hybrid Electric Vehicle),485,,Petrol (Gasoline),Coupe,4,2024,,4553,1852,,1595,2024-05-30 08:44:40
 51874,Porsche,911,"911 (992, facelift 2024)",2024,Carrera 4 GTS 3.6 (541 Hp) T-Hybrid PDK,FHEV (Full Hybrid Electric Vehicle),485,,Petrol (Gasoline),Coupe,4,2024,,4553,1852,,1645,2024-05-30 08:43:19
