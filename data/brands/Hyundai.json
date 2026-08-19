@@ -38278,7 +38278,74 @@
               "modelYear": "2027",
               "id": "11177",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57665",
+                    "update": "2026-08-18 16:00:07",
+                    "brand": "Hyundai",
+                    "model": "IONIQ 3",
+                    "generation": "IONIQ 3",
+                    "engine": "42.2 kWh (147 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4155",
+                    "width": "1800",
+                    "widthOpenedMirrors": "2100",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Electricity",
+                    "curbWeight": "1550-1645",
+                    "curbWeightMin": "1550",
+                    "curbWeightMax": "1645"
+                  },
+                  {
+                    "id": "57666",
+                    "update": "2026-08-18 16:00:07",
+                    "brand": "Hyundai",
+                    "model": "IONIQ 3",
+                    "generation": "IONIQ 3",
+                    "engine": "61 kWh (135 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4155",
+                    "width": "1800",
+                    "widthOpenedMirrors": "2100",
+                    "height": "1510",
+                    "heightMin": "1510",
+                    "fuel": "Electricity",
+                    "curbWeight": "1555-1650",
+                    "curbWeightMin": "1555",
+                    "curbWeightMax": "1650"
+                  },
+                  {
+                    "id": "57667",
+                    "update": "2026-08-18 16:00:07",
+                    "brand": "Hyundai",
+                    "model": "IONIQ 3",
+                    "generation": "IONIQ 3",
+                    "engine": "N Line 61 kWh (135 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4170",
+                    "width": "1800",
+                    "widthOpenedMirrors": "2100",
+                    "height": "1515",
+                    "heightMin": "1515",
+                    "fuel": "Electricity",
+                    "curbWeight": "1570-1660",
+                    "curbWeightMin": "1570",
+                    "curbWeightMax": "1660"
+                  }
+                ]
               }
             }
           ]
