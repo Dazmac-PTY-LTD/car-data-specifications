@@ -336,6 +336,51 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-19 09:25:04",
+        "name": "Orochi",
+        "id": "4115",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-19 09:25:35",
+              "name": "Orochi",
+              "modelYear": "2007",
+              "id": "11424",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57669",
+                    "update": "2026-08-19 10:08:59",
+                    "brand": "Mitsuoka",
+                    "model": "Orochi",
+                    "generation": "Orochi",
+                    "engine": "3.3 V6 (233 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "233/5600",
+                    "powerHp": "233",
+                    "powerRpm": "5600",
+                    "powerRpmLow": "5600",
+                    "yearstart": "2006",
+                    "yearstop": "2014",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4560",
+                    "width": "2035",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1590",
+                    "curbWeightMin": "1590"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

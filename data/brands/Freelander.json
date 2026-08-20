@@ -3,6 +3,51 @@
   "name": "Freelander",
   "id": "406",
   "models": {
-    "model": []
+    "model": [
+      {
+        "update": "2026-08-19 08:29:23",
+        "name": "8",
+        "id": "4114",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-19 08:29:43",
+              "name": "8",
+              "modelYear": "2026",
+              "id": "11423",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57668",
+                    "update": "2026-08-19 09:06:57",
+                    "brand": "Freelander",
+                    "model": "8",
+                    "generation": "8",
+                    "engine": "1.5T 60.3 kWh (830 Hp) Range Extender 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156",
+                    "powerHp": "156",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5118",
+                    "width": "2050",
+                    "height": "1898",
+                    "heightMin": "1898",
+                    "rideHeight": "270",
+                    "rideHeightMin": "270",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2980",
+                    "curbWeightMin": "2980"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
   }
 }

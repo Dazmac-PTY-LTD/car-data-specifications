@@ -85503,6 +85503,80 @@
                     "fuel": "Diesel",
                     "curbWeight": "2530",
                     "curbWeightMin": "2530"
+                  },
+                  {
+                    "id": "57673",
+                    "update": "2026-08-19 14:01:31",
+                    "brand": "Audi",
+                    "model": "Q9",
+                    "generation": "Q9",
+                    "engine": "2.9 TFSI V6 (429 Hp) quattro tiptronic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "429/5500-6800",
+                    "powerHp": "429",
+                    "powerRpm": "5500-6800",
+                    "powerRpmLow": "5500",
+                    "powerRpmHigh": "6800",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5309",
+                    "width": "2010",
+                    "widthOpenedMirrors": "2205",
+                    "height": "1794-1814",
+                    "heightMin": "1794",
+                    "heightMax": "1814",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2405",
+                    "curbWeightMin": "2405"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-08-19 13:27:52",
+        "name": "SQ9",
+        "id": "4116",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-19 13:28:05",
+              "name": "SQ9",
+              "modelYear": "2027",
+              "id": "11427",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57674",
+                    "update": "2026-08-19 14:01:31",
+                    "brand": "Audi",
+                    "model": "SQ9",
+                    "generation": "SQ9",
+                    "engine": "4.0 TFSI V8 (591 Hp) quattro tiptronic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "591/6000",
+                    "powerHp": "591",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6-7",
+                    "placesMin": "6",
+                    "placesMax": "7",
+                    "length": "5307",
+                    "width": "2043",
+                    "widthOpenedMirrors": "2205",
+                    "height": "1811",
+                    "heightMin": "1811",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "2520",
+                    "curbWeightMin": "2520"
                   }
                 ]
               }
