@@ -19252,6 +19252,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 31572,Fiat,Bravo,Bravo II (198),2007,1.4 MultiAir (140 Hp) Turbo,Internal Combustion engine,140,5000,Petrol (Gasoline),Hatchback,5,2010,2014,4336,1792,1498,1275,2023-03-10 13:42:40
 54964,Fiat,Bravo,Bravo II (198),2007,1.4 T-Jet (120 Hp) Dualogic,Internal Combustion engine,120,5000,Petrol (Gasoline),Hatchback,5,2008,2010,4336,1792,1498,1260,2025-07-29 16:11:49
 54965,Fiat,Bravo,Bravo II (198),2007,1.6 Multijet (120 Hp) Dualogic,Internal Combustion engine,120,4000,Diesel,Hatchback,5,2008,2014,4336,1792,1498,1320,2025-07-29 16:11:49
+57679,Fiat,Bravo,Bravo II (198),2007,1.4 16V (90 Hp) GPL,Internal Combustion engine,90,5500,Petrol / LPG,Hatchback,5,2010,2014,4336,1792,1498,1205,2026-08-20 11:47:21
 7181,Fiat,Bravo,Bravo (182),1995,1.2 16V 80 (82 Hp),Internal Combustion engine,82,5500,Petrol (Gasoline),Hatchback,5,1998,2001,4025,1755,1420,985,2023-03-10 13:12:01
 7182,Fiat,Bravo,Bravo (182),1995,1.4 (80 Hp),Internal Combustion engine,80,6000,Petrol (Gasoline),Hatchback,5,1995,2001,4025,1755,1420,985,2023-03-10 13:12:01
 7183,Fiat,Bravo,Bravo (182),1995,1.4 (75 Hp),Internal Combustion engine,75,6000,Petrol (Gasoline),Hatchback,5,1995,2001,4025,1755,1420,1010,2023-03-10 13:12:01
@@ -55401,9 +55402,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55343,Arcfox,T1,T1,2025,33.4 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4337,1860,1572,1415,2025-09-12 16:07:17
 55344,Arcfox,T1,T1,2025,42.3 kWh (95 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4337,1860,1572,1420,2025-09-12 16:07:17
 55345,Arcfox,Kaola,Kaola,2024,58.8 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,MPV,4,2023,,4500,1870,1655,1800,2025-09-12 16:07:17
-55348,Arcfox,Alpha T5,Alpha T5,2025,65 kWh (252 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2023,,4690,1936,1650,1980,2025-09-15 16:10:57
-55349,Arcfox,Alpha T5,Alpha T5,2025,74.4 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2024,,4690,1936,1650,2045,2025-09-15 16:10:57
-55350,Arcfox,Alpha T5,Alpha T5,2025,79.2 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2023,,4690,1936,1650,1975,2025-09-15 16:10:57
+57683,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,64.8 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,1955,2026-08-20 16:19:01
+57684,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,74.4 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,2025,2026-08-20 16:19:01
+57685,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,79.2 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,1975,2026-08-20 16:19:01
+55348,Arcfox,Alpha T5,Alpha T5,2025,65 kWh (252 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2023,2025,4690,1936,1650,1980,2026-08-20 12:59:25
+55349,Arcfox,Alpha T5,Alpha T5,2025,74.4 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2024,2025,4690,1936,1650,2045,2026-08-20 12:59:39
+55350,Arcfox,Alpha T5,Alpha T5,2025,79.2 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2023,2025,4690,1936,1650,1975,2026-08-20 12:59:59
 57675,Arcfox,Alpha S5,Alpha S5 (facelift 2026),2026,64.8 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4886,1930,1480,1885,2026-08-19 14:04:57
 57676,Arcfox,Alpha S5,Alpha S5 (facelift 2026),2026,74.4 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4886,1930,1480,1995,2026-08-19 14:04:57
 57677,Arcfox,Alpha S5,Alpha S5 (facelift 2026),2026,74.4 kWh (530 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4886,1930,1480,2120,2026-08-19 14:04:57
@@ -55870,6 +55874,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51300,Lucid,Air,Air,2022,Sapphire 118 kWh (1235 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2023,,5004,1989,1407,2420,2025-04-11 12:24:32
 55333,Lucid,Gravity,Gravity,2025,Grand Touring 123 kWh (828 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,5034,1999,1656,2679,2025-09-11 16:24:11
 55334,Lucid,Gravity,Gravity,2025,Grand Touring 123 kWh (828 Hp) AWD Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,5034,1999,1656,2743,2025-09-11 16:24:11
+57680,Lucid,Gravity,Gravity,2025,GT-S 123 kWh (1070 Hp) AWD Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2026,,5034,,1656,,2026-08-20 15:47:21
+57681,Lucid,Gravity,Gravity,2025,Touring 89 kWh (568 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,5035,,1658,2522,2026-08-20 16:00:41
+57682,Lucid,Gravity,Gravity,2025,Touring 89 kWh (568 Hp) AWD Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,5035,,1658,2587,2026-08-20 16:00:43
 48624,DFSK,F5,F5,2020,1.5 (137 Hp) CVT,Internal Combustion engine,137,,Petrol (Gasoline),SUV,5,2021,,4685,1865,1645,1664,2023-08-18 10:20:36
 45159,DFSK,Seres 3,Seres 3,2021,53.61 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2019,,4385,1850,1650,1765,2022-11-03 20:39:27
 48630,DFSK,580,580,2019,1.5 (150 Hp) CVT,Internal Combustion engine,150,,Petrol (Gasoline),SUV,7,2021,,4680,1845,1715,1510,2023-08-18 10:20:35
