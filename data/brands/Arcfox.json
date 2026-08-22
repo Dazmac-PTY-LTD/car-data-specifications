@@ -443,6 +443,32 @@
                     "fuel": "Electricity",
                     "curbWeight": "1975",
                     "curbWeightMin": "1975"
+                  },
+                  {
+                    "id": "57698",
+                    "update": "2026-08-21 15:54:56",
+                    "brand": "Arcfox",
+                    "model": "Alpha T5",
+                    "generation": "Alpha T5 (facelift 2025)",
+                    "engine": "1.5L 27.4 kWh (272 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "105/6000",
+                    "powerHp": "105",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4760",
+                    "width": "1936",
+                    "height": "1650",
+                    "heightMin": "1650",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1970",
+                    "curbWeightMin": "1970"
                   }
                 ]
               }
