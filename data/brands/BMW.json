@@ -81677,6 +81677,78 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-08-24 13:34:34",
+              "name": "iX3 Long (NA6)",
+              "modelYear": "2027",
+              "id": "11436",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57702",
+                    "update": "2026-08-24 14:22:01",
+                    "brand": "BMW",
+                    "model": "iX3",
+                    "generation": "iX3 Long (NA6)",
+                    "engine": "30L 77 kWh (265 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SAV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1895",
+                    "height": "1634",
+                    "heightMin": "1634",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57703",
+                    "update": "2026-08-24 14:29:43",
+                    "brand": "BMW",
+                    "model": "iX3",
+                    "generation": "iX3 Long (NA6)",
+                    "engine": "40L 86.9 kWh (374 Hp) xDrive",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SAV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1895",
+                    "height": "1634",
+                    "heightMin": "1634",
+                    "fuel": "Electricity",
+                    "curbWeight": "2255",
+                    "curbWeightMin": "2255"
+                  },
+                  {
+                    "id": "57704",
+                    "update": "2026-08-24 14:51:35",
+                    "brand": "BMW",
+                    "model": "iX3",
+                    "generation": "iX3 Long (NA6)",
+                    "engine": "50L 113.4 kWh (469 Hp) xDrive",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SAV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4885",
+                    "width": "1895",
+                    "height": "1634-1635",
+                    "heightMin": "1634",
+                    "heightMax": "1635",
+                    "fuel": "Electricity",
+                    "curbWeight": "2357-2371",
+                    "curbWeightMin": "2357",
+                    "curbWeightMax": "2371"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2025-09-05 12:45:09",
               "name": "iX3 (NA5)",
               "modelYear": "2026",

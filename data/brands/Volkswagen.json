@@ -112475,6 +112475,48 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-24 15:36:00",
+        "name": "ID.ERA 5S",
+        "id": "4119",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-24 15:36:16",
+              "name": "ID.ERA 5S",
+              "modelYear": "2026",
+              "id": "11438",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57705",
+                    "update": "2026-08-24 15:51:43",
+                    "brand": "Volkswagen",
+                    "model": "ID.ERA 5S",
+                    "generation": "ID.ERA 5S",
+                    "engine": "1.5 (177 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "109",
+                    "powerHp": "109",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4836",
+                    "width": "1880",
+                    "height": "1505",
+                    "heightMin": "1505",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1655",
+                    "curbWeightMin": "1655"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

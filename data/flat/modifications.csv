@@ -27517,6 +27517,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56924,Volkswagen,ID. Polo,ID. Polo,2026,55 kWh (211 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4053,1816,1530,1501,2026-06-05 08:51:38
 57383,Volkswagen,ID. Polo,ID. Polo,2026,GTI 55 kWh (226 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4096,1816,1513,1540-1560,2026-06-29 14:17:32
 57494,Volkswagen,ID. Polo,ID. Polo,2026,37 kWh (135 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4053,1816,1530,1500,2026-07-17 08:27:59
+57705,Volkswagen,ID.ERA 5S,ID.ERA 5S,2026,1.5 (177 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),109,,Petrol / electricity,Sedan,5,2026,,4836,1880,1505,1655,2026-08-24 15:51:43
 9168,Blonell,TF 2000 MK1,TF 2000 MK1,1999,2.0 i 16V (131 Hp),Internal Combustion engine,131,5700,Petrol (Gasoline),Cabriolet,2,1999,2006,3815,1680,1180,1110,2021-12-03 11:53:43
 9169,Fuqi,6500 (Land King),6500 (Land King),2005,3.0 V6 (160 Hp),Internal Combustion engine,160,5200,Petrol (Gasoline),Off-road vehicle,7,2007,,5160,1895,1870,1810,2021-12-03 11:53:43
 9170,Fuqi,6500 (Land King),6500 (Land King),2005,3.2 D (136 Hp),Internal Combustion engine,136,3600,Diesel,Off-road vehicle,7,2007,,5160,1895,1870,1810,2021-12-03 11:53:43
@@ -31701,6 +31702,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 43623,BMW,X3 M,"X3 M (F97 LCI, facelift 2021)",2022,Competition 3.0 (510 Hp) M xDrive M Steptronic,Internal Combustion engine,510,6250,Petrol (Gasoline),SAV,5,2021,,4716,1897,1669,2010,2023-04-13 16:19:15
 36002,BMW,X3 M,X3 M (F97),2019,3.0 (480 Hp) xDrive Steptronic,Internal Combustion engine,480,6250,Petrol (Gasoline),SAV,5,2019,2021,4726,1897,1667,1970,2023-04-25 16:13:34
 36003,BMW,X3 M,X3 M (F97),2019,Competition 3.0 (510 Hp) xDrive Steptronic,Internal Combustion engine,510,6250,Petrol (Gasoline),SAV,5,2019,2021,4726,1897,1669,1970,2023-04-25 16:13:33
+57702,BMW,iX3,iX3 Long (NA6),2027,30L 77 kWh (265 Hp),BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4885,1895,1634,,2026-08-24 14:22:01
+57703,BMW,iX3,iX3 Long (NA6),2027,40L 86.9 kWh (374 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4885,1895,1634,2255,2026-08-24 14:29:43
+57704,BMW,iX3,iX3 Long (NA6),2027,50L 113.4 kWh (469 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4885,1895,1634-1635,2357-2371,2026-08-24 14:51:35
 55293,BMW,iX3,iX3 (NA5),2026,50 108.7 kWh (469 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,SAV,5,2025,,4782,1895,1635,2285,2026-03-20 15:08:38
 57109,BMW,iX3,iX3 (NA5),2026,40 82.6 kWh (320 Hp),BEV (Electric Vehicle),,,Electricity,SAV,5,2026,,4782,1895,1635,2085,2026-05-28 13:24:34
 44277,BMW,iX3,"iX3 (G08, facelift 2021)",2022,80 kWh (286 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2021,2025,4734,1891,1668,2185,2025-09-05 13:16:46
@@ -46071,6 +46075,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57043,MG,TD Midget,TD Midget,1950,1.25 (54 Hp),Internal Combustion engine,54,5200,Petrol (Gasoline),Roadster,2,1949,1953,3683,1489,1346,835,2026-05-20 14:10:08
 57110,MG,4X,4X,2026,53.9 kWh (170 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,4500,1849,1621-1627,1640-1680,2026-05-28 14:45:54
 57111,MG,4X,4X,2026,64.2 kWh (204 Hp),BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,4500,1849,1621-1627,1710-1755,2026-05-28 14:56:17
+57700,MG,07,07,2026,67 kWh (239 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2026,,4886,1900,1478-1485,1810-1852,2026-08-24 12:06:58
+57701,MG,07,07,2026,DMH 1.5 (207 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),112,,Petrol / electricity,Liftback,5,2026,,4886,1900,1478-1485,1730-1775,2026-08-24 12:57:11
 14070,Skoda,100,100,1969,1.0 (39 Hp),Internal Combustion engine,39,,Petrol (Gasoline),Sedan,5,1969,1977,,,,,2022-09-07 12:50:28
 14071,Skoda,100,100,1969,1.0 (42 Hp),Internal Combustion engine,42,,Petrol (Gasoline),Sedan,5,1969,1977,,,,,2022-09-07 12:50:28
 14072,Skoda,130,130,1984,"G,GL (S136) (63 Hp)",Internal Combustion engine,63,,Petrol (Gasoline),Sedan,5,1988,1990,,,,,2022-09-07 12:50:28
@@ -55409,11 +55415,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 43221,Arcfox,Alpha-S,Alpha-S,2021,525S 67.3 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV",5,2021,,4930,1940,1599,,2022-11-03 20:39:27
 43222,Arcfox,Alpha-S,Alpha-S,2021,708S 93.6 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV",5,2021,,4930,1940,1599,,2022-11-03 20:39:27
 43223,Arcfox,Alpha-S,Alpha-S,2021,603H 93.6 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV",5,2021,,4930,1940,1599,,2022-11-03 20:39:27
-43231,Arcfox,Alpha-T,Alpha-T,2020,480S 67.3 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,,4788,1940,1683,,2022-11-03 20:39:27
-43232,Arcfox,Alpha-T,Alpha-T,2020,653S 93.6 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,,4788,1940,1683,,2022-11-03 20:39:27
-43233,Arcfox,Alpha-T,Alpha-T,2020,H 93.6 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,,4788,1940,1683,,2022-11-03 20:39:27
-55343,Arcfox,T1,T1,2025,33.4 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4337,1860,1572,1415,2025-09-12 16:07:17
-55344,Arcfox,T1,T1,2025,42.3 kWh (95 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4337,1860,1572,1420,2025-09-12 16:07:17
+43231,Arcfox,Alpha-T,Alpha-T,2020,480S 67.3 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,2025,4788,1940,1683,,2026-08-24 14:31:48
+43232,Arcfox,Alpha-T,Alpha-T,2020,653S 93.6 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,2025,4788,1940,1683,,2026-08-24 14:31:46
+43233,Arcfox,Alpha-T,Alpha-T,2020,H 93.6 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2020,2025,4788,1940,1683,,2026-08-24 14:31:43
+57708,Arcfox,Beta T1,Beta T1 (facelift 2026),2026,36.4 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4375,1860,1572,,2026-08-24 16:18:21
+57709,Arcfox,Beta T1,Beta T1 (facelift 2026),2026,42.3 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4375,1860,1572,,2026-08-24 16:18:21
+55343,Arcfox,Beta T1,T1,2025,33.4 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,2026,4337,1860,1572,1415,2026-08-24 11:19:58
+55344,Arcfox,Beta T1,T1,2025,42.3 kWh (95 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,2026,4337,1860,1572,1420,2026-08-24 11:19:55
 55345,Arcfox,Kaola,Kaola,2024,58.8 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,MPV,4,2023,,4500,1870,1655,1800,2025-09-12 16:07:17
 57683,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,64.8 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,1955,2026-08-20 16:19:01
 57684,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,74.4 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,2025,2026-08-20 16:19:01
@@ -55437,6 +55445,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57623,Arcfox,Beta S3,Beta S3,2026,54 kWh (216 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4916,1900,1480,,2026-08-11 16:16:04
 57624,Arcfox,Beta S3,Beta S3,2026,55.6 kWh (216 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4916,1900,1480,,2026-08-11 16:16:04
 57625,Arcfox,Beta S3,Beta S3,2026,65.8 kWh (216 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4916,1900,1480,,2026-08-11 16:16:04
+57706,Arcfox,Alpha T6,Alpha T6,2025,93.6 kWh (218 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4788,1940,1683,,2026-08-24 16:18:18
+57707,Arcfox,Alpha T6,Alpha T6,2025,93.6 kWh (435 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4788,1940,1683,,2026-08-24 16:18:18
 36367,Aurus,Senat,Senat,2018,S600 4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,5500,Petrol (Gasoline),Sedan,4,2018,,5630,2020,1685,,2023-08-21 12:29:51
 36366,Aurus,Senat,Senat Limousine,2018,L700 4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,5500,Petrol (Gasoline),Sedan,6,2018,,6630,2020,1695,,2023-08-21 12:29:51
 49006,Aurus,Komendant,Komendant,2023,4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,,Petrol (Gasoline),SUV,4,2022,,5380,2004,1820,3235,2023-09-28 14:05:49

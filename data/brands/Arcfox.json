@@ -191,13 +191,14 @@
                 "modification": [
                   {
                     "id": "43231",
-                    "update": "2022-11-03 20:39:27",
+                    "update": "2026-08-24 14:31:48",
                     "brand": "Arcfox",
                     "model": "Alpha-T",
                     "generation": "Alpha-T",
                     "engine": "480S 67.3 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2025",
                     "coupe": "SUV",
                     "places": "5",
                     "placesMin": "5",
@@ -212,13 +213,14 @@
                   },
                   {
                     "id": "43232",
-                    "update": "2022-11-03 20:39:27",
+                    "update": "2026-08-24 14:31:46",
                     "brand": "Arcfox",
                     "model": "Alpha-T",
                     "generation": "Alpha-T",
                     "engine": "653S 93.6 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2025",
                     "coupe": "SUV",
                     "places": "5",
                     "placesMin": "5",
@@ -233,13 +235,14 @@
                   },
                   {
                     "id": "43233",
-                    "update": "2022-11-03 20:39:27",
+                    "update": "2026-08-24 14:31:43",
                     "brand": "Arcfox",
                     "model": "Alpha-T",
                     "generation": "Alpha-T",
                     "engine": "H 93.6 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2025",
                     "coupe": "SUV",
                     "places": "5",
                     "placesMin": "5",
@@ -259,11 +262,65 @@
         }
       },
       {
-        "update": "2025-09-12 11:34:56",
-        "name": "T1",
+        "update": "2026-08-24 11:17:23",
+        "name": "Beta T1",
         "id": "3808",
         "generations": {
           "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-24 11:18:06",
+              "name": "Beta T1 (facelift 2026)",
+              "modelYear": "2026",
+              "id": "11435",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57708",
+                    "update": "2026-08-24 16:18:21",
+                    "brand": "Arcfox",
+                    "model": "Beta T1",
+                    "generation": "Beta T1 (facelift 2026)",
+                    "engine": "36.4 kWh (129 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4375",
+                    "width": "1860",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "rideHeight": "153",
+                    "rideHeightMin": "153",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57709",
+                    "update": "2026-08-24 16:18:21",
+                    "brand": "Arcfox",
+                    "model": "Beta T1",
+                    "generation": "Beta T1 (facelift 2026)",
+                    "engine": "42.3 kWh (129 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4375",
+                    "width": "1860",
+                    "height": "1572",
+                    "heightMin": "1572",
+                    "rideHeight": "153-181",
+                    "rideHeightMin": "153",
+                    "rideHeightMax": "181",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
             {
               "prototype": "0",
               "update": "2025-09-12 11:35:24",
@@ -274,13 +331,14 @@
                 "modification": [
                   {
                     "id": "55343",
-                    "update": "2025-09-12 16:07:17",
+                    "update": "2026-08-24 11:19:58",
                     "brand": "Arcfox",
-                    "model": "T1",
+                    "model": "Beta T1",
                     "generation": "T1",
                     "engine": "33.4 kWh (129 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2025",
+                    "yearstop": "2026",
                     "coupe": "Hatchback",
                     "places": "5",
                     "placesMin": "5",
@@ -296,13 +354,14 @@
                   },
                   {
                     "id": "55344",
-                    "update": "2025-09-12 16:07:17",
+                    "update": "2026-08-24 11:19:55",
                     "brand": "Arcfox",
-                    "model": "T1",
+                    "model": "Beta T1",
                     "generation": "T1",
                     "engine": "42.3 kWh (95 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2025",
+                    "yearstop": "2026",
                     "coupe": "Hatchback",
                     "places": "5",
                     "placesMin": "5",
@@ -936,6 +995,68 @@
                     "heightMin": "1480",
                     "rideHeight": "129",
                     "rideHeightMin": "129",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-08-24 14:30:18",
+        "name": "Alpha T6",
+        "id": "4118",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-24 14:30:55",
+              "name": "Alpha T6",
+              "modelYear": "2025",
+              "id": "11437",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57706",
+                    "update": "2026-08-24 16:18:18",
+                    "brand": "Arcfox",
+                    "model": "Alpha T6",
+                    "generation": "Alpha T6",
+                    "engine": "93.6 kWh (218 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4788",
+                    "width": "1940",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57707",
+                    "update": "2026-08-24 16:18:18",
+                    "brand": "Arcfox",
+                    "model": "Alpha T6",
+                    "generation": "Alpha T6",
+                    "engine": "93.6 kWh (435 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4788",
+                    "width": "1940",
+                    "height": "1683",
+                    "heightMin": "1683",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
                     "fuel": "Electricity",
                     "curbWeight": ""
                   }

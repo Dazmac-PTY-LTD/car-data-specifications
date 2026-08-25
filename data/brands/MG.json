@@ -5919,6 +5919,78 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-24 08:32:30",
+        "name": "07",
+        "id": "4117",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-24 08:38:59",
+              "name": "07",
+              "modelYear": "2026",
+              "id": "11434",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57700",
+                    "update": "2026-08-24 12:06:58",
+                    "brand": "MG",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "67 kWh (239 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1900",
+                    "height": "1478-1485",
+                    "heightMin": "1478",
+                    "heightMax": "1485",
+                    "rideHeight": "120-127",
+                    "rideHeightMin": "120",
+                    "rideHeightMax": "127",
+                    "fuel": "Electricity",
+                    "curbWeight": "1810-1852",
+                    "curbWeightMin": "1810",
+                    "curbWeightMax": "1852"
+                  },
+                  {
+                    "id": "57701",
+                    "update": "2026-08-24 12:57:11",
+                    "brand": "MG",
+                    "model": "07",
+                    "generation": "07",
+                    "engine": "DMH 1.5 (207 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "112",
+                    "powerHp": "112",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4886",
+                    "width": "1900",
+                    "height": "1478-1485",
+                    "heightMin": "1478",
+                    "heightMax": "1485",
+                    "rideHeight": "120-127",
+                    "rideHeightMin": "120",
+                    "rideHeightMax": "127",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "1730-1775",
+                    "curbWeightMin": "1730",
+                    "curbWeightMax": "1775"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
