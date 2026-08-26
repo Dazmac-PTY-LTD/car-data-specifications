@@ -1721,7 +1721,7 @@
                 "modification": [
                   {
                     "id": "11556",
-                    "update": "2023-06-22 08:44:52",
+                    "update": "2026-08-25 17:31:59",
                     "brand": "Rover",
                     "model": "200",
                     "generation": "200 (RF)",
@@ -1796,7 +1796,7 @@
                   },
                   {
                     "id": "11559",
-                    "update": "2023-06-22 08:44:50",
+                    "update": "2026-08-25 17:31:56",
                     "brand": "Rover",
                     "model": "200",
                     "generation": "200 (RF)",
@@ -1843,6 +1843,35 @@
                     "fuel": "Diesel",
                     "curbWeight": "1210",
                     "curbWeightMin": "1210"
+                  },
+                  {
+                    "id": "57715",
+                    "update": "2026-08-25 17:28:41",
+                    "brand": "Rover",
+                    "model": "200",
+                    "generation": "200 (RF)",
+                    "engine": "211 (60 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "60/5700",
+                    "powerHp": "60",
+                    "powerRpm": "5700",
+                    "powerRpmLow": "5700",
+                    "yearstart": "1998",
+                    "yearstop": "1999",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3973",
+                    "width": "1688",
+                    "widthOpenedMirrors": "1894",
+                    "height": "1419",
+                    "heightMin": "1419",
+                    "rideHeight": "120",
+                    "rideHeightMin": "120",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1000-1060",
+                    "curbWeightMin": "1000",
+                    "curbWeightMax": "1060"
                   }
                 ]
               }

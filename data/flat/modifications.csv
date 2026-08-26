@@ -5693,6 +5693,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54772,Opel,Frontera,Frontera (2024),2024,1.2 Turbo (145 Hp) Hybrid eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),SUV,5,2025,,4385,1795,1655,1269,2026-01-19 08:10:16
 54773,Opel,Frontera,Frontera (2024),2024,1.2 Turbo (145 Hp) Hybrid eDCT 7 Seat,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),SUV,7,2025,,4385,1795,1655,1301,2026-01-19 08:10:12
 54903,Opel,Frontera,Frontera (2024),2024,54 kWh (113 Hp) Electric Extended Range,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4385,1795,1655,1535,2026-01-19 08:09:49
+57710,Opel,Frontera,Frontera (2024),2024,1.2 Turbo (100 Hp),Internal Combustion engine,100,5500,Petrol (Gasoline),SUV,5,2026,,4385,1795,1655,1266,2026-08-25 10:51:50
 2552,Opel,Frontera,Frontera B,1998,2.2 DTI (115 Hp) 4x4,Internal Combustion engine,115,3800,Diesel,SUV,5,1998,2003,4658,1787,1740,1780,2024-05-27 14:04:10
 2553,Opel,Frontera,Frontera B,1998,2.2 DTI (120 Hp) 4x4,Internal Combustion engine,120,4000,Diesel,SUV,5,2001,2003,4658,1814,1740,1780,2023-07-31 16:25:25
 2554,Opel,Frontera,Frontera B,1998,2.2 i (136 Hp) 4x4,Internal Combustion engine,136,5200,Petrol (Gasoline),SUV,5,1998,2003,4658,1814,1740,1722,2023-08-21 16:34:21
@@ -36899,11 +36900,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 11554,Rover,Mini MK,Mini MK I,1990,1300 (63 Hp),Internal Combustion engine,63,5700,Petrol (Gasoline),Hatchback,5,1996,2000,3100,1440,1350,700,2022-09-12 16:55:28
 29118,Rover,Mini MK,Mini MK I,1990,1.3i (50 Hp) Automatic,Internal Combustion engine,50,5000,Petrol (Gasoline),Hatchback,5,1992,2000,3050,1410,1350,645,2022-09-12 16:55:28
 11555,Rover,Mini MK,Mini MK I Cabrio,1992,1300 (63 Hp),Internal Combustion engine,63,5700,Petrol (Gasoline),Cabriolet,5,1992,1995,3100,1440,1350,750,2022-09-12 16:55:28
-11556,Rover,200,200 (RF),1995,200 Vi (145 Hp),Internal Combustion engine,145,6750,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1135,2023-06-22 08:44:52
+11556,Rover,200,200 (RF),1995,200 Vi (145 Hp),Internal Combustion engine,145,6750,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1135,2026-08-25 17:31:59
 11557,Rover,200,200 (RF),1995,214 i (75 Hp),Internal Combustion engine,75,5500,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1060,2023-06-22 08:44:51
 11558,Rover,200,200 (RF),1995,214 Si (103 Hp),Internal Combustion engine,103,6000,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1075,2023-06-22 08:44:51
-11559,Rover,200,200 (RF),1995,216 Si (112 Hp),Internal Combustion engine,112,6000,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1100,2023-06-22 08:44:50
+11559,Rover,200,200 (RF),1995,216 Si (112 Hp),Internal Combustion engine,112,6000,Petrol (Gasoline),Hatchback,5,1995,2000,3973,1688,1419,1100,2026-08-25 17:31:56
 11560,Rover,200,200 (RF),1995,220 SDi (105 Hp),Internal Combustion engine,105,4200,Diesel,Hatchback,5,1995,2000,3973,1688,1419,1210,2023-07-25 09:38:17
+57715,Rover,200,200 (RF),1995,211 (60 Hp),Internal Combustion engine,60,5700,Petrol (Gasoline),Hatchback,5,1998,1999,3973,1688,1419,1000-1060,2026-08-25 17:28:41
 11561,Rover,200,200 Coupe (XW),1992,216 (122 Hp),Internal Combustion engine,122,6800,Petrol (Gasoline),Coupe,4,1992,2000,4270,1680,1370,1085,2022-10-11 12:09:39
 11562,Rover,200,200 Coupe (XW),1992,216i (111 Hp),Internal Combustion engine,111,6000,Petrol (Gasoline),Coupe,4,1994,2000,4270,1680,1370,1080,2022-10-11 12:09:39
 11563,Rover,200,200 Coupe (XW),1992,218i (145 Hp),Internal Combustion engine,145,6750,Petrol (Gasoline),Coupe,4,1994,2000,4270,1680,1370,1090,2022-10-11 12:09:39
@@ -47053,6 +47055,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 36960,Skoda,Kamiq,Kamiq,2019,1.6 TDI (115 Hp),Internal Combustion engine,115,3250-4000,Diesel,SUV,5,2019,2020,4241,1793,1553,1261-1420,2022-09-12 16:55:28
 36961,Skoda,Kamiq,Kamiq,2019,1.6 TDI (115 Hp) DSG,Internal Combustion engine,115,3250-4000,Diesel,SUV,5,2019,2020,4241,1793,1553,1289-1435,2022-09-12 16:55:28
 36962,Skoda,Kamiq,Kamiq,2019,1.0 G-TEC (90 Hp),Internal Combustion engine,90,,Petrol / CNG,SUV,5,2020,2022,4241,1793,1553,,2024-01-10 09:48:43
+57711,Skoda,Kamiq,Kamiq,2019,1.0 TSI (110 Hp),Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2020,2023,4241,1793,1553-1559,1162-1321,2026-08-25 14:33:00
+57712,Skoda,Kamiq,Kamiq,2019,1.0 TSI (110 Hp) DSG,Internal Combustion engine,110,5500,Petrol (Gasoline),SUV,5,2020,2023,4241,1793,1553-1559,1181-1340,2026-08-25 14:33:00
 50905,Skoda,Scala,Scala (facelift 2023),2024,1.0 TSI (95 Hp),Internal Combustion engine,95,,Petrol (Gasoline),Hatchback,5,2023,,4362,1793,1514,,2024-01-10 10:16:38
 50906,Skoda,Scala,Scala (facelift 2023),2024,1.0 TSI (115 Hp),Internal Combustion engine,115,,Petrol (Gasoline),Hatchback,5,2023,,4362,1793,1514,,2024-01-09 16:26:35
 50907,Skoda,Scala,Scala (facelift 2023),2024,1.0 TSI (115 Hp) DSG,Internal Combustion engine,115,,Petrol (Gasoline),Hatchback,5,2023,,4362,1793,1514,,2024-01-09 16:26:35
@@ -55422,7 +55426,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57709,Arcfox,Beta T1,Beta T1 (facelift 2026),2026,42.3 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4375,1860,1572,,2026-08-24 16:18:21
 55343,Arcfox,Beta T1,T1,2025,33.4 kWh (129 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,2026,4337,1860,1572,1415,2026-08-24 11:19:58
 55344,Arcfox,Beta T1,T1,2025,42.3 kWh (95 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,2026,4337,1860,1572,1420,2026-08-24 11:19:55
-55345,Arcfox,Kaola,Kaola,2024,58.8 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,MPV,4,2023,,4500,1870,1655,1800,2025-09-12 16:07:17
+57713,Arcfox,Kaola,Kaola S,2025,58.8 kWh (204 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2024,,4500,1870,1675,1780,2026-08-25 16:08:01
+55345,Arcfox,Kaola,Kaola,2024,58.8 kWh (163 Hp),BEV (Electric Vehicle),,,Electricity,Minivan,4,2023,,4500,1870,1655,1800,2025-09-12 16:07:17
 57683,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,64.8 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,1955,2026-08-20 16:19:01
 57684,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,74.4 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,2025,2026-08-20 16:19:01
 57685,Arcfox,Alpha T5,Alpha T5 (facelift 2025),2026,79.2 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4760,1936,1650,1975,2026-08-20 16:19:01
@@ -55860,6 +55865,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45525,Hongqi,E-HS9,E-HS9,2020,99 kWh (551 Hp) AWD 6 Seat,BEV (Electric Vehicle),,,Electricity,SUV,6,2020,,5209,2010,1713,2630,2022-11-03 20:39:27
 48353,Hongqi,Ousado,Ousado,2023,2.0T (223 Hp) Automatic,Internal Combustion engine,223,,Petrol (Gasoline),Sedan,5,2023,,4988,1875,1470,,2023-04-05 14:22:07
 52949,Hongqi,HS3,HS3,2023,1.5T (169 Hp) DCT,Internal Combustion engine,169,,Petrol (Gasoline),SUV,5,2023,,4655,1900,1668,1660,2025-04-11 16:16:53
+57714,Hongqi,HS3,HS3,2023,2.0T (252 Hp) AWD Automatic,Internal Combustion engine,252,,Petrol (Gasoline),SUV,5,2023,,4655,1900,1668,,2026-08-25 16:08:01
 53932,Hongqi,EH7,EH7,2024,85 kWh (344 Hp),BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,4980,1915,1490,2273,2025-04-11 12:24:32
 53933,Hongqi,EH7,EH7,2024,85 kWh (619 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,4980,1915,1490,2403,2025-04-11 12:24:32
 53934,Hongqi,EH7,EH7,2024,111 kWh (619 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,,4980,1915,1490,2410,2025-04-11 12:24:32
