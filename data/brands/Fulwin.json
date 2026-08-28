@@ -787,6 +787,46 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-08-27 14:16:52",
+        "name": "T7",
+        "id": "4121",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-08-27 14:21:47",
+              "name": "T7",
+              "modelYear": "2026",
+              "id": "11445",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57729",
+                    "update": "2026-08-27 15:07:37",
+                    "brand": "Fulwin",
+                    "model": "T7",
+                    "generation": "T7",
+                    "engine": "65.05 kWh (242 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4570",
+                    "width": "1852",
+                    "height": "1694",
+                    "heightMin": "1694",
+                    "fuel": "Electricity",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

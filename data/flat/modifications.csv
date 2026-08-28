@@ -3203,7 +3203,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 1410,Alfa Romeo,33,33 (905),1983,1.7 i.e. (105 Hp),Internal Combustion engine,105,5500,Petrol (Gasoline),Hatchback,5,1988,1989,4015,1612,1345,930,2026-04-20 15:57:32
 1411,Alfa Romeo,33,33 (905),1983,1.7 QV (118 Hp),Internal Combustion engine,118,,Petrol (Gasoline),Hatchback,5,1988,1989,,,,,2026-04-20 15:54:59
 1412,Alfa Romeo,33,33 (905),1983,1.8 TD (74 Hp),Internal Combustion engine,74,4000,Diesel,Hatchback,5,1986,1990,,,,,2026-04-20 15:10:49
-47361,Alfa Romeo,33,33 Stradale,1967,2.0 V8 (230 Hp),Internal Combustion engine,230,8800,Petrol (Gasoline),Coupe,2,1967,1969,3970,1710,990,700,2023-02-04 07:51:07
+47361,Alfa Romeo,33,33 Stradale,1967,2.0 V8 (230 Hp),Internal Combustion engine,230,8800,Petrol (Gasoline),Coupe,2,1967,1969,3970,1710,990,700,2026-08-28 10:31:49
 1422,Alfa Romeo,Alfetta,Alfetta (116),1972,1.6 (107 Hp),Internal Combustion engine,107,,Petrol (Gasoline),Sedan,5,1975,1984,,,,,2023-03-09 08:32:40
 1423,Alfa Romeo,Alfetta,Alfetta (116),1972,1.8 (116 Hp),Internal Combustion engine,116,,Petrol (Gasoline),Sedan,5,1974,1977,,,,,2023-03-09 08:32:40
 1424,Alfa Romeo,Alfetta,Alfetta (116),1972,1.8 (122 Hp),Internal Combustion engine,122,,Petrol (Gasoline),Sedan,5,1979,1984,,,,,2023-03-09 08:32:40
@@ -7249,10 +7249,14 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54101,Kia,Tasman,Tasman Double Cab,2025,2.5 T-GDI (281 Hp) 4WD Automatic,Internal Combustion engine,281,5800,Petrol (Gasoline),Pick-up,5,2025,,5410,1930,1870-1890,2165-2345,2025-04-08 16:15:55
 54102,Kia,Tasman,Tasman Double Cab,2025,X-Pro 2.5 T-GDI (281 Hp) 4WD Automatic,Internal Combustion engine,281,5800,Petrol (Gasoline),Pick-up,5,2025,,5410,1930,1920,2250-2415,2025-04-08 16:15:53
 55710,Kia,Tasman,Tasman Double Cab,2025,2.2 CRDi (210 Hp) 4WD Automatic,Internal Combustion engine,210,3800,Diesel,Pick-up,5,2025,,5410,1930,1870-1890,2203-2311,2025-11-04 16:20:02
-53588,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,,3995,1805,1680,,2025-01-28 16:16:40
-53589,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp) DCT,Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,,3995,1805,1680,,2025-01-28 16:16:40
-53590,Kia,Syros,Syros,2025,1.5 CRDi VGT (116 Hp),Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2025,,3995,1805,1680,,2025-01-28 16:16:40
-53591,Kia,Syros,Syros,2025,1.5 CRDi VGT (116 Hp) Automatic,Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2025,,3995,1805,1680,,2025-01-28 16:16:40
+57732,Kia,Syros,Syros (facelift 2026),2026,1.0 T-GDi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
+57733,Kia,Syros,Syros (facelift 2026),2026,1.0 T-GDi (120 Hp) DCT,Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
+57734,Kia,Syros,Syros (facelift 2026),2026,1.5 CRDi VGT (116 Hp),Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
+57735,Kia,Syros,Syros (facelift 2026),2026,1.5 CRDi VGT (116 Hp) Automatic,Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
+53588,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:32
+53589,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp) DCT,Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:30
+53590,Kia,Syros,Syros,2025,1.5 CRDi VGT (116 Hp),Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:27
+53591,Kia,Syros,Syros,2025,1.5 CRDi VGT (116 Hp) Automatic,Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:24
 53803,Kia,EV4,EV4 Hatch,2025,58.3 kWh (204 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4430,1860,1485,,2025-08-22 12:20:00
 53804,Kia,EV4,EV4 Hatch,2025,81.4 kWh (204 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,4430,1860,1485,,2025-08-22 12:20:09
 53801,Kia,EV4,EV4 Fastback,2025,58.3 kWh (204 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,Fastback,5,2025,,4730,1860,1480,,2025-08-22 12:19:31
@@ -41701,7 +41705,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54876,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2025,,4723,1855,1469,2000,2025-11-26 08:06:15
 54877,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2025,,4723,1855,1469,2080,2026-07-10 09:23:26
 57457,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,4723,1855,1469,1990,2026-07-09 11:41:16
-57465,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),4,2026,,4742,1859,1471,2295,2026-07-10 09:35:54
+57465,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),4,2026,,4742,1859,1471,2295,2026-08-27 13:57:46
 55721,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 180 (156 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1695,2025-11-06 16:24:32
 55722,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
 55723,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
@@ -41711,7 +41715,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 53916,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2026-07-14 10:11:56
 55544,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2026-07-09 11:37:59
 57456,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4723,1855,1468,1980,2026-07-09 10:16:50
-57464,Mercedes-Benz,CLA,CLA Saloon (C174),2025,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Sedan,4,2026,,4742,1859,1469,2280,2026-07-10 09:35:48
+57464,Mercedes-Benz,CLA,CLA Saloon (C174),2025,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Sedan,4,2026,,4742,1859,1469,2280,2026-08-27 13:53:26
 47281,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,AMG CLA 35 (306 Hp) Mild Hybrid 4MATIC AMG SPEEDSHIFT DCT 8G,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",306,6100,Petrol (Gasoline),Station wagon (estate),5,2023,,4692,1834,1407,1630,2024-05-17 14:59:47
 47285,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 180 (136 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Station wagon (estate),5,2023,,4688,1830,1430,1455,2024-05-17 14:59:47
 47286,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 200 (163 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Station wagon (estate),5,2023,,4688,1830,1430,1455,2024-05-17 14:59:47
@@ -44510,7 +44514,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 50600,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6 Smartstream (235 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),180,5500,Petrol (Gasoline),SUV,5-7,2023,,4830,1900,1720-1770,,2023-11-29 14:24:10
 51603,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6T (215 Hp) Full Hybrid Automatic,FHEV (Full Hybrid Electric Vehicle),160,5500,Petrol (Gasoline),SUV,6-7,2024,,4830,1900,1780,1900-2030,2024-04-19 16:18:27
 51604,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6T (215 Hp) Full Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),160,5500,Petrol (Gasoline),SUV,6-7,2024,,4830,1900,1780,1965-2095,2024-04-19 16:18:27
-51605,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6T (253 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),160,5500,Petrol / electricity,SUV,6-7,2024,,4830,1900,1780,2090-2145,2024-04-19 16:18:27
+51605,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6T (253 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),160,5500,Petrol / electricity,SUV,6-7,2024,2025,4830,1900,1780,2090-2145,2026-08-27 15:55:34
+57730,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6 T-GDI (288 Hp) Plug-in Hybrid AWD Automatic 5 Seat,PHEV (Plug-in Hybrid Electric Vehicle),180,6000,Petrol / electricity,SUV,5,2025,,4830,1900,1720,2035-2090,2026-08-27 16:38:01
+57731,Hyundai,Santa Fe,Santa Fe V (MX5),2024,1.6 T-GDI (288 Hp) Plug-in Hybrid AWD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),180,6000,Petrol / electricity,SUV,6-7,2025,,4830,1900,1720,2075-2145,2026-08-27 16:38:02
 41453,Hyundai,Santa Fe,"Santa Fe IV (TM, facelift 2020)",2021,2.5 Smartstream (191 Hp) Automatic,Internal Combustion engine,191,6100,Petrol (Gasoline),SUV,5,2020,2023,4785,1900,1709,,2023-11-29 09:23:38
 41454,Hyundai,Santa Fe,"Santa Fe IV (TM, facelift 2020)",2021,2.5 Smartstream (191 Hp) HTRAC AWD Automatic,Internal Combustion engine,191,6100,Petrol (Gasoline),SUV,5,2020,2023,4785,1900,1709,,2023-11-29 09:23:35
 41455,Hyundai,Santa Fe,"Santa Fe IV (TM, facelift 2020)",2021,2.5 Smartstream (277 Hp) DCT,Internal Combustion engine,277,6000,Petrol (Gasoline),SUV,5,2020,2023,4785,1900,1709,,2023-11-29 09:23:23
@@ -48667,6 +48673,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57576,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,3.8 Turbo-Thrift (140 Hp),Internal Combustion engine,140,4400,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1442-1617,2026-07-30 14:55:55
 57577,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1501-1642,2026-07-30 15:22:37
 57578,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1450-1588,2026-07-30 15:56:36
+57738,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.7 Turbo-Fire V8 (255 Hp),Internal Combustion engine,255,4800,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1533-1674,2026-08-28 09:58:07
 14646,Innocenti,Elba,Elba,1986,1.4 i (68 Hp),Internal Combustion engine,68,5500,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,930,2023-05-12 14:14:54
 14647,Innocenti,Elba,Elba,1986,1.6 i (76 Hp),Internal Combustion engine,76,5750,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,950,2023-05-12 14:14:53
 14648,Innocenti,Elba,Elba,1986,1.7 D (58 Hp),Internal Combustion engine,58,4600,Diesel,Station wagon (estate),5,1986,1996,4037,1555,1450,970,2021-12-03 11:53:43
@@ -52032,10 +52039,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56021,Dacia,Sandero,Sandero III Stepway (facelift 2025),2026,1.0 TCe 110 (110 Hp),Internal Combustion engine,110,5000-5250,Petrol (Gasoline),Crossover,5,2025,,4102,1853,1586,1095,2025-12-15 16:10:31
 56022,Dacia,Sandero,Sandero III Stepway (facelift 2025),2026,1.2 Eco-G 120 (114/122 Hp) LPG,Internal Combustion engine,114,4500-5500,Petrol / LPG,Crossover,5,2025,,4102,1853,1586,1194,2025-12-15 16:10:31
 56023,Dacia,Sandero,Sandero III Stepway (facelift 2025),2026,1.2 Eco-G 120 (114/122 Hp) LPG EDC,Internal Combustion engine,114,4500-5500,Petrol / LPG,Crossover,5,2025,,4102,1853,1586,1222,2025-12-15 16:10:31
+57737,Dacia,Sandero,Sandero III Stepway (facelift 2025),2026,1.8 155 (158 Hp) Hybrid Multi-Mode,FHEV (Full Hybrid Electric Vehicle),109,5300,Petrol (Gasoline),Crossover,5,2026,,4102,1853,1586,1275-1307,2026-08-27 16:17:09
 55965,Dacia,Sandero,Sandero III (facelift 2025),2026,1.0 SCe 65 (67 Hp),Internal Combustion engine,67,6250,Petrol (Gasoline),Hatchback,5,2025,,4102,1853,1496,1025,2025-12-10 14:24:00
 55966,Dacia,Sandero,Sandero III (facelift 2025),2026,1.0 TCe 100 (101 Hp),Internal Combustion engine,101,5000-5250,Petrol (Gasoline),Hatchback,5,2025,,4102,1853,1496,1059,2025-12-10 14:24:00
 55967,Dacia,Sandero,Sandero III (facelift 2025),2026,1.2 Eco-G 120 (114/122 Hp) LPG,Internal Combustion engine,114,4500-5500,Petrol / LPG,Hatchback,5,2025,,4102,1853,1496,1159,2025-12-10 14:24:00
 55968,Dacia,Sandero,Sandero III (facelift 2025),2026,1.2 Eco-G 120 (114/122 Hp) LPG EDC,Internal Combustion engine,114,4500-5500,Petrol / LPG,Hatchback,5,2025,,4102,1853,1496,1205,2025-12-10 14:24:00
+57736,Dacia,Sandero,Sandero III (facelift 2025),2026,1.8 155 (158 Hp) Hybrid Multi-Mode,FHEV (Full Hybrid Electric Vehicle),109,5300,Petrol (Gasoline),Hatchback,5,2026,,4102,1853,1496,1258-1281,2026-08-27 16:17:09
 46772,Dacia,Sandero,Sandero III Stepway (facelift 2022),2023,1.0 TCe 90 (91 Hp),Internal Combustion engine,91,4600-5000,Petrol (Gasoline),Crossover,5,2022,2025,4099,1848,1587,1077-1096,2025-12-10 14:27:26
 46773,Dacia,Sandero,Sandero III Stepway (facelift 2022),2023,1.0 TCe 90 (91 Hp) CVT,Internal Combustion engine,91,4500-5000,Petrol (Gasoline),Crossover,5,2022,2025,4099,1848,1587,1122,2025-12-10 14:27:22
 46774,Dacia,Sandero,Sandero III Stepway (facelift 2022),2023,1.0 ECO-G 100 (91/101 Hp) LPG,Internal Combustion engine,91,4800-5000,Petrol / LPG,Crossover,5,2022,2025,4099,1848,1587,1134-1154,2025-12-10 14:27:30
@@ -57128,6 +57137,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56975,Fulwin,X3,X3,2025,50.79 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4327,1910,1715,1722,2026-05-11 16:12:15
 56976,Fulwin,X3,X3,2025,68.36 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4327,1910,1715,1827,2026-05-11 16:12:15
 57475,Fulwin,A9,A9,2026,70.11 kWh (242 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4836,1896,1489,1850-1876,2026-07-13 15:11:43
+57729,Fulwin,T7,T7,2026,65.05 kWh (242 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4570,1852,1694,1780,2026-08-27 15:07:37
 56985,LDV,Terron 9,Terron 9,2026,2.5 TD (222 Hp) 4WD Automatic,Internal Combustion engine,222,3800,Diesel,Pick-up,5,2025,,5500,1997,1874,2400-2495,2026-05-12 16:09:22
 56986,LDV,D90,D90 (facelift 2024),2025,2.0T (220 Hp) Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV,7,2024,,5046,2016,1876,2167-2210,2026-05-12 16:09:22
 56987,LDV,D90,D90 (facelift 2024),2025,2.0T (220 Hp) 4WD Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV,7,2024,,5046,2016,1876,2237-2280,2026-05-12 16:09:22
@@ -57220,3 +57230,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57453,Evolute,i-Space,i-Space,2023,1.5L (177 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,,Petrol / electricity,"SUV, Crossover",7,2023,2025,4760,1865,1710,1780,2026-07-08 14:26:35
 57525,HWA,EVO,EVO,2026,3.0 V6 (500 Hp),Internal Combustion engine,500,,Petrol (Gasoline),Sedan,2-4,2026,,4598,1912,1357,1485,2026-07-23 10:14:41
 57668,Freelander,8,8,2026,1.5T 60.3 kWh (830 Hp) Range Extender 4WD,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,SUV,6,2026,,5118,2050,1898,2980,2026-08-19 09:06:57
+57728,Spania GTA,GTA Spano,GTA Spano II,2015,8.0 V10 (925 Hp) Automatic,Internal Combustion engine,925,6300,Petrol (Gasoline),Coupe,2,2015,,4680,1980,1180,1400-1450,2026-08-27 12:13:41
+57726,Spania GTA,GTA Spano,GTA Spano I,2013,8.0 V10 (925 Hp) Automatic,Internal Combustion engine,925,6300,Petrol (Gasoline),Coupe,2,2013,2015,4600,1980,1180,1350,2026-08-27 12:06:57
+57727,Spania GTA,GTA Spano,GTA Spano I,2013,8.4 V10 (900 Hp) Automatic,Internal Combustion engine,900,6300,Petrol (Gasoline),Coupe,2,2013,2013,4600,1980,1180,1350,2026-08-27 12:06:58

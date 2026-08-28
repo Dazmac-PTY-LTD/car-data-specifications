@@ -3606,6 +3606,34 @@
                     "fuel": "Petrol / LPG",
                     "curbWeight": "1222",
                     "curbWeightMin": "1222"
+                  },
+                  {
+                    "id": "57737",
+                    "update": "2026-08-27 16:17:09",
+                    "brand": "Dacia",
+                    "model": "Sandero",
+                    "generation": "Sandero III Stepway (facelift 2025)",
+                    "engine": "1.8 155 (158 Hp) Hybrid Multi-Mode",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "109/5300",
+                    "powerHp": "109",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2026",
+                    "coupe": "Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4102",
+                    "width": "1853",
+                    "widthOpenedMirrors": "2012",
+                    "height": "1586",
+                    "heightMin": "1586",
+                    "rideHeight": "200",
+                    "rideHeightMin": "200",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1275-1307",
+                    "curbWeightMin": "1275",
+                    "curbWeightMax": "1307"
                   }
                 ]
               }
@@ -3736,6 +3764,34 @@
                     "fuel": "Petrol / LPG",
                     "curbWeight": "1205",
                     "curbWeightMin": "1205"
+                  },
+                  {
+                    "id": "57736",
+                    "update": "2026-08-27 16:17:09",
+                    "brand": "Dacia",
+                    "model": "Sandero",
+                    "generation": "Sandero III (facelift 2025)",
+                    "engine": "1.8 155 (158 Hp) Hybrid Multi-Mode",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "109/5300",
+                    "powerHp": "109",
+                    "powerRpm": "5300",
+                    "powerRpmLow": "5300",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4102",
+                    "width": "1853",
+                    "widthOpenedMirrors": "2012",
+                    "height": "1496",
+                    "heightMin": "1496",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1258-1281",
+                    "curbWeightMin": "1258",
+                    "curbWeightMax": "1281"
                   }
                 ]
               }

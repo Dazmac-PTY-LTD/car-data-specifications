@@ -5,19 +5,106 @@
   "models": {
     "model": [
       {
-        "update": "2026-08-27 08:01:25",
-        "name": "Spano",
+        "update": "2026-08-27 10:10:57",
+        "name": "GTA Spano",
         "id": "4120",
         "generations": {
           "generation": [
             {
               "prototype": "0",
-              "update": "2026-08-27 08:01:50",
-              "name": "Spano I",
+              "update": "2026-08-27 10:10:58",
+              "name": "GTA Spano II",
+              "modelYear": "2015",
+              "id": "11443",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57728",
+                    "update": "2026-08-27 12:13:41",
+                    "brand": "Spania GTA",
+                    "model": "GTA Spano",
+                    "generation": "GTA Spano II",
+                    "engine": "8.0 V10 (925 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "925/6300",
+                    "powerHp": "925",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4680",
+                    "width": "1980",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1400-1450",
+                    "curbWeightMin": "1400",
+                    "curbWeightMax": "1450"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-08-27 10:10:58",
+              "name": "GTA Spano I",
               "modelYear": "2013",
               "id": "11442",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57726",
+                    "update": "2026-08-27 12:06:57",
+                    "brand": "Spania GTA",
+                    "model": "GTA Spano",
+                    "generation": "GTA Spano I",
+                    "engine": "8.0 V10 (925 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "925/6300",
+                    "powerHp": "925",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2013",
+                    "yearstop": "2015",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "width": "1980",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  },
+                  {
+                    "id": "57727",
+                    "update": "2026-08-27 12:06:58",
+                    "brand": "Spania GTA",
+                    "model": "GTA Spano",
+                    "generation": "GTA Spano I",
+                    "engine": "8.4 V10 (900 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "900/6300",
+                    "powerHp": "900",
+                    "powerRpm": "6300",
+                    "powerRpmLow": "6300",
+                    "yearstart": "2013",
+                    "yearstop": "2013",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4600",
+                    "width": "1980",
+                    "height": "1180",
+                    "heightMin": "1180",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1350",
+                    "curbWeightMin": "1350"
+                  }
+                ]
               }
             }
           ]
