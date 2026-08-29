@@ -7158,6 +7158,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57432,Kia,Seltos,Seltos II,2026,1.6 T-GDI (180 Hp),Internal Combustion engine,180,6000,Petrol (Gasoline),SUV,5,2026,,4430,1830,1610,1440-1550,2026-07-06 16:16:23
 57433,Kia,Seltos,Seltos II,2026,1.6 T-GDI (180 Hp) DCT,Internal Combustion engine,180,6000,Petrol (Gasoline),SUV,5,2026,,4430,1830,1610-1615,1470-1590,2026-07-06 16:16:23
 57434,Kia,Seltos,Seltos II,2026,1.6 T-GDI (180 Hp) AWD DCT,Internal Combustion engine,180,6000,Petrol (Gasoline),SUV,5,2026,,4430,1830,1610-1615,1545-1665,2026-07-06 16:16:23
+57744,Kia,Seltos,Seltos II,2026,1.6 GDI (154 Hp) Hybrid DCT,FHEV (Full Hybrid Electric Vehicle),102,5700,Petrol (Gasoline),SUV,5,2026,,4430,1830,1610-1615,1490-1650,2026-08-28 16:16:29
+57745,Kia,Seltos,Seltos II,2026,1.6 GDI (178 Hp) Hybrid e-AWD DCT,FHEV (Full Hybrid Electric Vehicle),102,5700,Petrol (Gasoline),SUV,5,2026,,4430,1830,1610-1615,1600-1740,2026-08-28 16:18:54
 48483,Kia,Seltos,Seltos I (facelift 2023),2024,2.0 MPI (146 Hp) CVT,Internal Combustion engine,146,6200,Petrol (Gasoline),SUV,5,2023,2026,4384,1801,1626,1332-1347,2026-07-06 10:09:37
 48484,Kia,Seltos,Seltos I (facelift 2023),2024,2.0 MPI (146 Hp) AWD CVT,Internal Combustion engine,146,6200,Petrol (Gasoline),SUV,5,2023,2026,4384,1801,1626,1410-1445,2026-07-06 10:09:40
 48485,Kia,Seltos,Seltos I (facelift 2023),2024,1.6 T-GDI (195 Hp) AWD Automatic,Internal Combustion engine,195,6000,Petrol (Gasoline),SUV,5,2023,2026,4384,1801,1626,1473-1525,2026-07-06 10:09:43
@@ -7253,6 +7255,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57733,Kia,Syros,Syros (facelift 2026),2026,1.0 T-GDi (120 Hp) DCT,Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
 57734,Kia,Syros,Syros (facelift 2026),2026,1.5 CRDi VGT (116 Hp),Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
 57735,Kia,Syros,Syros (facelift 2026),2026,1.5 CRDi VGT (116 Hp) Automatic,Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2026,,3995,1805,1680,,2026-08-27 16:17:06
+57742,Kia,Syros,Syros (facelift 2026),2026,Standard Range 42 kWh (135 Hp) EV,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,3995,1805,1670,,2026-08-28 16:16:29
+57743,Kia,Syros,Syros (facelift 2026),2026,Extended Range 51.4 kWh (171 Hp) EV,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,3995,1805,1670,,2026-08-28 16:16:29
 53588,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp),Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:32
 53589,Kia,Syros,Syros,2025,1.0 T-GDi (120 Hp) DCT,Internal Combustion engine,120,6000,Petrol (Gasoline),"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:30
 53590,Kia,Syros,Syros,2025,1.5 CRDi VGT (116 Hp),Internal Combustion engine,116,4000,Diesel,"SUV, Crossover",5,2025,2026,3995,1805,1680,,2026-08-27 14:01:27
@@ -48670,10 +48674,15 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57544,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.7 Turbo-Fire V8 (250 Hp),Internal Combustion engine,250,4800,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1542-1665,2026-07-27 16:27:10
 57547,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1525-1648,2026-07-27 16:27:07
 57548,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1969),1970,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1969,1970,5009,1915,1336,1472-1599,2026-07-27 16:27:03
-57576,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,3.8 Turbo-Thrift (140 Hp),Internal Combustion engine,140,4400,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1442-1617,2026-07-30 14:55:55
-57577,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1501-1642,2026-07-30 15:22:37
-57578,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1450-1588,2026-07-30 15:56:36
-57738,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.7 Turbo-Fire V8 (255 Hp),Internal Combustion engine,255,4800,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1533-1674,2026-08-28 09:58:07
+57576,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,3.8 Turbo-Thrift (140 Hp),Internal Combustion engine,140,4400,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1442-1617,2026-08-28 15:32:00
+57577,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1501-1642,2026-08-28 15:31:59
+57578,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1450-1588,2026-08-28 15:32:00
+57738,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.7 Turbo-Fire V8 (255 Hp),Internal Combustion engine,255,4800,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1533-1674,2026-08-28 15:31:59
+57739,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,5.7 Turbo-Fire V8 (300 Hp),Internal Combustion engine,300,4800,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1533-1674,2026-08-28 15:31:59
+57740,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,SS 396 6.5 Turbo-Jet V8 (325 Hp),Internal Combustion engine,325,4800,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1642-1765,2026-08-28 12:19:17
+57741,Chevrolet,Chevelle,Chevelle II Sport Coupe (facelift 1968),1969,SS 396 6.5 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1968,1969,5001,1930,1341,1641-1764,2026-08-28 15:29:45
+57746,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,3.8 Turbo-Thrift (140 Hp),Internal Combustion engine,140,4400,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1451-1614,2026-08-28 16:55:36
+57747,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1458-1633,2026-08-28 17:38:22
 14646,Innocenti,Elba,Elba,1986,1.4 i (68 Hp),Internal Combustion engine,68,5500,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,930,2023-05-12 14:14:54
 14647,Innocenti,Elba,Elba,1986,1.6 i (76 Hp),Internal Combustion engine,76,5750,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,950,2023-05-12 14:14:53
 14648,Innocenti,Elba,Elba,1986,1.7 D (58 Hp),Internal Combustion engine,58,4600,Diesel,Station wagon (estate),5,1986,1996,4037,1555,1450,970,2021-12-03 11:53:43
@@ -57230,6 +57239,6 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57453,Evolute,i-Space,i-Space,2023,1.5L (177 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),110,,Petrol / electricity,"SUV, Crossover",7,2023,2025,4760,1865,1710,1780,2026-07-08 14:26:35
 57525,HWA,EVO,EVO,2026,3.0 V6 (500 Hp),Internal Combustion engine,500,,Petrol (Gasoline),Sedan,2-4,2026,,4598,1912,1357,1485,2026-07-23 10:14:41
 57668,Freelander,8,8,2026,1.5T 60.3 kWh (830 Hp) Range Extender 4WD,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,SUV,6,2026,,5118,2050,1898,2980,2026-08-19 09:06:57
-57728,Spania GTA,GTA Spano,GTA Spano II,2015,8.0 V10 (925 Hp) Automatic,Internal Combustion engine,925,6300,Petrol (Gasoline),Coupe,2,2015,,4680,1980,1180,1400-1450,2026-08-27 12:13:41
+57728,Spania GTA,GTA Spano,GTA Spano II,2015,8.0 V10 (925 Hp) Automatic,Internal Combustion engine,925,6300,Petrol (Gasoline),Coupe,2,2015,,4680,1980,1180,1400-1450,2026-08-28 12:27:19
 57726,Spania GTA,GTA Spano,GTA Spano I,2013,8.0 V10 (925 Hp) Automatic,Internal Combustion engine,925,6300,Petrol (Gasoline),Coupe,2,2013,2015,4600,1980,1180,1350,2026-08-27 12:06:57
-57727,Spania GTA,GTA Spano,GTA Spano I,2013,8.4 V10 (900 Hp) Automatic,Internal Combustion engine,900,6300,Petrol (Gasoline),Coupe,2,2013,2013,4600,1980,1180,1350,2026-08-27 12:06:58
+57727,Spania GTA,GTA Spano,GTA Spano I,2013,8.4 V10 (900 Hp) Automatic,Internal Combustion engine,900,6300,Petrol (Gasoline),Coupe,2,2013,2013,4600,1980,1180,1350,2026-08-28 12:27:00
