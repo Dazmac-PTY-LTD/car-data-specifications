@@ -82242,7 +82242,7 @@
                 "modification": [
                   {
                     "id": "43562",
-                    "update": "2026-08-31 17:13:40",
+                    "update": "2026-09-01 17:00:09",
                     "brand": "BMW",
                     "model": "i4",
                     "generation": "i4 (G26)",
@@ -82255,6 +82255,7 @@
                     "placesMin": "5",
                     "length": "4783",
                     "width": "1852",
+                    "widthOpenedMirrors": "2073",
                     "height": "1448",
                     "heightMin": "1448",
                     "rideHeight": "125",
@@ -82265,7 +82266,7 @@
                   },
                   {
                     "id": "43563",
-                    "update": "2026-08-31 17:13:32",
+                    "update": "2026-09-01 17:04:24",
                     "brand": "BMW",
                     "model": "i4",
                     "generation": "i4 (G26)",
@@ -82278,6 +82279,7 @@
                     "placesMin": "5",
                     "length": "4783",
                     "width": "1852",
+                    "widthOpenedMirrors": "2073",
                     "height": "1448",
                     "heightMin": "1448",
                     "rideHeight": "125",
@@ -82285,6 +82287,30 @@
                     "fuel": "Electricity",
                     "curbWeight": "2215",
                     "curbWeightMin": "2215"
+                  },
+                  {
+                    "id": "57760",
+                    "update": "2026-09-01 18:25:07",
+                    "brand": "BMW",
+                    "model": "i4",
+                    "generation": "i4 (G26)",
+                    "engine": "70.2 kWh (286 Hp) eDrive35",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2022",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4783",
+                    "width": "1852",
+                    "widthOpenedMirrors": "2073",
+                    "height": "1448",
+                    "heightMin": "1448",
+                    "rideHeight": "125",
+                    "rideHeightMin": "125",
+                    "fuel": "Electricity",
+                    "curbWeight": "1990",
+                    "curbWeightMin": "1990"
                   }
                 ]
               }
