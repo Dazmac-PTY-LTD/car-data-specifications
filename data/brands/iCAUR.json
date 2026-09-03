@@ -67,6 +67,68 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-02 11:29:08",
+        "name": "V27",
+        "id": "4122",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-02 11:29:37",
+              "name": "V27",
+              "modelYear": "2026",
+              "id": "11452",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57762",
+                    "update": "2026-09-02 14:16:15",
+                    "brand": "iCAUR",
+                    "model": "V27",
+                    "generation": "V27",
+                    "engine": "1.5T 34.31 kWh (252 Hp) Range Extender",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5045",
+                    "width": "1976",
+                    "height": "1894",
+                    "heightMin": "1894",
+                    "rideHeight": "224",
+                    "rideHeightMin": "224",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57763",
+                    "update": "2026-09-02 14:19:21",
+                    "brand": "iCAUR",
+                    "model": "V27",
+                    "generation": "V27",
+                    "engine": "1.5T 34.31 kWh (456 Hp) Range Extender iWD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Off-road vehicle, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5045",
+                    "width": "1976",
+                    "height": "1894",
+                    "heightMin": "1894",
+                    "rideHeight": "224",
+                    "rideHeightMin": "224",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

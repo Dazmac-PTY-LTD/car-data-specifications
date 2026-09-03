@@ -3671,7 +3671,29 @@
               "modelYear": "2026",
               "id": "11229",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57761",
+                    "update": "2026-09-02 14:19:34",
+                    "brand": "Chery",
+                    "model": "Q",
+                    "generation": "Q",
+                    "engine": "41.278 kWh (122 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4195",
+                    "width": "1811",
+                    "height": "1568",
+                    "heightMin": "1568",
+                    "rideHeight": "128",
+                    "rideHeightMin": "128",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
               }
             }
           ]

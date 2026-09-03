@@ -10235,12 +10235,18 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 4042,Toyota,Carina,Carina (TA1),1971,1.6 (TA12) (79 Hp),Internal Combustion engine,79,,Petrol (Gasoline),Sedan,5,1974,1977,,,,,2022-09-12 16:55:28
 4043,Toyota,Grand Hiace,Grand Hiace,1999,3.0 d (140 Hp),Internal Combustion engine,140,3600,Diesel,Minivan,8,1999,2002,4790,1800,1965,,2023-06-29 11:48:15
 4044,Toyota,Grand Hiace,Grand Hiace,1999,3.4 i (185 Hp),Internal Combustion engine,185,4800,Petrol (Gasoline),Minivan,8,1999,2002,4790,1800,1965,,2022-09-12 16:55:28
+57764,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,2.0 (152 Hp) Super CVT-i,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2017,2021,4695,1695,1825,1560-1650,2026-09-02 15:04:13
+57765,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,2.0 (152 Hp) Super CVT-i 4WD,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2017,2021,4695,1695,1865,1640-1730,2026-09-02 15:04:13
+57766,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,Si 2.0 (152 Hp) Super CVT-i,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2017,2021,4710,1735,1825,1600-1620,2026-09-02 15:04:13
+57767,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,Si 2.0 (152 Hp) Super CVT-i 4WD,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2017,2021,4710,1735,1870,1680-1720,2026-09-02 15:04:13
+57768,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2017,2021,4695,1695,1825,1610-1640,2026-09-02 15:12:50
+57769,Toyota,Noah,"Noah III (R80, facelift 2017)",2018,Si 1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2017,2021,4710,1735,1825,1620-1630,2026-09-02 15:12:39
 57754,Toyota,Noah,Noah III (R80),2014,2.0 (152 Hp) Super CVT-i,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2014,2017,4695,1695,1825,1560-1650,2026-09-01 18:25:06
 57755,Toyota,Noah,Noah III (R80),2014,2.0 (152 Hp) Super CVT-i 4WD,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2014,2017,4695,1695,1865,1640-1730,2026-09-01 18:25:06
 57756,Toyota,Noah,Noah III (R80),2014,Si 2.0 (152 Hp) Super CVT-i,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2014,2017,4710,1730,1825,1600-1640,2026-09-01 18:25:06
 57757,Toyota,Noah,Noah III (R80),2014,Si 2.0 (152 Hp) Super CVT-i 4WD,Internal Combustion engine,152,6100,Petrol (Gasoline),Minivan,7-8,2014,2017,4710,1730,1870,1680-1720,2026-09-01 18:25:06
-57758,Toyota,Noah,Noah III (R80),2014,1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2014,2017,4695,1695,1825,1610-1620,2026-09-01 18:25:06
-57759,Toyota,Noah,Noah III (R80),2014,Si 1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2014,2017,4710,1730,1825,1620-1630,2026-09-01 18:25:06
+57758,Toyota,Noah,Noah III (R80),2014,1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2014,2017,4695,1695,1825,1610-1620,2026-09-02 15:13:07
+57759,Toyota,Noah,Noah III (R80),2014,Si 1.8 (136 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),99,5200,Petrol (Gasoline),Minivan,7,2014,2017,4710,1730,1825,1620-1630,2026-09-02 15:12:59
 57752,Toyota,Noah,"Noah II (R70, facelift 2010)",2011,2.0 (158 Hp) Super CVT-i,Internal Combustion engine,158,6200,Petrol (Gasoline),Minivan,5-8,2010,2014,4595,1695,1850,1550-1750,2026-08-31 17:30:46
 57753,Toyota,Noah,"Noah II (R70, facelift 2010)",2011,2.0 (155 Hp) Super CVT-i 4WD,Internal Combustion engine,155,6200,Petrol (Gasoline),Minivan,5-8,2010,2014,4595,1695,1875,1640-1770,2026-09-01 18:25:06
 57748,Toyota,Noah,Noah II (R70),2008,2.0 (158 Hp) Super CVT-i,Internal Combustion engine,158,6200,Petrol (Gasoline),Minivan,7-8,2007,2010,4630,1720,1850,1590-1750,2026-08-31 17:30:46
@@ -31753,6 +31759,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 43562,BMW,i4,i4 (G26),2022,83.9 kWh (340 Hp) eDrive40,BEV (Electric Vehicle),,,Electricity,Coupe,5,2021,2024,4783,1852,1448,2050,2026-09-01 17:00:09
 43563,BMW,i4,i4 (G26),2022,M50 83.9 kWh (544 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,Coupe,5,2021,2024,4783,1852,1448,2215,2026-09-01 17:04:24
 57760,BMW,i4,i4 (G26),2022,70.2 kWh (286 Hp) eDrive35,BEV (Electric Vehicle),,,Electricity,Coupe,5,2022,2024,4783,1852,1448,1990,2026-09-01 18:25:07
+57770,BMW,i4,i4 (G26),2022,83.9 kWh (396 Hp) xDrive40,BEV (Electric Vehicle),,,Electricity,Coupe,5,2023,2024,4788,1852,1448,2254,2026-09-02 15:04:13
 43764,BMW,E9,E9,1968,3.0CS (180 Hp),Internal Combustion engine,180,6000,Petrol (Gasoline),Coupe,4,1971,1975,4660,1670,1370,1400,2023-03-15 11:26:09
 43765,BMW,E9,E9,1968,3.0CS (180 Hp) Automatic,Internal Combustion engine,180,6000,Petrol (Gasoline),Coupe,4,1971,1975,4660,1670,1370,1420,2023-03-15 11:26:10
 43766,BMW,E9,E9,1968,3.0CSi (200 Hp),Internal Combustion engine,200,5500,Petrol (Gasoline),Coupe,4,1971,1975,4660,1670,1370,1420,2023-03-15 11:26:11
@@ -45730,6 +45737,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55651,Chery,Tiggo 9X,Tiggo 9X,2026,2.0 TGDI (254 Hp) Automatic 7 Seat,Internal Combustion engine,254,5500,Petrol (Gasoline),SUV,7,2025,,4817,1930,1741,1785,2025-10-28 16:23:28
 55652,Chery,Tiggo 9X,Tiggo 9X,2026,2.0 TGDI (254 Hp) 4WD Automatic,Internal Combustion engine,254,5500,Petrol (Gasoline),SUV,5,2025,,4817,1930,1729,1725,2025-10-28 16:23:28
 55653,Chery,Tiggo 9X,Tiggo 9X,2026,2.0 TGDI (254 Hp) 4WD Automatic 7 Seat,Internal Combustion engine,254,5500,Petrol (Gasoline),SUV,7,2025,,4817,1930,1741,1785,2025-10-28 16:23:28
+57761,Chery,Q,Q,2026,41.278 kWh (122 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4195,1811,1568,,2026-09-02 14:19:34
 57032,Chery,C5,C5,2025,1.5L (147 Hp) DCT,Internal Combustion engine,147,,Petrol (Gasoline),SUV,5,2025,,4351,1831,1662,1432,2026-05-18 16:19:14
 57076,Chery,J6,J6,2025,65.69 kWh (184 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2025,,4406,1910,1715,,2026-05-22 16:20:13
 57077,Chery,J6,J6,2025,69.77 kWh (279 Hp) Electric iWD,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2025,,4406,1910,1715,,2026-05-22 16:20:13
@@ -56950,6 +56958,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57039,iCAR,V27,V27,2026,1.5T 34.3 kWh (456 Hp) Range Extender 4WD,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,"Off-road vehicle, SUV",5,2026,,5055,1976,1894,2335,2026-05-19 16:18:04
 55384,iCAUR,03,03,2025,69.8 kWh (279 Hp) iWD,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4406,1910,1715,1874,2025-09-18 16:14:36
 55385,iCAUR,03,03,2025,65.7 kWh (184 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4406,1910,1715,1775,2025-09-18 16:13:15
+57762,iCAUR,V27,V27,2026,1.5T 34.31 kWh (252 Hp) Range Extender,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,"Off-road vehicle, SUV",5,2026,,5045,1976,1894,,2026-09-02 14:16:15
+57763,iCAUR,V27,V27,2026,1.5T 34.31 kWh (456 Hp) Range Extender iWD,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,"Off-road vehicle, SUV",5,2026,,5045,1976,1894,,2026-09-02 14:19:21
 57521,Tank,700,700 (facelift 2026),2026,Hi4-Z 2.0T (864 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2026,,5105,2061,1985,3260,2026-07-22 12:13:05
 57522,Tank,700,700 (facelift 2026),2026,Hi4-T 3.0T V6 (537 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),360,6000,Petrol / electricity,SUV,5,2026,,5105,2061,1985,3165,2026-07-22 12:35:56
 55389,Tank,700,700,2024,Hi4-T 3.0T V6 (523 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),360,6000,Petrol / electricity,SUV,5,2024,2026,5090,2061,1952,3110,2026-07-22 12:13:01
