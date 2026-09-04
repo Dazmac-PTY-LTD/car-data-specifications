@@ -59791,6 +59791,16 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-09-03 08:19:33",
+              "name": "Noah IV (R90)",
+              "modelYear": "2022",
+              "id": "11454",
+              "modifications": {
+                "modification": []
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2026-09-02 08:43:50",
               "name": "Noah III (R80, facelift 2017)",
               "modelYear": "2018",
@@ -69416,6 +69426,101 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-09-03 14:32:35",
+              "name": "Yaris Cross (XP210, facelift 2026)",
+              "modelYear": "2027",
+              "id": "11457",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57774",
+                    "update": "2026-09-03 16:12:46",
+                    "brand": "Toyota",
+                    "model": "Yaris Cross",
+                    "generation": "Yaris Cross (XP210, facelift 2026)",
+                    "engine": "1.5 (116 Hp) Hybrid e-CVT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "92/5500",
+                    "powerHp": "92",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4167",
+                    "width": "1765",
+                    "widthOpenedMirrors": "2030",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1115-1180",
+                    "curbWeightMin": "1115",
+                    "curbWeightMax": "1180"
+                  },
+                  {
+                    "id": "57775",
+                    "update": "2026-09-03 16:12:46",
+                    "brand": "Toyota",
+                    "model": "Yaris Cross",
+                    "generation": "Yaris Cross (XP210, facelift 2026)",
+                    "engine": "1.5 (130 Hp) Hybrid e-CVT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "92/5500",
+                    "powerHp": "92",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4167",
+                    "width": "1765",
+                    "widthOpenedMirrors": "2030",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1125-1190",
+                    "curbWeightMin": "1125",
+                    "curbWeightMax": "1190"
+                  },
+                  {
+                    "id": "57776",
+                    "update": "2026-09-03 16:12:46",
+                    "brand": "Toyota",
+                    "model": "Yaris Cross",
+                    "generation": "Yaris Cross (XP210, facelift 2026)",
+                    "engine": "1.5 (130 Hp) Hybrid AWD-i e-CVT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "92/5500",
+                    "powerHp": "92",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4167",
+                    "width": "1765",
+                    "widthOpenedMirrors": "2030",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1215-1265",
+                    "curbWeightMin": "1215",
+                    "curbWeightMax": "1265"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2023-11-28 10:54:59",
               "name": "Yaris Cross (AC200)",
               "modelYear": "2023",
@@ -69510,7 +69615,7 @@
                 "modification": [
                   {
                     "id": "41331",
-                    "update": "2023-11-27 14:15:50",
+                    "update": "2026-09-03 16:10:07",
                     "brand": "Toyota",
                     "model": "Yaris Cross",
                     "generation": "Yaris Cross (XP210)",
@@ -69537,7 +69642,7 @@
                   },
                   {
                     "id": "41332",
-                    "update": "2023-11-27 14:15:31",
+                    "update": "2026-09-03 16:10:08",
                     "brand": "Toyota",
                     "model": "Yaris Cross",
                     "generation": "Yaris Cross (XP210)",
@@ -69618,7 +69723,7 @@
                   },
                   {
                     "id": "50561",
-                    "update": "2023-11-27 16:16:39",
+                    "update": "2026-09-03 16:10:06",
                     "brand": "Toyota",
                     "model": "Yaris Cross",
                     "generation": "Yaris Cross (XP210)",
@@ -69643,7 +69748,7 @@
                   },
                   {
                     "id": "50562",
-                    "update": "2023-11-27 16:16:39",
+                    "update": "2026-09-03 16:10:07",
                     "brand": "Toyota",
                     "model": "Yaris Cross",
                     "generation": "Yaris Cross (XP210)",

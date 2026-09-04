@@ -315,6 +315,48 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-03 12:40:35",
+        "name": "SkyNomad N90",
+        "id": "4123",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-03 12:40:55",
+              "name": "SkyNomad N90",
+              "modelYear": "2027",
+              "id": "11456",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57779",
+                    "update": "2026-09-03 16:22:16",
+                    "brand": "Xiaomi",
+                    "model": "SkyNomad N90",
+                    "generation": "SkyNomad N90",
+                    "engine": "Max 1.5T 76 kWh (422 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5285",
+                    "width": "1998",
+                    "height": "1825",
+                    "heightMin": "1825",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2800",
+                    "curbWeightMin": "2800"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
