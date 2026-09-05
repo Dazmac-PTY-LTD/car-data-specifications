@@ -357,6 +357,70 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-04 09:41:09",
+        "name": "SkyNomad N70",
+        "id": "4124",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-04 09:41:29",
+              "name": "SkyNomad N70",
+              "modelYear": "2027",
+              "id": "11458",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57786",
+                    "update": "2026-09-04 16:09:04",
+                    "brand": "Xiaomi",
+                    "model": "SkyNomad N70",
+                    "generation": "SkyNomad N70",
+                    "engine": "Pro 1.5T 52 kWh (286 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1998",
+                    "height": "1785",
+                    "heightMin": "1785",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2453",
+                    "curbWeightMin": "2453"
+                  },
+                  {
+                    "id": "57787",
+                    "update": "2026-09-04 16:09:04",
+                    "brand": "Xiaomi",
+                    "model": "SkyNomad N70",
+                    "generation": "SkyNomad N70",
+                    "engine": "Max 1.5T 76 kWh (422 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "152",
+                    "powerHp": "152",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4960",
+                    "width": "1998",
+                    "height": "1765",
+                    "heightMin": "1765",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2561",
+                    "curbWeightMin": "2561"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
