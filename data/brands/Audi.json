@@ -85583,6 +85583,114 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-08 08:23:27",
+        "name": "A2 e-tron",
+        "id": "4125",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-08 08:30:07",
+              "name": "A2 e-tron",
+              "modelYear": "2027",
+              "id": "11460",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57788",
+                    "update": "2026-09-08 16:00:36",
+                    "brand": "Audi",
+                    "model": "A2 e-tron",
+                    "generation": "A2 e-tron",
+                    "engine": "52 kWh (170 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4324",
+                    "width": "1789",
+                    "widthOpenedMirrors": "2039",
+                    "height": "1548-1583",
+                    "heightMin": "1548",
+                    "heightMax": "1583",
+                    "fuel": "Electricity",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "57789",
+                    "update": "2026-09-08 16:00:36",
+                    "brand": "Audi",
+                    "model": "A2 e-tron",
+                    "generation": "A2 e-tron",
+                    "engine": "61 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4324",
+                    "width": "1789",
+                    "widthOpenedMirrors": "2039",
+                    "height": "1548-1583",
+                    "heightMin": "1548",
+                    "heightMax": "1583",
+                    "fuel": "Electricity",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "57790",
+                    "update": "2026-09-08 16:00:36",
+                    "brand": "Audi",
+                    "model": "A2 e-tron",
+                    "generation": "A2 e-tron",
+                    "engine": "84 kWh (231 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4324",
+                    "width": "1789",
+                    "widthOpenedMirrors": "2039",
+                    "height": "1548-1583",
+                    "heightMin": "1548",
+                    "heightMax": "1583",
+                    "fuel": "Electricity",
+                    "curbWeight": "1910",
+                    "curbWeightMin": "1910"
+                  },
+                  {
+                    "id": "57791",
+                    "update": "2026-09-08 16:00:36",
+                    "brand": "Audi",
+                    "model": "A2 e-tron",
+                    "generation": "A2 e-tron",
+                    "engine": "84 kWh (326 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4324",
+                    "width": "1789",
+                    "widthOpenedMirrors": "2039",
+                    "height": "1548-1583",
+                    "heightMin": "1548",
+                    "heightMax": "1583",
+                    "fuel": "Electricity",
+                    "curbWeight": "1930",
+                    "curbWeightMin": "1930"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
