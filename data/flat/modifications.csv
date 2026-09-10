@@ -2769,7 +2769,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 49063,Jeep,Meridian,Meridian,2022,2.0d (170 Hp) 4x4 Automatic,Internal Combustion engine,170,3750,Diesel,"SUV, Crossover",7,2022,,4769,1859,1698,,2023-08-22 14:48:13
 51919,Jeep,Wagoneer S,Wagoneer S,2024,100.5 kWh (608 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2024,,4886,1900,1645,2571,2024-06-03 16:24:06
 53658,Jeep,Wagoneer S,Wagoneer S,2024,100.5 kWh (500 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4886,1900,1645,2571,2025-02-07 16:16:49
-55808,Jeep,Recon,Recon,2026,100.5 kWh (650 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4911,1900,1875,2772,2025-11-19 14:11:03
+55808,Jeep,Recon,Recon,2026,100.5 kWh (670 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4911,1935,1875,2772,2026-09-09 08:54:38
 1206,Noble,M12 GTO,M12 GTO,2001,3.0 i V6 24V GTO-3 (352 Hp),Internal Combustion engine,352,6200,Petrol (Gasoline),Coupe,2,2003,2005,4089,1885,1143,1050,2022-09-07 11:54:14
 1207,Noble,M12 GTO,M12 GTO,2001,3.0 i V6 24V GTO-3R (352 Hp),Internal Combustion engine,352,6200,Petrol (Gasoline),Coupe,2,2003,2007,4089,1885,1143,1050,2022-09-07 11:54:14
 31872,Noble,M600,M600,2011,4.4 V8 (659 Hp),Internal Combustion engine,659,6500,Petrol (Gasoline),Coupe,2,2011,2016,4360,1910,1120,1250,2021-12-03 11:53:43
@@ -10574,12 +10574,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 50586,Toyota,Yaris Cross,Yaris Cross (AC200),2023,1.5 (106 Hp),Internal Combustion engine,106,6000,Petrol (Gasoline),"SUV, Crossover",5,2023,,4310,1770,1615,,2023-11-28 16:16:00
 50587,Toyota,Yaris Cross,Yaris Cross (AC200),2023,1.5 (106 Hp) CVT,Internal Combustion engine,106,6000,Petrol (Gasoline),"SUV, Crossover",5,2023,,4310,1770,1615,,2023-11-28 16:16:01
 50588,Toyota,Yaris Cross,Yaris Cross (AC200),2023,1.5 (116 Hp) Hybrid eCVT,FHEV (Full Hybrid Electric Vehicle),91,5500,Petrol (Gasoline),"SUV, Crossover",5,2023,,4310,1770,1615,,2026-07-03 17:30:36
-41331,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (116 Hp) Hybrid ECVT,FHEV (Full Hybrid Electric Vehicle),91,5500,Petrol (Gasoline),"SUV, Crossover",5,2020,,4180,1765,1590,1160-1190,2026-09-03 16:10:07
-41332,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (116 Hp) Hybrid E-Four ECVT,FHEV (Full Hybrid Electric Vehicle),91,5500,Petrol (Gasoline),"SUV, Crossover",5,2020,,4180,1765,1590,1250-1270,2026-09-03 16:10:08
-41415,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (120 Hp) CVT,Internal Combustion engine,120,6600,Petrol (Gasoline),"SUV, Crossover",5,2020,,4180,1765,1590,1110-1140,2023-04-27 16:07:50
-41416,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (120 Hp) 4WD CVT,Internal Combustion engine,120,6600,Petrol (Gasoline),"SUV, Crossover",5,2020,,4180,1765,1590,1200-1230,2023-04-27 16:07:50
-50561,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (132 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),92,5500,Petrol (Gasoline),"SUV, Crossover",5,2023,,4180,1765,1595,1200-1290,2026-09-03 16:10:06
-50562,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (132 Hp) Hybrid AWD-i e-CVT,FHEV (Full Hybrid Electric Vehicle),92,5500,Petrol (Gasoline),"SUV, Crossover",5,2023,,4180,1765,1595,1290-1360,2026-09-03 16:10:07
+41331,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (116 Hp) Hybrid ECVT,FHEV (Full Hybrid Electric Vehicle),91,5500,Petrol (Gasoline),"SUV, Crossover",5,2020,2026,4180,1765,1590,1160-1190,2026-09-09 08:16:33
+41332,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (116 Hp) Hybrid E-Four ECVT,FHEV (Full Hybrid Electric Vehicle),91,5500,Petrol (Gasoline),"SUV, Crossover",5,2020,2026,4180,1765,1590,1250-1270,2026-09-09 08:16:34
+41415,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (120 Hp) CVT,Internal Combustion engine,120,6600,Petrol (Gasoline),"SUV, Crossover",5,2020,2026,4180,1765,1590,1110-1140,2026-09-09 08:16:32
+41416,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (120 Hp) 4WD CVT,Internal Combustion engine,120,6600,Petrol (Gasoline),"SUV, Crossover",5,2020,2026,4180,1765,1590,1200-1230,2026-09-09 08:16:33
+50561,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (132 Hp) Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),92,5500,Petrol (Gasoline),"SUV, Crossover",5,2023,2026,4180,1765,1595,1200-1290,2026-09-09 08:16:33
+50562,Toyota,Yaris Cross,Yaris Cross (XP210),2021,1.5 (132 Hp) Hybrid AWD-i e-CVT,FHEV (Full Hybrid Electric Vehicle),92,5500,Petrol (Gasoline),"SUV, Crossover",5,2023,2026,4180,1765,1595,1290-1360,2026-09-09 08:16:33
 42028,Toyota,C+pod,C+pod,2022,9.06 kWh (13 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,2,2020,,2490,1290,1550,670-690,2022-11-03 20:39:25
 56623,Toyota,bZ4X,bZ4X Touring,2026,74.7 kWh (224 Hp) BEV,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4830,1860,1675,1900-1990,2026-03-05 16:08:19
 56624,Toyota,bZ4X,bZ4X Touring,2026,74.7 kWh (380 Hp) AWD BEV,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4830,1860,1675,2000-2100,2026-03-05 16:08:19
@@ -42888,6 +42888,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54707,Mercedes-Benz,AMG GT XX,CONCEPT AMG GT XX,2025,114 kWh (1360 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,Coupe,4,2025,2025,5204,1945,1317,,2025-08-26 08:34:59
 56087,Mercedes-Benz,AMG PureSpeed,AMG PureSpeed,2026,4.0 V8 (585 Hp) 4MATIC+ AMG SPEEDSHIFT MCT 9G,Internal Combustion engine,585,5500-6500,Petrol (Gasoline),Roadster,2,2024,,4774,1963,1301,1935,2026-01-13 16:11:48
 57436,Mercedes-Benz,VLE,VLE (E449),2027,VLE 300 115 kWh (276 Hp),BEV (Electric Vehicle),,,Electricity,MPV,5-8,2026,,5309,1999,1943,2865-3082,2026-07-07 09:49:59
+57796,Mercedes-Benz,VLE,VLE (E449),2027,VLE 400 115 kWh (422 Hp) 4MATIC,BEV (Electric Vehicle),,,Electricity,MPV,5-8,2026,,5309,1999,1943,2933-3135,2026-09-09 14:09:29
 25584,Scion,tC,tC II (facelift 2013),2014,2.5 (179 Hp),Internal Combustion engine,179,6000,Petrol (Gasoline),Coupe,5,2013,2016,4486,1796,1415,1398,2023-08-10 13:20:51
 25756,Scion,tC,tC II (facelift 2013),2014,2.5 (179 Hp) Automatic,Internal Combustion engine,179,6000,Petrol (Gasoline),Coupe,5,2013,2016,4486,1796,1415,1417,2023-08-10 13:20:52
 25220,Scion,tC,tC II,2011,2.5 (182 Hp) Automatic,Internal Combustion engine,182,6000,Petrol (Gasoline),Coupe,5,2010,2013,4420,1796,1415,1413,2023-08-10 13:20:51
@@ -48723,6 +48724,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57746,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,3.8 Turbo-Thrift (140 Hp),Internal Combustion engine,140,4400,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1451-1614,2026-08-28 16:55:36
 57747,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,4.1 Turbo-Thrift (155 Hp),Internal Combustion engine,155,4200,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1458-1633,2026-08-28 17:38:22
 57792,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,5.0 Turbo-Fire V8 (200 Hp),Internal Combustion engine,200,4600,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1517-1690,2026-09-08 16:01:12
+57797,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,5.4 Turbo-Fire V8 (250 Hp),Internal Combustion engine,250,4800,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1531-1704,2026-09-09 14:09:29
+57798,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,5.4 Turbo-Fire V8 (275 Hp),Internal Combustion engine,275,4800,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1532-1705,2026-09-09 14:09:29
+57799,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,5.4 Turbo-Fire V8 (325 Hp),Internal Combustion engine,325,5600,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1566-1737,2026-09-09 14:09:29
+57800,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,SS 396 6.5 Turbo-Jet V8 (325 Hp),Internal Combustion engine,325,4800,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1720-1785,2026-09-09 14:09:29
+57801,Chevrolet,Chevelle,Chevelle II Sport Coupe,1968,SS 396 6.5 Turbo-Jet V8 (350 Hp),Internal Combustion engine,350,5200,Petrol (Gasoline),Coupe,5,1967,1968,5006,1923,1339,1725-1790,2026-09-09 14:09:29
 14646,Innocenti,Elba,Elba,1986,1.4 i (68 Hp),Internal Combustion engine,68,5500,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,930,2023-05-12 14:14:54
 14647,Innocenti,Elba,Elba,1986,1.6 i (76 Hp),Internal Combustion engine,76,5750,Petrol (Gasoline),Station wagon (estate),5,1986,1996,4037,1555,1450,950,2023-05-12 14:14:53
 14648,Innocenti,Elba,Elba,1986,1.7 D (58 Hp),Internal Combustion engine,58,4600,Diesel,Station wagon (estate),5,1986,1996,4037,1555,1450,970,2021-12-03 11:53:43
@@ -52318,8 +52324,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57795,Dacia,Spring,Spring II,,27.5 kWh (82 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2026,,3855,1722,1519,1212,2026-09-08 16:16:05
 51685,Dacia,Spring,Spring I (facelift 2024),2024,27.4 kWh (45 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2024,2025,3701,1583,1519,955,2026-03-05 09:42:10
 51686,Dacia,Spring,Spring I (facelift 2024),2024,27.4 kWh (65 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2024,2025,3701,1583,1519,975,2026-03-05 09:42:07
-56627,Dacia,Spring,Spring I (facelift 2024),2024,24.3 kWh (71 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2025,,3701,1583,1489,995,2026-03-05 16:16:09
-56628,Dacia,Spring,Spring I (facelift 2024),2024,24.3 kWh (102 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2025,,3701,1583,1489,995,2026-03-05 16:16:09
+56627,Dacia,Spring,Spring I (facelift 2024),2024,24.3 kWh (71 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2025,2026,3701,1583,1489,995,2026-09-09 08:18:28
+56628,Dacia,Spring,Spring I (facelift 2024),2024,24.3 kWh (102 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2025,2026,3701,1583,1489,995,2026-09-09 08:18:30
 46784,Dacia,Spring,Spring I (facelift 2022),2023,26.8 kWh (45 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2022,2024,3734,1579,1516,970,2024-05-08 09:42:15
 47230,Dacia,Spring,Spring I (facelift 2022),2023,26.8 kWh (65 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2023,2024,3734,1579,1513,975,2024-05-08 09:42:12
 41464,Dacia,Spring,Spring I,2021,27.4 kWh (45 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Hatchback, Crossover",4,2021,2022,3734,1579,1516,970,2023-02-23 10:03:03
@@ -55523,6 +55529,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57625,Arcfox,Beta S3,Beta S3,2026,65.8 kWh (216 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4916,1900,1480,,2026-08-11 16:16:04
 57706,Arcfox,Alpha T6,Alpha T6,2025,93.6 kWh (218 Hp),BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4788,1940,1683,,2026-08-24 16:18:18
 57707,Arcfox,Alpha T6,Alpha T6,2025,93.6 kWh (435 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4788,1940,1683,,2026-08-24 16:18:18
+57802,Arcfox,Alpha T7,Alpha T7,2027,75.4 kWh (309 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,5020,1996,1685,,2026-09-09 14:14:10
+57803,Arcfox,Alpha T7,Alpha T7,2027,84.8 kWh (309 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,5020,1996,1685,,2026-09-09 14:14:10
+57804,Arcfox,Alpha T7,Alpha T7,2027,1.5L 43.9 kWh (272 Hp) Extended Range,PHEV (Plug-in Hybrid Electric Vehicle),96,6000,Petrol / electricity,"SUV, Crossover",5,2026,,5020,1996,1685,,2026-09-09 14:14:10
 36367,Aurus,Senat,Senat,2018,S600 4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,5500,Petrol (Gasoline),Sedan,4,2018,,5630,2020,1685,,2023-08-21 12:29:51
 36366,Aurus,Senat,Senat Limousine,2018,L700 4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,5500,Petrol (Gasoline),Sedan,6,2018,,6630,2020,1695,,2023-08-21 12:29:51
 49006,Aurus,Komendant,Komendant,2023,4.4 V8 (598 Hp) Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),598,,Petrol (Gasoline),SUV,4,2022,,5380,2004,1820,3235,2023-09-28 14:05:49
@@ -56988,36 +56997,36 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57521,Tank,700,700 (facelift 2026),2026,Hi4-Z 2.0T (864 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2026,,5105,2061,1985,3260,2026-07-22 12:13:05
 57522,Tank,700,700 (facelift 2026),2026,Hi4-T 3.0T V6 (537 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),360,6000,Petrol / electricity,SUV,5,2026,,5105,2061,1985,3165,2026-07-22 12:35:56
 55389,Tank,700,700,2024,Hi4-T 3.0T V6 (523 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),360,6000,Petrol / electricity,SUV,5,2024,2026,5090,2061,1952,3110,2026-07-22 12:13:01
-55394,Tank,700,700,2024,3.0T V6 (354 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",354,6000,Petrol (Gasoline),SUV,5,2024,,5090,2061,1952,2850-2890,2025-09-19 16:09:34
+55394,Tank,700,700,2024,3.0T V6 (354 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",354,6000,Petrol (Gasoline),SUV,5,2024,2026,5090,2061,1952,2850-2890,2026-09-09 09:15:16
 55479,Tank,500,500 (facelift 2025),2026,3.0T V6 (360 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",360,6000,Petrol (Gasoline),SUV,5-7,2025,,5070,1934,1905,2455-2565,2025-10-02 16:09:46
 55480,Tank,500,500 (facelift 2025),2026,Hi4-T 2.0T 37.1 kWh (422 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2025,,5078,1934,1905,2830,2025-10-02 16:09:46
 55481,Tank,500,500 (facelift 2025),2026,Hi4-Z 2.0T 59.05 kWh (863 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2025,,5078,1934,1905,2980,2025-10-02 16:09:46
 55473,Tank,500,500,2022,3.0T V6 (360 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",360,6000,Petrol (Gasoline),SUV,5-7,2022,2025,5070,1934,1905,2455-2565,2025-10-02 16:09:12
-55474,Tank,500,500,2022,3.0T V6 (299 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",299,6000,Petrol (Gasoline),SUV,5,2023,,4886,1934,1905,2535,2025-10-02 16:08:26
-55475,Tank,500,500,2022,3.0T V6 (354 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",354,6000,Petrol (Gasoline),SUV,5,2024,,5078,1934,1905,2575-2595,2025-10-02 16:08:43
+55474,Tank,500,500,2022,3.0T V6 (299 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",299,6000,Petrol (Gasoline),SUV,5,2023,,4886,1934,1905,2535,2026-09-09 09:23:13
+55475,Tank,500,500,2022,3.0T V6 (354 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",354,6000,Petrol (Gasoline),SUV,5,2024,,5078,1934,1905,2575-2595,2026-09-09 09:23:12
 55476,Tank,500,500,2022,Hi4-T 2.0T 37.1 kWh (408 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,5500-6000,Petrol / electricity,SUV,5,2023,2024,5078,1934,1905,2810,2025-10-02 16:09:24
 55477,Tank,500,500,2022,Hi4-T 2.0T 37.1 kWh (408 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2024,2025,5078,1934,1905,2830,2025-10-02 16:09:36
-55482,Tank,500,500,2022,2.0T (299 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),245,5500-6000,Petrol (Gasoline),SUV,7,2024,,5078,1934,1905,2605,2025-10-02 16:09:48
-55483,Tank,500,500,2022,2.4T Diesel (184 Hp) 4WD Automatic,Internal Combustion engine,184,3600,Diesel,SUV,7,2025,,4886,1934,1905,,2025-10-02 16:09:48
-55484,Tank,500,500,2022,2.4T Diesel (184 Hp) Automatic,Internal Combustion engine,184,3600,Diesel,SUV,7,2025,,4886,1934,1905,,2025-10-02 16:09:48
-55485,Tank,500,500,2022,2.0T (346 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),244,5500-6000,Petrol (Gasoline),SUV,7,2023,,5078,1934,1905,2605,2025-10-02 16:09:48
+55482,Tank,500,500,2022,2.0T (299 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),245,5500-6000,Petrol (Gasoline),SUV,7,2024,,5078,1934,1905,2605,2026-09-09 09:23:13
+55483,Tank,500,500,2022,2.4T Diesel (184 Hp) 4WD Automatic,Internal Combustion engine,184,3600,Diesel,SUV,7,2025,,4886,1934,1905,,2026-09-09 09:17:35
+55484,Tank,500,500,2022,2.4T Diesel (184 Hp) Automatic,Internal Combustion engine,184,3600,Diesel,SUV,7,2025,,4886,1934,1905,,2026-09-09 09:17:34
+55485,Tank,500,500,2022,2.0T (346 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),244,5500-6000,Petrol (Gasoline),SUV,7,2023,,5078,1934,1905,2605,2026-09-09 09:23:14
 55486,Tank,500,500,2022,Hi4-Z 2.0T 59.05 kWh (863 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2025,2025,5078,1934,1905,2980,2025-10-02 16:09:48
 55597,Tank,400,400 (facelift 2025),2026,Hi4-T 2.0T (422 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2025,,4964,1970,1905,2770,2025-10-22 12:23:57
 55598,Tank,400,400 (facelift 2025),2026,Hi4-Z 2.0T (864 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2025,,4964,1970,1905,2950,2025-10-22 12:23:57
 55739,Tank,400,400 (facelift 2025),2026,2.0T (252 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",252,6000,Petrol (Gasoline),SUV,5,2025,,4964,1970,1905,2365,2025-11-10 16:21:59
 55748,Tank,400,400 (facelift 2025),2026,2.4T Diesel (186 Hp) 4WD Automatic,Internal Combustion engine,186,3600,Diesel,SUV,5,2025,,4964,1970,1905,2455,2025-11-11 16:18:59
-55395,Tank,400,400,2023,2.0T (245 Hp) 4WD Automatic,Internal Combustion engine,245,5500-6000,Petrol (Gasoline),SUV,5,2025,,4985,1960,1905,2435,2025-09-19 16:09:34
+55395,Tank,400,400,2023,2.0T (245 Hp) 4WD Automatic,Internal Combustion engine,245,5500-6000,Petrol (Gasoline),SUV,5,2025,2025,4985,1960,1905,2435,2026-09-09 09:15:54
 55396,Tank,400,400,2023,2.4T Diesel (186 Hp) 4WD Automatic,Internal Combustion engine,186,3600,Diesel,SUV,5,2025,2025,4985,1960,1905,2455,2025-10-22 12:29:23
 55397,Tank,400,400,2023,2.0T (252 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",252,5500-6000,Petrol (Gasoline),SUV,5,2025,2025,4985,1960,1905,2365,2025-10-22 12:29:29
 55398,Tank,400,400,2023,Hi4-T 2.0T (408 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,5500-6000,Petrol / electricity,SUV,5,2023,2025,4985,1960,1900,2770,2025-10-22 12:29:06
 57440,Tank,300,300L (facelift 2026),2026,Hi4-T 2.0T (422 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2026,,4886,1984,1927,2685,2026-07-07 15:40:55
 57441,Tank,300,300L (facelift 2026),2026,Hi4-Z 2.0T (762 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2026,,4886,1984,1927,2890,2026-07-07 16:06:43
 55399,Tank,300,300,2021,2.4T Diesel (186 Hp) 4WD Automatic,Internal Combustion engine,186,3600,Diesel,SUV,5,2025,2026,4750,1930,1903,2340,2026-07-07 15:42:26
-55403,Tank,300,300,2021,2.0T (220 Hp) 4WD Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV,5,2023,,4760,1930,1903,2155,2025-09-23 16:17:59
+55403,Tank,300,300,2021,2.0T (220 Hp) 4WD Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV,5,2023,2026,4760,1930,1903,2155,2026-09-09 09:15:38
 55404,Tank,300,300,2021,2.0T (227 Hp) 4WD Automatic 9-speed,Internal Combustion engine,227,5500,Petrol (Gasoline),SUV,5,2025,2026,4750,1930,1903,2225,2026-07-07 15:42:18
 55405,Tank,300,300,2021,2.0T (227 Hp) 4WD Automatic 8-speed,Internal Combustion engine,227,5500,Petrol (Gasoline),SUV,5,2021,2025,4760,1930,1903,2050-2187,2025-09-23 16:17:59
 55406,Tank,300,300,2021,2.0T (252 Hp) Mild Hybrid 4WD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",252,5500-6000,Petrol (Gasoline),SUV,5,2023,2025,4760,1930,1903,2200,2025-09-23 16:17:59
-55573,Tank,300,300,2021,2.0T (351 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),245,5500-6000,Petrol (Gasoline),SUV,5,2022,,4760,1930,1903,2313,2025-10-17 15:47:06
+55573,Tank,300,300,2021,2.0T (351 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),245,5500-6000,Petrol (Gasoline),SUV,5,2022,,4760,1930,1903,2313,2026-09-09 09:28:01
 55865,Tank,300,300,2021,Hi4-T 2.0T 37.1 kWh (408 Hp) Plug-in Hybrid 4WD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),252,6000,Petrol / electricity,SUV,5,2024,2026,4750,1930,1903,2645,2026-07-07 15:42:35
 55838,Changan Nevo,Q05,Q05 II,2026,40.3 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4435,1855,1595-1600,1435-1470,2025-11-24 16:13:36
 55839,Changan Nevo,Q05,Q05 II,2026,51.9 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4435,1855,1595-1600,1550,2025-11-24 16:13:36

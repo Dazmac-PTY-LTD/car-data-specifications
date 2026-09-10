@@ -1098,6 +1098,93 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-09 10:36:51",
+        "name": "Alpha T7",
+        "id": "4126",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-09 10:37:16",
+              "name": "Alpha T7",
+              "modelYear": "2027",
+              "id": "11462",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57802",
+                    "update": "2026-09-09 14:14:10",
+                    "brand": "Arcfox",
+                    "model": "Alpha T7",
+                    "generation": "Alpha T7",
+                    "engine": "75.4 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5020",
+                    "width": "1996",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57803",
+                    "update": "2026-09-09 14:14:10",
+                    "brand": "Arcfox",
+                    "model": "Alpha T7",
+                    "generation": "Alpha T7",
+                    "engine": "84.8 kWh (309 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5020",
+                    "width": "1996",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57804",
+                    "update": "2026-09-09 14:14:10",
+                    "brand": "Arcfox",
+                    "model": "Alpha T7",
+                    "generation": "Alpha T7",
+                    "engine": "1.5L 43.9 kWh (272 Hp) Extended Range",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "96/6000",
+                    "powerHp": "96",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5020",
+                    "width": "1996",
+                    "height": "1685",
+                    "heightMin": "1685",
+                    "rideHeight": "155",
+                    "rideHeightMin": "155",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
