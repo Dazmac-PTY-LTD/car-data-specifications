@@ -1405,6 +1405,119 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-10 11:45:45",
+        "name": "A05",
+        "id": "4127",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-10 11:46:21",
+              "name": "A05",
+              "modelYear": "2027",
+              "id": "11463",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57814",
+                    "update": "2026-09-10 16:16:52",
+                    "brand": "Leapmotor",
+                    "model": "A05",
+                    "generation": "A05",
+                    "engine": "39.8 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1800",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1310",
+                    "curbWeightMin": "1310"
+                  },
+                  {
+                    "id": "57815",
+                    "update": "2026-09-10 16:16:52",
+                    "brand": "Leapmotor",
+                    "model": "A05",
+                    "generation": "A05",
+                    "engine": "53 kWh (122 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4200",
+                    "width": "1800",
+                    "height": "1560",
+                    "heightMin": "1560",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Electricity",
+                    "curbWeight": "1420-1440",
+                    "curbWeightMin": "1420",
+                    "curbWeightMax": "1440"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-09-10 14:14:22",
+        "name": "D99",
+        "id": "4128",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-10 14:15:30",
+              "name": "D99",
+              "modelYear": "2027",
+              "id": "11467",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57816",
+                    "update": "2026-09-10 16:18:54",
+                    "brand": "Leapmotor",
+                    "model": "D99",
+                    "generation": "D99",
+                    "engine": "1.5TD 80.3 kWh (408 Hp) Extended Range 4WD",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "136/5000",
+                    "powerHp": "136",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2026",
+                    "coupe": "Minivan",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "5280",
+                    "width": "1995",
+                    "height": "1880-1900",
+                    "heightMin": "1880",
+                    "heightMax": "1900",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2865-2965",
+                    "curbWeightMin": "2865",
+                    "curbWeightMax": "2965"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

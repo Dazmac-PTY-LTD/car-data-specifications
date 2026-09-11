@@ -23358,8 +23358,14 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 8234,Proton,Persona 300 Compact,Persona I Compact,1994,1.5 GLi (315GLi) (87 Hp),Internal Combustion engine,87,6000,Petrol (Gasoline),Hatchback,5,1994,2006,3990,1698,1365,975,2022-10-11 12:09:39
 8235,Proton,Persona 300 Compact,Persona I Compact,1994,1.6 i (316 GLSi) (95 Hp),Internal Combustion engine,95,,Petrol (Gasoline),Hatchback,5,1998,2006,3990,1698,1365,1035,2022-10-11 12:09:39
 8236,Proton,Persona 300 Compact,Persona I Compact,1994,1.8 i 16V (318 i) (135 Hp),Internal Combustion engine,135,6500,Petrol (Gasoline),Hatchback,5,2000,2006,3995,1710,1365,1190,2022-10-11 12:09:39
-33242,Proton,Saga,Saga III,2016,1.3 (95 Hp),Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2016,,4331,1689,1491,1035,2021-12-03 11:53:43
-33243,Proton,Saga,Saga III,2016,1.3 (95 Hp) Automatic,Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2016,,4331,1689,1491,1055-1075,2021-12-03 11:53:43
+57808,Proton,Saga,"Saga III (MC3, facelift 2025)",2026,1.5 i-GT (120 Hp) Automatic,Internal Combustion engine,120,6100,Petrol (Gasoline),Sedan,5,2025,,4381,1700,1517-1525,1055-1065,2026-09-10 16:08:23
+57809,Proton,Saga,"Saga III (MC3, facelift 2025)",2026,1.5 i-GT (120 Hp) CVT,Internal Combustion engine,120,6100,Petrol (Gasoline),Sedan,5,2025,,4381,1700,1517-1525,1085,2026-09-10 16:08:23
+57810,Proton,Saga,"Saga III (MC2, facelift 2022)",2022,1.3 (95 Hp),Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2022,2025,4335,1690,1515,1061-1065,2026-09-10 16:08:23
+57811,Proton,Saga,"Saga III (MC2, facelift 2022)",2022,1.3 (95 Hp) Automatic,Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2022,2025,4335,1690,1515,1067-1089,2026-09-10 16:08:23
+57812,Proton,Saga,"Saga III (MC1, facelift 2019)",2019,1.3 (95 Hp),Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2019,2022,4331,1689,1491,1055,2026-09-10 16:08:23
+57813,Proton,Saga,"Saga III (MC1, facelift 2019)",2019,1.3 (95 Hp) Automatic,Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2019,2022,4331,1689,1491,1065-1090,2026-09-10 16:08:23
+33242,Proton,Saga,Saga III,2016,1.3 (95 Hp),Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2016,2019,4331,1689,1491,1035,2026-09-10 12:16:36
+33243,Proton,Saga,Saga III,2016,1.3 (95 Hp) Automatic,Internal Combustion engine,95,5750,Petrol (Gasoline),Sedan,5,2016,2019,4331,1689,1491,1055-1075,2026-09-10 12:16:34
 8237,Proton,Saga,Saga I,1985,1.3 i (75 Hp),Internal Combustion engine,75,6000,Petrol (Gasoline),Sedan,4,1985,1992,4280,1655,1360,950,2022-10-11 12:09:39
 8238,Proton,Saga,Saga I,1985,1.5 i (90 Hp),Internal Combustion engine,90,6000,Petrol (Gasoline),Sedan,4,1985,1992,4280,1655,1360,980,2022-10-11 12:09:39
 8241,Proton,Saga Iswara,Saga Iswara Aeroback,2001,1.3 i (75 Hp),Internal Combustion engine,75,6000,Petrol (Gasoline),Hatchback,5,2001,2003,4280,1655,1360,950,2021-12-03 11:53:43
@@ -23417,14 +23423,17 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 34340,Proton,Exora,Exora MC,2010,1.6 16V (140 Hp) CVT,Internal Combustion engine,140,5000,Petrol (Gasoline),MPV,7,2010,2011,4592,1809,1691,1455,2023-08-11 11:53:46
 34338,Proton,Exora,Exora,2009,1.6 16V (126 Hp),Internal Combustion engine,126,6500,Petrol (Gasoline),MPV,7,2009,2010,4592,1809,1691,1400-1420,2023-08-11 11:53:46
 34339,Proton,Exora,Exora,2009,1.6 16V (126 Hp) Automatic,Internal Combustion engine,126,6500,Petrol (Gasoline),MPV,7,2009,2010,4592,1809,1691,1430-1450,2023-08-11 11:53:46
-54785,Proton,X70,X70 (facelift 2024),2025,1.5 TGDI (177 Hp) DCT,Internal Combustion engine,177,5500,Petrol (Gasoline),SUV,5,2024,,4526,1831,1694,1585-1610,2025-07-04 16:11:43
+54785,Proton,X70,X70 (facelift 2024),2025,1.5 TGDI (177 Hp) DCT,Internal Combustion engine,177,5500,Petrol (Gasoline),SUV,5,2024,2026,4526,1831,1694,1585-1610,2026-09-10 10:17:04
+57807,Proton,X70,X70 (facelift 2024),2025,1.5TD i-GT (181 Hp) DCT,Internal Combustion engine,181,5500,Petrol (Gasoline),SUV,5,2026,,4532,1831,1694,1575-1585,2026-09-10 16:08:23
 35186,Proton,X70,X70,2018,1.8 TGDI (184 Hp) Automatic,Internal Combustion engine,184,5500,Petrol (Gasoline),SUV,5,2018,2024,4519,1831,1694,1660-1695,2025-07-04 08:23:10
 35187,Proton,X70,X70,2018,1.8 TGDI (184 Hp) AWD Automatic,Internal Combustion engine,184,5500,Petrol (Gasoline),SUV,5,2018,2024,4519,1831,1694,1725,2025-07-04 08:23:09
 55291,Proton,X50,X50 (facelift 2025),2025,1.5TD (181 Hp) DCT,Internal Combustion engine,181,5500,Petrol (Gasoline),SUV,5,2025,,4380,1795,1609,1351-1378,2025-09-05 16:08:08
 44403,Proton,X50,X50,2020,1.5T PFI (150 Hp) DCT,Internal Combustion engine,150,5500,Petrol (Gasoline),SUV,5,2020,2025,4330,1800,1609,1325-1350,2025-09-05 09:50:13
 44404,Proton,X50,X50,2020,1.5T GDi (177 Hp) DCT,Internal Combustion engine,177,5500,Petrol (Gasoline),SUV,5,2020,2025,4330,1800,1609,1370,2025-09-05 09:50:14
-49328,Proton,X90,X90,2023,1.5 TGDi (177 Hp) Mild Hybrid DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",177,5500,Petrol (Gasoline),SUV,6-7,2023,,4830,1900,1764,1730-1743,2023-10-16 10:54:42
-53177,Proton,S70,S70,2024,1.5T (150 Hp) DCT,Internal Combustion engine,150,5500,Petrol (Gasoline),Sedan,5,2023,,4602,1809,1466,1300-1319,2024-11-15 16:08:46
+49328,Proton,X90,X90,2023,1.5 TGDi (177 Hp) Mild Hybrid DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",177,5500,Petrol (Gasoline),SUV,6-7,2023,2026,4830,1900,1764,1730-1743,2026-09-10 09:40:07
+57806,Proton,X90,X90,2023,1.5TD i-GT (181 Hp) DCT,Internal Combustion engine,181,5500,Petrol (Gasoline),SUV,6-7,2026,,4830,1900,1760-1764,1675-1700,2026-09-10 16:08:23
+53177,Proton,S70,S70,2024,1.5T (150 Hp) DCT,Internal Combustion engine,150,5500,Petrol (Gasoline),Sedan,5,2023,2026,4602,1809,1466,1300-1319,2026-09-10 08:50:34
+57805,Proton,S70,S70,2024,1.5TD i-GT (181 Hp) DCT,Internal Combustion engine,181,5500,Petrol (Gasoline),Sedan,5,2026,,4602,1809,1466,1290-1330,2026-09-10 16:08:23
 54103,Proton,e.MAS 7,e.MAS 7,2025,49.52 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2024,,4615,1901,1670,1662,2025-06-26 16:02:01
 54104,Proton,e.MAS 7,e.MAS 7,2025,60.22 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV,5,2024,,4615,1901,1670,1765,2025-06-26 16:01:58
 57505,Proton,e.MAS 7,e.MAS 7,2025,1.5L 18.4 kWh (262 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),99,,Petrol / electricity,SUV,5,2026,,4740,1905,1685,1735-1760,2026-07-20 16:16:54
@@ -56254,6 +56263,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57210,Leapmotor,A10,A10,2026,53 kWh (122 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV, Crossover",5,2026,,4270,1810,1635,1460,2026-06-09 16:16:12
 57224,Leapmotor,D19,D19,2026,1.5T 63.7 kWh (408 Hp) Extended Range 4WD,PHEV (Plug-in Hybrid Electric Vehicle),129,5000,Petrol / electricity,SUV,6,2026,,5252,1995,1800,2635,2026-06-11 16:16:28
 57225,Leapmotor,D19,D19,2026,1.5T 80.3 kWh (408 Hp) Extended Range 4WD,PHEV (Plug-in Hybrid Electric Vehicle),129,5000,Petrol / electricity,SUV,6-7,2026,,5252,1995,1780,2740-2770,2026-06-11 16:16:28
+57814,Leapmotor,A05,A05,2027,39.8 kWh (95 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4200,1800,1560,1310,2026-09-10 16:16:52
+57815,Leapmotor,A05,A05,2027,53 kWh (122 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4200,1800,1560,1420-1440,2026-09-10 16:16:52
+57816,Leapmotor,D99,D99,2027,1.5TD 80.3 kWh (408 Hp) Extended Range 4WD,PHEV (Plug-in Hybrid Electric Vehicle),136,5000,Petrol / electricity,Minivan,7,2026,,5280,1995,1880-1900,2865-2965,2026-09-10 16:18:54
 49898,Forthing,T5 EVO,T5 EVO,2021,1.5 TD (197 Hp) DCT,Internal Combustion engine,197,5600,Petrol (Gasoline),SUV,5,2020,,4565,1860,1690,1500-1550,2023-10-06 16:19:59
 52998,Forthing,T5 EVO,T5 EVO,2021,HEV 1.5T (245 Hp) DCT,FHEV (Full Hybrid Electric Vehicle),190,5500,Petrol (Gasoline),SUV,5,2023,,4595,1865,1680,1700,2025-04-11 12:24:32
 49920,Forthing,Yacht/4 U-Tour,Yacht/4 U-Tour,2022,1.5 (197 Hp) DCT,Internal Combustion engine,197,5600,Petrol (Gasoline),MPV,7,2022,,4850,1900,1715,,2023-10-09 16:16:41
