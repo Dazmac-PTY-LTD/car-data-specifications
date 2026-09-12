@@ -107762,6 +107762,31 @@
                     "fuel": "Petrol / electricity",
                     "curbWeight": "2100",
                     "curbWeightMin": "2100"
+                  },
+                  {
+                    "id": "57820",
+                    "update": "2026-09-11 16:32:21",
+                    "brand": "Mercedes-Benz",
+                    "model": "CLE",
+                    "generation": "CLE Coupe (C236)",
+                    "engine": "AMG CLE 646 V8 (646 Hp) Mild Hybrid AMG SPEEDSHIFT TCT 9G",
+                    "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "power": "646/6000-6250",
+                    "powerHp": "646",
+                    "powerRpm": "6000-6250",
+                    "powerRpmLow": "6000",
+                    "powerRpmHigh": "6250",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4949",
+                    "width": "1987",
+                    "height": "1420",
+                    "heightMin": "1420",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1895",
+                    "curbWeightMin": "1895"
                   }
                 ]
               }
