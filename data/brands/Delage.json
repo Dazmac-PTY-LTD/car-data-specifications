@@ -1,0 +1,79 @@
+{
+  "update": "2026-09-14 12:44:00",
+  "name": "Delage",
+  "id": "408",
+  "models": {
+    "model": [
+      {
+        "update": "2026-09-14 12:44:42",
+        "name": "D12",
+        "id": "4129",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-14 12:48:48",
+              "name": "D12",
+              "modelYear": "2025",
+              "id": "11474",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57831",
+                    "update": "2026-09-14 16:06:32",
+                    "brand": "Delage",
+                    "model": "D12",
+                    "generation": "D12",
+                    "engine": "GT 6.6 V12 (1000 Hp) Hybrid Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "850/8600",
+                    "powerHp": "850",
+                    "powerRpm": "8600",
+                    "powerRpmLow": "8600",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4645",
+                    "width": "2063",
+                    "height": "1090-1140",
+                    "heightMin": "1090",
+                    "heightMax": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1360",
+                    "curbWeightMin": "1360"
+                  },
+                  {
+                    "id": "57832",
+                    "update": "2026-09-14 16:06:32",
+                    "brand": "Delage",
+                    "model": "D12",
+                    "generation": "D12",
+                    "engine": "Club 6.6 V12 (1000 Hp) Hybrid Automatic",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "850/8600",
+                    "powerHp": "850",
+                    "powerRpm": "8600",
+                    "powerRpmLow": "8600",
+                    "yearstart": "2025",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4645",
+                    "width": "2063",
+                    "height": "1090-1140",
+                    "heightMin": "1090",
+                    "heightMax": "1140",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1320",
+                    "curbWeightMin": "1320"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -187,6 +187,50 @@
                     "fuel": "Electricity",
                     "curbWeight": "1995",
                     "curbWeightMin": "1995"
+                  },
+                  {
+                    "id": "57835",
+                    "update": "2026-09-14 16:06:55",
+                    "brand": "Leapmotor",
+                    "model": "C10",
+                    "generation": "C10",
+                    "engine": "ProMax 81.9 kWh (299 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4739",
+                    "width": "1900",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2055",
+                    "curbWeightMin": "2055"
+                  },
+                  {
+                    "id": "57836",
+                    "update": "2026-09-14 16:06:55",
+                    "brand": "Leapmotor",
+                    "model": "C10",
+                    "generation": "C10",
+                    "engine": "ProMax 81.9 kWh (598 Hp) BEV AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2025",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4739",
+                    "width": "1900",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "180",
+                    "rideHeightMin": "180",
+                    "fuel": "Electricity",
+                    "curbWeight": "2189",
+                    "curbWeightMin": "2189"
                   }
                 ]
               }
@@ -439,6 +483,39 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-09-14 12:38:40",
+              "name": "T03 Van",
+              "modelYear": "2026",
+              "id": "11473",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57837",
+                    "update": "2026-09-14 16:06:55",
+                    "brand": "Leapmotor",
+                    "model": "T03",
+                    "generation": "T03 Van",
+                    "engine": "37.3 kWh (95 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "3620",
+                    "width": "1652",
+                    "height": "1577",
+                    "heightMin": "1577",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1180",
+                    "curbWeightMin": "1180"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2023-09-26 16:23:38",
               "name": "T03",
               "modelYear": "2020",
@@ -447,13 +524,14 @@
                 "modification": [
                   {
                     "id": "49739",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-09-14 12:03:57",
                     "brand": "Leapmotor",
                     "model": "T03",
                     "generation": "T03",
                     "engine": "21.6 kWh (54 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Hatchback",
                     "places": "4",
                     "placesMin": "4",
@@ -466,13 +544,14 @@
                   },
                   {
                     "id": "49740",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-09-14 12:03:55",
                     "brand": "Leapmotor",
                     "model": "T03",
                     "generation": "T03",
                     "engine": "31.9 kWh (75 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Hatchback",
                     "places": "4",
                     "placesMin": "4",
@@ -485,13 +564,14 @@
                   },
                   {
                     "id": "49741",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-09-14 12:03:52",
                     "brand": "Leapmotor",
                     "model": "T03",
                     "generation": "T03",
                     "engine": "41.3 kWh (109 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Hatchback",
                     "places": "4",
                     "placesMin": "4",

@@ -1,0 +1,51 @@
+{
+  "update": "2026-09-14 14:13:19",
+  "name": "capricorn",
+  "id": "409",
+  "models": {
+    "model": [
+      {
+        "update": "2026-09-14 14:14:39",
+        "name": "01 Zagato",
+        "id": "4130",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-14 14:14:57",
+              "name": "01 Zagato",
+              "modelYear": "2026",
+              "id": "11475",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57833",
+                    "update": "2026-09-14 16:06:32",
+                    "brand": "capricorn",
+                    "model": "01 Zagato",
+                    "generation": "01 Zagato",
+                    "engine": "5.2 V8 (900 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "900",
+                    "powerHp": "900",
+                    "yearstart": "2026",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "5060",
+                    "width": "1980",
+                    "height": "1150",
+                    "heightMin": "1150",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1200",
+                    "curbWeightMin": "1200"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

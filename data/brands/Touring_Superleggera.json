@@ -1,0 +1,54 @@
+{
+  "update": "2026-09-14 15:33:53",
+  "name": "Touring Superleggera",
+  "id": "410",
+  "models": {
+    "model": [
+      {
+        "update": "2026-09-14 15:36:48",
+        "name": "AERO 3",
+        "id": "4131",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-14 15:36:59",
+              "name": "AERO 3",
+              "modelYear": "2020",
+              "id": "11476",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57834",
+                    "update": "2026-09-14 16:06:32",
+                    "brand": "Touring Superleggera",
+                    "model": "AERO 3",
+                    "generation": "AERO 3",
+                    "engine": "6.3 V12 (740 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "740/8250",
+                    "powerHp": "740",
+                    "powerRpm": "8250",
+                    "powerRpmLow": "8250",
+                    "yearstart": "2020",
+                    "yearstop": "2024",
+                    "coupe": "Coupe",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4800",
+                    "width": "1976",
+                    "height": "1274",
+                    "heightMin": "1274",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1495",
+                    "curbWeightMin": "1495"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
