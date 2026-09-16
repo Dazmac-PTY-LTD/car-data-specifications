@@ -112531,7 +112531,27 @@
               "modelYear": "2026",
               "id": "11477",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "57838",
+                    "update": "2026-09-15 16:06:40",
+                    "brand": "Volkswagen",
+                    "model": "Mission Efficiency",
+                    "generation": "Mission Efficiency (prototype)",
+                    "engine": "54.9 kWh (135 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, Fastback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "4776",
+                    "width": "1744",
+                    "height": "1392",
+                    "heightMin": "1392",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
               }
             }
           ]
