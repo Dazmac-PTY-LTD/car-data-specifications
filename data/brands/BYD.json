@@ -7638,6 +7638,122 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-16 10:30:01",
+        "name": "Sea Lion 08",
+        "id": "4134",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-16 10:30:43",
+              "name": "Sea Lion 08",
+              "modelYear": "2027",
+              "id": "11482",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57857",
+                    "update": "2026-09-16 14:14:07",
+                    "brand": "BYD",
+                    "model": "Sea Lion 08",
+                    "generation": "Sea Lion 08",
+                    "engine": "DM-i 1.5T 55.843 kWh (272 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5115",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2445",
+                    "curbWeightMin": "2445"
+                  },
+                  {
+                    "id": "57858",
+                    "update": "2026-09-16 14:14:07",
+                    "brand": "BYD",
+                    "model": "Sea Lion 08",
+                    "generation": "Sea Lion 08",
+                    "engine": "DM-i 1.5T 55.843 kWh (272 Hp) Plug-in Hybrid E-CVT 6 Seater",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5115",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2505",
+                    "curbWeightMin": "2505"
+                  },
+                  {
+                    "id": "57859",
+                    "update": "2026-09-16 14:14:07",
+                    "brand": "BYD",
+                    "model": "Sea Lion 08",
+                    "generation": "Sea Lion 08",
+                    "engine": "DM-p 1.5T 55.843 kWh (544 Hp) Plug-in Hybrid 4WD E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5115",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2605",
+                    "curbWeightMin": "2605"
+                  },
+                  {
+                    "id": "57860",
+                    "update": "2026-09-16 14:16:45",
+                    "brand": "BYD",
+                    "model": "Sea Lion 08",
+                    "generation": "Sea Lion 08",
+                    "engine": "DM-p 1.5T 55.843 kWh (544 Hp) Plug-in Hybrid 4WD E-CVT 6 Seater",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "156/5500",
+                    "powerHp": "156",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "6",
+                    "placesMin": "6",
+                    "length": "5115",
+                    "width": "1999",
+                    "height": "1800",
+                    "heightMin": "1800",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": "2665",
+                    "curbWeightMin": "2665"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

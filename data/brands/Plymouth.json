@@ -1043,11 +1043,11 @@
                 "modification": [
                   {
                     "id": "5809",
-                    "update": "2023-11-23 11:14:13",
+                    "update": "2026-09-16 12:37:28",
                     "brand": "Plymouth",
                     "model": "Prowler",
                     "generation": "Prowler",
-                    "engine": "3.5 V6 (253 Hp)",
+                    "engine": "3.5 V6 (253 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
                     "power": "253/6400",
                     "powerHp": "253",
@@ -1066,6 +1066,32 @@
                     "rideHeightMin": "114",
                     "fuel": "Petrol (Gasoline)",
                     "curbWeight": ""
+                  },
+                  {
+                    "id": "57854",
+                    "update": "2026-09-16 14:05:46",
+                    "brand": "Plymouth",
+                    "model": "Prowler",
+                    "generation": "Prowler",
+                    "engine": "3.5 V6 (217 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "217/5850",
+                    "powerHp": "217",
+                    "powerRpm": "5850",
+                    "powerRpmLow": "5850",
+                    "yearstart": "1997",
+                    "yearstop": "1999",
+                    "coupe": "Cabriolet",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4191",
+                    "width": "1930",
+                    "height": "1295",
+                    "heightMin": "1295",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1270-1315",
+                    "curbWeightMin": "1270",
+                    "curbWeightMax": "1315"
                   }
                 ]
               }

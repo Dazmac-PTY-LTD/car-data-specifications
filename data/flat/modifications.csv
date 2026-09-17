@@ -16099,7 +16099,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 30097,Plymouth,Laser,Laser,1990,1.8i (94 Hp) Automatic,Internal Combustion engine,94,5000,Petrol (Gasoline),Coupe,4,1989,1994,4330,1690,1310,1190,2023-08-14 13:23:57
 30113,Plymouth,Laser,Laser,1990,2.0i (137 Hp) Automatic,Internal Combustion engine,137,6000,Petrol (Gasoline),Coupe,4,1989,1994,4330,1690,1310,1215,2023-08-14 13:23:28
 30129,Plymouth,Laser,Laser,1990,2.0i Turbo (195 Hp) Automatic,Internal Combustion engine,195,6000,Petrol (Gasoline),Coupe,4,1991,1994,4330,1690,1310,1245,2023-08-14 13:22:57
-5809,Plymouth,Prowler,Prowler,1999,3.5 V6 (253 Hp),Internal Combustion engine,253,6400,Petrol (Gasoline),Cabriolet,2,1999,2002,4199,1943,1293,,2023-11-23 11:14:13
+5809,Plymouth,Prowler,Prowler,1999,3.5 V6 (253 Hp) Automatic,Internal Combustion engine,253,6400,Petrol (Gasoline),Cabriolet,2,1999,2002,4199,1943,1293,,2026-09-16 12:37:28
+57854,Plymouth,Prowler,Prowler,1999,3.5 V6 (217 Hp) Automatic,Internal Combustion engine,217,5850,Petrol (Gasoline),Cabriolet,2,1997,1999,4191,1930,1295,1270-1315,2026-09-16 14:05:46
 53108,Plymouth,Barracuda,Barracuda III,1970,7.2 V8 (390 Hp),Internal Combustion engine,390,4700,Petrol (Gasoline),Coupe,4,1970,1970,4742,1902,1293,,2024-11-11 15:44:04
 53110,Plymouth,Barracuda,Barracuda III,1970,5.6 V8 (275 Hp),Internal Combustion engine,275,5000,Petrol (Gasoline),Coupe,4,1970,1970,4742,1902,1293,,2024-11-11 15:43:25
 53111,Plymouth,Barracuda,Barracuda III,1970,AAR 5.6 V8 (290 Hp) TorqueFlite,Internal Combustion engine,290,5000,Petrol (Gasoline),Coupe,4,1970,1970,4742,1902,1293,1629,2024-11-11 15:43:53
@@ -21287,6 +21288,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54018,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCab (facelift 2023),2024,5.0 V8 (400 Hp) SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,5-6,2023,,5893,2029,1913,2128,2025-04-11 16:16:53
 54019,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCab (facelift 2023),2024,3.5 EcoBoost V6 (400 Hp) SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,5-6,2023,,5893,2029,1913,2170,2025-04-11 16:16:53
 54020,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCab (facelift 2023),2024,3.5 EcoBoost V6 (400 Hp) 4x4 SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,5-6,2023,,5893,2029,1958,2285,2025-04-11 16:16:53
+57852,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCab (facelift 2023),2024,3.0 EcoBoost V6 (325 Hp) SelectShift,Internal Combustion engine,325,5500,Petrol (Gasoline),Pick-up,5-6,2026,,5893,2029,1913,,2026-09-16 14:05:46
+57853,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCab (facelift 2023),2024,3.0 EcoBoost V6 (325 Hp) 4x4 SelectShift,Internal Combustion engine,325,5500,Petrol (Gasoline),Pick-up,5-6,2026,,5893,2029,1958,,2026-09-16 14:05:46
 54007,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab (facelift 2023),2024,5.0 V8 (400 Hp) SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,3,2023,,5319,2029,1915,1992,2025-04-11 16:16:53
 54008,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab (facelift 2023),2024,5.0 V8 (400 Hp) 4x4 SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,3,2023,,5319,2029,1953,2111,2025-04-11 16:16:53
 54009,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab Long (facelift 2023),2024,2.7 EcoBoost V6 (325 Hp) SelectShift,Internal Combustion engine,325,5000,Petrol (Gasoline),Pick-up,3,2023,2026,5794,2029,1905,1994,2026-09-15 14:25:37
@@ -35878,6 +35881,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57524,BYD,Seal 08,Seal 08,2026,DM-i 1.5T 45.36 kWh (544 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,5500,Petrol / electricity,Sedan,5,2026,,5150,1999,1505,2270,2026-07-22 14:14:19
 57585,BYD,Racco,Racco,2026,22.40 kWh (64 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,4,2026,,3395,1475,1800,1160,2026-07-31 16:16:07
 57586,BYD,Racco,Racco,2026,35.84 kWh (64 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,4,2026,,3395,1475,1800,1220-1230,2026-07-31 16:16:07
+57857,BYD,Sea Lion 08,Sea Lion 08,2027,DM-i 1.5T 55.843 kWh (272 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,5500,Petrol / electricity,SUV,5,2026,,5115,1999,1800,2445,2026-09-16 14:14:07
+57858,BYD,Sea Lion 08,Sea Lion 08,2027,DM-i 1.5T 55.843 kWh (272 Hp) Plug-in Hybrid E-CVT 6 Seater,PHEV (Plug-in Hybrid Electric Vehicle),156,5500,Petrol / electricity,SUV,6,2026,,5115,1999,1800,2505,2026-09-16 14:14:07
+57859,BYD,Sea Lion 08,Sea Lion 08,2027,DM-p 1.5T 55.843 kWh (544 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,5500,Petrol / electricity,SUV,5,2026,,5115,1999,1800,2605,2026-09-16 14:14:07
+57860,BYD,Sea Lion 08,Sea Lion 08,2027,DM-p 1.5T 55.843 kWh (544 Hp) Plug-in Hybrid 4WD E-CVT 6 Seater,PHEV (Plug-in Hybrid Electric Vehicle),156,5500,Petrol / electricity,SUV,6,2026,,5115,1999,1800,2665,2026-09-16 14:16:45
 11046,Hindustan,Ambassador,Ambassador,1991,1.5 D Nova (32 Hp),Internal Combustion engine,32,4000,Diesel,Sedan,5,1991,2014,4325,1662,1600,1200,2022-10-11 12:09:39
 11047,Hindustan,Ambassador,Ambassador,1991,1.5 Nova (55 Hp),Internal Combustion engine,55,4400,Petrol (Gasoline),Sedan,5,1991,2014,4325,1662,1600,1142,2022-10-11 12:09:39
 11048,Hindustan,Ambassador,Ambassador,1991,1.8 i (75 Hp),Internal Combustion engine,75,5000,Petrol (Gasoline),Sedan,5,1999,2014,4325,1660,1600,1150,2022-10-11 12:09:39
@@ -39281,7 +39288,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57661,Mercedes-Benz,C-class,"C-class (W206, facelift 2026)",2027,C 200 (177 Hp) EQ Boost 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",177,5000-6100,Petrol (Gasoline),Sedan,5,2026,,4766,1820,1438,1630,2026-08-18 16:01:35
 57662,Mercedes-Benz,C-class,"C-class (W206, facelift 2026)",2027,C 250 (218 Hp) EQ Boost 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",218,5000-6100,Petrol (Gasoline),Sedan,5,2026,,4766,1820,1438,1650,2026-08-18 16:02:18
 57663,Mercedes-Benz,C-class,"C-class (W206, facelift 2026)",2027,C 300 (258 Hp) EQ Boost 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",258,5800,Petrol (Gasoline),Sedan,5,2026,,4766,1820,1438,1685,2026-08-18 16:03:46
-56857,Mercedes-Benz,C-class,C-class (W520),2027,C 400 94.5 kWh (490 Hp) 4MATIC Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4883,1892,1503,2385,2026-07-14 09:15:29
+56857,Mercedes-Benz,C-class,C-class (W520),2027,C 400 94.5 kWh (490 Hp) 4MATIC Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4883,1892,1503-1505,2385,2026-09-16 13:58:43
+57855,Mercedes-Benz,C-class,C-class (W520),2027,C 300 85 kWh (421 Hp) 4MATIC Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4883,1892,1503-1505,2340,2026-09-16 14:05:46
 44924,Mercedes-Benz,C-class,C-class All-Terrain (S206),2022,C 220d (200 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",200,4200,Diesel,"Station wagon (estate), Crossover",5,2021,2026,4755,1841,1494,1800,2026-08-18 10:12:44
 44925,Mercedes-Benz,C-class,C-class All-Terrain (S206),2022,C 200 (204 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,5800-6100,Petrol (Gasoline),"Station wagon (estate), Crossover",5,2021,2026,4755,1841,1494,1720,2026-08-18 10:12:43
 42350,Mercedes-Benz,C-class,C-class T-modell (S206),2021,C 200 (204 Hp) EQ Boost 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",204,5800-6100,Petrol (Gasoline),Station wagon (estate),5,2021,2026,4751,1820,1454,1635,2026-08-18 10:11:22
@@ -42336,12 +42344,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56952,Mercedes-Benz,GLB,GLB (X248),2026,GLB 220 (211 Hp) Hybrid 8G-eDCT,FHEV (Full Hybrid Electric Vehicle),190,5500,Petrol (Gasoline),SUV,5,2026,,4732,1861,1681,1765,2026-05-08 11:03:50
 56965,Mercedes-Benz,GLB,GLB (X248),2026,GLB 200 (184 Hp) Hybrid 4MATIC 8G-eDCT,FHEV (Full Hybrid Electric Vehicle),163,5500,Petrol (Gasoline),SUV,5,2026,,4732,1861,1681,1830,2026-05-08 16:17:00
 56966,Mercedes-Benz,GLB,GLB (X248),2026,GLB 220 (211 Hp) Hybrid 4MATIC 8G-eDCT,FHEV (Full Hybrid Electric Vehicle),190,5500,Petrol (Gasoline),SUV,5,2026,,4732,1861,1681,1830,2026-05-08 16:14:25
-55992,Mercedes-Benz,GLB,GLB (X244),2026,GLB 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4732,1861,1687,2125,2026-05-08 09:05:32
-55993,Mercedes-Benz,GLB,GLB (X244),2026,GLB 250+ 85 kWh (272 Hp) EQ Technology 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,4732,1861,1687,2125,2026-05-08 09:05:32
-55994,Mercedes-Benz,GLB,GLB (X244),2026,GLB 350 85 kWh (354 Hp) 4MATIC EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4732,1861,1687,2205,2026-05-08 09:05:32
-55995,Mercedes-Benz,GLB,GLB (X244),2026,GLB 350 85 kWh (354 Hp) 4MATIC EQ Technology 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,4732,1861,1687,2205,2026-05-08 09:05:31
-56956,Mercedes-Benz,GLB,GLB (X244),2026,GLB 200+ 85 kWh (218 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4732,1861,1687,2120,2026-05-08 09:05:32
-56957,Mercedes-Benz,GLB,GLB (X244),2026,GLB 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4732,1861,1687,2110,2026-05-08 09:05:32
+55992,Mercedes-Benz,GLB,GLB (X244),2026,GLB 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4732,1861,1687-1689,2125,2026-09-16 14:13:08
+55993,Mercedes-Benz,GLB,GLB (X244),2026,GLB 250+ 85 kWh (272 Hp) EQ Technology 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,4732,1861,1687-1689,2125,2026-09-16 14:13:08
+55994,Mercedes-Benz,GLB,GLB (X244),2026,GLB 350 85 kWh (354 Hp) 4MATIC EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2025,,4732,1861,1687-1689,2205,2026-09-16 14:13:08
+55995,Mercedes-Benz,GLB,GLB (X244),2026,GLB 350 85 kWh (354 Hp) 4MATIC EQ Technology 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV,7,2025,,4732,1861,1687-1689,2205,2026-09-16 14:13:08
+56956,Mercedes-Benz,GLB,GLB (X244),2026,GLB 200+ 85 kWh (218 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4732,1861,1687-1689,2120,2026-09-16 14:13:08
+56957,Mercedes-Benz,GLB,GLB (X244),2026,GLB 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4732,1861,1687-1689,2110,2026-09-16 14:13:08
+57856,Mercedes-Benz,GLB,GLB (X244),2026,GLB 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,SUV,5,2026,,4732,1861,1687-1689,2120,2026-09-16 14:06:39
 50047,Mercedes-Benz,GLB,"GLB (X247, facelift 2023)",2024,GLB 180 (136 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),SUV,5-7,2023,2025,4634,1834,1697,1565,2026-05-08 10:47:54
 50048,Mercedes-Benz,GLB,"GLB (X247, facelift 2023)",2024,GLB 200 (163 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),SUV,5-7,2023,2025,4634,1834,1697,1565,2026-05-08 10:47:54
 50049,Mercedes-Benz,GLB,"GLB (X247, facelift 2023)",2024,GLB 220 (190 Hp) Mild Hybrid 4MATIC 8G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500-6100,Petrol (Gasoline),SUV,5-7,2023,2025,4634,1834,1697,1690,2026-05-08 10:47:55
