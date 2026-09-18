@@ -286,6 +286,141 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-17 08:51:19",
+        "name": "Formula S",
+        "id": "4135",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-17 11:55:42",
+              "name": "Formula S GT",
+              "modelYear": "2026",
+              "id": "11484",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57864",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Fangchengbao",
+                    "model": "Formula S",
+                    "generation": "Formula S GT",
+                    "engine": "92.093 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5025",
+                    "width": "1967",
+                    "height": "1458-1483",
+                    "heightMin": "1458",
+                    "heightMax": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": "2170",
+                    "curbWeightMin": "2170"
+                  },
+                  {
+                    "id": "57865",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Fangchengbao",
+                    "model": "Formula S",
+                    "generation": "Formula S GT",
+                    "engine": "92.093 kWh (666 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Station wagon (estate)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5025",
+                    "width": "1967",
+                    "height": "1458-1483",
+                    "heightMin": "1458",
+                    "heightMax": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": "2280",
+                    "curbWeightMin": "2280"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-09-17 08:52:16",
+              "name": "Formula S",
+              "modelYear": "2026",
+              "id": "11483",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57861",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Fangchengbao",
+                    "model": "Formula S",
+                    "generation": "Formula S",
+                    "engine": "76.744 kWh (333 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5060",
+                    "width": "1967",
+                    "height": "1483",
+                    "heightMin": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": "2037",
+                    "curbWeightMin": "2037"
+                  },
+                  {
+                    "id": "57862",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Fangchengbao",
+                    "model": "Formula S",
+                    "generation": "Formula S",
+                    "engine": "92.093 kWh (408 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5060",
+                    "width": "1967",
+                    "height": "1458-1483",
+                    "heightMin": "1458",
+                    "heightMax": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": "2140",
+                    "curbWeightMin": "2140"
+                  },
+                  {
+                    "id": "57863",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Fangchengbao",
+                    "model": "Formula S",
+                    "generation": "Formula S",
+                    "engine": "92.093 kWh (666 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Liftback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5060",
+                    "width": "1967",
+                    "height": "1458-1483",
+                    "heightMin": "1458",
+                    "heightMax": "1483",
+                    "fuel": "Electricity",
+                    "curbWeight": "2250",
+                    "curbWeightMin": "2250"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

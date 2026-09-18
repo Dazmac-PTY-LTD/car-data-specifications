@@ -33703,6 +33703,30 @@
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
                     "curbWeight": ""
+                  },
+                  {
+                    "id": "57868",
+                    "update": "2026-09-17 16:11:01",
+                    "brand": "Volvo",
+                    "model": "EX30",
+                    "generation": "EX30",
+                    "engine": "P3 51 kWh (150 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4233",
+                    "width": "1838",
+                    "widthFoldedMirrors": "1940",
+                    "widthOpenedMirrors": "2032",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Electricity",
+                    "curbWeight": "1765",
+                    "curbWeightMin": "1765"
                   }
                 ]
               }
