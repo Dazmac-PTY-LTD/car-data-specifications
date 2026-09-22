@@ -32801,7 +32801,7 @@
                   },
                   {
                     "id": "37882",
-                    "update": "2023-02-23 10:03:03",
+                    "update": "2026-09-21 18:55:46",
                     "brand": "Volvo",
                     "model": "XC40",
                     "generation": "XC40",
@@ -33727,6 +33727,30 @@
                     "fuel": "Electricity",
                     "curbWeight": "1765",
                     "curbWeightMin": "1765"
+                  },
+                  {
+                    "id": "57875",
+                    "update": "2026-09-21 14:32:19",
+                    "brand": "Volvo",
+                    "model": "EX30",
+                    "generation": "EX30",
+                    "engine": "P3 69 kWh (150 Hp) Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4233",
+                    "width": "1838",
+                    "widthFoldedMirrors": "1940",
+                    "widthOpenedMirrors": "2032",
+                    "height": "1550",
+                    "heightMin": "1550",
+                    "rideHeight": "171",
+                    "rideHeightMin": "171",
+                    "fuel": "Electricity",
+                    "curbWeight": "1775",
+                    "curbWeightMin": "1775"
                   }
                 ]
               }
@@ -34354,7 +34378,7 @@
                 "modification": [
                   {
                     "id": "56228",
-                    "update": "2026-01-22 16:22:07",
+                    "update": "2026-09-21 17:51:49",
                     "brand": "Volvo",
                     "model": "EX60",
                     "generation": "EX60 Cross Country",
