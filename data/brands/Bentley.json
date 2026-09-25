@@ -2944,6 +2944,68 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-24 08:19:44",
+        "name": "Torcal",
+        "id": "4138",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-24 08:19:56",
+              "name": "Torcal",
+              "modelYear": "2027",
+              "id": "11488",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57877",
+                    "update": "2026-09-24 16:08:15",
+                    "brand": "Bentley",
+                    "model": "Torcal",
+                    "generation": "Torcal",
+                    "engine": "S 113.3 kWh (888 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5008",
+                    "widthFoldedMirrors": "2025",
+                    "widthOpenedMirrors": "2198",
+                    "height": "1677",
+                    "heightMin": "1677",
+                    "fuel": "Electricity",
+                    "curbWeight": "2720",
+                    "curbWeightMin": "2720"
+                  },
+                  {
+                    "id": "57878",
+                    "update": "2026-09-24 16:08:15",
+                    "brand": "Bentley",
+                    "model": "Torcal",
+                    "generation": "Torcal",
+                    "engine": "Core 113.3 kWh (821 Hp) AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5008",
+                    "widthFoldedMirrors": "2025",
+                    "widthOpenedMirrors": "2198",
+                    "height": "1677",
+                    "heightMin": "1677",
+                    "fuel": "Electricity",
+                    "curbWeight": "2720",
+                    "curbWeightMin": "2720"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

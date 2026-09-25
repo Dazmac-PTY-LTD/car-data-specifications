@@ -40444,6 +40444,39 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-09-24 08:25:54",
+              "name": "PIXO (2026)",
+              "modelYear": "2027",
+              "id": "11489",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57885",
+                    "update": "2026-09-24 16:19:17",
+                    "brand": "Nissan",
+                    "model": "Pixo",
+                    "generation": "PIXO (2026)",
+                    "engine": "27.5 kWh (82 Hp) Standard Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3796",
+                    "width": "1790",
+                    "widthOpenedMirrors": "1953",
+                    "height": "1512",
+                    "heightMin": "1512",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2021-01-05 21:49:32",
               "name": "Pixo",
               "modelYear": "2009",

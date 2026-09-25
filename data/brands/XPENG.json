@@ -1526,6 +1526,71 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-24 12:34:49",
+        "name": "L03",
+        "id": "4139",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-24 12:35:26",
+              "name": "L03",
+              "modelYear": "2027",
+              "id": "11492",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57883",
+                    "update": "2026-09-24 16:16:01",
+                    "brand": "XPENG",
+                    "model": "L03",
+                    "generation": "L03",
+                    "engine": "58 kWh (222 Hp) Standard Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1920",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "143",
+                    "rideHeightMin": "143",
+                    "fuel": "Electricity",
+                    "curbWeight": "1870",
+                    "curbWeightMin": "1870"
+                  },
+                  {
+                    "id": "57884",
+                    "update": "2026-09-24 16:16:01",
+                    "brand": "XPENG",
+                    "model": "L03",
+                    "generation": "L03",
+                    "engine": "71 kWh (249 Hp) Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Coupe, SUV",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4650",
+                    "width": "1920",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "143",
+                    "rideHeightMin": "143",
+                    "fuel": "Electricity",
+                    "curbWeight": "1940-1960",
+                    "curbWeightMin": "1940",
+                    "curbWeightMax": "1960"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
