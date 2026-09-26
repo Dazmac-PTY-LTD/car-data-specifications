@@ -849,6 +849,66 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-25 15:24:57",
+        "name": "Q06",
+        "id": "4141",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-25 15:25:13",
+              "name": "Q06",
+              "modelYear": "2027",
+              "id": "11495",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57892",
+                    "update": "2026-09-25 16:12:48",
+                    "brand": "Changan Nevo",
+                    "model": "Q06",
+                    "generation": "Q06",
+                    "engine": "66.02 kWh (306 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4837",
+                    "width": "1970",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "1925",
+                    "curbWeightMin": "1925"
+                  },
+                  {
+                    "id": "57893",
+                    "update": "2026-09-25 16:12:48",
+                    "brand": "Changan Nevo",
+                    "model": "Q06",
+                    "generation": "Q06",
+                    "engine": "80.02 kWh (333 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4837",
+                    "width": "1970",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "fuel": "Electricity",
+                    "curbWeight": "2020",
+                    "curbWeightMin": "2020"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

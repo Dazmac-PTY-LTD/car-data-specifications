@@ -27814,7 +27814,46 @@
           "generation": [
             {
               "prototype": "0",
-              "update": "2023-10-18 09:14:28",
+              "update": "2026-09-25 10:06:35",
+              "name": "Rogue IV (T34)",
+              "modelYear": "2027",
+              "id": "11493",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57894",
+                    "update": "2026-09-25 16:16:31",
+                    "brand": "Nissan",
+                    "model": "Rogue",
+                    "generation": "Rogue IV (T34)",
+                    "engine": "1.5T (225 Hp) e-POWER Hybrid AWD",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "power": "148/5000",
+                    "powerHp": "148",
+                    "powerRpm": "5000",
+                    "powerRpmLow": "5000",
+                    "yearstart": "2026",
+                    "coupe": "SUV, Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4651",
+                    "width": "1849",
+                    "height": "1720",
+                    "heightMin": "1720",
+                    "rideHeight": "213-216",
+                    "rideHeightMin": "213",
+                    "rideHeightMax": "216",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1844-1890",
+                    "curbWeightMin": "1844",
+                    "curbWeightMax": "1890"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue III (T33, facelift 2023)",
               "modelYear": "2024",
               "id": "9698",
@@ -27822,7 +27861,7 @@
                 "modification": [
                   {
                     "id": "50093",
-                    "update": "2023-10-18 14:16:09",
+                    "update": "2026-09-25 10:08:46",
                     "brand": "Nissan",
                     "model": "Rogue",
                     "generation": "Rogue III (T33, facelift 2023)",
@@ -27833,6 +27872,7 @@
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2023",
+                    "yearstop": "2026",
                     "coupe": "SUV, Crossover",
                     "places": "5",
                     "placesMin": "5",
@@ -27849,7 +27889,7 @@
                   },
                   {
                     "id": "50094",
-                    "update": "2023-10-18 14:16:09",
+                    "update": "2026-09-25 10:08:48",
                     "brand": "Nissan",
                     "model": "Rogue",
                     "generation": "Rogue III (T33, facelift 2023)",
@@ -27860,6 +27900,7 @@
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2023",
+                    "yearstop": "2026",
                     "coupe": "SUV, Crossover",
                     "places": "5",
                     "placesMin": "5",
@@ -27876,7 +27917,7 @@
                   },
                   {
                     "id": "55797",
-                    "update": "2026-09-23 13:59:28",
+                    "update": "2026-09-25 10:08:40",
                     "brand": "Nissan",
                     "model": "Rogue",
                     "generation": "Rogue III (T33, facelift 2023)",
@@ -27887,6 +27928,7 @@
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2025",
+                    "yearstop": "2026",
                     "coupe": "SUV, Crossover",
                     "places": "7",
                     "placesMin": "7",
@@ -27907,7 +27949,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue III (T33)",
               "modelYear": "2021",
               "id": "8027",
@@ -28026,7 +28068,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue II (T32, facelift 2017)",
               "modelYear": "2017",
               "id": "6492",
@@ -28149,7 +28191,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue II (T32)",
               "modelYear": "2014",
               "id": "6491",
@@ -28214,7 +28256,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue I (S35, facelift 2011)",
               "modelYear": "2011",
               "id": "6490",
@@ -28281,7 +28323,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-09-25 10:06:35",
               "name": "Rogue I (S35)",
               "modelYear": "2008",
               "id": "246",
@@ -40717,7 +40759,7 @@
                   },
                   {
                     "id": "57793",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:57:12",
                     "brand": "Nissan",
                     "model": "Ariya",
                     "generation": "Ariya (facelift 2026)",
@@ -40741,7 +40783,7 @@
                   },
                   {
                     "id": "57794",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:57:34",
                     "brand": "Nissan",
                     "model": "Ariya",
                     "generation": "Ariya (facelift 2026)",

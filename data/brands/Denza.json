@@ -968,6 +968,86 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-25 12:30:42",
+        "name": "Z9S",
+        "id": "4140",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-25 12:31:04",
+              "name": "Z9S",
+              "modelYear": "2026",
+              "id": "11494",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57889",
+                    "update": "2026-09-25 16:12:48",
+                    "brand": "Denza",
+                    "model": "Z9S",
+                    "generation": "Z9S",
+                    "engine": "102.3 kWh (503 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5090",
+                    "width": "1980",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": "2397",
+                    "curbWeightMin": "2397"
+                  },
+                  {
+                    "id": "57890",
+                    "update": "2026-09-25 16:12:48",
+                    "brand": "Denza",
+                    "model": "Z9S",
+                    "generation": "Z9S",
+                    "engine": "122.5 kWh (503 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5090",
+                    "width": "1980",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": "2545",
+                    "curbWeightMin": "2545"
+                  },
+                  {
+                    "id": "57891",
+                    "update": "2026-09-25 16:12:48",
+                    "brand": "Denza",
+                    "model": "Z9S",
+                    "generation": "Z9S",
+                    "engine": "102.3 kWh (1210 Hp) 4WD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5090",
+                    "width": "1980",
+                    "height": "1490",
+                    "heightMin": "1490",
+                    "fuel": "Electricity",
+                    "curbWeight": "2588",
+                    "curbWeightMin": "2588"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

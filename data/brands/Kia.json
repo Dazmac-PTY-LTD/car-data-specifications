@@ -12993,7 +12993,7 @@
                   },
                   {
                     "id": "52567",
-                    "update": "2025-07-21 09:50:00",
+                    "update": "2026-09-25 15:35:55",
                     "brand": "Kia",
                     "model": "Sportage",
                     "generation": "Sportage V",
@@ -31476,7 +31476,7 @@
                   },
                   {
                     "id": "56923",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:32:04",
                     "brand": "Kia",
                     "model": "EV3",
                     "generation": "EV3",
@@ -31499,7 +31499,7 @@
                   },
                   {
                     "id": "57424",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:41:26",
                     "brand": "Kia",
                     "model": "EV3",
                     "generation": "EV3",
@@ -32011,7 +32011,7 @@
                 "modification": [
                   {
                     "id": "53803",
-                    "update": "2025-08-22 12:20:00",
+                    "update": "2026-09-25 15:14:35",
                     "brand": "Kia",
                     "model": "EV4",
                     "generation": "EV4 Hatch",
@@ -32023,14 +32023,19 @@
                     "placesMin": "5",
                     "length": "4430",
                     "width": "1860",
+                    "widthOpenedMirrors": "2080",
                     "height": "1485",
                     "heightMin": "1485",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "curbWeight": "1736-1817",
+                    "curbWeightMin": "1736",
+                    "curbWeightMax": "1817"
                   },
                   {
                     "id": "53804",
-                    "update": "2025-08-22 12:20:09",
+                    "update": "2026-09-25 15:14:51",
                     "brand": "Kia",
                     "model": "EV4",
                     "generation": "EV4 Hatch",
@@ -32042,10 +32047,63 @@
                     "placesMin": "5",
                     "length": "4430",
                     "width": "1860",
+                    "widthOpenedMirrors": "2080",
                     "height": "1485",
                     "heightMin": "1485",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "curbWeight": "1821-1910",
+                    "curbWeightMin": "1821",
+                    "curbWeightMax": "1910"
+                  },
+                  {
+                    "id": "57895",
+                    "update": "2026-09-25 16:16:31",
+                    "brand": "Kia",
+                    "model": "EV4",
+                    "generation": "EV4 Hatch",
+                    "engine": "81.4 kWh (265 Hp) Long Range AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1860",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1485",
+                    "heightMin": "1485",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1936-2003",
+                    "curbWeightMin": "1936",
+                    "curbWeightMax": "2003"
+                  },
+                  {
+                    "id": "57896",
+                    "update": "2026-09-25 16:16:31",
+                    "brand": "Kia",
+                    "model": "EV4",
+                    "generation": "EV4 Hatch",
+                    "engine": "GT 81.4 kWh (292 Hp) Long Range AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4450",
+                    "width": "1860",
+                    "widthOpenedMirrors": "2080",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "curbWeight": "1985-2022",
+                    "curbWeightMin": "1985",
+                    "curbWeightMax": "2022"
                   }
                 ]
               }
@@ -32348,7 +32406,7 @@
                   },
                   {
                     "id": "56629",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:07:43",
                     "brand": "Kia",
                     "model": "EV5",
                     "generation": "EV5",
@@ -32372,7 +32430,7 @@
                   },
                   {
                     "id": "56630",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:07:57",
                     "brand": "Kia",
                     "model": "EV5",
                     "generation": "EV5",
@@ -32440,7 +32498,7 @@
                   },
                   {
                     "id": "56775",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:27:03",
                     "brand": "Kia",
                     "model": "EV2",
                     "generation": "EV2",
@@ -32463,7 +32521,7 @@
                   },
                   {
                     "id": "56776",
-                    "update": "2026-09-23 13:53:37",
+                    "update": "2026-09-25 16:27:24",
                     "brand": "Kia",
                     "model": "EV2",
                     "generation": "EV2",
