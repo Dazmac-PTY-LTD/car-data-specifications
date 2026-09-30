@@ -23672,6 +23672,76 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-09-29 10:32:14",
+              "name": "i20 IV (BC4)",
+              "modelYear": "2026",
+              "id": "11499",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57908",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Hyundai",
+                    "model": "i20",
+                    "generation": "i20 IV (BC4)",
+                    "engine": "1.0 MPI (75/80 Hp) Flex",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "75/6200/80/6200",
+                    "powerHp": "75",
+                    "powerRpm": "6200",
+                    "powerRpmLow": "6200",
+                    "powerHpE100": "80",
+                    "powerRpmE100": "6200",
+                    "powerRpmLowE100": "6200",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4130",
+                    "width": "1780",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Petrol / Ethanol - E100",
+                    "curbWeight": "1075-1090",
+                    "curbWeightMin": "1075",
+                    "curbWeightMax": "1090"
+                  },
+                  {
+                    "id": "57909",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Hyundai",
+                    "model": "i20",
+                    "generation": "i20 IV (BC4)",
+                    "engine": "1.0 T-GDI (115 Hp) Flex Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "115/6000",
+                    "powerHp": "115",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4130",
+                    "width": "1780",
+                    "height": "1495-1505",
+                    "heightMin": "1495",
+                    "heightMax": "1505",
+                    "rideHeight": "160-165",
+                    "rideHeightMin": "160",
+                    "rideHeightMax": "165",
+                    "fuel": "Petrol / Ethanol - E100",
+                    "curbWeight": "1175-1205",
+                    "curbWeightMin": "1175",
+                    "curbWeightMax": "1205"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2023-09-04 11:26:11",
               "name": "i20 III (facelift 2023)",
               "modelYear": "2023",
@@ -35933,7 +36003,7 @@
                 "modification": [
                   {
                     "id": "54853",
-                    "update": "2026-06-22 08:17:10",
+                    "update": "2026-09-29 16:27:42",
                     "brand": "Hyundai",
                     "model": "IONIQ 6",
                     "generation": "IONIQ 6 (facelift 2025)",
@@ -35952,7 +36022,7 @@
                   },
                   {
                     "id": "56183",
-                    "update": "2026-06-22 08:16:48",
+                    "update": "2026-09-29 16:27:44",
                     "brand": "Hyundai",
                     "model": "IONIQ 6",
                     "generation": "IONIQ 6 (facelift 2025)",
@@ -35975,7 +36045,7 @@
                   },
                   {
                     "id": "56184",
-                    "update": "2026-06-22 08:16:55",
+                    "update": "2026-09-29 16:27:42",
                     "brand": "Hyundai",
                     "model": "IONIQ 6",
                     "generation": "IONIQ 6 (facelift 2025)",
@@ -35998,7 +36068,7 @@
                   },
                   {
                     "id": "56185",
-                    "update": "2026-06-22 08:17:02",
+                    "update": "2026-09-29 16:27:42",
                     "brand": "Hyundai",
                     "model": "IONIQ 6",
                     "generation": "IONIQ 6 (facelift 2025)",
@@ -38402,6 +38472,66 @@
                     "curbWeight": "1570-1660",
                     "curbWeightMin": "1570",
                     "curbWeightMax": "1660"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-09-29 13:44:32",
+        "name": "IONIQ V",
+        "id": "4145",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-29 14:11:03",
+              "name": "IONIQ V",
+              "modelYear": "2026",
+              "id": "11500",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57910",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Hyundai",
+                    "model": "IONIQ V",
+                    "generation": "IONIQ V",
+                    "engine": "53.48 kWh (190 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1890",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Electricity",
+                    "curbWeight": "1707",
+                    "curbWeightMin": "1707"
+                  },
+                  {
+                    "id": "57911",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Hyundai",
+                    "model": "IONIQ V",
+                    "generation": "IONIQ V",
+                    "engine": "66.85 kWh (228 Hp) Long Range",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "Sedan, Fastback",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4900",
+                    "width": "1890",
+                    "height": "1470",
+                    "heightMin": "1470",
+                    "fuel": "Electricity",
+                    "curbWeight": "1782",
+                    "curbWeightMin": "1782"
                   }
                 ]
               }

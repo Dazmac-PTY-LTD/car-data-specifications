@@ -2267,7 +2267,7 @@
           "generation": [
             {
               "prototype": "0",
-              "update": "2025-06-27 15:33:41",
+              "update": "2026-09-29 09:15:15",
               "name": "Z20",
               "modelYear": "2025",
               "id": "10642",
@@ -2275,14 +2275,15 @@
                 "modification": [
                   {
                     "id": "54747",
-                    "update": "2025-06-27 18:16:52",
+                    "update": "2026-09-29 09:02:12",
                     "brand": "Lynk &amp; Co",
                     "model": "Z20",
                     "generation": "Z20",
                     "engine": "61.47 kWh (340 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2024",
-                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "yearstop": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4460",
@@ -2298,14 +2299,15 @@
                   },
                   {
                     "id": "54940",
-                    "update": "2025-07-23 14:07:28",
+                    "update": "2026-09-29 09:02:13",
                     "brand": "Lynk &amp; Co",
                     "model": "Z20",
                     "generation": "Z20",
                     "engine": "51.2 kWh (238 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
                     "yearstart": "2025",
-                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "yearstop": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4460",
@@ -2506,7 +2508,7 @@
                   },
                   {
                     "id": "57136",
-                    "update": "2026-06-01 12:51:38",
+                    "update": "2026-09-29 13:29:00",
                     "brand": "Lynk &amp; Co",
                     "model": "10",
                     "generation": "10",
@@ -2547,6 +2549,94 @@
                     "fuel": "Electricity",
                     "curbWeight": "2287",
                     "curbWeightMin": "2287"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-09-29 09:15:21",
+        "name": "20",
+        "id": "4144",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-29 09:15:32",
+              "name": "20",
+              "modelYear": "2027",
+              "id": "11498",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57903",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Lynk &amp; Co",
+                    "model": "20",
+                    "generation": "20",
+                    "engine": "Flying Edition 70.01 kWh (333 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4520",
+                    "width": "1866",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Electricity",
+                    "curbWeight": "1905",
+                    "curbWeightMin": "1905"
+                  },
+                  {
+                    "id": "57904",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Lynk &amp; Co",
+                    "model": "20",
+                    "generation": "20",
+                    "engine": "70.01 kWh (333 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4495",
+                    "width": "1845",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "rideHeight": "188",
+                    "rideHeightMin": "188",
+                    "fuel": "Electricity",
+                    "curbWeight": "1890-1905",
+                    "curbWeightMin": "1890",
+                    "curbWeightMax": "1905"
+                  },
+                  {
+                    "id": "57905",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Lynk &amp; Co",
+                    "model": "20",
+                    "generation": "20",
+                    "engine": "61.52 kWh (333 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4495",
+                    "width": "1845",
+                    "height": "1573",
+                    "heightMin": "1573",
+                    "rideHeight": "186",
+                    "rideHeightMin": "186",
+                    "fuel": "Electricity",
+                    "curbWeight": "1815-1840",
+                    "curbWeightMin": "1815",
+                    "curbWeightMax": "1840"
                   }
                 ]
               }

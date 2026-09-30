@@ -112556,6 +112556,66 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-09-29 08:27:41",
+        "name": "ID. AURA T6",
+        "id": "4143",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-09-29 08:30:33",
+              "name": "ID. AURA T6",
+              "modelYear": "2026",
+              "id": "11497",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57906",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Volkswagen",
+                    "model": "ID. AURA T6",
+                    "generation": "ID. AURA T6",
+                    "engine": "59.9 kWh (231 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4811",
+                    "width": "1879",
+                    "height": "1648",
+                    "heightMin": "1648",
+                    "fuel": "Electricity",
+                    "curbWeight": "2026",
+                    "curbWeightMin": "2026"
+                  },
+                  {
+                    "id": "57907",
+                    "update": "2026-09-29 16:04:45",
+                    "brand": "Volkswagen",
+                    "model": "ID. AURA T6",
+                    "generation": "ID. AURA T6",
+                    "engine": "77.5 kWh (231 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4811",
+                    "width": "1879",
+                    "height": "1648",
+                    "heightMin": "1648",
+                    "fuel": "Electricity",
+                    "curbWeight": "2126",
+                    "curbWeightMin": "2126"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
