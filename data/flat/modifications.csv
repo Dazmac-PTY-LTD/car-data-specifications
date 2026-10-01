@@ -14607,6 +14607,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48776,Land Rover,Range Rover Sport,Range Rover Sport III,2023,SV 4.4 V8 (635 Hp) Mild Hybrid iAWD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",635,6000-7000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4970,,1814,2485,2023-10-16 10:54:42
 50787,Land Rover,Range Rover Sport,Range Rover Sport III,2023,3.0 P460e (460 Hp) Plug-in Hybrid iAWD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,,4946,,1820,2660,2025-04-11 12:24:32
 50788,Land Rover,Range Rover Sport,Range Rover Sport III,2023,3.0 P550e (550 Hp) Plug-in Hybrid iAWD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,,4946,,1820,2735,2025-04-11 12:24:32
+57917,Land Rover,Range Rover Sport,Range Rover Sport III,2023,EV550 118.5 kWh (550 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4946,,1819,2695,2026-09-30 14:09:03
 17308,Land Rover,Range Rover Sport,Range Rover Sport II (facelift 2017),2017,3.0 SDV6 (249 Hp) AWD Automatic,Internal Combustion engine,249,,Diesel,SUV (Sport Utility Vehicle),5,2018,2020,4879,,1803,2170,2022-10-28 15:52:57
 31676,Land Rover,Range Rover Sport,Range Rover Sport II (facelift 2017),2017,4.4 SDV8 (339 Hp) AWD Automatic,Internal Combustion engine,339,3500,Diesel,SUV (Sport Utility Vehicle),5,2017,2020,4879,,1803,2443,2022-10-28 15:53:47
 31677,Land Rover,Range Rover Sport,Range Rover Sport II (facelift 2017),2017,3.0 SDV6 (306 Hp) AWD Automatic,Internal Combustion engine,306,4000,Diesel,SUV (Sport Utility Vehicle),5,2017,2018,4879,,1803,2178,2022-10-28 15:52:53
@@ -30036,6 +30037,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 9869,BMW,M6,M6 Convertible (E64),2006,5.0 V10 (507 Hp) SMG,Internal Combustion engine,507,7750,Petrol (Gasoline),Cabriolet,4,2006,2007,4871,1855,1377,1930,2025-07-16 13:49:47
 9870,BMW,M6,M6 (E63),2005,5.0 V10 (507 Hp) SMG,Internal Combustion engine,507,7750,Petrol (Gasoline),Coupe,4,2005,2007,4871,1855,1372,1710,2025-07-16 13:49:47
 9918,BMW,Z8,Z8 (E52),2000,4.9 (400 Hp),Internal Combustion engine,400,6600,Petrol (Gasoline),Cabriolet,2,2000,2005,4400,1830,1317,1660,2023-05-12 13:00:20
+57918,BMW,3 Series,3 Series Sedan (G50),2027,M350 (443 Hp) Mild Hybrid xDrive Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",426,5600-6500,Petrol (Gasoline),Sedan,5,2026,,4765,1850,1455,1860,2026-09-30 14:09:03
+57919,BMW,3 Series,3 Series Sedan (G50),2027,320 (211 Hp) Mild Hybrid Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",211,4900-6500,Petrol (Gasoline),Sedan,5,2026,,4765,1850,1455,1680,2026-09-30 14:09:03
+57920,BMW,3 Series,3 Series Sedan (G50),2027,318 (156 Hp) Mild Hybrid Steptronic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",156,4500-6500,Petrol (Gasoline),Sedan,5,2026,,4765,1850,1455,1680,2026-09-30 14:09:03
 53881,BMW,3 Series,"3 Series Sedan Long (G28 LCI, facelift 2022)",2023,325Li (184 Hp) Steptronic,Internal Combustion engine,184,5000-6500,Petrol (Gasoline),Sedan,5,2022,,4838,1827,1454,1601,2026-07-22 14:29:33
 53882,BMW,3 Series,"3 Series Sedan Long (G28 LCI, facelift 2022)",2023,330Li (245 Hp) Steptronic,Internal Combustion engine,245,4500-6500,Petrol (Gasoline),Sedan,5,2022,,4838,1827,1454,1618,2026-07-22 14:29:34
 53883,BMW,3 Series,"3 Series Sedan Long (G28 LCI, facelift 2022)",2023,320Li (156 Hp) Steptronic,Internal Combustion engine,156,4500-6500,Petrol (Gasoline),Sedan,5,2022,2024,4838,1827,1454,1601,2026-07-22 14:29:33
@@ -31662,7 +31666,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 24023,BMW,2 Series,2 Series Coupe (F22),2014,M240i (340 Hp),Internal Combustion engine,340,5500,Petrol (Gasoline),Coupe,4,2016,2017,4454,1774,1408,1470,2023-04-25 15:17:26
 24035,BMW,2 Series,2 Series Coupe (F22),2014,230i (252 Hp) Steptronic,Internal Combustion engine,252,5200,Petrol (Gasoline),Coupe,4,2016,2017,4432,1774,1418,1425,2023-04-25 11:18:27
 24037,BMW,2 Series,2 Series Coupe (F22),2014,M240i (340 Hp) Steptronic,Internal Combustion engine,340,5500,Petrol (Gasoline),Coupe,4,2016,2017,4454,1774,1408,1485,2023-04-25 15:17:26
-56733,BMW,i3,i3 (NA0),2027,50 108.7 kWh (469 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4760,1865,1480,,2026-09-23 13:53:37
+56733,BMW,i3,i3 (NA0),2027,50 108.7 kWh (469 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4760,1865,1480,2205,2026-09-30 13:07:52
+57915,BMW,i3,i3 (NA0),2027,40 82.8 kWh (374 Hp) xDrive,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4760,1865,1480,2090,2026-09-30 14:09:03
 45671,BMW,i3,i3 (G28),2022,70.3 kWh (286 Hp) eDrive35L,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,4872,1846,1481,2029,2025-09-05 15:16:26
 55294,BMW,i3,i3 (G28),2022,79.1 kWh (340 Hp) eDrive40L,BEV (Electric Vehicle),,,Electricity,Sedan,5,2023,,4872,1846,1481,2087,2025-09-05 16:08:08
 32733,BMW,i3,i3s (l01),2017,33.2 kWh (184 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,4,2017,2018,4006,1791,1590,1265,2026-09-23 13:59:28
@@ -45681,8 +45686,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57665,Hyundai,IONIQ 3,IONIQ 3,2027,42.2 kWh (147 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4155,1800,1505,1550-1645,2026-08-18 16:00:07
 57666,Hyundai,IONIQ 3,IONIQ 3,2027,61 kWh (135 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4155,1800,1510,1555-1650,2026-08-18 16:00:07
 57667,Hyundai,IONIQ 3,IONIQ 3,2027,N Line 61 kWh (135 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4170,1800,1515,1570-1660,2026-08-18 16:00:07
-57910,Hyundai,IONIQ V,IONIQ V,2026,53.48 kWh (190 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4900,1890,1470,1707,2026-09-29 16:04:45
-57911,Hyundai,IONIQ V,IONIQ V,2026,66.85 kWh (228 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4900,1890,1470,1782,2026-09-29 16:04:45
+57910,Hyundai,IONIQ V,IONIQ V,2026,53.48 kWh (190 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4900,1890,1470,1707,2026-09-30 13:59:04
+57911,Hyundai,IONIQ V,IONIQ V,2026,66.85 kWh (228 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4900,1890,1470,1782,2026-09-30 13:59:06
 13940,Metrocab,Taxi,Taxi Series I,1989,2.5 D (75 Hp),Internal Combustion engine,75,4000,Diesel,Hatchback,5,1991,2000,4505,1760,1750,1765,2021-12-03 11:53:43
 13939,Metrocab,Taxi,Taxi TTT,2000,2.4 TD (90 Hp),Internal Combustion engine,90,3500,Diesel,Hatchback,5,2001,2006,4505,1770,1755,1955,2022-09-07 11:54:08
 29289,Metrocab,Taxi,Taxi TTT,2000,2.5 D (75 Hp) Automatic,Internal Combustion engine,75,4000,Diesel,Hatchback,5,1991,2000,4505,1760,1750,1765,2021-12-03 11:53:43
@@ -56039,6 +56044,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51242,Seres,5,5,2023,80 kWh (299 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2220,2024-02-15 16:23:00
 51243,Seres,5,5,2023,80 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2024-02-15 16:23:59
 51244,Seres,5,5,2023,90 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2024-02-16 09:40:52
+57921,Seres,7,7,2024,1.5T 40 kWh (267 Hp) Range Extended,PHEV (Plug-in Hybrid Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,5020,1945,1760,2370,2026-09-30 14:14:46
+57922,Seres,7,7,2024,1.5T 40 kWh (267 Hp) Range Extended 6 Seaters,PHEV (Plug-in Hybrid Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),6,2024,,5020,1945,1760,2370,2026-09-30 14:14:46
+57923,Seres,7,7,2024,1.5T 40 kWh (439 Hp) Range Extended AWD,PHEV (Plug-in Hybrid Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,5020,1945,1760,2460,2026-09-30 14:14:46
+57924,Seres,7,7,2024,1.5T 40 kWh (439 Hp) Range Extended AWD 6 Seaters,PHEV (Plug-in Hybrid Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),6,2024,,5020,1945,1760,2460,2026-09-30 14:14:46
 43862,Bizzarrini,5300 GT Strada,5300 GT Strada,1965,5.4 V8 (350 Hp),Internal Combustion engine,350,5400,Petrol (Gasoline),Coupe,2,1964,1968,4394,1730,1110,1250,2022-10-11 12:10:53
 43988,Sono Motors,Sion,Sion,2023,54 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2023,,4470,1830,1660,1730,2022-11-03 20:39:27
 44267,Aiways,U5,U5,2020,Standard 63 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2019,,4680,1865,1700,1720,2022-11-03 20:39:27
@@ -57092,6 +57101,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55380,iCAR,03,03,2024,69.77 kWh (279 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4406,1910,1715,1892,2025-09-17 14:04:38
 57038,iCAR,V27,V27,2026,1.5T 34.3 kWh (252 Hp) Range Extender,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,5055,1976,1894,2222,2026-09-23 08:52:14
 57039,iCAR,V27,V27,2026,1.5T 34.3 kWh (456 Hp) Range Extender 4WD,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,5055,1976,1894,2335,2026-09-23 08:52:14
+57916,iCAR,V27,V27,2026,1.5T 51.2 kWh (456 Hp) Range Extender 4WD,PHEV (Plug-in Hybrid Electric Vehicle),156,5200,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,5055,1976,1894,2455,2026-09-30 14:09:03
 55384,iCAUR,03,03,2025,69.8 kWh (279 Hp) iWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4406,1910,1715,1874,2025-09-18 16:14:36
 55385,iCAUR,03,03,2025,65.7 kWh (184 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4406,1910,1715,1775,2025-09-18 16:13:15
 57762,iCAUR,V27,V27,2026,1.5T 34.31 kWh (252 Hp) Range Extender,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,5045,1976,1894,,2026-09-02 14:16:15
