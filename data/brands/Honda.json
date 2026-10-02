@@ -8230,6 +8230,45 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-10-01 15:03:45",
+              "name": "City VII (facelift 2026)",
+              "modelYear": "2026",
+              "id": "11502",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57930",
+                    "update": "2026-10-01 16:10:44",
+                    "brand": "Honda",
+                    "model": "City",
+                    "generation": "City VII (facelift 2026)",
+                    "engine": "1.5 i-VTEC (121 Hp) CVT",
+                    "powertrain": "Internal Combustion engine",
+                    "power": "121/6600",
+                    "powerHp": "121",
+                    "powerRpm": "6600",
+                    "powerRpmLow": "6600",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4577",
+                    "width": "1748",
+                    "height": "1457-1489",
+                    "heightMin": "1457",
+                    "heightMax": "1489",
+                    "rideHeight": "134",
+                    "rideHeightMin": "134",
+                    "fuel": "Petrol (Gasoline)",
+                    "curbWeight": "1116-1168",
+                    "curbWeightMin": "1116",
+                    "curbWeightMax": "1168"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2021-01-05 21:49:32",
               "name": "City VII",
               "modelYear": "2020",
@@ -8238,7 +8277,7 @@
                 "modification": [
                   {
                     "id": "38255",
-                    "update": "2021-12-03 11:53:43",
+                    "update": "2026-10-01 15:03:59",
                     "brand": "Honda",
                     "model": "City",
                     "generation": "City VII",
@@ -8249,6 +8288,7 @@
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2019",
+                    "yearstop": "2024",
                     "coupe": "Sedan",
                     "places": "5",
                     "placesMin": "5",
@@ -8265,7 +8305,7 @@
                   },
                   {
                     "id": "47499",
-                    "update": "2023-02-10 09:17:06",
+                    "update": "2026-10-01 15:03:58",
                     "brand": "Honda",
                     "model": "City",
                     "generation": "City VII",
@@ -8277,6 +8317,7 @@
                     "powerRpmLow": "5600",
                     "powerRpmHigh": "6400",
                     "yearstart": "2020",
+                    "yearstop": "2024",
                     "coupe": "Sedan",
                     "places": "5",
                     "placesMin": "5",
