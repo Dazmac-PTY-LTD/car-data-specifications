@@ -25965,7 +25965,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 29038,Volkswagen,Sharan,Sharan I,1995,2.0 i (116 Hp) Automatic,Internal Combustion engine,116,5400,Petrol (Gasoline),"Minivan, MPV (Multi-Purpose Vehicle)",7,1995,2000,4617,1810,1730,1715,2023-08-21 15:32:23
 29062,Volkswagen,Sharan,Sharan I,1995,1.9 TDI (110 Hp) Automatic,Internal Combustion engine,110,4150,Diesel,"Minivan, MPV (Multi-Purpose Vehicle)",7,1996,2000,4620,1810,1730,1665,2026-10-01 09:38:24
 29063,Volkswagen,Sharan,Sharan I,1995,2.8 i VR6 GL (174 Hp) Automatic,Internal Combustion engine,174,5800,Petrol (Gasoline),"Minivan, MPV (Multi-Purpose Vehicle)",7,1995,2000,4617,1810,1730,1835,2023-09-04 15:37:21
-9062,Volkswagen,W12,W12 Nardo (Concept),2001,6.0 W12 (600 Hp),Internal Combustion engine,600,7000,Petrol (Gasoline),Coupe,2,2001,2004,4555,1920,1100,1200,2022-10-11 12:09:39
+9062,Volkswagen,W12,W12 Nardo (Concept),2001,6.0 W12 (600 Hp),Internal Combustion engine,600,7000,Petrol (Gasoline),Coupe,2,2001,2001,4555,1920,1100,1200,2026-10-02 10:34:02
 9064,Volkswagen,Corrado,"Corrado (53I, facelift 1991)",1991,1.8 G60 (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Coupe,4,1991,1993,4050,1690,1310,1215,2022-09-14 09:23:31
 9065,Volkswagen,Corrado,"Corrado (53I, facelift 1991)",1991,2.0i (115 Hp),Internal Combustion engine,115,5400,Petrol (Gasoline),Coupe,4,1993,1995,4050,1670,1320,1135,2023-08-21 15:32:23
 9066,Volkswagen,Corrado,"Corrado (53I, facelift 1991)",1991,2.0i 16V (136 Hp),Internal Combustion engine,136,5800,Petrol (Gasoline),Coupe,4,1991,1995,4050,1690,1310,1175,2022-09-14 09:23:30
@@ -38252,15 +38252,20 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 12184,Honda,Stream,Stream,2001,2.0i (156 Hp),Internal Combustion engine,156,6500,Petrol (Gasoline),Minivan,7,2001,2006,4570,1695,1590,1475,2024-06-20 15:36:57
 12185,Honda,Stream,Stream,2001,2.0 i 4WD (158 Hp),Internal Combustion engine,158,6500,Petrol (Gasoline),Minivan,7,2001,2007,4550,1695,1605,1460,2024-06-20 15:37:02
 29156,Honda,Stream,Stream,2001,2.0i (156 Hp) Automatic,Internal Combustion engine,156,6500,Petrol (Gasoline),Minivan,7,2001,2006,4570,1695,1590,1475,2024-06-20 15:36:52
-57930,Honda,City,City VII (facelift 2026),2026,1.5 i-VTEC (121 Hp) CVT,Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1457-1489,1116-1168,2026-10-01 16:10:44
-38255,Honda,City,City VII,2020,1.0 Turbo (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2019,2024,4553,1748,1467,1150-1165,2026-10-01 15:03:59
-47499,Honda,City,City VII,2020,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2020,2024,4549,1748,1489,1280,2026-10-01 15:03:58
+57935,Honda,City,City VII (facelift 2026) Hatchback,2026,1.0 VTEC (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Hatchback,5,2026,,4362,1748,1488,1149,2026-10-02 16:01:59
+57936,Honda,City,City VII (facelift 2026) Hatchback,2026,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Hatchback,5,2026,,4362,1748,1501,1231-1237,2026-10-02 16:03:31
+57930,Honda,City,City VII (facelift 2026),2026,1.5 i-VTEC (121 Hp) CVT,Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1457-1489,1116-1168,2026-10-02 08:02:43
+57934,Honda,City,City VII (facelift 2026),2026,1.5 i-VTEC (121 Hp),Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2026,,4594,1748,1489,1123-1168,2026-10-02 16:01:59
+57937,Honda,City,City VII (facelift 2026),2026,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1467-1489,1224-1294,2026-10-02 16:01:59
+57938,Honda,City,City VII (facelift 2026),2026,1.0 VTEC (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1467,1144,2026-10-02 16:01:59
+38255,Honda,City,City VII,2020,1.0 Turbo (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2019,2023,4553,1748,1467,1150-1165,2026-10-02 15:53:40
+47499,Honda,City,City VII,2020,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2020,2023,4549,1748,1489,1280,2026-10-02 15:53:39
 33199,Honda,City,City VI (facelift 2017),2017,1.5i (119 Hp),Internal Combustion engine,119,6600,Petrol (Gasoline),Sedan,5,2017,2019,4440,1695,1495,1058-1088,2023-03-20 10:10:21
 33200,Honda,City,City VI (facelift 2017),2017,1.5i (119 Hp) Automatic,Internal Combustion engine,119,6600,Petrol (Gasoline),Sedan,5,2017,2019,4440,1695,1495,1080-1107,2023-03-20 10:10:13
 33201,Honda,City,City VI (facelift 2017),2017,1.5d (99 Hp),Internal Combustion engine,99,3600,Diesel,Sedan,5,2017,2019,4440,1695,1495,1147-1175,2023-06-26 09:49:49
-12186,Honda,City,City ZX Sedan IV (facelift 2005),2005,1.4i 8V (83 Hp),Internal Combustion engine,83,5700,Petrol (Gasoline),Sedan,5,2006,2008,4395,1595,1485,1032,2022-10-11 12:09:39
-12187,Honda,City,City Sedan III,1996,1.3i (95 Hp),Internal Combustion engine,95,6400,Petrol (Gasoline),Sedan,5,1996,2002,4225,1690,1400,940,2021-12-03 11:53:43
-12188,Honda,City,City Sedan III,1996,1.5i 16V (105 Hp),Internal Combustion engine,105,6400,Petrol (Gasoline),Sedan,5,1996,2002,4225,1690,1400,940,2021-12-03 11:53:43
+12186,Honda,City,City ZX IV (facelift 2005),2005,1.4i 8V (83 Hp),Internal Combustion engine,83,5700,Petrol (Gasoline),Sedan,5,2006,2008,4395,1595,1485,1032,2022-10-11 12:09:39
+12187,Honda,City,City III,1996,1.3i (95 Hp),Internal Combustion engine,95,6400,Petrol (Gasoline),Sedan,5,1996,2002,4225,1690,1400,940,2021-12-03 11:53:43
+12188,Honda,City,City III,1996,1.5i 16V (105 Hp),Internal Combustion engine,105,6400,Petrol (Gasoline),Sedan,5,1996,2002,4225,1690,1400,940,2021-12-03 11:53:43
 12189,Honda,City,City II,1987,1.2 16V (76 Hp),Internal Combustion engine,76,6500,Petrol (Gasoline),Hatchback,5,1986,1994,3605,1620,1335,720,2022-10-11 12:09:39
 12190,Honda,City,City II,1987,1.3 (82 Hp),Internal Combustion engine,82,6500,Petrol (Gasoline),Hatchback,5,1986,1994,3605,1620,1335,800,2022-10-11 12:09:39
 12191,Honda,City,City II,1987,1.3 i (100 Hp),Internal Combustion engine,100,6500,Petrol (Gasoline),Hatchback,5,1986,1993,3605,1620,1335,820,2022-10-11 12:09:39
@@ -45605,10 +45610,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44432,Hyundai,Equus,Equus (VI),2010,4.6 MPi V8 (385 Hp) SHIFTRONIC,Internal Combustion engine,385,6500,Petrol (Gasoline),Sedan,4,2009,2011,5159,1882,1491,2018-2083,2023-05-30 14:43:42
 44433,Hyundai,Equus,Equus (VI),2010,5.0 GDi V8 (429 Hp) SHIFTRONIC,,429,6400,Petrol (Gasoline),Sedan,4,2011,2013,5159,1890,1491,2035-2106,2023-05-30 14:43:26
 44434,Hyundai,Equus,Equus (VI),2010,3.8 GDi V6 (334 Hp) SHIFTRONIC,Internal Combustion engine,334,6400,Petrol (Gasoline),Sedan,4,2011,2013,5160,1890,1495,,2023-05-30 14:42:29
-54853,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,N 84 kWh (650 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2025,,4935,1940,1495,,2026-09-29 16:27:42
-56183,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,63 kWh (170 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,1817-1879,2026-09-29 16:27:44
-56184,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,84 kWh (229 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,1925-2005,2026-09-29 16:27:42
-56185,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,84 kWh (325 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,2030-2110,2026-09-29 16:27:42
+54853,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,N 84 kWh (650 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2025,,4935,1940,1495,,2026-10-02 08:34:49
+56183,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,63 kWh (170 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,1817-1879,2026-10-02 08:35:25
+56184,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,84 kWh (229 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,1925-2005,2026-10-02 08:35:13
+56185,Hyundai,IONIQ 6,IONIQ 6 (facelift 2025),2026,84 kWh (325 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2026,,4925,1880,1495,2030-2110,2026-10-02 08:35:01
 46598,Hyundai,IONIQ 6,IONIQ 6,2023,Standard 53 kWh (151 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2022,2026,4855,1880,1495,1775-1833,2026-09-23 09:53:50
 46599,Hyundai,IONIQ 6,IONIQ 6,2023,LongRange 77.4 kWh (229 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2022,2026,4855,1880,1495,1930-1950,2026-09-23 09:54:17
 46600,Hyundai,IONIQ 6,IONIQ 6,2023,LongRange 77.4 kWh (325 Hp) BEV AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2022,2026,4855,1880,1495,2020-2038,2026-09-23 09:54:29
