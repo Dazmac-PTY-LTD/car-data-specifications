@@ -26182,7 +26182,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 9165,Volkswagen,Taro,Taro,1989,2.4 D (83 Hp) 4WD,Internal Combustion engine,83,4200,Diesel,Pick-up,2,1989,1991,4725,1690,1745,1532,2022-09-12 16:55:28
 9166,Volkswagen,Taro,Taro,1989,2.4 D (79 Hp) 4x4,Internal Combustion engine,79,,Diesel,Pick-up,,1994,1997,,,,,2022-09-12 16:55:28
 9167,Volkswagen,Taro,Taro,1989,2.4 i (114 Hp) 4x4,Internal Combustion engine,114,,Petrol (Gasoline),Pick-up,,1989,1997,,,,,2022-09-07 12:50:28
-38498,Volkswagen,Up!,e-Up! (facelift 2019),2019,36.8 kWh (83 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2019,,3600,1645,1507,1160,2023-02-23 10:03:03
+38498,Volkswagen,Up!,e-Up! (facelift 2019),2019,36.8 kWh (83 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2019,2023,3600,1645,1507,1160,2026-10-05 13:15:56
 34177,Volkswagen,Up!,e-Up! (facelift 2016),2016,18.7 kWh (82 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2016,2019,3600,1645,1492,1154,2022-11-03 20:39:26
 32418,Volkswagen,Up!,Cross Up! (facelift 2016),2016,1.0 (75 Hp),Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2016,2018,3628,1649,1516,934,2022-09-15 16:39:03
 32419,Volkswagen,Up!,Cross Up! (facelift 2016),2016,1.0 (75 Hp) ASG,Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2016,2018,3628,1649,1516,937,2022-09-15 16:39:04
@@ -26190,7 +26190,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 36143,Volkswagen,Up!,Cross Up! (facelift 2016),2016,1.0 TSI (90 Hp),Internal Combustion engine,90,,Petrol (Gasoline),Hatchback,4,2018,2019,3628,1649,1516,1051,2022-09-16 11:36:03
 36144,Volkswagen,Up!,Cross Up! (facelift 2016),2016,1.0 (75 Hp) ASG,Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2018,2019,3628,1649,1516,1012,2022-09-16 11:36:03
 36145,Volkswagen,Up!,Cross Up! (facelift 2016),2016,1.0 (75 Hp),Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2018,2019,3628,1649,1516,1009,2022-09-16 11:36:03
-41713,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 EcoFuel (68 Hp) CNG,Internal Combustion engine,68,,Petrol / CNG,Hatchback,4,2020,,3600,1641,1504,996,2025-04-11 16:16:53
+41713,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 EcoFuel (68 Hp) CNG,Internal Combustion engine,68,,Petrol / CNG,Hatchback,4,2020,2023,3600,1641,1504,996,2026-10-05 13:16:06
 24359,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 (75 Hp),Internal Combustion engine,75,6200,Petrol (Gasoline),Hatchback,4,2016,2018,3600,1641,1504,861,2022-09-15 16:38:05
 24413,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 (60 Hp),Internal Combustion engine,60,5000,Petrol (Gasoline),Hatchback,4,2016,2018,3600,1641,1504,851,2022-09-15 16:38:14
 24471,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 BMT (60 Hp),Internal Combustion engine,60,5000,Petrol (Gasoline),Hatchback,4,2016,2018,3600,1641,1504,859,2022-09-15 16:37:55
@@ -26204,8 +26204,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 36148,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 (75 Hp) ASG,Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2018,2019,3600,1641,1504,940,2022-09-16 11:36:03
 36149,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 (75 Hp),Internal Combustion engine,75,,Petrol (Gasoline),Hatchback,4,2018,2019,3600,1641,1504,936,2022-09-16 11:36:03
 36150,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 (60 Hp),Internal Combustion engine,60,,Petrol (Gasoline),Hatchback,4,2018,2020,3600,1641,1504,934,2022-09-16 11:36:03
-41687,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 MPI (65 Hp),Internal Combustion engine,65,,Petrol (Gasoline),Hatchback,4,2020,,3600,1641,1504,916,2025-04-11 16:16:53
-41690,Volkswagen,Up!,Up! (facelift 2016),2016,GTI 1.0 TSI (115 Hp) OPF,Internal Combustion engine,115,5000-5500,Petrol (Gasoline),Hatchback,4,2020,,3600,1645,1492,992,2025-04-11 16:16:53
+41687,Volkswagen,Up!,Up! (facelift 2016),2016,1.0 MPI (65 Hp),Internal Combustion engine,65,,Petrol (Gasoline),Hatchback,4,2020,2023,3600,1641,1504,916,2026-10-05 13:16:05
+41690,Volkswagen,Up!,Up! (facelift 2016),2016,GTI 1.0 TSI (115 Hp) OPF,Internal Combustion engine,115,5000-5500,Petrol (Gasoline),Hatchback,4,2020,2023,3600,1645,1492,992,2026-10-05 13:16:04
 37739,Volkswagen,Up!,e-Up!,2013,18.7 kWh (82 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2013,2016,3540,1645,1498,1139,2022-11-03 20:39:27
 18473,Volkswagen,Up!,Cross Up!,2013,1.0 (75 Hp),Internal Combustion engine,75,6200,Petrol (Gasoline),Hatchback,4,2013,2016,3563,1649,1516,996,2022-09-15 16:11:24
 20681,Volkswagen,Up!,Cross Up!,2013,1.0 (75 Hp) ASG,Internal Combustion engine,75,6200,Petrol (Gasoline),Hatchback,4,2013,2016,3563,1649,1516,992,2022-09-15 16:11:24
@@ -35867,6 +35867,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54642,BYD,Xia,Xia,2025,DM-i 1.5Ti 36.6 kWh (272 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,Minivan,7,2025,,5145,1970,1805,,2026-09-23 08:52:14
 55311,BYD,Sealion 6,Sealion 6,2024,DM-i 1.5L (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4775,1890,1670,1940,2026-09-23 08:52:14
 55312,BYD,Sealion 6,Sealion 6,2024,DM-i 1.5L (324 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4775,1890,1670,2100,2026-09-23 08:52:14
+57946,BYD,Sealion 6,Sealion 6,2024,71.8 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4785,1890,1668,2020,2026-10-05 16:12:10
+57947,BYD,Sealion 6,Sealion 6,2024,87 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4785,1890,1668,2147,2026-10-05 16:12:10
 55318,BYD,Sea Lion 06,Sea Lion 06,2026,DM-i 1.5L 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1920,1675,,2026-09-23 08:52:14
 55319,BYD,Sea Lion 06,Sea Lion 06,2026,DM-i 1.5L 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1920,1675,,2026-09-23 08:52:14
 55320,BYD,Sea Lion 06,Sea Lion 06,2026,65.28 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1920,1675,,2026-09-23 08:52:14
@@ -38258,6 +38260,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57934,Honda,City,City VII (facelift 2026),2026,1.5 i-VTEC (121 Hp),Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2026,,4594,1748,1489,1123-1168,2026-10-02 16:01:59
 57937,Honda,City,City VII (facelift 2026),2026,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1467-1489,1224-1294,2026-10-02 16:01:59
 57938,Honda,City,City VII (facelift 2026),2026,1.0 VTEC (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2026,,4577,1748,1467,1144,2026-10-02 16:01:59
+57942,Honda,City,City VII (facelift 2024) Hatchback,2024,1.0 VTEC (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Hatchback,5,2024,2026,4350,1748,1488-1501,1161-1187,2026-10-05 16:08:22
+57943,Honda,City,City VII (facelift 2024) Hatchback,2024,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Hatchback,5,2024,2026,4350,1748,1501,1231-1237,2026-10-05 16:08:22
+57944,Honda,City,City VII (facelift 2024) Hatchback,2024,1.5 i-VTEC (121 Hp) CVT,Internal Combustion engine,121,6600,Petrol (Gasoline),Hatchback,5,2024,2026,4350,1748,1488,1149-1163,2026-10-05 16:08:22
+57939,Honda,City,City VII (facelift 2023),2023,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2023,2026,4580,1748,1467-1480,1224-1250,2026-10-05 16:08:22
+57940,Honda,City,City VII (facelift 2023),2023,1.5 i-VTEC (121 Hp),Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2023,2026,4574,1748,1489,1110-1153,2026-10-05 16:08:22
+57941,Honda,City,City VII (facelift 2023),2023,1.5 i-VTEC (121 Hp) CVT,Internal Combustion engine,121,6600,Petrol (Gasoline),Sedan,5,2023,2026,4580,1748,1467-1489,1110-1153,2026-10-05 16:08:22
+57945,Honda,City,City VII (facelift 2023),2023,1.0 VTEC (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2023,2026,4580,1748,1467-1480,1152-1174,2026-10-05 16:08:22
 38255,Honda,City,City VII,2020,1.0 Turbo (122 Hp) CVT,Internal Combustion engine,122,5500,Petrol (Gasoline),Sedan,5,2019,2023,4553,1748,1467,1150-1165,2026-10-02 15:53:40
 47499,Honda,City,City VII,2020,1.5 (126 Hp) e:HEV e-CVT,FHEV (Full Hybrid Electric Vehicle),98,5600-6400,Petrol (Gasoline),Sedan,5,2020,2023,4549,1748,1489,1280,2026-10-02 15:53:39
 33199,Honda,City,City VI (facelift 2017),2017,1.5i (119 Hp),Internal Combustion engine,119,6600,Petrol (Gasoline),Sedan,5,2017,2019,4440,1695,1495,1058-1088,2023-03-20 10:10:21
