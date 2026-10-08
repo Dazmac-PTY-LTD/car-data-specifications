@@ -4648,6 +4648,25 @@
                     "heightMin": "1675",
                     "fuel": "Electricity",
                     "curbWeight": ""
+                  },
+                  {
+                    "id": "57966",
+                    "update": "2026-10-07 14:14:03",
+                    "brand": "BYD",
+                    "model": "Yuan Up",
+                    "generation": "Yuan Up",
+                    "engine": "51.13 kWh (95 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4310",
+                    "width": "1830",
+                    "height": "1675",
+                    "heightMin": "1675",
+                    "fuel": "Electricity",
+                    "curbWeight": ""
                   }
                 ]
               }
@@ -7936,6 +7955,52 @@
                     "height": "1495",
                     "heightMin": "1495",
                     "fuel": "Electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57964",
+                    "update": "2026-10-07 14:14:03",
+                    "brand": "BYD",
+                    "model": "Qin Max",
+                    "generation": "Qin Max",
+                    "engine": "DM-i 1.5L 25.287 kWh (238 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4866",
+                    "width": "1880",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol / electricity",
+                    "curbWeight": ""
+                  },
+                  {
+                    "id": "57965",
+                    "update": "2026-10-07 14:14:03",
+                    "brand": "BYD",
+                    "model": "Qin Max",
+                    "generation": "Qin Max",
+                    "engine": "DM-i 1.5L 34.275 kWh (238 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "power": "101/6000",
+                    "powerHp": "101",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4866",
+                    "width": "1880",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol / electricity",
                     "curbWeight": ""
                   }
                 ]
