@@ -77660,12 +77660,12 @@
                   },
                   {
                     "id": "32734",
-                    "update": "2026-09-23 13:59:28",
+                    "update": "2026-10-08 16:01:18",
                     "brand": "BMW",
                     "model": "i3",
                     "generation": "i3s (l01)",
                     "engine": "32.2 kWh (184 Hp) Range Extender",
-                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrain": "REEV (Range-Extended Electric Vehicle)",
                     "power": "38/5000",
                     "powerHp": "38",
                     "powerRpm": "5000",
@@ -77746,12 +77746,12 @@
                   },
                   {
                     "id": "32732",
-                    "update": "2026-09-23 13:59:28",
+                    "update": "2026-10-08 16:01:18",
                     "brand": "BMW",
                     "model": "i3",
                     "generation": "i3 (l01 LCI, facelift 2017)",
                     "engine": "33.2 kWh (170 Hp) Range Extender",
-                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrain": "REEV (Range-Extended Electric Vehicle)",
                     "power": "38/5000",
                     "powerHp": "38",
                     "powerRpm": "5000",
@@ -77831,12 +77831,12 @@
                   },
                   {
                     "id": "19683",
-                    "update": "2026-09-23 13:59:28",
+                    "update": "2026-10-08 16:01:18",
                     "brand": "BMW",
                     "model": "i3",
                     "generation": "i3 (l01)",
                     "engine": "22 kWh (170 Hp) Range Extender",
-                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrain": "REEV (Range-Extended Electric Vehicle)",
                     "power": "38/5000",
                     "powerHp": "38",
                     "powerRpm": "5000",
@@ -83792,6 +83792,72 @@
               "id": "11225",
               "modifications": {
                 "modification": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-10-08 07:48:47",
+        "name": "iX4",
+        "id": "4148",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-08 08:00:23",
+              "name": "iX4 (NA7)",
+              "modelYear": "2027",
+              "id": "11510",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "57967",
+                    "update": "2026-10-08 15:55:38",
+                    "brand": "BMW",
+                    "model": "iX4",
+                    "generation": "iX4 (NA7)",
+                    "engine": "50 108.7 kWh (469 Hp) xDrive",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2027",
+                    "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4782",
+                    "width": "1895",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "rideHeight": "173",
+                    "rideHeightMin": "173",
+                    "fuel": "Electricity",
+                    "curbWeight": "2305",
+                    "curbWeightMin": "2305"
+                  },
+                  {
+                    "id": "57968",
+                    "update": "2026-10-08 15:55:38",
+                    "brand": "BMW",
+                    "model": "iX4",
+                    "generation": "iX4 (NA7)",
+                    "engine": "40 82.6 kWh (374 Hp) xDrive",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "yearstart": "2027",
+                    "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4782",
+                    "width": "1895",
+                    "widthOpenedMirrors": "2093",
+                    "height": "1595",
+                    "heightMin": "1595",
+                    "rideHeight": "173",
+                    "rideHeightMin": "173",
+                    "fuel": "Electricity",
+                    "curbWeight": "2185",
+                    "curbWeightMin": "2185"
+                  }
+                ]
               }
             }
           ]
