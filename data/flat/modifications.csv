@@ -9152,10 +9152,14 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 3518,Toyota,ISis,ISis,2004,1.8 (132 Hp),Internal Combustion engine,132,6000,Petrol (Gasoline),Minivan,7,2004,2009,4610,1695,1640,1400,2024-02-02 14:31:54
 3519,Toyota,ISis,ISis,2004,2.0 (155 Hp),Internal Combustion engine,155,6000,Petrol (Gasoline),Minivan,7,2004,2009,4610,1695,1640,1400,2023-04-28 13:01:44
 3520,Toyota,ISis,ISis,2004,2.0 (155 Hp) 4WD,Internal Combustion engine,155,6000,Petrol (Gasoline),Minivan,7,2004,2009,4610,1695,1640,1400,2023-04-28 13:01:40
-3521,Toyota,Previa,Previa,2000,2.0 D-4D (116 Hp),Internal Combustion engine,116,3600,Diesel,Minivan,8,2000,2005,4750,1790,1770,1705,2023-04-27 13:55:25
-3522,Toyota,Previa,Previa,2000,2.4 16V (156 Hp),Internal Combustion engine,156,5600,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,1630,2023-04-24 12:42:01
-3523,Toyota,Previa,Previa,2000,3.0 i V6 24V (220 Hp),Internal Combustion engine,220,5800,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,,2022-10-11 12:09:39
-28603,Toyota,Previa,Previa,2000,2.4 16V (156 Hp) Automatic,Internal Combustion engine,156,5600,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,1630,2023-04-24 12:42:01
+57993,Toyota,Previa,"Previa III (XR50, facelift 2016)",2016,2.4 (170 Hp) Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7,2016,2019,4820,1810,1750,1845,2026-10-09 16:14:04
+57991,Toyota,Previa,"Previa III (XR50, facelift 2008)",2009,2.4 (170 Hp) Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2008,2016,4795,1800,1750,1775,2026-10-09 16:14:04
+57992,Toyota,Previa,"Previa III (XR50, facelift 2008)",2009,3.5 V6 (271 Hp) Super ECT,Internal Combustion engine,271,6200,Petrol (Gasoline),Minivan,7,2008,2016,4795,1800,1750,1845-1915,2026-10-09 16:14:04
+57990,Toyota,Previa,Previa III (XR50),2006,2.4 (168 Hp) Automatic,Internal Combustion engine,168,,Petrol (Gasoline),Minivan,7,2006,2008,4795,1800,1750,1610,2026-10-09 16:14:04
+3521,Toyota,Previa,Previa II (XR30/XR40),2000,2.0 D-4D (116 Hp),Internal Combustion engine,116,3600,Diesel,Minivan,8,2000,2005,4750,1790,1770,1705,2023-04-27 13:55:25
+3522,Toyota,Previa,Previa II (XR30/XR40),2000,2.4 16V (156 Hp),Internal Combustion engine,156,5600,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,1630,2023-04-24 12:42:01
+3523,Toyota,Previa,Previa II (XR30/XR40),2000,3.0 i V6 24V (220 Hp),Internal Combustion engine,220,5800,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,,2022-10-11 12:09:39
+28603,Toyota,Previa,Previa II (XR30/XR40),2000,2.4 16V (156 Hp) Automatic,Internal Combustion engine,156,5600,Petrol (Gasoline),Minivan,8,2000,2005,4750,1790,1770,1630,2023-04-24 12:42:01
 3524,Toyota,Previa,Previa (CR),1991,2.0 D-4D (116 Hp),Internal Combustion engine,116,3600,Diesel,Minivan,8,2000,2005,4750,1790,1820,1585,2023-04-27 13:55:26
 3525,Toyota,Previa,Previa (CR),1991,2.2 TD (100 Hp),Internal Combustion engine,100,4200,Diesel,Minivan,8,1992,2000,4765,1800,1780,1720,2026-02-11 08:56:34
 3526,Toyota,Previa,Previa (CR),1991,2.4 (132 Hp),Internal Combustion engine,132,5000,Petrol (Gasoline),Minivan,8,1990,2000,4765,1800,1780,1660,2026-02-11 08:55:34
@@ -9916,11 +9920,24 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 28753,Toyota,Vitz,Vitz I,2000,1.5 VVT-I 16V (109 Hp) Automatic,Internal Combustion engine,109,6000,Petrol (Gasoline),Hatchback,5,1999,2005,3630,1660,1485,940,2021-12-03 11:53:43
 3854,Toyota,Brevis,Brevis,2001,2.5 i 24V Ai250 (200 Hp),Internal Combustion engine,200,6000,Petrol (Gasoline),Sedan,5,2001,2007,4550,1720,1460,1520,2022-10-17 15:52:11
 3855,Toyota,Brevis,Brevis,2001,3.0 i 24V Ai300 (220 Hp),Internal Combustion engine,220,5600,Petrol (Gasoline),Sedan,5,2001,2007,4550,1720,1460,1580,2022-10-17 15:52:11
-3856,Toyota,Estima,Estima II,2000,2.4 (131+17+24 Hp) Hybrid e-Four e-CVT,FHEV (Full Hybrid Electric Vehicle),131,5600,Petrol (Gasoline),Minivan,8,2001,2003,4770,1790,1780,1850,2023-08-01 09:04:21
-3859,Toyota,Estima,Estima II,2000,2.4 i (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Minivan,8,2000,2005,4770,1790,1785,1730,2023-08-10 11:34:09
-3860,Toyota,Estima,Estima II,2000,3.0 i 24V (220 Hp),Internal Combustion engine,220,5800,Petrol (Gasoline),Minivan,8,2000,2005,4770,1790,1785,1730,2023-08-22 10:48:37
-3857,Toyota,Estima,Estima I,1991,2.4 i (132 Hp),Internal Combustion engine,132,5000,Petrol (Gasoline),Minivan,8,1990,1999,4750,1800,1780,1730,2026-02-11 08:26:22
-3858,Toyota,Estima,Estima I,1991,2.4 i (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Minivan,8,1990,1999,4750,1800,1780,1730,2022-09-12 16:55:28
+57977,Toyota,Estima,"Estima III (XR50, facelift 2016)",2016,2.4 (170 Hp) 4WD Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2016,2019,4820,1810,1760,1800-1870,2026-10-09 15:58:15
+57978,Toyota,Estima,"Estima III (XR50, facelift 2016)",2016,2.4 (170 Hp) Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2016,2019,4820,1810,1730-1745,1730-1800,2026-10-09 15:58:15
+57979,Toyota,Estima,"Estima III (XR50, facelift 2016)",2016,2.4 (190 Hp) Hybrid E-Four e-CVT,FHEV (Full Hybrid Electric Vehicle),150,6000,Petrol (Gasoline),Minivan,7-8,2016,2019,4820,1810,1760,1950-2020,2026-10-09 15:58:15
+57980,Toyota,Estima,"Estima III (XR50, facelift 2008)",2008,2.4 (170 Hp) 4WD Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2008,2016,4795,1800,1745-1760,1770-1870,2026-10-09 15:58:15
+57981,Toyota,Estima,"Estima III (XR50, facelift 2008)",2008,2.4 (190 Hp) Hybrid E-Four e-CVT,FHEV (Full Hybrid Electric Vehicle),150,6000,Petrol (Gasoline),Minivan,7-8,2008,2016,4800,1820,1760,1930-2020,2026-10-09 15:58:15
+57982,Toyota,Estima,"Estima III (XR50, facelift 2008)",2008,2.4 (170 Hp) Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2008,2016,4795,1800,1730-1745,1700-1800,2026-10-09 15:58:15
+57983,Toyota,Estima,"Estima III (XR50, facelift 2008)",2008,3.5 V6 (280 Hp) 4WD Super ECT,Internal Combustion engine,280,6200,Petrol (Gasoline),Minivan,7-8,2008,2016,4795,1800,1760,1840-1940,2026-10-09 15:58:15
+57986,Toyota,Estima,"Estima III (XR50, facelift 2008)",2008,3.5 V6 (280 Hp) Super ECT,Internal Combustion engine,280,6200,Petrol (Gasoline),Minivan,7-8,2008,2016,4795,1800,1730-1745,1770-1870,2026-10-09 15:58:15
+57984,Toyota,Estima,Estima III (XR50),2006,2.4 (170 Hp) 4WD Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2006,2008,4795,1800,1745-1760,1770-1870,2026-10-09 15:58:15
+57985,Toyota,Estima,Estima III (XR50),2006,2.4 (190 Hp) Hybrid E-Four e-CVT,FHEV (Full Hybrid Electric Vehicle),150,6000,Petrol (Gasoline),Minivan,7-8,2006,2008,4800,1800,1760,1930-1970,2026-10-09 15:58:15
+57987,Toyota,Estima,Estima III (XR50),2006,2.4 (170 Hp) Super CVT-i,Internal Combustion engine,170,6000,Petrol (Gasoline),Minivan,7-8,2006,2008,4795,1800,1730-1745,1700-1800,2026-10-09 15:58:15
+57988,Toyota,Estima,Estima III (XR50),2006,3.5 V6 (280 Hp) Super ECT,Internal Combustion engine,280,6200,Petrol (Gasoline),Minivan,7-8,2006,2008,4795,1800,1730-1745,1770-1870,2026-10-09 15:58:15
+57989,Toyota,Estima,Estima III (XR50),2006,3.5 V6 (280 Hp) 4WD Super ECT,Internal Combustion engine,280,6200,Petrol (Gasoline),Minivan,7-8,2006,2008,4795,1800,1745-1760,1840-1940,2026-10-09 15:58:15
+3856,Toyota,Estima,Estima II (XR30/XR40),2000,2.4 (131+17+24 Hp) Hybrid e-Four e-CVT,FHEV (Full Hybrid Electric Vehicle),131,5600,Petrol (Gasoline),Minivan,8,2001,2003,4770,1790,1780,1850,2023-08-01 09:04:21
+3859,Toyota,Estima,Estima II (XR30/XR40),2000,2.4 i (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Minivan,8,2000,2005,4770,1790,1785,1730,2023-08-10 11:34:09
+3860,Toyota,Estima,Estima II (XR30/XR40),2000,3.0 i 24V (220 Hp),Internal Combustion engine,220,5800,Petrol (Gasoline),Minivan,8,2000,2005,4770,1790,1785,1730,2023-08-22 10:48:37
+3857,Toyota,Estima,Estima I (XR10/XR20),1991,2.4 i (132 Hp),Internal Combustion engine,132,5000,Petrol (Gasoline),Minivan,8,1990,1999,4750,1800,1780,1730,2026-02-11 08:26:22
+3858,Toyota,Estima,Estima I (XR10/XR20),1991,2.4 i (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Minivan,8,1990,1999,4750,1800,1780,1730,2022-09-12 16:55:28
 3861,Toyota,Matrix,Matrix (E140),2009,2.4 (160 Hp),Internal Combustion engine,160,5600,Petrol (Gasoline),Hatchback,5,2008,2014,4394,1765,1549,1348,2023-04-28 15:17:34
 37878,Toyota,Matrix,Matrix (E140),2009,S 2.4 (160 Hp) Automatic,Internal Combustion engine,160,5600,Petrol (Gasoline),Hatchback,5,2008,2014,4394,1765,1549,1383,2023-04-28 15:17:33
 37879,Toyota,Matrix,Matrix (E140),2009,S 2.4 (160 Hp) AWD Automatic,Internal Combustion engine,160,5600,Petrol (Gasoline),Hatchback,5,2008,2014,4394,1765,1560,1483,2023-04-28 15:17:33
