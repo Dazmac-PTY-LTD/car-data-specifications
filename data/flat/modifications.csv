@@ -2898,8 +2898,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 49634,Tata,Punch,Punch,2022,1.2L (88/73 Hp) CNG,Internal Combustion engine,88,6000,Petrol / CNG,"SUV (Sport Utility Vehicle), Crossover",5,2021,,3827,1742,1615,,2023-09-19 16:16:38
 52475,Tata,Punch,Punch,2022,EV 25 kWh (82 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,3857,1742,1633,,2024-08-13 16:14:13
 52476,Tata,Punch,Punch,2022,EV 35 kWh (122 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,3857,1742,1633,,2024-08-13 16:14:13
-52433,Tata,Curvv,Curvv,2025,EV 55 kWh (167 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4310,1810,1637,,2024-08-08 16:24:55
-52434,Tata,Curvv,Curvv,2025,EV 45 kWh (150 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4310,1810,1637,,2024-08-08 16:24:55
+52433,Tata,Curvv,Curvv,2025,EV 55 kWh (167 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4310,1810,1637,,2026-10-12 12:17:00
+52434,Tata,Curvv,Curvv,2025,EV 45 kWh (150 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4310,1810,1637,,2026-10-12 12:16:42
 52435,Tata,Curvv,Curvv,2025,1.2L Revotron (120 Hp),Internal Combustion engine,120,5500,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4308,1810,1630,,2024-08-08 16:24:55
 52436,Tata,Curvv,Curvv,2025,1.2L Revotron (120 Hp) DCA,Internal Combustion engine,120,5500,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4308,1810,1630,,2024-08-08 16:24:55
 52437,Tata,Curvv,Curvv,2025,1.2L Hyperion (125 Hp),Internal Combustion engine,125,5000,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4308,1810,1630,,2024-08-08 16:24:55
@@ -7243,15 +7243,15 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 42811,Kia,K8,K8,2021,3.5 Smartstream GDi V6 (300 Hp) Automatic,Internal Combustion engine,300,6400,Petrol (Gasoline),Sedan,5,2021,2024,5015,1875,1455,1640-1650,2026-06-16 15:36:23
 42812,Kia,K8,K8,2021,3.5 Smartstream GDi V6 (300 Hp) AWD Automatic,Internal Combustion engine,300,6400,Petrol (Gasoline),Sedan,5,2021,2024,5015,1875,1455,1705-1715,2026-06-16 15:36:23
 42813,Kia,K8,K8,2021,3.5 Smartstream V6 (240 Hp) LPi Automatic,Internal Combustion engine,240,6000,LPG,Sedan,5,2021,2024,5015,1875,1455,1625-1670,2026-06-16 15:36:23
-50447,Kia,EV9,EV9,2024,76.1 kWh (215 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2023,,5009,1979,1750,2310,2026-09-23 13:59:28
-50448,Kia,EV9,EV9,2024,99.8 kWh (201 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2023,,5009,1979,1750,2410-2415,2026-09-23 13:59:28
-50465,Kia,EV9,EV9,2024,99.8 kWh (380 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2023,,5009,1979,1755-1781,2580-2670,2026-09-23 13:59:28
-54238,Kia,EV9,EV9,2024,GT 99.8 kWh (508 Hp) AWD Electric 6 Seat,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2025,,5015,1980,1755,2573-2674,2026-09-23 13:53:37
-54239,Kia,EV9,EV9,2024,GT 99.8 kWh (508 Hp) AWD Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2025,,5015,1980,1755,2589-2648,2026-09-23 13:53:37
+50447,Kia,EV9,EV9,2024,76.1 kWh (215 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2023,,5009,1979,1750,2310,2026-10-12 11:10:48
+50448,Kia,EV9,EV9,2024,99.8 kWh (201 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2023,,5009,1979,1750,2410-2415,2026-10-12 11:11:24
+50465,Kia,EV9,EV9,2024,99.8 kWh (380 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2023,,5009,1979,1755-1781,2580-2670,2026-10-12 11:11:42
+54238,Kia,EV9,EV9,2024,GT 99.8 kWh (508 Hp) AWD Electric 6 Seat,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2025,,5015,1980,1755,2573-2674,2026-10-12 14:22:22
+54239,Kia,EV9,EV9,2024,GT 99.8 kWh (508 Hp) AWD Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2025,,5015,1980,1755,2589-2648,2026-10-12 14:22:34
 45803,Kia,Tonic,Tonic,2019,1.6i 16V (121 Hp),Internal Combustion engine,121,6300,Petrol (Gasoline),Crossover,5,2018,2020,4065,1725,1490,1157,2022-05-16 16:14:10
 45804,Kia,Tonic,Tonic,2019,1.6i 16V (121 Hp) Automatic,Internal Combustion engine,121,6300,Petrol (Gasoline),Crossover,5,2018,2020,4065,1725,1490,1187,2022-05-16 16:14:10
-51836,Kia,EV3,EV3,2024,58.3 kWh (204 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4300,1850,1560,,2026-09-23 13:53:37
-51837,Kia,EV3,EV3,2024,81.4 kWh (204 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4300,1850,1560,,2026-09-23 13:53:37
+51836,Kia,EV3,EV3,2024,58.3 kWh (204 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4300,1850,1560,,2026-10-12 11:19:54
+51837,Kia,EV3,EV3,2024,81.4 kWh (204 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4300,1850,1560,,2026-10-12 11:20:08
 56923,Kia,EV3,EV3,2024,81.4 kWh (265 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4300,1850,1565,1920-2045,2026-09-25 16:32:04
 57424,Kia,EV3,EV3,2024,GT 81.4 kWh (292 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4310,1850,1575,1935-2050,2026-09-25 16:41:26
 52477,Kia,Pegas,Pegas,2018,1.4 MPI (94 Hp),Internal Combustion engine,94,6000,Petrol (Gasoline),Sedan,5,2017,,4300,1700,1460,1036,2024-08-14 14:14:11
@@ -7281,10 +7281,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54493,Kia,PV5,PV5 Crew,2026,51.5 kWh (122 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,Minivan,2-5,2025,,4695,1895,1950,,2025-06-05 16:24:06
 54491,Kia,PV5,PV5 Cargo L2/H1,2026,51.5 kWh (122 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,Minivan,2,2025,,4695,1895,1923,1860,2025-06-05 16:24:05
 54492,Kia,PV5,PV5 Cargo L2/H1,2026,71.2 kWh (163 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,Minivan,2,2025,,4695,1895,1923,1960,2025-06-05 16:24:06
-54480,Kia,EV5,EV5,2025,64.2 kWh (218 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,1910,2025-08-22 12:22:35
-54481,Kia,EV5,EV5,2025,88.1 kWh (218 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,2054,2025-08-22 12:22:47
-54482,Kia,EV5,EV5,2025,88.1 kWh (313 Hp) AWD Long Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,2198-2229,2025-08-22 12:22:57
-55266,Kia,EV5,EV5,2025,81.4 kWh (218 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2025,,4610,1875,1675,,2026-06-22 08:40:30
+54480,Kia,EV5,EV5,2025,64.2 kWh (218 Hp) Standard Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,1910,2026-10-12 14:53:56
+54481,Kia,EV5,EV5,2025,88.1 kWh (218 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,2054,2026-10-12 14:54:20
+54482,Kia,EV5,EV5,2025,88.1 kWh (313 Hp) AWD Long Range,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4615,1875,1715,2198-2229,2026-10-12 14:54:39
+55266,Kia,EV5,EV5,2025,81.4 kWh (218 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2025,,4610,1875,1675,,2026-10-12 15:54:43
 56629,Kia,EV5,EV5,2025,81.4 kWh (265 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4610,1875,1680,2102-2177,2026-09-25 16:07:43
 56630,Kia,EV5,EV5,2025,GT 81.4 kWh (306 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4610,1875,1680,2130-2189,2026-09-25 16:07:57
 56774,Kia,EV2,EV2,2027,42.2 kWh (146 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),4-5,2026,,4060,1800,1575,1545-1650,2026-09-23 13:53:37
@@ -8037,9 +8037,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54125,DongFeng,Paladin,Paladin,2023,2.0T (228 Hp) Automatic,Internal Combustion engine,228,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,2024,4882,1850,1875,1890,2025-04-11 16:16:53
 54126,DongFeng,Paladin,Paladin,2023,2.0T (228 Hp) 4WD Automatic,Internal Combustion engine,228,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,2024,4882,1850,1875,1950,2025-04-11 16:16:53
 54861,DongFeng,e pi 007,e pi 007,2025,1.5L 28.4 kWh (218 Hp) EREV,REEV (Range-Extended Electric Vehicle),105,,Petrol / electricity,Liftback,5,2024,,4880,1895,1468,1830,2026-10-08 16:01:18
-54862,DongFeng,e pi 007,e pi 007,2025,56.83 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1767,2025-07-11 16:16:14
-54863,DongFeng,e pi 007,e pi 007,2025,70.26 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1852,2025-07-11 16:16:14
-54864,DongFeng,e pi 007,e pi 007,2025,70.26 kWh (544 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1999,2025-07-11 16:16:14
+54862,DongFeng,e pi 007,e pi 007,2025,56.83 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1767,2026-10-12 15:05:12
+54863,DongFeng,e pi 007,e pi 007,2025,70.26 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1852,2026-10-12 15:05:24
+54864,DongFeng,e pi 007,e pi 007,2025,70.26 kWh (544 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4880,1895,1468,1999,2026-10-12 15:05:35
 54870,DongFeng,e pi 008,e pi 008,2025,1.5T 34.32 kWh (272 Hp) EREV,REEV (Range-Extended Electric Vehicle),147,4500,Petrol / electricity,SUV (Sport Utility Vehicle),5-6,2024,,5002,1972,1732,2189,2026-10-08 16:01:18
 54871,DongFeng,e pi 008,e pi 008,2025,82.28 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5-6,2024,,5002,1972,1732,2228,2025-08-22 12:52:26
 55943,DongFeng,Nammi 06,Nammi 06,2025,44.94 kWh (184 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4306,1868,1645,1526,2025-12-08 16:16:22
@@ -13862,9 +13862,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44449,Audi,5000,5000 Sedan (C2),1976,2.0 (67 Hp),Internal Combustion engine,67,4800,Diesel,Sedan,5,1976,1982,,,,1222,2022-10-11 12:10:53
 45322,Audi,Fox,Fox (B1),1973,1.6 (81 Hp),Internal Combustion engine,81,5800,Petrol (Gasoline),Sedan,5,1973,1979,4369,1643,1359,,2022-10-05 14:35:05
 45323,Audi,Fox,Fox (B1),1973,1.5 (75 Hp),Internal Combustion engine,75,6000,Petrol (Gasoline),Sedan,5,1973,1979,4369,1643,1361,,2022-10-05 14:35:05
-46820,Audi,Q8 e-tron,Q8 e-tron Sportback,2023,50 95 kWh (340 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1619,2510,2023-07-07 10:55:08
+46820,Audi,Q8 e-tron,Q8 e-tron Sportback,2023,50 95 kWh (340 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1619,2510,2026-10-12 10:01:31
 46821,Audi,Q8 e-tron,Q8 e-tron Sportback,2023,55 114 kWh (408 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1619,2510,2023-07-07 11:03:03
-46818,Audi,Q8 e-tron,Q8 e-tron,2023,50 95 kWh (340 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1633,2510,2023-07-07 10:50:13
+46818,Audi,Q8 e-tron,Q8 e-tron,2023,50 95 kWh (340 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1633,2510,2026-10-12 10:01:07
 46819,Audi,Q8 e-tron,Q8 e-tron,2023,55 114 kWh (408 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1937,1633,2510,2023-07-07 10:40:40
 53057,Audi,Q8 e-tron,Q8 e-tron,2023,edition Dakar 55 114 kWh (408 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4915,1994,1683-1706,2590,2024-10-31 16:12:00
 47016,Audi,SQ8 e-tron,SQ8 e-tron Sportback,2023,114 kWh (503 Hp) quattro,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,,4915,1976,1617,2650,2026-09-23 13:53:37
@@ -16025,6 +16025,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52857,Peugeot,408 (crossover),"408 (crossover) (Phase I, 2022)",2023,e-408 58 kWh (213 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle), Crossover",5,2024,2026,4687,1848,1487,1804,2026-09-23 08:52:14
 54037,Peugeot,408 (crossover),"408 (crossover) (Phase I, 2022)",2023,1.2 (145 Hp) Mild Hybrid e-DCS,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle), Crossover",5,2025,2026,4687,1848,1478,1469,2026-02-12 10:52:26
 46830,Peugeot,9x8,9x8 (Racing Prototype),2021,2.6 Bi-turbo V6 (680 Hp) Hybrid 4WD Automatic,FHEV (Full Hybrid Electric Vehicle),680,,Ethanol - E85,Coupe,1,2021,2021,4995,2000,1145,1030,2023-08-23 08:35:05
+57994,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,e-Expert 75 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Van,3,2024,,4980,1920,1895-1904,2010-2307,2026-10-12 16:01:36
+57995,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,1.5 BlueHDi (120 Hp),Internal Combustion engine,120,3500,Diesel,Van,3,2024,,4980,1920,1895-1904,1646-1861,2026-10-12 16:01:36
+57996,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,2.0 BlueHDi (145 Hp),Internal Combustion engine,145,3750,Diesel,Van,3,2024,2025,4980,1920,1895-1904,1654-1923,2026-10-12 16:01:36
+57997,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,2.0 BlueHDi (145 Hp) EAT8,Internal Combustion engine,145,3750,Diesel,Van,3,2024,2025,4980,1920,1895-1904,1688-1957,2026-10-12 16:01:36
+57998,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,2.2 Diesel (150 Hp),Internal Combustion engine,150,3500,Diesel,Van,3,2025,,4980,1920,1895-1904,1759-1970,2026-10-12 16:01:36
+57999,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,2.2 Diesel (150 Hp) EAT8,Internal Combustion engine,150,3500,Diesel,Van,3,2025,,4980,1920,1895-1904,1796-2002,2026-10-12 16:23:33
+58000,Peugeot,Expert,Expert III M (facelift 2024) Panel Van,2024,e-Expert 49 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Van,3,2024,,4980,1920,1895-1904,1835-2057,2026-10-12 16:32:31
 5723,Triumph,1500,1500,1970,1.5 (62 Hp),Internal Combustion engine,62,,Petrol (Gasoline),Sedan,,1970,1974,,,,,2021-12-03 11:53:43
 5724,Triumph,1500,1500,1970,1.5 (66 Hp),Internal Combustion engine,66,,Petrol (Gasoline),Sedan,,1972,1974,,,,,2021-12-03 11:53:43
 5725,Triumph,1500,1500,1970,1.5 TC (72 Hp),Internal Combustion engine,72,,Petrol (Gasoline),Sedan,,1975,1977,,,,,2021-12-03 11:53:43
@@ -17964,8 +17971,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 40078,Porsche,911,911 Targa (992),2020,4S 3.0 (450 Hp),Internal Combustion engine,450,6500,Petrol (Gasoline),Targa,4,2020,2024,4519,1852,1301,1640,2024-05-29 09:37:23
 40079,Porsche,911,911 Targa (992),2020,4S 3.0 (450 Hp) PDK,Internal Combustion engine,450,6500,Petrol (Gasoline),Targa,4,2020,2024,4519,1852,1299,1675,2024-05-29 09:37:20
 40080,Porsche,911,911 Targa (992),2020,4 3.0 (385 Hp) PDK,Internal Combustion engine,385,6500,Petrol (Gasoline),Targa,4,2020,2024,4519,1852,1297,1665,2024-05-29 09:36:53
-44455,Porsche,911,911 Targa (992),2020,4 GTS 3.0 (480 Hp),Internal Combustion engine,480,6500,Petrol (Gasoline),Targa,4,2021,2024,4533,1852,1301,1650,2025-04-11 16:16:53
-44456,Porsche,911,911 Targa (992),2020,4 GTS 3.0 (480 Hp) PDK,Internal Combustion engine,480,6500,Petrol (Gasoline),Targa,4,2021,2024,4533,1852,1299,1685,2025-04-11 16:16:53
+44455,Porsche,911,911 Targa (992),2020,4 GTS 3.0 (480 Hp),Internal Combustion engine,480,6500,Petrol (Gasoline),Targa,4,2021,2024,4533,1852,1301,1650,2026-10-12 09:14:58
+44456,Porsche,911,911 Targa (992),2020,4 GTS 3.0 (480 Hp) PDK,Internal Combustion engine,480,6500,Petrol (Gasoline),Targa,4,2021,2024,4533,1852,1299,1685,2026-10-12 09:15:24
 37056,Porsche,911,911 Speedster (991 II),2020,4.0 (510 Hp),Internal Combustion engine,510,8400,Petrol (Gasoline),Roadster,2,2019,2020,4562,1852,1250,1465,2024-05-29 09:17:39
 35385,Porsche,911,911 Cabriolet (992),2019,Carrera S 3.0 (450 Hp) PDK,Internal Combustion engine,450,6500,Petrol (Gasoline),Cabriolet,4,2019,2024,4519,1852,1299,1585,2024-05-29 09:34:15
 35386,Porsche,911,911 Cabriolet (992),2019,Carrera 4S 3.0 (450 Hp) PDK,Internal Combustion engine,450,6500,Petrol (Gasoline),Cabriolet,4,2019,2024,4519,1852,1299,1635,2024-05-29 09:34:18
@@ -18165,7 +18172,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 6607,Porsche,911,911 (993),1995,Carrera 3.6 (272 Hp),Internal Combustion engine,272,6100,Petrol (Gasoline),Coupe,4,1994,1997,4260,1735,1315,1390,2022-09-28 12:17:28
 6608,Porsche,911,911 (993),1995,Carrera 3.6 (285 Hp),Internal Combustion engine,285,6100,Petrol (Gasoline),Coupe,4,1995,1997,4245,1735,1300,1370,2022-10-05 14:35:05
 6609,Porsche,911,911 (993),1995,Carrera 4 3.6 (272 Hp),Internal Combustion engine,272,6100,Petrol (Gasoline),Coupe,4,1995,1997,4245,1735,1300,1440,2022-09-28 12:17:27
-6611,Porsche,911,911 (993),1995,Turbo 3.6 (408 Hp),Internal Combustion engine,408,5750,Petrol (Gasoline),Coupe,4,1995,1998,4245,1795,1285,1500,2022-10-05 14:35:05
+6611,Porsche,911,911 (993),1995,Turbo 3.6 (408 Hp),Internal Combustion engine,408,5750,Petrol (Gasoline),Coupe,4,1995,1998,4245,1795,1285,1500,2026-10-12 09:36:12
 6612,Porsche,911,911 (993),1995,GT2 3.6 (430 Hp),Internal Combustion engine,430,5750,Petrol (Gasoline),Coupe,2,1995,1997,4245,1855,1270,1290,2022-10-05 14:35:05
 6613,Porsche,911,911 (993),1995,Carrera 4 3.6 (285 Hp),Internal Combustion engine,285,6100,Petrol (Gasoline),Coupe,4,1995,1997,4245,1735,1300,1420,2022-10-05 14:35:05
 6614,Porsche,911,911 (993),1995,Carrera RS 3.8 (300 Hp),Internal Combustion engine,300,6500,Petrol (Gasoline),Coupe,2,1995,1997,4245,1735,1270,1270,2022-10-05 14:35:05
@@ -18515,9 +18522,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52033,Porsche,Macan,Macan I (95B),2014,S 3.0 Diesel V6 (211 Hp) PDK,Internal Combustion engine,211,2750-4000,Diesel,SUV (Sport Utility Vehicle),5,2014,2018,4681,1923,1624,1880,2024-06-19 14:23:28
 52047,Porsche,Macan,Macan I (95B),2014,S 3.0 Diesel V6 (250 Hp) PDK,Internal Combustion engine,250,3500-4600,Diesel,SUV (Sport Utility Vehicle),5,2014,2018,4697,1923,1624,1880,2025-04-11 16:16:53
 52048,Porsche,Macan,Macan I (95B),2014,2.0 (237 Hp) PDK,Internal Combustion engine,237,5000-6800,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2014,2018,4681,1923,1624,1770-2025,2025-04-11 16:16:53
-37363,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2019,2020,4430,1801,1258,1420,2025-04-11 16:16:53
-41354,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp) PDK,Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2020,,4430,1801,1258,1450,2025-04-11 16:16:53
-41355,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2020,,4430,1801,1258,1420,2025-04-11 16:16:53
+37363,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2019,2020,4430,1801,1258,1420,2026-10-12 08:51:06
+41354,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp) PDK,Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2020,,4430,1801,1258,1450,2026-10-12 08:50:47
+41355,Porsche,718,718 Spyder (982),2020,4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Cabriolet,2,2020,,4430,1801,1258,1420,2026-10-12 08:50:21
 48554,Porsche,718,718 Spyder (982),2020,RS 4.0 (500 Hp) PDK,Internal Combustion engine,500,8400,Petrol (Gasoline),Cabriolet,2,2023,,4418,1822,1252,1410,2023-10-30 14:55:20
 23468,Porsche,718,718 Cayman (982),2017,2.0 (300 Hp),Internal Combustion engine,300,6500,Petrol (Gasoline),Coupe,2,2016,2018,4379,1801,1286,1335,2023-01-30 12:49:29
 23470,Porsche,718,718 Cayman (982),2017,S 2.5 (350 Hp) PDK,Internal Combustion engine,350,6500,Petrol (Gasoline),Coupe,2,2016,2018,4379,1801,1284,1385,2023-01-30 12:49:25
@@ -18535,8 +18542,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 37368,Porsche,718,718 Cayman (982),2017,S 2.5 (350 Hp),Internal Combustion engine,350,6500,Petrol (Gasoline),Coupe,2,2019,2020,4379,1801,1295,1355,2022-10-05 14:35:05
 37369,Porsche,718,718 Cayman (982),2017,S 2.5 (350 Hp) PDK,Internal Combustion engine,350,6500,Petrol (Gasoline),Coupe,2,2019,2020,4379,1801,1295,1385,2022-10-05 14:35:05
 38646,Porsche,718,718 Cayman (982),2017,GTS 4.0 (400 Hp),Internal Combustion engine,400,7000,Petrol (Gasoline),Coupe,2,2020,2020,4405,1801,1276,1405,2025-04-11 16:16:53
-41345,Porsche,718,718 Cayman (982),2017,GT4 4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Coupe,2,2020,,4456,1801,1269,1420,2025-04-11 16:16:53
-41383,Porsche,718,718 Cayman (982),2017,GT4 4.0 (420 Hp) PDK,Internal Combustion engine,420,7600,Petrol (Gasoline),Coupe,2,2020,,4456,1801,1269,1450,2025-04-11 16:16:53
+41345,Porsche,718,718 Cayman (982),2017,GT4 4.0 (420 Hp),Internal Combustion engine,420,7600,Petrol (Gasoline),Coupe,2,2020,,4456,1801,1269,1420,2026-10-12 08:52:54
+41383,Porsche,718,718 Cayman (982),2017,GT4 4.0 (420 Hp) PDK,Internal Combustion engine,420,7600,Petrol (Gasoline),Coupe,2,2020,,4456,1801,1269,1450,2026-10-12 08:53:21
 41384,Porsche,718,718 Cayman (982),2017,GTS 4.0 (400 Hp),Internal Combustion engine,400,7000,Petrol (Gasoline),Coupe,2,2020,,4405,1801,1276,1405,2025-04-11 16:16:53
 41385,Porsche,718,718 Cayman (982),2017,GTS 4.0 (400 Hp) PDK,Internal Combustion engine,400,7000,Petrol (Gasoline),Coupe,2,2020,,4405,1801,1276,1435,2025-04-11 16:16:53
 41386,Porsche,718,718 Cayman (982),2017,2.0 (300 Hp) PDK,Internal Combustion engine,300,6500,Petrol (Gasoline),Coupe,2,2020,,4379,1801,1286,1365,2022-10-05 14:35:05
@@ -18559,12 +18566,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 37361,Porsche,718,718 Boxster (982),2017,GTS 2.5 (365 Hp),Internal Combustion engine,365,6500,Petrol (Gasoline),Cabriolet,2,2018,2020,4379,1801,1272,1375,2022-10-05 14:35:05
 37362,Porsche,718,718 Boxster (982),2017,GTS 2.5 (365 Hp) PDK,Internal Combustion engine,365,6500,Petrol (Gasoline),Cabriolet,2,2018,2020,4379,1801,1272,1405,2022-10-05 14:35:05
 38647,Porsche,718,718 Boxster (982),2017,GTS 4.0 (400 Hp),Internal Combustion engine,400,7000,Petrol (Gasoline),Cabriolet,2,2020,2020,4391,1801,1262,1405,2025-04-11 16:16:53
-41344,Porsche,718,718 Boxster (982),2017,GTS 4.0 (400 Hp) PDK,Internal Combustion engine,400,7000,Petrol (Gasoline),Cabriolet,2,2020,,4391,1801,1262,1435,2022-09-28 11:17:17
+41344,Porsche,718,718 Boxster (982),2017,GTS 4.0 (400 Hp) PDK,Internal Combustion engine,400,7000,Petrol (Gasoline),Cabriolet,2,2020,,4391,1801,1262,1435,2026-10-12 08:55:10
 41356,Porsche,718,718 Boxster (982),2017,T 2.0 (300 Hp) PDK,Internal Combustion engine,300,6500,Petrol (Gasoline),Cabriolet,2,2020,,4379,1801,1264,1380,2022-10-05 14:35:05
 41390,Porsche,718,718 Boxster (982),2017,2.0 (300 Hp) PDK,Internal Combustion engine,300,6500,Petrol (Gasoline),Cabriolet,2,2020,,4379,1801,1281,1365,2022-10-05 14:35:05
 41391,Porsche,718,718 Boxster (982),2017,S 2.5 (350 Hp),Internal Combustion engine,350,6500,Petrol (Gasoline),Cabriolet,2,2020,,4379,1801,1280,1355,2022-10-05 14:35:05
 41392,Porsche,718,718 Boxster (982),2017,S 2.5 (350 Hp) PDK,Internal Combustion engine,350,6500,Petrol (Gasoline),Cabriolet,2,2020,,4379,1801,1280,1385,2022-10-05 14:35:05
-41393,Porsche,718,718 Boxster (982),2017,GTS 4.0 (400 Hp),Internal Combustion engine,400,7000,Petrol (Gasoline),Cabriolet,2,2020,,4391,1801,1262,1405,2022-09-28 11:17:18
+41393,Porsche,718,718 Boxster (982),2017,GTS 4.0 (400 Hp),Internal Combustion engine,400,7000,Petrol (Gasoline),Cabriolet,2,2020,,4391,1801,1262,1405,2026-10-12 08:54:38
 32824,Porsche,Mission E,Mission E Cross Turismo Concept,2018,(600 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Crossover",4,2018,2018,4948,1989,1420,,2022-11-03 20:39:26
 36845,Porsche,912,912E,1976,2.0 (86 Hp),Internal Combustion engine,86,4900,Petrol (Gasoline),Coupe,4,1976,1976,4291,1610,1340,1160,2022-09-28 12:50:01
 36846,Porsche,912,912,1965,1.6 (90 Hp),Internal Combustion engine,90,5800,Petrol (Gasoline),Coupe,4,1965,1969,4163,1610,1320,985,2022-09-28 11:42:27
@@ -19714,32 +19721,32 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 22160,Fiat,500L,500L,2012,1.6 MultiJetII (120 Hp),Internal Combustion engine,120,3750,Diesel,Hatchback,5,2014,2018,4147,1784,1665,1370,2024-03-25 14:39:29
 22161,Fiat,500L,500L,2012,0.9 TwinAir (80 Hp) Turbo Methane,Internal Combustion engine,80,5500,Petrol / CNG,Hatchback,5,2013,2018,4147,1784,1678,1390,2024-03-25 14:39:29
 22162,Fiat,500L,500L,2012,1.4 T-Jet (120 Hp) LPG,Internal Combustion engine,120,5000,Petrol / LPG,Hatchback,5,2014,2018,4147,1784,1665,1310,2024-03-25 14:39:29
-51429,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,1.5 Multijet (120 Hp) L2,Internal Combustion engine,120,3750,Diesel,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51430,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (145 Hp) L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51431,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (145 Hp) Automatic L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51432,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (177 Hp) Automatic L2,Internal Combustion engine,177,3750,Diesel,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51433,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,1.5 Multijet (120 Hp) L3,Internal Combustion engine,120,3750,Diesel,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51434,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (145 Hp) L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51435,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (145 Hp) Automatic L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51436,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,2.0 Multijet (177 Hp) Automatic L3,Internal Combustion engine,177,3750,Diesel,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51437,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,e-Scudo 50 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51438,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,e-Scudo 50 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51439,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,e-Scudo 75 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2023,,4983,1920,1895,,2024-03-28 16:25:27
-51440,Fiat,Scudo,Scudo III (facelift 2023) Panel Van,2024,e-Scudo 75 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2023,,5333,1920,1935,,2024-03-28 16:25:27
-51399,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 75 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2023,5309,1920,1935,2053,2024-03-28 10:07:52
-51400,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 50 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2023,5309,1920,1935,1902,2024-03-28 10:07:45
-51401,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 75 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2023,4959,1920,1881,2025,2024-03-28 10:07:50
-51402,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 50 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2023,4959,1920,1881,1874,2024-03-28 10:07:43
-51403,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L1,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2023,4609,1920,1892,1541,2024-03-26 16:21:22
-51404,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L2,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2023,4959,1920,1881,1586,2024-03-26 16:21:22
-51405,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L3,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2023,5309,1920,1935,1670,2024-03-26 16:21:22
-51406,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (120 Hp) L2,Internal Combustion engine,120,3500,Diesel,Van,2-3,2021,2023,4959,1920,1881,1587,2024-03-26 16:21:22
-51407,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2023,4959,1920,1881,1653,2024-03-28 11:28:44
-51408,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) Automatic L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2023,4959,1920,1881,1687,2024-03-26 16:21:22
-51409,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2023,5309,1920,1935,1707,2024-03-28 11:28:59
-51410,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) Automatic L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2023,5309,1920,1935,1721,2024-03-26 16:21:22
-51411,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (177 Hp) Automatic L2,Internal Combustion engine,177,3750,Diesel,Van,2-3,2021,2023,4959,1920,1881,1702,2024-03-26 16:21:22
-51412,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (177 Hp) Automatic L3,Internal Combustion engine,177,3750,Diesel,Van,2-3,2021,2023,5309,1920,1935,1721,2024-03-26 16:21:22
+51429,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,1.5 Multijet (120 Hp) L2,Internal Combustion engine,120,3750,Diesel,Van,2-3,2024,,4983,1920,1895,,2026-10-12 13:24:05
+51430,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (145 Hp) L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2024,,4983,1920,1895,,2026-10-12 13:54:50
+51431,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (145 Hp) Automatic L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2024,,4983,1920,1895,,2026-10-12 13:54:51
+51432,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (177 Hp) Automatic L2,Internal Combustion engine,177,3750,Diesel,Van,2-3,2024,,4983,1920,1895,,2026-10-12 13:54:50
+51433,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,1.5 Multijet (120 Hp) L3,Internal Combustion engine,120,3750,Diesel,Van,2-3,2024,,5333,1920,1935,,2026-10-12 13:24:04
+51434,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (145 Hp) L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2024,,5333,1920,1935,,2026-10-12 13:54:50
+51435,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (145 Hp) Automatic L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2024,,5333,1920,1935,,2026-10-12 13:54:51
+51436,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,2.0 Multijet (177 Hp) Automatic L3,Internal Combustion engine,177,3750,Diesel,Van,2-3,2024,,5333,1920,1935,,2026-10-12 13:54:50
+51437,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,e-Scudo 50 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2024,,4983,1920,1895,,2026-10-12 08:27:55
+51438,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,e-Scudo 50 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2024,,5333,1920,1935,,2026-10-12 08:27:55
+51439,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,e-Scudo 75 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2024,,4983,1920,1895,,2026-10-12 08:27:56
+51440,Fiat,Scudo,Scudo III (facelift 2024) Panel Van,2024,e-Scudo 75 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2024,,5333,1920,1935,,2026-10-12 08:27:56
+51399,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 75 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2024,5309,1920,1935,2053,2026-10-12 08:28:36
+51400,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 50 kWh (136 Hp) L3,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2024,5309,1920,1935,1902,2026-10-12 08:28:35
+51401,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 75 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2024,4959,1920,1881,2025,2026-10-12 08:28:36
+51402,Fiat,Scudo,Scudo III Panel Van,2022,e-Scudo 50 kWh (136 Hp) L2,BEV (Electric Vehicle),,,Electricity,Van,2-3,2021,2024,4959,1920,1881,1874,2026-10-12 08:28:35
+51403,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L1,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2024,4609,1920,1892,1541,2026-10-12 13:23:59
+51404,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L2,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2024,4959,1920,1881,1586,2026-10-12 13:23:59
+51405,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (102 Hp) L3,Internal Combustion engine,102,3500,Diesel,Van,2-3,2021,2024,5309,1920,1935,1670,2026-10-12 13:23:58
+51406,Fiat,Scudo,Scudo III Panel Van,2022,1.5 Multijet (120 Hp) L2,Internal Combustion engine,120,3500,Diesel,Van,2-3,2021,2024,4959,1920,1881,1587,2026-10-12 13:23:58
+51407,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2024,4959,1920,1881,1653,2026-10-12 13:55:00
+51408,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) Automatic L2,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2024,4959,1920,1881,1687,2026-10-12 13:55:01
+51409,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2024,5309,1920,1935,1707,2026-10-12 13:54:59
+51410,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (145 Hp) Automatic L3,Internal Combustion engine,145,3750,Diesel,Van,2-3,2021,2024,5309,1920,1935,1721,2026-10-12 13:55:00
+51411,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (177 Hp) Automatic L2,Internal Combustion engine,177,3750,Diesel,Van,2-3,2021,2024,4959,1920,1881,1702,2026-10-12 13:54:59
+51412,Fiat,Scudo,Scudo III Panel Van,2022,2.0 Multijet (177 Hp) Automatic L3,Internal Combustion engine,177,3750,Diesel,Van,2-3,2021,2024,5309,1920,1935,1721,2026-10-12 13:54:58
 53069,Fiat,Fastback,Fastback,2023,1.0 T200 (120 Hp) CVT,Internal Combustion engine,120,5750,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4427,1774,1545,1250-1261,2024-11-04 08:11:09
 53070,Fiat,Fastback,Fastback,2023,1.0 T200 (125/130 Hp) Flex CVT,Internal Combustion engine,125,5750,Petrol / Ethanol - E100,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4427,1774,1545,1253-1262,2025-08-21 08:11:23
 53071,Fiat,Fastback,Fastback,2023,1.3 T270 (175 Hp) Automatic,Internal Combustion engine,175,5750,Petrol (Gasoline),"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4427,1774,1547,1301,2024-11-04 08:11:09
@@ -21331,8 +21338,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54012,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab Long (facelift 2023),2024,5.0 V8 (400 Hp) SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,3,2023,,5794,2029,1905,2075,2025-04-11 16:16:53
 54013,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab Long (facelift 2023),2024,3.5 EcoBoost V6 (400 Hp) SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,3,2023,,5794,2029,1905,2089,2025-04-11 16:16:53
 54014,Ford,F-Series F-100/F-150,F-Series F-150 XIV Regular Cab Long (facelift 2023),2024,3.5 EcoBoost V6 (400 Hp) 4x4 SelectShift,Internal Combustion engine,400,6000,Petrol (Gasoline),Pick-up,3,2023,,5794,2029,1948,2208,2025-04-11 16:16:53
-43586,Ford,F-Series F-100/F-150,F-Series F-150 Lightning XIV SuperCrew,2022,Standard Range 98 kWh (426 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2021,,5911,2032,2004,,2026-09-23 13:59:28
-43587,Ford,F-Series F-100/F-150,F-Series F-150 Lightning XIV SuperCrew,2022,Extended Range 131 kWh (563 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2021,,5911,2032,2004,,2026-09-23 13:59:28
+43586,Ford,F-Series F-100/F-150,F-Series F-150 Lightning XIV SuperCrew,2022,Standard Range 98 kWh (426 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2021,,5911,2032,2004,,2026-10-12 09:08:21
+43587,Ford,F-Series F-100/F-150,F-Series F-150 Lightning XIV SuperCrew,2022,Extended Range 131 kWh (563 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2021,,5911,2032,2004,,2026-10-12 09:08:48
 46155,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCrew,2021,Raptor R 5.2 V8 (700 Hp) 4x4 Automatic,Internal Combustion engine,700,6650,Petrol (Gasoline),Pick-up,5,2022,2023,5908,2210,2047,,2026-03-24 08:45:28
 43039,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCrew,2021,5.0 Ti-VCT V8 (400 Hp) FFV 4x4 Automatic,Internal Combustion engine,400,6000,Petrol / Ethanol - E85,Pick-up,5-6,2020,2023,5885,2029,1961-1971,2228-2274,2025-03-25 16:16:47
 43058,Ford,F-Series F-100/F-150,F-Series F-150 XIV SuperCrew,2021,3.3 Ti-VCT V6 (290 Hp) FFV Automatic,Internal Combustion engine,290,6500,Petrol / Ethanol - E85,Pick-up,5-6,2020,2023,5885,2029,1920,2025,2025-03-25 16:16:49
@@ -21827,7 +21834,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51178,Ford,Puma,Puma (facelift 2024),2024,1.0 EcoBoost (125 Hp) Mild Hybrid Powershift,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",125,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2024,,4186,,1550,1293,2024-02-08 16:25:13
 51180,Ford,Puma,Puma (facelift 2024),2024,1.0 EcoBoost (155 Hp) Mild Hybrid Powershift,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",155,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2024,,4186,,1550,1293,2024-02-08 16:25:13
 51181,Ford,Puma,Puma (facelift 2024),2024,ST 1.0 EcoBoost (170 Hp) Mild Hybrid Powershift,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",170,5750,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2024,,4226,,1533,1315,2024-02-08 16:25:13
-53351,Ford,Puma,Puma (facelift 2024),2024,Gen-E 43 kWh (168 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,2026,4214,1805,1555,1488,2026-03-05 14:54:11
+53351,Ford,Puma,Puma (facelift 2024),2024,Gen-E 43 kWh (168 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,2026,4214,1805,1555,1488,2026-10-12 12:28:39
 56625,Ford,Puma,Puma (facelift 2024),2024,Gen-E 46.8 kWh (168 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4214,,1555,1488,2026-03-05 16:08:19
 37753,Ford,Puma,Puma,2020,1.0 EcoBoost (125 Hp),Internal Combustion engine,125,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2019,2020,4186,1805,1536,1205,2022-11-16 10:41:58
 37755,Ford,Puma,Puma,2020,1.0 EcoBoost (125 Hp) Mild Hybrid,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",125,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2019,2020,4207,1805,1537,1205,2023-10-16 10:54:42
@@ -23601,9 +23608,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 47015,Lotus,Eletre,Eletre,2022,R 112 kWh (905 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,5103,,1636,,2025-04-11 12:24:32
 57220,Lotus,Eletre,Eletre,2022,X H550 2.0L (550 Hp) Plug-in Hybrid AWD,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2026,,5103,2019,1636,2550,2026-06-10 14:14:06
 57221,Lotus,Eletre,Eletre,2022,X H1000 2.0L (952 Hp) Plug-in Hybrid AWD,PHEV (Plug-in Hybrid Electric Vehicle),,,Petrol / electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2026,,5103,2019,1636,2615,2026-06-10 14:14:06
-52136,Lotus,Emeya,Emeya,2024,102 kWh (612 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2490,2024-07-02 16:16:17
-52137,Lotus,Emeya,Emeya,2024,S 102 kWh (612 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2490,2024-07-02 16:16:17
-52138,Lotus,Emeya,Emeya,2024,R 102 kWh (918 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2590,2024-07-02 16:16:17
+52136,Lotus,Emeya,Emeya,2024,102 kWh (612 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2490,2026-10-12 12:09:49
+52137,Lotus,Emeya,Emeya,2024,S 102 kWh (612 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2490,2026-10-12 12:10:16
+52138,Lotus,Emeya,Emeya,2024,R 102 kWh (918 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5139,,1459,2590,2026-10-12 12:10:02
 52782,Lotus,Theory 1,Theory 1,2024,70 kWh (1000 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,Coupe,2,2024,,4490,2000,1140,1600,2024-09-20 16:16:42
 8328,PUCH,G-modell,G-modell (W 461),1992,230 GE (125 Hp),Internal Combustion engine,125,,Petrol (Gasoline),Off-road,,1992,2001,,,,,2023-08-11 10:40:12
 8329,PUCH,G-modell,G-modell (W 461),1992,290 GD/G 290 D (95 Hp),Internal Combustion engine,95,,Diesel,Off-road,,1992,1997,,,,,2023-08-22 15:58:14
@@ -26583,10 +26590,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 43172,Volkswagen,ID.6,ID.6 CROZZ,2022,62 kWh (204 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2021,,4876,1848,1680,2280,2023-02-17 13:25:23
 43175,Volkswagen,ID.6,ID.6 CROZZ,2022,82 kWh (204 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2021,,4876,1848,1680,2280,2023-02-17 13:25:23
 43176,Volkswagen,ID.6,ID.6 CROZZ,2022,82 kWh (306 Hp) 4MOTION,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2021,,4876,1848,1680,2280,2023-02-17 13:25:23
-43522,Volkswagen,Brasilia,Brasilia (3-door),1973,1.6 (65 Hp),Internal Combustion engine,65,4600,Petrol (Gasoline),Hatchback,5,1973,1982,4013,1606,1438,890,2022-09-07 12:50:28
-43523,Volkswagen,Brasilia,Brasilia (3-door),1973,1.6 (58 Hp),Internal Combustion engine,58,4400,Petrol (Gasoline),Hatchback,5,1973,1982,4013,1606,1438,890,2022-09-07 12:50:28
-43524,Volkswagen,Brasilia,Brasilia (5-door),1973,1.6 (65 Hp),Internal Combustion engine,65,4600,Petrol (Gasoline),Hatchback,5,1973,1982,4040,1606,1438,900,2022-09-07 12:50:28
-43525,Volkswagen,Brasilia,Brasilia (5-door),1973,1.6 (58 Hp),Internal Combustion engine,58,4400,Petrol (Gasoline),Hatchback,5,1973,1982,4040,1606,1438,900,2022-09-07 12:50:28
+43522,Volkswagen,Brasilia,Brasilia (3-door),1973,1.6 (65 Hp),Internal Combustion engine,65,4600,Petrol (Gasoline),Hatchback,5,1973,1982,4013,1606,1438,890,2026-10-12 09:05:52
+43523,Volkswagen,Brasilia,Brasilia (3-door),1973,1.6 (58 Hp),Internal Combustion engine,58,4400,Petrol (Gasoline),Hatchback,5,1973,1982,4013,1606,1438,890,2026-10-12 09:06:14
+43524,Volkswagen,Brasilia,Brasilia (5-door),1973,1.6 (65 Hp),Internal Combustion engine,65,4600,Petrol (Gasoline),Hatchback,5,1973,1982,4040,1606,1438,900,2026-10-12 09:06:58
+43525,Volkswagen,Brasilia,Brasilia (5-door),1973,1.6 (58 Hp),Internal Combustion engine,58,4400,Petrol (Gasoline),Hatchback,5,1973,1982,4040,1606,1438,900,2026-10-12 09:06:43
 45579,Volkswagen,Karmann Ghia,Karmann Ghia (Type 14),1955,1.2 (36 Hp),Internal Combustion engine,36,3700,Petrol (Gasoline),Coupe,4,1960,1965,4140,1634,1325,780,2022-09-07 12:50:28
 45580,Volkswagen,Karmann Ghia,Karmann Ghia (Type 14),1955,1.2 (30 Hp),Internal Combustion engine,30,3400,Petrol (Gasoline),Coupe,4,1955,1960,4140,1634,1330,810,2022-09-07 12:50:28
 45581,Volkswagen,Karmann Ghia,Karmann Ghia (Type 14),1955,1.5 (53 Hp),Internal Combustion engine,53,4200,Petrol (Gasoline),Coupe,4,1966,1970,4140,1633,1331,870,2022-09-07 12:50:28
@@ -28864,11 +28871,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 40925,Volvo,XC40,XC40,2018,2.0 B5 (250 Hp) Mild Hybrid AWD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",250,5400-5700,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2020,2022,4425,1863,1652,,2025-04-11 12:24:32
 40926,Volvo,XC40,XC40,2018,1.5 Recharge Plug-in Hybrid T4 (211 Hp) DCTH,PHEV (Plug-in Hybrid Electric Vehicle),129,5000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2020,2022,4425,1863,1652,1737,2026-09-23 08:58:50
 45285,Volvo,XC40,XC40,2018,Recharge Pure Electric 69 kWh (231 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2022,4425,1863,1647,1955,2026-09-23 13:53:37
-42724,Volvo,C40,C40 Recharge,2022,78 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,2022,4431,1850,1582,2185,2026-09-23 13:59:28
-45486,Volvo,C40,C40 Recharge,2022,69 kWh (231 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,2022,4440,1873,1591,2045,2026-09-23 13:59:28
-47261,Volvo,C40,C40 Recharge,2022,69 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,1977,2026-09-23 13:53:37
-47262,Volvo,C40,C40 Recharge,2022,Extended Range 82 kWh (252 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,2021,2026-09-23 13:53:37
-47263,Volvo,C40,C40 Recharge,2022,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,2110,2026-09-23 13:53:37
+42724,Volvo,C40,C40 Recharge,2022,78 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,2022,4431,1850,1582,2185,2026-10-12 09:02:34
+45486,Volvo,C40,C40 Recharge,2022,69 kWh (231 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,2022,4440,1873,1591,2045,2026-10-12 09:25:20
+47261,Volvo,C40,C40 Recharge,2022,69 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,1977,2026-10-12 10:06:29
+47262,Volvo,C40,C40 Recharge,2022,Extended Range 82 kWh (252 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,2021,2026-10-12 10:07:18
+47263,Volvo,C40,C40 Recharge,2022,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2022,,4440,1873,1591,2110,2026-10-12 10:06:58
 43132,Volvo,1800,1800E,1970,2.0 (130 Hp),Internal Combustion engine,130,5800,Petrol (Gasoline),Coupe,4,1969,1970,4400,1700,1285,1130,2023-07-31 14:54:03
 43129,Volvo,1800,1800S,1963,1.8 (108 Hp),Internal Combustion engine,108,5800,Petrol (Gasoline),Coupe,4,1963,1965,4400,1700,1285,1120,2023-07-31 14:54:03
 43130,Volvo,1800,1800S,1963,1.8 (115 Hp),Internal Combustion engine,115,6000,Petrol (Gasoline),Coupe,4,1965,1968,4400,1700,1285,1190,2023-07-31 14:54:03
@@ -28891,18 +28898,18 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57822,Volvo,EX40,EX40 (facelift 2026),2027,P5 82 kWh (252 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4440,1873,1651,2001,2026-09-11 16:24:45
 57823,Volvo,EX40,EX40 (facelift 2026),2027,P8 82 kWh (408 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4440,1873,1651,2092,2026-09-11 16:24:45
 57824,Volvo,EX40,EX40 (facelift 2026),2027,P8 82 kWh (442 Hp) AWD Performance,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4440,1873,1651,2092,2026-09-11 16:43:17
-51444,Volvo,EX40,EX40,2024,70 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2021,2026-09-15 14:24:26
-51445,Volvo,EX40,EX40,2024,82 kWh (252 Hp) Single Motor Extended Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2075,2026-09-15 14:24:24
-51446,Volvo,EX40,EX40,2024,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2170,2026-09-15 14:24:24
-51447,Volvo,EX40,EX40,2024,82 kWh (442 Hp) AWD Twin Motor Performance,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2184,2026-09-15 14:24:24
+51444,Volvo,EX40,EX40,2024,70 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2021,2026-10-12 11:17:54
+51445,Volvo,EX40,EX40,2024,82 kWh (252 Hp) Single Motor Extended Range,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2075,2026-10-12 11:18:26
+51446,Volvo,EX40,EX40,2024,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2170,2026-10-12 11:18:40
+51447,Volvo,EX40,EX40,2024,82 kWh (442 Hp) AWD Twin Motor Performance,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2026,4440,1873,1657,2184,2026-10-12 11:19:05
 57827,Volvo,EC40,EC40 (facelift 2026),2027,P5 70 kWh (238 Hp),BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2026,,4440,1873,1591,1977,2026-09-23 08:16:59
 57828,Volvo,EC40,EC40 (facelift 2026),2027,P5 82 kWh (252 Hp) Long Range,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2026,,4440,1873,1591,2021,2026-09-23 08:17:13
 57829,Volvo,EC40,EC40 (facelift 2026),2027,P8 82 kWh (408 Hp) AWD,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2026,,4440,1873,1591,2110,2026-09-23 08:17:24
 57830,Volvo,EC40,EC40 (facelift 2026),2027,P8 82 kWh (442 Hp) AWD Performance,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2026,,4440,1873,1591,2110,2026-09-23 08:17:34
-51448,Volvo,EC40,EC40,2024,70 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2057,2026-09-15 14:24:18
-51449,Volvo,EC40,EC40,2024,82 kWh (252 Hp) Single Motor Extended Range,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2095,2026-09-15 14:24:17
-51450,Volvo,EC40,EC40,2024,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2185,2026-09-15 14:24:17
-51451,Volvo,EC40,EC40,2024,82 kWh (442 Hp) AWD Twin Motor Performance,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2191,2026-09-15 14:24:17
+51448,Volvo,EC40,EC40,2024,70 kWh (238 Hp) Single Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2057,2026-10-12 11:16:15
+51449,Volvo,EC40,EC40,2024,82 kWh (252 Hp) Single Motor Extended Range,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2095,2026-10-12 11:16:32
+51450,Volvo,EC40,EC40,2024,82 kWh (408 Hp) AWD Twin Motor,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2185,2026-10-12 11:16:46
+51451,Volvo,EC40,EC40,2024,82 kWh (442 Hp) AWD Twin Motor Performance,BEV (Electric Vehicle),,,Electricity,"Coupe, Crossover",5,2024,2026,4440,1873,1596,2191,2026-10-12 11:17:01
 51571,Volvo,EM90,EM90,2024,116 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),6,2024,,5206,2024,1859,,2024-04-15 16:30:17
 53822,Volvo,ES90,ES90 (V551),2026,92 kWh (333 Hp) Single Motor Extended Range,BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,5000,1942,1547,1991-2048,2025-04-11 12:24:32
 53823,Volvo,ES90,ES90 (V551),2026,106 kWh (449 Hp) Twin Motor,BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,5000,1942,1546-1553,2127-2132,2025-04-11 12:24:32
@@ -31968,9 +31975,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52387,Geely,Galaxy E5,Galaxy E5,2024,49.52 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4615,1901,1670,1615-1630,2025-04-11 12:24:32
 52388,Geely,Galaxy E5,Galaxy E5,2024,60.22 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4615,1901,1670,1655-1740,2025-04-11 12:24:32
 55553,Geely,Galaxy E5,Galaxy E5,2024,68.39 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4615,1901,1670,1730-1778,2025-10-15 14:21:16
-52489,Geely,Galaxy E8,Galaxy E8,2024,62 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,1905,2025-08-22 12:39:12
-52490,Geely,Galaxy E8,Galaxy E8,2024,76 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,2030,2025-08-22 12:39:37
-52491,Geely,Galaxy E8,Galaxy E8,2024,75.6 kWh (646 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,2150,2025-08-22 12:39:24
+52489,Geely,Galaxy E8,Galaxy E8,2024,62 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,1905,2026-10-12 12:19:03
+52490,Geely,Galaxy E8,Galaxy E8,2024,76 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,2030,2026-10-12 12:19:26
+52491,Geely,Galaxy E8,Galaxy E8,2024,75.6 kWh (646 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,5010,1920,1465,2150,2026-10-12 12:19:50
 52971,Geely,Starray,Starray,2024,1.5T (174 Hp) DCT,Internal Combustion engine,174,,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4670,1900,1705,1571,2024-10-17 16:06:10
 52972,Geely,Starray,Starray,2024,2.0T (218 Hp) DCT,Internal Combustion engine,218,,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2024,,4670,1900,1705,1645,2025-04-11 16:16:53
 56632,Geely,Starray,Starray,2024,2.0T (238 Hp) AWD Automatic,Internal Combustion engine,238,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4670,1900,1705,,2026-03-06 16:06:06
@@ -31986,8 +31993,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54336,Geely,X3,X3,2018,1.5L (102 Hp) Automatic,Internal Combustion engine,102,6000,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2017,2021,4005,1760,1575,1206,2025-05-20 16:20:19
 54337,Geely,X3,X3,2018,1.5L (109 Hp),Internal Combustion engine,109,6000,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2019,2021,4005,1760,1575,1180,2025-05-20 16:20:19
 54338,Geely,X3,X3,2018,1.5L (109 Hp) CVT,Internal Combustion engine,109,6000,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2019,2021,4005,1760,1575,1215,2025-05-20 16:20:19
-54851,Geely,Xingyuan,Xingyuan,2025,30.12 kWh (79 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-07-14 15:21:49
-54852,Geely,Xingyuan,Xingyuan,2025,40.16 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-07-14 15:22:16
+54851,Geely,Xingyuan,Xingyuan,2025,30.12 kWh (79 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-10-12 15:03:20
+54852,Geely,Xingyuan,Xingyuan,2025,40.16 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1570,,2026-10-12 15:03:36
 57478,Geely,Xingyuan,Xingyuan,2025,47.14 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1570,,2026-09-23 08:52:14
 55298,Geely,Galaxy Wing L380,Galaxy Wing L380,2025,100 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,6,2025,,5316,1998,1940,2805,2025-09-05 16:24:42
 55299,Geely,Galaxy Wing L380,Galaxy Wing L380,2025,116 kWh (544 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Minivan,6-8,2025,,5316,1998,1920,3100,2025-09-05 16:24:42
@@ -32119,13 +32126,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 53388,Mahindra,XUV300,XUV300,2019,1.5 CRDi (117 Hp) AutoSHIFT,Internal Combustion engine,117,3750,Diesel,SUV (Sport Utility Vehicle),5,2019,2024,3995,1821,1627,,2024-12-05 16:20:47
 53419,Mahindra,XUV400,XUV400,2024,34.5 kWh (150 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4200,1821,1634,,2026-09-23 08:52:14
 53420,Mahindra,XUV400,XUV400,2024,39.4 kWh (150 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4200,1821,1634,,2026-09-23 08:52:14
-53421,Mahindra,BE 6e,BE 6e,2025,59 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4371,1907,1627,,2024-12-06 16:16:08
-53422,Mahindra,BE 6e,BE 6e,2025,79 kWh (286 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4371,1907,1627,,2024-12-06 16:16:08
-53423,Mahindra,XEV 9e,XEV 9e,2025,59 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4789,1907,1694,,2024-12-06 16:16:08
-53424,Mahindra,XEV 9e,XEV 9e,2025,79 kWh (286 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4789,1907,1694,,2024-12-06 16:16:08
+53421,Mahindra,BE 6e,BE 6e,2025,59 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4371,1907,1627,,2026-10-12 12:30:05
+53422,Mahindra,BE 6e,BE 6e,2025,79 kWh (286 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4371,1907,1627,,2026-10-12 12:30:19
+53423,Mahindra,XEV 9e,XEV 9e,2025,59 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4789,1907,1694,,2026-10-12 12:32:29
+53424,Mahindra,XEV 9e,XEV 9e,2025,79 kWh (286 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2024,,4789,1907,1694,,2026-10-12 12:32:49
 10144,Qvale,Mangusta,Mangusta,1999,4.6 i V8 32V (322 Hp),Internal Combustion engine,322,6000,Petrol (Gasoline),Cabriolet,2,1999,2002,4190,1900,1270,1400,2023-08-11 09:15:35
-10145,VW-Porsche,914,914,1969,2.0 (110 Hp),Internal Combustion engine,110,5800,Petrol (Gasoline),Roadster,2,1969,1973,3985,1650,1200,940,2022-10-11 12:10:53
-10146,VW-Porsche,914,914,1969,1.7 (80 Hp),Internal Combustion engine,80,4900,Petrol (Gasoline),Roadster,2,1969,1973,3985,1650,1230,900,2022-10-11 12:10:53
+10145,VW-Porsche,914,914,1969,2.0 (110 Hp),Internal Combustion engine,110,5800,Petrol (Gasoline),Roadster,2,1969,1973,3985,1650,1200,940,2026-10-12 09:21:54
+10146,VW-Porsche,914,914,1969,1.7 (80 Hp),Internal Combustion engine,80,4900,Petrol (Gasoline),Roadster,2,1969,1973,3985,1650,1230,900,2026-10-12 09:22:38
 10147,VW-Porsche,914,914,1969,1.8 (86 Hp),Internal Combustion engine,86,5000,Petrol (Gasoline),Roadster,2,1974,1976,4114,1650,1230,965,2022-10-11 12:10:53
 10148,VW-Porsche,914,914,1969,2.0 (100 Hp),Internal Combustion engine,100,5000,Petrol (Gasoline),Roadster,2,1973,1976,3985,1650,1230,950,2022-10-11 12:10:53
 10149,Brilliance,A1,A1,2008,1.6i (107 Hp),Internal Combustion engine,107,6200,Petrol (Gasoline),Hatchback,5,2008,,4180,1755,1460,,2023-08-10 09:37:28
@@ -35675,8 +35682,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45643,BYD,T3,T3,2021,Van 45 kWh (95 Hp) BEV 2 Seat,BEV (Electric Vehicle),,,Electricity,Minivan,2,2021,,4460,1720,1875,1610,2022-11-03 20:39:27
 54526,BYD,Han,Han L,2025,DM-i 1.5Ti (272 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,Sedan,5,2025,,5050,1960,1505,,2026-09-23 08:52:14
 54527,BYD,Han,Han L,2025,DM-p 1.5Ti (544 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,Sedan,5,2025,,5050,1960,1505,,2026-09-23 08:52:14
-54528,BYD,Han,Han L,2025,83.2 kWh (680 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,5050,1960,1505,,2025-06-10 16:25:01
-54529,BYD,Han,Han L,2025,83.2 kWh (1102 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,5050,1960,1505,,2025-06-10 16:31:49
+54528,BYD,Han,Han L,2025,83.2 kWh (680 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,5050,1960,1505,,2026-10-12 14:58:56
+54529,BYD,Han,Han L,2025,83.2 kWh (1102 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,5050,1960,1505,,2026-10-12 14:58:36
 45657,BYD,Han,Han (facelift 2022),2022,DM-i 1.5Ti (197 Hp) Plug-in Hybrid CVT,PHEV (Plug-in Hybrid Electric Vehicle),139,,Petrol / electricity,Sedan,5,2022,2024,4975,1910,1495,,2025-04-11 12:24:32
 45658,BYD,Han,Han (facelift 2022),2022,DM-i 1.5Ti (218 Hp) Plug-in Hybrid CVT,PHEV (Plug-in Hybrid Electric Vehicle),139,,Petrol / electricity,Sedan,5,2022,2023,4975,1910,1495,,2025-04-11 12:24:32
 45659,BYD,Han,Han (facelift 2022),2022,DM-p 1.5Ti (579 Hp) Plug-in Hybrid AWD CVT,PHEV (Plug-in Hybrid Electric Vehicle),139,,Petrol / electricity,Sedan,5,2022,2023,4975,1910,1495,,2025-04-11 12:24:32
@@ -35694,8 +35701,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45649,BYD,Yuan,Yuan EV,2020,53.2 kWh (94 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2020,2021,4360,1785,1680,1580,2025-02-05 11:40:21
 54537,BYD,Tang,Tang L,2025,DM-i 1.5Ti (272 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760,,2025-06-11 14:18:03
 54538,BYD,Tang,Tang L,2025,DM-p 1.5Ti (544 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),156,,Petrol / electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760-1970,,2025-06-11 14:18:03
-54539,BYD,Tang,Tang L,2025,100.5 kWh (680 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760,,2025-06-11 14:18:03
-54540,BYD,Tang,Tang L,2025,100.5 kWh (1102 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760,,2025-06-11 14:18:03
+54539,BYD,Tang,Tang L,2025,100.5 kWh (680 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760,,2026-10-12 14:59:47
+54540,BYD,Tang,Tang L,2025,100.5 kWh (1102 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",7,2025,,5040,1996,1760,,2026-10-12 15:00:04
 45669,BYD,Tang,Tang II (facelift 2021),2021,DM 2.0TI (437 Hp) Plug-in Hybrid AWD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),192,,Petrol / electricity,"SUV (Sport Utility Vehicle), Crossover",6-7,2021,2022,4870,1950,1725,,2025-04-11 12:24:32
 45670,BYD,Tang,Tang II (facelift 2021),2021,DM 2.0TI (586 Hp) Plug-in Hybrid AWD Genesis Automatic,PHEV (Plug-in Hybrid Electric Vehicle),192,,Petrol / electricity,"SUV (Sport Utility Vehicle), Crossover",6-7,2021,2022,4870,1950,1725,,2025-04-11 12:24:32
 45672,BYD,Tang,Tang II (facelift 2021),2021,DM-i 1.5Ti (197 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),139,,Petrol / electricity,"SUV (Sport Utility Vehicle), Crossover",6-7,2021,2024,4870,1950,1725,,2025-06-11 09:50:50
@@ -35773,8 +35780,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 52779,BYD,Seal,Seal,2022,Standard Range 61.44 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,2026,4800,1875,1460,1950,2026-09-23 08:52:14
 52780,BYD,Seal,Seal,2022,Long Range 80.64 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,2026,4800,1875,1460,2080,2026-09-23 08:52:14
 52781,BYD,Seal,Seal,2022,Long Range 80.64 kWh (530 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2024,2026,4800,1875,1460,2210,2026-09-23 08:52:14
-54168,BYD,Seal,Seal,2022,Design 82.5 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,2026,4800,1875,1460,2055,2026-04-16 11:26:29
-54166,BYD,Seal,Seal,2022,Excellence 82.5 kWh (530 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,2026,4800,1875,1460,2185,2026-04-16 11:26:22
+54168,BYD,Seal,Seal,2022,Design 82.5 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,2026,4800,1875,1460,2055,2026-10-12 14:05:29
+54166,BYD,Seal,Seal,2022,Excellence 82.5 kWh (530 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,2026,4800,1875,1460,2185,2026-10-12 14:06:03
 54200,BYD,Seagull,Seagull (facelift 2025),2025,38.88 kWh (75 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,3780,1715,1540,,2026-09-23 08:52:14
 54199,BYD,Seagull,Seagull (facelift 2025),2025,30.08 kWh (75 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2025,,3780,1715,1540,,2026-09-23 08:52:14
 48452,BYD,Seagull,Seagull,2023,38.88 kWh (75 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2023,2025,3780,1715,1540,,2026-09-23 08:52:14
@@ -35818,15 +35825,15 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56994,BYD,Sea Lion 05,Sea Lion 05 II,2026,DM-i 1.5L 34.28 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4620,1860,1630,1780,2026-09-23 08:52:14
 52969,BYD,Sea Lion 05,Sea Lion 05 I,2024,DM-i 1.5L 12.9 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2026,4710,1880,1720,,2026-09-23 08:52:14
 52970,BYD,Sea Lion 05,Sea Lion 05 I,2024,DM-i 1.5L 18.3 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2026,4710,1880,1720,,2026-09-23 08:52:14
-54138,BYD,Sea Lion 05,Sea Lion 05 I,2024,50.05 kWh (190 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,2026,4520,1860,1630,1670,2026-09-23 08:52:14
-54139,BYD,Sea Lion 05,Sea Lion 05 I,2024,60.9 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,2026,4520,1860,1630,1780,2026-09-23 08:52:14
+54138,BYD,Sea Lion 05,Sea Lion 05 I,2024,50.05 kWh (190 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,2026,4520,1860,1630,1670,2026-10-12 14:01:58
+54139,BYD,Sea Lion 05,Sea Lion 05 I,2024,60.9 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,2026,4520,1860,1630,1780,2026-10-12 14:02:13
 53083,BYD,eMax 7,eMax 7,2024,55.4 kWh (163 Hp) Electric 6 Seat,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),6,2024,,4710,1810,1690,1780,2026-09-23 08:52:14
 53084,BYD,eMax 7,eMax 7,2024,55.4 kWh (163 Hp) Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),7,2024,,4710,1810,1690,1800,2026-09-23 08:52:14
 53085,BYD,eMax 7,eMax 7,2024,71.8 kWh (204 Hp) Electric 6 Seat,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),6,2024,,4710,1810,1690,1895,2026-09-23 08:52:14
 53086,BYD,eMax 7,eMax 7,2024,71.8 kWh (204 Hp) Electric 7 Seat,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),7,2024,,4710,1810,1690,1915,2026-09-23 08:52:14
-53443,BYD,Sealion 7,Sealion 7,2025,82.5 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2225,2024-12-19 16:22:18
-53444,BYD,Sealion 7,Sealion 7,2025,82.5 kWh (530 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2340,2024-12-19 16:22:18
-53445,BYD,Sealion 7,Sealion 7,2025,91.3 kWh (530 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2435,2024-12-19 16:22:18
+53443,BYD,Sealion 7,Sealion 7,2025,82.5 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2225,2026-10-12 12:52:58
+53444,BYD,Sealion 7,Sealion 7,2025,82.5 kWh (530 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2340,2026-10-12 12:53:15
+53445,BYD,Sealion 7,Sealion 7,2025,91.3 kWh (530 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2435,2026-10-12 12:53:32
 53638,BYD,Yuan Up,Yuan Up,2024,32 kWh (95 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4310,1830,1675,,2025-08-22 09:05:00
 53639,BYD,Yuan Up,Yuan Up,2024,45.12 kWh (95 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4310,1830,1675,,2025-08-22 09:05:22
 53640,BYD,Yuan Up,Yuan Up,2024,45.12 kWh (177 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4310,1830,1675,,2025-08-22 09:05:11
@@ -35866,9 +35873,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54840,BYD,Seal 06,Seal 06,2024,56.64 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4720,1880,1495,1800,2026-09-23 08:52:14
 56673,BYD,Seal 06,Seal 06,2024,DM-i 1.5L 15.87 kWh (163 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2025,,4830,1875,1495,,2026-09-23 08:52:14
 56674,BYD,Seal 06,Seal 06,2024,DM-i 1.5L 25.28 kWh (238 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,Sedan,5,2026,,4830,1875,1495,,2026-09-23 08:52:14
-54170,BYD,Seal 06,Seal 06 GT,2025,72.96 kWh (224 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,1940,2026-09-23 08:52:14
-54169,BYD,Seal 06,Seal 06 GT,2025,59.52 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,1850,2026-09-23 08:52:14
-54167,BYD,Seal 06,Seal 06 GT,2025,72.96 kWh (422 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,2060,2026-07-23 10:55:27
+54170,BYD,Seal 06,Seal 06 GT,2025,72.96 kWh (224 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,1940,2026-10-12 14:03:56
+54169,BYD,Seal 06,Seal 06 GT,2025,59.52 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,1850,2026-10-12 14:03:29
+54167,BYD,Seal 06,Seal 06 GT,2025,72.96 kWh (422 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,2026,4630,1880,1490,2060,2026-10-12 14:04:20
 57532,BYD,Seal 06,Seal 06 GT,2025,57.54 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4630,1880,1490,1750,2026-09-23 08:52:14
 57533,BYD,Seal 06,Seal 06 GT,2025,69.07 kWh (326 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4630,1880,1490,1880,2026-09-23 08:52:14
 54187,BYD,ETP3,ETP3,2024,44.9 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Van,2,2023,,4460,1720,1875,1640,2025-04-25 16:16:24
@@ -36973,8 +36980,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54151,Mazda,CX-70,CX-70,2025,3.3 Turbo e-Skyactiv D (254 Hp) Mild Hybrid i-Activ AWD Skyactiv-Drive,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",254,3750,Diesel,"SUV (Sport Utility Vehicle), Crossover",5,2024,,5120,1994,1745,2216,2025-04-14 16:39:53
 51600,Mazda,CX-80,CX-80,2024,3.3 e-Skyactiv D (254 Hp) Mild Hybrid i-ACTIV AWD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",254,3750,Diesel,SUV (Sport Utility Vehicle),6-7,2024,,4995,1890,1710,2056-2136,2024-04-19 16:01:50
 51601,Mazda,CX-80,CX-80,2024,2.5 e-Skyactiv (327 Hp) Plug-in Hybrid i-ACTIV AWD Automatic,PHEV (Plug-in Hybrid Electric Vehicle),191,6000,Petrol / electricity,SUV (Sport Utility Vehicle),6-7,2024,,4995,1890,1710,2165-2248,2024-04-19 16:01:50
-52827,Mazda,EZ-6,EZ-6,2025,56.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4921,1890,1485,,2025-04-11 12:24:32
-52828,Mazda,EZ-6,EZ-6,2025,68.8 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4921,1890,1485,,2025-04-11 12:24:32
+52827,Mazda,EZ-6,EZ-6,2025,56.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4921,1890,1485,,2026-10-12 12:23:49
+52828,Mazda,EZ-6,EZ-6,2025,68.8 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4921,1890,1485,,2026-10-12 12:24:03
 52829,Mazda,EZ-6,EZ-6,2025,1.5L 18.9 kWh (218 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Liftback,5,2024,,4921,1890,1485,,2026-10-08 16:01:18
 52830,Mazda,EZ-6,EZ-6,2025,1.5L 28.4 kWh (218 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Liftback,5,2024,,4921,1890,1485,,2026-10-08 16:01:18
 53542,Mazda,6e,6e,2025,68.8 kWh (258 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4921,1890,1491,1952,2025-01-21 14:46:31
@@ -37315,7 +37322,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 11722,Cadillac,DeVille,DeVille,1961,4.9 i V8 (204 Hp),Internal Combustion engine,204,4400,Petrol (Gasoline),Sedan,5,1994,1999,5326,1946,1431,1703,2023-07-20 08:51:21
 11723,Cadillac,DeVille,DeVille,1961,6.5 V8 (200 Hp),Internal Combustion engine,200,,Petrol (Gasoline),Sedan,,1960,1980,,,,,2021-12-03 11:53:43
 53817,Cadillac,Escalade,Escalade IQL,2026,205 kWh (750 Hp) AWD Dual Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2025,,5803,,1933-1991,,2025-03-05 14:12:24
-50954,Cadillac,Escalade,Escalade IQ,2025,200 kWh (762 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2024,,5697,,1934,,2026-09-23 13:59:28
+50954,Cadillac,Escalade,Escalade IQ,2025,200 kWh (762 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2024,,5697,,1934,,2026-10-12 11:13:54
 52285,Cadillac,Escalade,Escalade V (facelift 2024),2025,6.2 V8 (420 Hp) Hydra-Matic,Internal Combustion engine,420,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2024,,5383,,1938,2634,2024-07-19 16:22:20
 52286,Cadillac,Escalade,Escalade V (facelift 2024),2025,6.2 V8 (420 Hp) 4WD Hydra-Matic,Internal Combustion engine,420,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2024,,5383,,1938,2728,2024-07-19 16:22:20
 52287,Cadillac,Escalade,Escalade V (facelift 2024),2025,V 6.2 Supercharged V8 (682 Hp) AWD Hydra-Matic,Internal Combustion engine,682,6500,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2024,,5410,,1938,2885,2024-07-19 16:22:20
@@ -37678,8 +37685,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51294,McLaren,Artura,Artura Spider,2024,3.0 V6 (700 Hp) Plug-in Hybrid SSG,PHEV (Plug-in Hybrid Electric Vehicle),605,7500,Petrol / electricity,Roadster,2,2024,,4539,1913,1193,1560,2024-03-06 14:22:01
 42292,McLaren,Artura,Artura,2021,3.0 V6 (680 Hp) Plug-in Hybrid SSG,PHEV (Plug-in Hybrid Electric Vehicle),585,7500,Petrol / electricity,Coupe,2,2021,2024,4539,1913,1193,1498,2026-09-23 13:59:28
 51293,McLaren,Artura,Artura,2021,3.0 V6 (700 Hp) Plug-in Hybrid SSG,PHEV (Plug-in Hybrid Electric Vehicle),605,7500,Petrol / electricity,Coupe,2,2024,,4539,1913,1193,1498,2024-03-06 14:22:01
-48466,McLaren,750S,750S Spider,2023,4.0 V8 (750 Hp) SSG,Internal Combustion engine,750,7500,Petrol (Gasoline),Roadster,2,2023,,4569,1930,1196,1438,2023-05-12 13:13:26
-48465,McLaren,750S,750S,2023,4.0 V8 (750 Hp) SSG,Internal Combustion engine,750,7500,Petrol (Gasoline),Coupe,2,2023,,4569,1930,1196,1389,2023-05-12 13:13:27
+48466,McLaren,750S,750S Spider,2023,4.0 V8 (750 Hp) SSG,Internal Combustion engine,750,7500,Petrol (Gasoline),Roadster,2,2023,,4569,1930,1196,1438,2026-10-12 10:34:00
+48465,McLaren,750S,750S,2023,4.0 V8 (750 Hp) SSG,Internal Combustion engine,750,7500,Petrol (Gasoline),Coupe,2,2023,,4569,1930,1196,1389,2026-10-12 10:33:20
 50790,McLaren,GTS,GTS,2024,4.0 V8 (635 Hp) SSG,Internal Combustion engine,635,7500,Petrol (Gasoline),Coupe,2,2023,,4683,,1213,1520,2023-12-19 16:28:53
 52881,McLaren,W1,W1,2025,4.0 V8 (1275 Hp) Plug-in Hybrid DCT,PHEV (Plug-in Hybrid Electric Vehicle),928,,Petrol / electricity,Coupe,2,2025,,4635,,1182,1399,2024-10-07 16:06:13
 57459,McLaren,788HS,788HS Spider,2027,4.0 V8 (788 Hp) SSG,Internal Combustion engine,788,7500,Petrol (Gasoline),Roadster,2,2026,,4569,2161,,1313,2026-07-09 13:18:04
@@ -45489,8 +45496,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48422,Hyundai,Kona,Kona II,2024,1.6T (198 Hp),Internal Combustion engine,198,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,2024,4350,1825,1585,1330-1460,2024-11-13 09:33:14
 48423,Hyundai,Kona,Kona II,2024,1.6T (198 Hp) DCT,Internal Combustion engine,198,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,2024,4350,1825,1585,1360-1490,2024-11-13 09:33:10
 48424,Hyundai,Kona,Kona II,2024,1.6 GDI (141 Hp) Full Hybrid DCT,FHEV (Full Hybrid Electric Vehicle),105,5700,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,2024,4350,1825,1585,1410-1525,2025-08-26 15:44:03
-48435,Hyundai,Kona,Kona II,2024,65.4 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4355,1825,1575,1773-1870,2026-06-22 08:08:11
-48436,Hyundai,Kona,Kona II,2024,48.4 kWh (156 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4355,1825,1575,1690-1765,2026-06-22 08:09:14
+48435,Hyundai,Kona,Kona II,2024,65.4 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4355,1825,1575,1773-1870,2026-10-12 10:22:59
+48436,Hyundai,Kona,Kona II,2024,48.4 kWh (156 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4355,1825,1575,1690-1765,2026-10-12 10:22:32
 49194,Hyundai,Kona,Kona II,2024,1.6 T-GDI (190 Hp) Automatic,Internal Combustion engine,190,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4384,1826,1585-1590,1482-1505,2025-04-11 16:16:53
 49195,Hyundai,Kona,Kona II,2024,1.6 T-GDI (190 Hp) AWD Automatic,Internal Combustion engine,190,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4384,1826,1610-1615,1580-1590,2025-04-11 16:16:53
 49196,Hyundai,Kona,Kona II,2024,2.0 MPI (147 Hp) IVT,Internal Combustion engine,147,6200,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4351,1826,1585-1590,1363-1430,2023-08-25 16:08:01
@@ -45507,8 +45514,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55198,Hyundai,Kona,Kona II,2024,1.6 T-GDI (180 Hp) DCT,Internal Combustion engine,180,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4350,1825,1585,1375-1505,2025-08-26 16:16:39
 55199,Hyundai,Kona,Kona II,2024,1.6 T-GDI (180 Hp) AWD DCT,Internal Combustion engine,180,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4350,1825,1585,1465-1590,2025-08-26 16:16:39
 55200,Hyundai,Kona,Kona II,2024,1.6 GDI (138 Hp) Full Hybrid DCT,FHEV (Full Hybrid Electric Vehicle),102,5700,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4350,1825,1585,1410-1525,2025-08-26 16:16:39
-55222,Hyundai,Kona,Kona II,2024,49 kWh (135 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4355,1825,1580,1615-1690,2026-06-22 08:09:05
-55223,Hyundai,Kona,Kona II,2024,65 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4355,1825,1580,1698-1795,2026-09-25 17:09:29
+55222,Hyundai,Kona,Kona II,2024,49 kWh (135 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4355,1825,1580,1615-1690,2026-10-12 15:53:40
+55223,Hyundai,Kona,Kona II,2024,65 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4355,1825,1580,1698-1795,2026-10-12 15:53:56
 41783,Hyundai,Kona,Kona I (facelift 2020),2021,Standard range 42 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2020,2023,4205,1800,1570,1535,2026-06-22 08:09:35
 41784,Hyundai,Kona,Kona I (facelift 2020),2021,Long range 67 kWh (204 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2020,2023,4205,1800,1570,1685,2026-06-22 08:09:43
 42376,Hyundai,Kona,Kona I (facelift 2020),2021,2.0 MPI (147 Hp) IVT,Internal Combustion engine,147,6200,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2021,2023,4206,1801,1565,1315-1379,2023-05-09 14:26:45
@@ -45617,17 +45624,17 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 39330,Hyundai,Aura,Aura,2020,1.2 U2 CRDi (75 Hp) Automatic,Internal Combustion engine,75,4000,Diesel,Sedan,5,2020,2023,3995,1680,1520,,2025-06-27 09:47:45
 39331,Hyundai,Aura,Aura,2020,1.0 Turbo GDi (100 Hp),Internal Combustion engine,100,6000,Petrol (Gasoline),Sedan,5,2020,2023,3995,1680,1520,,2025-06-27 09:47:59
 39332,Hyundai,Aura,Aura,2020,1.2 Bi-Fuel (69 Hp) CNG,Internal Combustion engine,,,Petrol / CNG,Sedan,5,2020,2023,3995,1680,1520,,2025-06-27 09:47:56
+49033,Hyundai,IONIQ 5,IONIQ 5 (facelift 2024),2025,N 84 kWh (650 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4715,1940,1585,,2026-10-12 20:48:46
 51442,Hyundai,IONIQ 5,IONIQ 5 (facelift 2024),2025,Long Range 84 kWh (229 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4655,1890,1605,2015-2055,2026-06-22 07:56:37
 51443,Hyundai,IONIQ 5,IONIQ 5 (facelift 2024),2025,Long Range 84 kWh (325 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4655,1890,1605,2120-2160,2026-06-22 07:56:28
 52314,Hyundai,IONIQ 5,IONIQ 5 (facelift 2024),2025,Standard Range 63 kWh (170 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4655,1890,1605,1880-1960,2026-09-23 08:52:14
 53731,Hyundai,IONIQ 5,IONIQ 5 (facelift 2024),2025,XRT 84 kWh (320 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4655,1890,1626,2135,2026-09-23 13:59:28
-42367,Hyundai,IONIQ 5,IONIQ 5,2022,Standard Range 58 kWh (170 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4635,1890,1605,1830-1910,2026-06-22 07:57:24
-42368,Hyundai,IONIQ 5,IONIQ 5,2022,Standard Range 58 kWh (235 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4635,1890,1605,1940-2020,2026-06-22 07:57:15
-42369,Hyundai,IONIQ 5,IONIQ 5,2022,Long Range 72.6 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2022,4635,1890,1605,1910-1990,2026-06-22 07:59:32
-42370,Hyundai,IONIQ 5,IONIQ 5,2022,Long Range 72.6 kWh (305 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2022,4635,1890,1605,2020-2100,2026-06-22 07:57:35
+42367,Hyundai,IONIQ 5,IONIQ 5,2022,Standard Range 58 kWh (170 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4635,1890,1605,1830-1910,2026-10-12 09:32:49
+42368,Hyundai,IONIQ 5,IONIQ 5,2022,Standard Range 58 kWh (235 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4635,1890,1605,1940-2020,2026-10-12 09:33:35
+42369,Hyundai,IONIQ 5,IONIQ 5,2022,Long Range 72.6 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2022,4635,1890,1605,1910-1990,2026-10-12 09:31:26
+42370,Hyundai,IONIQ 5,IONIQ 5,2022,Long Range 72.6 kWh (305 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2022,4635,1890,1605,2020-2100,2026-10-12 09:32:04
 44595,Hyundai,IONIQ 5,IONIQ 5,2022,77.4 kWh (228 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4636,1890,1600,1905-2002,2026-09-23 13:59:28
 44596,Hyundai,IONIQ 5,IONIQ 5,2022,77.4 kWh (325 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2024,4636,1890,1600,2025-2115,2026-09-23 13:59:28
-49033,Hyundai,IONIQ 5,IONIQ 5,2022,N 84 kWh (650 Hp) Electric AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4715,1940,1585,,2026-06-22 08:00:06
 51987,Hyundai,Bayon,Bayon (facelift 2024),2024,1.0 T-GDI (100 Hp),Internal Combustion engine,100,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2024,,4180,1775,1500,1095-1205,2024-06-10 16:22:02
 51988,Hyundai,Bayon,Bayon (facelift 2024),2024,1.0 T-GDI (100 Hp) DCT,Internal Combustion engine,100,6000,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2024,,4180,1775,1500,1120-1230,2024-06-10 16:22:02
 56006,Hyundai,Bayon,Bayon (facelift 2024),2024,1.0 T-GDI (90 Hp),Internal Combustion engine,90,5000-5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2025,,4180,1775,1500,1100-1210,2025-12-12 16:22:57
@@ -46192,8 +46199,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45893,MG,MG5,MG5 II,2021,Scorpio 1.5T (181 Hp) DCT,Internal Combustion engine,181,5600,Petrol (Gasoline),Sedan,5,2022,,4695,1842,1480,1330,2025-04-11 16:16:53
 41322,MG,MG5,MG5 EV,2021,52.5 kWh (156 Hp),BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2020,2021,4544,1818,1536,1532-1550,2023-01-03 11:17:59
 44662,MG,MG5,MG5 EV,2021,Long Range 61.1 kWh (156 Hp),BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2021,2022,4544,1818,1543,1550-1565,2023-01-03 11:17:50
-44246,MG,Marvel R,Marvel R,2022,70 kWh (180 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,,4674,1919,1618,1810,2022-11-03 20:39:27
-44247,MG,Marvel R,Marvel R,2022,70 kWh (288 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,,4674,1919,1618,1920,2022-11-03 20:39:27
+44246,MG,Marvel R,Marvel R,2022,70 kWh (180 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,,4674,1919,1618,1810,2026-10-12 09:13:09
+44247,MG,Marvel R,Marvel R,2022,70 kWh (288 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2021,,4674,1919,1618,1920,2026-10-12 09:13:31
 45869,MG,GT,GT II,2022,1.5L (114 Hp) iCVT,Internal Combustion engine,114,6000,Petrol (Gasoline),Sedan,5,2021,,4675,1842,1473,1260,2023-05-12 15:02:41
 45870,MG,GT,GT II,2022,1.5L Turbo (162 Hp) DCT,Internal Combustion engine,162,5600,Petrol (Gasoline),Sedan,5,2021,,4675,1842,1480,1318,2023-05-12 15:02:40
 45864,MG,GT,GT I,2015,1.5L (109 Hp),Internal Combustion engine,109,6000,Petrol (Gasoline),Sedan,5,2014,2019,4612,1804,1488,1245,2022-10-05 14:35:05
@@ -49213,11 +49220,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44657,Smart,EQ fortwo,EQ fortwo (C453),2018,17.6 kWh (82 Hp),BEV (Electric Vehicle),,,Electricity,Coupe,2,2018,2019,2695,1663,1555,1085,2022-11-03 20:39:27
 44658,Smart,EQ fortwo,EQ fortwo cabrio (A453),2018,17.6 kWh (82 Hp),BEV (Electric Vehicle),,,Electricity,Cabriolet,2,2018,2019,2695,1663,1553,1115,2022-11-03 20:39:27
 45648,Smart,#1,#1,2023,66 kWh (272 Hp),BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4270,1822,1636,1820,2022-11-03 20:39:27
-49398,Smart,#3,#3,2024,66 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4400,1844,1556,1780-1810,2023-09-07 16:18:58
-49399,Smart,#3,#3,2024,66 kWh (428 Hp) AWD BEV,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4400,1844,1556,1910,2023-09-07 16:16:32
-53973,Smart,#5,#5,2025,76 kWh (340 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2200,2025-03-24 16:24:45
-53974,Smart,#5,#5,2025,100 kWh (363 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2260,2025-03-24 16:24:45
-53975,Smart,#5,#5,2025,100 kWh (587 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2345-2370,2025-03-24 16:24:45
+49398,Smart,#3,#3,2024,66 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4400,1844,1556,1780-1810,2026-10-12 10:59:15
+49399,Smart,#3,#3,2024,66 kWh (428 Hp) AWD BEV,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4400,1844,1556,1910,2026-10-12 10:59:35
+53973,Smart,#5,#5,2025,76 kWh (340 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2200,2026-10-12 13:53:56
+53974,Smart,#5,#5,2025,100 kWh (363 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2260,2026-10-12 13:53:36
+53975,Smart,#5,#5,2025,100 kWh (587 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2345-2370,2026-10-12 13:54:12
 55463,Smart,#5,#5,2025,Brabus 100 kWh (646 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4695,1920,1705,2378-2400,2025-09-30 16:21:15
 14887,Citroen,2 CV,2 CV,1964,0.4 (16 Hp),Internal Combustion engine,16,5000,Petrol (Gasoline),Sedan,4,1963,1970,3830,1480,1600,525,2022-09-12 16:55:28
 14888,Citroen,2 CV,2 CV,1964,0.4 (23 Hp),Internal Combustion engine,23,6750,Petrol (Gasoline),Sedan,5,1970,1975,3830,1480,1600,560,2022-12-15 09:29:33
@@ -50312,25 +50319,25 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 27385,Citroen,C-Elysee,"C-Elysee I (Phase I, 2002)",2002,1.6 16V (88 Hp),Internal Combustion engine,88,5600,Petrol (Gasoline),Sedan,5,2002,2008,4305,1707,1413,1125,2022-12-15 13:40:04
 27405,Citroen,C-Elysee,"C-Elysee I (Phase I, 2002)",2002,1.6 16V (88 Hp) Automatic,Internal Combustion engine,88,5600,Petrol (Gasoline),Sedan,5,2002,2008,4305,1707,1413,1125,2022-12-15 13:40:05
 43945,Citroen,Jumpy,Jumpy III XL,2016,1.6 BlueHDi (95 Hp) Automatic,Internal Combustion engine,95,3750,Diesel,Minivan,2-3,2016,2017,5309,1920,1877-1950,1583-1852,2022-09-12 16:55:28
-43946,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1666-1922,2022-09-12 16:55:28
-43947,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1665-1921,2022-09-12 16:55:28
-43948,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1702-1958,2022-09-12 16:55:28
+43946,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1666-1922,2026-10-12 13:55:14
+43947,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1665-1921,2026-10-12 13:55:15
+43948,Citroen,Jumpy,Jumpy III XL,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,5309,1920,1877-1950,1702-1958,2026-10-12 13:55:15
 43949,Citroen,Jumpy,Jumpy III XL,2016,e-Jumpy 50 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Minivan,2-3,2020,,5309,1920,1877-1950,1890-1902,2022-11-03 20:39:27
 43950,Citroen,Jumpy,Jumpy III XL,2016,e-Jumpy 75 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Minivan,2-3,2020,,5309,1920,1877-1950,2041-2053,2022-11-03 20:39:27
 43908,Citroen,Jumpy,Jumpy III M,2016,1.6 BlueHDi (95 Hp),Internal Combustion engine,95,3750,Diesel,Minivan,2-3,2016,2019,4959,1920,1877-1950,1509-1748,2022-09-12 16:55:28
 43909,Citroen,Jumpy,Jumpy III M,2016,1.6 BlueHDi (95 Hp) Automatic,Internal Combustion engine,95,3750,Diesel,Minivan,2-3,2016,2018,4959,1920,1877-1950,1539-1778,2022-09-12 16:55:28
 43910,Citroen,Jumpy,Jumpy III M,2016,1.6 BlueHDi (116 Hp),Internal Combustion engine,116,3500,Diesel,Minivan,2-3,2016,2019,4959,1920,1877-1950,1533-1783,2022-09-12 16:55:28
-43911,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1604-1854,2022-09-12 16:55:28
-43912,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1615-1856,2022-09-12 16:55:28
-43913,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1657-1898,2022-09-12 16:55:28
+43911,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1604-1854,2026-10-12 13:56:05
+43912,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1615-1856,2026-10-12 13:56:04
+43913,Citroen,Jumpy,Jumpy III M,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,4959,1920,1877-1950,1657-1898,2026-10-12 13:56:04
 43914,Citroen,Jumpy,Jumpy III M,2016,e-Jumpy 50 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Minivan,2-3,2020,,4959,1920,1877-1950,1862-1874,2022-11-03 20:39:27
 43915,Citroen,Jumpy,Jumpy III M,2016,e-Jumpy 75 kWh (136 Hp),BEV (Electric Vehicle),,,Electricity,Minivan,2-3,2020,,4959,1920,1877-1950,1874-2013,2022-11-03 20:39:27
 43864,Citroen,Jumpy,Jumpy III XS,2016,1.6 BlueHDi (95 Hp),Internal Combustion engine,95,3750,Diesel,Minivan,2-3,2016,2019,4609,1920,1877-1950,1497-1740,2022-09-12 16:55:28
 43865,Citroen,Jumpy,Jumpy III XS,2016,1.6 BlueHDi (95 Hp) Automatic,Internal Combustion engine,95,3750,Diesel,Minivan,2-3,2016,2018,4609,1920,1877-1950,1527-1769,2022-09-12 16:55:28
 43866,Citroen,Jumpy,Jumpy III XS,2016,1.6 BlueHDi (116 Hp),Internal Combustion engine,116,3500,Diesel,Minivan,2-3,2016,2019,4609,1920,1877-1950,1523-1766,2022-09-12 16:55:28
-43867,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1590-1831,2022-09-12 16:55:28
-43868,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1601-1830,2022-09-12 16:55:28
-43869,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1646-1875,2022-09-12 16:55:28
+43867,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (122 Hp),Internal Combustion engine,122,3750,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1590-1831,2026-10-12 13:55:58
+43868,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (150 Hp),Internal Combustion engine,150,4000,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1601-1830,2026-10-12 13:55:58
+43869,Citroen,Jumpy,Jumpy III XS,2016,2.0 BlueHDi (177 Hp) Automatic,Internal Combustion engine,177,3750,Diesel,Minivan,2-3,2016,,4609,1920,1877-1950,1646-1875,2026-10-12 13:55:59
 5633,Citroen,Jumpy,Jumpy II Multispace (facelift 2012),2012,2.0 HDi (128 Hp) L1,Internal Combustion engine,128,4000,Diesel,Minivan,5-6,2012,2015,4805,1895,1880,1938,2022-09-12 16:55:28
 5635,Citroen,Jumpy,Jumpy II Multispace (facelift 2012),2012,2.0 HDi (163 Hp),Internal Combustion engine,163,3750,Diesel,Minivan,5-6,2012,2015,4805,1895,1880,1915,2022-09-12 16:55:28
 46324,Citroen,Jumpy,Jumpy II Multispace (facelift 2012),2012,2.0 HDi (128 Hp) L2 8 Seat,Internal Combustion engine,128,4000,Diesel,Minivan,8,2012,2015,5135,1895,1880,,2022-09-12 16:55:28
@@ -54240,7 +54247,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 34261,Tesla,Model S,Model S (facelift 2016),2016,60 60 kWh (315 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,7,2016,2017,4979,1964,1445,2027,2025-04-11 12:24:32
 34262,Tesla,Model S,Model S (facelift 2016),2016,60D 60 kWh (328 Hp) AWD,BEV (Electric Vehicle),,,Electricity,Liftback,7,2016,2017,4979,1964,1445,2108,2025-04-11 12:24:32
 42388,Tesla,Model S,Model S (facelift 2016),2016,Long Range 100 kWh (541 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2019,2021,4970,1964,1445,2201,2022-11-09 19:26:41
-42389,Tesla,Model S,Model S (facelift 2016),2016,Performance 100 kWh (611 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2019,2021,4970,1964,1445,2253,2022-11-09 19:25:35
+42389,Tesla,Model S,Model S (facelift 2016),2016,Performance 100 kWh (611 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2019,2021,4970,1964,1445,2253,2026-10-12 09:01:23
 18610,Tesla,Model S,Model S,2012,60 60 kWh (302 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,7,2012,2015,4970,1963,1427,1999,2022-11-09 18:24:52
 18611,Tesla,Model S,Model S,2012,85 85 kWh (362 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,7,2012,2015,4970,1963,1427,2100,2025-04-11 12:24:32
 18612,Tesla,Model S,Model S,2012,P85 85 kWh (416 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,7,2012,2014,4970,1963,1427,2100,2025-04-11 12:24:32
@@ -54257,7 +54264,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 33037,Tesla,Model X,Model X,2016,90D 90 kWh (525 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2015,2017,5052,1999,1684,2389,2025-04-11 12:24:32
 33038,Tesla,Model X,Model X,2016,P90D 90 kWh (772 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2015,2016,5052,1999,1684,2439,2025-04-11 12:24:32
 42396,Tesla,Model X,Model X,2016,Long Range 100 kWh (422 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2019,2021,5036,1999,1684,2510,2025-04-11 12:24:32
-42397,Tesla,Model X,Model X,2016,Performance 100 kWh (611 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2019,2021,5036,1999,1684,2562,2025-04-11 12:24:32
+42397,Tesla,Model X,Model X,2016,Performance 100 kWh (611 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),7,2019,2021,5036,1999,1684,2562,2026-10-12 08:57:40
 49902,Tesla,Model 3,"Model 3 (Highland, facelift 2023)",2024,60 kWh (283 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2023,2025,4720,1850,1441,1765,2026-01-06 09:40:31
 49903,Tesla,Model 3,"Model 3 (Highland, facelift 2023)",2024,Long Range 79 kWh (440 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2023,2025,4720,1850,1441,1828,2026-01-06 16:23:06
 51628,Tesla,Model 3,"Model 3 (Highland, facelift 2023)",2024,Performance 82 kWh (510 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2024,,4720,1850,1431,1839,2026-01-06 16:23:06
@@ -54269,7 +54276,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44513,Tesla,Model 3,Model 3 (facelift 2020),2021,Performance 80.5 kWh (513 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2020,2023,4694,1849,1443,1928,2025-06-30 10:57:41
 44514,Tesla,Model 3,Model 3 (facelift 2020),2021,Long Range 80.5 kWh (441 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2020,2021,4694,1849,1443,1928,2025-06-30 10:57:19
 44515,Tesla,Model 3,Model 3 (facelift 2020),2021,Standard Plus 54 kWh (325 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2020,2021,4694,1849,1443,1655,2025-06-30 10:56:36
-44977,Tesla,Model 3,Model 3 (facelift 2020),2021,60 kWh (325 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2021,2023,4694,1849,1443,1745,2025-06-30 10:56:06
+44977,Tesla,Model 3,Model 3 (facelift 2020),2021,60 kWh (325 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2021,2023,4694,1849,1443,1745,2026-10-12 09:17:12
 45722,Tesla,Model 3,Model 3 (facelift 2020),2021,Long Range 80.5 kWh (441 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2022,2023,4694,1849,1443,1830,2025-06-30 10:57:58
 32647,Tesla,Model 3,Model 3,2017,P50 50 kWh (261 Hp) Automatic,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2017,2019,4694,,1443,1610,2022-11-09 19:23:51
 32648,Tesla,Model 3,Model 3,2017,Long Range 75 kWh (287 Hp),BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2017,2019,4694,1849,1443,1741,2022-11-09 19:24:38
@@ -54706,25 +54713,25 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 32125,Vencer,Sarthe,Sarthe,2015,6.3 V8 (622 Hp),Internal Combustion engine,622,6500,Petrol (Gasoline),Coupe,2,2015,,4515,1984,1190,1390,2023-08-08 16:27:56
 32285,Aria,FXE,FXE,2020,6.3 V8 (1150 Hp) Hybrid AWD DCT,FHEV (Full Hybrid Electric Vehicle),,,Petrol (Gasoline),Coupe,2,2019,,4470,1930,1139,1520,2023-11-06 12:35:43
 34509,Polestar,1,1,2019,2.0 (600 Hp) Plug-in Hybrid AWD,PHEV (Plug-in Hybrid Electric Vehicle),341,,Petrol / electricity,Coupe,4,2019,,4585,,1352,,2023-08-14 12:38:13
-47315,Polestar,2,2 (facelift 2023),2024,69 kWh (272 Hp) Standard Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2023-01-25 14:20:42
-47316,Polestar,2,2 (facelift 2023),2024,82 kWh (299 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2023-01-25 14:20:42
-47317,Polestar,2,2 (facelift 2023),2024,82 kWh (421 Hp) Long Range Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2023-01-25 14:20:42
-47318,Polestar,2,2 (facelift 2023),2024,82 kWh (476 Hp) Long Range Dual Motor with Performance pack AWD,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1473,,2023-01-28 07:51:07
+47315,Polestar,2,2 (facelift 2023),2024,69 kWh (272 Hp) Standard Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2026-10-12 10:19:58
+47316,Polestar,2,2 (facelift 2023),2024,82 kWh (299 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2026-10-12 10:20:15
+47317,Polestar,2,2 (facelift 2023),2024,82 kWh (421 Hp) Long Range Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1479,,2026-10-12 10:20:30
+47318,Polestar,2,2 (facelift 2023),2024,82 kWh (476 Hp) Long Range Dual Motor with Performance pack AWD,BEV (Electric Vehicle),,,Electricity,Fastback,5,2023,,4606,1859,1473,,2026-10-12 10:20:44
 36263,Polestar,2,2,2020,78 kWh (408 Hp) Long Range Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Fastback,5,2020,2023,4606,1800,1479,2113,2026-09-01 00:10:02
 45809,Polestar,2,2,2020,64 kWh (224 Hp) Standard Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2021,2022,4606,1800,1479,1940,2023-01-25 10:07:44
 45810,Polestar,2,2,2020,78 kWh (231 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,Fastback,5,2021,2023,4606,1800,1479,1994,2023-01-25 10:07:55
-46677,Polestar,3,3,2024,111 kWh (490 Hp) AWD Long range Dual motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4900,,1627,2584-2670,2025-10-02 08:57:55
-46678,Polestar,3,3,2024,111 kWh (517 Hp) AWD Performance Pack,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4900,,1627,2584-2670,2025-10-02 08:57:52
-52120,Polestar,3,3,2024,111 kWh (299 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2025,4900,1968,1614,,2026-09-23 14:37:07
+46677,Polestar,3,3,2024,111 kWh (490 Hp) AWD Long range Dual motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4900,,1627,2584-2670,2026-10-12 09:40:29
+46678,Polestar,3,3,2024,111 kWh (517 Hp) AWD Performance Pack,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4900,,1627,2584-2670,2026-10-12 09:40:51
+52120,Polestar,3,3,2024,111 kWh (299 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2025,4900,1968,1614,,2026-10-12 12:09:12
 55487,Polestar,3,3,2024,92 kWh (333 Hp) Rear Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4900,1968,1622,2315-2400,2025-10-02 16:18:26
 55488,Polestar,3,3,2024,106 kWh (544 Hp) AWD Dual Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4900,1968,1614,2490-2600,2025-10-02 16:18:26
 55489,Polestar,3,3,2024,106 kWh (680 Hp) AWD Performance,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4900,1968,1614,2525-2605,2025-10-02 16:18:26
 57777,Polestar,4,4 SUV,2027,100 kWh (272 Hp) Rear Motor,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4840,2067,1556,2265,2026-09-03 16:22:16
 57778,Polestar,4,4 SUV,2027,100 kWh (544 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4840,2067,1556,2375,2026-09-03 16:23:27
-49021,Polestar,4,4 Coupe,2024,102 kWh (272 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,Coupe,5,2023,,4839,,1544,2232,2025-04-11 12:24:32
-49022,Polestar,4,4 Coupe,2024,102 kWh (544 Hp) Long Range Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Coupe,5,2023,,4839,,1544,2351,2025-04-11 12:24:32
-55309,Polestar,5,5,2026,112 kWh (748 Hp) Dual motor AWD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2025,,5087,,1425,2462-2500,2026-09-25 15:43:59
-55310,Polestar,5,5,2026,112 kWh (884 Hp) Performance AWD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2025,,5087,,1419,2465-2503,2026-09-25 15:44:13
+49021,Polestar,4,4 Coupe,2024,102 kWh (272 Hp) Long Range Single Motor,BEV (Electric Vehicle),,,Electricity,Coupe,5,2023,,4839,,1544,2232,2026-10-12 10:58:11
+49022,Polestar,4,4 Coupe,2024,102 kWh (544 Hp) Long Range Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,Coupe,5,2023,,4839,,1544,2351,2026-10-12 10:58:32
+55309,Polestar,5,5,2026,112 kWh (748 Hp) Dual motor AWD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2025,,5087,,1425,2462-2500,2026-10-12 15:55:21
+55310,Polestar,5,5,2026,112 kWh (884 Hp) Performance AWD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2025,,5087,,1419,2465-2503,2026-10-12 15:55:34
 32396,Dallara,Stradale,Stradale,2017,2.3 (400 Hp),Internal Combustion engine,400,6200,Petrol (Gasoline),Roadster,2,2017,,4185,1875,1041,855,2025-04-07 08:13:59
 32553,Italdesign,Zerouno,Zerouno,2018,5.2 V10 (610 Hp) 4WD Automatic,Internal Combustion engine,610,8250,Petrol (Gasoline),Coupe,2,2017,,4847,1970,1204,,2023-08-16 12:00:08
 32682,WEY,VV5,VV5,2017,2.0 Turbo (197 Hp) AWD Automatic,Internal Combustion engine,197,5200-5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2017,,4462,1857,1638,,2023-06-15 10:12:56
@@ -55322,7 +55329,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45349,Maxus,D60,D60,2020,1.3T (163 Hp),Internal Combustion engine,163,5200,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2019,,4720,1860,1736,,2023-08-15 16:03:16
 45350,Maxus,D60,D60,2020,1.5T (169 Hp) DCT,Internal Combustion engine,169,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2019,,4720,1860,1736,,2023-08-15 16:03:16
 45351,Maxus,D60,D60,2020,1.5T (169 Hp) DCT 7 Seat,Internal Combustion engine,169,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2019,,4720,1860,1736,,2023-08-15 16:03:16
-46618,Maxus,Mifa 9,Mifa 9,2022,90 kWh (245 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Minivan,6-7,2021,,5270,2000,1840,2310-2570,2025-04-11 12:24:32
+46618,Maxus,Mifa 9,Mifa 9,2022,90 kWh (245 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Minivan,6-7,2021,,5270,2000,1840,2310-2570,2026-10-12 09:39:35
 46828,Maxus,T90,T90 Standard box,2022,EV 88.55 kWh (177 Hp),BEV (Electric Vehicle),,,Electricity,Pick-up,5,2021,,5365,1900,1809,2300,2022-11-19 07:51:07
 53454,Maxus,Deliver 3,eDeliver 3 L1,2020,35 kWh (122 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Van,2,2020,2023,4555,1780,1895,1445,2025-01-07 09:02:50
 53455,Maxus,Deliver 3,eDeliver 3 L1,2020,50.23 kWh (122 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Van,2,2020,2023,4555,1780,1895,1425,2025-01-07 09:02:56
@@ -55494,12 +55501,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46340,XPENG,P5,P5,2022,510 61.3 kWh (211 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2022,,4808,1840,1520,,2022-11-03 20:39:27
 46341,XPENG,P5,P5,2022,550 66.2 kWh (211 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2021,,4808,1840,1520,,2022-11-03 20:39:27
 46342,XPENG,P5,P5,2022,600 71.4 kWh (211 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"Sedan, Fastback",5,2021,,4808,1840,1520,,2022-11-03 20:39:27
-54989,XPENG,G9,G9 (facelift 2025),2025,Long Range 79 kWh (351 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2196,2025-08-22 09:16:01
-54990,XPENG,G9,G9 (facelift 2025),2025,Ultra Long Range 93.1 kWh (351 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2285,2025-08-22 09:16:15
-54991,XPENG,G9,G9 (facelift 2025),2025,Ultra Long Range 93.1 kWh (575 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2378,2025-08-22 09:16:26
-46704,XPENG,G9,G9,2023,Standard 78.2 kWh (313 Hp) BEV RWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2025-07-31 11:26:34
-46705,XPENG,G9,G9,2023,Long Range 98 kWh (313 Hp) BEV RWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2025-07-31 11:26:39
-46706,XPENG,G9,G9,2023,Performance 98 kWh (551 Hp) BEV 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2025-07-31 11:26:37
+54989,XPENG,G9,G9 (facelift 2025),2025,Long Range 79 kWh (351 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2196,2026-10-12 15:27:56
+54990,XPENG,G9,G9 (facelift 2025),2025,Ultra Long Range 93.1 kWh (351 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2285,2026-10-12 15:28:09
+54991,XPENG,G9,G9 (facelift 2025),2025,Ultra Long Range 93.1 kWh (575 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4891,1937,1670,2378,2026-10-12 15:28:22
+46704,XPENG,G9,G9,2023,Standard 78.2 kWh (313 Hp) BEV RWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2026-10-12 09:45:23
+46705,XPENG,G9,G9,2023,Long Range 98 kWh (313 Hp) BEV RWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2026-10-12 09:44:01
+46706,XPENG,G9,G9,2023,Performance 98 kWh (551 Hp) BEV 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2025,4891,1937,1680,,2026-10-12 09:44:15
 55005,XPENG,G6,G6 (facelift 2025),2025,Long Range 68.5 kWh (296 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2025,,4758,1920,1650,2030,2025-08-22 09:14:16
 55006,XPENG,G6,G6 (facelift 2025),2025,Ultra Long Range 80.8 kWh (296 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2025,,4758,1920,1650,2116,2025-08-22 09:14:29
 56641,XPENG,G6,G6 (facelift 2025),2025,1.5T 55.8 kWh (296 Hp) Range Extender,REEV (Range-Extended Electric Vehicle),150,5500,Petrol / electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2026,,4771,1920,1650,2190,2026-10-08 16:01:18
@@ -56061,7 +56068,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48913,NIO,EC7,EC7,2023,Ultra Long Range 150 kWh (653 Hp) i4WD Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4968,1974,1714,,2025-04-11 12:24:32
 52029,NIO,EL8,EL8,2024,Standard Range 73.5 kWh (653 Hp) E-AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2024,,5099,,1750,2538,2024-06-14 16:20:06
 52030,NIO,EL8,EL8,2024,Long Range 90 kWh (653 Hp) E-AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2024,,5099,,1750,2558,2024-06-14 16:20:06
-54951,NIO,ET9,ET9,2025,100 kWh (707 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2024,,5325,2017,1621,2700,2025-07-24 16:22:09
+54951,NIO,ET9,ET9,2025,100 kWh (707 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,4,2024,,5325,2017,1621,2700,2026-10-12 15:27:03
 56237,NIO,EL6,EL6,2024,Standard Range 75 kWh (490 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4854,1995,1703,2378,2026-09-23 08:52:14
 56238,NIO,EL6,EL6,2024,Long Range 100 kWh (490 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4854,1995,1703,2398,2026-09-23 08:52:14
 56821,NIO,ES9,ES9,2026,102 kWh (707 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2026,,5365,2029,1870,2845,2026-04-07 16:16:37
@@ -56109,9 +56116,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46799,Seres,SF5,SF5,2019,1.5T (694 Hp) EREV 4WD,REEV (Range-Extended Electric Vehicle),112,4000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2019,,4700,1930,1625,2350,2026-10-08 16:01:18
 51249,Seres,SF5,SF5,2019,1.5T (347 Hp) EREV,REEV (Range-Extended Electric Vehicle),112,4000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2019,,4700,1930,1625,2230,2026-10-08 16:01:18
 46802,Seres,3,3,2021,53.6 kWh (163 Hp) E-shift,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,,4385,1850,1650,1765,2025-04-11 12:24:32
-51242,Seres,5,5,2023,80 kWh (299 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2220,2024-02-15 16:23:00
-51243,Seres,5,5,2023,80 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2024-02-15 16:23:59
-51244,Seres,5,5,2023,90 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2024-02-16 09:40:52
+51242,Seres,5,5,2023,80 kWh (299 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2220,2026-10-12 11:14:54
+51243,Seres,5,5,2023,80 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2026-10-12 11:15:09
+51244,Seres,5,5,2023,90 kWh (585 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,,4710,1930,1620,2360,2026-10-12 11:15:20
 57921,Seres,7,7,2024,1.5T 40 kWh (267 Hp) Range Extended,REEV (Range-Extended Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,5020,1945,1760,2370,2026-10-08 16:01:18
 57922,Seres,7,7,2024,1.5T 40 kWh (267 Hp) Range Extended 6 Seaters,REEV (Range-Extended Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),6,2024,,5020,1945,1760,2370,2026-10-08 16:01:18
 57923,Seres,7,7,2024,1.5T 40 kWh (439 Hp) Range Extended AWD,REEV (Range-Extended Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,5020,1945,1760,2460,2026-10-08 16:01:18
@@ -56219,7 +56226,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57194,Munro,Series-M,Series-M Utility,2024,M170 88.32 kWh (228 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Off-road,5,2023,,4590,1812,2010,2450,2026-06-08 16:22:05
 57195,Munro,Series-M,Series-M Utility,2024,M280 88.32 kWh (375 Hp) 4WD,BEV (Electric Vehicle),,,Electricity,Off-road,5,2023,,4590,1812,2010,2450,2026-06-08 16:21:48
 47049,Suda,SA01,SA01,2021,39.5 kWh (109 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2020,,4417,1737,1576,1390,2025-04-11 12:24:32
-47125,Bollinger,B1,B1 (Prototype),2017,60 kWh (360 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),4,2017,2017,3810,1943,1867,1769,2023-01-04 14:40:47
+47125,Bollinger,B1,B1 (Prototype),2017,60 kWh (360 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),4,2017,2017,3810,1943,1867,1769,2026-10-12 10:04:32
 47126,Bollinger,B1,B1 (Prototype),2017,100 kWh (360 Hp) AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),4,2017,2017,3810,1943,1867,1769,2023-01-04 14:40:47
 48175,Togg,T10X,T10X,2023,Standard Range 52.4 kWh (218 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2023,,4599,1886,1676,1874-1935,2023-03-15 13:57:47
 48176,Togg,T10X,T10X,2023,Long Range 88.5 kWh (218 Hp) BEV,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2023,,4599,1886,1675,2051-2087,2023-03-18 07:51:07
@@ -56273,9 +56280,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57156,Zeekr,7X,7X (facelift 2026),2026,75 kWh (503 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4825,1930,1666,,2026-06-02 16:18:09
 57157,Zeekr,7X,7X (facelift 2026),2026,103 kWh (503 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4825,1930,1666,,2026-06-02 16:18:09
 57158,Zeekr,7X,7X (facelift 2026),2026,103 kWh (795 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4825,1930,1656,,2026-06-02 16:21:48
-53630,Zeekr,7X,7X,2025,75 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1666,2298,2025-08-22 09:12:41
-53631,Zeekr,7X,7X,2025,100 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1666,2320,2025-08-22 09:12:17
-53632,Zeekr,7X,7X,2025,100 kWh (646 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1656,2475,2026-06-02 16:22:17
+53630,Zeekr,7X,7X,2025,75 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1666,2298,2026-10-12 12:57:08
+53631,Zeekr,7X,7X,2025,100 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1666,2320,2026-10-12 12:56:48
+53632,Zeekr,7X,7X,2025,100 kWh (646 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4825,1930,1656,2475,2026-10-12 12:57:34
 54186,Zeekr,Mix,Mix,2025,102 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,5,2024,,4688,1995,1755,,2025-08-22 09:12:58
 54185,Zeekr,Mix,Mix,2025,76 kWh (422 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Minivan,5,2024,,4688,1995,1755,,2025-08-22 09:13:09
 55229,Zeekr,9X,9X,2025,2.0T 55 kWh (898 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),279,,Petrol / electricity,SUV (Sport Utility Vehicle),6,2025,,5239,2029,1819,2970,2025-08-29 16:15:04
@@ -56288,7 +56295,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57188,Zeekr,8X,8X,2026,2.0T 70 kWh (898 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),279,,Petrol / electricity,SUV (Sport Utility Vehicle),5-6,2026,,5100,1998,1780,,2026-06-05 16:06:18
 57189,Zeekr,8X,8X,2026,2.0T 70 kWh (1401 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),279,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,5108,2026,1780,,2026-06-05 16:06:18
 11091,Anfini,MS-8,MS-8,1992,2.5 V6 (200 Hp),Internal Combustion engine,200,6500,Petrol (Gasoline),Sedan,5,1992,1998,4695,1750,1340,1350,2022-10-05 14:35:05
-48950,Lordstown,Endurance,Endurance Crew Cab,2022,109 kWh (550 Hp) AWD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2022,,5842,2068,1941,2926,2023-06-28 08:40:22
+48950,Lordstown,Endurance,Endurance Crew Cab,2022,109 kWh (550 Hp) AWD,BEV (Electric Vehicle),,,Electricity,Pick-up,5,2022,,5842,2068,1941,2926,2026-10-12 10:35:58
 48951,Hawtai,E70,E70,2013,1.5 d (93 Hp),Internal Combustion engine,93,4000,Diesel,Sedan,5,2013,2016,4777,1794,1481,,2023-06-28 11:26:21
 48952,Hawtai,E70,E70,2013,2.0 (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Sedan,5,2013,2016,4777,1794,1481,,2023-06-28 11:51:18
 48953,Hawtai,E70,E70,2013,2.0 (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Sedan,5,2013,2016,4777,1794,1481,,2023-06-28 11:51:21
@@ -56373,10 +56380,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54830,Leapmotor,T03,T03,2020,37.3 kWh (95 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2024,,3620,1652,1577,1175,2025-07-08 16:16:32
 49767,Leapmotor,C01,C01,2023,1.5L 30.1 kWh (272 Hp) EREV,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Sedan,5,2023,,5050,1902,1515,,2026-10-08 16:01:18
 49768,Leapmotor,C01,C01,2023,1.5L 43.7 kWh (272 Hp) EREV,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Sedan,5,2023,,5050,1902,1515,,2026-10-08 16:01:18
-49834,Leapmotor,C01,C01,2023,62.8 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2025-04-11 12:24:32
-49835,Leapmotor,C01,C01,2023,78.5 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2025-04-11 12:24:32
-49836,Leapmotor,C01,C01,2023,89.9 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2025-04-11 12:24:32
-49837,Leapmotor,C01,C01,2023,89.9 kWh (544 Hp) 4WD BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2025-04-11 12:24:32
+49834,Leapmotor,C01,C01,2023,62.8 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2026-10-12 11:07:43
+49835,Leapmotor,C01,C01,2023,78.5 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2026-10-12 11:08:00
+49836,Leapmotor,C01,C01,2023,89.9 kWh (272 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2026-10-12 11:08:16
+49837,Leapmotor,C01,C01,2023,89.9 kWh (544 Hp) 4WD BEV,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5050,1902,1509,,2026-10-12 11:08:35
 49878,Leapmotor,S01,S01,2019,48 kWh (170 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2019,2021,4075,1760,1380,,2025-04-11 12:24:32
 57817,Leapmotor,C16,C16 (facelift 2026),2026,1.5L 38.9 kWh (272 Hp) Extended Range 5 Seat,REEV (Range-Extended Electric Vehicle),,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4925,1905,1770,2120,2026-10-08 16:01:18
 57818,Leapmotor,C16,C16 (facelift 2026),2026,1.5L 38.9 kWh (272 Hp) Extended Range 6 Seat,REEV (Range-Extended Electric Vehicle),,,Petrol / electricity,SUV (Sport Utility Vehicle),6,2026,,4925,1905,1770,2120,2026-10-08 16:01:18
@@ -56511,14 +56518,14 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 53952,Voyah,Free,Free (facelift 2023),2023,318 1.5L (490 Hp) 4WD Extended Range,REEV (Range-Extended Electric Vehicle),150,5500,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4905,1950,1645,2260,2026-10-08 16:01:18
 50493,Voyah,Free,Free,2021,88 kWh (347 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2023,4905,1950,1645,2190,2023-11-16 16:27:05
 50494,Voyah,Free,Free,2021,88 kWh (694 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2021,2023,4905,1950,1645,2330,2023-11-16 16:26:12
-50495,Voyah,Free,Free,2021,106 kWh (490 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2023,4905,1950,1645,2310,2023-11-16 16:26:12
+50495,Voyah,Free,Free,2021,106 kWh (490 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2022,2023,4905,1950,1645,2310,2026-10-12 11:13:00
 50496,Voyah,Free,Free,2021,1.5 (694 Hp) 4WD Extended Range,REEV (Range-Extended Electric Vehicle),109,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2021,2023,4905,1950,1645,2290,2026-10-08 16:01:18
 50497,Voyah,Free,Free,2021,1.5 (490 Hp) 4WD Extended Range,REEV (Range-Extended Electric Vehicle),109,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,2023,4905,1950,1645,2280,2026-10-08 16:01:18
 57089,Voyah,Passion,Passion L,2025,1.5T (660 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),143,,Petrol / electricity,Sedan,5,2025,,5125,1985,1505-1522,2370,2026-05-26 16:20:53
 50504,Voyah,Passion,Passion,2023,82 kWh (510 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5088,1970,1515,2266,2023-11-17 16:18:00
 50505,Voyah,Passion,Passion,2023,109 kWh (510 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,5088,1970,1515,2286,2023-11-17 16:18:00
 53930,Voyah,Passion,Passion,2023,1.5 TD (530 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),136,,Petrol / electricity,Sedan,5,2023,,5088,1970,1505-1515,2245,2025-04-11 12:24:32
-53924,Voyah,Dreamer,Dreamer (facelift 2024),2024,108.7 kWh (435 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Minivan,4-7,2024,,5315,1985,1820,2682,2025-04-11 12:24:32
+53924,Voyah,Dreamer,Dreamer (facelift 2024),2024,108.7 kWh (435 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Minivan,4-7,2024,,5315,1985,1820,2682,2026-10-12 13:46:03
 53925,Voyah,Dreamer,Dreamer (facelift 2024),2024,1.5T (571 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,Minivan,4-7,2024,,5315,1985,1820,2642,2025-04-11 12:24:32
 50506,Voyah,Dreamer,Dreamer,2022,82 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Minivan,4-7,2022,2023,5315,1985,1820,2620,2025-04-11 12:24:32
 50507,Voyah,Dreamer,Dreamer,2022,108.7 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Minivan,4-7,2022,2023,5315,1985,1820,2625,2025-04-11 12:24:32
@@ -56528,9 +56535,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55225,Voyah,Courage,Courage (facelift 2025),2025,81 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1900,1636,2175,2025-08-29 16:15:02
 55226,Voyah,Courage,Courage (facelift 2025),2025,81 kWh (551 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1900,1636,2285,2025-08-29 16:15:02
 55227,Voyah,Courage,Courage (facelift 2025),2025,112 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4810,1900,1636,2099,2025-08-29 16:15:02
-53926,Voyah,Courage,Courage,2024,77 kWh (292 Hp) Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2099,2025-04-11 12:24:32
-53927,Voyah,Courage,Courage,2024,79 kWh (313 Hp) Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2145,2025-04-11 12:24:32
-53928,Voyah,Courage,Courage,2024,109 kWh (313 Hp) Ultra Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2099,2025-04-11 12:24:32
+53926,Voyah,Courage,Courage,2024,77 kWh (292 Hp) Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2099,2026-10-12 13:50:05
+53927,Voyah,Courage,Courage,2024,79 kWh (313 Hp) Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2145,2026-10-12 13:50:19
+53928,Voyah,Courage,Courage,2024,109 kWh (313 Hp) Ultra Long Range Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1653,2099,2026-10-12 13:49:51
 53929,Voyah,Courage,Courage,2024,80 kWh (435 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4725,1900,1650,2265,2025-03-19 14:24:14
 57102,Voyah,Taishan,Taishan X8,2026,1.5T (646 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,5200,2025,1814,2765,2026-05-27 14:14:28
 57103,Voyah,Taishan,Taishan X8,2026,1.5T (666 Hp) Plug-in Hybrid 4WD,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,5200,2025,1814,2790-2815,2026-05-27 14:14:28
@@ -56576,10 +56583,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51132,Exeed,Sterra ES,Sterra ES,2024,79.9 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2023,,4945,1978,1467,1960,2026-09-23 08:52:14
 51133,Exeed,Sterra ES,Sterra ES,2024,97.7 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2023,,4945,1978,1467,2040,2026-09-23 08:52:14
 51134,Exeed,Sterra ES,Sterra ES,2024,79.9 kWh (480 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2023,,4945,1978,1467,2100,2026-09-23 08:52:14
-52087,Exeed,Sterra ET,Sterra ET,2024,77 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2215,2025-04-11 12:24:32
-52088,Exeed,Sterra ET,Sterra ET,2024,77 kWh (480 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2339,2025-04-11 12:24:32
-52089,Exeed,Sterra ET,Sterra ET,2024,100 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2165,2025-04-11 12:24:32
-52090,Exeed,Sterra ET,Sterra ET,2024,100 kWh (562 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2340,2025-04-11 12:24:32
+52087,Exeed,Sterra ET,Sterra ET,2024,77 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2215,2026-10-12 12:07:14
+52088,Exeed,Sterra ET,Sterra ET,2024,77 kWh (480 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2339,2026-10-12 12:07:29
+52089,Exeed,Sterra ET,Sterra ET,2024,100 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2165,2026-10-12 12:08:11
+52090,Exeed,Sterra ET,Sterra ET,2024,100 kWh (562 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2340,2026-10-12 12:08:23
 52091,Exeed,Sterra ET,Sterra ET,2024,1.5L 32 kWh (265 Hp) Extended Range Electric,REEV (Range-Extended Electric Vehicle),156,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4955,1975,1698,2140-2180,2026-10-08 16:01:18
 57012,Exeed,EX7,EX7,2026,77 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4988,1975,1710,2230,2026-05-15 16:09:50
 57013,Exeed,EX7,EX7,2026,100 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4988,1975,1710,2200,2026-05-15 16:09:50
@@ -56690,7 +56697,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 51623,BAW,Pony,Pony,2023,13.7 kWh (27 Hp),BEV (Electric Vehicle),,,Electricity,Quadricycle,4,2023,,3162,1498,1580,740,2024-04-24 14:18:03
 53685,Deepal,S07,S07 (facelift 2024),2024,1.5L 31.73 kWh (238 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2025,4750,1930,1625,,2026-10-08 16:01:18
 53686,Deepal,S07,S07 (facelift 2024),2024,1.5L 39.05 kWh (258 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2025,4750,1930,1625,,2026-10-08 16:01:18
-53687,Deepal,S07,S07 (facelift 2024),2024,68.82 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2025,4750,1930,1625,,2026-01-09 12:30:59
+53687,Deepal,S07,S07 (facelift 2024),2024,68.82 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,2025,4750,1930,1625,,2026-10-12 13:37:43
 56079,Deepal,S07,S07 (facelift 2024),2024,1.5L 31.73 kWh (258 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),98,5600,Petrol / electricity,SUV (Sport Utility Vehicle),5,2025,,4570,1930,1625,,2026-10-08 16:01:18
 56080,Deepal,S07,S07 (facelift 2024),2024,1.5L 39.05 kWh (272 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),98,5600,Petrol / electricity,SUV (Sport Utility Vehicle),5,2025,,4570,1930,1625,,2026-10-08 16:01:18
 56081,Deepal,S07,S07 (facelift 2024),2024,68.82 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4570,1930,1625,,2026-01-09 16:16:18
@@ -56698,25 +56705,25 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57963,Deepal,S07,S07 (facelift 2024),2024,79.97 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4750,1930,1625,2073,2026-10-07 14:14:47
 53676,Deepal,S07,S7,2023,1.5L 19 kWh (238 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,5000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,1895,2026-10-08 16:01:18
 53677,Deepal,S07,S7,2023,1.5L 31.7 kWh (238 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,5000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,1990,2026-10-08 16:01:18
-53678,Deepal,S07,S7,2023,80 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,2035,2025-08-22 12:49:39
-53679,Deepal,S07,S7,2023,66.8 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,1950,2025-08-22 12:49:29
+53678,Deepal,S07,S7,2023,80 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,2035,2026-10-12 13:36:19
+53679,Deepal,S07,S7,2023,66.8 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4750,1930,1625,1950,2026-10-12 13:36:00
 53697,Deepal,S05,S05,2025,1.5L 27.28 kWh (218 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),98,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4620,1900,1600,2210,2026-10-08 16:01:18
-53698,Deepal,S05,S05,2025,56.12 kWh (238 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4620,1900,1600,,2025-08-22 12:48:56
+53698,Deepal,S05,S05,2025,56.12 kWh (238 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4620,1900,1600,,2026-10-12 13:39:30
 55471,Deepal,S05,S05,2025,68.8 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4598,1900,1600,1940,2026-09-23 08:52:14
 55472,Deepal,S05,S05,2025,68.8 kWh (435 Hp) AWD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4598,1900,1600,2040,2026-09-23 08:52:14
 55599,Deepal,S05,S05,2025,56.12 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4620,1900,1600,1770,2025-10-22 13:36:15
 53712,Deepal,SL03,SL03,2022,1.5L 18.99 kWh (238 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Liftback,5,2022,,4820,1890,1480,,2026-10-08 16:01:18
 53713,Deepal,SL03,SL03,2022,1.5L 28.39 kWh (218 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),95,,Petrol / electricity,Liftback,5,2022,,4820,1890,1480,,2026-10-08 16:01:18
-53714,Deepal,SL03,SL03,2022,56.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2022,,4820,1890,1480,,2025-04-11 12:24:32
-53715,Deepal,SL03,SL03,2022,58.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4820,1890,1480,,2025-04-11 12:24:32
-53721,Deepal,L07,L07,2025,56.12 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4875,1890,1480,,2025-04-11 12:24:32
+53714,Deepal,SL03,SL03,2022,56.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2022,,4820,1890,1480,,2026-10-12 13:40:33
+53715,Deepal,SL03,SL03,2022,58.1 kWh (258 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4820,1890,1480,,2026-10-12 13:40:48
+53721,Deepal,L07,L07,2025,56.12 kWh (252 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,4875,1890,1480,,2026-10-12 13:44:09
 53722,Deepal,L07,L07,2025,1.5L 28.39 kWh (218 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),98,5600,Petrol / electricity,Liftback,5,2024,,4875,1890,1480,,2026-10-08 16:01:18
 53723,Deepal,L07,L07,2025,1.5L 35.07 kWh (258 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),98,5600,Petrol / electricity,Liftback,5,2024,,4875,1890,1480,,2026-10-08 16:01:18
 53728,Deepal,G318,G318,2024,1.5T 18.99 kWh (252 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),150,5000,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2024,,5010,1985,1895,,2026-10-08 16:01:18
 53729,Deepal,G318,G318,2024,1.5T 35.07 kWh (252 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),150,5000,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2024,,5010,1985,1895,,2026-10-08 16:01:18
 53730,Deepal,G318,G318,2024,1.5T 35.07 kWh (430 Hp) 4WD Extended Range,REEV (Range-Extended Electric Vehicle),150,5000,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2024,,5010,1985,1895-1960,,2026-10-08 16:01:18
-55112,Deepal,E07,E07,2025,89.98 kWh (343 Hp) Electric RWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,5045,1996,1680,,2025-08-22 12:46:52
-55113,Deepal,E07,E07,2025,89.98 kWh (598 Hp) Electric AWD Performance,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,5045,1996,1680,,2025-08-22 12:47:03
+55112,Deepal,E07,E07,2025,89.98 kWh (343 Hp) Electric RWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,5045,1996,1680,,2026-10-12 15:52:08
+55113,Deepal,E07,E07,2025,89.98 kWh (598 Hp) Electric AWD Performance,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,5045,1996,1680,,2026-10-12 15:52:20
 55282,Deepal,S09,S09,2025,1.5T 40.18 kWh (314 Hp) Extended Range,REEV (Range-Extended Electric Vehicle),150,5000,Petrol / electricity,SUV (Sport Utility Vehicle),6,2025,,5205,1996,1800,2510-2590,2026-10-08 16:01:18
 55283,Deepal,S09,S09,2025,1.5T 40.18 kWh (492 Hp) 4WD Extended Range,REEV (Range-Extended Electric Vehicle),150,5000,Petrol / electricity,SUV (Sport Utility Vehicle),6,2025,,5205,1996,1800,2668,2026-10-08 16:01:18
 55292,Deepal,Hunter K50,Hunter K50,2025,2.0 T-GDI 31.18 kWh (272 Hp) REEV AWD,REEV (Range-Extended Electric Vehicle),190,,Petrol / electricity,Pick-up,5,2025,,5380,1980,1875,,2026-10-08 16:01:18
@@ -56724,9 +56731,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55810,Deepal,L06,L06,2026,68.82 kWh (272 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4830,1905,1480,1830,2025-11-19 14:11:03
 51825,Silence,S04 Nanocar,S04 Nanocar,2023,L7e 11.2 kWh (30 Hp),BEV (Electric Vehicle),,,Electricity,Quadricycle,2,2023,,2282,1268,1590,435,2026-09-23 13:59:28
 51826,Silence,S04 Nanocar,S04 Nanocar,2023,L6e 11.2 kWh (14 Hp),BEV (Electric Vehicle),,,Electricity,Quadricycle,2,2023,,2282,1268,1590,420,2026-09-23 13:59:28
-52268,Denza,N7,N7 (facelift 2024),2024,71.8 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1625,,2026-09-23 08:52:14
-52269,Denza,N7,N7 (facelift 2024),2024,91.3 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1620,,2026-09-23 08:52:14
-52270,Denza,N7,N7 (facelift 2024),2024,91.3 kWh (530 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1602,,2026-09-23 08:52:14
+52268,Denza,N7,N7 (facelift 2024),2024,71.8 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1625,,2026-10-12 12:13:51
+52269,Denza,N7,N7 (facelift 2024),2024,91.3 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1620,,2026-10-12 12:14:09
+52270,Denza,N7,N7 (facelift 2024),2024,91.3 kWh (530 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4860,1935,1602,,2026-10-12 12:14:27
 52266,Denza,N7,N7,2023,91.3 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4860,1935,1602,2280-2320,2026-09-23 08:52:14
 52267,Denza,N7,N7,2023,91.3 kWh (530 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2023,2024,4860,1935,1602,2420-2440,2026-09-23 08:52:14
 52275,Denza,D9,D9,2022,DM-i 1.5Ti 20 kWh (300 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),139,,Petrol / electricity,MPV (Multi-Purpose Vehicle),7,2022,,5250,1960,1920,,2025-04-11 12:24:32
@@ -56749,7 +56756,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54672,Denza,Z9,Z9,2025,2.0T 38.5 kWh (870 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),207,,Petrol / electricity,Sedan,5,2025,,5235,1990,1500-1518,,2026-09-23 08:52:14
 54673,Denza,Z9,Z9,2025,100 kWh (965 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,5220,1990,1500-1518,,2026-09-23 08:52:14
 52796,Denza,Z9,Z9 GT,2025,2.0T 38.5 kWh (870 Hp) Plug-in Hybrid 4WD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),207,,Petrol / electricity,Station wagon (estate),5,2024,2026,5195,1990,1480,,2026-04-09 12:18:42
-52797,Denza,Z9,Z9 GT,2025,100 kWh (965 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2024,2026,5180,1990,1500,,2026-04-09 10:01:19
+52797,Denza,Z9,Z9 GT,2025,100 kWh (965 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2024,2026,5180,1990,1500,,2026-10-12 12:21:21
 56829,Denza,Z9,Z9 GT,2025,102.3 kWh (503 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,5180,1990,1490,,2026-09-23 08:52:14
 56830,Denza,Z9,Z9 GT,2025,122.5 kWh (503 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,5180,1990,1490,,2026-09-23 08:52:14
 56831,Denza,Z9,Z9 GT,2025,122.5 kWh (1156 Hp) Electric 4WD,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,5180,1990,1490,,2026-09-23 08:52:14
@@ -56851,9 +56858,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54266,Livan,X6 Pro,X6 Pro,2024,1.5 TGDI (174 Hp) WDCT,Internal Combustion engine,174,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4535,1845,1725,1499,2025-05-13 16:16:03
 54276,Livan,S6 Pro,S6 Pro,2024,1.5T (181 Hp) DCT,Internal Combustion engine,181,5500,Petrol (Gasoline),Sedan,5,2023,,4730,1818,1480,1350,2025-05-14 14:24:06
 54277,Livan,S6 Pro,S6 Pro,2024,1.5T (147 Hp) DCT,Internal Combustion engine,147,5500,Petrol (Gasoline),Sedan,5,2023,,4730,1818,1480,1425,2025-05-14 14:24:06
-54278,Livan,7,7,2023,50.4 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2025-05-14 14:24:06
-54279,Livan,7,7,2023,68.03 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2025-05-14 14:24:06
-54280,Livan,7,7,2023,68.03 kWh (245 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2025-05-14 14:24:06
+54278,Livan,7,7,2023,50.4 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2026-10-12 14:25:35
+54279,Livan,7,7,2023,68.03 kWh (163 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2026-10-12 14:25:46
+54280,Livan,7,7,2023,68.03 kWh (245 Hp) Electric,BEV (Electric Vehicle),,,Electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,,4690,1892,1650,,2026-10-12 14:25:59
 54319,Livan,Maple 80V,Maple 80V,2022,50.4 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),6-7,2022,,4812,1909,1699,1805,2025-05-19 16:23:07
 54320,Livan,Maple 80V,Maple 80V,2022,68.08 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),6-7,2022,,4812,1909,1699,1805,2025-05-19 16:23:07
 54321,Livan,Maple 60S,Maple 60S,2022,52.56 kWh (136 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Sedan,5,2022,,4730,1804,1530,1600,2025-05-19 16:23:07
