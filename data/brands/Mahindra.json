@@ -26,13 +26,15 @@
                     "generation": "Ambulance",
                     "engine": "2.5 D (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1990",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -62,13 +64,15 @@
                     "generation": "CJ 3 Wagon",
                     "engine": "2.1 D (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63",
                     "powerHp": "63",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "10113",
@@ -78,13 +82,15 @@
                     "generation": "CJ 3 Wagon",
                     "engine": "2.2 (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72",
                     "powerHp": "72",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "10114",
@@ -94,13 +100,15 @@
                     "generation": "CJ 3 Wagon",
                     "engine": "2.3 D (38 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38",
                     "powerHp": "38",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "10115",
@@ -110,13 +118,15 @@
                     "generation": "CJ 3 Wagon",
                     "engine": "2.5 D (39 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "39",
                     "powerHp": "39",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -146,6 +156,7 @@
                     "generation": "Marshal",
                     "engine": "2.0 i 16V (116 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "116/5500",
                     "powerHp": "116",
                     "powerRpm": "5500",
@@ -153,6 +164,7 @@
                     "yearstart": "2002",
                     "yearstop": "2005",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4475",
@@ -160,6 +172,7 @@
                     "height": "1916",
                     "heightMin": "1916",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1810",
                     "curbWeightMin": "1810"
                   }
@@ -191,13 +204,15 @@
                     "generation": "MM Double Cab",
                     "engine": "2.5 D (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -227,12 +242,14 @@
                     "generation": "Scorpio (facelift 2017)",
                     "engine": "2.5 m2DICR (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/3200",
                     "powerHp": "75",
                     "powerRpm": "3200",
                     "powerRpmLow": "3200",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4456",
@@ -240,7 +257,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "34552",
@@ -250,12 +267,14 @@
                     "generation": "Scorpio (facelift 2017)",
                     "engine": "2.2 mHawk (120 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/4000",
                     "powerHp": "120",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4456",
@@ -263,7 +282,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "34553",
@@ -273,12 +292,14 @@
                     "generation": "Scorpio (facelift 2017)",
                     "engine": "2.2 mHawk (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4456",
@@ -286,7 +307,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "34554",
@@ -296,12 +317,14 @@
                     "generation": "Scorpio (facelift 2017)",
                     "engine": "2.2 mHawk (140 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4456",
@@ -309,7 +332,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -330,6 +353,7 @@
                     "generation": "Scorpio",
                     "engine": "2.0 i MPFI 2WD (116 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "116/5500",
                     "powerHp": "116",
                     "powerRpm": "5500",
@@ -337,6 +361,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4475",
@@ -344,6 +369,7 @@
                     "height": "1916",
                     "heightMin": "1916",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   },
@@ -355,6 +381,7 @@
                     "generation": "Scorpio",
                     "engine": "2.0 i MPFI 4WD (116 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "116/5500",
                     "powerHp": "116",
                     "powerRpm": "5500",
@@ -362,6 +389,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4475",
@@ -369,6 +397,7 @@
                     "height": "1916",
                     "heightMin": "1916",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1810",
                     "curbWeightMin": "1810"
                   },
@@ -380,6 +409,7 @@
                     "generation": "Scorpio",
                     "engine": "2.6 DI 2WD (109 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "109/3800",
                     "powerHp": "109",
                     "powerRpm": "3800",
@@ -387,6 +417,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4475",
@@ -394,6 +425,7 @@
                     "height": "1916",
                     "heightMin": "1916",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1910",
                     "curbWeightMin": "1910"
                   },
@@ -405,6 +437,7 @@
                     "generation": "Scorpio",
                     "engine": "2.6 DI 4WD (109 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "109/3800",
                     "powerHp": "109",
                     "powerRpm": "3800",
@@ -412,6 +445,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4475",
@@ -419,6 +453,7 @@
                     "height": "1916",
                     "heightMin": "1916",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1990",
                     "curbWeightMin": "1990"
                   }
@@ -450,6 +485,7 @@
                     "generation": "Armada (CJ7)",
                     "engine": "2.1 D (62 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -457,6 +493,7 @@
                     "yearstart": "1990",
                     "yearstop": "2001",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4305",
@@ -464,6 +501,7 @@
                     "height": "1738",
                     "heightMin": "1738",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1700",
                     "curbWeightMin": "1700"
                   },
@@ -475,6 +513,7 @@
                     "generation": "Armada (CJ7)",
                     "engine": "2.5 D 4WD Grand (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/4000",
                     "powerHp": "72",
                     "powerRpm": "4000",
@@ -482,6 +521,7 @@
                     "yearstart": "1992",
                     "yearstop": "2001",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4360",
@@ -489,6 +529,7 @@
                     "height": "1738",
                     "heightMin": "1738",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   }
@@ -520,13 +561,15 @@
                     "generation": "CL",
                     "engine": "2.5 D (80 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "80",
                     "powerHp": "80",
                     "yearstart": "1993",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -556,6 +599,7 @@
                     "generation": "MM 540/550",
                     "engine": "540 DP (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -563,6 +607,7 @@
                     "yearstart": "1995",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3810",
@@ -570,6 +615,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1330",
                     "curbWeightMin": "1330"
                   },
@@ -581,6 +627,7 @@
                     "generation": "MM 540/550",
                     "engine": "540 XDB (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/4000",
                     "powerHp": "72",
                     "powerRpm": "4000",
@@ -588,6 +635,7 @@
                     "yearstart": "1990",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "3810",
@@ -595,6 +643,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1370",
                     "curbWeightMin": "1370"
                   },
@@ -606,6 +655,7 @@
                     "generation": "MM 540/550",
                     "engine": "550 DP (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -613,6 +663,7 @@
                     "yearstart": "1994",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3810",
@@ -620,6 +671,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1335",
                     "curbWeightMin": "1335"
                   },
@@ -631,6 +683,7 @@
                     "generation": "MM 540/550",
                     "engine": "550 PE (94 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "94/4500",
                     "powerHp": "94",
                     "powerRpm": "4500",
@@ -638,6 +691,7 @@
                     "yearstart": "1990",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "3810",
@@ -645,6 +699,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   }
@@ -676,15 +731,17 @@
                     "generation": "Mm550 DP",
                     "engine": "2.5 (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1998",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -714,13 +771,15 @@
                     "generation": "Tempo",
                     "engine": "2.5 D (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1990",
                     "yearstop": "2000",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -750,12 +809,14 @@
                     "generation": "Bolero (facelift 2025)",
                     "engine": "1.5 TD (76 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "76/3600",
                     "powerHp": "76",
                     "powerRpm": "3600",
                     "powerRpmLow": "3600",
                     "yearstart": "2025",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3995",
@@ -763,7 +824,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -784,6 +845,7 @@
                     "generation": "Bolero EX",
                     "engine": "2.5 TDI (63 Hp) AWD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63/3200",
                     "powerHp": "63",
                     "powerRpm": "3200",
@@ -791,6 +853,7 @@
                     "yearstart": "2011",
                     "yearstop": "2025",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4107",
@@ -800,7 +863,7 @@
                     "rideHeight": "183",
                     "rideHeightMin": "183",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -821,6 +884,7 @@
                     "generation": "Bolero (CJ7)",
                     "engine": "2.5 D (72 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/4000",
                     "powerHp": "72",
                     "powerRpm": "4000",
@@ -828,6 +892,7 @@
                     "yearstart": "2001",
                     "yearstop": "2007",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4285",
@@ -835,6 +900,7 @@
                     "height": "1810",
                     "heightMin": "1810",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1695",
                     "curbWeightMin": "1695"
                   }
@@ -866,6 +932,7 @@
                     "generation": "Commander",
                     "engine": "650 Di (50 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "50/3000",
                     "powerHp": "50",
                     "powerRpm": "3000",
@@ -873,6 +940,7 @@
                     "yearstart": "1990",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4305",
@@ -880,6 +948,7 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   },
@@ -891,6 +960,7 @@
                     "generation": "Commander",
                     "engine": "750 ST (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -898,6 +968,7 @@
                     "yearstart": "1990",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4305",
@@ -905,6 +976,7 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1370",
                     "curbWeightMin": "1370"
                   },
@@ -916,6 +988,7 @@
                     "generation": "Commander",
                     "engine": "750 ST 2WD (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -923,6 +996,7 @@
                     "yearstart": "1990",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4305",
@@ -930,6 +1004,7 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   }
@@ -961,6 +1036,7 @@
                     "generation": "MM 775",
                     "engine": "2.1 D XDB (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/4500",
                     "powerHp": "62",
                     "powerRpm": "4500",
@@ -968,6 +1044,7 @@
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4190",
@@ -975,6 +1052,7 @@
                     "height": "1940",
                     "heightMin": "1940",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -986,6 +1064,7 @@
                     "generation": "MM 775",
                     "engine": "2.1 XDB (94 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "94/4500",
                     "powerHp": "94",
                     "powerRpm": "4500",
@@ -993,6 +1072,7 @@
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4190",
@@ -1000,6 +1080,7 @@
                     "height": "1940",
                     "heightMin": "1940",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1510",
                     "curbWeightMin": "1510"
                   },
@@ -1011,6 +1092,7 @@
                     "generation": "MM 775",
                     "engine": "2.5 D XDB (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/4000",
                     "powerHp": "72",
                     "powerRpm": "4000",
@@ -1018,6 +1100,7 @@
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4190",
@@ -1025,6 +1108,7 @@
                     "height": "1940",
                     "heightMin": "1940",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1580",
                     "curbWeightMin": "1580"
                   }
@@ -1056,13 +1140,15 @@
                     "generation": "NC 640 DP",
                     "engine": "2.5 (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1985",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1092,13 +1178,15 @@
                     "generation": "Voyager",
                     "engine": "2.5 D (80 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "80",
                     "powerHp": "80",
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1128,13 +1216,15 @@
                     "generation": "CJ 3",
                     "engine": "2.1 D (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63",
                     "powerHp": "63",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "10141",
@@ -1144,13 +1234,15 @@
                     "generation": "CJ 3",
                     "engine": "2.2 (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72",
                     "powerHp": "72",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "10142",
@@ -1160,13 +1252,15 @@
                     "generation": "CJ 3",
                     "engine": "2.3 D (38 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38",
                     "powerHp": "38",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "10143",
@@ -1176,13 +1270,15 @@
                     "generation": "CJ 3",
                     "engine": "2.5 D (39 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "39",
                     "powerHp": "39",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1212,12 +1308,14 @@
                     "generation": "KUV100 NXT (facelift 2017)",
                     "engine": "1.2 (83 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "83/5500",
                     "powerHp": "83",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -1228,7 +1326,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "32755",
@@ -1238,12 +1336,14 @@
                     "generation": "KUV100 NXT (facelift 2017)",
                     "engine": "1.2d (78 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "78/3750",
                     "powerHp": "78",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -1254,7 +1354,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1275,6 +1375,7 @@
                     "generation": "KUV100",
                     "engine": "1.2d (78 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "78/3750",
                     "powerHp": "78",
                     "powerRpm": "3750",
@@ -1282,6 +1383,7 @@
                     "yearstart": "2016",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -1292,7 +1394,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27436",
@@ -1302,6 +1404,7 @@
                     "generation": "KUV100",
                     "engine": "1.2 (83 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "83/5500",
                     "powerHp": "83",
                     "powerRpm": "5500",
@@ -1309,6 +1412,7 @@
                     "yearstart": "2016",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -1320,7 +1424,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1350,6 +1454,7 @@
                     "generation": "Quanto",
                     "engine": "1.5d (101 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "101/3750",
                     "powerHp": "101",
                     "powerRpm": "3750",
@@ -1357,6 +1462,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3985",
@@ -1367,6 +1473,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1640",
                     "curbWeightMin": "1640"
                   }
@@ -1398,6 +1505,7 @@
                     "generation": "NuvoSport",
                     "engine": "1.5 d (101 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "101/3750",
                     "powerHp": "101",
                     "powerRpm": "3750",
@@ -1405,6 +1513,7 @@
                     "yearstart": "2016",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3985",
@@ -1414,7 +1523,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27642",
@@ -1424,12 +1533,14 @@
                     "generation": "NuvoSport",
                     "engine": "1.5 d (101 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "101/3750",
                     "powerHp": "101",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2016",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3985",
@@ -1439,7 +1550,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1469,12 +1580,14 @@
                     "generation": "Supro",
                     "engine": "0.9 (45 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "45/3750",
                     "powerHp": "45",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2015",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "8",
                     "placesMin": "8",
                     "length": "3798",
@@ -1482,6 +1595,7 @@
                     "height": "1922",
                     "heightMin": "1922",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1210",
                     "curbWeightMin": "1210"
                   },
@@ -1493,12 +1607,14 @@
                     "generation": "Supro",
                     "engine": "0.9 d (45 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "45/3750",
                     "powerHp": "45",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2015",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "5-8",
                     "placesMin": "5",
                     "placesMax": "8",
@@ -1508,6 +1624,7 @@
                     "heightMin": "1910",
                     "heightMax": "1922",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1198-1215",
                     "curbWeightMin": "1198",
                     "curbWeightMax": "1215"
@@ -1540,10 +1657,12 @@
                     "generation": "TUV300",
                     "engine": "1.5 (101 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "101",
                     "powerHp": "101",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3995",
@@ -1553,7 +1672,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27667",
@@ -1563,12 +1682,14 @@
                     "generation": "TUV300",
                     "engine": "1.5 d (82 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "82/3750",
                     "powerHp": "82",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3995",
@@ -1578,7 +1699,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27683",
@@ -1588,12 +1709,14 @@
                     "generation": "TUV300",
                     "engine": "1.5 d (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/3750",
                     "powerHp": "85",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3995",
@@ -1603,7 +1726,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27896",
@@ -1613,10 +1736,12 @@
                     "generation": "TUV300",
                     "engine": "1.5 (101 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "101",
                     "powerHp": "101",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3995",
@@ -1626,7 +1751,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1656,12 +1781,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.2L (152 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/3750",
                     "powerHp": "152",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1669,7 +1796,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52598",
@@ -1679,12 +1806,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.2L (152 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/3750",
                     "powerHp": "152",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1692,7 +1821,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52597",
@@ -1702,12 +1831,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.2L (152 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/3750",
                     "powerHp": "152",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1715,7 +1846,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52595",
@@ -1725,12 +1856,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.0L (162 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "162/5000",
                     "powerHp": "162",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1738,7 +1871,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52596",
@@ -1748,12 +1881,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.0L (177 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "177/5000",
                     "powerHp": "177",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1761,7 +1896,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52600",
@@ -1771,12 +1906,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.2L (175 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "175/3500",
                     "powerHp": "175",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1784,7 +1921,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52601",
@@ -1794,12 +1931,14 @@
                     "generation": "Thar Roxx",
                     "engine": "2.2L (175 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "175/3500",
                     "powerHp": "175",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4428",
@@ -1807,7 +1946,7 @@
                     "height": "1923",
                     "heightMin": "1923",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1828,12 +1967,14 @@
                     "generation": "Thar II",
                     "engine": "2.2 mHawk CRDe (132 Hp) 4WD 4-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/3750",
                     "powerHp": "132",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3985",
@@ -1845,7 +1986,7 @@
                     "rideHeightMin": "219",
                     "rideHeightMax": "226",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "41009",
@@ -1855,12 +1996,14 @@
                     "generation": "Thar II",
                     "engine": "2.2 mHawk CRDe (132 Hp) 4WD Automatic 4-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/3750",
                     "powerHp": "132",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3985",
@@ -1872,7 +2015,7 @@
                     "rideHeightMin": "219",
                     "rideHeightMax": "226",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "41010",
@@ -1882,12 +2025,14 @@
                     "generation": "Thar II",
                     "engine": "2.0 mStallion TGDi (152 Hp) 4WD 6-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/5000",
                     "powerHp": "152",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3985",
@@ -1898,7 +2043,7 @@
                     "rideHeight": "219",
                     "rideHeightMin": "219",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "41011",
@@ -1908,12 +2053,14 @@
                     "generation": "Thar II",
                     "engine": "2.0 mStallion TGDi (152 Hp) 4WD Automatic 6-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/5000",
                     "powerHp": "152",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3985",
@@ -1924,7 +2071,7 @@
                     "rideHeight": "219",
                     "rideHeightMin": "219",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "41164",
@@ -1934,12 +2081,14 @@
                     "generation": "Thar II",
                     "engine": "2.2 mHawk CRDe (132 Hp) 4WD 6-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/3750",
                     "powerHp": "132",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3985",
@@ -1950,7 +2099,7 @@
                     "rideHeight": "219",
                     "rideHeightMin": "219",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "41165",
@@ -1960,12 +2109,14 @@
                     "generation": "Thar II",
                     "engine": "2.2 mHawk CRDe (132 Hp) 4WD Automatic 6-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/3750",
                     "powerHp": "132",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3985",
@@ -1976,7 +2127,7 @@
                     "rideHeight": "219",
                     "rideHeightMin": "219",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "41166",
@@ -1986,12 +2137,14 @@
                     "generation": "Thar II",
                     "engine": "2.0 mStallion TGDi (152 Hp) 4WD 4-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/5000",
                     "powerHp": "152",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3985",
@@ -2003,7 +2156,7 @@
                     "rideHeightMin": "219",
                     "rideHeightMax": "226",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "41167",
@@ -2013,12 +2166,14 @@
                     "generation": "Thar II",
                     "engine": "2.0 mStallion TGDi (152 Hp) 4WD Automatic 4-Seater",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "152/5000",
                     "powerHp": "152",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3985",
@@ -2030,7 +2185,7 @@
                     "rideHeightMin": "219",
                     "rideHeightMax": "226",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2051,6 +2206,7 @@
                     "generation": "Thar I",
                     "engine": "2.6 (64 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "64/3200",
                     "powerHp": "64",
                     "powerRpm": "3200",
@@ -2058,6 +2214,7 @@
                     "yearstart": "2010",
                     "yearstop": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "7",
                     "placesMin": "7",
                     "length": "3760",
@@ -2067,7 +2224,7 @@
                     "rideHeight": "187",
                     "rideHeightMin": "187",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27668",
@@ -2077,6 +2234,7 @@
                     "generation": "Thar I",
                     "engine": "2.5 d (106 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/3800",
                     "powerHp": "106",
                     "powerRpm": "3800",
@@ -2084,6 +2242,7 @@
                     "yearstart": "2010",
                     "yearstop": "2020",
                     "coupe": "Off-road, Cabriolet",
+                    "coupeId": "1,2",
                     "places": "6",
                     "placesMin": "6",
                     "length": "3920",
@@ -2093,6 +2252,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1750",
                     "curbWeightMin": "1750"
                   }
@@ -2124,6 +2284,7 @@
                     "generation": "Verito",
                     "engine": "1.5d (65 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65/4000",
                     "powerHp": "65",
                     "powerRpm": "4000",
@@ -2131,6 +2292,7 @@
                     "yearstart": "2011",
                     "yearstop": "2012",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4277",
@@ -2140,6 +2302,7 @@
                     "rideHeight": "172",
                     "rideHeightMin": "172",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1140",
                     "curbWeightMin": "1140"
                   },
@@ -2151,6 +2314,7 @@
                     "generation": "Verito",
                     "engine": "1.4 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/5500",
                     "powerHp": "75",
                     "powerRpm": "5500",
@@ -2158,6 +2322,7 @@
                     "yearstart": "2011",
                     "yearstop": "2012",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4277",
@@ -2167,6 +2332,7 @@
                     "rideHeight": "172",
                     "rideHeightMin": "172",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1080",
                     "curbWeightMin": "1080"
                   }
@@ -2198,12 +2364,14 @@
                     "generation": "Verito Vibe",
                     "engine": "1.5 dCi (65 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65/4000",
                     "powerHp": "65",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2013",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3991",
@@ -2213,6 +2381,7 @@
                     "rideHeight": "172",
                     "rideHeightMin": "172",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1155",
                     "curbWeightMin": "1155"
                   }
@@ -2244,6 +2413,7 @@
                     "generation": "XUV500 (facelift 2018)",
                     "engine": "2.2i (140 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4500",
                     "powerHp": "140",
                     "powerRpm": "4500",
@@ -2251,6 +2421,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2260,7 +2431,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "33017",
@@ -2270,6 +2441,7 @@
                     "generation": "XUV500 (facelift 2018)",
                     "engine": "2.2i (140 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4500",
                     "powerHp": "140",
                     "powerRpm": "4500",
@@ -2277,6 +2449,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2286,7 +2459,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "33018",
@@ -2296,6 +2469,7 @@
                     "generation": "XUV500 (facelift 2018)",
                     "engine": "2.2d (155 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "155/3750",
                     "powerHp": "155",
                     "powerRpm": "3750",
@@ -2303,6 +2477,7 @@
                     "yearstart": "2018",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2312,7 +2487,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "33019",
@@ -2322,6 +2497,7 @@
                     "generation": "XUV500 (facelift 2018)",
                     "engine": "2.2d (155 Hp) AWD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "155/3750",
                     "powerHp": "155",
                     "powerRpm": "3750",
@@ -2329,6 +2505,7 @@
                     "yearstart": "2018",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2338,7 +2515,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2359,6 +2536,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.2d (140 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2366,6 +2544,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2375,7 +2554,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27928",
@@ -2385,6 +2564,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.0d (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2392,6 +2572,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2401,7 +2582,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27977",
@@ -2411,6 +2592,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.0d (140 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2418,6 +2600,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2425,7 +2608,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27997",
@@ -2435,6 +2618,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.2d (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2442,6 +2626,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2451,7 +2636,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "28017",
@@ -2461,6 +2646,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.2d (140 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2468,6 +2654,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2477,7 +2664,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "28037",
@@ -2487,6 +2674,7 @@
                     "generation": "XUV500 (facelift 2015)",
                     "engine": "2.2d (140 Hp) AWD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -2494,6 +2682,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4585",
@@ -2503,7 +2692,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2533,6 +2722,7 @@
                     "generation": "Xylo",
                     "engine": "2.2 CRDe (120 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/4000",
                     "powerHp": "120",
                     "powerRpm": "4000",
@@ -2540,6 +2730,7 @@
                     "yearstart": "2012",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "8",
                     "placesMin": "8",
                     "length": "4520",
@@ -2549,7 +2740,7 @@
                     "rideHeight": "186",
                     "rideHeightMin": "186",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27979",
@@ -2559,6 +2750,7 @@
                     "generation": "Xylo",
                     "engine": "2.5 CRDe (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/3600",
                     "powerHp": "95",
                     "powerRpm": "3600",
@@ -2566,6 +2758,7 @@
                     "yearstart": "2012",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "9",
                     "placesMin": "9",
                     "length": "4520",
@@ -2575,7 +2768,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2605,8 +2798,10 @@
                     "generation": "E Verito",
                     "engine": "14.4 kWh (41 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2016",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4247",
@@ -2614,7 +2809,7 @@
                     "height": "1540",
                     "heightMin": "1540",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -2644,12 +2839,14 @@
                     "generation": "Marazzo",
                     "engine": "1.5d (121 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "121/3500",
                     "powerHp": "121",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7-8",
                     "placesMin": "7",
                     "placesMax": "8",
@@ -2658,7 +2855,7 @@
                     "height": "1774",
                     "heightMin": "1774",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2688,12 +2885,14 @@
                     "generation": "Alturas G4",
                     "engine": "2.2 CRDI (181 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "181/4000",
                     "powerHp": "181",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4850",
@@ -2701,6 +2900,7 @@
                     "height": "1845",
                     "heightMin": "1845",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2050",
                     "curbWeightMin": "2050"
                   },
@@ -2712,12 +2912,14 @@
                     "generation": "Alturas G4",
                     "engine": "2.2 CRDI (181 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "181/4000",
                     "powerHp": "181",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4850",
@@ -2725,6 +2927,7 @@
                     "height": "1845",
                     "heightMin": "1845",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2150",
                     "curbWeightMin": "2150"
                   }
@@ -2756,12 +2959,14 @@
                     "generation": "Imperio Double cab",
                     "engine": "2.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/3200",
                     "powerHp": "75",
                     "powerRpm": "3200",
                     "powerRpmLow": "3200",
                     "yearstart": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5180",
@@ -2771,7 +2976,7 @@
                     "rideHeight": "211",
                     "rideHeightMin": "211",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2792,12 +2997,14 @@
                     "generation": "Imperio Single cab",
                     "engine": "2.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/3200",
                     "powerHp": "75",
                     "powerRpm": "3200",
                     "powerRpmLow": "3200",
                     "yearstart": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "2",
                     "placesMin": "2",
                     "length": "5280",
@@ -2807,7 +3014,7 @@
                     "rideHeight": "211",
                     "rideHeightMin": "211",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2837,12 +3044,14 @@
                     "generation": "Roxor",
                     "engine": "2.5 m2DiCR (62 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62/3200",
                     "powerHp": "62",
                     "powerRpm": "3200",
                     "powerRpmLow": "3200",
                     "yearstart": "2018",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3759",
@@ -2852,6 +3061,7 @@
                     "rideHeight": "229",
                     "rideHeightMin": "229",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1377",
                     "curbWeightMin": "1377"
                   }
@@ -2883,6 +3093,7 @@
                     "generation": "Goa",
                     "engine": "2.5 (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/3800",
                     "powerHp": "106",
                     "powerRpm": "3800",
@@ -2890,6 +3101,7 @@
                     "yearstart": "2008",
                     "yearstop": "2013",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-7",
                     "placesMin": "5",
                     "placesMax": "7",
@@ -2898,6 +3110,7 @@
                     "height": "1975",
                     "heightMin": "1975",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1942",
                     "curbWeightMin": "1942"
                   },
@@ -2909,6 +3122,7 @@
                     "generation": "Goa",
                     "engine": "2.5 (106 Hp) AWD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/3800",
                     "powerHp": "106",
                     "powerRpm": "3800",
@@ -2916,6 +3130,7 @@
                     "yearstart": "2008",
                     "yearstop": "2013",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-7",
                     "placesMin": "5",
                     "placesMax": "7",
@@ -2924,6 +3139,7 @@
                     "height": "1975",
                     "heightMin": "1975",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   }
@@ -2955,12 +3171,14 @@
                     "generation": "XUV700",
                     "engine": "2.0 TGDi (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5000",
                     "powerHp": "200",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4695",
@@ -2968,7 +3186,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45113",
@@ -2978,12 +3196,14 @@
                     "generation": "XUV700",
                     "engine": "2.0 TGDi (200 Hp) 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5000",
                     "powerHp": "200",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -2991,7 +3211,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45114",
@@ -3001,12 +3221,14 @@
                     "generation": "XUV700",
                     "engine": "2.0 TGDi (200 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5000",
                     "powerHp": "200",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4695",
@@ -3014,7 +3236,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45115",
@@ -3024,12 +3246,14 @@
                     "generation": "XUV700",
                     "engine": "2.0 TGDi (200 Hp) Automatic 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5000",
                     "powerHp": "200",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -3037,7 +3261,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45116",
@@ -3047,12 +3271,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (155 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "155/3750",
                     "powerHp": "155",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4695",
@@ -3060,7 +3286,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45117",
@@ -3070,12 +3296,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (155 Hp) 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "155/3750",
                     "powerHp": "155",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -3083,7 +3311,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45118",
@@ -3093,12 +3321,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (185 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185/3500",
                     "powerHp": "185",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4695",
@@ -3106,7 +3336,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45119",
@@ -3116,12 +3346,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (185 Hp) 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185/3500",
                     "powerHp": "185",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -3129,7 +3361,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45120",
@@ -3139,12 +3371,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (185 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185/3500",
                     "powerHp": "185",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4695",
@@ -3152,7 +3386,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45121",
@@ -3162,12 +3396,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (185 Hp) Automatic 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185/3500",
                     "powerHp": "185",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -3175,7 +3411,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "45122",
@@ -3185,12 +3421,14 @@
                     "generation": "XUV700",
                     "engine": "2.2 CRDi (185 Hp) AWD Automatic 7 Seat",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185/3500",
                     "powerHp": "185",
                     "powerRpm": "3500",
                     "powerRpmLow": "3500",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4695",
@@ -3198,7 +3436,7 @@
                     "height": "1755",
                     "heightMin": "1755",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -3228,12 +3466,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.2 TCMPFi (111 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "111/5000",
                     "powerHp": "111",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3243,7 +3483,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53390",
@@ -3253,12 +3493,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.2 TCMPFi (111 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "111/5000",
                     "powerHp": "111",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3268,7 +3510,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53391",
@@ -3278,12 +3520,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.2 TGDi (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5000",
                     "powerHp": "130",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3293,7 +3537,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53392",
@@ -3303,12 +3547,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.2 TGDi (130 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5000",
                     "powerHp": "130",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3318,7 +3564,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53393",
@@ -3328,12 +3574,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.5 CRDe (117 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "117/3750",
                     "powerHp": "117",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3343,7 +3591,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "53394",
@@ -3353,12 +3601,14 @@
                     "generation": "XUV 3XO (facelift 2024)",
                     "engine": "1.5 CRDe (117 Hp) AutoSHIFT+",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "117/3750",
                     "powerHp": "117",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3368,7 +3618,7 @@
                     "rideHeight": "201",
                     "rideHeightMin": "201",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -3389,6 +3639,7 @@
                     "generation": "XUV300",
                     "engine": "1.2 TCMPFI (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/5000",
                     "powerHp": "110",
                     "powerRpm": "5000",
@@ -3396,6 +3647,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3403,7 +3655,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53384",
@@ -3413,6 +3665,7 @@
                     "generation": "XUV300",
                     "engine": "1.2 TCMPFI (110 Hp) AutoSHIFT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/5000",
                     "powerHp": "110",
                     "powerRpm": "5000",
@@ -3420,6 +3673,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3427,7 +3681,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53385",
@@ -3437,6 +3691,7 @@
                     "generation": "XUV300",
                     "engine": "1.2 TGDi (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5000",
                     "powerHp": "130",
                     "powerRpm": "5000",
@@ -3444,6 +3699,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3451,7 +3707,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53386",
@@ -3461,6 +3717,7 @@
                     "generation": "XUV300",
                     "engine": "1.2 TGDi (130 Hp) AutoSHIFT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5000",
                     "powerHp": "130",
                     "powerRpm": "5000",
@@ -3468,6 +3725,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3475,7 +3733,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53387",
@@ -3485,6 +3743,7 @@
                     "generation": "XUV300",
                     "engine": "1.5 CRDi (117 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "117/3750",
                     "powerHp": "117",
                     "powerRpm": "3750",
@@ -3492,6 +3751,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3499,7 +3759,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "53388",
@@ -3509,6 +3769,7 @@
                     "generation": "XUV300",
                     "engine": "1.5 CRDi (117 Hp) AutoSHIFT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "117/3750",
                     "powerHp": "117",
                     "powerRpm": "3750",
@@ -3516,6 +3777,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -3523,7 +3785,7 @@
                     "height": "1627",
                     "heightMin": "1627",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -3553,8 +3815,10 @@
                     "generation": "XUV400",
                     "engine": "34.5 kWh (150 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -3562,7 +3826,7 @@
                     "height": "1634",
                     "heightMin": "1634",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "53420",
@@ -3572,8 +3836,10 @@
                     "generation": "XUV400",
                     "engine": "39.4 kWh (150 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -3581,7 +3847,7 @@
                     "height": "1634",
                     "heightMin": "1634",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -3611,8 +3877,10 @@
                     "generation": "BE 6e",
                     "engine": "59 kWh (231 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4371",
@@ -3622,7 +3890,7 @@
                     "rideHeight": "207",
                     "rideHeightMin": "207",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "53422",
@@ -3632,8 +3900,10 @@
                     "generation": "BE 6e",
                     "engine": "79 kWh (286 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4371",
@@ -3643,7 +3913,7 @@
                     "rideHeight": "207",
                     "rideHeightMin": "207",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -3673,8 +3943,10 @@
                     "generation": "XEV 9e",
                     "engine": "59 kWh (231 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4789",
@@ -3684,7 +3956,7 @@
                     "rideHeight": "207",
                     "rideHeightMin": "207",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "53424",
@@ -3694,8 +3966,10 @@
                     "generation": "XEV 9e",
                     "engine": "79 kWh (286 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4789",
@@ -3705,7 +3979,7 @@
                     "rideHeight": "207",
                     "rideHeightMin": "207",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

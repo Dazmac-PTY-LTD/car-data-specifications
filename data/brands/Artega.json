@@ -36,8 +36,10 @@
                     "generation": "Scalo",
                     "engine": "37 kWh (408 Hp) Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2015",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4010",
@@ -45,6 +47,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1585",
                     "curbWeightMin": "1585"
                   }
@@ -76,6 +79,7 @@
                     "generation": "GT",
                     "engine": "3.6 V6 (300 Hp) DSG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6600",
                     "powerHp": "300",
                     "powerRpm": "6600",
@@ -83,6 +87,7 @@
                     "yearstart": "2010",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4015",
@@ -90,6 +95,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1285",
                     "curbWeightMin": "1285"
                   }

@@ -26,10 +26,12 @@
                     "generation": "Mono R",
                     "engine": "2.5 (340 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340",
                     "powerHp": "340",
                     "yearstart": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "1",
                     "placesMin": "1",
                     "length": "4007",
@@ -40,6 +42,7 @@
                     "rideHeightMin": "95",
                     "rideHeightMax": "115",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "566",
                     "curbWeightMin": "566"
                   }
@@ -62,11 +65,13 @@
                     "generation": "Mono",
                     "engine": "2.5 (305 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "305",
                     "powerHp": "305",
                     "yearstart": "2016",
                     "yearstop": "2020",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "1",
                     "placesMin": "1",
                     "length": "3952",
@@ -77,6 +82,7 @@
                     "rideHeightMin": "100",
                     "rideHeightMax": "110",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "580",
                     "curbWeightMin": "580"
                   }

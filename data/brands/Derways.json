@@ -26,6 +26,7 @@
                     "generation": "Antelope",
                     "engine": "2.4 (126 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "126/5250",
                     "powerHp": "126",
                     "powerRpm": "5250",
@@ -33,10 +34,11 @@
                     "yearstart": "2007",
                     "yearstop": "2007",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -66,6 +68,7 @@
                     "generation": "Cowboy",
                     "engine": "2.0 TD (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -73,6 +76,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4440",
@@ -80,6 +84,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1802",
                     "curbWeightMin": "1802"
                   },
@@ -91,6 +96,7 @@
                     "generation": "Cowboy",
                     "engine": "2.4 i (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5250",
                     "powerHp": "130",
                     "powerRpm": "5250",
@@ -98,6 +104,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4440",
@@ -105,6 +112,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1880",
                     "curbWeightMin": "1880"
                   },
@@ -116,6 +124,7 @@
                     "generation": "Cowboy",
                     "engine": "2.7 i (143 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5200",
                     "powerHp": "143",
                     "powerRpm": "5200",
@@ -123,6 +132,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4440",
@@ -130,6 +140,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1888",
                     "curbWeightMin": "1888"
                   },
@@ -141,6 +152,7 @@
                     "generation": "Cowboy",
                     "engine": "3.0 i V6 (160 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160/5200",
                     "powerHp": "160",
                     "powerRpm": "5200",
@@ -148,6 +160,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4440",
@@ -155,6 +168,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1888",
                     "curbWeightMin": "1888"
                   }
@@ -186,6 +200,7 @@
                     "generation": "Plutus",
                     "engine": "2.4 (126 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "126/5250",
                     "powerHp": "126",
                     "powerRpm": "5250",
@@ -193,6 +208,7 @@
                     "yearstart": "2007",
                     "yearstop": "2008",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5405",
@@ -200,6 +216,7 @@
                     "height": "1690",
                     "heightMin": "1690",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   }
@@ -231,6 +248,7 @@
                     "generation": "Saladin",
                     "engine": "2.4 i (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -238,6 +256,7 @@
                     "yearstart": "2007",
                     "yearstop": "2008",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4550",
@@ -245,6 +264,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1815",
                     "curbWeightMin": "1815"
                   },
@@ -256,6 +276,7 @@
                     "generation": "Saladin",
                     "engine": "3.3 V6 (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5200",
                     "powerHp": "170",
                     "powerRpm": "5200",
@@ -263,6 +284,7 @@
                     "yearstart": "2007",
                     "yearstop": "2008",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4550",
@@ -270,6 +292,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1815",
                     "curbWeightMin": "1815"
                   }
@@ -301,6 +324,7 @@
                     "generation": "Shuttle",
                     "engine": "2.4 i 16V (126 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "126/5250",
                     "powerHp": "126",
                     "powerRpm": "5250",
@@ -308,6 +332,7 @@
                     "yearstart": "2005",
                     "yearstop": "2008",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4985",
@@ -315,6 +340,7 @@
                     "height": "1885",
                     "heightMin": "1885",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   }
@@ -346,6 +372,7 @@
                     "generation": "Aurora",
                     "engine": "(126 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "126/5250",
                     "powerHp": "126",
                     "powerRpm": "5250",
@@ -353,6 +380,7 @@
                     "yearstart": "2006",
                     "yearstop": "2008",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4785",
@@ -360,6 +388,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1850",
                     "curbWeightMin": "1850"
                   }
@@ -391,6 +420,7 @@
                     "generation": "Land Crown",
                     "engine": "3.0 V6 (160 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160/5200",
                     "powerHp": "160",
                     "powerRpm": "5200",
@@ -398,6 +428,7 @@
                     "yearstart": "2007",
                     "yearstop": "2007",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4795",
@@ -405,6 +436,7 @@
                     "height": "1925",
                     "heightMin": "1925",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1960",
                     "curbWeightMin": "1960"
                   }

@@ -26,8 +26,10 @@
                     "generation": "GT7",
                     "engine": "86 kWh (340 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5050",
@@ -35,6 +37,7 @@
                     "height": "1470",
                     "heightMin": "1470",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2295",
                     "curbWeightMin": "2295"
                   },
@@ -46,8 +49,10 @@
                     "generation": "GT7",
                     "engine": "102.8 kWh (340 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5050",
@@ -55,6 +60,7 @@
                     "height": "1470",
                     "heightMin": "1470",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2295",
                     "curbWeightMin": "2295"
                   },
@@ -66,8 +72,10 @@
                     "generation": "GT7",
                     "engine": "102.8 kWh (768 Hp) Electric Tri Motor AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5050",
@@ -75,7 +83,7 @@
                     "height": "1470",
                     "heightMin": "1470",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

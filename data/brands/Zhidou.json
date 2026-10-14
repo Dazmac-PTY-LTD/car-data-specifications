@@ -26,8 +26,10 @@
                     "generation": "D1",
                     "engine": "11.5 kWh (24 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2014",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2763",
@@ -35,6 +37,7 @@
                     "height": "1524",
                     "heightMin": "1524",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "670",
                     "curbWeightMin": "670"
                   }
@@ -66,8 +69,10 @@
                     "generation": "D2",
                     "engine": "18 kWh (41 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2017",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2806",
@@ -75,6 +80,7 @@
                     "height": "1555",
                     "heightMin": "1555",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "704",
                     "curbWeightMin": "704"
                   }
@@ -106,8 +112,10 @@
                     "generation": "D3",
                     "engine": "17.52 kWh (41 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2808",
@@ -115,6 +123,7 @@
                     "height": "1555",
                     "heightMin": "1555",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "870",
                     "curbWeightMin": "870"
                   }

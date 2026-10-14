@@ -26,6 +26,7 @@
                     "generation": "Edonis",
                     "engine": "3.8 V12 (690 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "690/8000",
                     "powerHp": "690",
                     "powerRpm": "8000",
@@ -33,6 +34,7 @@
                     "yearstart": "2002",
                     "yearstop": "2006",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4350",
@@ -40,6 +42,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   }

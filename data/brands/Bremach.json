@@ -26,10 +26,12 @@
                     "generation": "SUV",
                     "engine": "2.7 (150 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4785",
@@ -40,6 +42,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2125",
                     "curbWeightMin": "2125"
                   }

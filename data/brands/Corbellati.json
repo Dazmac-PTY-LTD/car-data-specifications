@@ -26,11 +26,13 @@
                     "generation": "Missile (Concept)",
                     "engine": "9.0 V8 (1800 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "1800",
                     "powerHp": "1800",
                     "yearstart": "2018",
                     "yearstop": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4670",
@@ -40,7 +42,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

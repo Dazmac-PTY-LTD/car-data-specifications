@@ -26,6 +26,7 @@
                     "generation": "400 I",
                     "engine": "4.8 V12 (310 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "310/6500",
                     "powerHp": "310",
                     "powerRpm": "6500",
@@ -33,6 +34,7 @@
                     "yearstart": "1979",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -42,6 +44,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1830",
                     "curbWeightMin": "1830"
                   },
@@ -53,11 +56,13 @@
                     "generation": "400 I",
                     "engine": "4.8 V12 (340 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/",
                     "powerHp": "340",
                     "yearstart": "1979",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -67,7 +72,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "26573",
@@ -77,6 +82,7 @@
                     "generation": "400 I",
                     "engine": "4.8 V12 (310 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "310/6500",
                     "powerHp": "310",
                     "powerRpm": "6500",
@@ -84,6 +90,7 @@
                     "yearstart": "1979",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -93,7 +100,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "26574",
@@ -103,11 +110,13 @@
                     "generation": "400 I",
                     "engine": "4.8 V12 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/",
                     "powerHp": "340",
                     "yearstart": "1979",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -117,6 +126,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1900",
                     "curbWeightMin": "1900"
                   }
@@ -148,6 +158,7 @@
                     "generation": "California T",
                     "engine": "3.9 V8 (560 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "560/7500",
                     "powerHp": "560",
                     "powerRpm": "7500",
@@ -155,6 +166,7 @@
                     "yearstart": "2014",
                     "yearstop": "2017",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4570",
@@ -162,6 +174,7 @@
                     "height": "1322",
                     "heightMin": "1322",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1625",
                     "curbWeightMin": "1625"
                   }
@@ -184,6 +197,7 @@
                     "generation": "California",
                     "engine": "4.3 i V8 32V (460 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/9000",
                     "powerHp": "460",
                     "powerRpm": "9000",
@@ -191,6 +205,7 @@
                     "yearstart": "2009",
                     "yearstop": "2012",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4562",
@@ -198,7 +213,7 @@
                     "height": "1322",
                     "heightMin": "1322",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "18351",
@@ -208,6 +223,7 @@
                     "generation": "California",
                     "engine": "4.3 V8 (490 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "490/7750",
                     "powerHp": "490",
                     "powerRpm": "7750",
@@ -215,6 +231,7 @@
                     "yearstart": "2012",
                     "yearstop": "2014",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4562",
@@ -222,6 +239,7 @@
                     "height": "1322",
                     "heightMin": "1322",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1735",
                     "curbWeightMin": "1735"
                   },
@@ -233,6 +251,7 @@
                     "generation": "California",
                     "engine": "30 4.3 V8 (490 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "490/7750",
                     "powerHp": "490",
                     "powerRpm": "7750",
@@ -240,6 +259,7 @@
                     "yearstart": "2012",
                     "yearstop": "2014",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4562",
@@ -247,6 +267,7 @@
                     "height": "1322",
                     "heightMin": "1322",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1735",
                     "curbWeightMin": "1735"
                   }
@@ -278,6 +299,7 @@
                     "generation": "F40 Competizione",
                     "engine": "3.0 V8 (700 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "700/8100",
                     "powerHp": "700",
                     "powerRpm": "8100",
@@ -285,6 +307,7 @@
                     "yearstart": "1989",
                     "yearstop": "1989",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4535",
@@ -292,6 +315,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1040",
                     "curbWeightMin": "1040"
                   }
@@ -314,6 +338,7 @@
                     "generation": "F40",
                     "engine": "2.9 i V8 32V (478 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "478/7000",
                     "powerHp": "478",
                     "powerRpm": "7000",
@@ -321,6 +346,7 @@
                     "yearstart": "1987",
                     "yearstop": "1992",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4358",
@@ -330,6 +356,7 @@
                     "rideHeight": "125",
                     "rideHeightMin": "125",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   }
@@ -361,15 +388,17 @@
                     "generation": "208/308",
                     "engine": "208 Turbo (220 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "220",
                     "powerHp": "220",
                     "yearstart": "1982",
                     "yearstop": "1989",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "6526",
@@ -379,6 +408,7 @@
                     "generation": "208/308",
                     "engine": "308 GTB (255 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "255/7700",
                     "powerHp": "255",
                     "powerRpm": "7700",
@@ -386,6 +416,7 @@
                     "yearstart": "1975",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -393,6 +424,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1265",
                     "curbWeightMin": "1265"
                   },
@@ -404,6 +436,7 @@
                     "generation": "208/308",
                     "engine": "308 GTB Qv (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/7000",
                     "powerHp": "240",
                     "powerRpm": "7000",
@@ -411,6 +444,7 @@
                     "yearstart": "1982",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -418,6 +452,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1330",
                     "curbWeightMin": "1330"
                   },
@@ -429,11 +464,13 @@
                     "generation": "208/308",
                     "engine": "308 GTS (255 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "255",
                     "powerHp": "255",
                     "yearstart": "1977",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -441,7 +478,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "6529",
@@ -451,11 +488,13 @@
                     "generation": "208/308",
                     "engine": "308 GTS Qv (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240",
                     "powerHp": "240",
                     "yearstart": "1982",
                     "yearstop": "1985",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -463,7 +502,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -493,6 +532,7 @@
                     "generation": "412 I",
                     "engine": "4.9 V12 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/6000",
                     "powerHp": "340",
                     "powerRpm": "6000",
@@ -500,6 +540,7 @@
                     "yearstart": "1985",
                     "yearstop": "1988",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -509,6 +550,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1805",
                     "curbWeightMin": "1805"
                   },
@@ -520,6 +562,7 @@
                     "generation": "412 I",
                     "engine": "4.9 V12 (340 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/6000",
                     "powerHp": "340",
                     "powerRpm": "6000",
@@ -527,6 +570,7 @@
                     "yearstart": "1985",
                     "yearstop": "1988",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4810",
@@ -536,7 +580,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -566,6 +610,7 @@
                     "generation": "599 GTO",
                     "engine": "6.0 V12 (670 Hp) F1",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "670/8250",
                     "powerHp": "670",
                     "powerRpm": "8250",
@@ -573,6 +618,7 @@
                     "yearstart": "2010",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4709",
@@ -580,6 +626,7 @@
                     "height": "1326",
                     "heightMin": "1326",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1495",
                     "curbWeightMin": "1495"
                   }
@@ -602,6 +649,7 @@
                     "generation": "SA Aperta",
                     "engine": "6.0 V12 (670 Hp) F1",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "670/8250",
                     "powerHp": "670",
                     "powerRpm": "8250",
@@ -609,6 +657,7 @@
                     "yearstart": "2010",
                     "yearstop": "2010",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4700",
@@ -616,6 +665,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1595",
                     "curbWeightMin": "1595"
                   }
@@ -638,6 +688,7 @@
                     "generation": "599XX",
                     "engine": "6.0 V12 (730 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "730/9000",
                     "powerHp": "730",
                     "powerRpm": "9000",
@@ -645,6 +696,7 @@
                     "yearstart": "2009",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4787",
@@ -652,6 +704,7 @@
                     "height": "1283",
                     "heightMin": "1283",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1345",
                     "curbWeightMin": "1345"
                   }
@@ -674,6 +727,7 @@
                     "generation": "599 GTB Fiorano",
                     "engine": "6.0 V12 (620 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "620/7600",
                     "powerHp": "620",
                     "powerRpm": "7600",
@@ -681,6 +735,7 @@
                     "yearstart": "2006",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4666",
@@ -688,6 +743,7 @@
                     "height": "1336",
                     "heightMin": "1336",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1688",
                     "curbWeightMin": "1688"
                   },
@@ -699,6 +755,7 @@
                     "generation": "599 GTB Fiorano",
                     "engine": "6.0 V12 (620 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "620/7600",
                     "powerHp": "620",
                     "powerRpm": "7600",
@@ -706,6 +763,7 @@
                     "yearstart": "2006",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4666",
@@ -713,6 +771,7 @@
                     "height": "1336",
                     "heightMin": "1336",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1688",
                     "curbWeightMin": "1688"
                   }
@@ -754,6 +813,7 @@
                     "generation": "Dino GT4 (208/308)",
                     "engine": "208 2.0 V8 (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/7700",
                     "powerHp": "170",
                     "powerRpm": "7700",
@@ -761,6 +821,7 @@
                     "yearstart": "1975",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4300",
@@ -768,6 +829,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1150",
                     "curbWeightMin": "1150"
                   },
@@ -779,6 +841,7 @@
                     "generation": "Dino GT4 (208/308)",
                     "engine": "308 2.9 V8 (255 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "255/7700",
                     "powerHp": "255",
                     "powerRpm": "7700",
@@ -786,6 +849,7 @@
                     "yearstart": "1973",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4300",
@@ -793,6 +857,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1150",
                     "curbWeightMin": "1150"
                   }
@@ -824,6 +889,7 @@
                     "generation": "575M Maranello",
                     "engine": "575 (515 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "515/7250",
                     "powerHp": "515",
                     "powerRpm": "7250",
@@ -831,6 +897,7 @@
                     "yearstart": "2002",
                     "yearstop": "2006",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4550",
@@ -838,6 +905,7 @@
                     "height": "1277",
                     "heightMin": "1277",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   },
@@ -849,6 +917,7 @@
                     "generation": "575M Maranello",
                     "engine": "575M Superamerica (540 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "540/7250",
                     "powerHp": "540",
                     "powerRpm": "7250",
@@ -856,6 +925,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4550",
@@ -863,6 +933,7 @@
                     "height": "1280",
                     "heightMin": "1280",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1790",
                     "curbWeightMin": "1790"
                   }
@@ -894,6 +965,7 @@
                     "generation": "328 GTB",
                     "engine": "3.2 V8 (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270/7000",
                     "powerHp": "270",
                     "powerRpm": "7000",
@@ -901,6 +973,7 @@
                     "yearstart": "1985",
                     "yearstop": "1989",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4255",
@@ -910,6 +983,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1263",
                     "curbWeightMin": "1263"
                   }
@@ -932,6 +1006,7 @@
                     "generation": "328 GTS",
                     "engine": "3.2 V8 (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270/7000",
                     "powerHp": "270",
                     "powerRpm": "7000",
@@ -939,6 +1014,7 @@
                     "yearstart": "1985",
                     "yearstop": "1989",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4255",
@@ -948,6 +1024,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1273",
                     "curbWeightMin": "1273"
                   }
@@ -979,6 +1056,7 @@
                     "generation": "F430 Challenge",
                     "engine": "4.3 V8 (490 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "490/8500",
                     "powerHp": "490",
                     "powerRpm": "8500",
@@ -986,6 +1064,7 @@
                     "yearstart": "2007",
                     "yearstop": "2010",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4512",
@@ -993,6 +1072,7 @@
                     "height": "1184",
                     "heightMin": "1184",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1225",
                     "curbWeightMin": "1225"
                   }
@@ -1015,6 +1095,7 @@
                     "generation": "F430 Scuderia",
                     "engine": "4.3i V8 32V (510 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "510/8500",
                     "powerHp": "510",
                     "powerRpm": "8500",
@@ -1022,6 +1103,7 @@
                     "yearstart": "2007",
                     "yearstop": "2009",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4512",
@@ -1029,6 +1111,7 @@
                     "height": "1214",
                     "heightMin": "1214",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1350",
                     "curbWeightMin": "1350"
                   }
@@ -1051,6 +1134,7 @@
                     "generation": "F430 GTC",
                     "engine": "4.0 V8 (450 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "450/7000",
                     "powerHp": "450",
                     "powerRpm": "7000",
@@ -1058,6 +1142,7 @@
                     "yearstart": "2006",
                     "yearstop": "2010",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "1",
                     "placesMin": "1",
                     "length": "4511",
@@ -1065,6 +1150,7 @@
                     "height": "1175",
                     "heightMin": "1175",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1245",
                     "curbWeightMin": "1245"
                   }
@@ -1087,6 +1173,7 @@
                     "generation": "F430",
                     "engine": "4.3 i V8 32V (490 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "490/8500",
                     "powerHp": "490",
                     "powerRpm": "8500",
@@ -1094,6 +1181,7 @@
                     "yearstart": "2004",
                     "yearstop": "2009",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4512",
@@ -1101,6 +1189,7 @@
                     "height": "1214",
                     "heightMin": "1214",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   }
@@ -1123,6 +1212,7 @@
                     "generation": "F430 Spider",
                     "engine": "4.3 i V8 32V (490 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "490/8500",
                     "powerHp": "490",
                     "powerRpm": "8500",
@@ -1130,6 +1220,7 @@
                     "yearstart": "2004",
                     "yearstop": "2009",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4512",
@@ -1137,6 +1228,7 @@
                     "height": "1234",
                     "heightMin": "1234",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1520",
                     "curbWeightMin": "1520"
                   },
@@ -1148,6 +1240,7 @@
                     "generation": "F430 Spider",
                     "engine": "4.3 i V8 32V (510 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "510/8500",
                     "powerHp": "510",
                     "powerRpm": "8500",
@@ -1155,6 +1248,7 @@
                     "yearstart": "2008",
                     "yearstop": "2009",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4511",
@@ -1162,6 +1256,7 @@
                     "height": "1217",
                     "heightMin": "1217",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1440",
                     "curbWeightMin": "1440"
                   }
@@ -1193,6 +1288,7 @@
                     "generation": "612 Scaglietti",
                     "engine": "5.7i V12 48V (540 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "540/7250",
                     "powerHp": "540",
                     "powerRpm": "7250",
@@ -1200,6 +1296,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4902",
@@ -1207,6 +1304,7 @@
                     "height": "1344",
                     "heightMin": "1344",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1850",
                     "curbWeightMin": "1850"
                   },
@@ -1218,6 +1316,7 @@
                     "generation": "612 Scaglietti",
                     "engine": "5.7 i V12 48V (540 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "540/7250",
                     "powerHp": "540",
                     "powerRpm": "7250",
@@ -1225,6 +1324,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4900",
@@ -1234,6 +1334,7 @@
                     "rideHeight": "130",
                     "rideHeightMin": "130",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1840",
                     "curbWeightMin": "1840"
                   }
@@ -1265,6 +1366,7 @@
                     "generation": "Enzo",
                     "engine": "6.0 V12 (660 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "660/7800",
                     "powerHp": "660",
                     "powerRpm": "7800",
@@ -1272,6 +1374,7 @@
                     "yearstart": "2001",
                     "yearstop": "2005",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4702",
@@ -1279,6 +1382,7 @@
                     "height": "1147",
                     "heightMin": "1147",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1365",
                     "curbWeightMin": "1365"
                   }
@@ -1310,11 +1414,13 @@
                     "generation": "Mondial",
                     "engine": "3.2 Quattrovalvole (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270",
                     "powerHp": "270",
                     "yearstart": "1985",
                     "yearstop": "1988",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4285",
@@ -1322,6 +1428,7 @@
                     "height": "1128",
                     "heightMin": "1128",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1410",
                     "curbWeightMin": "1410"
                   },
@@ -1333,6 +1440,7 @@
                     "generation": "Mondial",
                     "engine": "3.4 i V8 32V (286 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "286/7200",
                     "powerHp": "286",
                     "powerRpm": "7200",
@@ -1340,6 +1448,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4535",
@@ -1347,6 +1456,7 @@
                     "height": "1235",
                     "heightMin": "1235",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1560",
                     "curbWeightMin": "1560"
                   },
@@ -1358,6 +1468,7 @@
                     "generation": "Mondial",
                     "engine": "3.4 i V8 32V (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7200",
                     "powerHp": "300",
                     "powerRpm": "7200",
@@ -1365,6 +1476,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4535",
@@ -1372,6 +1484,7 @@
                     "height": "1235",
                     "heightMin": "1235",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1505",
                     "curbWeightMin": "1505"
                   },
@@ -1383,6 +1496,7 @@
                     "generation": "Mondial",
                     "engine": "8 V8 (214 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "214/6600",
                     "powerHp": "214",
                     "powerRpm": "6600",
@@ -1390,6 +1504,7 @@
                     "yearstart": "1980",
                     "yearstop": "1982",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4580",
@@ -1397,6 +1512,7 @@
                     "height": "1250",
                     "heightMin": "1250",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1445",
                     "curbWeightMin": "1445"
                   },
@@ -1408,11 +1524,13 @@
                     "generation": "Mondial",
                     "engine": "8 Quattrovalvole (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240",
                     "powerHp": "240",
                     "yearstart": "1982",
                     "yearstop": "1987",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4580",
@@ -1420,7 +1538,7 @@
                     "height": "1260",
                     "heightMin": "1260",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1441,11 +1559,13 @@
                     "generation": "Mondial t Cabriolet",
                     "engine": "3.2 Quattrovalvole (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270",
                     "powerHp": "270",
                     "yearstart": "1985",
                     "yearstop": "1988",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4535",
@@ -1453,7 +1573,7 @@
                     "height": "1235",
                     "heightMin": "1235",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "6550",
@@ -1463,6 +1583,7 @@
                     "generation": "Mondial t Cabriolet",
                     "engine": "3.4 i V8 32V (286 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "286/7200",
                     "powerHp": "286",
                     "powerRpm": "7200",
@@ -1470,6 +1591,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4535",
@@ -1477,6 +1599,7 @@
                     "height": "1235",
                     "heightMin": "1235",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   },
@@ -1488,6 +1611,7 @@
                     "generation": "Mondial t Cabriolet",
                     "engine": "3.4 i V8 32V (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7200",
                     "powerHp": "300",
                     "powerRpm": "7200",
@@ -1495,6 +1619,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4535",
@@ -1502,6 +1627,7 @@
                     "height": "1235",
                     "heightMin": "1235",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1545",
                     "curbWeightMin": "1545"
                   },
@@ -1513,6 +1639,7 @@
                     "generation": "Mondial t Cabriolet",
                     "engine": "8 Quattrovalvole (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/7000",
                     "powerHp": "240",
                     "powerRpm": "7000",
@@ -1520,6 +1647,7 @@
                     "yearstart": "1983",
                     "yearstop": "1987",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4580",
@@ -1529,6 +1657,7 @@
                     "rideHeight": "125",
                     "rideHeightMin": "125",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1430",
                     "curbWeightMin": "1430"
                   }
@@ -1560,6 +1689,7 @@
                     "generation": "348 GTS",
                     "engine": "3.4 V8 (320 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "320/7200",
                     "powerHp": "320",
                     "powerRpm": "7200",
@@ -1567,6 +1697,7 @@
                     "yearstart": "1993",
                     "yearstop": "1995",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -1574,6 +1705,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1370",
                     "curbWeightMin": "1370"
                   }
@@ -1596,6 +1728,7 @@
                     "generation": "348 TS",
                     "engine": "3.4 V8 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7200",
                     "powerHp": "300",
                     "powerRpm": "7200",
@@ -1603,6 +1736,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -1610,6 +1744,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1393",
                     "curbWeightMin": "1393"
                   }
@@ -1632,6 +1767,7 @@
                     "generation": "348 Spider",
                     "engine": "3.4 V8 (320 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "320/7200",
                     "powerHp": "320",
                     "powerRpm": "7200",
@@ -1639,6 +1775,7 @@
                     "yearstart": "1993",
                     "yearstop": "1995",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -1646,6 +1783,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1370",
                     "curbWeightMin": "1370"
                   }
@@ -1668,6 +1806,7 @@
                     "generation": "348 TB",
                     "engine": "3.4 V8 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7200",
                     "powerHp": "300",
                     "powerRpm": "7200",
@@ -1675,6 +1814,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4230",
@@ -1682,6 +1822,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1393",
                     "curbWeightMin": "1393"
                   }
@@ -1713,6 +1854,7 @@
                     "generation": "456M",
                     "engine": "GT 5.5 V12 (442 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "442/6250",
                     "powerHp": "442",
                     "powerRpm": "6250",
@@ -1720,6 +1862,7 @@
                     "yearstart": "1998",
                     "yearstop": "2003",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4763",
@@ -1729,6 +1872,7 @@
                     "rideHeight": "119",
                     "rideHeightMin": "119",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   }
@@ -1751,6 +1895,7 @@
                     "generation": "456",
                     "engine": "GT 5.5 V12 (442 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "442/6250",
                     "powerHp": "442",
                     "powerRpm": "6250",
@@ -1758,6 +1903,7 @@
                     "yearstart": "1993",
                     "yearstop": "1998",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4730",
@@ -1767,6 +1913,7 @@
                     "rideHeight": "119",
                     "rideHeightMin": "119",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   },
@@ -1778,6 +1925,7 @@
                     "generation": "456",
                     "engine": "GTA 5.5 V12 (442 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "442/6250",
                     "powerHp": "442",
                     "powerRpm": "6250",
@@ -1785,6 +1933,7 @@
                     "yearstart": "1996",
                     "yearstop": "1998",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4730",
@@ -1794,6 +1943,7 @@
                     "rideHeight": "119",
                     "rideHeightMin": "119",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   }
@@ -1825,6 +1975,7 @@
                     "generation": "550 Maranello",
                     "engine": "5.5 V12 (485 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "485/7000",
                     "powerHp": "485",
                     "powerRpm": "7000",
@@ -1832,6 +1983,7 @@
                     "yearstart": "1996",
                     "yearstop": "2002",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4550",
@@ -1841,6 +1993,7 @@
                     "rideHeight": "135",
                     "rideHeightMin": "135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   }
@@ -1863,6 +2016,7 @@
                     "generation": "550 Barchetta Pininfarina",
                     "engine": "550 (485 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "485/7000",
                     "powerHp": "485",
                     "powerRpm": "7000",
@@ -1870,6 +2024,7 @@
                     "yearstart": "2000",
                     "yearstop": "2006",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4550",
@@ -1877,6 +2032,7 @@
                     "height": "1260",
                     "heightMin": "1260",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   }
@@ -1908,6 +2064,7 @@
                     "generation": "F355 Spider",
                     "engine": "3.5 V8 (380 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "380/8250",
                     "powerHp": "380",
                     "powerRpm": "8250",
@@ -1915,6 +2072,7 @@
                     "yearstart": "1995",
                     "yearstop": "1999",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4250",
@@ -1922,6 +2080,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1490-1515",
                     "curbWeightMin": "1490",
                     "curbWeightMax": "1515"
@@ -1945,6 +2104,7 @@
                     "generation": "F355 GTS",
                     "engine": "3.5 V8 (380 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "380/8250",
                     "powerHp": "380",
                     "powerRpm": "8250",
@@ -1952,6 +2112,7 @@
                     "yearstart": "1995",
                     "yearstop": "1999",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4250",
@@ -1959,6 +2120,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1440-1490",
                     "curbWeightMin": "1440",
                     "curbWeightMax": "1490"
@@ -1982,6 +2144,7 @@
                     "generation": "F355 Berlinetta",
                     "engine": "3.5 V8 (380 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "380/8250",
                     "powerHp": "380",
                     "powerRpm": "8250",
@@ -1989,6 +2152,7 @@
                     "yearstart": "1994",
                     "yearstop": "1999",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4250",
@@ -1996,6 +2160,7 @@
                     "height": "1170",
                     "heightMin": "1170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1440-1480",
                     "curbWeightMin": "1440",
                     "curbWeightMax": "1480"
@@ -2028,6 +2193,7 @@
                     "generation": "512 M",
                     "engine": "F512 M (440 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "440/6750",
                     "powerHp": "440",
                     "powerRpm": "6750",
@@ -2035,6 +2201,7 @@
                     "yearstart": "1994",
                     "yearstop": "1996",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4480",
@@ -2042,6 +2209,7 @@
                     "height": "1135",
                     "heightMin": "1135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1630",
                     "curbWeightMin": "1630"
                   }
@@ -2064,6 +2232,7 @@
                     "generation": "512 TR",
                     "engine": "4.9 i V12 48V (428 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "428/6750",
                     "powerHp": "428",
                     "powerRpm": "6750",
@@ -2071,6 +2240,7 @@
                     "yearstart": "1992",
                     "yearstop": "1994",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4480",
@@ -2078,6 +2248,7 @@
                     "height": "1135",
                     "heightMin": "1135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1590",
                     "curbWeightMin": "1590"
                   }
@@ -2100,6 +2271,7 @@
                     "generation": "Testarossa",
                     "engine": "4.9 i V12 48V (380 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "380/5750",
                     "powerHp": "380",
                     "powerRpm": "5750",
@@ -2107,6 +2279,7 @@
                     "yearstart": "1984",
                     "yearstop": "1992",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4485",
@@ -2114,6 +2287,7 @@
                     "height": "1130",
                     "heightMin": "1130",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1700",
                     "curbWeightMin": "1700"
                   },
@@ -2125,6 +2299,7 @@
                     "generation": "Testarossa",
                     "engine": "4.9 i V12 48V (390 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "390/6300",
                     "powerHp": "390",
                     "powerRpm": "6300",
@@ -2132,6 +2307,7 @@
                     "yearstart": "1984",
                     "yearstop": "1992",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4485",
@@ -2139,6 +2315,7 @@
                     "height": "1130",
                     "heightMin": "1130",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1700",
                     "curbWeightMin": "1700"
                   }
@@ -2170,6 +2347,7 @@
                     "generation": "360 Modena",
                     "engine": "360 Challenge Stradale (425 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "425/8500",
                     "powerHp": "425",
                     "powerRpm": "8500",
@@ -2177,6 +2355,7 @@
                     "yearstart": "2003",
                     "yearstop": "2004",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4470",
@@ -2184,6 +2363,7 @@
                     "height": "1199",
                     "heightMin": "1199",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1280",
                     "curbWeightMin": "1280"
                   },
@@ -2195,6 +2375,7 @@
                     "generation": "360 Modena",
                     "engine": "360 F1 (400 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "400/8500",
                     "powerHp": "400",
                     "powerRpm": "8500",
@@ -2202,6 +2383,7 @@
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4477",
@@ -2209,6 +2391,7 @@
                     "height": "1214",
                     "heightMin": "1214",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -2231,6 +2414,7 @@
                     "generation": "360 Modena Spider",
                     "engine": "360 Spider (400 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "400/8500",
                     "powerHp": "400",
                     "powerRpm": "8500",
@@ -2238,6 +2422,7 @@
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4477",
@@ -2245,6 +2430,7 @@
                     "height": "1214",
                     "heightMin": "1214",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   }
@@ -2276,6 +2462,7 @@
                     "generation": "FF",
                     "engine": "6.3 V12 (660 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "660/8000",
                     "powerHp": "660",
                     "powerRpm": "8000",
@@ -2283,6 +2470,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4907",
@@ -2290,6 +2478,7 @@
                     "height": "1379",
                     "heightMin": "1379",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1790",
                     "curbWeightMin": "1790"
                   }
@@ -2321,6 +2510,7 @@
                     "generation": "F12tdf",
                     "engine": "6.3 V12 (780 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "780/8500",
                     "powerHp": "780",
                     "powerRpm": "8500",
@@ -2328,6 +2518,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4656",
@@ -2335,6 +2526,7 @@
                     "height": "1273",
                     "heightMin": "1273",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1415",
                     "curbWeightMin": "1415"
                   }
@@ -2357,6 +2549,7 @@
                     "generation": "F12 Berlinetta",
                     "engine": "6.3 V12 (740 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "740/8250",
                     "powerHp": "740",
                     "powerRpm": "8250",
@@ -2364,6 +2557,7 @@
                     "yearstart": "2012",
                     "yearstop": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4618",
@@ -2371,6 +2565,7 @@
                     "height": "1273",
                     "heightMin": "1273",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1525",
                     "curbWeightMin": "1525"
                   }
@@ -2402,6 +2597,7 @@
                     "generation": "458 Speciale A",
                     "engine": "4.5 V8 (605 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "605/9000",
                     "powerHp": "605",
                     "powerRpm": "9000",
@@ -2409,6 +2605,7 @@
                     "yearstart": "2013",
                     "yearstop": "2016",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4571",
@@ -2416,6 +2613,7 @@
                     "height": "1204",
                     "heightMin": "1204",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1445",
                     "curbWeightMin": "1445"
                   }
@@ -2438,6 +2636,7 @@
                     "generation": "458 Speciale",
                     "engine": "4.5 V8 (605 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "605/9000",
                     "powerHp": "605",
                     "powerRpm": "9000",
@@ -2445,6 +2644,7 @@
                     "yearstart": "2013",
                     "yearstop": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4571",
@@ -2452,6 +2652,7 @@
                     "height": "1203",
                     "heightMin": "1203",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1395",
                     "curbWeightMin": "1395"
                   }
@@ -2474,6 +2675,7 @@
                     "generation": "458 Spider",
                     "engine": "4.5 V8 (570 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/9000",
                     "powerHp": "570",
                     "powerRpm": "9000",
@@ -2481,6 +2683,7 @@
                     "yearstart": "2011",
                     "yearstop": "2015",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4527",
@@ -2488,6 +2691,7 @@
                     "height": "1211",
                     "heightMin": "1211",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1535",
                     "curbWeightMin": "1535"
                   }
@@ -2510,6 +2714,7 @@
                     "generation": "458 Italia",
                     "engine": "4.5 V8 (570 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/9000",
                     "powerHp": "570",
                     "powerRpm": "9000",
@@ -2517,6 +2722,7 @@
                     "yearstart": "2009",
                     "yearstop": "2015",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4527",
@@ -2524,6 +2730,7 @@
                     "height": "1213",
                     "heightMin": "1213",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1380",
                     "curbWeightMin": "1380"
                   },
@@ -2535,6 +2742,7 @@
                     "generation": "458 Italia",
                     "engine": "4.5 V8 (570 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/9000",
                     "powerHp": "570",
                     "powerRpm": "9000",
@@ -2542,6 +2750,7 @@
                     "yearstart": "2009",
                     "yearstop": "2015",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4527",
@@ -2549,6 +2758,7 @@
                     "height": "1213",
                     "heightMin": "1213",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1380",
                     "curbWeightMin": "1380"
                   }
@@ -2580,6 +2790,7 @@
                     "generation": "LaFerrari Aperta",
                     "engine": "6.3 V12 (963 Hp) Hybrid DCT",
                     "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "powertrainId": "2",
                     "power": "800/9000",
                     "powerHp": "800",
                     "powerRpm": "9000",
@@ -2587,6 +2798,7 @@
                     "yearstart": "2016",
                     "yearstop": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4702",
@@ -2594,7 +2806,7 @@
                     "height": "1116",
                     "heightMin": "1116",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2615,6 +2827,7 @@
                     "generation": "LaFerrari",
                     "engine": "6.3 V12 (963 Hp) Hybrid DCT",
                     "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "powertrainId": "2",
                     "power": "800/9000",
                     "powerHp": "800",
                     "powerRpm": "9000",
@@ -2622,6 +2835,7 @@
                     "yearstart": "2013",
                     "yearstop": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4702",
@@ -2629,6 +2843,7 @@
                     "height": "1116",
                     "heightMin": "1116",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1430",
                     "curbWeightMin": "1430"
                   }
@@ -2660,6 +2875,7 @@
                     "generation": "488 Pista Spider",
                     "engine": "3.9 V8 (720 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/8000",
                     "powerHp": "720",
                     "powerRpm": "8000",
@@ -2667,6 +2883,7 @@
                     "yearstart": "2018",
                     "yearstop": "2019",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4605",
@@ -2674,6 +2891,7 @@
                     "height": "1206",
                     "heightMin": "1206",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1380",
                     "curbWeightMin": "1380"
                   }
@@ -2696,6 +2914,7 @@
                     "generation": "488 Pista",
                     "engine": "3.9 V8 (720 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/8000",
                     "powerHp": "720",
                     "powerRpm": "8000",
@@ -2703,6 +2922,7 @@
                     "yearstart": "2018",
                     "yearstop": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4605",
@@ -2710,6 +2930,7 @@
                     "height": "1206",
                     "heightMin": "1206",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1280",
                     "curbWeightMin": "1280"
                   }
@@ -2732,6 +2953,7 @@
                     "generation": "488 Challenge",
                     "engine": "3.9 V8 (670 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "670/8000",
                     "powerHp": "670",
                     "powerRpm": "8000",
@@ -2739,6 +2961,7 @@
                     "yearstart": "2016",
                     "yearstop": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4587",
@@ -2746,6 +2969,7 @@
                     "height": "1203",
                     "heightMin": "1203",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1340",
                     "curbWeightMin": "1340"
                   }
@@ -2768,6 +2992,7 @@
                     "generation": "488 Spider",
                     "engine": "3.9 V8 (670 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "670/8000",
                     "powerHp": "670",
                     "powerRpm": "8000",
@@ -2775,6 +3000,7 @@
                     "yearstart": "2015",
                     "yearstop": "2019",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4568",
@@ -2782,6 +3008,7 @@
                     "height": "1211",
                     "heightMin": "1211",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -2804,6 +3031,7 @@
                     "generation": "488 GTB",
                     "engine": "3.9 V8 (670 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "670/8000",
                     "powerHp": "670",
                     "powerRpm": "8000",
@@ -2811,6 +3039,7 @@
                     "yearstart": "2015",
                     "yearstop": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4568",
@@ -2818,6 +3047,7 @@
                     "height": "1213",
                     "heightMin": "1213",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -2849,12 +3079,14 @@
                     "generation": "GTC4Lusso T",
                     "engine": "3.9 V8 (610 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "610/7500",
                     "powerHp": "610",
                     "powerRpm": "7500",
                     "powerRpmLow": "7500",
                     "yearstart": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4922",
@@ -2862,6 +3094,7 @@
                     "height": "1383",
                     "heightMin": "1383",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1740",
                     "curbWeightMin": "1740"
                   }
@@ -2884,12 +3117,14 @@
                     "generation": "GTC4Lusso",
                     "engine": "6.3 V12 (690 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "690/8000",
                     "powerHp": "690",
                     "powerRpm": "8000",
                     "powerRpmLow": "8000",
                     "yearstart": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4922",
@@ -2897,6 +3132,7 @@
                     "height": "1383",
                     "heightMin": "1383",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1790",
                     "curbWeightMin": "1790"
                   }
@@ -2928,6 +3164,7 @@
                     "generation": "812 Competizione A",
                     "engine": "6.5 V12 (830 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "830/9250",
                     "powerHp": "830",
                     "powerRpm": "9250",
@@ -2935,6 +3172,7 @@
                     "yearstart": "2021",
                     "yearstop": "2024",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4696",
@@ -2942,6 +3180,7 @@
                     "height": "1276",
                     "heightMin": "1276",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1487",
                     "curbWeightMin": "1487"
                   }
@@ -2964,6 +3203,7 @@
                     "generation": "812 Competizione",
                     "engine": "6.5 V12 (830 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "830/9250",
                     "powerHp": "830",
                     "powerRpm": "9250",
@@ -2971,6 +3211,7 @@
                     "yearstart": "2021",
                     "yearstop": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4696",
@@ -2978,6 +3219,7 @@
                     "height": "1276",
                     "heightMin": "1276",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1487",
                     "curbWeightMin": "1487"
                   }
@@ -3000,6 +3242,7 @@
                     "generation": "812 GTS",
                     "engine": "6.5 V12 (800 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "800/8500",
                     "powerHp": "800",
                     "powerRpm": "8500",
@@ -3007,6 +3250,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4693",
@@ -3014,6 +3258,7 @@
                     "height": "1278",
                     "heightMin": "1278",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1645",
                     "curbWeightMin": "1645"
                   }
@@ -3036,6 +3281,7 @@
                     "generation": "812 Superfast",
                     "engine": "6.5 V12 (800 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "800/8500",
                     "powerHp": "800",
                     "powerRpm": "8500",
@@ -3043,6 +3289,7 @@
                     "yearstart": "2017",
                     "yearstop": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4657",
@@ -3050,6 +3297,7 @@
                     "height": "1276",
                     "heightMin": "1276",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1630",
                     "curbWeightMin": "1630"
                   }
@@ -3081,6 +3329,7 @@
                     "generation": "Portofino M",
                     "engine": "3.9 V8 (620 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "620/5750-7500",
                     "powerHp": "620",
                     "powerRpm": "5750-7500",
@@ -3089,6 +3338,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4594",
@@ -3097,6 +3347,7 @@
                     "height": "1318",
                     "heightMin": "1318",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1545",
                     "curbWeightMin": "1545"
                   }
@@ -3119,6 +3370,7 @@
                     "generation": "Portofino",
                     "engine": "3.9 V8 (600 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "600/7500",
                     "powerHp": "600",
                     "powerRpm": "7500",
@@ -3126,6 +3378,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4586",
@@ -3133,6 +3386,7 @@
                     "height": "1318",
                     "heightMin": "1318",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1545",
                     "curbWeightMin": "1545"
                   }
@@ -3164,6 +3418,7 @@
                     "generation": "FXX-K Evo",
                     "engine": "6.3 V12 (1050 Hp) Hybrid DCT",
                     "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "powertrainId": "2",
                     "power": "860/9200",
                     "powerHp": "860",
                     "powerRpm": "9200",
@@ -3171,10 +3426,11 @@
                     "yearstart": "2017",
                     "yearstop": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -3195,6 +3451,7 @@
                     "generation": "FXX-K",
                     "engine": "6.3 V12 (1050 Hp) Hybrid DCT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "860/9200",
                     "powerHp": "860",
                     "powerRpm": "9200",
@@ -3202,6 +3459,7 @@
                     "yearstart": "2014",
                     "yearstop": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4896",
@@ -3209,7 +3467,7 @@
                     "height": "1116",
                     "heightMin": "1116",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -3230,6 +3488,7 @@
                     "generation": "FXX",
                     "engine": "6.3 V12 (800 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "800/8500",
                     "powerHp": "800",
                     "powerRpm": "8500",
@@ -3237,6 +3496,7 @@
                     "yearstart": "2005",
                     "yearstop": "2007",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4832",
@@ -3244,6 +3504,7 @@
                     "height": "1127",
                     "heightMin": "1127",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1155",
                     "curbWeightMin": "1155"
                   }
@@ -3275,6 +3536,7 @@
                     "generation": "Monza SP",
                     "engine": "SP1 6.5 V12 (810 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "810/8500",
                     "powerHp": "810",
                     "powerRpm": "8500",
@@ -3282,6 +3544,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "1",
                     "placesMin": "1",
                     "length": "4657",
@@ -3289,6 +3552,7 @@
                     "height": "1155",
                     "heightMin": "1155",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1500",
                     "curbWeightMin": "1500"
                   },
@@ -3300,6 +3564,7 @@
                     "generation": "Monza SP",
                     "engine": "SP2 6.5 V12 (810 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "810/8500",
                     "powerHp": "810",
                     "powerRpm": "8500",
@@ -3307,6 +3572,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4657",
@@ -3314,6 +3580,7 @@
                     "height": "1155",
                     "heightMin": "1155",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1520",
                     "curbWeightMin": "1520"
                   }
@@ -3345,12 +3612,14 @@
                     "generation": "SF90 XX Spider",
                     "engine": "4.0 V8 (1030 Hp) Plug-in Hybrid E4WD F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "797/7900",
                     "powerHp": "797",
                     "powerRpm": "7900",
                     "powerRpmLow": "7900",
                     "yearstart": "2023",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4850",
@@ -3358,6 +3627,7 @@
                     "height": "1225",
                     "heightMin": "1225",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1660",
                     "curbWeightMin": "1660"
                   }
@@ -3380,12 +3650,14 @@
                     "generation": "SF90 XX Stradale",
                     "engine": "4.0 V8 (1030 Hp) Plug-in Hybrid E4WD F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "797/7900",
                     "powerHp": "797",
                     "powerRpm": "7900",
                     "powerRpmLow": "7900",
                     "yearstart": "2023",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4850",
@@ -3393,6 +3665,7 @@
                     "height": "1225",
                     "heightMin": "1225",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1560",
                     "curbWeightMin": "1560"
                   }
@@ -3415,6 +3688,7 @@
                     "generation": "SF90 Spider",
                     "engine": "4.0 V8 (1000 Hp) Plug-in Hybrid AWD F1",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "780/7500",
                     "powerHp": "780",
                     "powerRpm": "7500",
@@ -3422,6 +3696,7 @@
                     "yearstart": "2020",
                     "yearstop": "2024",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4704",
@@ -3429,6 +3704,7 @@
                     "height": "1191",
                     "heightMin": "1191",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1670",
                     "curbWeightMin": "1670"
                   }
@@ -3451,6 +3727,7 @@
                     "generation": "SF90 Stradale",
                     "engine": "4.0 V8 (1000 Hp) Plug-in Hybrid Automatic",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "780/7500",
                     "powerHp": "780",
                     "powerRpm": "7500",
@@ -3458,6 +3735,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4710",
@@ -3465,6 +3743,7 @@
                     "height": "1186",
                     "heightMin": "1186",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   }
@@ -3496,6 +3775,7 @@
                     "generation": "Roma Spider",
                     "engine": "3.9 V8 (620 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "620/5750-7500",
                     "powerHp": "620",
                     "powerRpm": "5750-7500",
@@ -3503,6 +3783,7 @@
                     "powerRpmHigh": "7500",
                     "yearstart": "2023",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4656",
@@ -3510,6 +3791,7 @@
                     "height": "1306",
                     "heightMin": "1306",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1556",
                     "curbWeightMin": "1556"
                   }
@@ -3532,6 +3814,7 @@
                     "generation": "Roma",
                     "engine": "3.9 V8 (620 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "620/5750-7500",
                     "powerHp": "620",
                     "powerRpm": "5750-7500",
@@ -3539,6 +3822,7 @@
                     "powerRpmHigh": "7500",
                     "yearstart": "2020",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4656",
@@ -3546,6 +3830,7 @@
                     "height": "1301",
                     "heightMin": "1301",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   }
@@ -3577,6 +3862,7 @@
                     "generation": "F8 Tributo",
                     "engine": "3.9 V8 (720 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/7000",
                     "powerHp": "720",
                     "powerRpm": "7000",
@@ -3584,6 +3870,7 @@
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4611",
@@ -3591,6 +3878,7 @@
                     "height": "1206",
                     "heightMin": "1206",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1330",
                     "curbWeightMin": "1330"
                   }
@@ -3613,6 +3901,7 @@
                     "generation": "F8 Spider",
                     "engine": "3.9 V8 (720 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/8000",
                     "powerHp": "720",
                     "powerRpm": "8000",
@@ -3620,6 +3909,7 @@
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4611",
@@ -3627,6 +3917,7 @@
                     "height": "1206",
                     "heightMin": "1206",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -3658,15 +3949,17 @@
                     "generation": "512 BB",
                     "engine": "4.9 (322 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "322",
                     "powerHp": "322",
                     "yearstart": "1981",
                     "yearstop": "1984",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "6522",
@@ -3676,6 +3969,7 @@
                     "generation": "512 BB",
                     "engine": "4.9 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/6000",
                     "powerHp": "340",
                     "powerRpm": "6000",
@@ -3683,6 +3977,7 @@
                     "yearstart": "1976",
                     "yearstop": "1981",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4400",
@@ -3692,6 +3987,7 @@
                     "rideHeight": "125",
                     "rideHeightMin": "125",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1499",
                     "curbWeightMin": "1499"
                   }
@@ -3723,6 +4019,7 @@
                     "generation": "F50 GT",
                     "engine": "4.7 V12 (750 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "750/10500",
                     "powerHp": "750",
                     "powerRpm": "10500",
@@ -3730,6 +4027,7 @@
                     "yearstart": "1996",
                     "yearstop": "1996",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4578",
@@ -3737,6 +4035,7 @@
                     "height": "1092",
                     "heightMin": "1092",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "860",
                     "curbWeightMin": "860"
                   }
@@ -3759,6 +4058,7 @@
                     "generation": "F50",
                     "engine": "4.7 V12 (520 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "520/8500",
                     "powerHp": "520",
                     "powerRpm": "8500",
@@ -3766,6 +4066,7 @@
                     "yearstart": "1995",
                     "yearstop": "1997",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4480",
@@ -3775,6 +4076,7 @@
                     "rideHeight": "115",
                     "rideHeightMin": "115",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1230",
                     "curbWeightMin": "1230"
                   }
@@ -3806,6 +4108,7 @@
                     "generation": "250 GT/E 2+2",
                     "engine": "3.0 V12 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/7000",
                     "powerHp": "240",
                     "powerRpm": "7000",
@@ -3813,6 +4116,7 @@
                     "yearstart": "1959",
                     "yearstop": "1963",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4700",
@@ -3820,6 +4124,7 @@
                     "height": "1340",
                     "heightMin": "1340",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1280",
                     "curbWeightMin": "1280"
                   }
@@ -3852,6 +4157,7 @@
                     "generation": "250 GT Cabriolet",
                     "engine": "3.0 V12 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/7000",
                     "powerHp": "240",
                     "powerRpm": "7000",
@@ -3859,9 +4165,11 @@
                     "yearstart": "1957",
                     "yearstop": "1962",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1050",
                     "curbWeightMin": "1050"
                   }
@@ -3893,6 +4201,7 @@
                     "generation": "250 GTO",
                     "engine": "3.0 V12 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7400",
                     "powerHp": "300",
                     "powerRpm": "7400",
@@ -3900,6 +4209,7 @@
                     "yearstart": "1962",
                     "yearstop": "1964",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4325",
@@ -3907,6 +4217,7 @@
                     "height": "1210",
                     "heightMin": "1210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "880",
                     "curbWeightMin": "880"
                   }
@@ -3938,6 +4249,7 @@
                     "generation": "330 GTC",
                     "engine": "4.0 V12 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7000",
                     "powerHp": "300",
                     "powerRpm": "7000",
@@ -3945,6 +4257,7 @@
                     "yearstart": "1966",
                     "yearstop": "1968",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4470",
@@ -3952,6 +4265,7 @@
                     "height": "1282",
                     "heightMin": "1282",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   }
@@ -3974,6 +4288,7 @@
                     "generation": "330 GT 2+2 (Serie 2)",
                     "engine": "4.0 V12 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/7000",
                     "powerHp": "300",
                     "powerRpm": "7000",
@@ -3981,6 +4296,7 @@
                     "yearstart": "1964",
                     "yearstop": "1967",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4840",
@@ -3988,6 +4304,7 @@
                     "height": "1360",
                     "heightMin": "1360",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1380",
                     "curbWeightMin": "1380"
                   }
@@ -4019,6 +4336,7 @@
                     "generation": "375 America",
                     "engine": "4.5 V12 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
@@ -4026,9 +4344,11 @@
                     "yearstart": "1953",
                     "yearstop": "1954",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1150",
                     "curbWeightMin": "1150"
                   }
@@ -4051,6 +4371,7 @@
                     "generation": "375 MM",
                     "engine": "4.5 V12 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/7000",
                     "powerHp": "340",
                     "powerRpm": "7000",
@@ -4058,9 +4379,11 @@
                     "yearstart": "1953",
                     "yearstop": "1955",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "900",
                     "curbWeightMin": "900"
                   }
@@ -4092,16 +4415,19 @@
                     "generation": "750 Monza",
                     "engine": "3.0 (260 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "260",
                     "powerHp": "260",
                     "yearstart": "1954",
                     "yearstop": "1954",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "760",
                     "curbWeightMin": "760"
                   }
@@ -4139,6 +4465,7 @@
                     "yearstart": "1984",
                     "yearstop": "1987",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4290",
@@ -4146,6 +4473,7 @@
                     "height": "1120",
                     "heightMin": "1120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1160",
                     "curbWeightMin": "1160"
                   }
@@ -4177,12 +4505,14 @@
                     "generation": "296 Speciale A",
                     "engine": "3.0 V6 (880 Hp) Plug-in Hybrid F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "700/8000",
                     "powerHp": "700",
                     "powerRpm": "8000",
                     "powerRpmLow": "8000",
                     "yearstart": "2025",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4625",
@@ -4190,6 +4520,7 @@
                     "height": "1181",
                     "heightMin": "1181",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1490",
                     "curbWeightMin": "1490"
                   }
@@ -4212,12 +4543,14 @@
                     "generation": "296 Speciale",
                     "engine": "3.0 V6 (880 Hp) Plug-in Hybrid F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "700/8000",
                     "powerHp": "700",
                     "powerRpm": "8000",
                     "powerRpmLow": "8000",
                     "yearstart": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4625",
@@ -4225,6 +4558,7 @@
                     "height": "1181",
                     "heightMin": "1181",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1410",
                     "curbWeightMin": "1410"
                   }
@@ -4247,10 +4581,12 @@
                     "generation": "296 GTS",
                     "engine": "3.0 V6 (830 Hp) Plug-in Hybrid F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "663",
                     "powerHp": "663",
                     "yearstart": "2022",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4565",
@@ -4258,6 +4594,7 @@
                     "height": "1191",
                     "heightMin": "1191",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -4280,12 +4617,14 @@
                     "generation": "296 GTB",
                     "engine": "3.0 V6 (830 Hp) Plug-in Hybrid F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "663/8000",
                     "powerHp": "663",
                     "powerRpm": "8000",
                     "powerRpmLow": "8000",
                     "yearstart": "2022",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4565",
@@ -4293,6 +4632,7 @@
                     "height": "1187",
                     "heightMin": "1187",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1470",
                     "curbWeightMin": "1470"
                   }
@@ -4324,6 +4664,7 @@
                     "generation": "365 GTB4 (Daytona)",
                     "engine": "4.4 V12 (352 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "352/7500",
                     "powerHp": "352",
                     "powerRpm": "7500",
@@ -4331,6 +4672,7 @@
                     "yearstart": "1969",
                     "yearstop": "1973",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4425",
@@ -4338,6 +4680,7 @@
                     "height": "1245",
                     "heightMin": "1245",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1280",
                     "curbWeightMin": "1280"
                   }
@@ -4370,6 +4713,7 @@
                     "generation": "365 GT 2+2",
                     "engine": "4.4 V12 (320 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "320/6600",
                     "powerHp": "320",
                     "powerRpm": "6600",
@@ -4377,6 +4721,7 @@
                     "yearstart": "1967",
                     "yearstop": "1971",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4974",
@@ -4384,6 +4729,7 @@
                     "height": "1345",
                     "heightMin": "1345",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1480",
                     "curbWeightMin": "1480"
                   }
@@ -4415,6 +4761,7 @@
                     "generation": "275 GTB",
                     "engine": "GTB/4 3.3 V12 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/8000",
                     "powerHp": "300",
                     "powerRpm": "8000",
@@ -4422,9 +4769,11 @@
                     "yearstart": "1966",
                     "yearstop": "1968",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -4436,6 +4785,7 @@
                     "generation": "275 GTB",
                     "engine": "GTB 3.3 V12 (280 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "280/7600",
                     "powerHp": "280",
                     "powerRpm": "7600",
@@ -4443,6 +4793,7 @@
                     "yearstart": "1964",
                     "yearstop": "1966",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4325",
@@ -4452,6 +4803,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   }
@@ -4502,12 +4854,14 @@
                     "generation": "Daytona SP3",
                     "engine": "6.5 V12 (840 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "840/9250",
                     "powerHp": "840",
                     "powerRpm": "9250",
                     "powerRpmLow": "9250",
                     "yearstart": "2022",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4686",
@@ -4515,6 +4869,7 @@
                     "height": "1142",
                     "heightMin": "1142",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1485",
                     "curbWeightMin": "1485"
                   }
@@ -4565,12 +4920,14 @@
                     "generation": "Purosangue",
                     "engine": "6.5 V12 (725 Hp) AWD F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "725/7750",
                     "powerHp": "725",
                     "powerRpm": "7750",
                     "powerRpmLow": "7750",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4973",
@@ -4578,6 +4935,7 @@
                     "height": "1589",
                     "heightMin": "1589",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2033",
                     "curbWeightMin": "2033"
                   }
@@ -4628,12 +4986,14 @@
                     "generation": "12Cilindri Spider",
                     "engine": "6.5 V12 (830 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "830/9250",
                     "powerHp": "830",
                     "powerRpm": "9250",
                     "powerRpmLow": "9250",
                     "yearstart": "2024",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4733",
@@ -4641,6 +5001,7 @@
                     "height": "1292",
                     "heightMin": "1292",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1620",
                     "curbWeightMin": "1620"
                   }
@@ -4663,12 +5024,14 @@
                     "generation": "12Cilindri",
                     "engine": "6.5 V12 (830 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "830/9250",
                     "powerHp": "830",
                     "powerRpm": "9250",
                     "powerRpmLow": "9250",
                     "yearstart": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4733",
@@ -4676,6 +5039,7 @@
                     "height": "1292",
                     "heightMin": "1292",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1560",
                     "curbWeightMin": "1560"
                   }
@@ -4707,12 +5071,14 @@
                     "generation": "F80",
                     "engine": "3.0 V6 (1200 Hp) Mild Hybrid e-4WD F1 DCT",
                     "powertrain": "MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",
+                    "powertrainId": "2",
                     "power": "900/8750",
                     "powerHp": "900",
                     "powerRpm": "8750",
                     "powerRpmLow": "8750",
                     "yearstart": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4840",
@@ -4720,6 +5086,7 @@
                     "height": "1138",
                     "heightMin": "1138",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1525",
                     "curbWeightMin": "1525"
                   }
@@ -4751,12 +5118,14 @@
                     "generation": "Amalfi Spider",
                     "engine": "3.9 V8 (640 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "640/7500",
                     "powerHp": "640",
                     "powerRpm": "7500",
                     "powerRpmLow": "7500",
                     "yearstart": "2026",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4660",
@@ -4764,6 +5133,7 @@
                     "height": "1305",
                     "heightMin": "1305",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1556",
                     "curbWeightMin": "1556"
                   }
@@ -4786,12 +5156,14 @@
                     "generation": "Amalfi",
                     "engine": "3.9 V8 (640 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "640/7500",
                     "powerHp": "640",
                     "powerRpm": "7500",
                     "powerRpmLow": "7500",
                     "yearstart": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4660",
@@ -4799,6 +5171,7 @@
                     "height": "1301",
                     "heightMin": "1301",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1470",
                     "curbWeightMin": "1470"
                   }
@@ -4830,12 +5203,14 @@
                     "generation": "849 Testarossa Spider",
                     "engine": "4.0 V8 (1050 Hp) Plug-in Hybrid AWD F1",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "830/7500",
                     "powerHp": "830",
                     "powerRpm": "7500",
                     "powerRpmLow": "7500",
                     "yearstart": "2025",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4718",
@@ -4843,6 +5218,7 @@
                     "height": "1186",
                     "heightMin": "1186",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1660",
                     "curbWeightMin": "1660"
                   }
@@ -4865,12 +5241,14 @@
                     "generation": "849 Testarossa",
                     "engine": "4.0 V8 (1050 Hp) Plug-in Hybrid AWD F1",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "830/7500",
                     "powerHp": "830",
                     "powerRpm": "7500",
                     "powerRpmLow": "7500",
                     "yearstart": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4718",
@@ -4878,6 +5256,7 @@
                     "height": "1225",
                     "heightMin": "1225",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   }
@@ -4909,6 +5288,7 @@
                     "generation": "GTS Turbo",
                     "engine": "2.0 V8 (254 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "254/6500",
                     "powerHp": "254",
                     "powerRpm": "6500",
@@ -4916,6 +5296,7 @@
                     "yearstart": "1986",
                     "yearstop": "1989",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4255",
@@ -4923,6 +5304,7 @@
                     "height": "1128",
                     "heightMin": "1128",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1275",
                     "curbWeightMin": "1275"
                   }
@@ -4954,12 +5336,14 @@
                     "generation": "HC25",
                     "engine": "3.9 V8 (720 Hp) F1 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/7000",
                     "powerHp": "720",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2026",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4758",
@@ -4967,7 +5351,7 @@
                     "height": "1183",
                     "heightMin": "1183",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -4997,8 +5381,10 @@
                     "generation": "Luce",
                     "engine": "122 kWh (1050 Hp) Electric AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5026",
@@ -5006,6 +5392,7 @@
                     "height": "1544",
                     "heightMin": "1544",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2260",
                     "curbWeightMin": "2260"
                   }
@@ -5037,12 +5424,14 @@
                     "generation": "CZ26",
                     "engine": "4.0 V8 (1017 Hp) Plug-in Hybrid E4WD F1 DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "797/7900",
                     "powerHp": "797",
                     "powerRpm": "7900",
                     "powerRpmLow": "7900",
                     "yearstart": "2026",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4762",
@@ -5050,7 +5439,7 @@
                     "height": "1189",
                     "heightMin": "1189",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }

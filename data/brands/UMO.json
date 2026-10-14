@@ -26,8 +26,10 @@
                     "generation": "5",
                     "engine": "63.2 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4535",
@@ -37,6 +39,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1735",
                     "curbWeightMin": "1735"
                   }

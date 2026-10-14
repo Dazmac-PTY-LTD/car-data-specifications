@@ -26,6 +26,7 @@
                     "generation": "EVO37",
                     "engine": "2.2 (505 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "505/7000-7250",
                     "powerHp": "505",
                     "powerRpm": "7000-7250",
@@ -33,6 +34,7 @@
                     "powerRpmHigh": "7250",
                     "yearstart": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4055",
@@ -40,7 +42,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

@@ -26,6 +26,7 @@
                     "generation": "TXII",
                     "engine": "2.4 DuraTorq (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -33,6 +34,7 @@
                     "yearstart": "2002",
                     "yearstop": "2006",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4580",
@@ -40,6 +42,7 @@
                     "height": "1830",
                     "heightMin": "1830",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1800",
                     "curbWeightMin": "1800"
                   }
@@ -62,6 +65,7 @@
                     "generation": "TXI",
                     "engine": "2.7 D (82 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "82/4300",
                     "powerHp": "82",
                     "powerRpm": "4300",
@@ -69,6 +73,7 @@
                     "yearstart": "1998",
                     "yearstop": "2002",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4580",
@@ -76,6 +81,7 @@
                     "height": "1830",
                     "heightMin": "1830",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1800",
                     "curbWeightMin": "1800"
                   }

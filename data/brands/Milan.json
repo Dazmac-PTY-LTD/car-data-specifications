@@ -26,12 +26,14 @@
                     "generation": "Red",
                     "engine": "6.2 V8 (1325 Hp) Hybrid Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "1325/7000",
                     "powerHp": "1325",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2020",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4741",
@@ -42,6 +44,7 @@
                     "rideHeightMin": "90",
                     "rideHeightMax": "135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   }

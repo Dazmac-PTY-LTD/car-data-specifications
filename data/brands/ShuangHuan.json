@@ -26,6 +26,7 @@
                     "generation": "Sceo",
                     "engine": "2.4 (125 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/5250",
                     "powerHp": "125",
                     "powerRpm": "5250",
@@ -33,6 +34,7 @@
                     "yearstart": "2005",
                     "yearstop": "2011",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4710",
@@ -40,6 +42,7 @@
                     "height": "1820",
                     "heightMin": "1820",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1800",
                     "curbWeightMin": "1800"
                   }

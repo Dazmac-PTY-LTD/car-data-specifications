@@ -26,6 +26,7 @@
                     "generation": "Corniche V",
                     "engine": "6.8 i V8 Turbo (329 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "329/4000",
                     "powerHp": "329",
                     "powerRpm": "4000",
@@ -33,6 +34,7 @@
                     "yearstart": "2000",
                     "yearstop": "2002",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5405",
@@ -40,6 +42,7 @@
                     "height": "1475",
                     "heightMin": "1475",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2735",
                     "curbWeightMin": "2735"
                   }
@@ -62,11 +65,13 @@
                     "generation": "Corniche II",
                     "engine": "6.75 V8 (223 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "223",
                     "powerHp": "223",
                     "yearstart": "1985",
                     "yearstop": "1989",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5169",
@@ -76,6 +81,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2360",
                     "curbWeightMin": "2360"
                   }
@@ -117,6 +123,7 @@
                     "generation": "Park Ward",
                     "engine": "5.4 i V12 (326 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "326/5000",
                     "powerHp": "326",
                     "powerRpm": "5000",
@@ -124,6 +131,7 @@
                     "yearstart": "2000",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5640",
@@ -131,6 +139,7 @@
                     "height": "1515",
                     "heightMin": "1515",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2435",
                     "curbWeightMin": "2435"
                   }
@@ -162,6 +171,7 @@
                     "generation": "Silver Seraph",
                     "engine": "5.4 i V12 (326 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "326/5000",
                     "powerHp": "326",
                     "powerRpm": "5000",
@@ -169,6 +179,7 @@
                     "yearstart": "1998",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5390",
@@ -176,6 +187,7 @@
                     "height": "1515",
                     "heightMin": "1515",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2400",
                     "curbWeightMin": "2400"
                   }
@@ -207,6 +219,7 @@
                     "generation": "Silver Spur",
                     "engine": "6.8 V8 (329 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "329/4000",
                     "powerHp": "329",
                     "powerRpm": "4000",
@@ -214,10 +227,11 @@
                     "yearstart": "1980",
                     "yearstop": "1989",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "10940",
@@ -227,6 +241,7 @@
                     "generation": "Silver Spur",
                     "engine": "6.8 V8 (329 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "329/4000",
                     "powerHp": "329",
                     "powerRpm": "4000",
@@ -234,10 +249,11 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "10941",
@@ -247,6 +263,7 @@
                     "generation": "Silver Spur",
                     "engine": "6.8 V8 (329 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "329/4000",
                     "powerHp": "329",
                     "powerRpm": "4000",
@@ -254,10 +271,11 @@
                     "yearstart": "1994",
                     "yearstop": "1995",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "10942",
@@ -267,6 +285,7 @@
                     "generation": "Silver Spur",
                     "engine": "6.8 V8 (329 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "329/4000",
                     "powerHp": "329",
                     "powerRpm": "4000",
@@ -274,10 +293,11 @@
                     "yearstart": "1996",
                     "yearstop": "1998",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -307,12 +327,14 @@
                     "generation": "Ghost Extended Wheelbase II",
                     "engine": "6.75 V12 (571 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5000",
                     "powerHp": "571",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5716",
@@ -320,6 +342,7 @@
                     "height": "1571",
                     "heightMin": "1571",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2530",
                     "curbWeightMin": "2530"
                   }
@@ -342,12 +365,14 @@
                     "generation": "Ghost II",
                     "engine": "6.75 V12 (571 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5000",
                     "powerHp": "571",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5546",
@@ -355,6 +380,7 @@
                     "height": "1571",
                     "heightMin": "1571",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2490",
                     "curbWeightMin": "2490"
                   }
@@ -377,6 +403,7 @@
                     "generation": "Ghost Extended Wheelbase I (facelift 2014)",
                     "engine": "6.6 V12 (570 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/5250",
                     "powerHp": "570",
                     "powerRpm": "5250",
@@ -384,6 +411,7 @@
                     "yearstart": "2014",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5569",
@@ -391,6 +419,7 @@
                     "height": "1550",
                     "heightMin": "1550",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2420",
                     "curbWeightMin": "2420"
                   }
@@ -413,6 +442,7 @@
                     "generation": "Ghost I (facelift 2014)",
                     "engine": "6.6 V12 (570 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/5250",
                     "powerHp": "570",
                     "powerRpm": "5250",
@@ -420,6 +450,7 @@
                     "yearstart": "2014",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5399",
@@ -427,6 +458,7 @@
                     "height": "1550",
                     "heightMin": "1550",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2360",
                     "curbWeightMin": "2360"
                   },
@@ -438,6 +470,7 @@
                     "generation": "Ghost I (facelift 2014)",
                     "engine": "6.6 V12 (612 Hp) Automatic Black Badge",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "612/5250",
                     "powerHp": "612",
                     "powerRpm": "5250",
@@ -445,6 +478,7 @@
                     "yearstart": "2016",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5399",
@@ -452,6 +486,7 @@
                     "height": "1550",
                     "heightMin": "1550",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2490",
                     "curbWeightMin": "2490"
                   }
@@ -474,6 +509,7 @@
                     "generation": "Ghost I",
                     "engine": "6.6 V12 48V (570 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "570/5250-6000",
                     "powerHp": "570",
                     "powerRpm": "5250-6000",
@@ -482,6 +518,7 @@
                     "yearstart": "2009",
                     "yearstop": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5399",
@@ -489,6 +526,7 @@
                     "height": "1550",
                     "heightMin": "1550",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2360",
                     "curbWeightMin": "2360"
                   }
@@ -520,12 +558,14 @@
                     "generation": "Phantom VIII Extended Wheelbase",
                     "engine": "6.7 V12 (571 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5000",
                     "powerHp": "571",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2017",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5982",
@@ -533,6 +573,7 @@
                     "height": "1656",
                     "heightMin": "1656",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2610",
                     "curbWeightMin": "2610"
                   }
@@ -555,12 +596,14 @@
                     "generation": "Phantom VIII",
                     "engine": "6.7 V12 (571 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5000",
                     "powerHp": "571",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2017",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5762",
@@ -568,6 +611,7 @@
                     "height": "1646",
                     "heightMin": "1646",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2560",
                     "curbWeightMin": "2560"
                   }
@@ -590,6 +634,7 @@
                     "generation": "Phantom Drophead Coupe (facelift 2012)",
                     "engine": "6.7 V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -597,6 +642,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5612",
@@ -604,6 +650,7 @@
                     "height": "1566",
                     "heightMin": "1566",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2630",
                     "curbWeightMin": "2630"
                   }
@@ -626,6 +673,7 @@
                     "generation": "Phantom Coupe (facelift 2012)",
                     "engine": "6.7 V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -633,6 +681,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5612",
@@ -640,6 +689,7 @@
                     "height": "1598",
                     "heightMin": "1598",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2580",
                     "curbWeightMin": "2580"
                   }
@@ -662,6 +712,7 @@
                     "generation": "Phantom Extended Wheelbase VII (facelift 2012)",
                     "engine": "6.7 V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -669,6 +720,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "6092",
@@ -676,6 +728,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2670",
                     "curbWeightMin": "2670"
                   }
@@ -698,6 +751,7 @@
                     "generation": "Phantom VII (facelift 2012)",
                     "engine": "6.7 V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -705,6 +759,7 @@
                     "yearstart": "2012",
                     "yearstop": "2016",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5842",
@@ -712,6 +767,7 @@
                     "height": "1638",
                     "heightMin": "1638",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2560",
                     "curbWeightMin": "2560"
                   }
@@ -734,6 +790,7 @@
                     "generation": "Phantom Coupe",
                     "engine": "6.75 i V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -741,6 +798,7 @@
                     "yearstart": "2008",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5609",
@@ -748,6 +806,7 @@
                     "height": "1592",
                     "heightMin": "1592",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2590",
                     "curbWeightMin": "2590"
                   }
@@ -770,6 +829,7 @@
                     "generation": "Phantom Drophead Coupe",
                     "engine": "6.75 i V12 (460 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -777,6 +837,7 @@
                     "yearstart": "2007",
                     "yearstop": "2016",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5609",
@@ -784,6 +845,7 @@
                     "height": "1581",
                     "heightMin": "1581",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2620",
                     "curbWeightMin": "2620"
                   }
@@ -806,6 +868,7 @@
                     "generation": "Phantom VII",
                     "engine": "6.75 i V12 48V (460 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -813,6 +876,7 @@
                     "yearstart": "2003",
                     "yearstop": "2012",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5834",
@@ -820,6 +884,7 @@
                     "height": "1632",
                     "heightMin": "1632",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2480",
                     "curbWeightMin": "2480"
                   }
@@ -842,6 +907,7 @@
                     "generation": "Phantom VII Extended Wheelbase",
                     "engine": "6.75 i V12 48V (460 Hp) ED",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "460/5350",
                     "powerHp": "460",
                     "powerRpm": "5350",
@@ -849,6 +915,7 @@
                     "yearstart": "2003",
                     "yearstop": "2012",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "6084",
@@ -856,6 +923,7 @@
                     "height": "1632",
                     "heightMin": "1632",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2670",
                     "curbWeightMin": "2670"
                   }
@@ -887,12 +955,14 @@
                     "generation": "Wraith",
                     "engine": "6.6 V12 (632 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "632/5600",
                     "powerHp": "632",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2013",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5285",
@@ -900,6 +970,7 @@
                     "height": "1507",
                     "heightMin": "1507",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2360",
                     "curbWeightMin": "2360"
                   },
@@ -911,12 +982,14 @@
                     "generation": "Wraith",
                     "engine": "6.6 V12 (632 Hp) Automatic Black Badge",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "632/5600",
                     "powerHp": "632",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5285",
@@ -924,6 +997,7 @@
                     "height": "1507",
                     "heightMin": "1507",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2440",
                     "curbWeightMin": "2440"
                   }
@@ -955,6 +1029,7 @@
                     "generation": "Dawn",
                     "engine": "6.6 V12 (571 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5250-6000",
                     "powerHp": "571",
                     "powerRpm": "5250-6000",
@@ -962,6 +1037,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2015",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5285",
@@ -969,6 +1045,7 @@
                     "height": "1502",
                     "heightMin": "1502",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2560",
                     "curbWeightMin": "2560"
                   },
@@ -980,6 +1057,7 @@
                     "generation": "Dawn",
                     "engine": "6.6 V12 (601 Hp) Automatic Black Badge",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "601/5250-6000",
                     "powerHp": "601",
                     "powerRpm": "5250-6000",
@@ -987,6 +1065,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2017",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5285",
@@ -994,6 +1073,7 @@
                     "height": "1502",
                     "heightMin": "1502",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2560",
                     "curbWeightMin": "2560"
                   }
@@ -1025,12 +1105,14 @@
                     "generation": "Cullinan",
                     "engine": "6.7 V12 (571 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "571/5000",
                     "powerHp": "571",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5341",
@@ -1039,6 +1121,7 @@
                     "height": "1835",
                     "heightMin": "1835",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2660",
                     "curbWeightMin": "2660"
                   }
@@ -1070,11 +1153,13 @@
                     "generation": "Silver Dawn",
                     "engine": "4.6 (128 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "128",
                     "powerHp": "128",
                     "yearstart": "1951",
                     "yearstop": "1955",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5168",
@@ -1084,6 +1169,7 @@
                     "rideHeight": "191",
                     "rideHeightMin": "191",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1914",
                     "curbWeightMin": "1914"
                   }
@@ -1115,8 +1201,10 @@
                     "generation": "Spectre",
                     "engine": "102 kWh (584 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5475",
@@ -1125,6 +1213,7 @@
                     "height": "1573",
                     "heightMin": "1573",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2890",
                     "curbWeightMin": "2890"
                   }

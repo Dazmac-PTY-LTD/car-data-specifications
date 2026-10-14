@@ -26,6 +26,7 @@
                     "generation": "Admiral",
                     "engine": "2.2i 4WD (103 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103/4200",
                     "powerHp": "103",
                     "powerRpm": "4200",
@@ -33,6 +34,7 @@
                     "yearstart": "2001",
                     "yearstop": "2007",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5000",
@@ -40,6 +42,7 @@
                     "height": "1880",
                     "heightMin": "1880",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1700",
                     "curbWeightMin": "1700"
                   }

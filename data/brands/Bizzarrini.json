@@ -26,6 +26,7 @@
                     "generation": "5300 GT Strada",
                     "engine": "5.4 V8 (350 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "350/5400",
                     "powerHp": "350",
                     "powerRpm": "5400",
@@ -33,6 +34,7 @@
                     "yearstart": "1964",
                     "yearstop": "1968",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4394",
@@ -42,6 +44,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1250",
                     "curbWeightMin": "1250"
                   }

@@ -26,10 +26,12 @@
                     "generation": "660 LMS",
                     "engine": "3.0 V6 (660 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "660",
                     "powerHp": "660",
                     "yearstart": "2023",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4366",
@@ -37,6 +39,7 @@
                     "height": "1250",
                     "heightMin": "1250",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   }

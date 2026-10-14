@@ -26,8 +26,10 @@
                     "generation": "ET5 (2025)",
                     "engine": "72 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4720",
@@ -37,6 +39,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1930",
                     "curbWeightMin": "1930"
                   }
@@ -59,8 +62,10 @@
                     "generation": "ET5 (2021)",
                     "engine": "71.98 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4698",
@@ -70,7 +75,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -100,8 +105,10 @@
                     "generation": "BE11",
                     "engine": "71.98 kWh (204 Hp) Standard Range Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4720",
@@ -111,6 +118,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1880",
                     "curbWeightMin": "1880"
                   },
@@ -122,8 +130,10 @@
                     "generation": "BE11",
                     "engine": "85.96 kWh (204 Hp) Long Range Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4720",
@@ -133,6 +143,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1930",
                     "curbWeightMin": "1930"
                   }

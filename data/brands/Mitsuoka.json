@@ -26,6 +26,7 @@
                     "generation": "Galue II",
                     "engine": "2.5 (210 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "210/6400",
                     "powerHp": "210",
                     "powerRpm": "6400",
@@ -33,6 +34,7 @@
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5060",
@@ -40,6 +42,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1620",
                     "curbWeightMin": "1620"
                   },
@@ -51,6 +54,7 @@
                     "generation": "Galue II",
                     "engine": "3.0 (240 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/6400",
                     "powerHp": "240",
                     "powerRpm": "6400",
@@ -58,6 +62,7 @@
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5060",
@@ -65,6 +70,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1620",
                     "curbWeightMin": "1620"
                   }
@@ -87,6 +93,7 @@
                     "generation": "Galue I",
                     "engine": "2.0 (130 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/5600",
                     "powerHp": "130",
                     "powerRpm": "5600",
@@ -94,6 +101,7 @@
                     "yearstart": "1999",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4860",
@@ -101,7 +109,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -131,11 +139,13 @@
                     "generation": "Le-Seyde",
                     "engine": "1.8 (125 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "yearstart": "1989",
                     "yearstop": "1994",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -165,6 +175,7 @@
                     "generation": "Ryoga",
                     "engine": "1.8 (125 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/6000",
                     "powerHp": "125",
                     "powerRpm": "6000",
@@ -172,6 +183,7 @@
                     "yearstart": "1998",
                     "yearstop": "2001",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -181,6 +193,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1190",
                     "curbWeightMin": "1190"
                   }
@@ -212,12 +225,14 @@
                     "generation": "Himiko Concept",
                     "engine": "1.5 (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/7000",
                     "powerHp": "131",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2018",
                     "coupe": "Cabriolet, Roadster",
+                    "coupeId": "2,17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4580",
@@ -227,6 +242,7 @@
                     "rideHeight": "135",
                     "rideHeightMin": "135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1130-1180",
                     "curbWeightMin": "1130",
                     "curbWeightMax": "1180"
@@ -239,12 +255,14 @@
                     "generation": "Himiko Concept",
                     "engine": "1.5 (131 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/7000",
                     "powerHp": "131",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2018",
                     "coupe": "Cabriolet, Roadster",
+                    "coupeId": "2,17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4580",
@@ -254,6 +272,7 @@
                     "rideHeight": "135",
                     "rideHeightMin": "135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1190-1200",
                     "curbWeightMin": "1190",
                     "curbWeightMax": "1200"
@@ -286,12 +305,14 @@
                     "generation": "Rock Star",
                     "engine": "1.5 SKYACTIV-G (132 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/7000",
                     "powerHp": "132",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2018",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4345",
@@ -301,6 +322,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1080-1120",
                     "curbWeightMin": "1080",
                     "curbWeightMax": "1120"
@@ -313,12 +335,14 @@
                     "generation": "Rock Star",
                     "engine": "1.5 SKYACTIV-G (132 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/7000",
                     "powerHp": "132",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2018",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4345",
@@ -328,6 +352,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1140",
                     "curbWeightMin": "1140"
                   }
@@ -359,6 +384,7 @@
                     "generation": "Orochi",
                     "engine": "3.3 V6 (233 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "233/5600",
                     "powerHp": "233",
                     "powerRpm": "5600",
@@ -366,6 +392,7 @@
                     "yearstart": "2006",
                     "yearstop": "2014",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4560",
@@ -373,6 +400,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1590",
                     "curbWeightMin": "1590"
                   }

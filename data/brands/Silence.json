@@ -26,8 +26,10 @@
                     "generation": "S04 Nanocar",
                     "engine": "L7e 11.2 kWh (30 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2282",
@@ -36,6 +38,7 @@
                     "height": "1590",
                     "heightMin": "1590",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "435",
                     "curbWeightMin": "435"
                   },
@@ -47,8 +50,10 @@
                     "generation": "S04 Nanocar",
                     "engine": "L6e 11.2 kWh (14 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2282",
@@ -57,6 +62,7 @@
                     "height": "1590",
                     "heightMin": "1590",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "420",
                     "curbWeightMin": "420"
                   }

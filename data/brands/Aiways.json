@@ -26,8 +26,10 @@
                     "generation": "U5",
                     "engine": "Standard 63 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4680",
@@ -37,6 +39,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1720",
                     "curbWeightMin": "1720"
                   },
@@ -48,8 +51,10 @@
                     "generation": "U5",
                     "engine": "Premium 63 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4680",
@@ -59,6 +64,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   }
@@ -90,8 +96,10 @@
                     "generation": "U6",
                     "engine": "PRIME 63 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4805",
@@ -101,6 +109,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1790",
                     "curbWeightMin": "1790"
                   }

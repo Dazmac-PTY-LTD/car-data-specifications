@@ -26,12 +26,14 @@
                     "generation": "Pickup (23632, facelift 2016)",
                     "engine": "2.7 (135 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/4600",
                     "powerHp": "135",
                     "powerRpm": "4600",
                     "powerRpmLow": "4600",
                     "yearstart": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -42,6 +44,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2030",
                     "curbWeightMin": "2030"
                   },
@@ -53,12 +56,14 @@
                     "generation": "Pickup (23632, facelift 2016)",
                     "engine": "2.7 (150 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -69,6 +74,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2070",
                     "curbWeightMin": "2070"
                   }
@@ -91,6 +97,7 @@
                     "generation": "Pickup (23632, facelift 2014)",
                     "engine": "2.2 (114 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "114/3500",
                     "powerHp": "114",
                     "powerRpm": "3500",
@@ -98,6 +105,7 @@
                     "yearstart": "2014",
                     "yearstop": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -107,6 +115,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2215",
                     "curbWeightMin": "2215"
                   },
@@ -118,6 +127,7 @@
                     "generation": "Pickup (23632, facelift 2014)",
                     "engine": "2.7 (135 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/4600",
                     "powerHp": "135",
                     "powerRpm": "4600",
@@ -125,6 +135,7 @@
                     "yearstart": "2014",
                     "yearstop": "2016",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -134,6 +145,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2125",
                     "curbWeightMin": "2125"
                   }
@@ -156,6 +168,7 @@
                     "generation": "Pickup (23632)",
                     "engine": "2.7 (128 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "128/4400",
                     "powerHp": "128",
                     "powerRpm": "4400",
@@ -163,6 +176,7 @@
                     "yearstart": "2008",
                     "yearstop": "2014",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5200",
@@ -170,6 +184,7 @@
                     "height": "2000",
                     "heightMin": "2000",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2090",
                     "curbWeightMin": "2090"
                   }
@@ -201,13 +216,15 @@
                     "generation": "315122",
                     "engine": "2.45 (74 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "74",
                     "powerHp": "74",
                     "yearstart": "1998",
                     "yearstop": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -228,6 +245,7 @@
                     "generation": "31512-01",
                     "engine": "2.45 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/4000",
                     "powerHp": "81",
                     "powerRpm": "4000",
@@ -235,6 +253,7 @@
                     "yearstart": "1985",
                     "yearstop": "1990",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -242,6 +261,7 @@
                     "height": "1990",
                     "heightMin": "1990",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   }
@@ -273,14 +293,16 @@
                     "generation": "Hunter (315108)",
                     "engine": "2.2 TD (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/",
                     "powerHp": "106",
                     "yearstart": "2009",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -301,12 +323,14 @@
                     "generation": "Hunter (315195)",
                     "engine": "2.4 D (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/4000",
                     "powerHp": "86",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4100",
@@ -314,6 +338,7 @@
                     "height": "2025",
                     "heightMin": "2025",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   },
@@ -325,12 +350,14 @@
                     "generation": "Hunter (315195)",
                     "engine": "2.7 i 16V (128 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "128/4400",
                     "powerHp": "128",
                     "powerRpm": "4400",
                     "powerRpmLow": "4400",
                     "yearstart": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4100",
@@ -338,6 +365,7 @@
                     "height": "2025",
                     "heightMin": "2025",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   },
@@ -349,12 +377,14 @@
                     "generation": "Hunter (315195)",
                     "engine": "2.89 (84 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "84/4000",
                     "powerHp": "84",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4100",
@@ -362,6 +392,7 @@
                     "height": "2025",
                     "heightMin": "2025",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   },
@@ -373,12 +404,14 @@
                     "generation": "Hunter (315195)",
                     "engine": "2.7 (135 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/4600",
                     "powerHp": "135",
                     "powerRpm": "4600",
                     "powerRpmLow": "4600",
                     "yearstart": "2018",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4050",
@@ -388,6 +421,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1760",
                     "curbWeightMin": "1760"
                   },
@@ -399,12 +433,14 @@
                     "generation": "Hunter (315195)",
                     "engine": "Expedition 2.7 (135 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/4600",
                     "powerHp": "135",
                     "powerRpm": "4600",
                     "powerRpmLow": "4600",
                     "yearstart": "2019",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4260",
@@ -414,6 +450,7 @@
                     "rideHeight": "241",
                     "rideHeightMin": "241",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1840",
                     "curbWeightMin": "1840"
                   }
@@ -445,13 +482,15 @@
                     "generation": "31608",
                     "engine": "2.24 D (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98",
                     "powerHp": "98",
                     "yearstart": "2002",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -472,11 +511,13 @@
                     "generation": "31604",
                     "engine": "2.5 TDI (103 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103/",
                     "powerHp": "103",
                     "yearstart": "2000",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4240",
@@ -484,6 +525,7 @@
                     "height": "1935",
                     "heightMin": "1935",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1975",
                     "curbWeightMin": "1975"
                   }
@@ -506,11 +548,13 @@
                     "generation": "31605",
                     "engine": "2.89 (102 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "102/",
                     "powerHp": "102",
                     "yearstart": "2000",
                     "yearstop": "2004",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4240",
@@ -518,6 +562,7 @@
                     "height": "1935",
                     "heightMin": "1935",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1950",
                     "curbWeightMin": "1950"
                   }
@@ -540,6 +585,7 @@
                     "generation": "31601",
                     "engine": "2.9 (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98/4000",
                     "powerHp": "98",
                     "powerRpm": "4000",
@@ -547,8 +593,9 @@
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -569,11 +616,13 @@
                     "generation": "31602",
                     "engine": "2.7 (132 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/",
                     "powerHp": "132",
                     "yearstart": "1999",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4240",
@@ -581,6 +630,7 @@
                     "height": "1935",
                     "heightMin": "1935",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1965",
                     "curbWeightMin": "1965"
                   }
@@ -612,12 +662,14 @@
                     "generation": "Patriot (3163, facelift 2016)",
                     "engine": "2.7 (135 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/4600",
                     "powerHp": "135",
                     "powerRpm": "4600",
                     "powerRpmLow": "4600",
                     "yearstart": "2016",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -628,6 +680,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1925",
                     "curbWeightMin": "1925"
                   },
@@ -639,12 +692,14 @@
                     "generation": "Patriot (3163, facelift 2016)",
                     "engine": "2.7 (150 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2016",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -655,6 +710,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1940",
                     "curbWeightMin": "1940"
                   }
@@ -677,6 +733,7 @@
                     "generation": "Patriot (3163)",
                     "engine": "2.3D (116 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "116/3900",
                     "powerHp": "116",
                     "powerRpm": "3900",
@@ -684,6 +741,7 @@
                     "yearstart": "2005",
                     "yearstop": "2012",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4647",
@@ -691,6 +749,7 @@
                     "height": "2000",
                     "heightMin": "2000",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2170",
                     "curbWeightMin": "2170"
                   },
@@ -702,6 +761,7 @@
                     "generation": "Patriot (3163)",
                     "engine": "2.7 i 16V (128 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "128/4400",
                     "powerHp": "128",
                     "powerRpm": "4400",
@@ -709,6 +769,7 @@
                     "yearstart": "2005",
                     "yearstop": "2012",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4647",
@@ -716,6 +777,7 @@
                     "height": "2000",
                     "heightMin": "2000",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2070",
                     "curbWeightMin": "2070"
                   }
@@ -747,6 +809,7 @@
                     "generation": "3151",
                     "engine": "2.45 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -754,6 +817,7 @@
                     "yearstart": "1989",
                     "yearstop": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -761,6 +825,7 @@
                     "height": "2050",
                     "heightMin": "2050",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1680",
                     "curbWeightMin": "1680"
                   }
@@ -783,6 +848,7 @@
                     "generation": "31512",
                     "engine": "2.45 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -790,6 +856,7 @@
                     "yearstart": "1989",
                     "yearstop": "2005",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -797,6 +864,7 @@
                     "height": "1990",
                     "heightMin": "1990",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1590",
                     "curbWeightMin": "1590"
                   }
@@ -819,6 +887,7 @@
                     "generation": "3151-01",
                     "engine": "2.45 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/4000",
                     "powerHp": "81",
                     "powerRpm": "4000",
@@ -826,6 +895,7 @@
                     "yearstart": "1985",
                     "yearstop": "1989",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -833,6 +903,7 @@
                     "height": "2050",
                     "heightMin": "2050",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1660",
                     "curbWeightMin": "1660"
                   }
@@ -864,13 +935,15 @@
                     "generation": "315143",
                     "engine": "2.4 D (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86",
                     "powerHp": "86",
                     "yearstart": "2002",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -891,11 +964,13 @@
                     "generation": "315148",
                     "engine": "2.24 D (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98/",
                     "powerHp": "98",
                     "yearstart": "2002",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -903,6 +978,7 @@
                     "height": "2020",
                     "heightMin": "2020",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1760",
                     "curbWeightMin": "1760"
                   }
@@ -925,11 +1001,13 @@
                     "generation": "31514",
                     "engine": "2.45 (76 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "76/",
                     "powerHp": "76",
                     "yearstart": "1995",
                     "yearstop": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -937,6 +1015,7 @@
                     "height": "2020",
                     "heightMin": "2020",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1750",
                     "curbWeightMin": "1750"
                   }
@@ -959,11 +1038,13 @@
                     "generation": "315142 (92)",
                     "engine": "2.89 (84 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "84/",
                     "powerHp": "84",
                     "yearstart": "1995",
                     "yearstop": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -971,6 +1052,7 @@
                     "height": "2020",
                     "heightMin": "2020",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1750",
                     "curbWeightMin": "1750"
                   }
@@ -1002,6 +1084,7 @@
                     "generation": "3153",
                     "engine": "2.9 (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98/4000",
                     "powerHp": "98",
                     "powerRpm": "4000",
@@ -1009,8 +1092,9 @@
                     "yearstart": "1996",
                     "yearstop": "2003",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1040,11 +1124,13 @@
                     "generation": "31622",
                     "engine": "2.7 (132 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/",
                     "powerHp": "132",
                     "yearstart": "1999",
                     "yearstop": "2005",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4630",
@@ -1052,6 +1138,7 @@
                     "height": "1948",
                     "heightMin": "1948",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   }
@@ -1074,11 +1161,13 @@
                     "generation": "31625",
                     "engine": "2.89 (102 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "102/",
                     "powerHp": "102",
                     "yearstart": "1999",
                     "yearstop": "2005",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4630",
@@ -1086,6 +1175,7 @@
                     "height": "1948",
                     "heightMin": "1948",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2020",
                     "curbWeightMin": "2020"
                   }
@@ -1117,6 +1207,7 @@
                     "generation": "469B",
                     "engine": "2.4 (73 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73/4000",
                     "powerHp": "73",
                     "powerRpm": "4000",
@@ -1124,6 +1215,7 @@
                     "yearstart": "1973",
                     "yearstop": "1985",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -1133,6 +1225,7 @@
                     "rideHeight": "220",
                     "rideHeightMin": "220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -1155,6 +1248,7 @@
                     "generation": "469",
                     "engine": "2.45 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/4000",
                     "powerHp": "75",
                     "powerRpm": "4000",
@@ -1162,6 +1256,7 @@
                     "yearstart": "1972",
                     "yearstop": "1985",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4025",
@@ -1171,6 +1266,7 @@
                     "rideHeight": "300",
                     "rideHeightMin": "300",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -1202,13 +1298,15 @@
                     "generation": "315192",
                     "engine": "2.89 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100",
                     "powerHp": "100",
                     "yearstart": "2001",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1229,6 +1327,7 @@
                     "generation": "31519",
                     "engine": "2.9 (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98/4000",
                     "powerHp": "98",
                     "powerRpm": "4000",
@@ -1236,8 +1335,9 @@
                     "yearstart": "1997",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1267,11 +1367,13 @@
                     "generation": "3159",
                     "engine": "2.7 (132 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132/",
                     "powerHp": "132",
                     "yearstart": "1999",
                     "yearstop": "2008",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4570",
@@ -1279,6 +1381,7 @@
                     "height": "2105",
                     "heightMin": "2105",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2000",
                     "curbWeightMin": "2000"
                   }

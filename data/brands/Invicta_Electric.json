@@ -26,8 +26,10 @@
                     "generation": "D2S",
                     "engine": "(20.4 Hp) Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2811",
@@ -37,6 +39,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "865",
                     "curbWeightMin": "865"
                   }
@@ -68,8 +71,10 @@
                     "generation": "Pony",
                     "engine": "13.7 kWh (27.2 Hp) Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3060",
@@ -79,6 +84,7 @@
                     "rideHeight": "150",
                     "rideHeightMin": "150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "600",
                     "curbWeightMin": "600"
                   }

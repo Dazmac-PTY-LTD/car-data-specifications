@@ -26,6 +26,7 @@
                     "generation": "2500 GT",
                     "engine": "2.5 i 16V (190 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/6000",
                     "powerHp": "190",
                     "powerRpm": "6000",
@@ -33,6 +34,7 @@
                     "yearstart": "1999",
                     "yearstop": "1999",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4090",
@@ -40,6 +42,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "680",
                     "curbWeightMin": "680"
                   }

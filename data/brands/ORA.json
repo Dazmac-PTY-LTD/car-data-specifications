@@ -26,8 +26,10 @@
                     "generation": "R1",
                     "engine": "33 kWh (48 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3495",
@@ -37,7 +39,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -67,8 +69,10 @@
                     "generation": "iQ",
                     "engine": "46.57 kWh (163 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4445",
@@ -78,7 +82,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -108,8 +112,10 @@
                     "generation": "Funky Cat",
                     "engine": "GT 63.13 kWh (171 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4254",
@@ -117,6 +123,7 @@
                     "height": "1603",
                     "heightMin": "1603",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1555",
                     "curbWeightMin": "1555"
                   },
@@ -128,8 +135,10 @@
                     "generation": "Funky Cat",
                     "engine": "48 kWh (171 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4235",
@@ -137,6 +146,7 @@
                     "height": "1603",
                     "heightMin": "1603",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -168,8 +178,10 @@
                     "generation": "03",
                     "engine": "48 kWh (170 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4235",
@@ -177,6 +189,7 @@
                     "height": "1603",
                     "heightMin": "1603",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -188,8 +201,10 @@
                     "generation": "03",
                     "engine": "63 kWh (170 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4235",
@@ -197,6 +212,7 @@
                     "height": "1603",
                     "heightMin": "1603",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1580",
                     "curbWeightMin": "1580"
                   }
@@ -228,8 +244,10 @@
                     "generation": "07",
                     "engine": "Standard Range 67 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4871",
@@ -239,6 +257,7 @@
                     "rideHeight": "105",
                     "rideHeightMin": "105",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1990",
                     "curbWeightMin": "1990"
                   },
@@ -250,8 +269,10 @@
                     "generation": "07",
                     "engine": "Long Range 86 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4874",
@@ -259,6 +280,7 @@
                     "height": "1500",
                     "heightMin": "1500",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1990",
                     "curbWeightMin": "1990"
                   },
@@ -270,8 +292,10 @@
                     "generation": "07",
                     "engine": "GT 86 kWh (408 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4871",
@@ -281,6 +305,7 @@
                     "rideHeight": "105",
                     "rideHeightMin": "105",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2135",
                     "curbWeightMin": "2135"
                   }
@@ -312,8 +337,10 @@
                     "generation": "5",
                     "engine": "58.3 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4471",
@@ -321,7 +348,7 @@
                     "height": "1641",
                     "heightMin": "1641",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "55789",
@@ -331,8 +358,10 @@
                     "generation": "5",
                     "engine": "45.3 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4471",
@@ -340,7 +369,7 @@
                     "height": "1641",
                     "heightMin": "1641",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57411",
@@ -350,10 +379,12 @@
                     "generation": "5",
                     "engine": "1.5T (160 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160",
                     "powerHp": "160",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4471",
@@ -363,6 +394,7 @@
                     "rideHeight": "175",
                     "rideHeightMin": "175",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1485",
                     "curbWeightMin": "1485"
                   },
@@ -374,10 +406,12 @@
                     "generation": "5",
                     "engine": "1.5T (223 Hp) Hybrid DHT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4471",
@@ -387,6 +421,7 @@
                     "rideHeight": "175",
                     "rideHeightMin": "175",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1585",
                     "curbWeightMin": "1585"
                   }

@@ -26,8 +26,10 @@
                     "generation": "MX2",
                     "engine": "18 kWh (46 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3065",
@@ -35,6 +37,7 @@
                     "height": "1442",
                     "heightMin": "1442",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "685",
                     "curbWeightMin": "685"
                   }
@@ -66,8 +69,10 @@
                     "generation": "MX3",
                     "engine": "18 kWh (46 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2017",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3065",
@@ -75,6 +80,7 @@
                     "height": "1442",
                     "heightMin": "1442",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "685",
                     "curbWeightMin": "685"
                   }

@@ -26,8 +26,10 @@
                     "generation": "GT RACEEDITION",
                     "engine": "85 kWh (1000 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4672",
@@ -35,7 +37,7 @@
                     "height": "1196",
                     "heightMin": "1196",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -56,8 +58,10 @@
                     "generation": "GT",
                     "engine": "85 kWh (1600 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4672",
@@ -65,7 +69,7 @@
                     "height": "1236",
                     "heightMin": "1236",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -114,8 +118,10 @@
                     "generation": "Alpha-S",
                     "engine": "525S 67.3 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4930",
@@ -125,7 +131,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "43222",
@@ -135,8 +141,10 @@
                     "generation": "Alpha-S",
                     "engine": "708S 93.6 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4930",
@@ -146,7 +154,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "43223",
@@ -156,8 +164,10 @@
                     "generation": "Alpha-S",
                     "engine": "603H 93.6 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4930",
@@ -167,7 +177,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -197,9 +207,11 @@
                     "generation": "Alpha-T",
                     "engine": "480S 67.3 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4788",
@@ -209,7 +221,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "43232",
@@ -219,9 +231,11 @@
                     "generation": "Alpha-T",
                     "engine": "653S 93.6 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4788",
@@ -231,7 +245,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "43233",
@@ -241,9 +255,11 @@
                     "generation": "Alpha-T",
                     "engine": "H 93.6 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4788",
@@ -253,7 +269,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -283,8 +299,10 @@
                     "generation": "Beta T1 (facelift 2026)",
                     "engine": "36.4 kWh (129 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4375",
@@ -294,7 +312,7 @@
                     "rideHeight": "153",
                     "rideHeightMin": "153",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57709",
@@ -304,8 +322,10 @@
                     "generation": "Beta T1 (facelift 2026)",
                     "engine": "42.3 kWh (129 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4375",
@@ -316,7 +336,7 @@
                     "rideHeightMin": "153",
                     "rideHeightMax": "181",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -337,9 +357,11 @@
                     "generation": "T1",
                     "engine": "33.4 kWh (129 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "yearstop": "2026",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4337",
@@ -349,6 +371,7 @@
                     "rideHeight": "153",
                     "rideHeightMin": "153",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1415",
                     "curbWeightMin": "1415"
                   },
@@ -360,9 +383,11 @@
                     "generation": "T1",
                     "engine": "42.3 kWh (95 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "yearstop": "2026",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4337",
@@ -372,6 +397,7 @@
                     "rideHeight": "181",
                     "rideHeightMin": "181",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -403,8 +429,10 @@
                     "generation": "Kaola S",
                     "engine": "58.8 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4500",
@@ -414,6 +442,7 @@
                     "rideHeight": "145",
                     "rideHeightMin": "145",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1780",
                     "curbWeightMin": "1780"
                   }
@@ -436,8 +465,10 @@
                     "generation": "Kaola",
                     "engine": "58.8 kWh (163 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4500",
@@ -447,6 +478,7 @@
                     "rideHeight": "145",
                     "rideHeightMin": "145",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1800",
                     "curbWeightMin": "1800"
                   }
@@ -478,8 +510,10 @@
                     "generation": "Alpha T5 (facelift 2025)",
                     "engine": "64.8 kWh (252 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -489,6 +523,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1955",
                     "curbWeightMin": "1955"
                   },
@@ -500,8 +535,10 @@
                     "generation": "Alpha T5 (facelift 2025)",
                     "engine": "74.4 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -511,6 +548,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2025",
                     "curbWeightMin": "2025"
                   },
@@ -522,8 +560,10 @@
                     "generation": "Alpha T5 (facelift 2025)",
                     "engine": "79.2 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -533,6 +573,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1975",
                     "curbWeightMin": "1975"
                   },
@@ -544,12 +585,14 @@
                     "generation": "Alpha T5 (facelift 2025)",
                     "engine": "1.5L 27.4 kWh (272 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "105/6000",
                     "powerHp": "105",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -559,6 +602,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1970",
                     "curbWeightMin": "1970"
                   }
@@ -581,9 +625,11 @@
                     "generation": "Alpha T5",
                     "engine": "65 kWh (252 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4690",
@@ -593,6 +639,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1980",
                     "curbWeightMin": "1980"
                   },
@@ -604,9 +651,11 @@
                     "generation": "Alpha T5",
                     "engine": "74.4 kWh (272 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4690",
@@ -616,6 +665,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2045",
                     "curbWeightMin": "2045"
                   },
@@ -627,9 +677,11 @@
                     "generation": "Alpha T5",
                     "engine": "79.2 kWh (272 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4690",
@@ -639,6 +691,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1975",
                     "curbWeightMin": "1975"
                   }
@@ -670,8 +723,10 @@
                     "generation": "Alpha S5 (facelift 2026)",
                     "engine": "64.8 kWh (252 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4886",
@@ -679,6 +734,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1885",
                     "curbWeightMin": "1885"
                   },
@@ -690,8 +746,10 @@
                     "generation": "Alpha S5 (facelift 2026)",
                     "engine": "74.4 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4886",
@@ -699,6 +757,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1995",
                     "curbWeightMin": "1995"
                   },
@@ -710,8 +769,10 @@
                     "generation": "Alpha S5 (facelift 2026)",
                     "engine": "74.4 kWh (530 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4886",
@@ -719,6 +780,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2120",
                     "curbWeightMin": "2120"
                   },
@@ -730,12 +792,14 @@
                     "generation": "Alpha S5 (facelift 2026)",
                     "engine": "1.5L 27.4 kWh (272 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "105/6000",
                     "powerHp": "105",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4886",
@@ -743,6 +807,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1880",
                     "curbWeightMin": "1880"
                   }
@@ -765,9 +830,11 @@
                     "generation": "Alpha S5",
                     "engine": "65 kWh (252 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -775,6 +842,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1920",
                     "curbWeightMin": "1920"
                   },
@@ -786,9 +854,11 @@
                     "generation": "Alpha S5",
                     "engine": "74.4 kWh (272 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "yearstop": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -796,6 +866,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1995",
                     "curbWeightMin": "1995"
                   },
@@ -807,9 +878,11 @@
                     "generation": "Alpha S5",
                     "engine": "79.2 kWh (272 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -817,6 +890,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1920",
                     "curbWeightMin": "1920"
                   },
@@ -828,9 +902,11 @@
                     "generation": "Alpha S5",
                     "engine": "79.2 kWh (530 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -838,6 +914,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   }
@@ -869,8 +946,10 @@
                     "generation": "Alpha S6",
                     "engine": "93.6 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle), Liftback",
+                    "coupeId": "9,20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4930",
@@ -880,6 +959,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2070",
                     "curbWeightMin": "2070"
                   },
@@ -891,8 +971,10 @@
                     "generation": "Alpha S6",
                     "engine": "94.5 kWh (238 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle), Liftback",
+                    "coupeId": "9,20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4930",
@@ -902,6 +984,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2060",
                     "curbWeightMin": "2060"
                   },
@@ -913,8 +996,10 @@
                     "generation": "Alpha S6",
                     "engine": "74.5 kWh (343 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle), Liftback",
+                    "coupeId": "9,20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4980",
@@ -924,6 +1009,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1985",
                     "curbWeightMin": "1985"
                   }
@@ -955,8 +1041,10 @@
                     "generation": "Beta S3",
                     "engine": "44.2 kWh (216 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4916",
@@ -966,7 +1054,7 @@
                     "rideHeight": "127",
                     "rideHeightMin": "127",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57623",
@@ -976,8 +1064,10 @@
                     "generation": "Beta S3",
                     "engine": "54 kWh (216 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4916",
@@ -987,7 +1077,7 @@
                     "rideHeight": "127",
                     "rideHeightMin": "127",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57624",
@@ -997,8 +1087,10 @@
                     "generation": "Beta S3",
                     "engine": "55.6 kWh (216 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4916",
@@ -1008,7 +1100,7 @@
                     "rideHeight": "129",
                     "rideHeightMin": "129",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57625",
@@ -1018,8 +1110,10 @@
                     "generation": "Beta S3",
                     "engine": "65.8 kWh (216 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4916",
@@ -1029,7 +1123,7 @@
                     "rideHeight": "129",
                     "rideHeightMin": "129",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1059,8 +1153,10 @@
                     "generation": "Alpha T6",
                     "engine": "93.6 kWh (218 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4788",
@@ -1070,7 +1166,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57707",
@@ -1080,8 +1176,10 @@
                     "generation": "Alpha T6",
                     "engine": "93.6 kWh (435 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4788",
@@ -1091,7 +1189,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1121,8 +1219,10 @@
                     "generation": "Alpha T7",
                     "engine": "75.4 kWh (309 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5020",
@@ -1132,7 +1232,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57803",
@@ -1142,8 +1242,10 @@
                     "generation": "Alpha T7",
                     "engine": "84.8 kWh (309 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5020",
@@ -1153,7 +1255,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57804",
@@ -1163,12 +1265,14 @@
                     "generation": "Alpha T7",
                     "engine": "1.5L 43.9 kWh (272 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "96/6000",
                     "powerHp": "96",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5020",
@@ -1178,7 +1282,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }

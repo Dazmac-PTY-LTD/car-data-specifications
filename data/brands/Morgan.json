@@ -26,6 +26,7 @@
                     "generation": "4/4 1.6",
                     "engine": "1.6 (112 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "112/6000",
                     "powerHp": "112",
                     "powerRpm": "6000",
@@ -33,6 +34,7 @@
                     "yearstart": "2009",
                     "yearstop": "2019",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4010",
@@ -40,6 +42,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "795",
                     "curbWeightMin": "795"
                   }
@@ -62,6 +65,7 @@
                     "generation": "4/4 1800",
                     "engine": "1.8 16V (111 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "111/5750",
                     "powerHp": "111",
                     "powerRpm": "5750",
@@ -69,6 +73,7 @@
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3890",
@@ -76,6 +81,7 @@
                     "height": "1290",
                     "heightMin": "1290",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "868",
                     "curbWeightMin": "868"
                   }
@@ -107,6 +113,7 @@
                     "generation": "Aero 8 (facelift 2015)",
                     "engine": "4.8 V8 (367 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "367/6300",
                     "powerHp": "367",
                     "powerRpm": "6300",
@@ -114,6 +121,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4147",
@@ -121,6 +129,7 @@
                     "height": "1248",
                     "heightMin": "1248",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1180",
                     "curbWeightMin": "1180"
                   },
@@ -132,6 +141,7 @@
                     "generation": "Aero 8 (facelift 2015)",
                     "engine": "4.8 V8 (367 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "367/6300",
                     "powerHp": "367",
                     "powerRpm": "6300",
@@ -139,6 +149,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4147",
@@ -146,6 +157,7 @@
                     "height": "1248",
                     "heightMin": "1248",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1180",
                     "curbWeightMin": "1180"
                   }
@@ -168,6 +180,7 @@
                     "generation": "Aero 8",
                     "engine": "4.4 i V8 32V (286 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "286/5500",
                     "powerHp": "286",
                     "powerRpm": "5500",
@@ -175,6 +188,7 @@
                     "yearstart": "2000",
                     "yearstop": "2010",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4120",
@@ -182,6 +196,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   }
@@ -213,6 +228,7 @@
                     "generation": "Plus 8 (2012)",
                     "engine": "4.8 V8 (367 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "367/6300",
                     "powerHp": "367",
                     "powerRpm": "6300",
@@ -220,6 +236,7 @@
                     "yearstart": "2012",
                     "yearstop": "2018",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4010",
@@ -227,6 +244,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1220",
                     "curbWeightMin": "1220"
                   },
@@ -238,6 +256,7 @@
                     "generation": "Plus 8 (2012)",
                     "engine": "4.8 V8 (367 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "367/6300",
                     "powerHp": "367",
                     "powerRpm": "6300",
@@ -245,6 +264,7 @@
                     "yearstart": "2012",
                     "yearstop": "2018",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4010",
@@ -252,6 +272,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1220",
                     "curbWeightMin": "1220"
                   }
@@ -274,13 +295,15 @@
                     "generation": "Plus 8",
                     "engine": "3.5 (157 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "157",
                     "powerHp": "157",
                     "yearstart": "1968",
                     "yearstop": "1986",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16045",
@@ -290,6 +313,7 @@
                     "generation": "Plus 8",
                     "engine": "3.5 EFI (193 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "193/5280",
                     "powerHp": "193",
                     "powerRpm": "5280",
@@ -297,6 +321,7 @@
                     "yearstart": "1984",
                     "yearstop": "1990",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3960",
@@ -304,6 +329,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "940",
                     "curbWeightMin": "940"
                   },
@@ -315,6 +341,7 @@
                     "generation": "Plus 8",
                     "engine": "3.9 (190 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/4750",
                     "powerHp": "190",
                     "powerRpm": "4750",
@@ -322,6 +349,7 @@
                     "yearstart": "1990",
                     "yearstop": "2004",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3960",
@@ -329,6 +357,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "940",
                     "curbWeightMin": "940"
                   },
@@ -340,13 +369,15 @@
                     "generation": "Plus 8",
                     "engine": "4.6 (223 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "223",
                     "powerHp": "223",
                     "yearstart": "1996",
                     "yearstop": "2004",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -376,6 +407,7 @@
                     "generation": "Plus 4 (2005)",
                     "engine": "2.0 (154 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "154/6000",
                     "powerHp": "154",
                     "powerRpm": "6000",
@@ -383,6 +415,7 @@
                     "yearstart": "2005",
                     "yearstop": "2020",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4010",
@@ -390,6 +423,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "927",
                     "curbWeightMin": "927"
                   }
@@ -412,13 +446,15 @@
                     "generation": "Plus 4",
                     "engine": "1.8 i (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130",
                     "powerHp": "130",
                     "yearstart": "1993",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16049",
@@ -428,13 +464,15 @@
                     "generation": "Plus 4",
                     "engine": "2.0 i (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122",
                     "powerHp": "122",
                     "yearstart": "1985",
                     "yearstop": "1988",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16050",
@@ -444,13 +482,15 @@
                     "generation": "Plus 4",
                     "engine": "2.0 i (135 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135",
                     "powerHp": "135",
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16051",
@@ -460,6 +500,7 @@
                     "generation": "Plus 4",
                     "engine": "2.0 i (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/6000",
                     "powerHp": "140",
                     "powerRpm": "6000",
@@ -467,6 +508,7 @@
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3890",
@@ -474,7 +516,7 @@
                     "height": "1270",
                     "heightMin": "1270",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -504,6 +546,7 @@
                     "generation": "Roadster",
                     "engine": "3.7 V6 (280 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "280/6000",
                     "powerHp": "280",
                     "powerRpm": "6000",
@@ -511,6 +554,7 @@
                     "yearstart": "2004",
                     "yearstop": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4010",
@@ -518,6 +562,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "950",
                     "curbWeightMin": "950"
                   }
@@ -549,6 +594,7 @@
                     "generation": "3 Wheeler",
                     "engine": "2.0 V2 (82 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "82/5250",
                     "powerHp": "82",
                     "powerRpm": "5250",
@@ -556,6 +602,7 @@
                     "yearstart": "2012",
                     "yearstop": "2021",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3225",
@@ -563,6 +610,7 @@
                     "height": "1000",
                     "heightMin": "1000",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "525",
                     "curbWeightMin": "525"
                   }
@@ -594,10 +642,12 @@
                     "generation": "Plus Four",
                     "engine": "2.0 TwinPower Turbo (258 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "258",
                     "powerHp": "258",
                     "yearstart": "2020",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3830",
@@ -605,6 +655,7 @@
                     "height": "1250",
                     "heightMin": "1250",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1013",
                     "curbWeightMin": "1013"
                   },
@@ -616,10 +667,12 @@
                     "generation": "Plus Four",
                     "engine": "2.0 TwinPower Turbo (258 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "258",
                     "powerHp": "258",
                     "yearstart": "2020",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3830",
@@ -627,6 +680,7 @@
                     "height": "1250",
                     "heightMin": "1250",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1009",
                     "curbWeightMin": "1009"
                   }
@@ -658,10 +712,12 @@
                     "generation": "Plus Six",
                     "engine": "3.0 TwinPower Turbo (340 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340",
                     "powerHp": "340",
                     "yearstart": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3890",
@@ -669,6 +725,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1075",
                     "curbWeightMin": "1075"
                   }
@@ -700,12 +757,14 @@
                     "generation": "Super 3",
                     "engine": "Ford Dragon 1.5 (118 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "118/6500",
                     "powerHp": "118",
                     "powerRpm": "6500",
                     "powerRpmLow": "6500",
                     "yearstart": "2022",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3581",
@@ -713,6 +772,7 @@
                     "height": "1132",
                     "heightMin": "1132",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "635",
                     "curbWeightMin": "635"
                   }

@@ -26,14 +26,17 @@
                     "generation": "Freeclimber 2",
                     "engine": "1.6 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/",
                     "powerHp": "100",
                     "yearstart": "1992",
                     "yearstop": "1996",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "4",
                     "placesMin": "4",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   }
@@ -56,15 +59,17 @@
                     "generation": "Freeclimber",
                     "engine": "2.0 (129 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "129/",
                     "powerHp": "129",
                     "yearstart": "1990",
                     "yearstop": "1993",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "4",
                     "placesMin": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "7291",
@@ -74,13 +79,15 @@
                     "generation": "Freeclimber",
                     "engine": "2.0 CAT (129 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "129",
                     "powerHp": "129",
                     "yearstart": "1990",
                     "yearstop": "1993",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "7292",
@@ -90,13 +97,15 @@
                     "generation": "Freeclimber",
                     "engine": "2.4 TD (115 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115",
                     "powerHp": "115",
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "7293",
@@ -106,14 +115,17 @@
                     "generation": "Freeclimber",
                     "engine": "2.7 (129 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "129/",
                     "powerHp": "129",
                     "yearstart": "1990",
                     "yearstop": "1993",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1580",
                     "curbWeightMin": "1580"
                   }
@@ -145,12 +157,14 @@
                     "generation": "GB110",
                     "engine": "5.2 V10 (1124 Hp) AWD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "1124/8170",
                     "powerHp": "1124",
                     "powerRpm": "8170",
                     "powerRpmLow": "8170",
                     "yearstart": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4535",
@@ -159,6 +173,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Synthetic gasoline",
+                    "fuelId": "15",
                     "curbWeight": "1423",
                     "curbWeightMin": "1423"
                   }
@@ -190,10 +205,12 @@
                     "generation": "Runabout",
                     "engine": "3.5 V6 (475 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "475",
                     "powerHp": "475",
                     "yearstart": "2026",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3990",
@@ -201,6 +218,7 @@
                     "height": "1116",
                     "heightMin": "1116",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1057",
                     "curbWeightMin": "1057"
                   }

@@ -26,10 +26,12 @@
                     "generation": "F.F SUPERQUAD",
                     "engine": "5.2 V10 (850 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "850",
                     "powerHp": "850",
                     "yearstart": "2018",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "1",
                     "placesMin": "1",
                     "length": "4670",
@@ -37,6 +39,7 @@
                     "height": "950",
                     "heightMin": "950",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "850",
                     "curbWeightMin": "850"
                   }

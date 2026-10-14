@@ -26,6 +26,7 @@
                     "generation": "RS2000",
                     "engine": "1.8 VVTL-i (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270/7800",
                     "powerHp": "270",
                     "powerRpm": "7800",
@@ -33,6 +34,7 @@
                     "yearstart": "2009",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3910",
@@ -40,6 +42,7 @@
                     "height": "1151",
                     "heightMin": "1151",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "950",
                     "curbWeightMin": "950"
                   }

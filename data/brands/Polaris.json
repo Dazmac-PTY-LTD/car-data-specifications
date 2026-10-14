@@ -26,6 +26,7 @@
                     "generation": "Slingshot",
                     "engine": "2.4 (173 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "173/6200",
                     "powerHp": "173",
                     "powerRpm": "6200",
@@ -33,6 +34,7 @@
                     "yearstart": "2014",
                     "yearstop": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3800",
@@ -42,6 +44,7 @@
                     "rideHeight": "127",
                     "rideHeightMin": "127",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "793",
                     "curbWeightMin": "793"
                   }

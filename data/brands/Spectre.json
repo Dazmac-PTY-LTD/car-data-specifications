@@ -26,6 +26,7 @@
                     "generation": "R42",
                     "engine": "4.6 i V8 32V (355 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "355/5950",
                     "powerHp": "355",
                     "powerRpm": "5950",
@@ -33,6 +34,7 @@
                     "yearstart": "1995",
                     "yearstop": "1998",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4190",
@@ -40,6 +42,7 @@
                     "height": "1090",
                     "heightMin": "1090",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1250",
                     "curbWeightMin": "1250"
                   }

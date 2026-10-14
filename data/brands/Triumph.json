@@ -26,13 +26,15 @@
                     "generation": "1500",
                     "engine": "1.5 (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62",
                     "powerHp": "62",
                     "yearstart": "1970",
                     "yearstop": "1974",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5724",
@@ -42,13 +44,15 @@
                     "generation": "1500",
                     "engine": "1.5 (66 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "66",
                     "powerHp": "66",
                     "yearstart": "1972",
                     "yearstop": "1974",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5725",
@@ -58,13 +62,15 @@
                     "generation": "1500",
                     "engine": "1.5 TC (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72",
                     "powerHp": "72",
                     "yearstart": "1975",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -94,6 +100,7 @@
                     "generation": "2500",
                     "engine": "S (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/4700",
                     "powerHp": "106",
                     "powerRpm": "4700",
@@ -101,6 +108,7 @@
                     "yearstart": "1975",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4655",
@@ -108,6 +116,7 @@
                     "height": "1435",
                     "heightMin": "1435",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1223",
                     "curbWeightMin": "1223"
                   },
@@ -119,13 +128,15 @@
                     "generation": "2500",
                     "engine": "TC (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100",
                     "powerHp": "100",
                     "yearstart": "1974",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -146,13 +157,15 @@
                     "generation": "2500 Estate",
                     "engine": "S (108 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "108",
                     "powerHp": "108",
                     "yearstart": "1975",
                     "yearstop": "1977",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5729",
@@ -162,13 +175,15 @@
                     "generation": "2500 Estate",
                     "engine": "TC (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100",
                     "powerHp": "100",
                     "yearstart": "1974",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -198,6 +213,7 @@
                     "generation": "Spitfire",
                     "engine": "1.2 MK I (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63/5750",
                     "powerHp": "63",
                     "powerRpm": "5750",
@@ -205,6 +221,7 @@
                     "yearstart": "1962",
                     "yearstop": "1965",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3685",
@@ -214,6 +231,7 @@
                     "rideHeight": "125",
                     "rideHeightMin": "125",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "710",
                     "curbWeightMin": "710"
                   },
@@ -225,13 +243,15 @@
                     "generation": "Spitfire",
                     "engine": "1.2 MK II (67 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "67",
                     "powerHp": "67",
                     "yearstart": "1965",
                     "yearstop": "1967",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5732",
@@ -241,6 +261,7 @@
                     "generation": "Spitfire",
                     "engine": "1.3 MK III (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/6000",
                     "powerHp": "75",
                     "powerRpm": "6000",
@@ -248,6 +269,7 @@
                     "yearstart": "1967",
                     "yearstop": "1970",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3734",
@@ -255,6 +277,7 @@
                     "height": "1207",
                     "heightMin": "1207",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "748",
                     "curbWeightMin": "748"
                   },
@@ -266,13 +289,15 @@
                     "generation": "Spitfire",
                     "engine": "1.3 MK IV (76 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "76",
                     "powerHp": "76",
                     "yearstart": "1971",
                     "yearstop": "1972",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5734",
@@ -282,13 +307,15 @@
                     "generation": "Spitfire",
                     "engine": "1.5 MK IV (69 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "69",
                     "powerHp": "69",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5735",
@@ -298,15 +325,17 @@
                     "generation": "Spitfire",
                     "engine": "1500 (69 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "69/",
                     "powerHp": "69",
                     "yearstart": "1975",
                     "yearstop": "1980",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -336,6 +365,7 @@
                     "generation": "Toledo",
                     "engine": "1300 (58 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "58/5500",
                     "powerHp": "58",
                     "powerRpm": "5500",
@@ -343,6 +373,7 @@
                     "yearstart": "1970",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3965",
@@ -350,7 +381,7 @@
                     "height": "1372",
                     "heightMin": "1372",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5737",
@@ -360,13 +391,15 @@
                     "generation": "Toledo",
                     "engine": "1500 (62 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "62",
                     "powerHp": "62",
                     "yearstart": "1970",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5738",
@@ -376,13 +409,15 @@
                     "generation": "Toledo",
                     "engine": "1500 (66 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "66",
                     "powerHp": "66",
                     "yearstart": "1972",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5739",
@@ -392,13 +427,15 @@
                     "generation": "Toledo",
                     "engine": "1500 TC (69 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "69",
                     "powerHp": "69",
                     "yearstart": "1971",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -428,13 +465,15 @@
                     "generation": "TR 7 Cabriolet",
                     "engine": "2.0 (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106",
                     "powerHp": "106",
                     "yearstart": "1977",
                     "yearstop": "1981",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -455,6 +494,7 @@
                     "generation": "TR 7 Coupe",
                     "engine": "2.0 (105 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "105/5500",
                     "powerHp": "105",
                     "powerRpm": "5500",
@@ -462,6 +502,7 @@
                     "yearstart": "1977",
                     "yearstop": "1981",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4065",
@@ -469,6 +510,7 @@
                     "height": "1254",
                     "heightMin": "1254",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   }
@@ -500,13 +542,15 @@
                     "generation": "2.5 PI MK I",
                     "engine": "2.5 (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122",
                     "powerHp": "122",
                     "yearstart": "1969",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5743",
@@ -516,13 +560,15 @@
                     "generation": "2.5 PI MK I",
                     "engine": "2.5 (134 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "134",
                     "powerHp": "134",
                     "yearstart": "1969",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -543,13 +589,15 @@
                     "generation": "2.5 PI MK I Estate",
                     "engine": "2.5 (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122",
                     "powerHp": "122",
                     "yearstart": "1969",
                     "yearstop": "1974",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5745",
@@ -559,13 +607,15 @@
                     "generation": "2.5 PI MK I Estate",
                     "engine": "2.5 (134 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "134",
                     "powerHp": "134",
                     "yearstart": "1969",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -595,6 +645,7 @@
                     "generation": "Acclaim",
                     "engine": "1.3 (XD) (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5500",
                     "powerHp": "70",
                     "powerRpm": "5500",
@@ -602,6 +653,7 @@
                     "yearstart": "1981",
                     "yearstop": "1984",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4094",
@@ -609,7 +661,7 @@
                     "height": "1339",
                     "heightMin": "1339",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -639,13 +691,15 @@
                     "generation": "Stag",
                     "engine": "3.0 (145 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "145",
                     "powerHp": "145",
                     "yearstart": "1970",
                     "yearstop": "1977",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -675,13 +729,15 @@
                     "generation": "TR 6",
                     "engine": "2.5 (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122",
                     "powerHp": "122",
                     "yearstart": "1972",
                     "yearstop": "1976",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5749",
@@ -691,6 +747,7 @@
                     "generation": "TR 6",
                     "engine": "2.5 PI (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500",
                     "powerHp": "150",
                     "powerRpm": "5500",
@@ -698,6 +755,7 @@
                     "yearstart": "1968",
                     "yearstop": "1976",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3937",
@@ -707,7 +765,7 @@
                     "rideHeight": "152",
                     "rideHeightMin": "152",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -737,6 +795,7 @@
                     "generation": "TR 8",
                     "engine": "3.5 (133 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "133/5000",
                     "powerHp": "133",
                     "powerRpm": "5000",
@@ -744,6 +803,7 @@
                     "yearstart": "1978",
                     "yearstop": "1981",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4201",
@@ -753,6 +813,7 @@
                     "rideHeight": "91",
                     "rideHeightMin": "91",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1214",
                     "curbWeightMin": "1214"
                   }
@@ -784,13 +845,15 @@
                     "generation": "2000 MkII",
                     "engine": "2.0 (88 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88",
                     "powerHp": "88",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5752",
@@ -800,13 +863,15 @@
                     "generation": "2000 MkII",
                     "engine": "2.0 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90",
                     "powerHp": "90",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5753",
@@ -816,13 +881,15 @@
                     "generation": "2000 MkII",
                     "engine": "2.0 TC (93 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "93",
                     "powerHp": "93",
                     "yearstart": "1975",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -843,13 +910,15 @@
                     "generation": "2000 MkII Estate",
                     "engine": "2.0 (91 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "91",
                     "powerHp": "91",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5755",
@@ -859,13 +928,15 @@
                     "generation": "2000 MkII Estate",
                     "engine": "2.0 TC (92 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "92",
                     "powerHp": "92",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -895,6 +966,7 @@
                     "generation": "Dolomite",
                     "engine": "1300 (59 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "59/5500",
                     "powerHp": "59",
                     "powerRpm": "5500",
@@ -902,6 +974,7 @@
                     "yearstart": "1977",
                     "yearstop": "1981",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4122",
@@ -909,6 +982,7 @@
                     "height": "1372",
                     "heightMin": "1372",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "943",
                     "curbWeightMin": "943"
                   },
@@ -920,6 +994,7 @@
                     "generation": "Dolomite",
                     "engine": "1500 HL (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/5500",
                     "powerHp": "72",
                     "powerRpm": "5500",
@@ -927,6 +1002,7 @@
                     "yearstart": "1977",
                     "yearstop": "1981",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4122",
@@ -934,6 +1010,7 @@
                     "height": "1372",
                     "heightMin": "1372",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "956",
                     "curbWeightMin": "956"
                   },
@@ -945,6 +1022,7 @@
                     "generation": "Dolomite",
                     "engine": "1850 (91 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "91/5200",
                     "powerHp": "91",
                     "powerRpm": "5200",
@@ -952,6 +1030,7 @@
                     "yearstart": "1972",
                     "yearstop": "1977",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4115",
@@ -961,6 +1040,7 @@
                     "rideHeight": "108",
                     "rideHeightMin": "108",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "967",
                     "curbWeightMin": "967"
                   },
@@ -972,13 +1052,15 @@
                     "generation": "Dolomite",
                     "engine": "1850 HL (92 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "92",
                     "powerHp": "92",
                     "yearstart": "1977",
                     "yearstop": "1981",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5760",
@@ -988,6 +1070,7 @@
                     "generation": "Dolomite",
                     "engine": "Sprint (129 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "129/5700",
                     "powerHp": "129",
                     "powerRpm": "5700",
@@ -995,6 +1078,7 @@
                     "yearstart": "1973",
                     "yearstop": "1981",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4115",
@@ -1002,6 +1086,7 @@
                     "height": "1500",
                     "heightMin": "1500",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "970",
                     "curbWeightMin": "970"
                   }

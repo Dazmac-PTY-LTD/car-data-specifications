@@ -26,6 +26,7 @@
                     "generation": "Monte Carlo",
                     "engine": "4.0 i V12 (720 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/7000",
                     "powerHp": "720",
                     "powerRpm": "7000",
@@ -33,6 +34,7 @@
                     "yearstart": "1992",
                     "yearstop": "1995",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4025",
@@ -40,6 +42,7 @@
                     "height": "1130",
                     "heightMin": "1130",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1050",
                     "curbWeightMin": "1050"
                   }

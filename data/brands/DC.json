@@ -26,6 +26,7 @@
                     "generation": "Avanti",
                     "engine": "2.0 (250 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "250/5500",
                     "powerHp": "250",
                     "powerRpm": "5500",
@@ -33,6 +34,7 @@
                     "yearstart": "2012",
                     "yearstop": "2015",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4565",
@@ -42,6 +44,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1580",
                     "curbWeightMin": "1580"
                   }

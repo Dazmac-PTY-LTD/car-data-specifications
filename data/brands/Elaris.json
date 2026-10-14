@@ -26,8 +26,10 @@
                     "generation": "Beo",
                     "engine": "86 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4698",
@@ -37,7 +39,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "50301",
@@ -47,8 +49,10 @@
                     "generation": "Beo",
                     "engine": "72 kWh (204 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4698",
@@ -58,6 +62,7 @@
                     "rideHeight": "159",
                     "rideHeightMin": "159",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1955",
                     "curbWeightMin": "1955"
                   }
@@ -89,8 +94,10 @@
                     "generation": "Jaco",
                     "engine": "71 kWh (218 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4965",
@@ -98,6 +105,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1615",
                     "curbWeightMin": "1615"
                   }
@@ -129,8 +137,10 @@
                     "generation": "Dyo",
                     "engine": "30 kWh (48 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2871",
@@ -140,6 +150,7 @@
                     "rideHeight": "127",
                     "rideHeightMin": "127",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "890",
                     "curbWeightMin": "890"
                   }
@@ -171,9 +182,11 @@
                     "generation": "Finn",
                     "engine": "31.5 kWh (48 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2871",
@@ -183,6 +196,7 @@
                     "rideHeight": "127",
                     "rideHeightMin": "127",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "855",
                     "curbWeightMin": "855"
                   }
@@ -214,9 +228,11 @@
                     "generation": "Pio",
                     "engine": "27 kWh (49 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2811",
@@ -224,6 +240,7 @@
                     "height": "1555",
                     "heightMin": "1555",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "865",
                     "curbWeightMin": "865"
                   }
@@ -255,8 +272,10 @@
                     "generation": "Leo II",
                     "engine": "64.6 kWh (184 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4602",
@@ -264,6 +283,7 @@
                     "height": "1645",
                     "heightMin": "1645",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1675",
                     "curbWeightMin": "1675"
                   }

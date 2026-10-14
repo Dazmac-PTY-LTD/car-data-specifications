@@ -26,8 +26,10 @@
                     "generation": "Alumi",
                     "engine": "7.2 kWh (16 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2685",
@@ -37,6 +39,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "585",
                     "curbWeightMin": "585"
                   },
@@ -48,8 +51,10 @@
                     "generation": "Alumi",
                     "engine": "Elite 12.96 kWh (31 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2685",
@@ -59,6 +64,7 @@
                     "rideHeight": "130",
                     "rideHeightMin": "130",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "645",
                     "curbWeightMin": "645"
                   }

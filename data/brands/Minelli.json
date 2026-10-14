@@ -26,6 +26,7 @@
                     "generation": "TF 1800",
                     "engine": "1.8 i 16V (115 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115/5750",
                     "powerHp": "115",
                     "powerRpm": "5750",
@@ -33,6 +34,7 @@
                     "yearstart": "1998",
                     "yearstop": "2001",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3815",
@@ -40,6 +42,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   }

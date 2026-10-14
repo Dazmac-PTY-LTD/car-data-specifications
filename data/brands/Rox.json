@@ -26,10 +26,12 @@
                     "generation": "01",
                     "engine": "1.5T 56.01 kWh (476 Hp) Range Extender 4WD",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "156",
                     "powerHp": "156",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -40,6 +42,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2735",
                     "curbWeightMin": "2735"
                   }

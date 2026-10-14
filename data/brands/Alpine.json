@@ -26,13 +26,15 @@
                     "generation": "1300",
                     "engine": "1.3 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81",
                     "powerHp": "81",
                     "yearstart": "1970",
                     "yearstop": "1973",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2612",
@@ -42,13 +44,15 @@
                     "generation": "1300",
                     "engine": "1.3 (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73",
                     "powerHp": "73",
                     "yearstart": "1974",
                     "yearstop": "1975",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2613",
@@ -58,13 +62,15 @@
                     "generation": "1300",
                     "engine": "1.3 G (103 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103",
                     "powerHp": "103",
                     "yearstart": "1970",
                     "yearstop": "1972",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2614",
@@ -74,13 +80,15 @@
                     "generation": "1300",
                     "engine": "1.3 S (132 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "132",
                     "powerHp": "132",
                     "yearstart": "1970",
                     "yearstop": "1972",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -110,12 +118,15 @@
                     "generation": "A110 E-ternite (Prototype)",
                     "engine": "60 kWh (242 Hp) DCT",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2022",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1378",
                     "curbWeightMin": "1378"
                   }
@@ -138,6 +149,7 @@
                     "generation": "A110 (2017)",
                     "engine": "1.8 (252 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "252/6000",
                     "powerHp": "252",
                     "powerRpm": "6000",
@@ -145,6 +157,7 @@
                     "yearstart": "2017",
                     "yearstop": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4180",
@@ -152,6 +165,7 @@
                     "height": "1252",
                     "heightMin": "1252",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1103",
                     "curbWeightMin": "1103"
                   },
@@ -163,6 +177,7 @@
                     "generation": "A110 (2017)",
                     "engine": "S 1.8 (292 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "292/6400",
                     "powerHp": "292",
                     "powerRpm": "6400",
@@ -170,6 +185,7 @@
                     "yearstart": "2019",
                     "yearstop": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4180",
@@ -177,6 +193,7 @@
                     "height": "1248",
                     "heightMin": "1248",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1114",
                     "curbWeightMin": "1114"
                   },
@@ -188,6 +205,7 @@
                     "generation": "A110 (2017)",
                     "engine": "Legende GT 1.8 (252 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "252/6000",
                     "powerHp": "252",
                     "powerRpm": "6000",
@@ -195,6 +213,7 @@
                     "yearstart": "2020",
                     "yearstop": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4180",
@@ -203,6 +222,7 @@
                     "height": "1252",
                     "heightMin": "1252",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1123",
                     "curbWeightMin": "1123"
                   },
@@ -214,12 +234,14 @@
                     "generation": "A110 (2017)",
                     "engine": "1.8 (252 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "252/6000",
                     "powerHp": "252",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4181",
@@ -228,6 +250,7 @@
                     "height": "1252",
                     "heightMin": "1252",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1102-1140",
                     "curbWeightMin": "1102",
                     "curbWeightMax": "1140"
@@ -240,6 +263,7 @@
                     "generation": "A110 (2017)",
                     "engine": "GT 1.8 (300 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
@@ -247,6 +271,7 @@
                     "yearstart": "2021",
                     "yearstop": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4181",
@@ -255,6 +280,7 @@
                     "height": "1252",
                     "heightMin": "1252",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1119-1140",
                     "curbWeightMin": "1119",
                     "curbWeightMax": "1140"
@@ -267,6 +293,7 @@
                     "generation": "A110 (2017)",
                     "engine": "S 1.8 (300 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
@@ -274,6 +301,7 @@
                     "yearstart": "2021",
                     "yearstop": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4181",
@@ -282,6 +310,7 @@
                     "height": "1252",
                     "heightMin": "1252",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1109-1140",
                     "curbWeightMin": "1109",
                     "curbWeightMax": "1140"
@@ -294,6 +323,7 @@
                     "generation": "A110 (2017)",
                     "engine": "R 1.8 (300 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
@@ -301,6 +331,7 @@
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4256",
@@ -311,6 +342,7 @@
                     "rideHeight": "106",
                     "rideHeightMin": "106",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1082",
                     "curbWeightMin": "1082"
                   },
@@ -322,12 +354,14 @@
                     "generation": "A110 (2017)",
                     "engine": "GTS 1.8 (300 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
                     "powerRpmLow": "6300",
                     "yearstart": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4181",
@@ -338,6 +372,7 @@
                     "rideHeight": "116",
                     "rideHeightMin": "116",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1108-1145",
                     "curbWeightMin": "1108",
                     "curbWeightMax": "1145"
@@ -350,12 +385,14 @@
                     "generation": "A110 (2017)",
                     "engine": "GTS Aero Kit 1.8 (300 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/6300",
                     "powerHp": "300",
                     "powerRpm": "6300",
                     "powerRpmLow": "6300",
                     "yearstart": "2025",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4256",
@@ -366,6 +403,7 @@
                     "rideHeight": "116",
                     "rideHeightMin": "116",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1108-1145",
                     "curbWeightMin": "1108",
                     "curbWeightMax": "1145"
@@ -389,13 +427,15 @@
                     "generation": "A110 Berlinette",
                     "engine": "1100 (L) (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "1968",
                     "yearstop": "1970",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2616",
@@ -405,13 +445,15 @@
                     "generation": "A110 Berlinette",
                     "engine": "1300 (L) (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110",
                     "powerHp": "110",
                     "yearstart": "1968",
                     "yearstop": "1970",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2617",
@@ -421,13 +463,15 @@
                     "generation": "A110 Berlinette",
                     "engine": "1500 (L) (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70",
                     "powerHp": "70",
                     "yearstart": "1966",
                     "yearstop": "1970",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2618",
@@ -437,13 +481,15 @@
                     "generation": "A110 Berlinette",
                     "engine": "1500 (L) (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90",
                     "powerHp": "90",
                     "yearstart": "1966",
                     "yearstop": "1970",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -473,6 +519,7 @@
                     "generation": "A610",
                     "engine": "3.0 i V6 Turbo (250 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "250/5750",
                     "powerHp": "250",
                     "powerRpm": "5750",
@@ -480,6 +527,7 @@
                     "yearstart": "1991",
                     "yearstop": "1995",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4410",
@@ -487,6 +535,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -518,13 +567,15 @@
                     "generation": "Berlinette",
                     "engine": "1300 (68 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "68",
                     "powerHp": "68",
                     "yearstart": "1976",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2621",
@@ -534,13 +585,15 @@
                     "generation": "Berlinette",
                     "engine": "1600 SX (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "1976",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -570,13 +623,15 @@
                     "generation": "GTA",
                     "engine": "2.5 TURBO V6 (185 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "185",
                     "powerHp": "185",
                     "yearstart": "1985",
                     "yearstop": "1990",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2623",
@@ -586,13 +641,15 @@
                     "generation": "GTA",
                     "engine": "2.5 TURBO V6 (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200",
                     "powerHp": "200",
                     "yearstart": "1988",
                     "yearstop": "1990",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2624",
@@ -602,13 +659,15 @@
                     "generation": "GTA",
                     "engine": "2.9 GT V6 (160 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160",
                     "powerHp": "160",
                     "yearstart": "1985",
                     "yearstop": "1990",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -638,13 +697,15 @@
                     "generation": "1600",
                     "engine": "1.6 (102 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "102",
                     "powerHp": "102",
                     "yearstart": "1970",
                     "yearstop": "1971",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2626",
@@ -654,13 +715,15 @@
                     "generation": "1600",
                     "engine": "1.6 S (138 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "138",
                     "powerHp": "138",
                     "yearstart": "1969",
                     "yearstop": "1973",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2627",
@@ -670,13 +733,15 @@
                     "generation": "1600",
                     "engine": "1.6 SC-SI (127 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "127",
                     "powerHp": "127",
                     "yearstart": "1973",
                     "yearstop": "1975",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2628",
@@ -686,13 +751,15 @@
                     "generation": "1600",
                     "engine": "1.6 SC-SI (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140",
                     "powerHp": "140",
                     "yearstart": "1973",
                     "yearstop": "1975",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -722,13 +789,15 @@
                     "generation": "A310",
                     "engine": "1.6 (127 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "127",
                     "powerHp": "127",
                     "yearstart": "1971",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2630",
@@ -738,13 +807,15 @@
                     "generation": "A310",
                     "engine": "1.6 Injection (127 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "127",
                     "powerHp": "127",
                     "yearstart": "1976",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2631",
@@ -754,13 +825,15 @@
                     "generation": "A310",
                     "engine": "1.7 (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "1971",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "2632",
@@ -770,6 +843,7 @@
                     "generation": "A310",
                     "engine": "2.7 V6 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/6000",
                     "powerHp": "150",
                     "powerRpm": "6000",
@@ -777,9 +851,11 @@
                     "yearstart": "1976",
                     "yearstop": "1984",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1040",
                     "curbWeightMin": "1040"
                   }
@@ -811,8 +887,10 @@
                     "generation": "A290",
                     "engine": "GT 52 kWh (177 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -821,6 +899,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1479",
                     "curbWeightMin": "1479"
                   },
@@ -832,8 +911,10 @@
                     "generation": "A290",
                     "engine": "GTS 52 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -842,6 +923,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1479",
                     "curbWeightMin": "1479"
                   }
@@ -873,8 +955,10 @@
                     "generation": "A390",
                     "engine": "GT 89 kWh (401 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle), Fastback",
+                    "coupeId": "9,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4615",
@@ -884,7 +968,7 @@
                     "rideHeight": "152",
                     "rideHeightMin": "152",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "54414",
@@ -894,8 +978,10 @@
                     "generation": "A390",
                     "engine": "GTS 89 kWh (469 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle), Fastback",
+                    "coupeId": "9,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4615",
@@ -905,7 +991,7 @@
                     "rideHeight": "152",
                     "rideHeightMin": "152",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

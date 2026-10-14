@@ -26,6 +26,7 @@
                     "generation": "T613-4mi",
                     "engine": "3.5 i V8 16V (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5750",
                     "powerHp": "200",
                     "powerRpm": "5750",
@@ -33,6 +34,7 @@
                     "yearstart": "1991",
                     "yearstop": "1996",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5130",
@@ -40,6 +42,7 @@
                     "height": "1505",
                     "heightMin": "1505",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1810",
                     "curbWeightMin": "1810"
                   }
@@ -62,6 +65,7 @@
                     "generation": "T613",
                     "engine": "3.5 V8 16V (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5200",
                     "powerHp": "170",
                     "powerRpm": "5200",
@@ -69,6 +73,7 @@
                     "yearstart": "1973",
                     "yearstop": "1980",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5530",
@@ -76,6 +81,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2280",
                     "curbWeightMin": "2280"
                   }
@@ -107,6 +113,7 @@
                     "generation": "T700",
                     "engine": "3.5 i V8 16V (168 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "168/5200",
                     "powerHp": "168",
                     "powerRpm": "5200",
@@ -114,6 +121,7 @@
                     "yearstart": "1996",
                     "yearstop": "1999",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5135",
@@ -121,6 +129,7 @@
                     "height": "1500",
                     "heightMin": "1500",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1810",
                     "curbWeightMin": "1810"
                   },
@@ -132,6 +141,7 @@
                     "generation": "T700",
                     "engine": "3.5 i V8 16V (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/5750",
                     "powerHp": "200",
                     "powerRpm": "5750",
@@ -139,6 +149,7 @@
                     "yearstart": "1996",
                     "yearstop": "1999",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5135",
@@ -146,6 +157,7 @@
                     "height": "1440",
                     "heightMin": "1440",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1840",
                     "curbWeightMin": "1840"
                   }

@@ -26,8 +26,10 @@
                     "generation": "K50",
                     "engine": "78.84 kWh (430 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4634",
@@ -37,6 +39,7 @@
                     "rideHeight": "103",
                     "rideHeightMin": "103",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1960",
                     "curbWeightMin": "1960"
                   }

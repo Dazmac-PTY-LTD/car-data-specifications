@@ -26,12 +26,14 @@
                     "generation": "H2s",
                     "engine": "1.5 T (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2016",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4195",
@@ -39,7 +41,7 @@
                     "height": "1638",
                     "heightMin": "1638",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37884",
@@ -49,12 +51,14 @@
                     "generation": "H2s",
                     "engine": "1.5 T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2016",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4195",
@@ -62,7 +66,7 @@
                     "height": "1638",
                     "heightMin": "1638",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -83,12 +87,14 @@
                     "generation": "H2",
                     "engine": "1.5 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4335",
@@ -98,6 +104,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   },
@@ -109,12 +116,14 @@
                     "generation": "H2",
                     "engine": "1.5 (150 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4335",
@@ -124,6 +133,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1650",
                     "curbWeightMin": "1650"
                   },
@@ -135,12 +145,14 @@
                     "generation": "H2",
                     "engine": "1.5 (150 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4335",
@@ -150,6 +162,7 @@
                     "rideHeight": "184",
                     "rideHeightMin": "184",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1570",
                     "curbWeightMin": "1570"
                   }
@@ -181,6 +194,7 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "1.5T (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184/5500-6000",
                     "powerHp": "184",
                     "powerRpm": "5500-6000",
@@ -188,6 +202,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -195,7 +210,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53769",
@@ -205,12 +220,14 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "2.0T (238 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "238/6000",
                     "powerHp": "238",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -218,7 +235,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53770",
@@ -228,12 +245,14 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "2.0T (238 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "238/6000",
                     "powerHp": "238",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -241,7 +260,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "55628",
@@ -251,6 +270,7 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "1.5T (243 Hp) Hybrid DHT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -258,6 +278,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -265,6 +286,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690-1720",
                     "curbWeightMin": "1690",
                     "curbWeightMax": "1720"
@@ -277,6 +299,7 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "1.5T (364 Hp) Hybrid AWD DHT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -284,6 +307,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -291,6 +315,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1830",
                     "curbWeightMin": "1830"
                   },
@@ -302,6 +327,7 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "1.5T (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -309,6 +335,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -316,6 +343,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1895",
                     "curbWeightMin": "1895"
                   },
@@ -327,6 +355,7 @@
                     "generation": "H6 III (facelift 2024)",
                     "engine": "Hi4 1.5T (364 Hp) Plug-in Hybrid AWD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -334,6 +363,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4703",
@@ -341,6 +371,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1980",
                     "curbWeightMin": "1980"
                   }
@@ -363,6 +394,7 @@
                     "generation": "H6 III",
                     "engine": "2.0 GDIT (204 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "204/6000-6300",
                     "powerHp": "204",
                     "powerRpm": "6000-6300",
@@ -371,6 +403,7 @@
                     "yearstart": "2020",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -380,7 +413,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45705",
@@ -390,6 +423,7 @@
                     "generation": "H6 III",
                     "engine": "2.0 GDIT (204 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "204/6000-6300",
                     "powerHp": "204",
                     "powerRpm": "6000-6300",
@@ -398,6 +432,7 @@
                     "yearstart": "2020",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -407,7 +442,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49081",
@@ -417,11 +452,13 @@
                     "generation": "H6 III",
                     "engine": "1.5T (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184",
                     "powerHp": "184",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -429,7 +466,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49082",
@@ -439,11 +476,13 @@
                     "generation": "H6 III",
                     "engine": "2.0T (211 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "211",
                     "powerHp": "211",
                     "yearstart": "2021",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -451,7 +490,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49083",
@@ -461,11 +500,13 @@
                     "generation": "H6 III",
                     "engine": "2.0T (211 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "211",
                     "powerHp": "211",
                     "yearstart": "2021",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -473,7 +514,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49084",
@@ -483,10 +524,12 @@
                     "generation": "H6 III",
                     "engine": "1.5T (243 Hp) HEV DHT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "154",
                     "powerHp": "154",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4653",
@@ -494,7 +537,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49085",
@@ -504,11 +547,13 @@
                     "generation": "H6 III",
                     "engine": "1.5T 9.4 kWh (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "154",
                     "powerHp": "154",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4683",
@@ -516,7 +561,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "49086",
@@ -526,11 +571,13 @@
                     "generation": "H6 III",
                     "engine": "1.5T 19.9 kWh (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "154",
                     "powerHp": "154",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4683",
@@ -538,7 +585,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -559,6 +606,7 @@
                     "generation": "H6 II",
                     "engine": "1.5 GDIT (163 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "163/5600",
                     "powerHp": "163",
                     "powerRpm": "5600",
@@ -566,6 +614,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4610",
@@ -575,7 +624,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "36465",
@@ -585,6 +634,7 @@
                     "generation": "H6 II",
                     "engine": "2.0 GDIT (190 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -592,6 +642,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4610",
@@ -601,7 +652,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37984",
@@ -611,6 +662,7 @@
                     "generation": "H6 II",
                     "engine": "1.5 GDIT (169 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -619,6 +671,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4600",
@@ -626,7 +679,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37985",
@@ -636,6 +689,7 @@
                     "generation": "H6 II",
                     "engine": "2.0 GDIT (224 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "224/5500",
                     "powerHp": "224",
                     "powerRpm": "5500",
@@ -643,6 +697,7 @@
                     "yearstart": "2019",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4600",
@@ -650,7 +705,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -671,6 +726,7 @@
                     "generation": "H6 I Coupe",
                     "engine": "2.0 (197 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -679,6 +735,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4549",
@@ -688,7 +745,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "32666",
@@ -698,6 +755,7 @@
                     "generation": "H6 I Coupe",
                     "engine": "2.0 (197 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -706,6 +764,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4549",
@@ -715,7 +774,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "32667",
@@ -725,6 +784,7 @@
                     "generation": "H6 I Coupe",
                     "engine": "2.0 (197 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -733,6 +793,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4549",
@@ -742,7 +803,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "32668",
@@ -752,6 +813,7 @@
                     "generation": "H6 I Coupe",
                     "engine": "2.0 (197 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -760,6 +822,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4549",
@@ -769,7 +832,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -790,6 +853,7 @@
                     "generation": "H6 I Sport",
                     "engine": "1.5 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -797,6 +861,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -806,6 +871,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1541",
                     "curbWeightMin": "1541"
                   },
@@ -817,6 +883,7 @@
                     "generation": "H6 I Sport",
                     "engine": "1.5 (150 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -824,6 +891,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -833,6 +901,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1610",
                     "curbWeightMin": "1610"
                   },
@@ -844,6 +913,7 @@
                     "generation": "H6 I Sport",
                     "engine": "1.5 (150 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -851,6 +921,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -860,6 +931,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1541",
                     "curbWeightMin": "1541"
                   }
@@ -891,12 +963,14 @@
                     "generation": "H9 II",
                     "engine": "2.0T (218 Hp) 4WD ZF",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "218/5500",
                     "powerHp": "218",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5-7",
                     "placesMin": "5",
                     "placesMax": "7",
@@ -907,7 +981,7 @@
                     "rideHeight": "224",
                     "rideHeightMin": "224",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53783",
@@ -917,12 +991,14 @@
                     "generation": "H9 II",
                     "engine": "2.4d (184 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184/3600",
                     "powerHp": "184",
                     "powerRpm": "3600",
                     "powerRpmLow": "3600",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5-7",
                     "placesMin": "5",
                     "placesMax": "7",
@@ -933,7 +1009,7 @@
                     "rideHeight": "224",
                     "rideHeightMin": "224",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -954,6 +1030,7 @@
                     "generation": "H9 I (facelift 2019)",
                     "engine": "2.0T (224 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "224/5500",
                     "powerHp": "224",
                     "powerRpm": "5500",
@@ -961,6 +1038,7 @@
                     "yearstart": "2019",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4856",
@@ -970,7 +1048,7 @@
                     "rideHeight": "206",
                     "rideHeightMin": "206",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -991,6 +1069,7 @@
                     "generation": "H9 I",
                     "engine": "2.0 (218 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "218/5500",
                     "powerHp": "218",
                     "powerRpm": "5500",
@@ -998,6 +1077,7 @@
                     "yearstart": "2015",
                     "yearstop": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4856",
@@ -1007,7 +1087,7 @@
                     "rideHeight": "206",
                     "rideHeightMin": "206",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1037,6 +1117,7 @@
                     "generation": "F7x II",
                     "engine": "2.0 GDIT (192 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "192/5600-6300",
                     "powerHp": "192",
                     "powerRpm": "5600-6300",
@@ -1044,6 +1125,7 @@
                     "powerRpmHigh": "6300",
                     "yearstart": "2024",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1053,6 +1135,7 @@
                     "rideHeight": "191",
                     "rideHeightMin": "191",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1795-1830",
                     "curbWeightMin": "1795",
                     "curbWeightMax": "1830"
@@ -1076,6 +1159,7 @@
                     "generation": "F7 II",
                     "engine": "1.5 GDIT (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -1083,6 +1167,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1093,6 +1178,7 @@
                     "rideHeightMin": "183",
                     "rideHeightMax": "191",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1655-1690",
                     "curbWeightMin": "1655",
                     "curbWeightMax": "1690"
@@ -1105,6 +1191,7 @@
                     "generation": "F7 II",
                     "engine": "2.0 GDIT (192 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "192/5600-6300",
                     "powerHp": "192",
                     "powerRpm": "5600-6300",
@@ -1112,6 +1199,7 @@
                     "powerRpmHigh": "6300",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1122,6 +1210,7 @@
                     "rideHeightMin": "183",
                     "rideHeightMax": "191",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1795-1830",
                     "curbWeightMin": "1795",
                     "curbWeightMax": "1830"
@@ -1145,6 +1234,7 @@
                     "generation": "F7x I (facelift 2022)",
                     "engine": "1.5 GDIT (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000-5600",
                     "powerHp": "150",
                     "powerRpm": "5000-5600",
@@ -1153,6 +1243,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1162,6 +1253,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1618",
                     "curbWeightMin": "1618"
                   },
@@ -1173,6 +1265,7 @@
                     "generation": "F7x I (facelift 2022)",
                     "engine": "1.5 GDIT (150 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000-5600",
                     "powerHp": "150",
                     "powerRpm": "5000-5600",
@@ -1181,6 +1274,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1190,6 +1284,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1720",
                     "curbWeightMin": "1720"
                   },
@@ -1201,6 +1296,7 @@
                     "generation": "F7x I (facelift 2022)",
                     "engine": "2.0 GDIT (190 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1208,6 +1304,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1217,6 +1314,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1640-1710",
                     "curbWeightMin": "1640",
                     "curbWeightMax": "1710"
@@ -1240,6 +1338,7 @@
                     "generation": "F7 I (facelift 2022)",
                     "engine": "1.5 GDIT (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000-5600",
                     "powerHp": "150",
                     "powerRpm": "5000-5600",
@@ -1248,6 +1347,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1257,6 +1357,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1618",
                     "curbWeightMin": "1618"
                   },
@@ -1268,6 +1369,7 @@
                     "generation": "F7 I (facelift 2022)",
                     "engine": "1.5 GDIT (150 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5000-5600",
                     "powerHp": "150",
                     "powerRpm": "5000-5600",
@@ -1276,6 +1378,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1285,6 +1388,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1720",
                     "curbWeightMin": "1720"
                   },
@@ -1296,6 +1400,7 @@
                     "generation": "F7 I (facelift 2022)",
                     "engine": "2.0 GDIT (190 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1303,6 +1408,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4691",
@@ -1312,6 +1418,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1650-1720",
                     "curbWeightMin": "1650",
                     "curbWeightMax": "1720"
@@ -1335,6 +1442,7 @@
                     "generation": "F7x I",
                     "engine": "2.0 GDIT (224 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "224/5200-5500",
                     "powerHp": "224",
                     "powerRpm": "5200-5500",
@@ -1343,6 +1451,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1352,7 +1461,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37881",
@@ -1362,6 +1471,7 @@
                     "generation": "F7x I",
                     "engine": "2.0 GDIT (224 Hp) AWD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "224/5200-5500",
                     "powerHp": "224",
                     "powerRpm": "5200-5500",
@@ -1370,6 +1480,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1379,7 +1490,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37898",
@@ -1389,6 +1500,7 @@
                     "generation": "F7x I",
                     "engine": "1.5 GDIT (169 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -1397,6 +1509,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1406,7 +1519,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "55026",
@@ -1416,6 +1529,7 @@
                     "generation": "F7x I",
                     "engine": "2.0 GDIT (190 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1423,6 +1537,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4615",
@@ -1432,6 +1547,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1688",
                     "curbWeightMin": "1688"
                   },
@@ -1443,6 +1559,7 @@
                     "generation": "F7x I",
                     "engine": "2.0 GDIT (190 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1450,6 +1567,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "Coupe, Crossover",
+                    "coupeId": "3,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4615",
@@ -1459,6 +1577,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1756",
                     "curbWeightMin": "1756"
                   }
@@ -1481,6 +1600,7 @@
                     "generation": "F7 I",
                     "engine": "2.0 GDIT (197 Hp) AWD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -1489,6 +1609,7 @@
                     "yearstart": "2018",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1499,7 +1620,7 @@
                     "rideHeightMin": "147",
                     "rideHeightMax": "169",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "34811",
@@ -1509,6 +1630,7 @@
                     "generation": "F7 I",
                     "engine": "1.5 GDIT (169 Hp) AWD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -1517,6 +1639,7 @@
                     "yearstart": "2018",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1527,7 +1650,7 @@
                     "rideHeightMin": "147",
                     "rideHeightMax": "169",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "55022",
@@ -1537,6 +1660,7 @@
                     "generation": "F7 I",
                     "engine": "1.5 GDIT (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500",
                     "powerHp": "150",
                     "powerRpm": "5500",
@@ -1544,6 +1668,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1553,6 +1678,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1605",
                     "curbWeightMin": "1605"
                   },
@@ -1564,6 +1690,7 @@
                     "generation": "F7 I",
                     "engine": "1.5 GDIT (150 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500",
                     "powerHp": "150",
                     "powerRpm": "5500",
@@ -1571,6 +1698,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1580,6 +1708,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1670",
                     "curbWeightMin": "1670"
                   },
@@ -1591,6 +1720,7 @@
                     "generation": "F7 I",
                     "engine": "2.0 GDIT (190 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1598,6 +1728,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1607,6 +1738,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1650",
                     "curbWeightMin": "1650"
                   },
@@ -1618,6 +1750,7 @@
                     "generation": "F7 I",
                     "engine": "2.0 GDIT (190 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/5500",
                     "powerHp": "190",
                     "powerRpm": "5500",
@@ -1625,6 +1758,7 @@
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -1634,6 +1768,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1720",
                     "curbWeightMin": "1720"
                   }
@@ -1665,6 +1800,7 @@
                     "generation": "F5",
                     "engine": "1.5 (169 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -1672,6 +1808,7 @@
                     "powerRpmHigh": "5600",
                     "yearstart": "2018",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4470",
@@ -1679,7 +1816,7 @@
                     "height": "1638",
                     "heightMin": "1638",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1709,6 +1846,7 @@
                     "generation": "M6 Plus II",
                     "engine": "1.5T (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600-6000",
                     "powerHp": "150",
                     "powerRpm": "5600-6000",
@@ -1716,6 +1854,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4664",
@@ -1723,7 +1862,7 @@
                     "height": "1729",
                     "heightMin": "1729",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53811",
@@ -1733,6 +1872,7 @@
                     "generation": "M6 Plus II",
                     "engine": "1.5T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600-6000",
                     "powerHp": "150",
                     "powerRpm": "5600-6000",
@@ -1740,6 +1880,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4664",
@@ -1747,7 +1888,7 @@
                     "height": "1729",
                     "heightMin": "1729",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53812",
@@ -1757,6 +1898,7 @@
                     "generation": "M6 Plus II",
                     "engine": "1.5T (143 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5600-6000",
                     "powerHp": "143",
                     "powerRpm": "5600-6000",
@@ -1764,6 +1906,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4664",
@@ -1773,6 +1916,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1535",
                     "curbWeightMin": "1535"
                   },
@@ -1784,6 +1928,7 @@
                     "generation": "M6 Plus II",
                     "engine": "1.5T (143 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5600-6000",
                     "powerHp": "143",
                     "powerRpm": "5600-6000",
@@ -1791,6 +1936,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4664",
@@ -1800,6 +1946,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1565",
                     "curbWeightMin": "1565"
                   }
@@ -1822,6 +1969,7 @@
                     "generation": "M6 I (facelift 2019)",
                     "engine": "1.5T (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600-6000",
                     "powerHp": "150",
                     "powerRpm": "5600-6000",
@@ -1830,6 +1978,7 @@
                     "yearstart": "2019",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -1837,7 +1986,7 @@
                     "height": "1705",
                     "heightMin": "1705",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37923",
@@ -1847,6 +1996,7 @@
                     "generation": "M6 I (facelift 2019)",
                     "engine": "1.5T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600-6000",
                     "powerHp": "150",
                     "powerRpm": "5600-6000",
@@ -1855,6 +2005,7 @@
                     "yearstart": "2019",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -1862,7 +2013,7 @@
                     "height": "1705",
                     "heightMin": "1705",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1883,6 +2034,7 @@
                     "generation": "M6 I",
                     "engine": "1.5T (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -1890,6 +2042,7 @@
                     "yearstart": "2017",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -1897,7 +2050,7 @@
                     "height": "1705",
                     "heightMin": "1705",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37925",
@@ -1907,6 +2060,7 @@
                     "generation": "M6 I",
                     "engine": "1.5T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600",
                     "powerHp": "150",
                     "powerRpm": "5600",
@@ -1914,6 +2068,7 @@
                     "yearstart": "2017",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4649",
@@ -1921,7 +2076,7 @@
                     "height": "1705",
                     "heightMin": "1705",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1951,6 +2106,7 @@
                     "generation": "H4 I",
                     "engine": "1.5T (169 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -1958,6 +2114,7 @@
                     "powerRpmHigh": "5600",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4410",
@@ -1967,7 +2124,7 @@
                     "rideHeight": "174",
                     "rideHeightMin": "174",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "37904",
@@ -1977,6 +2134,7 @@
                     "generation": "H4 I",
                     "engine": "1.5T (169 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "169/5000-5600",
                     "powerHp": "169",
                     "powerRpm": "5000-5600",
@@ -1984,6 +2142,7 @@
                     "powerRpmHigh": "5600",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4410",
@@ -1993,7 +2152,7 @@
                     "rideHeight": "174",
                     "rideHeightMin": "174",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2023,6 +2182,7 @@
                     "generation": "Jolion",
                     "engine": "1.5T (143 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5600-6000",
                     "powerHp": "143",
                     "powerRpm": "5600-6000",
@@ -2030,6 +2190,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4472",
@@ -2039,6 +2200,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1445",
                     "curbWeightMin": "1445"
                   },
@@ -2050,6 +2212,7 @@
                     "generation": "Jolion",
                     "engine": "1.5T (143 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5600-6000",
                     "powerHp": "143",
                     "powerRpm": "5600-6000",
@@ -2057,6 +2220,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4472",
@@ -2066,6 +2230,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   },
@@ -2077,6 +2242,7 @@
                     "generation": "Jolion",
                     "engine": "1.5T (150 Hp) 4x4 DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -2084,6 +2250,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4472",
@@ -2093,6 +2260,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1625",
                     "curbWeightMin": "1625"
                   },
@@ -2104,6 +2272,7 @@
                     "generation": "Jolion",
                     "engine": "1.5T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5600-6000",
                     "powerHp": "150",
                     "powerRpm": "5600-6000",
@@ -2111,6 +2280,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4472",
@@ -2118,6 +2288,7 @@
                     "height": "1574",
                     "heightMin": "1574",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1370-1431",
                     "curbWeightMin": "1370",
                     "curbWeightMax": "1431"
@@ -2130,10 +2301,12 @@
                     "generation": "Jolion",
                     "engine": "1.5 (189 Hp) HEV DHT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4472",
@@ -2141,6 +2314,7 @@
                     "height": "1574",
                     "heightMin": "1574",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1530",
                     "curbWeightMin": "1530"
                   }
@@ -2180,6 +2354,7 @@
                     "generation": "Dargo",
                     "engine": "1.5 GDIT (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184/5500-6000",
                     "powerHp": "184",
                     "powerRpm": "5500-6000",
@@ -2187,6 +2362,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2022",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -2196,7 +2372,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "45943",
@@ -2206,6 +2382,7 @@
                     "generation": "Dargo",
                     "engine": "2.0 GDIT (211 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "211/6000-6300",
                     "powerHp": "211",
                     "powerRpm": "6000-6300",
@@ -2213,6 +2390,7 @@
                     "powerRpmHigh": "6300",
                     "yearstart": "2021",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -2222,7 +2400,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2252,6 +2430,7 @@
                     "generation": "Big Dog II",
                     "engine": "1.5T (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184/5500-6000",
                     "powerHp": "184",
                     "powerRpm": "5500-6000",
@@ -2259,6 +2438,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4705",
@@ -2268,7 +2448,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49090",
@@ -2278,12 +2458,14 @@
                     "generation": "Big Dog II",
                     "engine": "2.0T (238 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "238/6000",
                     "powerHp": "238",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4705",
@@ -2293,7 +2475,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49091",
@@ -2303,12 +2485,14 @@
                     "generation": "Big Dog II",
                     "engine": "2.0T (238 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "238/6000",
                     "powerHp": "238",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4705",
@@ -2318,7 +2502,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49092",
@@ -2328,10 +2512,12 @@
                     "generation": "Big Dog II",
                     "engine": "1.5T 9.4 kWh (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "154",
                     "powerHp": "154",
                     "yearstart": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4705",
@@ -2341,7 +2527,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "49093",
@@ -2351,10 +2537,12 @@
                     "generation": "Big Dog II",
                     "engine": "1.5T 19.9 kWh (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "154",
                     "powerHp": "154",
                     "yearstart": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4705",
@@ -2364,7 +2552,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -2385,6 +2573,7 @@
                     "generation": "Big Dog I",
                     "engine": "1.5T (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184/5500-6000",
                     "powerHp": "184",
                     "powerRpm": "5500-6000",
@@ -2393,6 +2582,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -2402,7 +2592,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49088",
@@ -2412,6 +2602,7 @@
                     "generation": "Big Dog I",
                     "engine": "2.0T (238 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "238/6000",
                     "powerHp": "238",
                     "powerRpm": "6000",
@@ -2419,6 +2610,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -2428,7 +2620,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2458,10 +2650,12 @@
                     "generation": "Cool Dog",
                     "engine": "1.5T (150 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2022",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4520",
@@ -2469,7 +2663,7 @@
                     "height": "1745",
                     "heightMin": "1745",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49095",
@@ -2479,10 +2673,12 @@
                     "generation": "Cool Dog",
                     "engine": "1.5T (184 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184",
                     "powerHp": "184",
                     "yearstart": "2022",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4520",
@@ -2490,7 +2686,7 @@
                     "height": "1745",
                     "heightMin": "1745",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49096",
@@ -2500,10 +2696,12 @@
                     "generation": "Cool Dog",
                     "engine": "1.5T (184 Hp) 4WD DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "184",
                     "powerHp": "184",
                     "yearstart": "2022",
                     "coupe": "CUV (Crossover Utility Vehicle)",
+                    "coupeId": "15",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4520",
@@ -2511,7 +2709,7 @@
                     "height": "1745",
                     "heightMin": "1745",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -2541,10 +2739,12 @@
                     "generation": "Raptor",
                     "engine": "Hi4 1.5T 19.1 kWh (378 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "167",
                     "powerHp": "167",
                     "yearstart": "2023",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4800",
@@ -2556,7 +2756,7 @@
                     "rideHeightMin": "200",
                     "rideHeightMax": "221",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53775",
@@ -2566,10 +2766,12 @@
                     "generation": "Raptor",
                     "engine": "Hi4 1.5T 27.5 kWh (383 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "167",
                     "powerHp": "167",
                     "yearstart": "2023",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4800",
@@ -2579,7 +2781,7 @@
                     "rideHeight": "221",
                     "rideHeightMin": "221",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -2609,6 +2811,7 @@
                     "generation": "H5 II",
                     "engine": "2.0T (190 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "190/4000-5500",
                     "powerHp": "190",
                     "powerRpm": "4000-5500",
@@ -2616,6 +2819,7 @@
                     "powerRpmHigh": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -2625,7 +2829,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53797",
@@ -2635,12 +2839,14 @@
                     "generation": "H5 II",
                     "engine": "2.0T (218 Hp) ZF",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "218/5500",
                     "powerHp": "218",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -2650,7 +2856,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53798",
@@ -2660,12 +2866,14 @@
                     "generation": "H5 II",
                     "engine": "2.0T (218 Hp) 4WD ZF",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "218/5500",
                     "powerHp": "218",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -2675,7 +2883,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "53799",
@@ -2685,12 +2893,14 @@
                     "generation": "H5 II",
                     "engine": "2.0T (163 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "163/3600",
                     "powerHp": "163",
                     "powerRpm": "3600",
                     "powerRpmLow": "3600",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -2700,7 +2910,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "53800",
@@ -2710,12 +2920,14 @@
                     "generation": "H5 II",
                     "engine": "2.0T (163 Hp) 4WD ZF",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "163/3600",
                     "powerHp": "163",
                     "powerRpm": "3600",
                     "powerRpmLow": "3600",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -2725,7 +2937,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2755,10 +2967,12 @@
                     "generation": "Xiaolong",
                     "engine": "1.5L 9.41 kWh (252 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "101",
                     "powerHp": "101",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4600",
@@ -2766,7 +2980,7 @@
                     "height": "1675",
                     "heightMin": "1675",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53820",
@@ -2776,10 +2990,12 @@
                     "generation": "Xiaolong",
                     "engine": "1.5L 19.27 kWh (252 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "101",
                     "powerHp": "101",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4600",
@@ -2787,7 +3003,7 @@
                     "height": "1675",
                     "heightMin": "1675",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -2817,10 +3033,12 @@
                     "generation": "Xiaolong Max",
                     "engine": "Hi4 1.5L 19.27 kWh (279 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "116",
                     "powerHp": "116",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4758",
@@ -2828,7 +3046,7 @@
                     "height": "1725",
                     "heightMin": "1725",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }

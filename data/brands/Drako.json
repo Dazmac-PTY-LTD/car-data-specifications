@@ -26,12 +26,14 @@
                     "generation": "GTE",
                     "engine": "90 kWh (1200 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

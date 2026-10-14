@@ -26,13 +26,15 @@
                     "generation": "M12",
                     "engine": "5.7 (492 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "492",
                     "powerHp": "492",
                     "yearstart": "1995",
                     "yearstop": "1999",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,6 +64,7 @@
                     "generation": "W8 Twin Turbo",
                     "engine": "6.0 i V8 Biturbo (634 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "634/5700",
                     "powerHp": "634",
                     "powerRpm": "5700",
@@ -69,6 +72,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4370",
@@ -76,6 +80,7 @@
                     "height": "1080",
                     "heightMin": "1080",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1620",
                     "curbWeightMin": "1620"
                   }

@@ -26,8 +26,10 @@
                     "generation": "Electric",
                     "engine": "(45 Hp) Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3325",
@@ -35,6 +37,7 @@
                     "height": "1550",
                     "heightMin": "1550",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "800",
                     "curbWeightMin": "800"
                   },
@@ -46,8 +49,10 @@
                     "generation": "Electric",
                     "engine": "12 kWh (20 Hp) Automatic (USA)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3327",
@@ -55,6 +60,7 @@
                     "height": "1549",
                     "heightMin": "1549",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1050",
                     "curbWeightMin": "1050"
                   }

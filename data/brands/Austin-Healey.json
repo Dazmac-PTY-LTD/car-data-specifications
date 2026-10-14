@@ -26,6 +26,7 @@
                     "generation": "100/4 (BN1)",
                     "engine": "2.7 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -33,6 +34,7 @@
                     "yearstart": "1953",
                     "yearstop": "1955",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3850",
@@ -42,6 +44,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "987",
                     "curbWeightMin": "987"
                   }

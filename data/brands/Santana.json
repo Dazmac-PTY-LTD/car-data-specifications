@@ -26,6 +26,7 @@
                     "generation": "300",
                     "engine": "1.6 HDi (90 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -33,6 +34,7 @@
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3660",
@@ -42,6 +44,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1304",
                     "curbWeightMin": "1304"
                   }
@@ -64,6 +67,7 @@
                     "generation": "350",
                     "engine": "1.6 HDi (90 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -71,6 +75,7 @@
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4040",
@@ -80,6 +85,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1417",
                     "curbWeightMin": "1417"
                   }
@@ -111,6 +117,7 @@
                     "generation": "PS-10 Pick-up",
                     "engine": "2.8 TD (125 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/3600",
                     "powerHp": "125",
                     "powerRpm": "3600",
@@ -118,6 +125,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Off-road, Pick-up",
+                    "coupeId": "1,5",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4541",
@@ -127,6 +135,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1915",
                     "curbWeightMin": "1915"
                   }
@@ -149,6 +158,7 @@
                     "generation": "PS-10 SW",
                     "engine": "2.8 TD (125 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/3600",
                     "powerHp": "125",
                     "powerRpm": "3600",
@@ -156,6 +166,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5-9",
                     "placesMin": "5",
                     "placesMax": "9",
@@ -166,6 +177,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2050-2140",
                     "curbWeightMin": "2050",
                     "curbWeightMax": "2140"
@@ -178,6 +190,7 @@
                     "generation": "PS-10 SW",
                     "engine": "2.8 TD (106 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/3600",
                     "powerHp": "106",
                     "powerRpm": "3600",
@@ -185,6 +198,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5-9",
                     "placesMin": "5",
                     "placesMax": "9",
@@ -195,6 +209,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2140",
                     "curbWeightMin": "2140"
                   }

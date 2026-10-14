@@ -26,12 +26,14 @@
                     "generation": "Maguari HS1",
                     "engine": "GTC 5.2 V10 (1085 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "1085/8200",
                     "powerHp": "1085",
                     "powerRpm": "8200",
                     "powerRpmLow": "8200",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "5100",
@@ -39,6 +41,7 @@
                     "height": "1250",
                     "heightMin": "1250",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1780",
                     "curbWeightMin": "1780"
                   }
@@ -70,8 +73,10 @@
                     "generation": "Carmen Boulogne",
                     "engine": "80 kWh (1114 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4733",
@@ -79,6 +84,7 @@
                     "height": "1242",
                     "heightMin": "1242",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1630",
                     "curbWeightMin": "1630"
                   }
@@ -101,8 +107,10 @@
                     "generation": "Carmen",
                     "engine": "80 kWh (1019 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4733",
@@ -110,6 +118,7 @@
                     "height": "1242",
                     "heightMin": "1242",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   }

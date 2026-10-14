@@ -26,8 +26,10 @@
                     "generation": "ES6 II (facelift 2025)",
                     "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -35,7 +37,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56818",
@@ -45,8 +47,10 @@
                     "generation": "ES6 II (facelift 2025)",
                     "engine": "Long 100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -54,7 +58,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56819",
@@ -64,8 +68,10 @@
                     "generation": "ES6 II (facelift 2025)",
                     "engine": "Ulta Long 150 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -73,7 +79,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -94,9 +100,11 @@
                     "generation": "ES6 II",
                     "engine": "Standard Range 75 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -104,7 +112,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48924",
@@ -114,9 +122,11 @@
                     "generation": "ES6 II",
                     "engine": "Long Range 100 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -124,7 +134,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48925",
@@ -134,9 +144,11 @@
                     "generation": "ES6 II",
                     "engine": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -144,7 +156,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -165,9 +177,11 @@
                     "generation": "ES6 I",
                     "engine": "70 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -175,7 +189,7 @@
                     "height": "1758",
                     "heightMin": "1758",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42098",
@@ -185,9 +199,11 @@
                     "generation": "ES6 I",
                     "engine": "70 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -195,7 +211,7 @@
                     "height": "1731",
                     "heightMin": "1731",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42099",
@@ -205,9 +221,11 @@
                     "generation": "ES6 I",
                     "engine": "84 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -215,7 +233,7 @@
                     "height": "1758",
                     "heightMin": "1758",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42100",
@@ -225,9 +243,11 @@
                     "generation": "ES6 I",
                     "engine": "84 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -235,7 +255,7 @@
                     "height": "1731",
                     "heightMin": "1731",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42101",
@@ -245,9 +265,11 @@
                     "generation": "ES6 I",
                     "engine": "100 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -255,7 +277,7 @@
                     "height": "1758",
                     "heightMin": "1758",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42102",
@@ -265,9 +287,11 @@
                     "generation": "ES6 I",
                     "engine": "100 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -275,7 +299,7 @@
                     "height": "1731",
                     "heightMin": "1731",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -299,14 +323,16 @@
                 "modification": [
                   {
                     "id": "56820",
-                    "update": "2026-04-07 16:16:37",
+                    "update": "2026-10-13 11:35:48",
                     "brand": "NIO",
                     "model": "ES8",
                     "generation": "ES8 III",
                     "engine": "102 kWh (707 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -315,7 +341,7 @@
                     "height": "1800",
                     "heightMin": "1800",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -336,9 +362,11 @@
                     "generation": "ES8 II",
                     "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5099",
@@ -346,7 +374,7 @@
                     "height": "1750",
                     "heightMin": "1750",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48966",
@@ -356,9 +384,11 @@
                     "generation": "ES8 II",
                     "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5099",
@@ -366,7 +396,7 @@
                     "height": "1750",
                     "heightMin": "1750",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48967",
@@ -376,9 +406,11 @@
                     "generation": "ES8 II",
                     "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5099",
@@ -386,7 +418,7 @@
                     "height": "1750",
                     "heightMin": "1750",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -407,9 +439,11 @@
                     "generation": "ES8 I (facelift 2020)",
                     "engine": "70 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -418,6 +452,7 @@
                     "height": "1756",
                     "heightMin": "1756",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2425",
                     "curbWeightMin": "2425"
                   },
@@ -429,9 +464,11 @@
                     "generation": "ES8 I (facelift 2020)",
                     "engine": "84 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -440,6 +477,7 @@
                     "height": "1756",
                     "heightMin": "1756",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2425",
                     "curbWeightMin": "2425"
                   },
@@ -451,9 +489,11 @@
                     "generation": "ES8 I (facelift 2020)",
                     "engine": "100 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -462,6 +502,7 @@
                     "height": "1756",
                     "heightMin": "1756",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2425",
                     "curbWeightMin": "2425"
                   }
@@ -484,9 +525,11 @@
                     "generation": "ES8 I",
                     "engine": "70 kWh (653 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -497,6 +540,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2460",
                     "curbWeightMin": "2460"
                   },
@@ -508,9 +552,11 @@
                     "generation": "ES8 I",
                     "engine": "84 kWh (653 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -521,7 +567,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -551,8 +597,10 @@
                     "generation": "EC6 II (facelift 2025)",
                     "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4849",
@@ -560,7 +608,7 @@
                     "height": "1697",
                     "heightMin": "1697",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56815",
@@ -570,8 +618,10 @@
                     "generation": "EC6 II (facelift 2025)",
                     "engine": "Long 100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4849",
@@ -579,7 +629,7 @@
                     "height": "1697",
                     "heightMin": "1697",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56816",
@@ -589,8 +639,10 @@
                     "generation": "EC6 II (facelift 2025)",
                     "engine": "Ultra Long 150 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4849",
@@ -598,7 +650,7 @@
                     "height": "1697",
                     "heightMin": "1697",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -619,9 +671,11 @@
                     "generation": "EC6 II",
                     "engine": "75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4849",
@@ -629,6 +683,7 @@
                     "height": "1697",
                     "heightMin": "1697",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2292",
                     "curbWeightMin": "2292"
                   },
@@ -640,9 +695,11 @@
                     "generation": "EC6 II",
                     "engine": "100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4849",
@@ -650,6 +707,7 @@
                     "height": "1697",
                     "heightMin": "1697",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2340",
                     "curbWeightMin": "2340"
                   }
@@ -672,9 +730,11 @@
                     "generation": "EC6 I",
                     "engine": "70 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -682,7 +742,7 @@
                     "height": "1731",
                     "heightMin": "1731",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42107",
@@ -692,9 +752,11 @@
                     "generation": "EC6 I",
                     "engine": "100 kWh (435 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -702,7 +764,7 @@
                     "height": "1731",
                     "heightMin": "1731",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42108",
@@ -712,9 +774,11 @@
                     "generation": "EC6 I",
                     "engine": "70 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -722,7 +786,7 @@
                     "height": "1714",
                     "heightMin": "1714",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42109",
@@ -732,9 +796,11 @@
                     "generation": "EC6 I",
                     "engine": "100 kWh (544 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4850",
@@ -742,7 +808,7 @@
                     "height": "1714",
                     "heightMin": "1714",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -772,8 +838,10 @@
                     "generation": "ET7",
                     "engine": "70 kWh (653 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5098",
@@ -781,7 +849,7 @@
                     "height": "1505",
                     "heightMin": "1505",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42112",
@@ -791,8 +859,10 @@
                     "generation": "ET7",
                     "engine": "100 kWh (653 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5098",
@@ -800,7 +870,7 @@
                     "height": "1505",
                     "heightMin": "1505",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "42113",
@@ -810,8 +880,10 @@
                     "generation": "ET7",
                     "engine": "150 kWh (653 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5098",
@@ -819,7 +891,7 @@
                     "height": "1505",
                     "heightMin": "1505",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -849,9 +921,11 @@
                     "generation": "EP9",
                     "engine": "(1360 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2016",
                     "yearstop": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4888",
@@ -859,6 +933,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1735",
                     "curbWeightMin": "1735"
                   }
@@ -890,8 +965,10 @@
                     "generation": "ET5T (facelift 2025)",
                     "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -899,7 +976,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56827",
@@ -909,8 +986,10 @@
                     "generation": "ET5T (facelift 2025)",
                     "engine": "Long 100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -918,7 +997,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56828",
@@ -928,8 +1007,10 @@
                     "generation": "ET5T (facelift 2025)",
                     "engine": "Extra Long 150 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -937,7 +1018,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -958,8 +1039,10 @@
                     "generation": "ET5 (facelift 2025)",
                     "engine": "Standard 75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -967,7 +1050,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56824",
@@ -977,8 +1060,10 @@
                     "generation": "ET5 (facelift 2025)",
                     "engine": "Long 100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -986,7 +1071,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56825",
@@ -996,8 +1081,10 @@
                     "generation": "ET5 (facelift 2025)",
                     "engine": "Extra Long 150 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1005,7 +1092,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1026,9 +1113,11 @@
                     "generation": "ET5T",
                     "engine": "Standard Range 75 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1036,7 +1125,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48921",
@@ -1046,9 +1135,11 @@
                     "generation": "ET5T",
                     "engine": "Long Range 100 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1056,7 +1147,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48922",
@@ -1066,9 +1157,11 @@
                     "generation": "ET5T",
                     "engine": "Ultra Long Range 150 kWh (490 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1076,7 +1169,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1097,9 +1190,11 @@
                     "generation": "ET5",
                     "engine": "75 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1107,7 +1202,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "45966",
@@ -1117,9 +1212,11 @@
                     "generation": "ET5",
                     "engine": "100 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1127,7 +1224,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "45967",
@@ -1137,9 +1234,11 @@
                     "generation": "ET5",
                     "engine": "150 kWh (490 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4790",
@@ -1147,7 +1246,7 @@
                     "height": "1499",
                     "heightMin": "1499",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1177,8 +1276,10 @@
                     "generation": "EL7",
                     "engine": "75 kWh (653 Hp) BEV e-AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4912",
@@ -1186,6 +1287,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2346",
                     "curbWeightMin": "2346"
                   },
@@ -1197,8 +1299,10 @@
                     "generation": "EL7",
                     "engine": "100 kWh (653 Hp) BEV e-AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4912",
@@ -1206,6 +1310,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2366",
                     "curbWeightMin": "2366"
                   }
@@ -1237,9 +1342,11 @@
                     "generation": "ES7",
                     "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4912",
@@ -1247,7 +1354,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48909",
@@ -1257,9 +1364,11 @@
                     "generation": "ES7",
                     "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4912",
@@ -1267,7 +1376,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48910",
@@ -1277,9 +1386,11 @@
                     "generation": "ES7",
                     "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4912",
@@ -1287,7 +1398,7 @@
                     "height": "1720",
                     "heightMin": "1720",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1317,8 +1428,10 @@
                     "generation": "EC7",
                     "engine": "Standard Range 75 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4968",
@@ -1326,7 +1439,7 @@
                     "height": "1714",
                     "heightMin": "1714",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48912",
@@ -1336,8 +1449,10 @@
                     "generation": "EC7",
                     "engine": "Long Range 100 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4968",
@@ -1345,7 +1460,7 @@
                     "height": "1714",
                     "heightMin": "1714",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "48913",
@@ -1355,8 +1470,10 @@
                     "generation": "EC7",
                     "engine": "Ultra Long Range 150 kWh (653 Hp) i4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4968",
@@ -1364,7 +1481,7 @@
                     "height": "1714",
                     "heightMin": "1714",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1394,8 +1511,10 @@
                     "generation": "EL8",
                     "engine": "Standard Range 73.5 kWh (653 Hp) E-AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5099",
@@ -1406,6 +1525,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2538",
                     "curbWeightMin": "2538"
                   },
@@ -1417,8 +1537,10 @@
                     "generation": "EL8",
                     "engine": "Long Range 90 kWh (653 Hp) E-AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5099",
@@ -1429,6 +1551,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2558",
                     "curbWeightMin": "2558"
                   }
@@ -1460,8 +1583,10 @@
                     "generation": "ET9",
                     "engine": "100 kWh (707 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5325",
@@ -1469,6 +1594,7 @@
                     "height": "1621",
                     "heightMin": "1621",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2700",
                     "curbWeightMin": "2700"
                   }
@@ -1500,8 +1626,10 @@
                     "generation": "EL6",
                     "engine": "Standard Range 75 kWh (490 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -1510,6 +1638,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2378",
                     "curbWeightMin": "2378"
                   },
@@ -1521,8 +1650,10 @@
                     "generation": "EL6",
                     "engine": "Long Range 100 kWh (490 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4854",
@@ -1531,6 +1662,7 @@
                     "height": "1703",
                     "heightMin": "1703",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2398",
                     "curbWeightMin": "2398"
                   }
@@ -1562,8 +1694,10 @@
                     "generation": "ES9",
                     "engine": "102 kWh (707 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1572,6 +1706,7 @@
                     "height": "1870",
                     "heightMin": "1870",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2845",
                     "curbWeightMin": "2845"
                   }

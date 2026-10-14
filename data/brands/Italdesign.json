@@ -26,12 +26,14 @@
                     "generation": "Zerouno",
                     "engine": "5.2 V10 (610 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "610/8250",
                     "powerHp": "610",
                     "powerRpm": "8250",
                     "powerRpmLow": "8250",
                     "yearstart": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4847",
@@ -39,7 +41,7 @@
                     "height": "1204",
                     "heightMin": "1204",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

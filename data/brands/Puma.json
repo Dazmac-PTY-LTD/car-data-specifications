@@ -26,6 +26,7 @@
                     "generation": "AM4",
                     "engine": "1.8 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/5200",
                     "powerHp": "90",
                     "powerRpm": "5200",
@@ -33,6 +34,7 @@
                     "yearstart": "1989",
                     "yearstop": "1995",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4000",
@@ -40,6 +42,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "905",
                     "curbWeightMin": "905"
                   }
@@ -71,6 +74,7 @@
                     "generation": "AMV",
                     "engine": "4.1 (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122/3800",
                     "powerHp": "122",
                     "powerRpm": "3800",
@@ -78,6 +82,7 @@
                     "yearstart": "1992",
                     "yearstop": "1995",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4290",
@@ -85,6 +90,7 @@
                     "height": "1285",
                     "heightMin": "1285",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   }

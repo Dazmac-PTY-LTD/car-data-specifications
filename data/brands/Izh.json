@@ -26,6 +26,7 @@
                     "generation": "2125",
                     "engine": "1.5 (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5800",
                     "powerHp": "70",
                     "powerRpm": "5800",
@@ -33,6 +34,7 @@
                     "yearstart": "1973",
                     "yearstop": "1997",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4205",
@@ -40,6 +42,7 @@
                     "height": "1500",
                     "heightMin": "1500",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1040",
                     "curbWeightMin": "1040"
                   }
@@ -71,11 +74,13 @@
                     "generation": "2126 4x4",
                     "engine": "1.6 (73 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "73/",
                     "powerHp": "73",
                     "yearstart": "1997",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -83,7 +88,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "14677",
@@ -93,11 +98,13 @@
                     "generation": "2126 4x4",
                     "engine": "1.7 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/",
                     "powerHp": "85",
                     "yearstart": "1997",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -105,6 +112,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -116,11 +124,13 @@
                     "generation": "2126 4x4",
                     "engine": "1.8 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/",
                     "powerHp": "85",
                     "yearstart": "1997",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -128,7 +138,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -149,11 +159,13 @@
                     "generation": "2126",
                     "engine": "1.6 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/",
                     "powerHp": "75",
                     "yearstart": "1993",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -161,6 +173,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   },
@@ -172,11 +185,13 @@
                     "generation": "2126",
                     "engine": "1.7 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/",
                     "powerHp": "85",
                     "yearstart": "1993",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -184,6 +199,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   },
@@ -195,11 +211,13 @@
                     "generation": "2126",
                     "engine": "1.8 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/",
                     "powerHp": "85",
                     "yearstart": "1993",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -207,7 +225,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "14675",
@@ -217,6 +235,7 @@
                     "generation": "2126",
                     "engine": "1.8 D (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63/4800",
                     "powerHp": "63",
                     "powerRpm": "4800",
@@ -224,6 +243,7 @@
                     "yearstart": "2004",
                     "yearstop": "2005",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -231,7 +251,7 @@
                     "height": "1357",
                     "heightMin": "1357",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -261,6 +281,7 @@
                     "generation": "21261",
                     "engine": "1.8 (99 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "99/5500",
                     "powerHp": "99",
                     "powerRpm": "5500",
@@ -268,6 +289,7 @@
                     "yearstart": "2002",
                     "yearstop": "2005",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -275,6 +297,7 @@
                     "height": "1437",
                     "heightMin": "1437",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   }
@@ -297,6 +320,7 @@
                     "generation": "21261 4X4",
                     "engine": "1.6 (74 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "74/5400",
                     "powerHp": "74",
                     "powerRpm": "5400",
@@ -304,6 +328,7 @@
                     "yearstart": "2002",
                     "yearstop": "2005",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -311,6 +336,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1090",
                     "curbWeightMin": "1090"
                   },
@@ -322,6 +348,7 @@
                     "generation": "21261 4X4",
                     "engine": "1.7 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5400",
                     "powerHp": "85",
                     "powerRpm": "5400",
@@ -329,6 +356,7 @@
                     "yearstart": "2002",
                     "yearstop": "2005",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -336,6 +364,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1090",
                     "curbWeightMin": "1090"
                   },
@@ -347,6 +376,7 @@
                     "generation": "21261 4X4",
                     "engine": "1.8 (99 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "99/5500",
                     "powerHp": "99",
                     "powerRpm": "5500",
@@ -354,6 +384,7 @@
                     "yearstart": "2002",
                     "yearstop": "2005",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4053",
@@ -361,6 +392,7 @@
                     "height": "1437",
                     "heightMin": "1437",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   }
@@ -392,11 +424,13 @@
                     "generation": "412",
                     "engine": "1.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1967",
                     "yearstop": "1982",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4205",
@@ -404,6 +438,7 @@
                     "height": "1500",
                     "heightMin": "1500",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   }

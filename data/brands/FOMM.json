@@ -26,8 +26,10 @@
                     "generation": "Concept One",
                     "engine": "11.84 kWh (14 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "2585",
@@ -37,6 +39,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "630",
                     "curbWeightMin": "630"
                   }

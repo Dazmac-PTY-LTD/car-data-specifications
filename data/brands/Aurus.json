@@ -26,12 +26,14 @@
                     "generation": "Senat",
                     "engine": "S600 4.4 V8 (598 Hp) Hybrid AWD Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "598/5500",
                     "powerHp": "598",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2018",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5630",
@@ -41,7 +43,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,12 +64,14 @@
                     "generation": "Senat Limousine",
                     "engine": "L700 4.4 V8 (598 Hp) Hybrid AWD Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "598/5500",
                     "powerHp": "598",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2018",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "6",
                     "placesMin": "6",
                     "length": "6630",
@@ -77,7 +81,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -107,10 +111,12 @@
                     "generation": "Komendant",
                     "engine": "4.4 V8 (598 Hp) Hybrid AWD Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "power": "598",
                     "powerHp": "598",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5380",
@@ -120,6 +126,7 @@
                     "rideHeight": "230",
                     "rideHeightMin": "230",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "3235",
                     "curbWeightMin": "3235"
                   }

@@ -26,6 +26,7 @@
                     "generation": "K2",
                     "engine": "2.0 (162 Hp) 4x4 Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "162/4000",
                     "powerHp": "162",
                     "powerRpm": "4000",
@@ -33,6 +34,7 @@
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4645",
@@ -42,6 +44,7 @@
                     "rideHeight": "220",
                     "rideHeightMin": "220",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2180",
                     "curbWeightMin": "2180"
                   }

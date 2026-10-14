@@ -26,8 +26,10 @@
                     "generation": "Firefly",
                     "engine": "42.1 kWh (143 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4003",
@@ -37,6 +39,7 @@
                     "rideHeight": "142",
                     "rideHeightMin": "142",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1467-1492",
                     "curbWeightMin": "1467",
                     "curbWeightMax": "1492"

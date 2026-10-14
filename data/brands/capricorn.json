@@ -26,10 +26,12 @@
                     "generation": "01 Zagato",
                     "engine": "5.2 V8 (900 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "900",
                     "powerHp": "900",
                     "yearstart": "2026",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "5060",
@@ -37,6 +39,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1200",
                     "curbWeightMin": "1200"
                   }

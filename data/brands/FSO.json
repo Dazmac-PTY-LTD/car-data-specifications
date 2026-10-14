@@ -26,13 +26,15 @@
                     "generation": "125p",
                     "engine": "1.3 (64 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "64",
                     "powerHp": "64",
                     "yearstart": "1967",
                     "yearstop": "1992",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8268",
@@ -42,13 +44,15 @@
                     "generation": "125p",
                     "engine": "1.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1967",
                     "yearstop": "1992",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -69,13 +73,15 @@
                     "generation": "125p Kombi",
                     "engine": "1.3 (64 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "64",
                     "powerHp": "64",
                     "yearstart": "1967",
                     "yearstop": "1992",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8270",
@@ -85,13 +91,15 @@
                     "generation": "125p Kombi",
                     "engine": "1.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1967",
                     "yearstop": "1992",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -121,13 +129,15 @@
                     "generation": "126p",
                     "engine": "0.6 (23 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "23",
                     "powerHp": "23",
                     "yearstart": "1972",
                     "yearstop": "1977",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8272",
@@ -137,13 +147,15 @@
                     "generation": "126p",
                     "engine": "0.6 (30 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "30",
                     "powerHp": "30",
                     "yearstart": "1977",
                     "yearstop": "1991",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -173,13 +185,15 @@
                     "generation": "127p",
                     "engine": "0.9 (45 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "45",
                     "powerHp": "45",
                     "yearstart": "1969",
                     "yearstop": "1976",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -209,13 +223,15 @@
                     "generation": "132p",
                     "engine": "1.6 (98 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "98",
                     "powerHp": "98",
                     "yearstart": "1974",
                     "yearstop": "1978",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8275",
@@ -225,13 +241,15 @@
                     "generation": "132p",
                     "engine": "1.8 (107 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "107",
                     "powerHp": "107",
                     "yearstart": "1975",
                     "yearstop": "1978",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -261,6 +279,7 @@
                     "generation": "Polonez III",
                     "engine": "1.4 i 16V MPi (103 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103/6000",
                     "powerHp": "103",
                     "powerRpm": "6000",
@@ -268,6 +287,7 @@
                     "yearstart": "1992",
                     "yearstop": "2002",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4318",
@@ -275,6 +295,7 @@
                     "height": "1420",
                     "heightMin": "1420",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1115",
                     "curbWeightMin": "1115"
                   },
@@ -286,6 +307,7 @@
                     "generation": "Polonez III",
                     "engine": "1.5 GL (82 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "82/5200",
                     "powerHp": "82",
                     "powerRpm": "5200",
@@ -293,6 +315,7 @@
                     "yearstart": "1992",
                     "yearstop": "2002",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4318",
@@ -300,6 +323,7 @@
                     "height": "1420",
                     "heightMin": "1420",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1115",
                     "curbWeightMin": "1115"
                   },
@@ -311,6 +335,7 @@
                     "generation": "Polonez III",
                     "engine": "1.6 GL (87 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "87/5200",
                     "powerHp": "87",
                     "powerRpm": "5200",
@@ -318,10 +343,11 @@
                     "yearstart": "1992",
                     "yearstop": "2002",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8279",
@@ -331,6 +357,7 @@
                     "generation": "Polonez III",
                     "engine": "1.6 i GLi (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/5200",
                     "powerHp": "81",
                     "powerRpm": "5200",
@@ -338,6 +365,7 @@
                     "yearstart": "1992",
                     "yearstop": "2002",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4318",
@@ -345,6 +373,7 @@
                     "height": "1420",
                     "heightMin": "1420",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1115",
                     "curbWeightMin": "1115"
                   },
@@ -356,6 +385,7 @@
                     "generation": "Polonez III",
                     "engine": "1.9 D (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/4600",
                     "powerHp": "70",
                     "powerRpm": "4600",
@@ -363,6 +393,7 @@
                     "yearstart": "1992",
                     "yearstop": "2002",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4318",
@@ -370,6 +401,7 @@
                     "height": "1420",
                     "heightMin": "1420",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1135",
                     "curbWeightMin": "1135"
                   }
@@ -392,13 +424,15 @@
                     "generation": "Polonez II",
                     "engine": "1.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8282",
@@ -408,13 +442,15 @@
                     "generation": "Polonez II",
                     "engine": "1.5 i (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8283",
@@ -424,13 +460,15 @@
                     "generation": "Polonez II",
                     "engine": "1.6 (87 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "87",
                     "powerHp": "87",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8284",
@@ -440,13 +478,15 @@
                     "generation": "Polonez II",
                     "engine": "1.9 D (69 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "69",
                     "powerHp": "69",
                     "yearstart": "1988",
                     "yearstop": "1992",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -467,13 +507,15 @@
                     "generation": "Polonez I",
                     "engine": "1.3 (65 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65",
                     "powerHp": "65",
                     "yearstart": "1978",
                     "yearstop": "1980",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8286",
@@ -483,13 +525,15 @@
                     "generation": "Polonez I",
                     "engine": "1.5 (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75",
                     "powerHp": "75",
                     "yearstart": "1977",
                     "yearstop": "1988",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8287",
@@ -499,13 +543,15 @@
                     "generation": "Polonez I",
                     "engine": "1.5 (82 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "82",
                     "powerHp": "82",
                     "yearstart": "1978",
                     "yearstop": "1988",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8288",
@@ -515,13 +561,15 @@
                     "generation": "Polonez I",
                     "engine": "1.5 Turbo (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "1978",
                     "yearstop": "1991",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8289",
@@ -531,13 +579,15 @@
                     "generation": "Polonez I",
                     "engine": "1.6 (87 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "87",
                     "powerHp": "87",
                     "yearstart": "1986",
                     "yearstop": "1988",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -577,6 +627,7 @@
                     "generation": "Warszawa 223",
                     "engine": "2.1 (77 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "77/4000",
                     "powerHp": "77",
                     "powerRpm": "4000",
@@ -584,6 +635,7 @@
                     "yearstart": "1967",
                     "yearstop": "1973",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4740",
@@ -593,6 +645,7 @@
                     "rideHeight": "195",
                     "rideHeightMin": "195",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1375",
                     "curbWeightMin": "1375"
                   }

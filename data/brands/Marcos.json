@@ -26,13 +26,15 @@
                     "generation": "LM 400",
                     "engine": "4.6 V8 (250 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "250",
                     "powerHp": "250",
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,13 +64,15 @@
                     "generation": "LM 500",
                     "engine": "5.0 V8 (320 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "320",
                     "powerHp": "320",
                     "yearstart": "1996",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -98,13 +102,15 @@
                     "generation": "Mantis",
                     "engine": "2.0 T (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200",
                     "powerHp": "200",
                     "yearstart": "1998",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -134,6 +140,7 @@
                     "generation": "TS 250",
                     "engine": "2.5 i V6 24V (180 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "180/6000",
                     "powerHp": "180",
                     "powerRpm": "6000",
@@ -141,6 +148,7 @@
                     "yearstart": "2002",
                     "yearstop": "2004",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4005",
@@ -148,6 +156,7 @@
                     "height": "1150",
                     "heightMin": "1150",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1075",
                     "curbWeightMin": "1075"
                   }

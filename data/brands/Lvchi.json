@@ -26,8 +26,10 @@
                     "generation": "Venere",
                     "engine": "100 kWh (1006 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5150",
@@ -35,6 +37,7 @@
                     "height": "1418",
                     "heightMin": "1418",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2100",
                     "curbWeightMin": "2100"
                   }

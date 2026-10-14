@@ -26,6 +26,7 @@
                     "generation": "C12 Cabrio",
                     "engine": "5.7 i V8 (440 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "440/6300",
                     "powerHp": "440",
                     "powerRpm": "6300",
@@ -33,6 +34,7 @@
                     "yearstart": "1998",
                     "yearstop": "2001",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4850",
@@ -40,6 +42,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1480",
                     "curbWeightMin": "1480"
                   }
@@ -62,6 +65,7 @@
                     "generation": "C12 Coupe",
                     "engine": "5.7 i V8 (440 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "440/6300",
                     "powerHp": "440",
                     "powerRpm": "6300",
@@ -69,6 +73,7 @@
                     "yearstart": "1998",
                     "yearstop": "2001",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4850",
@@ -76,6 +81,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1480",
                     "curbWeightMin": "1480"
                   }

@@ -26,8 +26,10 @@
                     "generation": "Logistar 100",
                     "engine": "16 kWh (34 Hp) Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Minivan, MPV (Multi-Purpose Vehicle)",
+                    "coupeId": "4,11",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3664",
@@ -37,6 +39,7 @@
                     "rideHeight": "130",
                     "rideHeightMin": "130",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "930",
                     "curbWeightMin": "930"
                   }

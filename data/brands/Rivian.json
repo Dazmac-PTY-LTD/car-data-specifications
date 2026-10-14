@@ -26,8 +26,10 @@
                     "generation": "R1S",
                     "engine": "Large Pack 135 kWh (835 Hp) AWD Quad Motor",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5100",
@@ -38,6 +40,7 @@
                     "rideHeightMin": "205",
                     "rideHeightMax": "378",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2650",
                     "curbWeightMin": "2650"
                   }
@@ -69,8 +72,10 @@
                     "generation": "R1T",
                     "engine": "Large Pack 135 kWh (835 Hp) AWD Quad Motor",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5514",
@@ -81,6 +86,7 @@
                     "rideHeightMin": "200",
                     "rideHeightMax": "378",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2670",
                     "curbWeightMin": "2670"
                   }
@@ -112,8 +118,10 @@
                     "generation": "R2",
                     "engine": "Standard 87.9 kWh (350 Hp) Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2027",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4722",
@@ -124,7 +132,7 @@
                     "rideHeight": "244",
                     "rideHeightMin": "244",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56715",
@@ -134,8 +142,10 @@
                     "generation": "R2",
                     "engine": "Performance 87.9 kWh (656 Hp) Dual Motor AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4722",
@@ -146,7 +156,7 @@
                     "rideHeight": "244",
                     "rideHeightMin": "244",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56716",
@@ -156,8 +166,10 @@
                     "generation": "R2",
                     "engine": "Premium 87.9 kWh (450 Hp) Dual Motor AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4722",
@@ -168,7 +180,7 @@
                     "rideHeight": "244",
                     "rideHeightMin": "244",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

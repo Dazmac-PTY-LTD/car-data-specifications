@@ -26,8 +26,10 @@
                     "generation": "EV K17A",
                     "engine": "20 kWh (48 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3971",
@@ -35,6 +37,7 @@
                     "height": "1496",
                     "heightMin": "1496",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1170",
                     "curbWeightMin": "1170"
                   }
@@ -66,8 +69,10 @@
                     "generation": "EV K12",
                     "engine": "20 kWh (48 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2770",
@@ -75,6 +80,7 @@
                     "height": "1610",
                     "heightMin": "1610",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "970-990",
                     "curbWeightMin": "970",
                     "curbWeightMax": "990"

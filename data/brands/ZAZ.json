@@ -26,6 +26,7 @@
                     "generation": "1102",
                     "engine": "1.1 (53 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "53/5500",
                     "powerHp": "53",
                     "powerRpm": "5500",
@@ -33,6 +34,7 @@
                     "yearstart": "1987",
                     "yearstop": "2007",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3708",
@@ -40,6 +42,7 @@
                     "height": "1410",
                     "heightMin": "1410",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "727",
                     "curbWeightMin": "727"
                   },
@@ -51,6 +54,7 @@
                     "generation": "1102",
                     "engine": "1.2 (58 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "58/5300",
                     "powerHp": "58",
                     "powerRpm": "5300",
@@ -58,6 +62,7 @@
                     "yearstart": "2001",
                     "yearstop": "2007",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3708",
@@ -65,6 +70,7 @@
                     "height": "1410",
                     "heightMin": "1410",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "745",
                     "curbWeightMin": "745"
                   }
@@ -96,6 +102,7 @@
                     "generation": "1105",
                     "engine": "1.1 (53 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "53/5500",
                     "powerHp": "53",
                     "powerRpm": "5500",
@@ -103,6 +110,7 @@
                     "yearstart": "1994",
                     "yearstop": "1997",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3825",
@@ -110,6 +118,7 @@
                     "height": "1453",
                     "heightMin": "1453",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   },
@@ -121,6 +130,7 @@
                     "generation": "1105",
                     "engine": "1.2 (58 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "58/5300",
                     "powerHp": "58",
                     "powerRpm": "5300",
@@ -128,6 +138,7 @@
                     "yearstart": "2001",
                     "yearstop": "2010",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3900",
@@ -135,6 +146,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "760",
                     "curbWeightMin": "760"
                   }
@@ -166,11 +178,13 @@
                     "generation": "1140",
                     "engine": "1.0 (54 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "54/",
                     "powerHp": "54",
                     "yearstart": "1989",
                     "yearstop": "2001",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3708",
@@ -178,6 +192,7 @@
                     "height": "1410",
                     "heightMin": "1410",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "727",
                     "curbWeightMin": "727"
                   }
@@ -209,6 +224,7 @@
                     "generation": "966",
                     "engine": "0.9 (27 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "27/4000",
                     "powerHp": "27",
                     "powerRpm": "4000",
@@ -216,6 +232,7 @@
                     "yearstart": "1966",
                     "yearstop": "1972",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3730",
@@ -223,7 +240,7 @@
                     "height": "1400",
                     "heightMin": "1400",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -253,6 +270,7 @@
                     "generation": "Chance Sedan",
                     "engine": "1.3 (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5500",
                     "powerHp": "70",
                     "powerRpm": "5500",
@@ -260,6 +278,7 @@
                     "yearstart": "2009",
                     "yearstop": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4237",
@@ -267,6 +286,7 @@
                     "height": "1432",
                     "heightMin": "1432",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1197",
                     "curbWeightMin": "1197"
                   },
@@ -278,6 +298,7 @@
                     "generation": "Chance Sedan",
                     "engine": "1.5 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5800",
                     "powerHp": "85",
                     "powerRpm": "5800",
@@ -285,6 +306,7 @@
                     "yearstart": "2009",
                     "yearstop": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4237",
@@ -292,6 +314,7 @@
                     "height": "1432",
                     "heightMin": "1432",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1197",
                     "curbWeightMin": "1197"
                   }
@@ -314,6 +337,7 @@
                     "generation": "Chance Hatchback",
                     "engine": "1.3 (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5500",
                     "powerHp": "70",
                     "powerRpm": "5500",
@@ -321,6 +345,7 @@
                     "yearstart": "2009",
                     "yearstop": "2014",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4074",
@@ -328,6 +353,7 @@
                     "height": "1432",
                     "heightMin": "1432",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1182",
                     "curbWeightMin": "1182"
                   }
@@ -359,6 +385,7 @@
                     "generation": "1103",
                     "engine": "1.2 (58 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "58/5300",
                     "powerHp": "58",
                     "powerRpm": "5300",
@@ -366,6 +393,7 @@
                     "yearstart": "1999",
                     "yearstop": "2011",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3980",
@@ -373,6 +401,7 @@
                     "height": "1425",
                     "heightMin": "1425",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   },
@@ -384,6 +413,7 @@
                     "generation": "1103",
                     "engine": "1.3 (60 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "60/5000",
                     "powerHp": "60",
                     "powerRpm": "5000",
@@ -391,6 +421,7 @@
                     "yearstart": "1999",
                     "yearstop": "2011",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3980",
@@ -398,6 +429,7 @@
                     "height": "1410",
                     "heightMin": "1410",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   },
@@ -409,6 +441,7 @@
                     "generation": "1103",
                     "engine": "1.3 (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63/5300",
                     "powerHp": "63",
                     "powerRpm": "5300",
@@ -416,6 +449,7 @@
                     "yearstart": "2002",
                     "yearstop": "2011",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3980",
@@ -423,6 +457,7 @@
                     "height": "1425",
                     "heightMin": "1425",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   },
@@ -434,6 +469,7 @@
                     "generation": "1103",
                     "engine": "1.3 i (72 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "72/5300",
                     "powerHp": "72",
                     "powerRpm": "5300",
@@ -441,6 +477,7 @@
                     "yearstart": "2004",
                     "yearstop": "2011",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3980",
@@ -448,6 +485,7 @@
                     "height": "1425",
                     "heightMin": "1425",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   }
@@ -479,6 +517,7 @@
                     "generation": "1125",
                     "engine": "1.3 (63 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "63/5500",
                     "powerHp": "63",
                     "powerRpm": "5500",
@@ -486,6 +525,7 @@
                     "yearstart": "1989",
                     "yearstop": "2001",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3708",
@@ -493,6 +533,7 @@
                     "height": "1410",
                     "heightMin": "1410",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "727",
                     "curbWeightMin": "727"
                   }
@@ -524,6 +565,7 @@
                     "generation": "965",
                     "engine": "0.7 (23 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "23/4000",
                     "powerHp": "23",
                     "powerRpm": "4000",
@@ -531,6 +573,7 @@
                     "yearstart": "1960",
                     "yearstop": "1963",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3330",
@@ -538,7 +581,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "13957",
@@ -548,6 +591,7 @@
                     "generation": "965",
                     "engine": "0.9 A (27 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "27/4000",
                     "powerHp": "27",
                     "powerRpm": "4000",
@@ -555,6 +599,7 @@
                     "yearstart": "1962",
                     "yearstop": "1969",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3330",
@@ -562,6 +607,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "650",
                     "curbWeightMin": "650"
                   }
@@ -593,6 +639,7 @@
                     "generation": "968M",
                     "engine": "1.2 V4 (42 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "42/4200",
                     "powerHp": "42",
                     "powerRpm": "4200",
@@ -600,6 +647,7 @@
                     "yearstart": "1979",
                     "yearstop": "1994",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3765",
@@ -607,6 +655,7 @@
                     "height": "1425",
                     "heightMin": "1425",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "800",
                     "curbWeightMin": "800"
                   }
@@ -629,6 +678,7 @@
                     "generation": "968A",
                     "engine": "1.2 A (42 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "42/4200",
                     "powerHp": "42",
                     "powerRpm": "4200",
@@ -636,6 +686,7 @@
                     "yearstart": "1973",
                     "yearstop": "1979",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3730",
@@ -643,6 +694,7 @@
                     "height": "1400",
                     "heightMin": "1400",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   }
@@ -674,6 +726,7 @@
                     "generation": "Sens Sedan",
                     "engine": "1.3 i (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5500",
                     "powerHp": "70",
                     "powerRpm": "5500",
@@ -681,6 +734,7 @@
                     "yearstart": "2002",
                     "yearstop": "2018",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4237",
@@ -688,6 +742,7 @@
                     "height": "1432",
                     "heightMin": "1432",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1081",
                     "curbWeightMin": "1081"
                   }
@@ -710,6 +765,7 @@
                     "generation": "Sens Hatchback",
                     "engine": "1.3L (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/5500",
                     "powerHp": "70",
                     "powerRpm": "5500",
@@ -717,6 +773,7 @@
                     "yearstart": "2002",
                     "yearstop": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4074",
@@ -724,6 +781,7 @@
                     "height": "1432",
                     "heightMin": "1432",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1182",
                     "curbWeightMin": "1182"
                   }

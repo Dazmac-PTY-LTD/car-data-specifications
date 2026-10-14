@@ -26,13 +26,15 @@
                     "generation": "46",
                     "engine": "0.8 DE LUXE (34 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "34/",
                     "powerHp": "34",
                     "yearstart": "1974",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -53,13 +55,15 @@
                     "generation": "46 Combi",
                     "engine": "0.8 SUPER LUX (34 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "34",
                     "powerHp": "34",
                     "yearstart": "1974",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -89,13 +93,15 @@
                     "generation": "66",
                     "engine": "1.1 (48 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "48",
                     "powerHp": "48",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16642",
@@ -105,13 +111,15 @@
                     "generation": "66",
                     "engine": "1.1 SL (54 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "54",
                     "powerHp": "54",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16643",
@@ -121,13 +129,15 @@
                     "generation": "66",
                     "engine": "1300 MARATHON (57 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "57",
                     "powerHp": "57",
                     "yearstart": "1973",
                     "yearstop": "1975",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -148,15 +158,17 @@
                     "generation": "66 Coupe",
                     "engine": "1300 MARATHON (57 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "57/",
                     "powerHp": "57",
                     "yearstart": "1973",
                     "yearstop": "1975",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -177,13 +189,15 @@
                     "generation": "66 Combi",
                     "engine": "1.1 (48 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "48",
                     "powerHp": "48",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16646",
@@ -193,13 +207,15 @@
                     "generation": "66 Combi",
                     "engine": "1.1 MARATHON (54 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "54",
                     "powerHp": "54",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "16647",
@@ -209,13 +225,15 @@
                     "generation": "66 Combi",
                     "engine": "1300 MARATHON (57 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "57",
                     "powerHp": "57",
                     "yearstart": "1973",
                     "yearstop": "1975",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

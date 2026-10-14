@@ -26,6 +26,7 @@
                     "generation": "S1",
                     "engine": "4.6 i V8 32V (325 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "325/5900",
                     "powerHp": "325",
                     "powerRpm": "5900",
@@ -33,6 +34,7 @@
                     "yearstart": "2004",
                     "yearstop": "2012",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4400",
@@ -40,6 +42,7 @@
                     "height": "1225",
                     "heightMin": "1225",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1200",
                     "curbWeightMin": "1200"
                   }

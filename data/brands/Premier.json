@@ -26,6 +26,7 @@
                     "generation": "118",
                     "engine": "1.2 (53 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "53/5600",
                     "powerHp": "53",
                     "powerRpm": "5600",
@@ -33,6 +34,7 @@
                     "yearstart": "1986",
                     "yearstop": "2001",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4050",
@@ -40,6 +42,7 @@
                     "height": "1435",
                     "heightMin": "1435",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "900",
                     "curbWeightMin": "900"
                   }
@@ -71,6 +74,7 @@
                     "generation": "Padmini",
                     "engine": "1.1 (42 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "42/4800",
                     "powerHp": "42",
                     "powerRpm": "4800",
@@ -78,6 +82,7 @@
                     "yearstart": "1964",
                     "yearstop": "2000",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3930",
@@ -85,6 +90,7 @@
                     "height": "1470",
                     "heightMin": "1470",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "895",
                     "curbWeightMin": "895"
                   }

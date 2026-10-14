@@ -26,8 +26,10 @@
                     "generation": "Pony",
                     "engine": "13.7 kWh (27 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3162",
@@ -35,6 +37,7 @@
                     "height": "1580",
                     "heightMin": "1580",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "740",
                     "curbWeightMin": "740"
                   }

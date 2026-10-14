@@ -26,12 +26,14 @@
                     "generation": "Stradale",
                     "engine": "2.3 (400 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "400/6200",
                     "powerHp": "400",
                     "powerRpm": "6200",
                     "powerRpmLow": "6200",
                     "yearstart": "2017",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4185",
@@ -39,6 +41,7 @@
                     "height": "1041",
                     "heightMin": "1041",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "855",
                     "curbWeightMin": "855"
                   }

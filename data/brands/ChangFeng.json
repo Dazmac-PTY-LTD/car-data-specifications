@@ -26,11 +26,13 @@
                     "generation": "Flying",
                     "engine": "2.2 (103 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103",
                     "powerHp": "103",
                     "yearstart": "2007",
                     "yearstop": "2016",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -38,6 +40,7 @@
                     "height": "1655",
                     "heightMin": "1655",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1500",
                     "curbWeightMin": "1500"
                   },
@@ -49,11 +52,13 @@
                     "generation": "Flying",
                     "engine": "2.7 TD (92 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "92",
                     "powerHp": "92",
                     "yearstart": "2007",
                     "yearstop": "2016",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5190",
@@ -61,6 +66,7 @@
                     "height": "1655",
                     "heightMin": "1655",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1580",
                     "curbWeightMin": "1580"
                   }
@@ -92,11 +98,13 @@
                     "generation": "SUV",
                     "engine": "2.3 (103 Hp) AWD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "103/",
                     "powerHp": "103",
                     "yearstart": "2007",
                     "yearstop": "2009",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "1,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5065",
@@ -106,7 +114,7 @@
                     "rideHeight": "225",
                     "rideHeightMin": "225",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

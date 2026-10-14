@@ -26,8 +26,10 @@
                     "generation": "L8",
                     "engine": "1.5T 18.4 kWh (279 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4688",
@@ -35,7 +37,7 @@
                     "height": "1686",
                     "heightMin": "1686",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -65,8 +67,10 @@
                     "generation": "L6",
                     "engine": "1.5T 18.4 kWh (279 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4552",
@@ -74,7 +78,7 @@
                     "height": "1682",
                     "heightMin": "1682",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "56907",
@@ -84,8 +88,10 @@
                     "generation": "L6",
                     "engine": "67.08 kWh (242 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -93,6 +99,7 @@
                     "height": "1683",
                     "heightMin": "1683",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1780",
                     "curbWeightMin": "1780"
                   }
@@ -124,12 +131,14 @@
                     "generation": "L4",
                     "engine": "1.5L (109 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "109/6300",
                     "powerHp": "109",
                     "powerRpm": "6300",
                     "powerRpmLow": "6300",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4406",
@@ -139,7 +148,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "56849",
@@ -149,12 +158,14 @@
                     "generation": "L4",
                     "engine": "1.5T (147 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "147/5500",
                     "powerHp": "147",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4406",
@@ -164,7 +175,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "56904",
@@ -174,8 +185,10 @@
                     "generation": "L4",
                     "engine": "1.5T 18.3 kWh (218 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4406",
@@ -183,7 +196,7 @@
                     "height": "1635",
                     "heightMin": "1635",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "56905",
@@ -193,8 +206,10 @@
                     "generation": "L4",
                     "engine": "67.08 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4420",
@@ -202,6 +217,7 @@
                     "height": "1655",
                     "heightMin": "1655",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1781",
                     "curbWeightMin": "1781"
                   }

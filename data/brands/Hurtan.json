@@ -26,11 +26,13 @@
                     "generation": "Albaycin",
                     "engine": "1.6 16V (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110",
                     "powerHp": "110",
                     "yearstart": "1997",
                     "yearstop": "2007",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -38,7 +40,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -68,10 +70,12 @@
                     "generation": "Cabriolet 2+2",
                     "engine": "1.6 16V (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110",
                     "powerHp": "110",
                     "yearstart": "2004",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -79,7 +83,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -109,10 +113,12 @@
                     "generation": "Grand Albaycin",
                     "engine": "1.6 16 V (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110",
                     "powerHp": "110",
                     "yearstart": "2008",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -120,7 +126,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "13313",
@@ -130,10 +136,12 @@
                     "generation": "Grand Albaycin",
                     "engine": "2.0 16V (178 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "178/",
                     "powerHp": "178",
                     "yearstart": "2008",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -141,6 +149,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "900",
                     "curbWeightMin": "900"
                   },
@@ -152,10 +161,12 @@
                     "generation": "Grand Albaycin",
                     "engine": "2.0 16V (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200/",
                     "powerHp": "200",
                     "yearstart": "2008",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -163,6 +174,7 @@
                     "height": "1300",
                     "heightMin": "1300",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "900",
                     "curbWeightMin": "900"
                   }

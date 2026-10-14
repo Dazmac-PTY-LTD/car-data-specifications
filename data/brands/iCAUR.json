@@ -26,8 +26,10 @@
                     "generation": "03",
                     "engine": "69.8 kWh (279 Hp) iWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4406",
@@ -37,6 +39,7 @@
                     "rideHeight": "195",
                     "rideHeightMin": "195",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1874",
                     "curbWeightMin": "1874"
                   },
@@ -48,8 +51,10 @@
                     "generation": "03",
                     "engine": "65.7 kWh (184 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4406",
@@ -59,6 +64,7 @@
                     "rideHeight": "195",
                     "rideHeightMin": "195",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1775",
                     "curbWeightMin": "1775"
                   }
@@ -90,8 +96,10 @@
                     "generation": "V27",
                     "engine": "1.5T 34.31 kWh (252 Hp) Range Extender",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "yearstart": "2026",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5045",
@@ -101,7 +109,7 @@
                     "rideHeight": "224",
                     "rideHeightMin": "224",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "57763",
@@ -111,8 +119,10 @@
                     "generation": "V27",
                     "engine": "1.5T 34.31 kWh (456 Hp) Range Extender iWD",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "yearstart": "2026",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5045",
@@ -122,7 +132,7 @@
                     "rideHeight": "224",
                     "rideHeightMin": "224",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }

@@ -26,8 +26,10 @@
                     "generation": "FXE",
                     "engine": "6.3 V8 (1150 Hp) Hybrid AWD DCT",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4470",
@@ -35,6 +37,7 @@
                     "height": "1139",
                     "heightMin": "1139",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1520",
                     "curbWeightMin": "1520"
                   }

@@ -26,12 +26,14 @@
                     "generation": "Gentra",
                     "engine": "1.5 (107 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "107/5800",
                     "powerHp": "107",
                     "powerRpm": "5800",
                     "powerRpmLow": "5800",
                     "yearstart": "2015",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4515",
@@ -39,6 +41,7 @@
                     "height": "1445",
                     "heightMin": "1445",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1300",
                     "curbWeightMin": "1300"
                   },
@@ -50,12 +53,14 @@
                     "generation": "Gentra",
                     "engine": "1.5 (107 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "107/5800",
                     "powerHp": "107",
                     "powerRpm": "5800",
                     "powerRpmLow": "5800",
                     "yearstart": "2015",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4515",
@@ -63,6 +68,7 @@
                     "height": "1445",
                     "heightMin": "1445",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1245",
                     "curbWeightMin": "1245"
                   }
@@ -94,12 +100,14 @@
                     "generation": "R2",
                     "engine": "1.25 (85 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/6400",
                     "powerHp": "85",
                     "powerRpm": "6400",
                     "powerRpmLow": "6400",
                     "yearstart": "2016",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3640",
@@ -107,6 +115,7 @@
                     "height": "1522",
                     "heightMin": "1522",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1054",
                     "curbWeightMin": "1054"
                   }
@@ -138,12 +147,14 @@
                     "generation": "R4",
                     "engine": "1.5 (106 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/5800",
                     "powerHp": "106",
                     "powerRpm": "5800",
                     "powerRpmLow": "5800",
                     "yearstart": "2016",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4479",
@@ -151,7 +162,7 @@
                     "height": "1514",
                     "heightMin": "1514",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "34071",
@@ -161,12 +172,14 @@
                     "generation": "R4",
                     "engine": "1.5 (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/5800",
                     "powerHp": "106",
                     "powerRpm": "5800",
                     "powerRpmLow": "5800",
                     "yearstart": "2016",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4479",
@@ -174,7 +187,7 @@
                     "height": "1514",
                     "heightMin": "1514",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

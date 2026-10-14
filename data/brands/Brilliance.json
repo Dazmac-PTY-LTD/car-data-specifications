@@ -26,12 +26,14 @@
                     "generation": "A1",
                     "engine": "1.6i (107 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "107/6200",
                     "powerHp": "107",
                     "powerRpm": "6200",
                     "powerRpmLow": "6200",
                     "yearstart": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4180",
@@ -39,7 +41,7 @@
                     "height": "1460",
                     "heightMin": "1460",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -69,11 +71,13 @@
                     "generation": "BS6",
                     "engine": "2.0 (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122/",
                     "powerHp": "122",
                     "yearstart": "2004",
                     "yearstop": "2008",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4880",
@@ -81,6 +85,7 @@
                     "height": "1430",
                     "heightMin": "1430",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1445",
                     "curbWeightMin": "1445"
                   }
@@ -112,6 +117,7 @@
                     "generation": "M1(Zhonghua)",
                     "engine": "2.0 (129 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "129/6000",
                     "powerHp": "129",
                     "powerRpm": "6000",
@@ -119,6 +125,7 @@
                     "yearstart": "2000",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -126,6 +133,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   },
@@ -137,6 +145,7 @@
                     "generation": "M1(Zhonghua)",
                     "engine": "2.4 (136 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "136/5500",
                     "powerHp": "136",
                     "powerRpm": "5500",
@@ -144,6 +153,7 @@
                     "yearstart": "2000",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -151,6 +161,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -182,6 +193,7 @@
                     "generation": "M2(JunJie)",
                     "engine": "1.6 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/6000",
                     "powerHp": "100",
                     "powerRpm": "6000",
@@ -189,6 +201,7 @@
                     "yearstart": "2006",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4648",
@@ -196,6 +209,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1455",
                     "curbWeightMin": "1455"
                   },
@@ -207,6 +221,7 @@
                     "generation": "M2(JunJie)",
                     "engine": "1.8 (136 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "136/6500",
                     "powerHp": "136",
                     "powerRpm": "6500",
@@ -214,6 +229,7 @@
                     "yearstart": "2006",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4648",
@@ -221,6 +237,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1480",
                     "curbWeightMin": "1480"
                   },
@@ -232,6 +249,7 @@
                     "generation": "M2(JunJie)",
                     "engine": "1.8 T (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5500",
                     "powerHp": "170",
                     "powerRpm": "5500",
@@ -239,6 +257,7 @@
                     "yearstart": "2006",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4648",
@@ -246,6 +265,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1455",
                     "curbWeightMin": "1455"
                   },
@@ -257,6 +277,7 @@
                     "generation": "M2(JunJie)",
                     "engine": "2.0 (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130/6000",
                     "powerHp": "130",
                     "powerRpm": "6000",
@@ -264,6 +285,7 @@
                     "yearstart": "2006",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4648",
@@ -271,6 +293,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1455",
                     "curbWeightMin": "1455"
                   }
@@ -302,6 +325,7 @@
                     "generation": "M3",
                     "engine": "1.8i R4 16V Turbo (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5500",
                     "powerHp": "170",
                     "powerRpm": "5500",
@@ -309,10 +333,11 @@
                     "yearstart": "2008",
                     "yearstop": "2011",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -342,6 +367,7 @@
                     "generation": "BS4",
                     "engine": "1.6 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/6000",
                     "powerHp": "100",
                     "powerRpm": "6000",
@@ -349,8 +375,9 @@
                     "yearstart": "2008",
                     "yearstop": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -380,12 +407,14 @@
                     "generation": "V3",
                     "engine": "1.5 (112 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "112/6000",
                     "powerHp": "112",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2015",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -395,6 +424,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1350",
                     "curbWeightMin": "1350"
                   },
@@ -406,12 +436,14 @@
                     "generation": "V3",
                     "engine": "1.5 (112 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "112/6000",
                     "powerHp": "112",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2015",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -421,6 +453,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1350",
                     "curbWeightMin": "1350"
                   },
@@ -432,6 +465,7 @@
                     "generation": "V3",
                     "engine": "1.5 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -439,6 +473,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2015",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -448,6 +483,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1350",
                     "curbWeightMin": "1350"
                   },
@@ -459,6 +495,7 @@
                     "generation": "V3",
                     "engine": "1.5 (150 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -466,6 +503,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2015",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4200",
@@ -475,6 +513,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1350",
                     "curbWeightMin": "1350"
                   }

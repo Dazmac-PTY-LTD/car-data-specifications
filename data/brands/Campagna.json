@@ -26,12 +26,14 @@
                     "generation": "T-REX 16S",
                     "engine": "1.6 V6 (160 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160/7750",
                     "powerHp": "160",
                     "powerRpm": "7750",
                     "powerRpmLow": "7750",
                     "yearstart": "2017",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3500",
@@ -39,6 +41,7 @@
                     "height": "1067",
                     "heightMin": "1067",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "525",
                     "curbWeightMin": "525"
                   }
@@ -70,10 +73,12 @@
                     "generation": "V13R",
                     "engine": "V-twin (122 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "122",
                     "powerHp": "122",
                     "yearstart": "2017",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3530",
@@ -81,6 +86,7 @@
                     "height": "1067",
                     "heightMin": "1067",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "525",
                     "curbWeightMin": "525"
                   }

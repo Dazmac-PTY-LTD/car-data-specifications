@@ -26,8 +26,10 @@
                     "generation": "Vision-S 01",
                     "engine": "(544 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4895",
@@ -38,6 +40,7 @@
                     "rideHeightMin": "119",
                     "rideHeightMax": "135",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2350",
                     "curbWeightMin": "2350"
                   }
@@ -60,8 +63,10 @@
                     "generation": "Vision-S Concept",
                     "engine": "(544 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4895",
@@ -72,6 +77,7 @@
                     "rideHeightMin": "120",
                     "rideHeightMax": "135",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2350",
                     "curbWeightMin": "2350"
                   }
@@ -103,8 +109,10 @@
                     "generation": "Vision-S 02",
                     "engine": "(544 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4895",
@@ -114,6 +122,7 @@
                     "rideHeight": "157",
                     "rideHeightMin": "157",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2480",
                     "curbWeightMin": "2480"
                   }

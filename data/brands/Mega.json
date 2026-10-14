@@ -26,6 +26,7 @@
                     "generation": "Club",
                     "engine": "1.4 i (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/6200",
                     "powerHp": "75",
                     "powerRpm": "6200",
@@ -33,6 +34,7 @@
                     "yearstart": "1992",
                     "yearstop": "1998",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3775",
@@ -40,6 +42,7 @@
                     "height": "1460",
                     "heightMin": "1460",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1315",
                     "curbWeightMin": "1315"
                   }
@@ -71,6 +74,7 @@
                     "generation": "Monte Carlo",
                     "engine": "6.0 i 12V 48V (394 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "394/5200",
                     "powerHp": "394",
                     "powerRpm": "5200",
@@ -78,6 +82,7 @@
                     "yearstart": "1996",
                     "yearstop": "1999",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4450",
@@ -85,6 +90,7 @@
                     "height": "1190",
                     "heightMin": "1190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1500",
                     "curbWeightMin": "1500"
                   }
@@ -116,6 +122,7 @@
                     "generation": "Track",
                     "engine": "6.0 i V12 (394 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "394/5200",
                     "powerHp": "394",
                     "powerRpm": "5200",
@@ -123,6 +130,7 @@
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5080",
@@ -130,6 +138,7 @@
                     "height": "1400",
                     "heightMin": "1400",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2280",
                     "curbWeightMin": "2280"
                   }
@@ -161,8 +170,10 @@
                     "generation": "e-Scouty",
                     "engine": "7.44 kWh (8 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Quadricycle",
+                    "coupeId": "22",
                     "places": "2",
                     "placesMin": "2",
                     "length": "2632",
@@ -170,6 +181,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "385",
                     "curbWeightMin": "385"
                   }

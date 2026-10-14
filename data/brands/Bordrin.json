@@ -26,8 +26,10 @@
                     "generation": "iV6",
                     "engine": "Standard (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4700",
@@ -35,7 +37,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "37154",
@@ -45,8 +47,10 @@
                     "generation": "iV6",
                     "engine": "Long Range (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4700",
@@ -54,7 +58,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "37155",
@@ -64,8 +68,10 @@
                     "generation": "iV6",
                     "engine": "Performance (313 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4700",
@@ -73,7 +79,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

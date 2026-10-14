@@ -26,11 +26,13 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "1.5L 31.73 kWh (238 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -38,7 +40,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53686",
@@ -48,11 +50,13 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "1.5L 39.05 kWh (258 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -60,7 +64,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53687",
@@ -70,9 +74,11 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "68.82 kWh (258 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -80,7 +86,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56079",
@@ -90,12 +96,14 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "1.5L 31.73 kWh (258 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "98/5600",
                     "powerHp": "98",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -103,7 +111,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "56080",
@@ -113,12 +121,14 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "1.5L 39.05 kWh (272 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "98/5600",
                     "powerHp": "98",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -126,18 +136,20 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "56081",
-                    "update": "2026-01-09 16:16:18",
+                    "update": "2026-10-13 10:23:13",
                     "brand": "Deepal",
                     "model": "S07",
                     "generation": "S07 (facelift 2024)",
                     "engine": "68.82 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -145,18 +157,20 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56082",
-                    "update": "2026-01-09 16:16:18",
+                    "update": "2026-10-13 10:23:31",
                     "brand": "Deepal",
                     "model": "S07",
                     "generation": "S07 (facelift 2024)",
                     "engine": "77.94 kWh (258 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4570",
@@ -164,7 +178,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57963",
@@ -174,8 +188,10 @@
                     "generation": "S07 (facelift 2024)",
                     "engine": "79.97 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -185,6 +201,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2073",
                     "curbWeightMin": "2073"
                   }
@@ -207,6 +224,7 @@
                     "generation": "S7",
                     "engine": "1.5L 19 kWh (238 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95/5000",
                     "powerHp": "95",
                     "powerRpm": "5000",
@@ -214,6 +232,7 @@
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -221,6 +240,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1895",
                     "curbWeightMin": "1895"
                   },
@@ -232,6 +252,7 @@
                     "generation": "S7",
                     "engine": "1.5L 31.7 kWh (238 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95/5000",
                     "powerHp": "95",
                     "powerRpm": "5000",
@@ -239,6 +260,7 @@
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -246,6 +268,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1990",
                     "curbWeightMin": "1990"
                   },
@@ -257,9 +280,11 @@
                     "generation": "S7",
                     "engine": "80 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -267,6 +292,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2035",
                     "curbWeightMin": "2035"
                   },
@@ -278,9 +304,11 @@
                     "generation": "S7",
                     "engine": "66.8 kWh (258 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4750",
@@ -288,6 +316,7 @@
                     "height": "1625",
                     "heightMin": "1625",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1950",
                     "curbWeightMin": "1950"
                   }
@@ -319,10 +348,12 @@
                     "generation": "S05",
                     "engine": "1.5L 27.28 kWh (218 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "98",
                     "powerHp": "98",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -330,6 +361,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2210",
                     "curbWeightMin": "2210"
                   },
@@ -341,8 +373,10 @@
                     "generation": "S05",
                     "engine": "56.12 kWh (238 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -350,18 +384,20 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "55471",
-                    "update": "2026-09-23 08:52:14",
+                    "update": "2026-10-13 09:54:09",
                     "brand": "Deepal",
                     "model": "S05",
                     "generation": "S05",
                     "engine": "68.8 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4598",
@@ -369,19 +405,22 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1940",
                     "curbWeightMin": "1940"
                   },
                   {
                     "id": "55472",
-                    "update": "2026-09-23 08:52:14",
+                    "update": "2026-10-13 09:54:24",
                     "brand": "Deepal",
                     "model": "S05",
                     "generation": "S05",
                     "engine": "68.8 kWh (435 Hp) AWD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4598",
@@ -389,6 +428,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   },
@@ -400,8 +440,10 @@
                     "generation": "S05",
                     "engine": "56.12 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4620",
@@ -409,6 +451,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1770",
                     "curbWeightMin": "1770"
                   }
@@ -440,10 +483,12 @@
                     "generation": "SL03",
                     "engine": "1.5L 18.99 kWh (238 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "2022",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -451,7 +496,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53713",
@@ -461,10 +506,12 @@
                     "generation": "SL03",
                     "engine": "1.5L 28.39 kWh (218 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "95",
                     "powerHp": "95",
                     "yearstart": "2022",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -472,7 +519,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53714",
@@ -482,8 +529,10 @@
                     "generation": "SL03",
                     "engine": "56.1 kWh (258 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -491,7 +540,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "53715",
@@ -501,8 +550,10 @@
                     "generation": "SL03",
                     "engine": "58.1 kWh (258 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4820",
@@ -510,7 +561,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -540,8 +591,10 @@
                     "generation": "L07",
                     "engine": "56.12 kWh (252 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4875",
@@ -549,7 +602,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "53722",
@@ -559,12 +612,14 @@
                     "generation": "L07",
                     "engine": "1.5L 28.39 kWh (218 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "98/5600",
                     "powerHp": "98",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4875",
@@ -572,7 +627,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53723",
@@ -582,12 +637,14 @@
                     "generation": "L07",
                     "engine": "1.5L 35.07 kWh (258 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "98/5600",
                     "powerHp": "98",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4875",
@@ -595,7 +652,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -625,12 +682,14 @@
                     "generation": "G318",
                     "engine": "1.5T 18.99 kWh (252 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5010",
@@ -640,7 +699,7 @@
                     "rideHeight": "210",
                     "rideHeightMin": "210",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53729",
@@ -650,12 +709,14 @@
                     "generation": "G318",
                     "engine": "1.5T 35.07 kWh (252 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5010",
@@ -666,7 +727,7 @@
                     "rideHeightMin": "210",
                     "rideHeightMax": "240",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53730",
@@ -676,12 +737,14 @@
                     "generation": "G318",
                     "engine": "1.5T 35.07 kWh (430 Hp) 4WD Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5010",
@@ -693,7 +756,7 @@
                     "rideHeightMin": "210",
                     "rideHeightMax": "240",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -723,8 +786,10 @@
                     "generation": "E07",
                     "engine": "89.98 kWh (343 Hp) Electric RWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5045",
@@ -735,7 +800,7 @@
                     "rideHeightMin": "133",
                     "rideHeightMax": "223",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "55113",
@@ -745,8 +810,10 @@
                     "generation": "E07",
                     "engine": "89.98 kWh (598 Hp) Electric AWD Performance",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5045",
@@ -757,7 +824,7 @@
                     "rideHeightMin": "133",
                     "rideHeightMax": "223",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -787,12 +854,14 @@
                     "generation": "S09",
                     "engine": "1.5T 40.18 kWh (314 Hp) Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5205",
@@ -800,6 +869,7 @@
                     "height": "1800",
                     "heightMin": "1800",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2510-2590",
                     "curbWeightMin": "2510",
                     "curbWeightMax": "2590"
@@ -812,12 +882,14 @@
                     "generation": "S09",
                     "engine": "1.5T 40.18 kWh (492 Hp) 4WD Extended Range",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5000",
                     "powerHp": "150",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5205",
@@ -825,6 +897,7 @@
                     "height": "1800",
                     "heightMin": "1800",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2668",
                     "curbWeightMin": "2668"
                   }
@@ -856,10 +929,12 @@
                     "generation": "Hunter K50",
                     "engine": "2.0 T-GDI 31.18 kWh (272 Hp) REEV AWD",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "190",
                     "powerHp": "190",
                     "yearstart": "2025",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5380",
@@ -869,7 +944,7 @@
                     "rideHeight": "220",
                     "rideHeightMin": "220",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -899,8 +974,10 @@
                     "generation": "L06",
                     "engine": "56.12 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4830",
@@ -908,6 +985,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1750",
                     "curbWeightMin": "1750"
                   },
@@ -919,8 +997,10 @@
                     "generation": "L06",
                     "engine": "68.82 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4830",
@@ -928,6 +1008,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1830",
                     "curbWeightMin": "1830"
                   }

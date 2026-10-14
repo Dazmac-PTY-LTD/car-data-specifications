@@ -26,12 +26,14 @@
                     "generation": "Venice",
                     "engine": "1.4 T (180 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "180/4950",
                     "powerHp": "180",
                     "powerRpm": "4950",
                     "powerRpmLow": "4950",
                     "yearstart": "2017",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3581",
@@ -41,6 +43,7 @@
                     "rideHeight": "114",
                     "rideHeightMin": "114",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "658",
                     "curbWeightMin": "658"
                   }
@@ -72,10 +75,12 @@
                     "generation": "Carmel",
                     "engine": "1.5 Turbo (194 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "194",
                     "powerHp": "194",
                     "yearstart": "2019",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3700",
@@ -83,6 +88,7 @@
                     "height": "1270",
                     "heightMin": "1270",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "723",
                     "curbWeightMin": "723"
                   }

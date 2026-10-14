@@ -26,12 +26,14 @@
                     "generation": "Sarthe",
                     "engine": "6.3 V8 (622 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "622/6500",
                     "powerHp": "622",
                     "powerRpm": "6500",
                     "powerRpmLow": "6500",
                     "yearstart": "2015",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4515",
@@ -39,6 +41,7 @@
                     "height": "1190",
                     "heightMin": "1190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1390",
                     "curbWeightMin": "1390"
                   }

@@ -26,13 +26,15 @@
                     "generation": "Smart Cabrio",
                     "engine": "0.6 (55 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "55",
                     "powerHp": "55",
                     "yearstart": "2000",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -53,13 +55,15 @@
                     "generation": "Smart (MC01)",
                     "engine": "0.6 (45 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "45",
                     "powerHp": "45",
                     "yearstart": "1998",
                     "yearstop": "2000",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "12409",
@@ -69,13 +73,15 @@
                     "generation": "Smart (MC01)",
                     "engine": "0.6 (55 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "55",
                     "powerHp": "55",
                     "yearstart": "1998",
                     "yearstop": "2000",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "12410",
@@ -85,13 +91,15 @@
                     "generation": "Smart (MC01)",
                     "engine": "0.8 CDI (41 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "41",
                     "powerHp": "41",
                     "yearstart": "1999",
                     "yearstop": "2000",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

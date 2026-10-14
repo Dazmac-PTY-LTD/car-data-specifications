@@ -26,6 +26,7 @@
                     "generation": "IE",
                     "engine": "6.3 V12 (780 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "780/8500",
                     "powerHp": "780",
                     "powerRpm": "8500",
@@ -33,6 +34,7 @@
                     "yearstart": "2017",
                     "yearstop": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "5066",
@@ -42,6 +44,7 @@
                     "rideHeight": "110",
                     "rideHeightMin": "110",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1250",
                     "curbWeightMin": "1250"
                   }

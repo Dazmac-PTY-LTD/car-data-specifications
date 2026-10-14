@@ -26,6 +26,7 @@
                     "generation": "AERO 3",
                     "engine": "6.3 V12 (740 Hp) DCT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "740/8250",
                     "powerHp": "740",
                     "powerRpm": "8250",
@@ -33,6 +34,7 @@
                     "yearstart": "2020",
                     "yearstop": "2024",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4800",
@@ -40,6 +42,7 @@
                     "height": "1274",
                     "heightMin": "1274",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1495",
                     "curbWeightMin": "1495"
                   }

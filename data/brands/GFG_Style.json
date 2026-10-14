@@ -26,8 +26,10 @@
                     "generation": "Kangaroo Concept",
                     "engine": "90 kWh (490 Hp) AWD Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4600",
@@ -39,7 +41,7 @@
                     "rideHeightMin": "140",
                     "rideHeightMax": "260",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -69,8 +71,10 @@
                     "generation": "Sibylla GG80 Concept",
                     "engine": "75 kWh (816 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "5141",
@@ -78,7 +82,7 @@
                     "height": "1483",
                     "heightMin": "1483",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

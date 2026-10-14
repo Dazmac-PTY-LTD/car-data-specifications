@@ -26,12 +26,14 @@
                     "generation": "XTR",
                     "engine": "5.5 V12 (720 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "720/5850",
                     "powerHp": "720",
                     "powerRpm": "5850",
                     "powerRpmLow": "5850",
                     "yearstart": "2015",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4900",
@@ -40,6 +42,7 @@
                     "heightMin": "1220",
                     "heightMax": "1275",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1360",
                     "curbWeightMin": "1360"
                   }

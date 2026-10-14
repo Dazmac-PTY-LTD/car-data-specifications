@@ -26,12 +26,14 @@
                     "generation": "Coupe",
                     "engine": "1.6 16V (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106",
                     "powerHp": "106",
                     "yearstart": "1997",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -61,13 +63,15 @@
                     "generation": "GT",
                     "engine": "3.6 (200 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "200",
                     "powerHp": "200",
                     "yearstart": "1988",
                     "yearstop": "1990",
                     "coupe": "Grand Tourer",
+                    "coupeId": "18",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -97,13 +101,15 @@
                     "generation": "Omega Caravan",
                     "engine": "4.0 i (272 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "272",
                     "powerHp": "272",
                     "yearstart": "1990",
                     "yearstop": "1996",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -133,13 +139,15 @@
                     "generation": "Senator",
                     "engine": "4.0 i 24V (272 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "272",
                     "powerHp": "272",
                     "yearstart": "1990",
                     "yearstop": "1996",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

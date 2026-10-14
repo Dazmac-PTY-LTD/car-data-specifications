@@ -26,8 +26,10 @@
                     "generation": "Sion",
                     "engine": "54 kWh (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4470",
@@ -38,6 +40,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1730",
                     "curbWeightMin": "1730"
                   }

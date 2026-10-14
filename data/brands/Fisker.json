@@ -26,8 +26,10 @@
                     "generation": "EMotion EV",
                     "engine": "145 kWh (780 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4-5",
                     "placesMin": "4",
                     "placesMax": "5",
@@ -36,7 +38,7 @@
                     "height": "1465",
                     "heightMin": "1465",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -66,9 +68,11 @@
                     "generation": "Ocean",
                     "engine": "Extreme/One 113 kWh Hyper Range (564 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4775",
@@ -80,6 +84,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "180",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2436",
                     "curbWeightMin": "2436"
                   },
@@ -91,9 +96,11 @@
                     "generation": "Ocean",
                     "engine": "Sport 73 kWh Touring Range (282 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4775",
@@ -105,6 +112,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "180",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2193",
                     "curbWeightMin": "2193"
                   },
@@ -116,9 +124,11 @@
                     "generation": "Ocean",
                     "engine": "Ultra 113 kWh Hyper Range (564 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4775",
@@ -130,6 +140,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "180",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2436",
                     "curbWeightMin": "2436"
                   }
@@ -161,6 +172,7 @@
                     "generation": "Karma",
                     "engine": "2.0 (408 Hp) Plug-in Hybrid",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "260/5300",
                     "powerHp": "260",
                     "powerRpm": "5300",
@@ -168,6 +180,7 @@
                     "yearstart": "2011",
                     "yearstop": "2012",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4996",
@@ -177,6 +190,7 @@
                     "rideHeight": "138",
                     "rideHeightMin": "138",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2505",
                     "curbWeightMin": "2505"
                   }

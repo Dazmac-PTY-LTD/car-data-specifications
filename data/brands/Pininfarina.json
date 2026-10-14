@@ -26,8 +26,10 @@
                     "generation": "HK GT",
                     "engine": "38Kwh (1088 Hp) AWD Automatic",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4980",
@@ -35,7 +37,7 @@
                     "height": "1365",
                     "heightMin": "1365",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -65,8 +67,10 @@
                     "generation": "H2 Speed",
                     "engine": "(653 Hp) Electric-Hydrogen",
                     "powertrain": "FCEV (Fuel Cell Electric Vehicle)",
+                    "powertrainId": "7",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4730",
@@ -74,6 +78,7 @@
                     "height": "1113",
                     "heightMin": "1113",
                     "fuel": "Hydrogen / electricity",
+                    "fuelId": "12",
                     "curbWeight": "1430",
                     "curbWeightMin": "1430"
                   }
@@ -105,12 +110,14 @@
                     "generation": "Battista",
                     "engine": "120 kWh (1900 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }

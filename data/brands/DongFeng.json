@@ -26,11 +26,13 @@
                     "generation": "MPV",
                     "engine": "2.0i (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/",
                     "powerHp": "110",
                     "yearstart": "2007",
                     "yearstop": "2009",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5050",
@@ -38,6 +40,7 @@
                     "height": "1690",
                     "heightMin": "1690",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1750",
                     "curbWeightMin": "1750"
                   }
@@ -69,13 +72,15 @@
                     "generation": "Oting",
                     "engine": "2.4i (130 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "130",
                     "powerHp": "130",
                     "yearstart": "2007",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "3069",
@@ -85,11 +90,13 @@
                     "generation": "Oting",
                     "engine": "2.4 (150 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "yearstart": "2007",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -119,11 +126,13 @@
                     "generation": "Rich",
                     "engine": "2.4 (139 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "yearstart": "2007",
                     "yearstop": "2009",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -153,13 +162,15 @@
                     "generation": "ZND",
                     "engine": "3.2D (115 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115",
                     "powerHp": "115",
                     "yearstart": "2007",
                     "yearstop": "2013",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -189,8 +200,10 @@
                     "generation": "Fengon E3",
                     "engine": "EV 53.6 kWh (163 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4385",
@@ -200,6 +213,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   }
@@ -231,6 +245,7 @@
                     "generation": "Fengshen A9",
                     "engine": "1.8 THP (204 Hp) Tiptronic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "204/5500",
                     "powerHp": "204",
                     "powerRpm": "5500",
@@ -238,6 +253,7 @@
                     "yearstart": "2016",
                     "yearstop": "2019",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5066",
@@ -247,6 +263,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1660",
                     "curbWeightMin": "1660"
                   }
@@ -278,8 +295,10 @@
                     "generation": "Nammi 01",
                     "engine": "Standard Range 31.45 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4030",
@@ -287,6 +306,7 @@
                     "height": "1570",
                     "heightMin": "1570",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1235",
                     "curbWeightMin": "1235"
                   },
@@ -298,8 +318,10 @@
                     "generation": "Nammi 01",
                     "engine": "Long Range 42.3 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4030",
@@ -307,6 +329,7 @@
                     "height": "1570",
                     "heightMin": "1570",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1312",
                     "curbWeightMin": "1312"
                   }
@@ -338,8 +361,10 @@
                     "generation": "Box",
                     "engine": "42.3 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4030",
@@ -347,7 +372,7 @@
                     "height": "1570",
                     "heightMin": "1570",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "54128",
@@ -357,8 +382,10 @@
                     "generation": "Box",
                     "engine": "31.45 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4030",
@@ -368,6 +395,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1235",
                     "curbWeightMin": "1235"
                   }
@@ -399,12 +427,14 @@
                     "generation": "Paladin (facelift 2024)",
                     "engine": "2.0T (218 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "218/5600",
                     "powerHp": "218",
                     "powerRpm": "5600",
                     "powerRpmLow": "5600",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4903",
@@ -414,6 +444,7 @@
                     "rideHeight": "243",
                     "rideHeightMin": "243",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1950",
                     "curbWeightMin": "1950"
                   }
@@ -436,6 +467,7 @@
                     "generation": "Paladin",
                     "engine": "2.0T (228 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "228/5600",
                     "powerHp": "228",
                     "powerRpm": "5600",
@@ -443,6 +475,7 @@
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4882",
@@ -452,6 +485,7 @@
                     "rideHeight": "215",
                     "rideHeightMin": "215",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1890",
                     "curbWeightMin": "1890"
                   },
@@ -463,6 +497,7 @@
                     "generation": "Paladin",
                     "engine": "2.0T (228 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "228/5600",
                     "powerHp": "228",
                     "powerRpm": "5600",
@@ -470,6 +505,7 @@
                     "yearstart": "2023",
                     "yearstop": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4882",
@@ -479,6 +515,7 @@
                     "rideHeight": "215",
                     "rideHeightMin": "215",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1950",
                     "curbWeightMin": "1950"
                   }
@@ -510,10 +547,12 @@
                     "generation": "e pi 007",
                     "engine": "1.5L 28.4 kWh (218 Hp) EREV",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "105",
                     "powerHp": "105",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -523,6 +562,7 @@
                     "rideHeight": "163",
                     "rideHeightMin": "163",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1830",
                     "curbWeightMin": "1830"
                   },
@@ -534,8 +574,10 @@
                     "generation": "e pi 007",
                     "engine": "56.83 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -545,6 +587,7 @@
                     "rideHeight": "163",
                     "rideHeightMin": "163",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1767",
                     "curbWeightMin": "1767"
                   },
@@ -556,8 +599,10 @@
                     "generation": "e pi 007",
                     "engine": "70.26 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -567,6 +612,7 @@
                     "rideHeight": "163",
                     "rideHeightMin": "163",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1852",
                     "curbWeightMin": "1852"
                   },
@@ -578,8 +624,10 @@
                     "generation": "e pi 007",
                     "engine": "70.26 kWh (544 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -589,6 +637,7 @@
                     "rideHeight": "163",
                     "rideHeightMin": "163",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1999",
                     "curbWeightMin": "1999"
                   }
@@ -620,12 +669,14 @@
                     "generation": "e pi 008",
                     "engine": "1.5T 34.32 kWh (272 Hp) EREV",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "147/4500",
                     "powerHp": "147",
                     "powerRpm": "4500",
                     "powerRpmLow": "4500",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -634,6 +685,7 @@
                     "height": "1732",
                     "heightMin": "1732",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2189",
                     "curbWeightMin": "2189"
                   },
@@ -645,8 +697,10 @@
                     "generation": "e pi 008",
                     "engine": "82.28 kWh (272 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5-6",
                     "placesMin": "5",
                     "placesMax": "6",
@@ -655,6 +709,7 @@
                     "height": "1732",
                     "heightMin": "1732",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2228",
                     "curbWeightMin": "2228"
                   }
@@ -686,8 +741,10 @@
                     "generation": "Nammi 06",
                     "engine": "44.94 kWh (184 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4306",
@@ -695,6 +752,7 @@
                     "height": "1645",
                     "heightMin": "1645",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1526",
                     "curbWeightMin": "1526"
                   },
@@ -706,8 +764,10 @@
                     "generation": "Nammi 06",
                     "engine": "51.87 kWh (184 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4306",
@@ -715,6 +775,7 @@
                     "height": "1645",
                     "heightMin": "1645",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1550-1570",
                     "curbWeightMin": "1550",
                     "curbWeightMax": "1570"
@@ -747,8 +808,10 @@
                     "generation": "Vigo",
                     "engine": "51.87 kWh (135 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4306",
@@ -756,7 +819,7 @@
                     "height": "1654",
                     "heightMin": "1654",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57368",
@@ -766,8 +829,10 @@
                     "generation": "Vigo",
                     "engine": "51.87 kWh (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4306",
@@ -775,6 +840,7 @@
                     "height": "1654",
                     "heightMin": "1654",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1572",
                     "curbWeightMin": "1572"
                   }

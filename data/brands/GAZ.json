@@ -26,13 +26,15 @@
                     "generation": "13",
                     "engine": "5.5 V8 (195 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "195",
                     "powerHp": "195",
                     "yearstart": "1959",
                     "yearstop": "1981",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,6 +64,7 @@
                     "generation": "20",
                     "engine": "2.1 (52 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "52/3600",
                     "powerHp": "52",
                     "powerRpm": "3600",
@@ -69,6 +72,7 @@
                     "yearstart": "1946",
                     "yearstop": "1956",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4665",
@@ -76,6 +80,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   }
@@ -98,6 +103,7 @@
                     "generation": "20M",
                     "engine": "2.1 (52 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "52/3600",
                     "powerHp": "52",
                     "powerRpm": "3600",
@@ -105,6 +111,7 @@
                     "yearstart": "1946",
                     "yearstop": "1956",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4665",
@@ -112,6 +119,7 @@
                     "height": "1640",
                     "heightMin": "1640",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   }
@@ -143,6 +151,7 @@
                     "generation": "22B",
                     "engine": "2.4 (76 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "76/4000",
                     "powerHp": "76",
                     "powerRpm": "4000",
@@ -150,6 +159,7 @@
                     "yearstart": "1962",
                     "yearstop": "1970",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4810",
@@ -157,6 +167,7 @@
                     "height": "1620",
                     "heightMin": "1620",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1545",
                     "curbWeightMin": "1545"
                   }
@@ -188,13 +199,15 @@
                     "generation": "311055",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131",
                     "powerHp": "131",
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -215,6 +228,7 @@
                     "generation": "31105",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/5200",
                     "powerHp": "131",
                     "powerRpm": "5200",
@@ -222,6 +236,7 @@
                     "yearstart": "2004",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4921",
@@ -229,7 +244,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -250,6 +265,7 @@
                     "generation": "3110",
                     "engine": "2.1 TD (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/3800",
                     "powerHp": "110",
                     "powerRpm": "3800",
@@ -257,6 +273,7 @@
                     "yearstart": "2002",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -264,6 +281,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1560",
                     "curbWeightMin": "1560"
                   },
@@ -275,6 +293,7 @@
                     "generation": "3110",
                     "engine": "2.1 TD (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/3800",
                     "powerHp": "95",
                     "powerRpm": "3800",
@@ -282,6 +301,7 @@
                     "yearstart": "2001",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -289,6 +309,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1560",
                     "curbWeightMin": "1560"
                   },
@@ -300,6 +321,7 @@
                     "generation": "3110",
                     "engine": "2.3 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5200",
                     "powerHp": "150",
                     "powerRpm": "5200",
@@ -307,6 +329,7 @@
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -314,6 +337,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   },
@@ -325,6 +349,7 @@
                     "generation": "3110",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/5200",
                     "powerHp": "131",
                     "powerRpm": "5200",
@@ -332,6 +357,7 @@
                     "yearstart": "2000",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4895",
@@ -339,6 +365,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   },
@@ -350,6 +377,7 @@
                     "generation": "3110",
                     "engine": "2.5 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -357,6 +385,7 @@
                     "yearstart": "1997",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -364,6 +393,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   },
@@ -375,6 +405,7 @@
                     "generation": "3110",
                     "engine": "2.5 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/4500",
                     "powerHp": "81",
                     "powerRpm": "4500",
@@ -382,6 +413,7 @@
                     "yearstart": "2001",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -389,6 +421,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   },
@@ -400,6 +433,7 @@
                     "generation": "3110",
                     "engine": "2.5 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4500",
                     "powerHp": "90",
                     "powerRpm": "4500",
@@ -407,6 +441,7 @@
                     "yearstart": "1997",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -414,6 +449,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1401",
                     "curbWeightMin": "1401"
                   },
@@ -425,13 +461,15 @@
                     "generation": "3110",
                     "engine": "2.5 i (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2001",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -452,6 +490,7 @@
                     "generation": "3111",
                     "engine": "2.1 TD (114 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "114/4300",
                     "powerHp": "114",
                     "powerRpm": "4300",
@@ -459,6 +498,7 @@
                     "yearstart": "2001",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4897",
@@ -466,6 +506,7 @@
                     "height": "1472",
                     "heightMin": "1472",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   },
@@ -477,6 +518,7 @@
                     "generation": "3111",
                     "engine": "2.3 (145 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "145/5200",
                     "powerHp": "145",
                     "powerRpm": "5200",
@@ -484,6 +526,7 @@
                     "yearstart": "2001",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4897",
@@ -491,6 +534,7 @@
                     "height": "1472",
                     "heightMin": "1472",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   },
@@ -502,6 +546,7 @@
                     "generation": "3111",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/5200",
                     "powerHp": "131",
                     "powerRpm": "5200",
@@ -509,6 +554,7 @@
                     "yearstart": "2001",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4897",
@@ -516,6 +562,7 @@
                     "height": "1475",
                     "heightMin": "1475",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1690",
                     "curbWeightMin": "1690"
                   },
@@ -527,6 +574,7 @@
                     "generation": "3111",
                     "engine": "2.5 i (136 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "136/5200",
                     "powerHp": "136",
                     "powerRpm": "5200",
@@ -534,6 +582,7 @@
                     "yearstart": "2002",
                     "yearstop": "2004",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4897",
@@ -541,6 +590,7 @@
                     "height": "1472",
                     "heightMin": "1472",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   },
@@ -552,6 +602,7 @@
                     "generation": "3111",
                     "engine": "2.5 i (155 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "155/5200",
                     "powerHp": "155",
                     "powerRpm": "5200",
@@ -559,6 +610,7 @@
                     "yearstart": "2000",
                     "yearstop": "2002",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4897",
@@ -566,6 +618,7 @@
                     "height": "1472",
                     "heightMin": "1472",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   }
@@ -588,6 +641,7 @@
                     "generation": "3102",
                     "engine": "2.3 16V (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5200",
                     "powerHp": "150",
                     "powerRpm": "5200",
@@ -595,6 +649,7 @@
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4960",
@@ -602,6 +657,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1500",
                     "curbWeightMin": "1500"
                   },
@@ -613,6 +669,7 @@
                     "generation": "3102",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/5200",
                     "powerHp": "131",
                     "powerRpm": "5200",
@@ -620,6 +677,7 @@
                     "yearstart": "2000",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4960",
@@ -627,6 +685,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   },
@@ -638,6 +697,7 @@
                     "generation": "3102",
                     "engine": "2.4 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/4500",
                     "powerHp": "81",
                     "powerRpm": "4500",
@@ -645,6 +705,7 @@
                     "yearstart": "1997",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4960",
@@ -652,6 +713,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -663,6 +725,7 @@
                     "generation": "3102",
                     "engine": "2.5 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -670,6 +733,7 @@
                     "yearstart": "1982",
                     "yearstop": "2001",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4960",
@@ -677,6 +741,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   },
@@ -688,6 +753,7 @@
                     "generation": "3102",
                     "engine": "2.5 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4500",
                     "powerHp": "90",
                     "powerRpm": "4500",
@@ -695,6 +761,7 @@
                     "yearstart": "2001",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4960",
@@ -702,6 +769,7 @@
                     "height": "1422",
                     "heightMin": "1422",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   }
@@ -724,6 +792,7 @@
                     "generation": "310221",
                     "engine": "2.1 TD (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/3800",
                     "powerHp": "95",
                     "powerRpm": "3800",
@@ -731,6 +800,7 @@
                     "yearstart": "2001",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4885",
@@ -738,6 +808,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -749,6 +820,7 @@
                     "generation": "310221",
                     "engine": "2.3 16V (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/5200",
                     "powerHp": "150",
                     "powerRpm": "5200",
@@ -756,6 +828,7 @@
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4885",
@@ -763,6 +836,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   },
@@ -774,6 +848,7 @@
                     "generation": "310221",
                     "engine": "2.3 i 16V (131 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "131/5200",
                     "powerHp": "131",
                     "powerRpm": "5200",
@@ -781,6 +856,7 @@
                     "yearstart": "2000",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4885",
@@ -788,6 +864,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -799,6 +876,7 @@
                     "generation": "310221",
                     "engine": "2.4 (81 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "81/4500",
                     "powerHp": "81",
                     "powerRpm": "4500",
@@ -806,6 +884,7 @@
                     "yearstart": "1996",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4885",
@@ -813,6 +892,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -824,6 +904,7 @@
                     "generation": "310221",
                     "engine": "2.5 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4500",
                     "powerHp": "90",
                     "powerRpm": "4500",
@@ -831,6 +912,7 @@
                     "yearstart": "1997",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4885",
@@ -838,6 +920,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -860,6 +943,7 @@
                     "generation": "31029",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -867,6 +951,7 @@
                     "yearstart": "1992",
                     "yearstop": "1997",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4885",
@@ -874,6 +959,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -896,6 +982,7 @@
                     "generation": "3105",
                     "engine": "3.4 V8 (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5400",
                     "powerHp": "170",
                     "powerRpm": "5400",
@@ -903,6 +990,7 @@
                     "yearstart": "1992",
                     "yearstop": "1996",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5050",
@@ -910,7 +998,7 @@
                     "height": "1430",
                     "heightMin": "1430",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -940,6 +1028,7 @@
                     "generation": "Siber",
                     "engine": "2.0 16V (141 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "141/5700",
                     "powerHp": "141",
                     "powerRpm": "5700",
@@ -947,6 +1036,7 @@
                     "yearstart": "2008",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4858",
@@ -954,6 +1044,7 @@
                     "height": "1409",
                     "heightMin": "1409",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   },
@@ -965,6 +1056,7 @@
                     "generation": "Siber",
                     "engine": "2.4 16V (143 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "143/5200",
                     "powerHp": "143",
                     "powerRpm": "5200",
@@ -972,6 +1064,7 @@
                     "yearstart": "2008",
                     "yearstop": "2010",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4858",
@@ -979,6 +1072,7 @@
                     "height": "1409",
                     "heightMin": "1409",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1555",
                     "curbWeightMin": "1555"
                   }
@@ -1010,6 +1104,7 @@
                     "generation": "14",
                     "engine": "5.5 V8 (220 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "220/4200",
                     "powerHp": "220",
                     "powerRpm": "4200",
@@ -1017,6 +1112,7 @@
                     "yearstart": "1977",
                     "yearstop": "1989",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "7",
                     "placesMin": "7",
                     "length": "6114",
@@ -1024,6 +1120,7 @@
                     "height": "1525",
                     "heightMin": "1525",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2615",
                     "curbWeightMin": "2615"
                   }
@@ -1055,6 +1152,7 @@
                     "generation": "21",
                     "engine": "2.4 (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/4000",
                     "powerHp": "70",
                     "powerRpm": "4000",
@@ -1062,6 +1160,7 @@
                     "yearstart": "1956",
                     "yearstop": "1970",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4770",
@@ -1069,6 +1168,7 @@
                     "height": "1620",
                     "heightMin": "1620",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   },
@@ -1080,6 +1180,7 @@
                     "generation": "21",
                     "engine": "2.4 Automat (80 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "80/4000",
                     "powerHp": "80",
                     "powerRpm": "4000",
@@ -1087,6 +1188,7 @@
                     "yearstart": "1958",
                     "yearstop": "1959",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4770",
@@ -1094,6 +1196,7 @@
                     "height": "1620",
                     "heightMin": "1620",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1480",
                     "curbWeightMin": "1480"
                   }
@@ -1125,6 +1228,7 @@
                     "generation": "2413",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -1132,6 +1236,7 @@
                     "yearstart": "1987",
                     "yearstop": "1992",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4735",
@@ -1139,6 +1244,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -1161,6 +1267,7 @@
                     "generation": "2412",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -1168,6 +1275,7 @@
                     "yearstart": "1987",
                     "yearstop": "1992",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4735",
@@ -1175,6 +1283,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -1197,6 +1306,7 @@
                     "generation": "2414",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -1204,6 +1314,7 @@
                     "yearstart": "1987",
                     "yearstop": "1992",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4735",
@@ -1211,6 +1322,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1540",
                     "curbWeightMin": "1540"
                   }
@@ -1233,6 +1345,7 @@
                     "generation": "2417",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -1240,6 +1353,7 @@
                     "yearstart": "1986",
                     "yearstop": "1992",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1247,6 +1361,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -1269,6 +1384,7 @@
                     "generation": "2410",
                     "engine": "2.4 (100 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "100/4500",
                     "powerHp": "100",
                     "powerRpm": "4500",
@@ -1276,6 +1392,7 @@
                     "yearstart": "1986",
                     "yearstop": "1992",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1283,6 +1400,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -1305,6 +1423,7 @@
                     "generation": "2411",
                     "engine": "2.4 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4500",
                     "powerHp": "90",
                     "powerRpm": "4500",
@@ -1312,6 +1431,7 @@
                     "yearstart": "1986",
                     "yearstop": "1992",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1319,6 +1439,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }
@@ -1341,11 +1462,13 @@
                     "generation": "2434",
                     "engine": "5.5 V8 (195 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "195/",
                     "powerHp": "195",
                     "yearstart": "1985",
                     "yearstop": "1993",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1353,7 +1476,7 @@
                     "height": "1476",
                     "heightMin": "1476",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1374,6 +1497,7 @@
                     "generation": "2404",
                     "engine": "2.4 (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/4500",
                     "powerHp": "95",
                     "powerRpm": "4500",
@@ -1381,6 +1505,7 @@
                     "yearstart": "1972",
                     "yearstop": "1987",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4735",
@@ -1388,6 +1513,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   }
@@ -1410,6 +1536,7 @@
                     "generation": "2402",
                     "engine": "2.4 (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/4500",
                     "powerHp": "95",
                     "powerRpm": "4500",
@@ -1417,6 +1544,7 @@
                     "yearstart": "1972",
                     "yearstop": "1987",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4735",
@@ -1424,6 +1552,7 @@
                     "height": "1576",
                     "heightMin": "1576",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1550",
                     "curbWeightMin": "1550"
                   }
@@ -1446,6 +1575,7 @@
                     "generation": "24",
                     "engine": "2.4 (95 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "95/4500",
                     "powerHp": "95",
                     "powerRpm": "4500",
@@ -1453,6 +1583,7 @@
                     "yearstart": "1970",
                     "yearstop": "1986",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1460,6 +1591,7 @@
                     "height": "1490",
                     "heightMin": "1490",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -1482,6 +1614,7 @@
                     "generation": "2401",
                     "engine": "2.4 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/4500",
                     "powerHp": "85",
                     "powerRpm": "4500",
@@ -1489,6 +1622,7 @@
                     "yearstart": "1970",
                     "yearstop": "1986",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1496,6 +1630,7 @@
                     "height": "1490",
                     "heightMin": "1490",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -1518,6 +1653,7 @@
                     "generation": "2407",
                     "engine": "2.4 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/4500",
                     "powerHp": "85",
                     "powerRpm": "4500",
@@ -1525,6 +1661,7 @@
                     "yearstart": "1970",
                     "yearstop": "1986",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4735",
@@ -1532,6 +1669,7 @@
                     "height": "1490",
                     "heightMin": "1490",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   }
@@ -1563,6 +1701,7 @@
                     "generation": "69",
                     "engine": "2.1 (65 Hp) 2d",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65/3800",
                     "powerHp": "65",
                     "powerRpm": "3800",
@@ -1570,6 +1709,7 @@
                     "yearstart": "1953",
                     "yearstop": "1971",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "8",
                     "placesMin": "8",
                     "length": "3850",
@@ -1577,7 +1717,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "13676",
@@ -1587,6 +1727,7 @@
                     "generation": "69",
                     "engine": "2.1 (65 Hp) 4d",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65/3800",
                     "powerHp": "65",
                     "powerRpm": "3800",
@@ -1594,6 +1735,7 @@
                     "yearstart": "1953",
                     "yearstop": "1971",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3850",
@@ -1601,7 +1743,7 @@
                     "height": "1930",
                     "heightMin": "1930",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1650,6 +1792,7 @@
                     "generation": "M-20B Pobeda",
                     "engine": "2.1 (52 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "52/3600",
                     "powerHp": "52",
                     "powerRpm": "3600",
@@ -1657,6 +1800,7 @@
                     "yearstart": "1955",
                     "yearstop": "1958",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4665",
@@ -1666,6 +1810,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1360",
                     "curbWeightMin": "1360"
                   }

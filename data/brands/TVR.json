@@ -26,13 +26,15 @@
                     "generation": "1600",
                     "engine": "1.6 (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86",
                     "powerHp": "86",
                     "yearstart": "1972",
                     "yearstop": "1975",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,13 +64,15 @@
                     "generation": "350 Cabrio",
                     "engine": "3.5 i (197 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197",
                     "powerHp": "197",
                     "yearstart": "1983",
                     "yearstop": "1989",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -89,13 +93,15 @@
                     "generation": "350 Coupe",
                     "engine": "3.5 i (197 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197",
                     "powerHp": "197",
                     "yearstart": "1983",
                     "yearstop": "1989",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -125,6 +131,7 @@
                     "generation": "450",
                     "engine": "4.4 (323 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "323/5700",
                     "powerHp": "323",
                     "powerRpm": "5700",
@@ -132,6 +139,7 @@
                     "yearstart": "1988",
                     "yearstop": "1989",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4015",
@@ -139,6 +147,7 @@
                     "height": "1205",
                     "heightMin": "1205",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1130",
                     "curbWeightMin": "1130"
                   }
@@ -170,13 +179,15 @@
                     "generation": "S",
                     "engine": "2.8 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "1986",
                     "yearstop": "1988",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5815",
@@ -186,6 +197,7 @@
                     "generation": "S",
                     "engine": "2.9 (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/5400",
                     "powerHp": "170",
                     "powerRpm": "5400",
@@ -193,6 +205,7 @@
                     "yearstart": "1988",
                     "yearstop": "1996",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3958",
@@ -200,6 +213,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -211,6 +225,7 @@
                     "generation": "S",
                     "engine": "4.0 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/5250",
                     "powerHp": "240",
                     "powerRpm": "5250",
@@ -218,6 +233,7 @@
                     "yearstart": "1988",
                     "yearstop": "1996",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3958",
@@ -225,6 +241,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   }
@@ -256,6 +273,7 @@
                     "generation": "Tamora",
                     "engine": "3.6 V6 (360 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "360/7200",
                     "powerHp": "360",
                     "powerRpm": "7200",
@@ -263,6 +281,7 @@
                     "yearstart": "2002",
                     "yearstop": "2006",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3925",
@@ -270,6 +289,7 @@
                     "height": "1204",
                     "heightMin": "1204",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   }
@@ -301,13 +321,15 @@
                     "generation": "2500",
                     "engine": "2.5 (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106",
                     "powerHp": "106",
                     "yearstart": "1972",
                     "yearstop": "1977",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -337,13 +359,15 @@
                     "generation": "390",
                     "engine": "3.9 (279 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "279",
                     "powerHp": "279",
                     "yearstart": "1984",
                     "yearstop": "1989",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -373,6 +397,7 @@
                     "generation": "Cerbera",
                     "engine": "4.0 i 24V Speed Six (350 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "350/6800",
                     "powerHp": "350",
                     "powerRpm": "6800",
@@ -380,6 +405,7 @@
                     "yearstart": "2000",
                     "yearstop": "2003",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4280",
@@ -387,6 +413,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1130",
                     "curbWeightMin": "1130"
                   },
@@ -398,6 +425,7 @@
                     "generation": "Cerbera",
                     "engine": "4.0 i V8 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/5250",
                     "powerHp": "240",
                     "powerRpm": "5250",
@@ -405,6 +433,7 @@
                     "yearstart": "1995",
                     "yearstop": "2000",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4146",
@@ -412,6 +441,7 @@
                     "height": "1205",
                     "heightMin": "1205",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -423,6 +453,7 @@
                     "generation": "Cerbera",
                     "engine": "4.2 i V8 (350 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "350/6500",
                     "powerHp": "350",
                     "powerRpm": "6500",
@@ -430,6 +461,7 @@
                     "yearstart": "1995",
                     "yearstop": "1997",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4280",
@@ -437,6 +469,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1110",
                     "curbWeightMin": "1110"
                   },
@@ -448,6 +481,7 @@
                     "generation": "Cerbera",
                     "engine": "4.2 i V8 (360 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "360/6500",
                     "powerHp": "360",
                     "powerRpm": "6500",
@@ -455,6 +489,7 @@
                     "yearstart": "1998",
                     "yearstop": "2003",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4280",
@@ -462,6 +497,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -473,6 +509,7 @@
                     "generation": "Cerbera",
                     "engine": "4.3 i V8 (280 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "280/5500",
                     "powerHp": "280",
                     "powerRpm": "5500",
@@ -480,6 +517,7 @@
                     "yearstart": "1995",
                     "yearstop": "2000",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4146",
@@ -487,6 +525,7 @@
                     "height": "1205",
                     "heightMin": "1205",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -498,6 +537,7 @@
                     "generation": "Cerbera",
                     "engine": "4.5 i V8 (426 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "426/6750",
                     "powerHp": "426",
                     "powerRpm": "6750",
@@ -505,6 +545,7 @@
                     "yearstart": "1997",
                     "yearstop": "2003",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4280",
@@ -512,6 +553,7 @@
                     "height": "1220",
                     "heightMin": "1220",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   }
@@ -543,6 +585,7 @@
                     "generation": "Sagaris",
                     "engine": "4.0 i V8 (400 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "400/7000",
                     "powerHp": "400",
                     "powerRpm": "7000",
@@ -550,6 +593,7 @@
                     "yearstart": "2004",
                     "yearstop": "2006",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "4",
                     "placesMin": "4",
                     "length": "4035",
@@ -557,6 +601,7 @@
                     "height": "1135",
                     "heightMin": "1135",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1215",
                     "curbWeightMin": "1215"
                   }
@@ -588,13 +633,15 @@
                     "generation": "Tasmin",
                     "engine": "2.8 (160 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160",
                     "powerHp": "160",
                     "yearstart": "1980",
                     "yearstop": "1983",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -624,13 +671,15 @@
                     "generation": "280 Cabrio",
                     "engine": "2.8 i (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "1984",
                     "yearstop": "1987",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -651,13 +700,15 @@
                     "generation": "280 Coupe",
                     "engine": "2.8 i (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "1984",
                     "yearstop": "1987",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -687,6 +738,7 @@
                     "generation": "400",
                     "engine": "3.9 (272 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "272/5500",
                     "powerHp": "272",
                     "powerRpm": "5500",
@@ -694,6 +746,7 @@
                     "yearstart": "1988",
                     "yearstop": "1991",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4015",
@@ -701,6 +754,7 @@
                     "height": "1205",
                     "heightMin": "1205",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1120",
                     "curbWeightMin": "1120"
                   }
@@ -732,6 +786,7 @@
                     "generation": "Chimaera",
                     "engine": "4.0 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/5250",
                     "powerHp": "240",
                     "powerRpm": "5250",
@@ -739,6 +794,7 @@
                     "yearstart": "1992",
                     "yearstop": "2003",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -746,6 +802,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -757,6 +814,7 @@
                     "generation": "Chimaera",
                     "engine": "4.3 (280 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "280/5500",
                     "powerHp": "280",
                     "powerRpm": "5500",
@@ -764,6 +822,7 @@
                     "yearstart": "1992",
                     "yearstop": "2003",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -771,6 +830,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -782,6 +842,7 @@
                     "generation": "Chimaera",
                     "engine": "4.6 (288 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "288/5500",
                     "powerHp": "288",
                     "powerRpm": "5500",
@@ -789,6 +850,7 @@
                     "yearstart": "1997",
                     "yearstop": "2003",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -796,6 +858,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -807,6 +870,7 @@
                     "generation": "Chimaera",
                     "engine": "5.0 (326 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "326/5500",
                     "powerHp": "326",
                     "powerRpm": "5500",
@@ -814,6 +878,7 @@
                     "yearstart": "1997",
                     "yearstop": "2003",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -821,7 +886,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5835",
@@ -831,6 +896,7 @@
                     "generation": "Chimaera",
                     "engine": "5.0 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/5250",
                     "powerHp": "340",
                     "powerRpm": "5250",
@@ -838,6 +904,7 @@
                     "yearstart": "1992",
                     "yearstop": "1997",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -845,6 +912,7 @@
                     "height": "1223",
                     "heightMin": "1223",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   }
@@ -876,6 +944,7 @@
                     "generation": "Tuscan Challenge",
                     "engine": "Speed Eight 3.9i V8 (243 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "243/5300",
                     "powerHp": "243",
                     "powerRpm": "5300",
@@ -883,6 +952,7 @@
                     "yearstart": "1989",
                     "yearstop": "1993",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4100",
@@ -890,6 +960,7 @@
                     "height": "1210",
                     "heightMin": "1210",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1120",
                     "curbWeightMin": "1120"
                   },
@@ -901,13 +972,15 @@
                     "generation": "Tuscan Challenge",
                     "engine": "Speed Eight 4.0 (228 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "228",
                     "powerHp": "228",
                     "yearstart": "1989",
                     "yearstop": "1992",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5838",
@@ -917,13 +990,15 @@
                     "generation": "Tuscan Challenge",
                     "engine": "Speed Eight 4.3 (269 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "269",
                     "powerHp": "269",
                     "yearstart": "1989",
                     "yearstop": "1991",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -953,6 +1028,7 @@
                     "generation": "Tuscan",
                     "engine": "3.6 i 24V (355 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "355/7500",
                     "powerHp": "355",
                     "powerRpm": "7500",
@@ -960,6 +1036,7 @@
                     "yearstart": "2002",
                     "yearstop": "2006",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4235",
@@ -967,7 +1044,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5840",
@@ -977,6 +1054,7 @@
                     "generation": "Tuscan",
                     "engine": "4.0 i 24V S (396 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "396/7000",
                     "powerHp": "396",
                     "powerRpm": "7000",
@@ -984,6 +1062,7 @@
                     "yearstart": "2000",
                     "yearstop": "2006",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4235",
@@ -991,6 +1070,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   },
@@ -1002,6 +1082,7 @@
                     "generation": "Tuscan",
                     "engine": "4.0 i 24V Speed Six (364 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "364/7000",
                     "powerHp": "364",
                     "powerRpm": "7000",
@@ -1009,6 +1090,7 @@
                     "yearstart": "1999",
                     "yearstop": "2006",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4160",
@@ -1016,6 +1098,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1080",
                     "curbWeightMin": "1080"
                   }
@@ -1047,13 +1130,15 @@
                     "generation": "3000",
                     "engine": "3.0 (142 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "142",
                     "powerHp": "142",
                     "yearstart": "1972",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5843",
@@ -1063,13 +1148,15 @@
                     "generation": "3000",
                     "engine": "3.0 Turbo (230 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "230",
                     "powerHp": "230",
                     "yearstart": "1976",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1099,13 +1186,15 @@
                     "generation": "420 Cabrio",
                     "engine": "4.2 (304 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "304",
                     "powerHp": "304",
                     "yearstart": "1986",
                     "yearstop": "1988",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1126,13 +1215,15 @@
                     "generation": "420 Sports Saloon",
                     "engine": "4.2 (269 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "269",
                     "powerHp": "269",
                     "yearstart": "1986",
                     "yearstop": "1988",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -1162,6 +1253,7 @@
                     "generation": "Griffith",
                     "engine": "4.0 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/5250",
                     "powerHp": "240",
                     "powerRpm": "5250",
@@ -1169,6 +1261,7 @@
                     "yearstart": "1990",
                     "yearstop": "1993",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -1176,6 +1269,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   },
@@ -1187,6 +1281,7 @@
                     "generation": "Griffith",
                     "engine": "4.3 (280 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "280/5500",
                     "powerHp": "280",
                     "powerRpm": "5500",
@@ -1194,6 +1289,7 @@
                     "yearstart": "1990",
                     "yearstop": "1993",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -1201,6 +1297,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1000",
                     "curbWeightMin": "1000"
                   },
@@ -1212,6 +1309,7 @@
                     "generation": "Griffith",
                     "engine": "5.0 (326 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "326/5500",
                     "powerHp": "326",
                     "powerRpm": "5500",
@@ -1219,6 +1317,7 @@
                     "yearstart": "1990",
                     "yearstop": "2002",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3965",
@@ -1226,6 +1325,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -1237,6 +1337,7 @@
                     "generation": "Griffith",
                     "engine": "5.0 (340 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "340/5250",
                     "powerHp": "340",
                     "powerRpm": "5250",
@@ -1244,6 +1345,7 @@
                     "yearstart": "1993",
                     "yearstop": "2000",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4050",
@@ -1251,6 +1353,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   }
@@ -1282,13 +1385,15 @@
                     "generation": "Taimar",
                     "engine": "3.0 (142 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "142",
                     "powerHp": "142",
                     "yearstart": "1976",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "5851",
@@ -1298,13 +1403,15 @@
                     "generation": "Taimar",
                     "engine": "3.0 Turbo (230 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "230",
                     "powerHp": "230",
                     "yearstart": "1976",
                     "yearstop": "1980",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

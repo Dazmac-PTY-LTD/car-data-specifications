@@ -26,13 +26,15 @@
                     "generation": "Type 3 Cabriolet",
                     "engine": "3.0 i (204 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "204",
                     "powerHp": "204",
                     "yearstart": "1991",
                     "yearstop": "1992",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8266",
@@ -42,13 +44,15 @@
                     "generation": "Type 3 Cabriolet",
                     "engine": "4.0 i (272 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "272",
                     "powerHp": "272",
                     "yearstart": "1991",
                     "yearstop": "1992",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -78,6 +82,7 @@
                     "generation": "Vero",
                     "engine": "6.0 V8 (378 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "378/5700",
                     "powerHp": "378",
                     "powerRpm": "5700",
@@ -85,6 +90,7 @@
                     "yearstart": "2008",
                     "yearstop": "2008",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5200",
@@ -92,6 +98,7 @@
                     "height": "1460",
                     "heightMin": "1460",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1890",
                     "curbWeightMin": "1890"
                   }

@@ -26,12 +26,14 @@
                     "generation": "BT62",
                     "engine": "5.4 V8 (710 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "710/7400",
                     "powerHp": "710",
                     "powerRpm": "7400",
                     "powerRpmLow": "7400",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4460",
@@ -39,6 +41,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "972",
                     "curbWeightMin": "972"
                   }

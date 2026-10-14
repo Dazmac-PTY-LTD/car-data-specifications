@@ -26,6 +26,7 @@
                     "generation": "11301",
                     "engine": "1.1 (49 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "49/5300",
                     "powerHp": "49",
                     "powerRpm": "5300",
@@ -33,8 +34,9 @@
                     "yearstart": "2003",
                     "yearstop": "2006",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

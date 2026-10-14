@@ -26,13 +26,15 @@
                     "generation": "Porter",
                     "engine": "1.0 (45 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "45",
                     "powerHp": "45",
                     "yearstart": "1995",
                     "yearstop": "1998",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8261",
@@ -42,13 +44,15 @@
                     "generation": "Porter",
                     "engine": "1.2 D (35 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "35",
                     "powerHp": "35",
                     "yearstart": "1995",
                     "yearstop": "2000",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "8262",
@@ -58,13 +62,15 @@
                     "generation": "Porter",
                     "engine": "1.3 i 16V (65 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65",
                     "powerHp": "65",
                     "yearstart": "1998",
                     "yearstop": "2000",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -94,12 +100,13 @@
                     "generation": "Vespacar",
                     "engine": "0.2 (11 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "11",
                     "powerHp": "11",
                     "yearstart": "1971",
                     "yearstop": "2000",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "8264",
@@ -109,12 +116,13 @@
                     "generation": "Vespacar",
                     "engine": "0.4 D (15 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "15",
                     "powerHp": "15",
                     "yearstart": "1993",
                     "yearstop": "2000",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }

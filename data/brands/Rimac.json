@@ -26,8 +26,10 @@
                     "generation": "Concept One",
                     "engine": "90 kWh (1224 Hp) AWD CVT",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4146",
@@ -38,6 +40,7 @@
                     "rideHeightMin": "105",
                     "rideHeightMax": "115",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1900",
                     "curbWeightMin": "1900"
                   }
@@ -69,8 +72,10 @@
                     "generation": "C_Two (Concept)",
                     "engine": "120 kWh (1914 Hp) AWD CVT",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4750",
@@ -78,6 +83,7 @@
                     "height": "1208",
                     "heightMin": "1208",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1950",
                     "curbWeightMin": "1950"
                   }
@@ -109,8 +115,10 @@
                     "generation": "Nevera",
                     "engine": "120 kWh (1914 Hp) AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4750",
@@ -118,6 +126,7 @@
                     "height": "1208",
                     "heightMin": "1208",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2150",
                     "curbWeightMin": "2150"
                   }

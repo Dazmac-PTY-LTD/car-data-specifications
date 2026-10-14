@@ -26,10 +26,12 @@
                     "generation": "EVO",
                     "engine": "3.0 V6 (500 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "500",
                     "powerHp": "500",
                     "yearstart": "2026",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "2-4",
                     "placesMin": "2",
                     "placesMax": "4",
@@ -40,6 +42,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1485",
                     "curbWeightMin": "1485"
                   }

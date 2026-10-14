@@ -26,13 +26,15 @@
                     "generation": "Aria",
                     "engine": "2.0 i (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140",
                     "powerHp": "140",
                     "yearstart": "2000",
                     "yearstop": "2010",
                     "coupe": "Coupe - Cabriolet",
+                    "coupeId": "13",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -62,6 +64,7 @@
                     "generation": "Indica Sedan",
                     "engine": "1.4 i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5500",
                     "powerHp": "85",
                     "powerRpm": "5500",
@@ -69,6 +72,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4150",
@@ -76,6 +80,7 @@
                     "height": "1540",
                     "heightMin": "1540",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1060",
                     "curbWeightMin": "1060"
                   },
@@ -87,6 +92,7 @@
                     "generation": "Indica Sedan",
                     "engine": "1.4 TD (61 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "61/5000",
                     "powerHp": "61",
                     "powerRpm": "5000",
@@ -94,6 +100,7 @@
                     "yearstart": "2002",
                     "yearstop": "2008",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4150",
@@ -101,6 +108,7 @@
                     "height": "1540",
                     "heightMin": "1540",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1090",
                     "curbWeightMin": "1090"
                   }
@@ -123,6 +131,7 @@
                     "generation": "Indica",
                     "engine": "1.4 (60 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "60/5000",
                     "powerHp": "60",
                     "powerRpm": "5000",
@@ -130,6 +139,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -137,6 +147,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "930",
                     "curbWeightMin": "930"
                   },
@@ -148,6 +159,7 @@
                     "generation": "Indica",
                     "engine": "1.4 D (49 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "49/5000",
                     "powerHp": "49",
                     "powerRpm": "5000",
@@ -155,6 +167,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -162,6 +175,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1005",
                     "curbWeightMin": "1005"
                   },
@@ -173,6 +187,7 @@
                     "generation": "Indica",
                     "engine": "1.4 D (54 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "54/5000",
                     "powerHp": "54",
                     "powerRpm": "5000",
@@ -180,6 +195,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -187,6 +203,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "850",
                     "curbWeightMin": "850"
                   },
@@ -198,6 +215,7 @@
                     "generation": "Indica",
                     "engine": "1.4 i (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/5500",
                     "powerHp": "75",
                     "powerRpm": "5500",
@@ -205,6 +223,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -212,6 +231,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   },
@@ -223,6 +243,7 @@
                     "generation": "Indica",
                     "engine": "1.4 i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5500",
                     "powerHp": "85",
                     "powerRpm": "5500",
@@ -230,6 +251,7 @@
                     "yearstart": "2000",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -237,6 +259,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "980",
                     "curbWeightMin": "980"
                   },
@@ -248,6 +271,7 @@
                     "generation": "Indica",
                     "engine": "1.4 TD (71 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "71/5000",
                     "powerHp": "71",
                     "powerRpm": "5000",
@@ -255,6 +279,7 @@
                     "yearstart": "2000",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -262,6 +287,7 @@
                     "height": "1485",
                     "heightMin": "1485",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1020",
                     "curbWeightMin": "1020"
                   }
@@ -293,6 +319,7 @@
                     "generation": "Mint",
                     "engine": "1.4 (60 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "60/5000",
                     "powerHp": "60",
                     "powerRpm": "5000",
@@ -300,6 +327,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -307,6 +335,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "850",
                     "curbWeightMin": "850"
                   },
@@ -318,6 +347,7 @@
                     "generation": "Mint",
                     "engine": "1.4 D (54 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "54/5000",
                     "powerHp": "54",
                     "powerRpm": "5000",
@@ -325,6 +355,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -332,6 +363,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "850",
                     "curbWeightMin": "850"
                   },
@@ -343,6 +375,7 @@
                     "generation": "Mint",
                     "engine": "1.4 i (65 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "65/5000",
                     "powerHp": "65",
                     "powerRpm": "5000",
@@ -350,6 +383,7 @@
                     "yearstart": "1998",
                     "yearstop": "2008",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3660",
@@ -357,6 +391,7 @@
                     "height": "1480",
                     "heightMin": "1480",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "850",
                     "curbWeightMin": "850"
                   }
@@ -388,12 +423,14 @@
                     "generation": "Sierra II",
                     "engine": "1.5L Revotron (106 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/6000",
                     "powerHp": "106",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -404,7 +441,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "56000",
@@ -414,12 +451,14 @@
                     "generation": "Sierra II",
                     "engine": "1.5L Revotron (106 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "106/6000",
                     "powerHp": "106",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -430,7 +469,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "56001",
@@ -440,12 +479,14 @@
                     "generation": "Sierra II",
                     "engine": "1.5L Hyperion (160 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "160/5000",
                     "powerHp": "160",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -456,7 +497,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "56002",
@@ -466,12 +507,14 @@
                     "generation": "Sierra II",
                     "engine": "1.5L Kryojet (118 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "118/4000",
                     "powerHp": "118",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -482,7 +525,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "56003",
@@ -492,12 +535,14 @@
                     "generation": "Sierra II",
                     "engine": "1.5L Kryojet (118 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "118/4000",
                     "powerHp": "118",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -508,18 +553,20 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "57490",
-                    "update": "2026-07-16 16:16:17",
+                    "update": "2026-10-13 14:59:20",
                     "brand": "Tata",
                     "model": "Sierra",
                     "generation": "Sierra II",
                     "engine": "63 kWh (238 Hp) EV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -530,18 +577,20 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57491",
-                    "update": "2026-07-16 16:16:17",
+                    "update": "2026-10-13 14:59:33",
                     "brand": "Tata",
                     "model": "Sierra",
                     "generation": "Sierra II",
                     "engine": "75 kWh (209 Hp) EV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -552,18 +601,20 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57492",
-                    "update": "2026-07-16 16:16:17",
+                    "update": "2026-10-13 14:59:58",
                     "brand": "Tata",
                     "model": "Sierra",
                     "generation": "Sierra II",
                     "engine": "75 kWh (349 Hp) EV QWD Dual Motor",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4340",
@@ -574,7 +625,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -595,6 +646,7 @@
                     "generation": "Sierra I",
                     "engine": "1.9 D (68 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "68/4500",
                     "powerHp": "68",
                     "powerRpm": "4500",
@@ -602,6 +654,7 @@
                     "yearstart": "1991",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4410",
@@ -609,6 +662,7 @@
                     "height": "1770",
                     "heightMin": "1770",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1520",
                     "curbWeightMin": "1520"
                   },
@@ -620,6 +674,7 @@
                     "generation": "Sierra I",
                     "engine": "1.9 TD (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4300",
                     "powerHp": "90",
                     "powerRpm": "4300",
@@ -627,6 +682,7 @@
                     "yearstart": "1997",
                     "yearstop": "2000",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4400",
@@ -634,6 +690,7 @@
                     "height": "1770",
                     "heightMin": "1770",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1600",
                     "curbWeightMin": "1600"
                   }
@@ -665,6 +722,7 @@
                     "generation": "Sumo Gold",
                     "engine": "3.0 CR4 (85 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/3000",
                     "powerHp": "85",
                     "powerRpm": "3000",
@@ -672,6 +730,7 @@
                     "yearstart": "2011",
                     "yearstop": "2013",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "7-9",
                     "placesMin": "7",
                     "placesMax": "9",
@@ -682,7 +741,7 @@
                     "rideHeight": "182",
                     "rideHeightMin": "182",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -703,6 +762,7 @@
                     "generation": "Sumo",
                     "engine": "1.9 D (68 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "68/4500",
                     "powerHp": "68",
                     "powerRpm": "4500",
@@ -710,6 +770,7 @@
                     "yearstart": "1996",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4450",
@@ -717,6 +778,7 @@
                     "height": "2080",
                     "heightMin": "2080",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1700",
                     "curbWeightMin": "1700"
                   },
@@ -728,6 +790,7 @@
                     "generation": "Sumo",
                     "engine": "1.9 TD (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4300",
                     "powerHp": "90",
                     "powerRpm": "4300",
@@ -735,6 +798,7 @@
                     "yearstart": "1996",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4450",
@@ -742,6 +806,7 @@
                     "height": "1975",
                     "heightMin": "1975",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1720",
                     "curbWeightMin": "1720"
                   },
@@ -753,6 +818,7 @@
                     "generation": "Sumo",
                     "engine": "1.9 TD (87 Hp) 4WD",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "87/4500",
                     "powerHp": "87",
                     "powerRpm": "4500",
@@ -760,6 +826,7 @@
                     "yearstart": "2001",
                     "yearstop": "2004",
                     "coupe": "Off-road",
+                    "coupeId": "1",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4450",
@@ -767,6 +834,7 @@
                     "height": "1970",
                     "heightMin": "1970",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1900",
                     "curbWeightMin": "1900"
                   }
@@ -798,6 +866,7 @@
                     "generation": "Estate",
                     "engine": "1.9 D (68 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "68/4500",
                     "powerHp": "68",
                     "powerRpm": "4500",
@@ -805,6 +874,7 @@
                     "yearstart": "1992",
                     "yearstop": "2000",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4625",
@@ -812,6 +882,7 @@
                     "height": "1610",
                     "heightMin": "1610",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1640",
                     "curbWeightMin": "1640"
                   }
@@ -843,6 +914,7 @@
                     "generation": "Indigo Marina",
                     "engine": "1.4 i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5500",
                     "powerHp": "85",
                     "powerRpm": "5500",
@@ -850,6 +922,7 @@
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4130",
@@ -857,6 +930,7 @@
                     "height": "1575",
                     "heightMin": "1575",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1090",
                     "curbWeightMin": "1090"
                   },
@@ -868,6 +942,7 @@
                     "generation": "Indigo Marina",
                     "engine": "1.4 TDI (71 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "71/4500",
                     "powerHp": "71",
                     "powerRpm": "4500",
@@ -875,6 +950,7 @@
                     "yearstart": "2006",
                     "yearstop": "2009",
                     "coupe": "Station wagon (estate)",
+                    "coupeId": "7",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4130",
@@ -882,6 +958,7 @@
                     "height": "1575",
                     "heightMin": "1575",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1110",
                     "curbWeightMin": "1110"
                   }
@@ -904,6 +981,7 @@
                     "generation": "Indigo",
                     "engine": "1.4 i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/5500",
                     "powerHp": "85",
                     "powerRpm": "5500",
@@ -911,6 +989,7 @@
                     "yearstart": "2002",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4150",
@@ -918,6 +997,7 @@
                     "height": "1540",
                     "heightMin": "1540",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1070",
                     "curbWeightMin": "1070"
                   },
@@ -929,6 +1009,7 @@
                     "generation": "Indigo",
                     "engine": "1.4 TDI (71 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "71/4500",
                     "powerHp": "71",
                     "powerRpm": "4500",
@@ -936,6 +1017,7 @@
                     "yearstart": "2002",
                     "yearstop": "2009",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4150",
@@ -943,6 +1025,7 @@
                     "height": "1540",
                     "heightMin": "1540",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1090",
                     "curbWeightMin": "1090"
                   }
@@ -974,12 +1057,14 @@
                     "generation": "Safari II (facelift 2023)",
                     "engine": "2.0L Kryotec (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -988,7 +1073,7 @@
                     "height": "1795",
                     "heightMin": "1795",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52459",
@@ -998,12 +1083,14 @@
                     "generation": "Safari II (facelift 2023)",
                     "engine": "2.0L Kryotec (170 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1012,7 +1099,7 @@
                     "height": "1795",
                     "heightMin": "1795",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1033,6 +1120,7 @@
                     "generation": "Safari II",
                     "engine": "2.0L Turbo (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
@@ -1040,6 +1128,7 @@
                     "yearstart": "2021",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1048,6 +1137,7 @@
                     "height": "1786",
                     "heightMin": "1786",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1825",
                     "curbWeightMin": "1825"
                   },
@@ -1059,6 +1149,7 @@
                     "generation": "Safari II",
                     "engine": "2.0L Turbo (170 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
@@ -1066,6 +1157,7 @@
                     "yearstart": "2021",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1074,6 +1166,7 @@
                     "height": "1786",
                     "heightMin": "1786",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1825",
                     "curbWeightMin": "1825"
                   }
@@ -1096,6 +1189,7 @@
                     "generation": "Safari Storme I (facelift 2015)",
                     "engine": "2.2 d (156 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "156/4000",
                     "powerHp": "156",
                     "powerRpm": "4000",
@@ -1103,6 +1197,7 @@
                     "yearstart": "2015",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4655",
@@ -1112,7 +1207,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27680",
@@ -1122,6 +1217,7 @@
                     "generation": "Safari Storme I (facelift 2015)",
                     "engine": "2.2 d (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/4000",
                     "powerHp": "150",
                     "powerRpm": "4000",
@@ -1129,6 +1225,7 @@
                     "yearstart": "2015",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4655",
@@ -1138,7 +1235,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27894",
@@ -1148,6 +1245,7 @@
                     "generation": "Safari Storme I (facelift 2015)",
                     "engine": "2.2 (156 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "156/4000",
                     "powerHp": "156",
                     "powerRpm": "4000",
@@ -1155,6 +1253,7 @@
                     "yearstart": "2015",
                     "yearstop": "2019",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4655",
@@ -1164,7 +1263,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1185,6 +1284,7 @@
                     "generation": "Safari Storme I (facelift 2012)",
                     "engine": "2.2 d (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4000",
                     "powerHp": "140",
                     "powerRpm": "4000",
@@ -1192,6 +1292,7 @@
                     "yearstart": "2012",
                     "yearstop": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4655",
@@ -1201,6 +1302,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2000",
                     "curbWeightMin": "2000"
                   },
@@ -1212,6 +1314,7 @@
                     "generation": "Safari Storme I (facelift 2012)",
                     "engine": "2.2 (140 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4000",
                     "powerHp": "140",
                     "powerRpm": "4000",
@@ -1219,6 +1322,7 @@
                     "yearstart": "2012",
                     "yearstop": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4655",
@@ -1228,6 +1332,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2095",
                     "curbWeightMin": "2095"
                   }
@@ -1250,6 +1355,7 @@
                     "generation": "Safari I",
                     "engine": "1.9 i 16V (137 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "137/5550",
                     "powerHp": "137",
                     "powerRpm": "5550",
@@ -1257,6 +1363,7 @@
                     "yearstart": "1998",
                     "yearstop": "2005",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1264,6 +1371,7 @@
                     "height": "1920",
                     "heightMin": "1920",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "2010",
                     "curbWeightMin": "2010"
                   },
@@ -1275,6 +1383,7 @@
                     "generation": "Safari I",
                     "engine": "1.9 TD (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4300",
                     "powerHp": "90",
                     "powerRpm": "4300",
@@ -1282,6 +1391,7 @@
                     "yearstart": "1998",
                     "yearstop": "2005",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1289,6 +1399,7 @@
                     "height": "1920",
                     "heightMin": "1920",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   }
@@ -1320,12 +1431,14 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "1.2L Revotron (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3765",
@@ -1335,7 +1448,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52461",
@@ -1345,12 +1458,14 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "1.2L Revotron (86 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3765",
@@ -1360,7 +1475,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52462",
@@ -1370,6 +1485,7 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "1.2L Revotron (86/73 Hp) iCNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000/73/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
@@ -1379,6 +1495,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3765",
@@ -1388,7 +1505,7 @@
                     "rideHeight": "168",
                     "rideHeightMin": "168",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   },
                   {
                     "id": "52463",
@@ -1398,6 +1515,7 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "1.2L Revotron (86/73 Hp) iCNG Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000/73/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
@@ -1407,6 +1525,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3765",
@@ -1416,7 +1535,7 @@
                     "rideHeight": "168",
                     "rideHeightMin": "168",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   },
                   {
                     "id": "52467",
@@ -1426,8 +1545,10 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "EV 19.2 kWh (61 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3769",
@@ -1435,7 +1556,7 @@
                     "height": "1536",
                     "heightMin": "1536",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52468",
@@ -1445,8 +1566,10 @@
                     "generation": "Tiago (facelift 2020)",
                     "engine": "EV 24 kWh (75 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3769",
@@ -1454,7 +1577,7 @@
                     "height": "1536",
                     "heightMin": "1536",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1475,12 +1598,14 @@
                     "generation": "Tiago NRG (facelift 2020)",
                     "engine": "1.2 Revotron (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3802",
@@ -1490,6 +1615,7 @@
                     "rideHeight": "181",
                     "rideHeightMin": "181",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "990-1006",
                     "curbWeightMin": "990",
                     "curbWeightMax": "1006"
@@ -1502,12 +1628,14 @@
                     "generation": "Tiago NRG (facelift 2020)",
                     "engine": "1.2 Revotron (86 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3802",
@@ -1517,6 +1645,7 @@
                     "rideHeight": "181",
                     "rideHeightMin": "181",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "990-1006",
                     "curbWeightMin": "990",
                     "curbWeightMax": "1006"
@@ -1529,6 +1658,7 @@
                     "generation": "Tiago NRG (facelift 2020)",
                     "engine": "1.2 Revotron (86/73 Hp) iCNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000/73/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
@@ -1538,6 +1668,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2020",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3802",
@@ -1547,6 +1678,7 @@
                     "rideHeight": "177",
                     "rideHeightMin": "177",
                     "fuel": "Petrol / CNG",
+                    "fuelId": "5",
                     "curbWeight": "1097-1100",
                     "curbWeightMin": "1097",
                     "curbWeightMax": "1100"
@@ -1570,6 +1702,7 @@
                     "generation": "Tiago NRG",
                     "engine": "1.0d (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/4000",
                     "powerHp": "70",
                     "powerRpm": "4000",
@@ -1577,6 +1710,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3793",
@@ -1586,6 +1720,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1085",
                     "curbWeightMin": "1085"
                   },
@@ -1597,6 +1732,7 @@
                     "generation": "Tiago NRG",
                     "engine": "1.2i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/6000",
                     "powerHp": "85",
                     "powerRpm": "6000",
@@ -1604,6 +1740,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "Crossover",
+                    "coupeId": "10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3793",
@@ -1613,6 +1750,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1017",
                     "curbWeightMin": "1017"
                   }
@@ -1635,6 +1773,7 @@
                     "generation": "Tiago",
                     "engine": "1.2 (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/6000",
                     "powerHp": "85",
                     "powerRpm": "6000",
@@ -1642,6 +1781,7 @@
                     "yearstart": "2016",
                     "yearstop": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3746",
@@ -1651,6 +1791,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "930-1012",
                     "curbWeightMin": "930",
                     "curbWeightMax": "1012"
@@ -1663,6 +1804,7 @@
                     "generation": "Tiago",
                     "engine": "1.0 d (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/4000",
                     "powerHp": "70",
                     "powerRpm": "4000",
@@ -1670,6 +1812,7 @@
                     "yearstart": "2016",
                     "yearstop": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3746",
@@ -1679,6 +1822,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1030-1080",
                     "curbWeightMin": "1030",
                     "curbWeightMax": "1080"
@@ -1691,6 +1835,7 @@
                     "generation": "Tiago",
                     "engine": "1.2i JTP (112 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "112/6000",
                     "powerHp": "112",
                     "powerRpm": "6000",
@@ -1698,6 +1843,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3746",
@@ -1707,6 +1853,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1051",
                     "curbWeightMin": "1051"
                   }
@@ -1738,6 +1885,7 @@
                     "generation": "Bolt",
                     "engine": "1.3 T (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/4000",
                     "powerHp": "75",
                     "powerRpm": "4000",
@@ -1745,6 +1893,7 @@
                     "yearstart": "2014",
                     "yearstop": "2019",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3825",
@@ -1754,6 +1903,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1132-1160",
                     "curbWeightMin": "1132",
                     "curbWeightMax": "1160"
@@ -1766,6 +1916,7 @@
                     "generation": "Bolt",
                     "engine": "1.2 T (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/5000",
                     "powerHp": "90",
                     "powerRpm": "5000",
@@ -1773,6 +1924,7 @@
                     "yearstart": "2014",
                     "yearstop": "2019",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3825",
@@ -1782,6 +1934,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1095",
                     "curbWeightMin": "1095"
                   }
@@ -1813,12 +1966,14 @@
                     "generation": "Hexa",
                     "engine": "2.2 (156 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "156/4000",
                     "powerHp": "156",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4788",
@@ -1828,6 +1983,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2280",
                     "curbWeightMin": "2280"
                   },
@@ -1839,12 +1995,14 @@
                     "generation": "Hexa",
                     "engine": "2.2 (156 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "156/4000",
                     "powerHp": "156",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4788",
@@ -1854,7 +2012,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "27893",
@@ -1864,12 +2022,14 @@
                     "generation": "Hexa",
                     "engine": "2.2 (150 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "150/4000",
                     "powerHp": "150",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "7",
                     "placesMin": "7",
                     "length": "4788",
@@ -1879,6 +2039,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "2280",
                     "curbWeightMin": "2280"
                   },
@@ -1890,12 +2051,14 @@
                     "generation": "Hexa",
                     "engine": "2.2 (156 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "156/4000",
                     "powerHp": "156",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1906,7 +2069,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -1936,6 +2099,7 @@
                     "generation": "GenX Nano (facelift 2015)",
                     "engine": "0.6i (38 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38/5500",
                     "powerHp": "38",
                     "powerRpm": "5500",
@@ -1943,6 +2107,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3164",
@@ -1952,6 +2117,7 @@
                     "rideHeight": "100",
                     "rideHeightMin": "100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "695-735",
                     "curbWeightMin": "695",
                     "curbWeightMax": "735"
@@ -1964,6 +2130,7 @@
                     "generation": "GenX Nano (facelift 2015)",
                     "engine": "0.6i (38 Hp) Easy Shift",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38/5500",
                     "powerHp": "38",
                     "powerRpm": "5500",
@@ -1971,6 +2138,7 @@
                     "yearstart": "2015",
                     "yearstop": "2018",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3164",
@@ -1980,6 +2148,7 @@
                     "rideHeight": "100",
                     "rideHeightMin": "100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "725-765",
                     "curbWeightMin": "725",
                     "curbWeightMax": "765"
@@ -2003,6 +2172,7 @@
                     "generation": "Nano",
                     "engine": "0.6 (38 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38/5500",
                     "powerHp": "38",
                     "powerRpm": "5500",
@@ -2010,6 +2180,7 @@
                     "yearstart": "2008",
                     "yearstop": "2015",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3164",
@@ -2019,6 +2190,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "695",
                     "curbWeightMin": "695"
                   },
@@ -2030,6 +2202,7 @@
                     "generation": "Nano",
                     "engine": "0.6 (38/33 Hp) CNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38/5250/33/5500",
                     "powerHp": "38",
                     "powerRpm": "5250",
@@ -2040,6 +2213,7 @@
                     "yearstart": "2008",
                     "yearstop": "2015",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3099",
@@ -2050,6 +2224,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol / CNG",
+                    "fuelId": "5",
                     "curbWeight": "735-745",
                     "curbWeightMin": "735",
                     "curbWeightMax": "745"
@@ -2062,6 +2237,7 @@
                     "generation": "Nano",
                     "engine": "0.6 (38 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "38/5500",
                     "powerHp": "38",
                     "powerRpm": "5500",
@@ -2069,6 +2245,7 @@
                     "yearstart": "2008",
                     "yearstop": "2015",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3164",
@@ -2078,6 +2255,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "765",
                     "curbWeightMin": "765"
                   }
@@ -2109,6 +2287,7 @@
                     "generation": "Xenon",
                     "engine": "2.2 d (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4000",
                     "powerHp": "140",
                     "powerRpm": "4000",
@@ -2116,6 +2295,7 @@
                     "yearstart": "2007",
                     "yearstop": "2012",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -2125,6 +2305,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1900",
                     "curbWeightMin": "1900"
                   },
@@ -2136,6 +2317,7 @@
                     "generation": "Xenon",
                     "engine": "2.2 d (140 Hp) 4x4",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/4000",
                     "powerHp": "140",
                     "powerRpm": "4000",
@@ -2143,6 +2325,7 @@
                     "yearstart": "2007",
                     "yearstop": "2012",
                     "coupe": "Pick-up",
+                    "coupeId": "5",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -2152,6 +2335,7 @@
                     "rideHeight": "200",
                     "rideHeightMin": "200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1900",
                     "curbWeightMin": "1900"
                   }
@@ -2183,12 +2367,14 @@
                     "generation": "Zest",
                     "engine": "1.2 (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/5000",
                     "powerHp": "90",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2198,6 +2384,7 @@
                     "rideHeight": "175",
                     "rideHeightMin": "175",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1115",
                     "curbWeightMin": "1115"
                   },
@@ -2209,12 +2396,14 @@
                     "generation": "Zest",
                     "engine": "1.3 d (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2224,6 +2413,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1155",
                     "curbWeightMin": "1155"
                   },
@@ -2235,12 +2425,14 @@
                     "generation": "Zest",
                     "engine": "1.3 d (75 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "75/4000",
                     "powerHp": "75",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2250,6 +2442,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1152",
                     "curbWeightMin": "1152"
                   },
@@ -2261,12 +2454,14 @@
                     "generation": "Zest",
                     "engine": "1.3 (90 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2014",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2276,7 +2471,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -2306,12 +2501,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.2 Revotron (120 Hp) Manual 5-speed",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2321,7 +2518,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49525",
@@ -2331,12 +2528,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.2 Revotron (120 Hp) Manual 6-speed",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2346,7 +2545,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49526",
@@ -2356,12 +2555,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.2 Revotron (120 Hp) AMT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2371,7 +2572,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49527",
@@ -2381,12 +2582,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.2 Revotron (120 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2396,7 +2599,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49528",
@@ -2406,12 +2609,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.5 Revotorq (115 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115/3750",
                     "powerHp": "115",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2421,7 +2626,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "49529",
@@ -2431,12 +2636,14 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "1.5 Revotorq (115 Hp) AMT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115/3750",
                     "powerHp": "115",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3995",
@@ -2446,7 +2653,7 @@
                     "rideHeight": "208",
                     "rideHeightMin": "208",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "49530",
@@ -2456,8 +2663,10 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "30 kWh (129 Hp) Medium Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3994",
@@ -2467,7 +2676,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "49531",
@@ -2477,8 +2686,10 @@
                     "generation": "Nexon (facelift 2023)",
                     "engine": "40.5 kWh (145 Hp) Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3994",
@@ -2488,7 +2699,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -2509,9 +2720,11 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "EV 30.2 kWh (129 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3994",
@@ -2521,6 +2734,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   },
@@ -2532,6 +2746,7 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "1.2 Revotron (120 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
@@ -2539,6 +2754,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2548,7 +2764,7 @@
                     "rideHeight": "209",
                     "rideHeightMin": "209",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49494",
@@ -2558,6 +2774,7 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "1.2 Revotron (120 Hp) AMT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
@@ -2565,6 +2782,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2574,7 +2792,7 @@
                     "rideHeight": "209",
                     "rideHeightMin": "209",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49495",
@@ -2584,6 +2802,7 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "1.5 Revotorq (115 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115/3750",
                     "powerHp": "115",
                     "powerRpm": "3750",
@@ -2591,6 +2810,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2600,7 +2820,7 @@
                     "rideHeight": "209",
                     "rideHeightMin": "209",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "49496",
@@ -2610,6 +2830,7 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "1.5 Revotorq (115 Hp) AMT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "115/3750",
                     "powerHp": "115",
                     "powerRpm": "3750",
@@ -2617,6 +2838,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2626,7 +2848,7 @@
                     "rideHeight": "209",
                     "rideHeightMin": "209",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "49497",
@@ -2636,9 +2858,11 @@
                     "generation": "Nexon (facelift 2020)",
                     "engine": "EV Max 40.5 kWh (143 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2648,7 +2872,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -2669,6 +2893,7 @@
                     "generation": "Nexon",
                     "engine": "1.2i (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/5000",
                     "powerHp": "110",
                     "powerRpm": "5000",
@@ -2676,6 +2901,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3994",
@@ -2686,6 +2912,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "184",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1188",
                     "curbWeightMin": "1188"
                   },
@@ -2697,6 +2924,7 @@
                     "generation": "Nexon",
                     "engine": "1.5d (110 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "110/3750",
                     "powerHp": "110",
                     "powerRpm": "3750",
@@ -2704,6 +2932,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3994",
@@ -2714,6 +2943,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "184",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1225-1250",
                     "curbWeightMin": "1225",
                     "curbWeightMax": "1250"
@@ -2746,12 +2976,14 @@
                     "generation": "Tigor (facelift 2020)",
                     "engine": "1.2L Revotron (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2761,7 +2993,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52465",
@@ -2771,12 +3003,14 @@
                     "generation": "Tigor (facelift 2020)",
                     "engine": "1.2L Revotron (86 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2786,7 +3020,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52466",
@@ -2796,6 +3030,7 @@
                     "generation": "Tigor (facelift 2020)",
                     "engine": "1.2L Revotron (86/73 Hp) iCNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000/73/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
@@ -2805,6 +3040,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2814,7 +3050,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   },
                   {
                     "id": "52474",
@@ -2824,8 +3060,10 @@
                     "generation": "Tigor (facelift 2020)",
                     "engine": "EV 26 kWh (75 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3993",
@@ -2833,7 +3071,7 @@
                     "height": "1532",
                     "heightMin": "1532",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -2854,6 +3092,7 @@
                     "generation": "Tigor",
                     "engine": "1.2i (85 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/6000",
                     "powerHp": "85",
                     "powerRpm": "6000",
@@ -2861,6 +3100,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3992",
@@ -2870,6 +3110,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1025-1062",
                     "curbWeightMin": "1025",
                     "curbWeightMax": "1062"
@@ -2882,6 +3123,7 @@
                     "generation": "Tigor",
                     "engine": "1.05d (70 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "70/4000",
                     "powerHp": "70",
                     "powerRpm": "4000",
@@ -2889,6 +3131,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3992",
@@ -2898,6 +3141,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1085-1130",
                     "curbWeightMin": "1085",
                     "curbWeightMax": "1130"
@@ -2910,6 +3154,7 @@
                     "generation": "Tigor",
                     "engine": "1.2i (85 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "85/6000",
                     "powerHp": "85",
                     "powerRpm": "6000",
@@ -2917,6 +3162,7 @@
                     "yearstart": "2017",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3992",
@@ -2927,6 +3173,7 @@
                     "rideHeightMin": "165",
                     "rideHeightMax": "170",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1035-1062",
                     "curbWeightMin": "1035",
                     "curbWeightMax": "1062"
@@ -2939,6 +3186,7 @@
                     "generation": "Tigor",
                     "engine": "JTP 1.2i (114 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "114/5000",
                     "powerHp": "114",
                     "powerRpm": "5000",
@@ -2946,6 +3194,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3992",
@@ -2955,6 +3204,7 @@
                     "rideHeight": "166",
                     "rideHeightMin": "166",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1072",
                     "curbWeightMin": "1072"
                   }
@@ -2986,12 +3236,14 @@
                     "generation": "Harrier (facelift 2023)",
                     "engine": "2.0L (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4605",
@@ -2999,7 +3251,7 @@
                     "height": "1718",
                     "heightMin": "1718",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52416",
@@ -3009,12 +3261,14 @@
                     "generation": "Harrier (facelift 2023)",
                     "engine": "2.0L (170 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
                     "powerRpmLow": "3750",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4605",
@@ -3022,18 +3276,20 @@
                     "height": "1718",
                     "heightMin": "1718",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "56980",
-                    "update": "2026-09-25 16:38:59",
+                    "update": "2026-10-13 11:52:37",
                     "brand": "Tata",
                     "model": "Harrier",
                     "generation": "Harrier (facelift 2023)",
                     "engine": "65 kWh (238 Hp) EV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4607",
@@ -3041,18 +3297,20 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56981",
-                    "update": "2026-09-25 16:39:22",
+                    "update": "2026-10-13 11:52:51",
                     "brand": "Tata",
                     "model": "Harrier",
                     "generation": "Harrier (facelift 2023)",
                     "engine": "75 kWh (238 Hp) EV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4607",
@@ -3060,18 +3318,20 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56982",
-                    "update": "2026-09-25 16:39:49",
+                    "update": "2026-10-13 11:53:06",
                     "brand": "Tata",
                     "model": "Harrier",
                     "generation": "Harrier (facelift 2023)",
                     "engine": "75 kWh (396 Hp) EV AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4607",
@@ -3079,7 +3339,7 @@
                     "height": "1740",
                     "heightMin": "1740",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -3100,6 +3360,7 @@
                     "generation": "Harrier",
                     "engine": "2.0d (140 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "140/3750",
                     "powerHp": "140",
                     "powerRpm": "3750",
@@ -3107,6 +3368,7 @@
                     "yearstart": "2018",
                     "yearstop": "2020",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4598",
@@ -3116,6 +3378,7 @@
                     "rideHeight": "205",
                     "rideHeightMin": "205",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1675",
                     "curbWeightMin": "1675"
                   },
@@ -3127,6 +3390,7 @@
                     "generation": "Harrier",
                     "engine": "2.0d (170 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
@@ -3134,6 +3398,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4598",
@@ -3141,7 +3406,7 @@
                     "height": "1706",
                     "heightMin": "1706",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "49633",
@@ -3151,6 +3416,7 @@
                     "generation": "Harrier",
                     "engine": "2.0d (170 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "170/3750",
                     "powerHp": "170",
                     "powerRpm": "3750",
@@ -3158,6 +3424,7 @@
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4598",
@@ -3165,7 +3432,7 @@
                     "height": "1706",
                     "heightMin": "1706",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }
@@ -3233,12 +3500,14 @@
                     "generation": "Altroz (facelift 2025)",
                     "engine": "1.5L Revotorq (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3248,7 +3517,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "54446",
@@ -3258,12 +3527,14 @@
                     "generation": "Altroz (facelift 2025)",
                     "engine": "1.2L Revotron (88 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3273,7 +3544,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "54447",
@@ -3283,12 +3554,14 @@
                     "generation": "Altroz (facelift 2025)",
                     "engine": "1.2L Revotron (88 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3298,7 +3571,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "54448",
@@ -3308,12 +3581,14 @@
                     "generation": "Altroz (facelift 2025)",
                     "engine": "1.2L Revotron (88 Hp) AMT",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3323,7 +3598,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "54449",
@@ -3333,6 +3608,7 @@
                     "generation": "Altroz (facelift 2025)",
                     "engine": "1.2L (88/73 Hp) iCNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000/73/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
@@ -3342,6 +3618,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3351,7 +3628,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   }
                 ]
               }
@@ -3372,6 +3649,7 @@
                     "generation": "Altroz",
                     "engine": "1.2i (102 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "102/5500",
                     "powerHp": "102",
                     "powerRpm": "5500",
@@ -3379,6 +3657,7 @@
                     "yearstart": "2019",
                     "yearstop": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3988",
@@ -3386,7 +3665,7 @@
                     "height": "1505",
                     "heightMin": "1505",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "41172",
@@ -3396,6 +3675,7 @@
                     "generation": "Altroz",
                     "engine": "1.2 Revotron (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
@@ -3403,6 +3683,7 @@
                     "yearstart": "2019",
                     "yearstop": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3412,7 +3693,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "41173",
@@ -3422,6 +3703,7 @@
                     "generation": "Altroz",
                     "engine": "1.5 Revotorq (90 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "90/4000",
                     "powerHp": "90",
                     "powerRpm": "4000",
@@ -3429,6 +3711,7 @@
                     "yearstart": "2019",
                     "yearstop": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3438,7 +3721,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52417",
@@ -3448,6 +3731,7 @@
                     "generation": "Altroz",
                     "engine": "1.2L (88/73 Hp) iCNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000/73/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
@@ -3458,6 +3742,7 @@
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3467,7 +3752,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   },
                   {
                     "id": "52418",
@@ -3477,6 +3762,7 @@
                     "generation": "Altroz",
                     "engine": "1.2L i-Turbo+ (120 Hp) Racer",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
@@ -3484,6 +3770,7 @@
                     "yearstart": "2024",
                     "yearstop": "2025",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3990",
@@ -3493,7 +3780,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -3561,12 +3848,14 @@
                     "generation": "Punch",
                     "engine": "1.2L (86 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3827",
@@ -3574,7 +3863,7 @@
                     "height": "1615",
                     "heightMin": "1615",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "46547",
@@ -3584,12 +3873,14 @@
                     "generation": "Punch",
                     "engine": "1.2L (86 Hp) Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "86/6000",
                     "powerHp": "86",
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3827",
@@ -3597,7 +3888,7 @@
                     "height": "1615",
                     "heightMin": "1615",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "49634",
@@ -3607,6 +3898,7 @@
                     "generation": "Punch",
                     "engine": "1.2L (88/73 Hp) CNG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "88/6000/73/6000",
                     "powerHp": "88",
                     "powerRpm": "6000",
@@ -3616,6 +3908,7 @@
                     "powerRpmLowCNG": "6000",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3827",
@@ -3625,7 +3918,7 @@
                     "rideHeight": "187",
                     "rideHeightMin": "187",
                     "fuel": "Petrol / CNG",
-                    "curbWeight": ""
+                    "fuelId": "5"
                   },
                   {
                     "id": "52475",
@@ -3635,8 +3928,10 @@
                     "generation": "Punch",
                     "engine": "EV 25 kWh (82 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3857",
@@ -3646,7 +3941,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52476",
@@ -3656,8 +3951,10 @@
                     "generation": "Punch",
                     "engine": "EV 35 kWh (122 Hp) Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "3857",
@@ -3667,7 +3964,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -3697,8 +3994,10 @@
                     "generation": "Curvv",
                     "engine": "EV 55 kWh (167 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4310",
@@ -3708,7 +4007,7 @@
                     "rideHeight": "186",
                     "rideHeightMin": "186",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52434",
@@ -3718,8 +4017,10 @@
                     "generation": "Curvv",
                     "engine": "EV 45 kWh (150 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4310",
@@ -3729,7 +4030,7 @@
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52435",
@@ -3739,12 +4040,14 @@
                     "generation": "Curvv",
                     "engine": "1.2L Revotron (120 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3752,7 +4055,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52436",
@@ -3762,12 +4065,14 @@
                     "generation": "Curvv",
                     "engine": "1.2L Revotron (120 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "120/5500",
                     "powerHp": "120",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3775,7 +4080,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52437",
@@ -3785,12 +4090,14 @@
                     "generation": "Curvv",
                     "engine": "1.2L Hyperion (125 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/5000",
                     "powerHp": "125",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3798,7 +4105,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52438",
@@ -3808,12 +4115,14 @@
                     "generation": "Curvv",
                     "engine": "1.2L Hyperion (125 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "125/5000",
                     "powerHp": "125",
                     "powerRpm": "5000",
                     "powerRpmLow": "5000",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3821,7 +4130,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   },
                   {
                     "id": "52439",
@@ -3831,12 +4140,14 @@
                     "generation": "Curvv",
                     "engine": "1.5L Kryojet (118 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "118/4000",
                     "powerHp": "118",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3844,7 +4155,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   },
                   {
                     "id": "52440",
@@ -3854,12 +4165,14 @@
                     "generation": "Curvv",
                     "engine": "1.5L Kryojet (118 Hp) DCA",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "118/4000",
                     "powerHp": "118",
                     "powerRpm": "4000",
                     "powerRpmLow": "4000",
                     "yearstart": "2024",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4308",
@@ -3867,7 +4180,7 @@
                     "height": "1630",
                     "heightMin": "1630",
                     "fuel": "Diesel",
-                    "curbWeight": ""
+                    "fuelId": "2"
                   }
                 ]
               }

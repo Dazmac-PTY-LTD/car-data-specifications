@@ -26,12 +26,14 @@
                     "generation": "X-Bow GT-XR",
                     "engine": "2.5 TFSI (500 Hp) DSG",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "500/6350",
                     "powerHp": "500",
                     "powerRpm": "6350",
                     "powerRpmLow": "6350",
                     "yearstart": "2023",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4626",
@@ -41,6 +43,7 @@
                     "rideHeight": "90",
                     "rideHeightMin": "90",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1130",
                     "curbWeightMin": "1130"
                   }
@@ -63,6 +66,7 @@
                     "generation": "X-Bow GT",
                     "engine": "2.0 Turbo (285 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "285/6400",
                     "powerHp": "285",
                     "powerRpm": "6400",
@@ -70,6 +74,7 @@
                     "yearstart": "2013",
                     "yearstop": "2017",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3738",
@@ -77,6 +82,7 @@
                     "height": "1202",
                     "heightMin": "1202",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "847",
                     "curbWeightMin": "847"
                   }
@@ -99,6 +105,7 @@
                     "generation": "X-Bow",
                     "engine": "R 2.0 (240 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "240/6500",
                     "powerHp": "240",
                     "powerRpm": "6500",
@@ -106,6 +113,7 @@
                     "yearstart": "2007",
                     "yearstop": "2016",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "3738",
@@ -113,6 +121,7 @@
                     "height": "1202",
                     "heightMin": "1202",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "790",
                     "curbWeightMin": "790"
                   }

@@ -26,11 +26,13 @@
                     "generation": "Tuatara",
                     "engine": "5.9 V8 (1350/1750 Hp) Flex Fuel Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "1350//1750",
                     "powerHp": "1350",
                     "powerHpE85": "1750",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4430",
@@ -41,6 +43,7 @@
                     "rideHeightMin": "70",
                     "rideHeightMax": "102",
                     "fuel": "Petrol / Ethanol - E85",
+                    "fuelId": "9",
                     "curbWeight": "1247",
                     "curbWeightMin": "1247"
                   }
@@ -72,6 +75,7 @@
                     "generation": "Ultimate Aero",
                     "engine": "6.3 V8 (1183 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "1183/6950",
                     "powerHp": "1183",
                     "powerRpm": "6950",
@@ -79,10 +83,11 @@
                     "yearstart": "2007",
                     "yearstop": "2008",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }

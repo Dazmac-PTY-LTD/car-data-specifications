@@ -26,6 +26,7 @@
                     "generation": "VV5",
                     "engine": "2.0 Turbo (197 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "197/5200-5500",
                     "powerHp": "197",
                     "powerRpm": "5200-5500",
@@ -33,6 +34,7 @@
                     "powerRpmHigh": "5500",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4462",
@@ -42,7 +44,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -82,12 +84,14 @@
                     "generation": "VV7",
                     "engine": "S 2.0 Turbo (234 Hp) AWD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "234/5500",
                     "powerHp": "234",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4765",
@@ -97,7 +101,7 @@
                     "rideHeight": "211",
                     "rideHeightMin": "211",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -137,12 +141,14 @@
                     "generation": "P8",
                     "engine": "2.0 T (340 Hp) Plug-in Hybrid AWD DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "234/5500",
                     "powerHp": "234",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2017",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -152,7 +158,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -239,6 +245,7 @@
                     "generation": "Tank 300",
                     "engine": "2.0T (227 Hp) 4WD Automatic",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "227/5500",
                     "powerHp": "227",
                     "powerRpm": "5500",
@@ -246,6 +253,7 @@
                     "yearstart": "2020",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4760",
@@ -255,7 +263,7 @@
                     "rideHeight": "224",
                     "rideHeightMin": "224",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -285,11 +293,13 @@
                     "generation": "Coffee 01",
                     "engine": "2.0T (476 Hp) Plug-in Hybrid AWD DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "204",
                     "powerHp": "204",
                     "yearstart": "2022",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -300,6 +310,7 @@
                     "rideHeight": "160",
                     "rideHeightMin": "160",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2335-2365",
                     "curbWeightMin": "2335",
                     "curbWeightMax": "2365"
@@ -332,6 +343,7 @@
                     "generation": "Coffee 02",
                     "engine": "2.0T (362 Hp) Plug-in Hybrid DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "201/6000-6300",
                     "powerHp": "201",
                     "powerRpm": "6000-6300",
@@ -340,6 +352,7 @@
                     "yearstart": "2021",
                     "yearstop": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4668",
@@ -347,6 +360,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2100",
                     "curbWeightMin": "2100"
                   }
@@ -378,10 +392,12 @@
                     "generation": "05",
                     "engine": "2.0L (476 Hp) Plug-in Hybrid AWD DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "204",
                     "powerHp": "204",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4870",
@@ -389,6 +405,7 @@
                     "height": "1690",
                     "heightMin": "1690",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2335-2365",
                     "curbWeightMin": "2335",
                     "curbWeightMax": "2365"
@@ -421,10 +438,12 @@
                     "generation": "03",
                     "engine": "2.0L (367 Hp) Plug-in Hybrid DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "204",
                     "powerHp": "204",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4668",
@@ -432,6 +451,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2100",
                     "curbWeightMin": "2100"
                   },
@@ -443,10 +463,12 @@
                     "generation": "03",
                     "engine": "2.0L (442 Hp) Plug-in Hybrid AWD DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "204",
                     "powerHp": "204",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4668",
@@ -454,6 +476,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2220",
                     "curbWeightMin": "2220"
                   }
@@ -485,10 +508,12 @@
                     "generation": "Latte",
                     "engine": "1.5T (326 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "156",
                     "powerHp": "156",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4668",
@@ -496,7 +521,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "53029",
@@ -506,10 +531,12 @@
                     "generation": "Latte",
                     "engine": "1.5T (437 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "156",
                     "powerHp": "156",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4668",
@@ -517,7 +544,7 @@
                     "height": "1730",
                     "heightMin": "1730",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -547,6 +574,7 @@
                     "generation": "07",
                     "engine": "1.5T (517 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -554,6 +582,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5156",
@@ -563,6 +592,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2685",
                     "curbWeightMin": "2685"
                   }
@@ -594,6 +624,7 @@
                     "generation": "80 Long",
                     "engine": "1.5T (487 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "152/5500-6000",
                     "powerHp": "152",
                     "powerRpm": "5500-6000",
@@ -601,6 +632,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5405",
@@ -610,6 +642,7 @@
                     "rideHeight": "145",
                     "rideHeightMin": "145",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2960",
                     "curbWeightMin": "2960"
                   }
@@ -632,6 +665,7 @@
                     "generation": "80",
                     "engine": "1.5T (487 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "152/5500-6000",
                     "powerHp": "152",
                     "powerRpm": "5500-6000",
@@ -639,6 +673,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5045",
@@ -648,6 +683,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2850",
                     "curbWeightMin": "2850"
                   }
@@ -679,6 +715,7 @@
                     "generation": "G9",
                     "engine": "Hi4 1.5L (442 Hp) Plug-in Hybrid AWD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "150/5500-6000",
                     "powerHp": "150",
                     "powerRpm": "5500-6000",
@@ -686,6 +723,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2026",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5050",
@@ -695,6 +733,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2803",
                     "curbWeightMin": "2803"
                   }
@@ -726,10 +765,12 @@
                     "generation": "V9X LWB",
                     "engine": "Hi4 2.0T 55.4 kWh (694 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "238",
                     "powerHp": "238",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5299",
@@ -737,7 +778,7 @@
                     "height": "1825",
                     "heightMin": "1825",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "57582",
@@ -747,10 +788,12 @@
                     "generation": "V9X LWB",
                     "engine": "Hi4 2.0T 80 kWh (748 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "238",
                     "powerHp": "238",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5299",
@@ -758,7 +801,7 @@
                     "height": "1825",
                     "heightMin": "1825",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -779,10 +822,12 @@
                     "generation": "V9X SWB",
                     "engine": "Hi4 1.5T 66.6 kWh (612 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5205",
@@ -790,7 +835,7 @@
                     "height": "1825",
                     "heightMin": "1825",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "57568",
@@ -800,10 +845,12 @@
                     "generation": "V9X SWB",
                     "engine": "Hi4 2.0T 66.6 kWh (680 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "238",
                     "powerHp": "238",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5205",
@@ -811,7 +858,7 @@
                     "height": "1825",
                     "heightMin": "1825",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -841,10 +888,12 @@
                     "generation": "V8X",
                     "engine": "Hi4 1.5T 66.6 kWh (612 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -852,7 +901,7 @@
                     "height": "1821",
                     "heightMin": "1821",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "57580",
@@ -862,10 +911,12 @@
                     "generation": "V8X",
                     "engine": "Hi4 2.0T 66.6 kWh (680 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "238",
                     "powerHp": "238",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5125",
@@ -873,7 +924,7 @@
                     "height": "1821",
                     "heightMin": "1821",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -903,6 +954,7 @@
                     "generation": "Blue Mountain",
                     "engine": "Hi4 1.5T 44.5 kWh (533 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170/5500-6000",
                     "powerHp": "170",
                     "powerRpm": "5500-6000",
@@ -910,6 +962,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5156",
@@ -917,7 +970,7 @@
                     "height": "1805",
                     "heightMin": "1805",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   },
                   {
                     "id": "57584",
@@ -927,6 +980,7 @@
                     "generation": "Blue Mountain",
                     "engine": "Hi4 1.5T 52.3 kWh (574 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170/5500-6000",
                     "powerHp": "170",
                     "powerRpm": "5500-6000",
@@ -934,6 +988,7 @@
                     "powerRpmHigh": "6000",
                     "yearstart": "2024",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5156",
@@ -941,7 +996,7 @@
                     "height": "1805",
                     "heightMin": "1805",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -971,10 +1026,12 @@
                     "generation": "Gaoshan 9 LWB",
                     "engine": "Hi4 1.5T 51.55 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5410",
@@ -984,7 +1041,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -1005,10 +1062,12 @@
                     "generation": "Gaoshan 8 MWB",
                     "engine": "Hi4 1.5T 44.28 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "6-7",
                     "placesMin": "6",
                     "placesMax": "7",
@@ -1019,7 +1078,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -1040,10 +1099,12 @@
                     "generation": "Gaoshan 7 SWB",
                     "engine": "Hi4 1.5T 44.28 kWh (458 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5050",
@@ -1053,7 +1114,7 @@
                     "rideHeight": "155",
                     "rideHeightMin": "155",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -1083,10 +1144,12 @@
                     "generation": "Mocha (facelift 2023)",
                     "engine": "Hi4 1.5T 35.04 kWh (476 Hp) Plug-in Hybrid 4WD DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "170",
                     "powerHp": "170",
                     "yearstart": "2023",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4881",
@@ -1096,7 +1159,7 @@
                     "rideHeight": "180",
                     "rideHeightMin": "180",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }

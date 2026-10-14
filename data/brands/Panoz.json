@@ -26,6 +26,7 @@
                     "generation": "AIV Roadster",
                     "engine": "4.6 i V8 32V (309 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "309/5800",
                     "powerHp": "309",
                     "powerRpm": "5800",
@@ -33,6 +34,7 @@
                     "yearstart": "1996",
                     "yearstop": "1999",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4040",
@@ -40,6 +42,7 @@
                     "height": "1190",
                     "heightMin": "1190",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1160",
                     "curbWeightMin": "1160"
                   }
@@ -71,6 +74,7 @@
                     "generation": "Esperante",
                     "engine": "4.6 i V8 32V (324 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "324/6000",
                     "powerHp": "324",
                     "powerRpm": "6000",
@@ -78,6 +82,7 @@
                     "yearstart": "1999",
                     "yearstop": "2009",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4475",
@@ -85,6 +90,7 @@
                     "height": "1355",
                     "heightMin": "1355",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1450",
                     "curbWeightMin": "1450"
                   }
@@ -116,6 +122,7 @@
                     "generation": "Abruzzi Prototype",
                     "engine": "6.2 V8 (649 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "649/6500",
                     "powerHp": "649",
                     "powerRpm": "6500",
@@ -123,10 +130,12 @@
                     "yearstart": "2011",
                     "yearstop": "2011",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4877",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1400",
                     "curbWeightMin": "1400"
                   }

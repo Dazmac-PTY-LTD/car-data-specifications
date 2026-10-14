@@ -26,12 +26,14 @@
                     "generation": "Berlinetta",
                     "engine": "5.0 V8 (965 Hp) Plug-in Hybrid Automatic",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "power": "750/7000",
                     "powerHp": "750",
                     "powerRpm": "7000",
                     "powerRpmLow": "7000",
                     "yearstart": "2019",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4500",
@@ -40,6 +42,7 @@
                     "height": "1281",
                     "heightMin": "1281",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1410",
                     "curbWeightMin": "1410"
                   }

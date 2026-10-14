@@ -26,8 +26,10 @@
                     "generation": "Ren",
                     "engine": "RS 28.4 kWh (1305 Hp) AWD Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "yearstart": "2018",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "1",
                     "placesMin": "1",
                     "length": "5072",
@@ -37,6 +39,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1854",
                     "curbWeightMin": "1854"
                   },
@@ -48,8 +51,10 @@
                     "generation": "Ren",
                     "engine": "28.4 kWh (1305 Hp) AWD Automatic",
                     "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
                     "yearstart": "2017",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "3",
                     "placesMin": "3",
                     "length": "4694",
@@ -57,6 +62,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Diesel",
+                    "fuelId": "2",
                     "curbWeight": "1630",
                     "curbWeightMin": "1630"
                   }

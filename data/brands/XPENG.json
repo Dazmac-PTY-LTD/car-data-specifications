@@ -26,8 +26,10 @@
                     "generation": "G3i (facelift 2021)",
                     "engine": "460 55 kWh (197 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4495",
@@ -37,6 +39,7 @@
                     "rideHeight": "130",
                     "rideHeightMin": "130",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1630-1680",
                     "curbWeightMin": "1630",
                     "curbWeightMax": "1680"
@@ -49,8 +52,10 @@
                     "generation": "G3i (facelift 2021)",
                     "engine": "520 66 kWh (197 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4495",
@@ -60,6 +65,7 @@
                     "rideHeight": "130",
                     "rideHeightMin": "130",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1655-1665",
                     "curbWeightMin": "1655",
                     "curbWeightMax": "1665"
@@ -83,9 +89,11 @@
                     "generation": "G3",
                     "engine": "47.1 kWh (197 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4450",
@@ -95,6 +103,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1585",
                     "curbWeightMin": "1585"
                   },
@@ -106,9 +115,11 @@
                     "generation": "G3",
                     "engine": "47.6 kWh (197 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2018",
                     "yearstop": "2021",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4450",
@@ -119,6 +130,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1585",
                     "curbWeightMin": "1585"
                   }
@@ -150,8 +162,10 @@
                     "generation": "P7 II",
                     "engine": "74.9 kWh (367 Hp) Long Range Ultra",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5017",
@@ -161,6 +175,7 @@
                     "rideHeight": "142",
                     "rideHeightMin": "142",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2125",
                     "curbWeightMin": "2125"
                   },
@@ -172,8 +187,10 @@
                     "generation": "P7 II",
                     "engine": "92.2 kWh (367 Hp) Ultra Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5017",
@@ -183,6 +200,7 @@
                     "rideHeight": "142",
                     "rideHeightMin": "142",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2090",
                     "curbWeightMin": "2090"
                   },
@@ -194,8 +212,10 @@
                     "generation": "P7 II",
                     "engine": "92.2 kWh (594 Hp) 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5017",
@@ -205,6 +225,7 @@
                     "rideHeight": "142",
                     "rideHeightMin": "142",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2188-2220",
                     "curbWeightMin": "2188",
                     "curbWeightMax": "2220"
@@ -228,8 +249,10 @@
                     "generation": "P7i I (facelift 2023)",
                     "engine": "550 64.4 kWh (276 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4888",
@@ -239,7 +262,7 @@
                     "rideHeight": "113",
                     "rideHeightMin": "113",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "51598",
@@ -249,8 +272,10 @@
                     "generation": "P7i I (facelift 2023)",
                     "engine": "702 86.2 kWh (276 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4888",
@@ -260,6 +285,7 @@
                     "rideHeight": "113",
                     "rideHeightMin": "113",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   },
@@ -271,8 +297,10 @@
                     "generation": "P7i I (facelift 2023)",
                     "engine": "610 86.2 kWh (473 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4888",
@@ -282,6 +310,7 @@
                     "rideHeight": "113",
                     "rideHeightMin": "113",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2040",
                     "curbWeightMin": "2040"
                   }
@@ -304,9 +333,11 @@
                     "generation": "P7 I",
                     "engine": "60.2 kWh (267 Hp) RWD Standard Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -314,6 +345,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1920",
                     "curbWeightMin": "1920"
                   },
@@ -325,9 +357,11 @@
                     "generation": "P7 I",
                     "engine": "70.8 kWh (267 Hp) RWD Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -335,6 +369,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1865-1890",
                     "curbWeightMin": "1865",
                     "curbWeightMax": "1890"
@@ -347,9 +382,11 @@
                     "generation": "P7 I",
                     "engine": "80 kWh (267 Hp) RWD Super Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -357,6 +394,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1910-1935",
                     "curbWeightMin": "1910",
                     "curbWeightMax": "1935"
@@ -369,9 +407,11 @@
                     "generation": "P7 I",
                     "engine": "80 kWh (430 Hp) 4WD High Performance",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2020",
                     "yearstop": "2023",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4880",
@@ -379,6 +419,7 @@
                     "height": "1450",
                     "heightMin": "1450",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2060",
                     "curbWeightMin": "2060"
                   }
@@ -410,8 +451,10 @@
                     "generation": "P5",
                     "engine": "460 55.9 kWh (211 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4808",
@@ -419,7 +462,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "46340",
@@ -429,8 +472,10 @@
                     "generation": "P5",
                     "engine": "510 61.3 kWh (211 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4808",
@@ -438,7 +483,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "46341",
@@ -448,8 +493,10 @@
                     "generation": "P5",
                     "engine": "550 66.2 kWh (211 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4808",
@@ -457,7 +504,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "46342",
@@ -467,8 +514,10 @@
                     "generation": "P5",
                     "engine": "600 71.4 kWh (211 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "coupe": "Sedan, Fastback",
+                    "coupeId": "6,19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4808",
@@ -476,7 +525,7 @@
                     "height": "1520",
                     "heightMin": "1520",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -506,8 +555,10 @@
                     "generation": "G9 (facelift 2025)",
                     "engine": "Long Range 79 kWh (351 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -515,6 +566,7 @@
                     "height": "1670",
                     "heightMin": "1670",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2196",
                     "curbWeightMin": "2196"
                   },
@@ -526,8 +578,10 @@
                     "generation": "G9 (facelift 2025)",
                     "engine": "Ultra Long Range 93.1 kWh (351 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -535,6 +589,7 @@
                     "height": "1670",
                     "heightMin": "1670",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2285",
                     "curbWeightMin": "2285"
                   },
@@ -546,8 +601,10 @@
                     "generation": "G9 (facelift 2025)",
                     "engine": "Ultra Long Range 93.1 kWh (575 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -555,6 +612,7 @@
                     "height": "1670",
                     "heightMin": "1670",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2378",
                     "curbWeightMin": "2378"
                   }
@@ -577,9 +635,11 @@
                     "generation": "G9",
                     "engine": "Standard 78.2 kWh (313 Hp) BEV RWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -587,7 +647,7 @@
                     "height": "1680",
                     "heightMin": "1680",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "46705",
@@ -597,9 +657,11 @@
                     "generation": "G9",
                     "engine": "Long Range 98 kWh (313 Hp) BEV RWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -607,7 +669,7 @@
                     "height": "1680",
                     "heightMin": "1680",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "46706",
@@ -617,9 +679,11 @@
                     "generation": "G9",
                     "engine": "Performance 98 kWh (551 Hp) BEV 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4891",
@@ -627,7 +691,7 @@
                     "height": "1680",
                     "heightMin": "1680",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -657,8 +721,10 @@
                     "generation": "G6 (facelift 2025)",
                     "engine": "Long Range 68.5 kWh (296 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4758",
@@ -666,6 +732,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2030",
                     "curbWeightMin": "2030"
                   },
@@ -677,8 +744,10 @@
                     "generation": "G6 (facelift 2025)",
                     "engine": "Ultra Long Range 80.8 kWh (296 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4758",
@@ -686,6 +755,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2116",
                     "curbWeightMin": "2116"
                   },
@@ -697,12 +767,14 @@
                     "generation": "G6 (facelift 2025)",
                     "engine": "1.5T 55.8 kWh (296 Hp) Range Extender",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150/5500",
                     "powerHp": "150",
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4771",
@@ -710,6 +782,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2190",
                     "curbWeightMin": "2190"
                   },
@@ -721,8 +794,10 @@
                     "generation": "G6 (facelift 2025)",
                     "engine": "Standard Range 68.5 kWh (252 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4758",
@@ -730,6 +805,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2065",
                     "curbWeightMin": "2065"
                   },
@@ -741,8 +817,10 @@
                     "generation": "G6 (facelift 2025)",
                     "engine": "Performance 80.8 kWh (487 Hp) Electric AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4758",
@@ -750,6 +828,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2220",
                     "curbWeightMin": "2220"
                   }
@@ -772,9 +851,11 @@
                     "generation": "G6",
                     "engine": "Long Life 66 kWh (296 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4753",
@@ -782,6 +863,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1995",
                     "curbWeightMin": "1995"
                   },
@@ -793,9 +875,11 @@
                     "generation": "G6",
                     "engine": "Super Long Life 87.5 kWh (296 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4753",
@@ -803,6 +887,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2095",
                     "curbWeightMin": "2095"
                   },
@@ -814,9 +899,11 @@
                     "generation": "G6",
                     "engine": "Performance 87.5 kWh (487 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4753",
@@ -824,6 +911,7 @@
                     "height": "1650",
                     "heightMin": "1650",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2095",
                     "curbWeightMin": "2095"
                   }
@@ -855,8 +943,10 @@
                     "generation": "X9 (facelift 2026)",
                     "engine": "94.8 kWh (347 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5316",
@@ -864,6 +954,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2850",
                     "curbWeightMin": "2850"
                   },
@@ -875,8 +966,10 @@
                     "generation": "X9 (facelift 2026)",
                     "engine": "110 kWh (347 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5316",
@@ -884,6 +977,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2795",
                     "curbWeightMin": "2795"
                   },
@@ -895,8 +989,10 @@
                     "generation": "X9 (facelift 2026)",
                     "engine": "110 kWh (537 Hp) Electric AWD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5316",
@@ -904,6 +1000,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2845",
                     "curbWeightMin": "2845"
                   }
@@ -926,8 +1023,10 @@
                     "generation": "X9 (facelift 2025)",
                     "engine": "Long Range 94.8 kWh (320 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -935,7 +1034,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "55003",
@@ -945,8 +1044,10 @@
                     "generation": "X9 (facelift 2025)",
                     "engine": "Ultra Long Range 105 kWh (320 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -954,7 +1055,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "55004",
@@ -964,8 +1065,10 @@
                     "generation": "X9 (facelift 2025)",
                     "engine": "Performance 105 kWh (503 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -973,7 +1076,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "56060",
@@ -983,10 +1086,12 @@
                     "generation": "X9 (facelift 2025)",
                     "engine": "1.5T 63.3 kWh (286 Hp) Super Range Extender",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5316",
@@ -994,6 +1099,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2750",
                     "curbWeightMin": "2750"
                   }
@@ -1016,9 +1122,11 @@
                     "generation": "X9",
                     "engine": "610 84.5 kWh (320 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -1026,7 +1134,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "51639",
@@ -1036,9 +1144,11 @@
                     "generation": "X9",
                     "engine": "702 101.5 kWh (320 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -1046,7 +1156,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "51640",
@@ -1056,9 +1166,11 @@
                     "generation": "X9",
                     "engine": "640 101.5 kWh (503 Hp) Electric 4WD",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2023",
                     "yearstop": "2025",
                     "coupe": "Minivan",
+                    "coupeId": "4",
                     "places": "7",
                     "placesMin": "7",
                     "length": "5293",
@@ -1066,7 +1178,7 @@
                     "height": "1785",
                     "heightMin": "1785",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1096,8 +1208,10 @@
                     "generation": "Mona M03",
                     "engine": "515 51.8 kWh (190 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1105,7 +1219,7 @@
                     "height": "1445",
                     "heightMin": "1445",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52799",
@@ -1115,8 +1229,10 @@
                     "generation": "Mona M03",
                     "engine": "620 62.2 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1124,7 +1240,7 @@
                     "height": "1445",
                     "heightMin": "1445",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "52800",
@@ -1134,8 +1250,10 @@
                     "generation": "Mona M03",
                     "engine": "580 Max 62.2 kWh (218 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "coupe": "Liftback",
+                    "coupeId": "20",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4780",
@@ -1143,7 +1261,7 @@
                     "height": "1445",
                     "heightMin": "1445",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -1173,8 +1291,10 @@
                     "generation": "P7+ (facelift 2026)",
                     "engine": "61.7 kWh (245 Hp) Electric Standard Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5071",
@@ -1182,6 +1302,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1999-2024",
                     "curbWeightMin": "1999",
                     "curbWeightMax": "2024"
@@ -1194,8 +1315,10 @@
                     "generation": "P7+ (facelift 2026)",
                     "engine": "74.9 kWh (313 Hp) Electric Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5071",
@@ -1203,6 +1326,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2100-2125",
                     "curbWeightMin": "2100",
                     "curbWeightMax": "2125"
@@ -1215,10 +1339,12 @@
                     "generation": "P7+ (facelift 2026)",
                     "engine": "1.5T 49.2 kWh (245 Hp) Range Extender",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "150",
                     "powerHp": "150",
                     "yearstart": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5071",
@@ -1226,6 +1352,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "2160",
                     "curbWeightMin": "2160"
                   },
@@ -1237,8 +1364,10 @@
                     "generation": "P7+ (facelift 2026)",
                     "engine": "74.9 kWh (503 Hp) Electric AWD Performance",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5071",
@@ -1246,6 +1375,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2200-2225",
                     "curbWeightMin": "2200",
                     "curbWeightMax": "2225"
@@ -1269,9 +1399,11 @@
                     "generation": "P7+",
                     "engine": "74.9 kWh (313 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "yearstop": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5056",
@@ -1279,6 +1411,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2084",
                     "curbWeightMin": "2084"
                   },
@@ -1290,9 +1423,11 @@
                     "generation": "P7+",
                     "engine": "76.3 kWh (313 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5056",
@@ -1300,6 +1435,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2073",
                     "curbWeightMin": "2073"
                   },
@@ -1311,9 +1447,11 @@
                     "generation": "P7+",
                     "engine": "60.7 kWh (245 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2024",
                     "yearstop": "2026",
                     "coupe": "Fastback",
+                    "coupeId": "19",
                     "places": "5",
                     "placesMin": "5",
                     "length": "5056",
@@ -1321,6 +1459,7 @@
                     "height": "1512",
                     "heightMin": "1512",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1967",
                     "curbWeightMin": "1967"
                   }
@@ -1352,8 +1491,10 @@
                     "generation": "G7",
                     "engine": "68.5 kWh (296 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4892",
@@ -1361,6 +1502,7 @@
                     "height": "1655",
                     "heightMin": "1655",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2085",
                     "curbWeightMin": "2085"
                   },
@@ -1372,8 +1514,10 @@
                     "generation": "G7",
                     "engine": "80.8 kWh (296 Hp)",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4892",
@@ -1381,6 +1525,7 @@
                     "height": "1655",
                     "heightMin": "1655",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "2145",
                     "curbWeightMin": "2145"
                   }
@@ -1406,14 +1551,16 @@
                 "modification": [
                   {
                     "id": "57008",
-                    "update": "2026-05-14 16:16:13",
+                    "update": "2026-10-13 12:33:27",
                     "brand": "XPENG",
                     "model": "GX",
                     "generation": "GX",
                     "engine": "110 kWh (585 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5265",
@@ -1421,7 +1568,7 @@
                     "height": "1800",
                     "heightMin": "1800",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57009",
@@ -1431,8 +1578,10 @@
                     "generation": "GX",
                     "engine": "1.5T 63.3 kWh (503 Hp) 4WD Extended Range Electric",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "yearstart": "2026",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "6",
                     "placesMin": "6",
                     "length": "5265",
@@ -1440,7 +1589,7 @@
                     "height": "1800",
                     "heightMin": "1800",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -1464,14 +1613,16 @@
                 "modification": [
                   {
                     "id": "57502",
-                    "update": "2026-07-17 16:13:29",
+                    "update": "2026-10-13 15:00:50",
                     "brand": "XPENG",
                     "model": "Mona L03",
                     "generation": "Mona L03",
                     "engine": "56 kWh (249 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1479,18 +1630,20 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57503",
-                    "update": "2026-07-17 16:13:29",
+                    "update": "2026-10-13 15:01:03",
                     "brand": "XPENG",
                     "model": "Mona L03",
                     "generation": "Mona L03",
                     "engine": "69 kWh (249 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1498,7 +1651,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "57504",
@@ -1508,10 +1661,12 @@
                     "generation": "Mona L03",
                     "engine": "1.5L 37.2 kWh (249 Hp) Range Extender",
                     "powertrain": "REEV (Range-Extended Electric Vehicle)",
+                    "powertrainId": "5",
                     "power": "92",
                     "powerHp": "92",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1519,7 +1674,7 @@
                     "height": "1600",
                     "heightMin": "1600",
                     "fuel": "Petrol / electricity",
-                    "curbWeight": ""
+                    "fuelId": "7"
                   }
                 ]
               }
@@ -1549,8 +1704,10 @@
                     "generation": "L03",
                     "engine": "58 kWh (222 Hp) Standard Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1560,6 +1717,7 @@
                     "rideHeight": "143",
                     "rideHeightMin": "143",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1870",
                     "curbWeightMin": "1870"
                   },
@@ -1571,8 +1729,10 @@
                     "generation": "L03",
                     "engine": "71 kWh (249 Hp) Long Range",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2026",
                     "coupe": "Coupe, SUV (Sport Utility Vehicle)",
+                    "coupeId": "3,9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4650",
@@ -1582,6 +1742,7 @@
                     "rideHeight": "143",
                     "rideHeightMin": "143",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1940-1960",
                     "curbWeightMin": "1940",
                     "curbWeightMax": "1960"

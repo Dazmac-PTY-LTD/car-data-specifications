@@ -26,8 +26,10 @@
                     "generation": "Budii Concept",
                     "engine": "21.6 kWh (170 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2015",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4008",
@@ -35,6 +37,7 @@
                     "height": "1620",
                     "heightMin": "1620",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1310",
                     "curbWeightMin": "1310"
                   }
@@ -66,8 +69,10 @@
                     "generation": "Etos Concept",
                     "engine": "1.5 (362 Hp) Plug-in Hybrid AWD",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
                     "yearstart": "2016",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4761",
@@ -75,6 +80,7 @@
                     "height": "1297",
                     "heightMin": "1297",
                     "fuel": "Petrol / electricity",
+                    "fuelId": "7",
                     "curbWeight": "1585",
                     "curbWeightMin": "1585"
                   }
@@ -106,6 +112,7 @@
                     "generation": "Oasis Concept",
                     "engine": "12 kWh (108 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2017",
                     "places": "2",
                     "placesMin": "2",
@@ -114,6 +121,7 @@
                     "height": "1517",
                     "heightMin": "1517",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1100",
                     "curbWeightMin": "1100"
                   }

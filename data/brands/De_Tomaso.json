@@ -26,6 +26,7 @@
                     "generation": "Bigua",
                     "engine": "4.6 i V8 32V (304 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "304/6500",
                     "powerHp": "304",
                     "powerRpm": "6500",
@@ -33,6 +34,7 @@
                     "yearstart": "1991",
                     "yearstop": "1998",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4194",
@@ -40,6 +42,7 @@
                     "height": "1275",
                     "heightMin": "1275",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1200",
                     "curbWeightMin": "1200"
                   }
@@ -71,6 +74,7 @@
                     "generation": "Guara",
                     "engine": "4.0 i V8 32V (283 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "283/5500",
                     "powerHp": "283",
                     "powerRpm": "5500",
@@ -78,6 +82,7 @@
                     "yearstart": "1993",
                     "yearstop": "2001",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4190",
@@ -85,6 +90,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1200",
                     "curbWeightMin": "1200"
                   },
@@ -96,6 +102,7 @@
                     "generation": "Guara",
                     "engine": "4.0 i V8 32V (304 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "304/5500",
                     "powerHp": "304",
                     "powerRpm": "5500",
@@ -103,6 +110,7 @@
                     "yearstart": "1993",
                     "yearstop": "2001",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4190",
@@ -110,6 +118,7 @@
                     "height": "1200",
                     "heightMin": "1200",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "985",
                     "curbWeightMin": "985"
                   }
@@ -132,6 +141,7 @@
                     "generation": "Guara Barchetta",
                     "engine": "4.0 i V8 32V (304 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "304/5500",
                     "powerHp": "304",
                     "powerRpm": "5500",
@@ -139,6 +149,7 @@
                     "yearstart": "1993",
                     "yearstop": "2001",
                     "coupe": "Roadster",
+                    "coupeId": "17",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4190",
@@ -146,7 +157,7 @@
                     "height": "1180",
                     "heightMin": "1180",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -176,6 +187,7 @@
                     "generation": "Mangusta II",
                     "engine": "4.8 i V8 32V (305 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "305/6200",
                     "powerHp": "305",
                     "powerRpm": "6200",
@@ -183,6 +195,7 @@
                     "yearstart": "1996",
                     "yearstop": "2001",
                     "coupe": "Cabriolet",
+                    "coupeId": "2",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4275",
@@ -190,6 +203,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1185",
                     "curbWeightMin": "1185"
                   }
@@ -221,13 +235,15 @@
                     "generation": "Vallelunga",
                     "engine": "1500 (135 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "135/",
                     "powerHp": "135",
                     "yearstart": "1964",
                     "yearstop": "1968",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "fuel": "Petrol (Gasoline)",
-                    "curbWeight": ""
+                    "fuelId": "1"
                   }
                 ]
               }
@@ -257,6 +273,7 @@
                     "generation": "Pantera Si",
                     "engine": "5.0 V8 (309 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "309/5800",
                     "powerHp": "309",
                     "powerRpm": "5800",
@@ -264,10 +281,12 @@
                     "yearstart": "1990",
                     "yearstop": "1992",
                     "coupe": "Targa",
+                    "coupeId": "16",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4370",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1497",
                     "curbWeightMin": "1497"
                   }
@@ -290,6 +309,7 @@
                     "generation": "Pantera GT5",
                     "engine": "5.8 V8 (350 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "350/6000",
                     "powerHp": "350",
                     "powerRpm": "6000",
@@ -297,6 +317,7 @@
                     "yearstart": "1980",
                     "yearstop": "1989",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4270",
@@ -306,6 +327,7 @@
                     "rideHeight": "146",
                     "rideHeightMin": "146",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1474",
                     "curbWeightMin": "1474"
                   }
@@ -328,6 +350,7 @@
                     "generation": "Pantera GTS",
                     "engine": "5.8 V8 (350 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "350/6000",
                     "powerHp": "350",
                     "powerRpm": "6000",
@@ -335,6 +358,7 @@
                     "yearstart": "1972",
                     "yearstop": "1974",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4270",
@@ -342,6 +366,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   },
@@ -353,6 +378,7 @@
                     "generation": "Pantera GTS",
                     "engine": "5.8 V8 (270 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "270/5400",
                     "powerHp": "270",
                     "powerRpm": "5400",
@@ -360,6 +386,7 @@
                     "yearstart": "1973",
                     "yearstop": "1974",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4453",
@@ -367,6 +394,7 @@
                     "height": "1128",
                     "heightMin": "1128",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1488",
                     "curbWeightMin": "1488"
                   },
@@ -378,6 +406,7 @@
                     "generation": "Pantera GTS",
                     "engine": "5.8 V8 (290 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "290/5800",
                     "powerHp": "290",
                     "powerRpm": "5800",
@@ -385,6 +414,7 @@
                     "yearstart": "1978",
                     "yearstop": "1988",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4270",
@@ -392,6 +422,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   },
@@ -403,6 +434,7 @@
                     "generation": "Pantera GTS",
                     "engine": "5.8 V8 (212 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "212/4200",
                     "powerHp": "212",
                     "powerRpm": "4200",
@@ -410,6 +442,7 @@
                     "yearstart": "1988",
                     "yearstop": "1990",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4450",
@@ -417,6 +450,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1460",
                     "curbWeightMin": "1460"
                   }
@@ -439,6 +473,7 @@
                     "generation": "Pantera L",
                     "engine": "5.8 V8 (314 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "314/5400",
                     "powerHp": "314",
                     "powerRpm": "5400",
@@ -446,6 +481,7 @@
                     "yearstart": "1970",
                     "yearstop": "1972",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4242",
@@ -453,6 +489,7 @@
                     "height": "1102",
                     "heightMin": "1102",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1297",
                     "curbWeightMin": "1297"
                   },
@@ -464,6 +501,7 @@
                     "generation": "Pantera L",
                     "engine": "5.8 V8 (330 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "330/5400",
                     "powerHp": "330",
                     "powerRpm": "5400",
@@ -471,6 +509,7 @@
                     "yearstart": "1971",
                     "yearstop": "1990",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4270",
@@ -478,6 +517,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   },
@@ -489,6 +529,7 @@
                     "generation": "Pantera L",
                     "engine": "5.8 V8 (300 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "300/5400",
                     "powerHp": "300",
                     "powerRpm": "5400",
@@ -496,6 +537,7 @@
                     "yearstart": "1974",
                     "yearstop": "1978",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4270",
@@ -503,6 +545,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1420",
                     "curbWeightMin": "1420"
                   },
@@ -514,6 +557,7 @@
                     "generation": "Pantera L",
                     "engine": "5.0 V8 (248 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "248/5000",
                     "powerHp": "248",
                     "powerRpm": "5000",
@@ -521,6 +565,7 @@
                     "yearstart": "1990",
                     "yearstop": "1991",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4365",
@@ -528,6 +573,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1490",
                     "curbWeightMin": "1490"
                   },
@@ -539,6 +585,7 @@
                     "generation": "Pantera L",
                     "engine": "5.0 V8 (305 Hp)",
                     "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
                     "power": "305/5800",
                     "powerHp": "305",
                     "powerRpm": "5800",
@@ -546,6 +593,7 @@
                     "yearstart": "1990",
                     "yearstop": "1991",
                     "coupe": "Coupe",
+                    "coupeId": "3",
                     "places": "2",
                     "placesMin": "2",
                     "length": "4365",
@@ -553,6 +601,7 @@
                     "height": "1100",
                     "heightMin": "1100",
                     "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
                     "curbWeight": "1490",
                     "curbWeightMin": "1490"
                   }

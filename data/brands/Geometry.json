@@ -26,8 +26,10 @@
                     "generation": "E",
                     "engine": "29.67 kWh (82 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4006",
@@ -37,6 +39,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1240",
                     "curbWeightMin": "1240"
                   },
@@ -48,8 +51,10 @@
                     "generation": "E",
                     "engine": "39.3 kWh (82 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4006",
@@ -59,6 +64,7 @@
                     "rideHeight": "165",
                     "rideHeightMin": "165",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1325",
                     "curbWeightMin": "1325"
                   }
@@ -90,8 +96,10 @@
                     "generation": "Panda Mini Knight",
                     "engine": "17.03 kWh (41 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3135",
@@ -101,6 +109,7 @@
                     "rideHeight": "175",
                     "rideHeightMin": "175",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "807",
                     "curbWeightMin": "807"
                   }
@@ -123,8 +132,10 @@
                     "generation": "Panda Mini",
                     "engine": "9.61 kWh (27 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3065",
@@ -134,6 +145,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "715",
                     "curbWeightMin": "715"
                   },
@@ -145,8 +157,10 @@
                     "generation": "Panda Mini",
                     "engine": "17.03 kWh (41 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Hatchback",
+                    "coupeId": "8",
                     "places": "4",
                     "placesMin": "4",
                     "length": "3065",
@@ -157,6 +171,7 @@
                     "rideHeight": "170",
                     "rideHeightMin": "170",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "788-797",
                     "curbWeightMin": "788",
                     "curbWeightMax": "797"
@@ -189,8 +204,10 @@
                     "generation": "M6 (facelift 2022)",
                     "engine": "53 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4432",
@@ -200,6 +217,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1545",
                     "curbWeightMin": "1545"
                   },
@@ -211,8 +229,10 @@
                     "generation": "M6 (facelift 2022)",
                     "engine": "70 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4432",
@@ -222,6 +242,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1665",
                     "curbWeightMin": "1665"
                   }
@@ -244,9 +265,11 @@
                     "generation": "C",
                     "engine": "53 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4432",
@@ -256,6 +279,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1545-1607",
                     "curbWeightMin": "1545",
                     "curbWeightMax": "1607"
@@ -268,9 +292,11 @@
                     "generation": "C",
                     "engine": "70 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4432",
@@ -280,6 +306,7 @@
                     "rideHeight": "140",
                     "rideHeightMin": "140",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1665",
                     "curbWeightMin": "1665"
                   }
@@ -311,8 +338,10 @@
                     "generation": "G6 (facelift 2022)",
                     "engine": "46.1 kWh (136 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4752",
@@ -322,7 +351,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "50338",
@@ -332,8 +361,10 @@
                     "generation": "G6 (facelift 2022)",
                     "engine": "53.4 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4752",
@@ -343,7 +374,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   }
                 ]
               }
@@ -364,9 +395,11 @@
                     "generation": "A Pro (facelift 2021)",
                     "engine": "53 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4752",
@@ -374,7 +407,7 @@
                     "height": "1503",
                     "heightMin": "1503",
                     "fuel": "Electricity",
-                    "curbWeight": ""
+                    "fuelId": "6"
                   },
                   {
                     "id": "50336",
@@ -384,9 +417,11 @@
                     "generation": "A Pro (facelift 2021)",
                     "engine": "70 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2022",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4752",
@@ -394,6 +429,7 @@
                     "height": "1503",
                     "heightMin": "1503",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1625",
                     "curbWeightMin": "1625"
                   }
@@ -416,9 +452,11 @@
                     "generation": "A",
                     "engine": "51.9 kWh (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2021",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4736",
@@ -428,6 +466,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1650",
                     "curbWeightMin": "1650"
                   },
@@ -439,9 +478,11 @@
                     "generation": "A",
                     "engine": "61.9 kWh (163 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2019",
                     "yearstop": "2021",
                     "coupe": "Sedan",
+                    "coupeId": "6",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4736",
@@ -451,6 +492,7 @@
                     "rideHeight": "120",
                     "rideHeightMin": "120",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1650",
                     "curbWeightMin": "1650"
                   }
@@ -482,9 +524,11 @@
                     "generation": "EX3",
                     "engine": "37.23 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
                     "yearstart": "2021",
                     "yearstop": "2022",
                     "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
                     "places": "5",
                     "placesMin": "5",
                     "length": "4005",
@@ -494,6 +538,7 @@
                     "rideHeight": "148",
                     "rideHeightMin": "148",
                     "fuel": "Electricity",
+                    "fuelId": "6",
                     "curbWeight": "1290",
                     "curbWeightMin": "1290"
                   }
