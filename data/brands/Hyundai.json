@@ -42437,6 +42437,52 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-10-16 09:41:44",
+        "name": "Elexio",
+        "id": "4151",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-16 09:42:15",
+              "name": "Elexio",
+              "modelYear": "2026",
+              "id": "11521",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58019",
+                    "update": "2026-10-16 16:01:10",
+                    "brand": "Hyundai",
+                    "model": "Elexio",
+                    "generation": "Elexio",
+                    "engine": "88.1 kWh (218 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2025",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4615",
+                    "width": "1875",
+                    "height": "1695",
+                    "heightMin": "1695",
+                    "rideHeight": "160",
+                    "rideHeightMin": "160",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2080-2105",
+                    "curbWeightMin": "2080",
+                    "curbWeightMax": "2105"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

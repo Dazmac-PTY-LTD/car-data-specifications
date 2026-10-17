@@ -4187,6 +4187,132 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-10-16 13:33:15",
+        "name": "Aeris",
+        "id": "4152",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-16 13:33:39",
+              "name": "Aeris",
+              "modelYear": "2027",
+              "id": "11522",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58020",
+                    "update": "2026-10-16 16:06:14",
+                    "brand": "Tata",
+                    "model": "Aeris",
+                    "generation": "Aeris",
+                    "engine": "1.2L Revotron (86 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "86/6000",
+                    "powerHp": "86",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1684",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58021",
+                    "update": "2026-10-16 16:05:54",
+                    "brand": "Tata",
+                    "model": "Aeris",
+                    "generation": "Aeris",
+                    "engine": "1.2L Revotron (86 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "86/6000",
+                    "powerHp": "86",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1684",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58022",
+                    "update": "2026-10-16 16:02:43",
+                    "brand": "Tata",
+                    "model": "Aeris",
+                    "generation": "Aeris",
+                    "engine": "1.2L Revotron (86/76 Hp) iCNG",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "86/6000/76/6000",
+                    "powerHp": "86",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "powerHpCNG": "76",
+                    "powerRpmCNG": "6000",
+                    "powerRpmLowCNG": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1684",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "fuel": "Petrol / CNG",
+                    "fuelId": "5"
+                  },
+                  {
+                    "id": "58023",
+                    "update": "2026-10-16 16:05:18",
+                    "brand": "Tata",
+                    "model": "Aeris",
+                    "generation": "Aeris",
+                    "engine": "1.2L Revotron (86/76 Hp) iCNG Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "86/6000/76/6000",
+                    "powerHp": "86",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "powerHpCNG": "76",
+                    "powerRpmCNG": "6000",
+                    "powerRpmLowCNG": "6000",
+                    "yearstart": "2026",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1684",
+                    "height": "1532",
+                    "heightMin": "1532",
+                    "fuel": "Petrol / CNG",
+                    "fuelId": "5"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
