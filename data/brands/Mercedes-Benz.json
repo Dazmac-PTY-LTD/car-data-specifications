@@ -103440,7 +103440,7 @@
                 "modification": [
                   {
                     "id": "57040",
-                    "update": "2026-05-29 12:50:32",
+                    "update": "2026-10-19 11:47:10",
                     "brand": "Mercedes-Benz",
                     "model": "AMG GT 4-Door Coupe",
                     "generation": "AMG GT 4-Door Coupe (C590)",
@@ -103465,7 +103465,7 @@
                   },
                   {
                     "id": "57041",
-                    "update": "2026-05-29 12:50:32",
+                    "update": "2026-10-19 11:47:29",
                     "brand": "Mercedes-Benz",
                     "model": "AMG GT 4-Door Coupe",
                     "generation": "AMG GT 4-Door Coupe (C590)",
@@ -120266,6 +120266,95 @@
                     "curbWeight": "2933-3135",
                     "curbWeightMin": "2933",
                     "curbWeightMax": "3135"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "update": "2026-10-19 08:09:00",
+        "name": "AMG GT SUV",
+        "id": "4153",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-19 08:10:42",
+              "name": "AMG GT SUV (X591)",
+              "modelYear": "2028",
+              "id": "11523",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58033",
+                    "update": "2026-10-19 15:58:12",
+                    "brand": "Mercedes-Benz",
+                    "model": "AMG GT SUV",
+                    "generation": "AMG GT SUV (X591)",
+                    "engine": "63 128 kWh (1169 Hp) 4MATIC+",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2027",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5084",
+                    "width": "2001",
+                    "height": "1656",
+                    "heightMin": "1656",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2695",
+                    "curbWeightMin": "2695"
+                  },
+                  {
+                    "id": "58034",
+                    "update": "2026-10-19 15:58:12",
+                    "brand": "Mercedes-Benz",
+                    "model": "AMG GT SUV",
+                    "generation": "AMG GT SUV (X591)",
+                    "engine": "55 128 kWh (816 Hp) 4MATIC+",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2027",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5084",
+                    "width": "2001",
+                    "height": "1656",
+                    "heightMin": "1656",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2715",
+                    "curbWeightMin": "2715"
+                  },
+                  {
+                    "id": "58035",
+                    "update": "2026-10-19 15:58:12",
+                    "brand": "Mercedes-Benz",
+                    "model": "AMG GT SUV",
+                    "generation": "AMG GT SUV (X591)",
+                    "engine": "53 106 kWh (544 Hp) 4MATIC+",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5080",
+                    "width": "2001",
+                    "height": "1653",
+                    "heightMin": "1653",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2525",
+                    "curbWeightMin": "2525"
                   }
                 ]
               }
