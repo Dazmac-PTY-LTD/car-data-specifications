@@ -7822,7 +7822,7 @@
                 "modification": [
                   {
                     "id": "52986",
-                    "update": "2026-09-23 13:59:28",
+                    "update": "2026-10-20 11:11:59",
                     "brand": "Cadillac",
                     "model": "OPTIQ",
                     "generation": "OPTIQ",
@@ -7867,6 +7867,31 @@
                     "fuelId": "6",
                     "curbWeight": "2470",
                     "curbWeightMin": "2470"
+                  },
+                  {
+                    "id": "58043",
+                    "update": "2026-10-20 16:06:41",
+                    "brand": "Cadillac",
+                    "model": "OPTIQ",
+                    "generation": "OPTIQ",
+                    "engine": "85 kWh (315 Hp) RWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2025",
+                    "coupe": "SUV (Sport Utility Vehicle), Crossover",
+                    "coupeId": "9,10",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4820",
+                    "widthOpenedMirrors": "2126",
+                    "height": "1644",
+                    "heightMin": "1644",
+                    "rideHeight": "152",
+                    "rideHeightMin": "152",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2323",
+                    "curbWeightMin": "2323"
                   }
                 ]
               }

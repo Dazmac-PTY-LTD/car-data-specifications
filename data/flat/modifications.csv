@@ -23398,13 +23398,13 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 30700,Lincoln,MKS,MKS I,2009,3.7 V6 (275 Hp) AWD Automatic,Internal Combustion engine,275,6250,Petrol (Gasoline),Sedan,5,2009,2012,5184,1928,1565,1940,2023-07-21 10:26:41
 30946,Lincoln,MKS,MKS I,2009,3.7 V6 (275 Hp) Automatic,Internal Combustion engine,275,6250,Petrol (Gasoline),Sedan,5,2009,2012,5184,1928,1565,1872,2023-07-21 10:26:42
 30973,Lincoln,MKS,MKS I,2009,3.5 GTDI V6 (355 Hp) AWD Automatic,Internal Combustion engine,355,5500,Petrol (Gasoline),Sedan,5,2009,2012,5184,1928,1565,1940,2023-07-21 10:25:33
-48796,Lincoln,Nautilus,Nautilus II,2024,2.0 Turbo (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4907,,1732,1973,2023-06-06 16:16:06
-48797,Lincoln,Nautilus,Nautilus II,2024,2.0 Turbo (310 Hp) HEV AWD CVT,FHEV (Full Hybrid Electric Vehicle),250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4907,,1732,2049,2023-06-06 16:16:07
-41934,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.0 (250 Hp) Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2020,2023,4826,,1681,1889,2023-07-21 12:58:50
-41935,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.0 (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2020,2023,4826,,1681,1968,2023-07-21 12:58:49
-41936,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.7 V6 (335 Hp) AWD Automatic,Internal Combustion engine,335,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2020,2023,4826,,1681,2062,2023-07-21 13:00:24
-33819,Lincoln,Nautilus,Nautilus I,2019,2.0 (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2018,2020,4826,,1681,1953,2023-07-21 13:04:12
-33820,Lincoln,Nautilus,Nautilus I,2019,2.7 V6 (335 Hp) Automatic,Internal Combustion engine,335,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2018,2020,4826,,1681,1879,2023-07-21 13:04:49
+48796,Lincoln,Nautilus,Nautilus II,2024,2.0 Turbo (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2023,2026,4907,,1732,1973,2026-10-20 12:00:18
+48797,Lincoln,Nautilus,Nautilus II,2024,2.0 Turbo (310 Hp) HEV AWD CVT,FHEV (Full Hybrid Electric Vehicle),250,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2023,2026,4907,,1732,2049,2026-10-20 12:00:17
+41934,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.0 (250 Hp) Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2020,2023,4826,,1681,1889,2023-07-21 12:58:50
+41935,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.0 (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2020,2023,4826,,1681,1968,2023-07-21 12:58:49
+41936,Lincoln,Nautilus,Nautilus I (facelift 2020),2021,2.7 V6 (335 Hp) AWD Automatic,Internal Combustion engine,335,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2020,2023,4826,,1681,2062,2023-07-21 13:00:24
+33819,Lincoln,Nautilus,Nautilus I,2019,2.0 (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2018,2020,4826,,1681,1953,2023-07-21 13:04:12
+33820,Lincoln,Nautilus,Nautilus I,2019,2.7 V6 (335 Hp) Automatic,Internal Combustion engine,335,5500,Petrol (Gasoline),"SUV (Sport Utility Vehicle), Crossover",5,2018,2020,4826,,1681,1879,2023-07-21 13:04:49
 36813,Lincoln,Corsair,Corsair,2020,2.0Turbo (250 Hp) Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2019,,4587,,1628,1679,2023-07-21 09:06:00
 36814,Lincoln,Corsair,Corsair,2020,2.0Turbo (250 Hp) AWD Automatic,Internal Combustion engine,250,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2019,,4587,,1628,1743,2023-07-21 09:06:00
 36815,Lincoln,Corsair,Corsair,2020,2.3Turbo (295 Hp) AWD Automatic,Internal Combustion engine,295,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2019,,4587,,1628,1745,2023-07-21 09:05:59
@@ -27635,6 +27635,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55138,Volkswagen,Tera,Tera,2026,1.0 TSI (109/116 Hp) TOTALFLEX,Internal Combustion engine,109,5000,Petrol / Ethanol - E100,SUV (Sport Utility Vehicle),5,2025,,4151,1777,1504,1130,2025-08-21 08:53:14
 55139,Volkswagen,Tera,Tera,2026,1.0 TSI (109/116 Hp) TOTALFLEX Tiptronic,Internal Combustion engine,109,5000,Petrol / Ethanol - E100,SUV (Sport Utility Vehicle),5,2025,,4151,1777,1504,1169,2025-08-21 08:53:03
 57489,Volkswagen,ID. Cross,ID. Cross,2027,55 kWh (211 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4153,1794,1581,1631,2026-07-16 16:16:17
+58041,Volkswagen,ID. Cross,ID. Cross,2027,38.5 kWh (116 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4153,1794,1581,1541,2026-10-20 15:56:15
+58042,Volkswagen,ID. Cross,ID. Cross,2027,38.5 kWh (135 Hp),BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,4153,1794,1581,1541,2026-10-20 15:56:15
 56921,Volkswagen,ID.ERA 9X,ID.ERA 9X,2026,1.5 TSI 51.1 kWh (503 Hp) Plug-in Hybrid AWD,REEV (Range-Extended Electric Vehicle),143,4500,Petrol / electricity,SUV (Sport Utility Vehicle),6,2026,,5207,1997,1810,2680,2026-10-08 16:01:18
 56922,Volkswagen,ID.ERA 9X,ID.ERA 9X,2026,1.5 TSI 65.2 kWh (517 Hp) Plug-in Hybrid AWD,REEV (Range-Extended Electric Vehicle),143,4500,Petrol / electricity,SUV (Sport Utility Vehicle),6,2026,,5207,1997,1810,2700,2026-10-08 16:01:18
 56924,Volkswagen,ID. Polo,ID. Polo,2026,55 kWh (211 Hp),BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4053,1816,1530,1501,2026-06-05 08:51:38
@@ -32034,6 +32036,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56631,Geely,Starray EM-i,Starray EM-i,2026,1.5L (262 Hp) Plug-in Hybrid E-DHT,PHEV (Plug-in Hybrid Electric Vehicle),99,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4740,1905,1685,1730-1770,2026-03-06 16:06:06
 56633,Geely,Cityray,Cityray,2025,1.5T (174 Hp) DCT,Internal Combustion engine,174,5500,Petrol (Gasoline),Crossover,5,2025,,4510,1865,1650,1470,2026-03-06 16:06:06
 57477,Geely,E2,E2,2026,39.4 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1580,1300,2026-10-13 14:55:38
+58044,Geely,E2,E2,2026,35.35 kWh (82 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1580,1290,2026-10-20 16:14:05
+58045,Geely,E2,E2,2026,47.14 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2026,,4135,1805,1580,1365,2026-10-20 16:14:05
 57486,Geely,EX2,EX2,2025,40.8 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2024,,4135,1805,1580,,2026-10-13 14:57:51
 57487,Geely,Galaxy M7,Galaxy M7,2026,EM-i 1.5L (238 Hp) Plug-in Hybrid E-DHT,PHEV (Plug-in Hybrid Electric Vehicle),111,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4770,1905,1685,1870,2026-07-15 14:16:11
 10111,Mahindra,Ambulance,Ambulance,1990,2.5 D (73 Hp),Internal Combustion engine,73,,Diesel,Off-road,,1990,2000,,,,,2023-07-31 13:43:09
@@ -37485,8 +37489,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56252,Cadillac,CELESTIQ,CELESTIQ,2024,111 kWh (655 Hp) AWD,BEV (Electric Vehicle),,,Electricity,Liftback,5,2024,,5517,,1453,,2026-01-27 16:10:30
 49065,Cadillac,GT4,GT4,2023,25T (211 Hp) Mild Hybrid Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",211,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4633,1878,1536,1610-1660,2025-04-11 12:24:32
 49066,Cadillac,GT4,GT4,2023,28T (237 Hp) Mild Hybrid AWD Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",237,5000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4633,1878,1535,1760,2025-04-11 12:24:32
-52986,Cadillac,OPTIQ,OPTIQ,2025,85 kWh (300 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4820,,1644,2355,2026-09-23 13:59:28
+52986,Cadillac,OPTIQ,OPTIQ,2025,85 kWh (300 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2024,,4820,,1644,2355,2026-10-20 11:11:59
 54530,Cadillac,OPTIQ,OPTIQ,2025,V  85 kWh (519 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2025,,4820,,1644,2470,2026-09-25 15:41:10
+58043,Cadillac,OPTIQ,OPTIQ,2025,85 kWh (315 Hp) RWD,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2025,,4820,,1644,2323,2026-10-20 16:06:41
 53141,Cadillac,VISTIQ,VISTIQ,2026,102 kWh (615 Hp) Dual Motor AWD,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6-7,2025,,5222,2026,1804,2870,2026-09-23 13:59:28
 11742,Holden,Apollo,Apollo,1991,2.2i 16V GS (125 Hp),Internal Combustion engine,125,5200,Petrol (Gasoline),Sedan,5,1991,1996,4725,1770,1400,1350,2022-10-11 12:09:39
 11743,Holden,Apollo,Apollo,1991,3.0 i V6 24V (180 Hp),Internal Combustion engine,180,5200,Petrol (Gasoline),Sedan,5,1991,1996,4725,1770,1400,1450,2022-10-11 12:09:39
@@ -42181,6 +42186,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57139,Mercedes-Benz,GLE,"GLE SUV (V167, facelift 2026)",2027,AMG GLE 53 (585 Hp) Plug-in Hybrid 4MATIC+ AMG SPEEDSHIFT TCT 9G,PHEV (Plug-in Hybrid Electric Vehicle),449,5800-6100,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4933,2018,1783,2740,2026-06-01 15:38:13
 57575,Mercedes-Benz,GLE,"GLE SUV (V167, facelift 2026)",2027,AMG GLE 63 S V8 (612 Hp) EQ Boost 4MATIC+ AMG SPEEDSHIFT TCT 9G,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",612,5500-6100,Petrol (Gasoline),SUV (Sport Utility Vehicle),5-7,2026,,4938,2018,1783,2485,2026-07-30 11:45:54
 57969,Mercedes-Benz,GLE,"GLE SUV (V167, facelift 2026)",2027,GLE 350 (255 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",255,5800,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4923,2010,1782-1842,2230,2026-10-08 15:55:38
+58038,Mercedes-Benz,GLE,"GLE SUV (V167, facelift 2026)",2027,GLE 580 V8 (537 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",537,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5-7,2026,,4923,2010,1782-1872,2440-2485,2026-10-20 15:56:15
 47353,Mercedes-Benz,GLE,"GLE Coupe (C167, facelift 2023)",2024,GLE 300d (269 Hp) EQ Boost 4MATIC 9G-TRONIC,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",269,4200,Diesel,"Coupe, SUV (Sport Utility Vehicle)",5,2023,2026,4941,2018,1730,2315,2026-05-29 12:54:50
 47355,Mercedes-Benz,GLE,"GLE Coupe (C167, facelift 2023)",2024,GLE 350de (333 Hp) Plug-in Hybrid 4MATIC 9G-TRONIC,PHEV (Plug-in Hybrid Electric Vehicle),197,,Diesel / electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,2026,4941,2018,1730,2655,2026-05-29 12:54:50
 47357,Mercedes-Benz,GLE,"GLE Coupe (C167, facelift 2023)",2024,GLE 400e (381 Hp) Plug-in Hybrid 4MATIC 9G-TRONIC,PHEV (Plug-in Hybrid Electric Vehicle),252,5800,Petrol / electricity,"Coupe, SUV (Sport Utility Vehicle)",5,2023,2026,4941,2018,1716,2595,2026-05-29 12:54:50
@@ -43051,9 +43057,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 56087,Mercedes-Benz,AMG PureSpeed,AMG PureSpeed,2026,4.0 V8 (585 Hp) 4MATIC+ AMG SPEEDSHIFT MCT 9G,Internal Combustion engine,585,5500-6500,Petrol (Gasoline),Roadster,2,2024,,4774,1963,1301,1935,2026-01-13 16:11:48
 57436,Mercedes-Benz,VLE,VLE (E449),2027,VLE 300 115 kWh (276 Hp),BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),5-8,2026,,5309,1999,1943,2865-3082,2026-07-07 09:49:59
 57796,Mercedes-Benz,VLE,VLE (E449),2027,VLE 400 115 kWh (422 Hp) 4MATIC,BEV (Electric Vehicle),,,Electricity,MPV (Multi-Purpose Vehicle),5-8,2026,,5309,1999,1943,2933-3135,2026-09-09 14:09:29
-58033,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,63 128 kWh (1169 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2695,2026-10-19 15:58:12
-58034,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,55 128 kWh (816 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2715,2026-10-19 15:58:12
+58033,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,63 128 kWh (1169 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2695,2026-10-20 15:57:03
+58034,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,55 128 kWh (816 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2715,2026-10-20 15:57:13
 58035,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,53 106 kWh (544 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2026,,5080,2001,1653,2525,2026-10-19 15:58:12
+58039,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,55 106 kWh (816 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2605,2026-10-20 15:56:15
+58040,Mercedes-Benz,AMG GT SUV,AMG GT SUV (X591),2028,63 106 kWh (1169 Hp) 4MATIC+,BEV (Electric Vehicle),,,Electricity,"SUV (Sport Utility Vehicle), Crossover",5,2027,,5084,2001,1656,2585,2026-10-20 15:56:15
 25584,Scion,tC,tC II (facelift 2013),2014,2.5 (179 Hp),Internal Combustion engine,179,6000,Petrol (Gasoline),Coupe,5,2013,2016,4486,1796,1415,1398,2023-08-10 13:20:51
 25756,Scion,tC,tC II (facelift 2013),2014,2.5 (179 Hp) Automatic,Internal Combustion engine,179,6000,Petrol (Gasoline),Coupe,5,2013,2016,4486,1796,1415,1417,2023-08-10 13:20:52
 25220,Scion,tC,tC II,2011,2.5 (182 Hp) Automatic,Internal Combustion engine,182,6000,Petrol (Gasoline),Coupe,5,2010,2013,4420,1796,1415,1413,2023-08-10 13:20:51
@@ -56887,6 +56895,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55832,Jaecoo,J5,J5,2026,1.6 TGDi (147 Hp) DCT,Internal Combustion engine,147,,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4380,1860,1650,1446,2025-11-21 16:18:03
 55833,Jaecoo,J5,J5,2026,1.5 Turbo (156 Hp) CVT,Internal Combustion engine,156,,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4380,1860,1650,1364-1439,2025-11-21 16:18:03
 55834,Jaecoo,J5,J5,2026,60.9 kWh (211 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2025,,4380,1860,1650,1707,2025-11-21 16:18:03
+58046,Jaecoo,J5,J5,2026,SHS-H 1.5 TGDI (224 Hp) Full Hybrid DHT,FHEV (Full Hybrid Electric Vehicle),143,,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4380,1860,1650,1536,2026-10-20 16:14:05
 53955,Livan,X3 Pro,X3 Pro,2023,1.5 (103 Hp),Internal Combustion engine,103,6000,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2023,,4005,1760,1575,1180,2025-04-11 16:16:53
 53956,Livan,X3 Pro,X3 Pro,2023,1.5 (103 Hp) CVT,Internal Combustion engine,103,6000,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2023,,4005,1760,1575,1215,2025-04-11 16:16:53
 53957,Livan,X3 Pro,X3 Pro,2023,1.5 (113 Hp),Internal Combustion engine,113,5600,Petrol (Gasoline),CUV (Crossover Utility Vehicle),5,2023,,4005,1760,1575,1157,2025-04-11 16:16:53
