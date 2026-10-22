@@ -21070,6 +21070,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 7800,Ford,Mustang,Mustang III Convertible,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1380,2022-10-11 12:09:39
 7797,Ford,Mustang,Mustang III,1979,2.3i (106 Hp),Internal Combustion engine,106,4600,Petrol (Gasoline),Coupe,2,1978,1993,4560,1735,1320,1250,2022-10-11 12:09:39
 7798,Ford,Mustang,Mustang III,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Coupe,4,1983,1993,4560,1735,1320,1380,2022-10-11 12:09:39
+58047,Ford,Mustang,Mustang II,1974,2.3 (90 Hp),Internal Combustion engine,90,4800,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1250,2026-10-21 14:22:03
+58048,Ford,Mustang,Mustang II,1974,2.3 (90 Hp) Automatic,Internal Combustion engine,90,4800,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1250,2026-10-21 14:22:03
+58049,Ford,Mustang,Mustang II,1974,2.8 V6 (91 Hp),Internal Combustion engine,91,4200,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1385,2026-10-21 14:22:03
+58050,Ford,Mustang,Mustang II,1974,2.8 V6 (91 Hp) Automatic,Internal Combustion engine,91,4200,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1385,2026-10-21 14:22:03
+58051,Ford,Mustang,Mustang II,1974,4.9 V8 (141 Hp),Internal Combustion engine,141,3600,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1385,2026-10-21 14:22:03
+58052,Ford,Mustang,Mustang II,1974,4.9 V8 (141 Hp) Automatic,Internal Combustion engine,141,3600,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1280,2026-10-21 14:22:03
 42573,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,4.1 (145 Hp),Internal Combustion engine,145,4000,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1283,1456,2023-07-24 11:06:57
 42825,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,4.9 V8 (210 Hp),Internal Combustion engine,210,4600,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:55
 42844,Ford,Mustang,Mustang I Convertible (facelift 1970),1971,5.8 V8 (285 Hp),Internal Combustion engine,285,5400,Petrol (Gasoline),Cabriolet,4,1970,1973,4813,1882,1290,,2023-07-24 11:06:13
@@ -40534,16 +40540,16 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 47102,Mercedes-Benz,CLS,CLS coupe (C218),2011,AMG CLS 63 Performance Package V8 (557 Hp) AMG SPEEDSHIFT MCT,Internal Combustion engine,557,5250-5750,Petrol (Gasoline),Coupe,4,2011,2013,4996,1881,1411,1795,2025-04-11 16:16:53
 53861,Mercedes-Benz,CLS,CLS coupe (C218),2011,CLS 550 V8 (402 Hp) 7G-TRONIC PLUS,Internal Combustion engine,402,5000-5750,Petrol (Gasoline),Coupe,4,2011,2014,4940,1881,1404-1418,1886-1891,2025-04-11 16:16:53
 53862,Mercedes-Benz,CLS,CLS coupe (C218),2011,CLS 550 V8 (402 Hp) 4MATIC 7G-TRONIC PLUS,Internal Combustion engine,402,5000-5750,Petrol (Gasoline),Coupe,4,2011,2014,4940,1881,1404-1418,1936,2025-04-11 16:16:53
-28295,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 350 CGI V6 (292 Hp) 7G-TRONIC,Internal Combustion engine,292,6400,Petrol (Gasoline),Coupe,4,2008,2010,4917,1873,1430,1660,2025-06-10 14:03:06
-28363,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,AMG CLS 63 V8 (514 Hp) 7G-TRONIC AMG SPEEDSHIFT PLUS,Internal Combustion engine,514,6800,Petrol (Gasoline),Coupe,4,2008,2010,4915,1873,1389,1830,2025-04-11 16:16:53
-28494,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 320 CDI V6 (224 Hp) 7G-TRONIC,Internal Combustion engine,224,3800,Diesel,Coupe,4,2008,2009,4917,1873,1430,1740,2025-04-11 16:16:53
-28495,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 500 V8 (388 Hp) 7G-TRONIC,Internal Combustion engine,388,6000,Petrol (Gasoline),Coupe,4,2008,2009,4917,1873,1430,1760,2025-04-11 16:16:53
-44336,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 350 CDI V6 (224 Hp) 7G-TRONIC,Internal Combustion engine,224,3800,Diesel,Coupe,4,2009,2010,4917,1873,1430,1740,2025-04-11 16:16:53
-44338,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 550 V8 (382 Hp) 7G-TRONIC,Internal Combustion engine,382,6000,Petrol (Gasoline),Coupe,4,2008,2010,4920,1872,1414,1823,2023-04-13 12:08:05
-47773,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 280 V6 (231 Hp) 7G-TRONIC,Internal Combustion engine,231,6000,Petrol (Gasoline),Coupe,4,2008,2009,4917,1873,1430,1655,2025-06-10 14:03:06
-47774,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 300 V6 (231 Hp) 7G-TRONIC,Internal Combustion engine,231,6000,Petrol (Gasoline),Coupe,4,2009,2010,4917,1873,1430,1655,2025-06-10 14:03:06
-47775,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 350 CDI Grand Edition V6 (272 Hp) 7G-TRONIC,Internal Combustion engine,272,3800,Diesel,Coupe,4,2009,2010,4917,1807,1430,1740,2025-04-11 16:16:53
-52987,Mercedes-Benz,CLS,"CLS coupe (C219, facellift 2008)",2008,CLS 500 V8 (388 Hp) 7G-TRONIC,Internal Combustion engine,388,6000,Petrol (Gasoline),Coupe,4,2009,2010,4917,1873,1430,1760,2025-04-11 16:16:53
+28295,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 350 CGI V6 (292 Hp) 7G-TRONIC,Internal Combustion engine,292,6400,Petrol (Gasoline),Coupe,4,2008,2010,4917,1873,1430,1660,2025-06-10 14:03:06
+28363,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,AMG CLS 63 V8 (514 Hp) 7G-TRONIC AMG SPEEDSHIFT PLUS,Internal Combustion engine,514,6800,Petrol (Gasoline),Coupe,4,2008,2010,4915,1873,1389,1830,2025-04-11 16:16:53
+28494,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 320 CDI V6 (224 Hp) 7G-TRONIC,Internal Combustion engine,224,3800,Diesel,Coupe,4,2008,2009,4917,1873,1430,1740,2025-04-11 16:16:53
+28495,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 500 V8 (388 Hp) 7G-TRONIC,Internal Combustion engine,388,6000,Petrol (Gasoline),Coupe,4,2008,2009,4917,1873,1430,1760,2025-04-11 16:16:53
+44336,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 350 CDI V6 (224 Hp) 7G-TRONIC,Internal Combustion engine,224,3800,Diesel,Coupe,4,2009,2010,4917,1873,1430,1740,2025-04-11 16:16:53
+44338,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 550 V8 (382 Hp) 7G-TRONIC,Internal Combustion engine,382,6000,Petrol (Gasoline),Coupe,4,2008,2010,4920,1872,1414,1823,2023-04-13 12:08:05
+47773,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 280 V6 (231 Hp) 7G-TRONIC,Internal Combustion engine,231,6000,Petrol (Gasoline),Coupe,4,2008,2009,4917,1873,1430,1655,2025-06-10 14:03:06
+47774,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 300 V6 (231 Hp) 7G-TRONIC,Internal Combustion engine,231,6000,Petrol (Gasoline),Coupe,4,2009,2010,4917,1873,1430,1655,2025-06-10 14:03:06
+47775,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 350 CDI Grand Edition V6 (272 Hp) 7G-TRONIC,Internal Combustion engine,272,3800,Diesel,Coupe,4,2009,2010,4917,1807,1430,1740,2025-04-11 16:16:53
+52987,Mercedes-Benz,CLS,"CLS coupe (C219, facelift 2008)",2008,CLS 500 V8 (388 Hp) 7G-TRONIC,Internal Combustion engine,388,6000,Petrol (Gasoline),Coupe,4,2009,2010,4917,1873,1430,1760,2025-04-11 16:16:53
 28294,Mercedes-Benz,CLS,CLS coupe (C219),2004,CLS 500 V8 (388 Hp) 7G-TRONIC,Internal Combustion engine,388,6000,Petrol (Gasoline),Coupe,4,2006,2008,4913,1873,1390,1760,2025-04-11 16:16:53
 28342,Mercedes-Benz,CLS,CLS coupe (C219),2004,AMG CLS 55 V8 (476 Hp) 5G-TRONIC,Internal Combustion engine,476,6100,Petrol (Gasoline),Coupe,4,2004,2006,4915,1873,1389,1845,2025-04-11 16:16:53
 28362,Mercedes-Benz,CLS,CLS coupe (C219),2004,CLS 320 CDI V6 (224 Hp) 7G-TRONIC,Internal Combustion engine,224,4000,Diesel,Coupe,4,2005,2006,4913,1873,1403,1740,2025-04-11 16:16:53
@@ -56928,7 +56934,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 55382,Omoda,S5,S5,2023,GT 1.5T (147 Hp) CVT,Internal Combustion engine,147,5500,Petrol (Gasoline),Sedan,5,2023,,4691,1814,1493,1419,2025-09-17 14:18:32
 55383,Omoda,9,9,2025,1.5 TGDI (537 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),143,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2025,,4775,1920,1671,2203,2025-09-17 14:18:32
 56984,Omoda,7,7,2025,SHS-P 1.5 TGDI (279 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),143,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4660,1875,1670,1870,2026-05-12 16:09:22
-57874,Omoda,O4,O4,2026,65 kWh (218 Hp) EV,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4420,1870,1570,,2026-09-17 16:27:23
+57874,Omoda,4,4,2026,65 kWh (218 Hp) EV,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2026,,4420,1870,1570,,2026-09-17 16:27:23
 55165,AUDI,E5,E5 Sportback,2025,76 kWh (299 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4881,1960,1479,2225,2025-08-25 11:14:00
 55166,AUDI,E5,E5 Sportback,2025,100 kWh (408 Hp),BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4881,1960,1479,2240,2025-08-25 11:14:00
 55167,AUDI,E5,E5 Sportback,2025,83 kWh (525 Hp) quattro,BEV (Electric Vehicle),,,Electricity,Liftback,5,2025,,4881,1960,1479,2234,2025-08-25 11:14:01
