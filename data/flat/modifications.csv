@@ -16549,7 +16549,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 50331,Lexus,TX,TX,2024,500h (366 Hp) Hybrid DIRECT4 ECT-i,FHEV (Full Hybrid Electric Vehicle),271,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),6,2023,,5170,1990,1780,2245-2254,2023-11-06 16:28:25
 50332,Lexus,TX,TX,2024,550h V6 (404 Hp) Plug-in Hybrid DIRECT4 e-CVT,PHEV (Plug-in Hybrid Electric Vehicle),259,6000,Petrol / electricity,SUV (Sport Utility Vehicle),6,2023,,5160,1990,1780,2430-2449,2026-09-23 13:59:28
 54171,Lexus,HS,HS,2010,250h (190 Hp) Full Hybrid ECVT,FHEV (Full Hybrid Electric Vehicle),150,6000,Petrol (Gasoline),Sedan,5,2009,2013,4695,1785,1505,1670-1710,2025-04-22 16:26:11
-56964,Lexus,TZ,TZ,2027,95.82 kWh (408 Hp) DIRECT4 Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2026,,5100,1990,1705,2630,2026-09-23 08:52:14
+56964,Lexus,TZ,TZ,2027,550e 95.82 kWh (408 Hp) DIRECT4,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2026,,5100,1990,1705,2630,2026-10-22 14:33:22
+58059,Lexus,TZ,TZ,2027,450e 76.96 kWh (308 Hp) DIRECT4,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2026,,5100,1989,1702,2472,2026-10-22 16:12:20
+58060,Lexus,TZ,TZ,2027,450e 95.82 kWh (308 Hp) DIRECT4,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),6,2026,,5100,1989,1702,2581-2647,2026-10-22 16:12:20
 5938,Pontiac,6000,6000,1982,2.5 i (106 Hp),Internal Combustion engine,106,4800,Petrol (Gasoline),Sedan,5,1981,1991,4795,1830,1365,1275,2023-08-14 08:16:33
 5939,Pontiac,6000,6000,1982,3.1 i V6 (141 Hp),Internal Combustion engine,141,4400,Petrol (Gasoline),Sedan,5,1988,1991,4795,1830,1365,1275,2023-08-14 08:14:48
 5940,Pontiac,Firebird,Firebird IV,1993,3.4i V6 (148 Hp),Internal Combustion engine,148,4600,Petrol (Gasoline),Coupe,4,1992,1995,4964,1892,1300,1528,2023-08-11 15:25:44
@@ -21070,6 +21072,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 7800,Ford,Mustang,Mustang III Convertible,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Cabriolet,4,1978,1993,4560,1735,1320,1380,2022-10-11 12:09:39
 7797,Ford,Mustang,Mustang III,1979,2.3i (106 Hp),Internal Combustion engine,106,4600,Petrol (Gasoline),Coupe,2,1978,1993,4560,1735,1320,1250,2022-10-11 12:09:39
 7798,Ford,Mustang,Mustang III,1979,4.9 V8 (228 Hp),Internal Combustion engine,228,4200,Petrol (Gasoline),Coupe,4,1983,1993,4560,1735,1320,1380,2022-10-11 12:09:39
+58053,Ford,Mustang,Mustang II Hatch,1974,2.3 (90 Hp),Internal Combustion engine,90,4800,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1250,2026-10-22 16:12:20
+58054,Ford,Mustang,Mustang II Hatch,1974,2.3 (90 Hp) Automatic,Internal Combustion engine,90,4800,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1250,2026-10-22 16:12:20
+58055,Ford,Mustang,Mustang II Hatch,1974,2.8 V6 (91 Hp),Internal Combustion engine,91,4200,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1385,2026-10-22 16:12:20
+58056,Ford,Mustang,Mustang II Hatch,1974,2.8 V6 (91 Hp) Automatic,Internal Combustion engine,91,4200,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1385,2026-10-22 16:12:20
+58057,Ford,Mustang,Mustang II Hatch,1974,4.9 V8 (141 Hp),Internal Combustion engine,141,3600,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1385,2026-10-22 16:12:20
+58058,Ford,Mustang,Mustang II Hatch,1974,4.9 V8 (141 Hp) Automatic,Internal Combustion engine,141,3600,Petrol (Gasoline),Hatchback,4,1973,1978,4445,1783,1270,1280,2026-10-22 16:12:20
 58047,Ford,Mustang,Mustang II,1974,2.3 (90 Hp),Internal Combustion engine,90,4800,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1250,2026-10-21 14:22:03
 58048,Ford,Mustang,Mustang II,1974,2.3 (90 Hp) Automatic,Internal Combustion engine,90,4800,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1250,2026-10-21 14:22:03
 58049,Ford,Mustang,Mustang II,1974,2.8 V6 (91 Hp),Internal Combustion engine,91,4200,Petrol (Gasoline),Coupe,4,1973,1978,4445,1783,1278,1385,2026-10-21 14:22:03
@@ -41916,16 +41924,16 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54877,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2025,,4723,1855,1469,2080,2026-07-10 09:23:26
 57457,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),5,2026,,4723,1855,1469,1990,2026-07-09 11:41:16
 57465,Mercedes-Benz,CLA,CLA Shooting Brake (X174),2026,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Station wagon (estate),4,2026,,4742,1859,1471,2295,2026-08-27 13:57:46
-55721,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 180 (156 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1695,2025-11-06 16:24:32
-55722,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
-55723,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 200 (184 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
-55724,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 220 (211 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
-55725,Mercedes-Benz,CLA,CLA Saloon (C178),2026,CLA 220 (211 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
-53915,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1980,2026-07-14 10:10:50
-53916,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2026-07-14 10:11:56
-55544,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2026-07-09 11:37:59
-57456,Mercedes-Benz,CLA,CLA Saloon (C174),2025,CLA 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4723,1855,1468,1980,2026-07-09 10:16:50
-57464,Mercedes-Benz,CLA,CLA Saloon (C174),2025,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Sedan,4,2026,,4742,1859,1469,2280,2026-08-27 13:53:26
+55721,Mercedes-Benz,CLA,CLA Sedan (C178),2026,CLA 180 (156 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1695,2025-11-06 16:24:32
+55722,Mercedes-Benz,CLA,CLA Sedan (C178),2026,CLA 200 (184 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
+55723,Mercedes-Benz,CLA,CLA Sedan (C178),2026,CLA 200 (184 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
+55724,Mercedes-Benz,CLA,CLA Sedan (C178),2026,CLA 220 (211 Hp) Mild Hybrid 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1705,2025-11-06 16:24:32
+55725,Mercedes-Benz,CLA,CLA Sedan (C178),2026,CLA 220 (211 Hp) Mild Hybrid 4MATIC 8G-eDCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",190,5500,Petrol (Gasoline),Sedan,5,2025,,4723,1855,1450,1770,2025-11-06 16:24:32
+53915,Mercedes-Benz,CLA,CLA Sedan (C174),2025,CLA 250+ 85 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1980,2026-07-14 10:10:50
+53916,Mercedes-Benz,CLA,CLA Sedan (C174),2025,CLA 350 85 kWh (354 Hp) EQ Technology 4MATIC,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,2060,2026-07-14 10:11:56
+55544,Mercedes-Benz,CLA,CLA Sedan (C174),2025,CLA 200 58 kWh (224 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2025,,4723,1855,1468,1970,2026-07-09 11:37:59
+57456,Mercedes-Benz,CLA,CLA Sedan (C174),2025,CLA 250 71 kWh (272 Hp) EQ Technology,BEV (Electric Vehicle),,,Electricity,Sedan,5,2026,,4723,1855,1468,1980,2026-07-09 10:16:50
+57464,Mercedes-Benz,CLA,CLA Sedan (C174),2025,AMG CLA 45 94 kWh (680 Hp) Electric 4MATIC+,BEV (Electric Vehicle),,,Electricity,Sedan,4,2026,,4742,1859,1469,2280,2026-08-27 13:53:26
 47281,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,AMG CLA 35 (306 Hp) Mild Hybrid 4MATIC AMG SPEEDSHIFT DCT 8G,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",306,6100,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4692,1834,1407,1630,2026-09-04 07:59:23
 47285,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 180 (136 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5500,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4688,1830,1430,1455,2026-09-04 07:59:22
 47286,Mercedes-Benz,CLA,"CLA Shooting Brake (X118, facelift 2023)",2024,CLA 200 (163 Hp) Mild Hybrid 7G-DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",163,5500,Petrol (Gasoline),Station wagon (estate),5,2023,2025,4688,1830,1430,1455,2026-09-04 07:59:22
