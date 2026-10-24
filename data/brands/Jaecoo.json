@@ -105,11 +105,11 @@
                   },
                   {
                     "id": "53992",
-                    "update": "2025-03-25 16:20:49",
+                    "update": "2026-10-23 12:05:12",
                     "brand": "Jaecoo",
                     "model": "J7",
                     "generation": "J7",
-                    "engine": "SHS 1.5 TGDI (347 Hp) Plug-in Hybrid DHT",
+                    "engine": "SHS-P 1.5 TGDI (347 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "143/5200",
@@ -131,6 +131,33 @@
                     "fuelId": "7",
                     "curbWeight": "1795",
                     "curbWeightMin": "1795"
+                  },
+                  {
+                    "id": "58061",
+                    "update": "2026-10-23 16:02:12",
+                    "brand": "Jaecoo",
+                    "model": "J7",
+                    "generation": "J7",
+                    "engine": "SHS-H 1.5 TGDI (224 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
+                    "power": "143",
+                    "powerHp": "143",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4500",
+                    "width": "1865",
+                    "height": "1670",
+                    "heightMin": "1670",
+                    "rideHeight": "174",
+                    "rideHeightMin": "174",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1715",
+                    "curbWeightMin": "1715"
                   }
                 ]
               }
@@ -221,6 +248,29 @@
                     "fuelId": "1",
                     "curbWeight": "1764",
                     "curbWeightMin": "1764"
+                  },
+                  {
+                    "id": "58062",
+                    "update": "2026-10-23 16:06:02",
+                    "brand": "Jaecoo",
+                    "model": "J8",
+                    "generation": "J8",
+                    "engine": "SHS-P 1.5 TGDI (428 Hp) Plug-in Hybrid AWD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "143",
+                    "powerHp": "143",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4820",
+                    "width": "1930",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7"
                   }
                 ]
               }
