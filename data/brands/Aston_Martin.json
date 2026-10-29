@@ -5172,6 +5172,44 @@
           "generation": [
             {
               "prototype": "0",
+              "update": "2026-10-28 08:58:51",
+              "name": "Valhalla Spider",
+              "modelYear": "2027",
+              "id": "11530",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58072",
+                    "update": "2026-10-28 14:15:28",
+                    "brand": "Aston Martin",
+                    "model": "Valhalla",
+                    "generation": "Valhalla Spider",
+                    "engine": "4.0 V8 (1079 Hp) Plug-in Hybrid e-AWD DCT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "828",
+                    "powerHp": "828",
+                    "yearstart": "2026",
+                    "coupe": "Cabriolet",
+                    "coupeId": "2",
+                    "places": "2",
+                    "placesMin": "2",
+                    "length": "4728",
+                    "widthOpenedMirrors": "2208",
+                    "height": "1233",
+                    "heightMin": "1233",
+                    "rideHeight": "110",
+                    "rideHeightMin": "110",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7",
+                    "curbWeight": "1680",
+                    "curbWeightMin": "1680"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
               "update": "2024-12-18 09:03:46",
               "name": "Valhalla",
               "modelYear": "2025",
@@ -5180,11 +5218,11 @@
                 "modification": [
                   {
                     "id": "53430",
-                    "update": "2024-12-18 14:09:33",
+                    "update": "2026-10-28 14:15:13",
                     "brand": "Aston Martin",
                     "model": "Valhalla",
                     "generation": "Valhalla",
-                    "engine": "4.0 V8 (1079 Hp) Plug-in Hybrid E-AWDD DCT",
+                    "engine": "4.0 V8 (1079 Hp) Plug-in Hybrid e-AWD DCT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "828",

@@ -83767,6 +83767,55 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-10-28 11:52:44",
+        "name": "Land Cruiser FJ",
+        "id": "4154",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-28 11:53:07",
+              "name": "Land Cruiser FJ",
+              "modelYear": "2026",
+              "id": "11531",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58073",
+                    "update": "2026-10-28 13:45:00",
+                    "brand": "Toyota",
+                    "model": "Land Cruiser FJ",
+                    "generation": "Land Cruiser FJ",
+                    "engine": "2.7 (166 Hp) 4WD Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "166/5200",
+                    "powerHp": "166",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4610",
+                    "width": "1855",
+                    "height": "1950",
+                    "heightMin": "1950",
+                    "rideHeight": "245",
+                    "rideHeightMin": "245",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "2005",
+                    "curbWeightMin": "2005"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
