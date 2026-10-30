@@ -4313,6 +4313,80 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-10-29 09:56:05",
+        "name": "Osprey",
+        "id": "4155",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-10-29 09:56:24",
+              "name": "Osprey",
+              "modelYear": "2026",
+              "id": "11532",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58077",
+                    "update": "2026-10-29 16:16:05",
+                    "brand": "Tata",
+                    "model": "Osprey",
+                    "generation": "Osprey",
+                    "engine": "1.2L Turbo (120 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "120/5500",
+                    "powerHp": "120",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1804",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "208",
+                    "rideHeightMin": "208",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58078",
+                    "update": "2026-10-29 16:16:05",
+                    "brand": "Tata",
+                    "model": "Osprey",
+                    "generation": "Osprey",
+                    "engine": "1.2L Turbo (120 Hp) DCA",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "120/5500",
+                    "powerHp": "120",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "3995",
+                    "width": "1804",
+                    "height": "1620",
+                    "heightMin": "1620",
+                    "rideHeight": "208",
+                    "rideHeightMin": "208",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

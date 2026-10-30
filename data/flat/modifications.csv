@@ -2910,6 +2910,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 58021,Tata,Aeris,Aeris,2027,1.2L Revotron (86 Hp) Automatic,Internal Combustion engine,86,6000,Petrol (Gasoline),Sedan,5,2026,,3995,1684,1532,,2026-10-16 16:05:54
 58022,Tata,Aeris,Aeris,2027,1.2L Revotron (86/76 Hp) iCNG,Internal Combustion engine,86,6000,Petrol / CNG,Sedan,5,2026,,3995,1684,1532,,2026-10-16 16:02:43
 58023,Tata,Aeris,Aeris,2027,1.2L Revotron (86/76 Hp) iCNG Automatic,Internal Combustion engine,86,6000,Petrol / CNG,Sedan,5,2026,,3995,1684,1532,,2026-10-16 16:05:18
+58077,Tata,Osprey,Osprey,2026,1.2L Turbo (120 Hp),Internal Combustion engine,120,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,3995,1804,1620,,2026-10-29 16:16:05
+58078,Tata,Osprey,Osprey,2026,1.2L Turbo (120 Hp) DCA,Internal Combustion engine,120,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,3995,1804,1620,,2026-10-29 16:16:05
 1239,Alfa Romeo,145,"145 (930, facelift 1999)",1999,1.9 JTD (105 Hp),Internal Combustion engine,105,4000,Diesel,Hatchback,5,1999,2000,4061,1712,1431,1200,2025-04-11 16:16:53
 41204,Alfa Romeo,145,"145 (930, facelift 1999)",1999,2.0 Twin Spark Quadrifoglio (155 Hp),Internal Combustion engine,155,6400,Petrol (Gasoline),Hatchback,5,1999,2000,4061,1712,1431,1240,2025-04-11 16:16:53
 42172,Alfa Romeo,145,"145 (930, facelift 1999)",1999,1.4 Twin Spark 16V (103 Hp),Internal Combustion engine,103,6300,Petrol (Gasoline),Hatchback,5,1999,2000,4061,1712,1431,1135,2025-04-11 16:16:53
@@ -45431,6 +45433,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 25664,Hyundai,Veloster,Veloster (facelift 2015),2015,1.6 (186 Hp),Internal Combustion engine,186,5500,Petrol (Gasoline),Hatchback,4,2015,2018,4250,1805,1405,1255-1313,2023-07-14 09:23:05
 18585,Hyundai,Veloster,Veloster,2012,1.6 GDI (140 Hp),Internal Combustion engine,140,6300,Petrol (Gasoline),Hatchback,5,2011,2015,4220,1790,1399,1185,2023-05-10 12:48:07
 18586,Hyundai,Veloster,Veloster,2012,1.6 GDI (140 Hp) Automatic,Internal Combustion engine,140,6300,Petrol (Gasoline),Hatchback,5,2011,2015,4220,1790,1399,1220,2023-05-10 12:48:06
+58074,Hyundai,Tucson,Tucson V,2027,1.6 T-GDI (245 Hp) Full Hybrid AWD Automatic,FHEV (Full Hybrid Electric Vehicle),180,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4700,1905,1700,1760-1815,2026-10-29 16:16:05
+58075,Hyundai,Tucson,Tucson V,2027,1.6 T-GDI (193 Hp) AWD Automatic,Internal Combustion engine,193,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4700,1905,1700,1690-1735,2026-10-29 16:16:05
+58076,Hyundai,Tucson,Tucson V,2027,1.6 T-GDI (245 Hp) Full Hybrid Automatic,FHEV (Full Hybrid Electric Vehicle),180,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4700,1905,1700,1700-1755,2026-10-29 16:16:05
+58079,Hyundai,Tucson,Tucson V,2027,1.6 T-GDI (193 Hp) Automatic,Internal Combustion engine,193,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2026,,4700,1905,1700,1630-1665,2026-10-29 16:16:05
 51859,Hyundai,Tucson,Tucson IV (facelift 2024),2024,1.6T (160 Hp),Internal Combustion engine,160,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2024,2025,4510,1865,1650-1653,1618,2025-11-18 11:07:15
 51860,Hyundai,Tucson,Tucson IV (facelift 2024),2024,1.6T (160 Hp) Mild Hybrid DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",160,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2024,2025,4510,1865,1650-1653,1618,2025-11-18 11:07:08
 51861,Hyundai,Tucson,Tucson IV (facelift 2024),2024,1.6T (160 Hp) Mild Hybrid 4WD DCT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",160,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2024,2025,4510,1865,1650-1653,1649,2025-11-18 11:07:12
@@ -50474,20 +50480,20 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 46421,Citroen,Jumpy,Jumpy I (facelift 2004),2004,2.0 HDi (94 Hp),Internal Combustion engine,94,4000,Diesel,Minivan,2,2004,2006,4522,1844,1936,1401,2023-04-10 14:23:34
 46422,Citroen,Jumpy,Jumpy I (facelift 2004),2004,2.0 HDi (109 Hp),Internal Combustion engine,109,4000,Diesel,Minivan,2,2004,2006,4522,1844,1936,1405,2023-04-10 14:23:33
 46423,Citroen,Jumpy,Jumpy I (facelift 2004),2004,2.0 HDi (109 Hp) Long,Internal Combustion engine,109,4000,Diesel,Minivan,2,2004,2006,4922,1844,1936,1445,2023-04-10 14:23:32
-45740,Citroen,Jumpy,Jumpy I Dispatch,1995,1.6i (80 Hp) 9 Seat,Internal Combustion engine,80,5750,Petrol (Gasoline),Minivan,8-9,1996,2000,4440,1810,1927,1426,2023-07-21 11:17:33
-45741,Citroen,Jumpy,Jumpy I Dispatch,1995,1.9D (70 Hp) 9 Seat,Internal Combustion engine,70,4600,Diesel,Minivan,8-9,1996,2000,4440,1810,1927,1480,2023-07-26 08:54:55
-45742,Citroen,Jumpy,Jumpy I Dispatch,1995,1.9TD (92 Hp) 9 Seat,Internal Combustion engine,92,4000,Diesel,Minivan,8-9,1996,1999,4440,1810,1927,1450,2023-07-26 08:54:46
-46408,Citroen,Jumpy,Jumpy I Dispatch,1995,1.6i (80 Hp),Internal Combustion engine,80,5750,Petrol (Gasoline),Minivan,5-6,1996,2000,4440,1810,1927,1385,2023-07-21 11:17:37
-46409,Citroen,Jumpy,Jumpy I Dispatch,1995,1.9TD (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5-6,2000,2001,4440,1810,1927,1475,2023-07-26 08:55:09
-46410,Citroen,Jumpy,Jumpy I Dispatch,1995,1.9TD (90 Hp) 9 Seat,Internal Combustion engine,90,4000,Diesel,Minivan,8-9,2000,2001,4440,1810,1927,1516,2023-07-26 08:55:08
-46411,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 HDi (94 Hp),Internal Combustion engine,94,4000,Diesel,Minivan,5-6,2000,2001,4440,1810,1927,1524,2023-04-10 14:23:36
-46412,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 HDi (94 Hp) 9 Seat,Internal Combustion engine,94,4000,Diesel,Minivan,8-9,2000,2001,4440,1810,1927,1565,2023-04-10 14:23:35
-46413,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 HDi (109 Hp),Internal Combustion engine,109,4000,Diesel,Minivan,5-6,2000,2003,4440,1810,1927,1524,2023-04-10 14:23:35
-46414,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 HDi (109 Hp) 9 Seat,Internal Combustion engine,109,4000,Diesel,Minivan,8-9,2000,2003,4440,1810,1927,1565,2023-04-10 14:23:35
-46415,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5-6,2000,2002,4440,1810,1927,1435,2023-04-11 14:08:50
-46416,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 (136 Hp) 9 Seat,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,8-9,2000,2002,4440,1810,1927,1476,2023-04-11 14:08:50
-46417,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5-6,2002,2003,4440,1810,1927,1500,2023-04-11 14:08:50
-46418,Citroen,Jumpy,Jumpy I Dispatch,1995,2.0 (136 Hp) Automatic 9 Seat,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,8-9,2002,2003,4440,1810,1927,1545,2023-04-11 14:08:50
+45740,Citroen,Jumpy,Dispatch I Combi,1995,1.6i (80 Hp) 9 Seat,Internal Combustion engine,80,5750,Petrol (Gasoline),Minivan,8-9,1996,2000,4440,1810,1927,1426,2023-07-21 11:17:33
+45741,Citroen,Jumpy,Dispatch I Combi,1995,1.9D (70 Hp) 9 Seat,Internal Combustion engine,70,4600,Diesel,Minivan,8-9,1996,2000,4440,1810,1927,1480,2023-07-26 08:54:55
+45742,Citroen,Jumpy,Dispatch I Combi,1995,1.9TD (92 Hp) 9 Seat,Internal Combustion engine,92,4000,Diesel,Minivan,8-9,1996,1999,4440,1810,1927,1450,2023-07-26 08:54:46
+46408,Citroen,Jumpy,Dispatch I Combi,1995,1.6i (80 Hp),Internal Combustion engine,80,5750,Petrol (Gasoline),Minivan,5-6,1996,2000,4440,1810,1927,1385,2023-07-21 11:17:37
+46409,Citroen,Jumpy,Dispatch I Combi,1995,1.9TD (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,5-6,2000,2001,4440,1810,1927,1475,2023-07-26 08:55:09
+46410,Citroen,Jumpy,Dispatch I Combi,1995,1.9TD (90 Hp) 9 Seat,Internal Combustion engine,90,4000,Diesel,Minivan,8-9,2000,2001,4440,1810,1927,1516,2023-07-26 08:55:08
+46411,Citroen,Jumpy,Dispatch I Combi,1995,2.0 HDi (94 Hp),Internal Combustion engine,94,4000,Diesel,Minivan,5-6,2000,2001,4440,1810,1927,1524,2023-04-10 14:23:36
+46412,Citroen,Jumpy,Dispatch I Combi,1995,2.0 HDi (94 Hp) 9 Seat,Internal Combustion engine,94,4000,Diesel,Minivan,8-9,2000,2001,4440,1810,1927,1565,2023-04-10 14:23:35
+46413,Citroen,Jumpy,Dispatch I Combi,1995,2.0 HDi (109 Hp),Internal Combustion engine,109,4000,Diesel,Minivan,5-6,2000,2003,4440,1810,1927,1524,2023-04-10 14:23:35
+46414,Citroen,Jumpy,Dispatch I Combi,1995,2.0 HDi (109 Hp) 9 Seat,Internal Combustion engine,109,4000,Diesel,Minivan,8-9,2000,2003,4440,1810,1927,1565,2023-04-10 14:23:35
+46415,Citroen,Jumpy,Dispatch I Combi,1995,2.0 (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5-6,2000,2002,4440,1810,1927,1435,2023-04-11 14:08:50
+46416,Citroen,Jumpy,Dispatch I Combi,1995,2.0 (136 Hp) 9 Seat,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,8-9,2000,2002,4440,1810,1927,1476,2023-04-11 14:08:50
+46417,Citroen,Jumpy,Dispatch I Combi,1995,2.0 (136 Hp) Automatic,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,5-6,2002,2003,4440,1810,1927,1500,2023-04-11 14:08:50
+46418,Citroen,Jumpy,Dispatch I Combi,1995,2.0 (136 Hp) Automatic 9 Seat,Internal Combustion engine,136,6000,Petrol (Gasoline),Minivan,8-9,2002,2003,4440,1810,1927,1545,2023-04-11 14:08:50
 46343,Citroen,Jumpy,Jumpy I,1995,1.9TD (90 Hp),Internal Combustion engine,90,4000,Diesel,Minivan,2,1999,2001,4440,1810,1927,1405,2023-07-26 08:54:56
 45743,Citroen,Jumpy,Jumpy I,1995,1.6i (80 Hp),Internal Combustion engine,80,5750,Petrol (Gasoline),Minivan,2,1996,2000,4440,1810,1927,1320,2022-09-12 16:55:28
 45744,Citroen,Jumpy,Jumpy I,1995,1.9D (71 Hp),Internal Combustion engine,71,4600,Diesel,Minivan,2-3,1995,1999,4440,1810,1927,1310,2023-07-26 08:54:57
