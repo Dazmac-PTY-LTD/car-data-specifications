@@ -964,7 +964,33 @@
               "modelYear": "2025",
               "id": "11170",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "58091",
+                    "update": "2026-11-02 16:02:56",
+                    "brand": "Chery",
+                    "model": "Tiggo 7",
+                    "generation": "Tiggo 7 II (facelift 2025), (Global market)",
+                    "engine": "1.5L (147 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "147",
+                    "powerHp": "147",
+                    "yearstart": "2025",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4540",
+                    "width": "1870",
+                    "height": "1710",
+                    "heightMin": "1710",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1489",
+                    "curbWeightMin": "1489"
+                  }
+                ]
               }
             },
             {
@@ -1042,7 +1068,7 @@
                 "modification": [
                   {
                     "id": "53598",
-                    "update": "2025-01-30 16:24:51",
+                    "update": "2026-11-02 16:10:22",
                     "brand": "Chery",
                     "model": "Tiggo 7",
                     "generation": "Tiggo 7 II (facelift 2023), (Global market)",
@@ -1054,6 +1080,7 @@
                     "powerRpm": "5500",
                     "powerRpmLow": "5500",
                     "yearstart": "2023",
+                    "yearstop": "2025",
                     "coupe": "SUV (Sport Utility Vehicle)",
                     "coupeId": "9",
                     "places": "5",
