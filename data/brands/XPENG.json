@@ -1845,6 +1845,95 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-04 10:34:10",
+        "name": "G9L",
+        "id": "4160",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-04 10:34:28",
+              "name": "G9L",
+              "modelYear": "2027",
+              "id": "11539",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58096",
+                    "update": "2026-11-04 14:14:19",
+                    "brand": "XPENG",
+                    "model": "G9L",
+                    "generation": "G9L",
+                    "engine": "110 kWh (585 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5120",
+                    "width": "1999",
+                    "height": "1782",
+                    "heightMin": "1782",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2740",
+                    "curbWeightMin": "2740"
+                  },
+                  {
+                    "id": "58097",
+                    "update": "2026-11-04 14:14:19",
+                    "brand": "XPENG",
+                    "model": "G9L",
+                    "generation": "G9L",
+                    "engine": "91.9 kWh (585 Hp) Electric AWD",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5120",
+                    "width": "1999",
+                    "height": "1782",
+                    "heightMin": "1782",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2740",
+                    "curbWeightMin": "2740"
+                  },
+                  {
+                    "id": "58098",
+                    "update": "2026-11-04 14:14:19",
+                    "brand": "XPENG",
+                    "model": "G9L",
+                    "generation": "G9L",
+                    "engine": "91.9 kWh (367 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "5120",
+                    "width": "1999",
+                    "height": "1782",
+                    "heightMin": "1782",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2600",
+                    "curbWeightMin": "2600"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
