@@ -3053,6 +3053,161 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-09 12:15:38",
+        "name": "H7",
+        "id": "4162",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-09 15:44:39",
+              "name": "H7 (2026)",
+              "modelYear": "2026",
+              "id": "11541",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58104",
+                    "update": "2026-11-09 16:01:06",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2026)",
+                    "engine": "2.0T (231 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "231",
+                    "powerHp": "231",
+                    "yearstart": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1950",
+                    "height": "1843",
+                    "heightMin": "1843",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1740",
+                    "curbWeightMin": "1740"
+                  },
+                  {
+                    "id": "58105",
+                    "update": "2026-11-09 16:01:06",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2026)",
+                    "engine": "2.0T (231 Hp) 4WD DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "231",
+                    "powerHp": "231",
+                    "yearstart": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1950",
+                    "height": "1843",
+                    "heightMin": "1843",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1840",
+                    "curbWeightMin": "1840"
+                  },
+                  {
+                    "id": "58106",
+                    "update": "2026-11-09 16:01:06",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2026)",
+                    "engine": "1.5T (247 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1950",
+                    "height": "1843",
+                    "heightMin": "1843",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1835",
+                    "curbWeightMin": "1835"
+                  },
+                  {
+                    "id": "58107",
+                    "update": "2026-11-09 16:01:06",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2026)",
+                    "engine": "1.5T (326 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1950",
+                    "height": "1843",
+                    "heightMin": "1843",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7",
+                    "curbWeight": "2010",
+                    "curbWeightMin": "2010"
+                  },
+                  {
+                    "id": "58108",
+                    "update": "2026-11-09 16:01:06",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2026)",
+                    "engine": "1.5T (381 Hp) Plug-in Hybrid 4WD DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1950",
+                    "height": "1843",
+                    "heightMin": "1843",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7",
+                    "curbWeight": "2110",
+                    "curbWeightMin": "2110"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-11-09 15:44:39",
+              "name": "H7 (2025)",
+              "modelYear": "2025",
+              "id": "11542",
+              "modifications": {
+                "modification": []
+              }
+            }
+          ]
+        }
       }
     ]
   }

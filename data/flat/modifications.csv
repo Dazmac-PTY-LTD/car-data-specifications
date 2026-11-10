@@ -53053,10 +53053,10 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 44262,Morgan,Plus Four,Plus Four,2020,2.0 TwinPower Turbo (258 Hp) Automatic,Internal Combustion engine,258,,Petrol (Gasoline),Roadster,2,2020,,3830,1650,1250,1009,2023-08-15 09:25:13
 44263,Morgan,Plus Six,Plus Six,2019,3.0 TwinPower Turbo (340 Hp) Automatic,Internal Combustion engine,340,,Petrol (Gasoline),Roadster,2,2019,,3890,1756,1220,1075,2023-08-15 09:27:09
 45455,Morgan,Super 3,Super 3,2022,Ford Dragon 1.5 (118 Hp),Internal Combustion engine,118,6500,Petrol (Gasoline),Roadster,2,2022,,3581,1840,1132,635,2023-08-15 08:57:41
-16052,Subaru,Baja,Baja,2003,2.5 i 16V (165 Hp) 4WD,Internal Combustion engine,165,5600,Petrol (Gasoline),Pick-up,5,2002,2006,4910,1781,1590,1582,2023-05-02 10:38:07
-16053,Subaru,Baja,Baja,2003,2.5 i 16V Turbo (210 Hp) 4WD,Internal Combustion engine,210,5600,Petrol (Gasoline),Pick-up,5,2003,2006,4910,1781,1590,,2023-05-02 10:38:15
-24103,Subaru,Baja,Baja,2003,2.5 i 16V Turbo (210 Hp) 4WD Automatic,Internal Combustion engine,210,5600,Petrol (Gasoline),Pick-up,5,2003,2006,4910,1781,1590,,2023-05-02 10:37:19
-24104,Subaru,Baja,Baja,2003,2.5 i 16V (165 Hp) 4WD Automatic,Internal Combustion engine,165,5600,Petrol (Gasoline),Pick-up,5,2002,2006,4910,1781,1590,1582,2023-05-02 10:37:20
+16052,Subaru,Baja,Baja,2003,2.5 i 16V (165 Hp) 4WD,Internal Combustion engine,165,5600,Petrol (Gasoline),Pick-up,4,2002,2006,4910,1781,1590,1582,2026-11-09 08:10:47
+16053,Subaru,Baja,Baja,2003,2.5 i 16V Turbo (210 Hp) 4WD,Internal Combustion engine,210,5600,Petrol (Gasoline),Pick-up,4,2003,2006,4910,1781,1590,,2026-11-09 08:10:45
+24103,Subaru,Baja,Baja,2003,2.5 i 16V Turbo (210 Hp) 4WD Automatic,Internal Combustion engine,210,5600,Petrol (Gasoline),Pick-up,4,2003,2006,4910,1781,1590,,2026-11-09 08:10:40
+24104,Subaru,Baja,Baja,2003,2.5 i 16V (165 Hp) 4WD Automatic,Internal Combustion engine,165,5600,Petrol (Gasoline),Pick-up,4,2002,2006,4910,1781,1590,1582,2026-11-09 08:10:46
 48722,Subaru,Impreza,Impreza VI Hatchback,2024,2.0 (152 Hp) AWD CVT,Internal Combustion engine,152,6000,Petrol (Gasoline),Hatchback,5,2023,,4475,1781,1481,1437-1488,2025-04-11 16:16:53
 48723,Subaru,Impreza,Impreza VI Hatchback,2024,RS 2.5 (182 Hp) AWD CVT,Internal Combustion engine,182,5800,Petrol (Gasoline),Hatchback,5,2023,,4475,1781,1481,1486-1507,2025-04-11 16:16:53
 57546,Subaru,Impreza,Impreza VI Hatchback,2024,2.0ie (136 Hp) Mild Hybrid AWD CVT,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",136,5600,Petrol (Gasoline),Hatchback,5,2024,,4490,1780,1515,1499-1524,2026-07-24 16:20:09
@@ -54783,6 +54783,11 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 53819,Haval,Xiaolong,Xiaolong,2023,1.5L 9.41 kWh (252 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,,4600,1877,1675,,2026-09-23 08:52:14
 53820,Haval,Xiaolong,Xiaolong,2023,1.5L 19.27 kWh (252 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),101,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,,4600,1877,1675,,2026-09-23 08:52:14
 53821,Haval,Xiaolong Max,Xiaolong Max,2023,Hi4 1.5L 19.27 kWh (279 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),116,,Petrol / electricity,SUV (Sport Utility Vehicle),5,2023,,4758,1895,1725,,2025-04-11 12:24:32
+58104,Haval,H7,H7 (2026),2026,2.0T (231 Hp) DCT,Internal Combustion engine,231,,Petrol (Gasoline),"Off-road, SUV (Sport Utility Vehicle)",5,2026,,4800,1950,1843,1740,2026-11-09 16:01:06
+58105,Haval,H7,H7 (2026),2026,2.0T (231 Hp) 4WD DCT,Internal Combustion engine,231,,Petrol (Gasoline),"Off-road, SUV (Sport Utility Vehicle)",5,2026,,4800,1950,1843,1840,2026-11-09 16:01:06
+58106,Haval,H7,H7 (2026),2026,1.5T (247 Hp) Full Hybrid DHT,FHEV (Full Hybrid Electric Vehicle),150,,Petrol (Gasoline),"Off-road, SUV (Sport Utility Vehicle)",5,2026,,4800,1950,1843,1835,2026-11-09 16:01:06
+58107,Haval,H7,H7 (2026),2026,1.5T (326 Hp) Plug-in Hybrid DHT,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,4800,1950,1843,2010,2026-11-09 16:01:06
+58108,Haval,H7,H7 (2026),2026,1.5T (381 Hp) Plug-in Hybrid 4WD DHT,PHEV (Plug-in Hybrid Electric Vehicle),150,,Petrol / electricity,"Off-road, SUV (Sport Utility Vehicle)",5,2026,,4800,1950,1843,2110,2026-11-09 16:01:06
 32069,Ginetta,G40,G40,2010,Junior 1.8 (100 Hp),Internal Combustion engine,100,,Petrol (Gasoline),Coupe,2,2010,,3748,1642,1045,830,2023-08-17 14:57:04
 32070,Ginetta,G40,G40,2010,GRDC 1.8 (135 Hp),Internal Combustion engine,135,,Petrol (Gasoline),Coupe,2,2015,,3748,1642,1045,840,2023-08-17 14:57:04
 32071,Ginetta,G40,G40,2010,R 2.0 (175 Hp),Internal Combustion engine,175,6700,Petrol (Gasoline),Coupe,2,2011,2016,3748,1642,1045,795,2021-12-03 11:53:43
