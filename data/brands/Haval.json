@@ -3203,7 +3203,58 @@
               "modelYear": "2025",
               "id": "11542",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "58109",
+                    "update": "2026-11-10 16:12:48",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2025)",
+                    "engine": "2.0T (189 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "189/6000",
+                    "powerHp": "189",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2025",
+                    "yearstop": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1908",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58110",
+                    "update": "2026-11-10 16:12:48",
+                    "brand": "Haval",
+                    "model": "H7",
+                    "generation": "H7 (2025)",
+                    "engine": "1.5T (240 Hp) Full Hybrid DHT",
+                    "powertrain": "FHEV (Full Hybrid Electric Vehicle)",
+                    "powertrainId": "3",
+                    "power": "150",
+                    "powerHp": "150",
+                    "yearstart": "2025",
+                    "yearstop": "2026",
+                    "coupe": "Off-road, SUV (Sport Utility Vehicle)",
+                    "coupeId": "9,1",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4705",
+                    "width": "1908",
+                    "height": "1780",
+                    "heightMin": "1780",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  }
+                ]
               }
             }
           ]
