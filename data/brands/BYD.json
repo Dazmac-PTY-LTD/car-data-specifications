@@ -379,12 +379,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54198",
+                    "id": "54196",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Dolphin",
                     "generation": "Dolphin (facelift 2025)",
-                    "engine": "45.12 kWh (95 Hp) Electric",
+                    "engine": "60.48 kWh (204 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -421,12 +421,12 @@
                     "fuelId": "6"
                   },
                   {
-                    "id": "54196",
+                    "id": "54198",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Dolphin",
                     "generation": "Dolphin (facelift 2025)",
-                    "engine": "60.48 kWh (204 Hp) Electric",
+                    "engine": "45.12 kWh (95 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -478,27 +478,6 @@
                     "curbWeightMin": "1405"
                   },
                   {
-                    "id": "48450",
-                    "update": "2026-09-23 08:52:14",
-                    "brand": "BYD",
-                    "model": "Dolphin",
-                    "generation": "Dolphin",
-                    "engine": "60 kWh (204 Hp) BEV",
-                    "powertrain": "BEV (Electric Vehicle)",
-                    "powertrainId": "6",
-                    "yearstart": "2023",
-                    "coupe": "Hatchback",
-                    "coupeId": "8",
-                    "places": "5",
-                    "placesMin": "5",
-                    "length": "4290",
-                    "width": "1770",
-                    "height": "1570",
-                    "heightMin": "1570",
-                    "fuel": "Electricity",
-                    "fuelId": "6"
-                  },
-                  {
                     "id": "48442",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
@@ -513,6 +492,27 @@
                     "places": "5",
                     "placesMin": "5",
                     "length": "4150",
+                    "width": "1770",
+                    "height": "1570",
+                    "heightMin": "1570",
+                    "fuel": "Electricity",
+                    "fuelId": "6"
+                  },
+                  {
+                    "id": "48450",
+                    "update": "2026-09-23 08:52:14",
+                    "brand": "BYD",
+                    "model": "Dolphin",
+                    "generation": "Dolphin",
+                    "engine": "60 kWh (204 Hp) BEV",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2023",
+                    "coupe": "Hatchback",
+                    "coupeId": "8",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4290",
                     "width": "1770",
                     "height": "1570",
                     "heightMin": "1570",
@@ -3426,31 +3426,6 @@
                     "curbWeightMin": "2210"
                   },
                   {
-                    "id": "54168",
-                    "update": "2026-10-12 14:05:29",
-                    "brand": "BYD",
-                    "model": "Seal",
-                    "generation": "Seal",
-                    "engine": "Design 82.5 kWh (313 Hp) Electric",
-                    "powertrain": "BEV (Electric Vehicle)",
-                    "powertrainId": "6",
-                    "yearstart": "2022",
-                    "yearstop": "2026",
-                    "coupe": "Sedan",
-                    "coupeId": "6",
-                    "places": "5",
-                    "placesMin": "5",
-                    "length": "4800",
-                    "width": "1875",
-                    "widthOpenedMirrors": "2150",
-                    "height": "1460",
-                    "heightMin": "1460",
-                    "fuel": "Electricity",
-                    "fuelId": "6",
-                    "curbWeight": "2055",
-                    "curbWeightMin": "2055"
-                  },
-                  {
                     "id": "54166",
                     "update": "2026-10-14 20:39:24",
                     "brand": "BYD",
@@ -3474,6 +3449,31 @@
                     "fuelId": "6",
                     "curbWeight": "2185",
                     "curbWeightMin": "2185"
+                  },
+                  {
+                    "id": "54168",
+                    "update": "2026-10-12 14:05:29",
+                    "brand": "BYD",
+                    "model": "Seal",
+                    "generation": "Seal",
+                    "engine": "Design 82.5 kWh (313 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2022",
+                    "yearstop": "2026",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4800",
+                    "width": "1875",
+                    "widthOpenedMirrors": "2150",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "2055",
+                    "curbWeightMin": "2055"
                   }
                 ]
               }
@@ -3496,12 +3496,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54200",
+                    "id": "54199",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seagull",
                     "generation": "Seagull (facelift 2025)",
-                    "engine": "38.88 kWh (75 Hp) Electric",
+                    "engine": "30.08 kWh (75 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -3517,12 +3517,12 @@
                     "fuelId": "6"
                   },
                   {
-                    "id": "54199",
+                    "id": "54200",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seagull",
                     "generation": "Seagull (facelift 2025)",
-                    "engine": "30.08 kWh (75 Hp) Electric",
+                    "engine": "38.88 kWh (75 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -3549,12 +3549,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "48452",
+                    "id": "48451",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seagull",
                     "generation": "Seagull",
-                    "engine": "38.88 kWh (75 Hp) BEV",
+                    "engine": "30.08 kWh (75 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2023",
@@ -3571,12 +3571,12 @@
                     "fuelId": "6"
                   },
                   {
-                    "id": "48451",
+                    "id": "48452",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seagull",
                     "generation": "Seagull",
-                    "engine": "30.08 kWh (75 Hp) BEV",
+                    "engine": "38.88 kWh (75 Hp) BEV",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2023",
@@ -5622,33 +5622,6 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54147",
-                    "update": "2025-08-22 08:39:44",
-                    "brand": "BYD",
-                    "model": "Destroyer 05",
-                    "generation": "Destroyer 05",
-                    "engine": "DM-i 1.5L 18.3 kWh (197 Hp) Plug-in Hybrid E-CVT",
-                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
-                    "powertrainId": "4",
-                    "power": "110/6000",
-                    "powerHp": "110",
-                    "powerRpm": "6000",
-                    "powerRpmLow": "6000",
-                    "yearstart": "2022",
-                    "coupe": "Sedan",
-                    "coupeId": "6",
-                    "places": "5",
-                    "placesMin": "5",
-                    "length": "4780",
-                    "width": "1837",
-                    "height": "1495",
-                    "heightMin": "1495",
-                    "fuel": "Petrol / electricity",
-                    "fuelId": "7",
-                    "curbWeight": "1620",
-                    "curbWeightMin": "1620"
-                  },
-                  {
                     "id": "54146",
                     "update": "2025-08-22 08:39:59",
                     "brand": "BYD",
@@ -5674,6 +5647,33 @@
                     "fuelId": "7",
                     "curbWeight": "1515",
                     "curbWeightMin": "1515"
+                  },
+                  {
+                    "id": "54147",
+                    "update": "2025-08-22 08:39:44",
+                    "brand": "BYD",
+                    "model": "Destroyer 05",
+                    "generation": "Destroyer 05",
+                    "engine": "DM-i 1.5L 18.3 kWh (197 Hp) Plug-in Hybrid E-CVT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "110/6000",
+                    "powerHp": "110",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2022",
+                    "coupe": "Sedan",
+                    "coupeId": "6",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4780",
+                    "width": "1837",
+                    "height": "1495",
+                    "heightMin": "1495",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7",
+                    "curbWeight": "1620",
+                    "curbWeightMin": "1620"
                   }
                 ]
               }
@@ -5849,12 +5849,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54159",
-                    "update": "2025-09-16 11:00:28",
+                    "id": "54158",
+                    "update": "2025-09-16 11:00:31",
                     "brand": "BYD",
                     "model": "Seal 07",
                     "generation": "Seal 07",
-                    "engine": "DM-i 1.5L 17.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
+                    "engine": "DM-i 1.5L 10.08 kWh (218 Hp) Plug-in Hybrid E-CVT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "101",
@@ -5873,12 +5873,12 @@
                     "fuelId": "7"
                   },
                   {
-                    "id": "54158",
-                    "update": "2025-09-16 11:00:31",
+                    "id": "54159",
+                    "update": "2025-09-16 11:00:28",
                     "brand": "BYD",
                     "model": "Seal 07",
                     "generation": "Seal 07",
-                    "engine": "DM-i 1.5L 10.08 kWh (218 Hp) Plug-in Hybrid E-CVT",
+                    "engine": "DM-i 1.5L 17.6 kWh (218 Hp) Plug-in Hybrid E-CVT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "101",
@@ -6030,12 +6030,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54165",
+                    "id": "54164",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seal 06",
                     "generation": "Seal 06",
-                    "engine": "DM-i 1.5L 15.87 kWh (218 Hp) Plug-in Hybrid E-CVT",
+                    "engine": "DM-i 1.5L 10.08 kWh (163 Hp) Plug-in Hybrid E-CVT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "101",
@@ -6053,12 +6053,12 @@
                     "fuelId": "7"
                   },
                   {
-                    "id": "54164",
+                    "id": "54165",
                     "update": "2026-09-23 08:52:14",
                     "brand": "BYD",
                     "model": "Seal 06",
                     "generation": "Seal 06",
-                    "engine": "DM-i 1.5L 10.08 kWh (163 Hp) Plug-in Hybrid E-CVT",
+                    "engine": "DM-i 1.5L 15.87 kWh (218 Hp) Plug-in Hybrid E-CVT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "101",
@@ -6179,12 +6179,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54170",
-                    "update": "2026-10-12 14:03:56",
+                    "id": "54167",
+                    "update": "2026-10-12 14:04:20",
                     "brand": "BYD",
                     "model": "Seal 06",
                     "generation": "Seal 06 GT",
-                    "engine": "72.96 kWh (224 Hp) Electric",
+                    "engine": "72.96 kWh (422 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2024",
@@ -6199,8 +6199,8 @@
                     "heightMin": "1490",
                     "fuel": "Electricity",
                     "fuelId": "6",
-                    "curbWeight": "1940",
-                    "curbWeightMin": "1940"
+                    "curbWeight": "2060",
+                    "curbWeightMin": "2060"
                   },
                   {
                     "id": "54169",
@@ -6227,12 +6227,12 @@
                     "curbWeightMin": "1850"
                   },
                   {
-                    "id": "54167",
-                    "update": "2026-10-12 14:04:20",
+                    "id": "54170",
+                    "update": "2026-10-12 14:03:56",
                     "brand": "BYD",
                     "model": "Seal 06",
                     "generation": "Seal 06 GT",
-                    "engine": "72.96 kWh (422 Hp) 4WD Electric",
+                    "engine": "72.96 kWh (224 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2024",
@@ -6247,8 +6247,8 @@
                     "heightMin": "1490",
                     "fuel": "Electricity",
                     "fuelId": "6",
-                    "curbWeight": "2060",
-                    "curbWeightMin": "2060"
+                    "curbWeight": "1940",
+                    "curbWeightMin": "1940"
                   },
                   {
                     "id": "57532",
@@ -7634,6 +7634,34 @@
               "modifications": {
                 "modification": [
                   {
+                    "id": "54143",
+                    "update": "2026-05-12 16:05:32",
+                    "brand": "BYD",
+                    "model": "S6",
+                    "generation": "S6",
+                    "engine": "2.0L (140 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "140/6000",
+                    "powerHp": "140",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2011",
+                    "yearstop": "2016",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1855",
+                    "height": "1680",
+                    "heightMin": "1680",
+                    "rideHeight": "190",
+                    "rideHeightMin": "190",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
                     "id": "54144",
                     "update": "2026-05-12 16:05:17",
                     "brand": "BYD",
@@ -7684,34 +7712,6 @@
                     "width": "1855",
                     "height": "1725",
                     "heightMin": "1725",
-                    "rideHeight": "190",
-                    "rideHeightMin": "190",
-                    "fuel": "Petrol (Gasoline)",
-                    "fuelId": "1"
-                  },
-                  {
-                    "id": "54143",
-                    "update": "2026-05-12 16:05:32",
-                    "brand": "BYD",
-                    "model": "S6",
-                    "generation": "S6",
-                    "engine": "2.0L (140 Hp)",
-                    "powertrain": "Internal Combustion engine",
-                    "powertrainId": "1",
-                    "power": "140/6000",
-                    "powerHp": "140",
-                    "powerRpm": "6000",
-                    "powerRpmLow": "6000",
-                    "yearstart": "2011",
-                    "yearstop": "2016",
-                    "coupe": "SUV (Sport Utility Vehicle)",
-                    "coupeId": "9",
-                    "places": "7",
-                    "placesMin": "7",
-                    "length": "4810",
-                    "width": "1855",
-                    "height": "1680",
-                    "heightMin": "1680",
                     "rideHeight": "190",
                     "rideHeightMin": "190",
                     "fuel": "Petrol (Gasoline)",

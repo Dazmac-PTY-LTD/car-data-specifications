@@ -624,12 +624,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54190",
-                    "update": "2025-08-22 09:10:41",
+                    "id": "54188",
+                    "update": "2025-08-22 09:10:29",
                     "brand": "Zeekr",
                     "model": "007",
                     "generation": "007 GT",
-                    "engine": "75 kWh (646 Hp) 4WD Electric",
+                    "engine": "75 kWh (422 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -639,11 +639,10 @@
                     "placesMin": "5",
                     "length": "4864",
                     "width": "1900",
-                    "height": "1445",
-                    "heightMin": "1445",
-                    "rideHeight": "114-169",
-                    "rideHeightMin": "114",
-                    "rideHeightMax": "169",
+                    "height": "1460",
+                    "heightMin": "1460",
+                    "rideHeight": "147",
+                    "rideHeightMin": "147",
                     "fuel": "Electricity",
                     "fuelId": "6"
                   },
@@ -671,12 +670,12 @@
                     "fuelId": "6"
                   },
                   {
-                    "id": "54188",
-                    "update": "2025-08-22 09:10:29",
+                    "id": "54190",
+                    "update": "2025-08-22 09:10:41",
                     "brand": "Zeekr",
                     "model": "007",
                     "generation": "007 GT",
-                    "engine": "75 kWh (422 Hp) Electric",
+                    "engine": "75 kWh (646 Hp) 4WD Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2025",
@@ -686,10 +685,11 @@
                     "placesMin": "5",
                     "length": "4864",
                     "width": "1900",
-                    "height": "1460",
-                    "heightMin": "1460",
-                    "rideHeight": "147",
-                    "rideHeightMin": "147",
+                    "height": "1445",
+                    "heightMin": "1445",
+                    "rideHeight": "114-169",
+                    "rideHeightMin": "114",
+                    "rideHeightMax": "169",
                     "fuel": "Electricity",
                     "fuelId": "6"
                   }
@@ -968,12 +968,12 @@
               "modifications": {
                 "modification": [
                   {
-                    "id": "54186",
-                    "update": "2025-08-22 09:12:58",
+                    "id": "54185",
+                    "update": "2025-08-22 09:13:09",
                     "brand": "Zeekr",
                     "model": "Mix",
                     "generation": "Mix",
-                    "engine": "102 kWh (422 Hp) Electric",
+                    "engine": "76 kWh (422 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2024",
@@ -991,12 +991,12 @@
                     "fuelId": "6"
                   },
                   {
-                    "id": "54185",
-                    "update": "2025-08-22 09:13:09",
+                    "id": "54186",
+                    "update": "2025-08-22 09:12:58",
                     "brand": "Zeekr",
                     "model": "Mix",
                     "generation": "Mix",
-                    "engine": "76 kWh (422 Hp) Electric",
+                    "engine": "102 kWh (422 Hp) Electric",
                     "powertrain": "BEV (Electric Vehicle)",
                     "powertrainId": "6",
                     "yearstart": "2024",
