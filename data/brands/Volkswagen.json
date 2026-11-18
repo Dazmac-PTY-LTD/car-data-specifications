@@ -124611,6 +124611,72 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-17 11:05:49",
+        "name": "ID.ERA 5X",
+        "id": "4165",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-17 11:06:20",
+              "name": "ID.ERA 5X",
+              "modelYear": "2027",
+              "id": "11547",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58131",
+                    "update": "2026-11-17 15:58:17",
+                    "brand": "Volkswagen",
+                    "model": "ID.ERA 5X",
+                    "generation": "ID.ERA 5X",
+                    "engine": "45.8 kWh (211 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4560",
+                    "width": "1896",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "1685",
+                    "curbWeightMin": "1685"
+                  },
+                  {
+                    "id": "58132",
+                    "update": "2026-11-17 15:58:17",
+                    "brand": "Volkswagen",
+                    "model": "ID.ERA 5X",
+                    "generation": "ID.ERA 5X",
+                    "engine": "58.5 kWh (211 Hp)",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4560",
+                    "width": "1896",
+                    "height": "1630",
+                    "heightMin": "1630",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "1780",
+                    "curbWeightMin": "1780"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
