@@ -1,0 +1,179 @@
+{
+  "update": "2026-11-18 09:25:28",
+  "name": "GAC Motor",
+  "id": "411",
+  "models": {
+    "model": [
+      {
+        "update": "2026-11-18 09:38:02",
+        "name": "GS3",
+        "id": "4168",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-18 11:35:52",
+              "name": "GS3 Emzoom II",
+              "modelYear": "2023",
+              "id": "11551",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58136",
+                    "update": "2026-11-18 14:14:10",
+                    "brand": "GAC Motor",
+                    "model": "GS3",
+                    "generation": "GS3 Emzoom II",
+                    "engine": "1.5TG (177 Hp) WDCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4410",
+                    "width": "1850",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1370",
+                    "curbWeightMin": "1370"
+                  },
+                  {
+                    "id": "58137",
+                    "update": "2026-11-18 14:14:10",
+                    "brand": "GAC Motor",
+                    "model": "GS3",
+                    "generation": "GS3 Emzoom II",
+                    "engine": "R-Style 1.5TG (177 Hp) WDCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "177/5500",
+                    "powerHp": "177",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2023",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4446",
+                    "width": "1850",
+                    "height": "1600",
+                    "heightMin": "1600",
+                    "rideHeight": "145",
+                    "rideHeightMin": "145",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1",
+                    "curbWeight": "1415",
+                    "curbWeightMin": "1415"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-11-18 09:39:02",
+              "name": "GS3 I",
+              "modelYear": "2018",
+              "id": "11550",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58133",
+                    "update": "2026-11-18 14:14:10",
+                    "brand": "GAC Motor",
+                    "model": "GS3",
+                    "generation": "GS3 I",
+                    "engine": "150N (114 Hp)",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "114/6000",
+                    "powerHp": "114",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2023",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1825",
+                    "height": "1655-1680",
+                    "heightMin": "1655",
+                    "heightMax": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58134",
+                    "update": "2026-11-18 14:14:10",
+                    "brand": "GAC Motor",
+                    "model": "GS3",
+                    "generation": "GS3 I",
+                    "engine": "150N (114 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "114/6000",
+                    "powerHp": "114",
+                    "powerRpm": "6000",
+                    "powerRpmLow": "6000",
+                    "yearstart": "2017",
+                    "yearstop": "2023",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1825",
+                    "height": "1655-1680",
+                    "heightMin": "1655",
+                    "heightMax": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  },
+                  {
+                    "id": "58135",
+                    "update": "2026-11-18 14:14:10",
+                    "brand": "GAC Motor",
+                    "model": "GS3",
+                    "generation": "GS3 I",
+                    "engine": "200T (137 Hp) Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "137/5500",
+                    "powerHp": "137",
+                    "powerRpm": "5500",
+                    "powerRpmLow": "5500",
+                    "yearstart": "2017",
+                    "yearstop": "2023",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4350",
+                    "width": "1825",
+                    "height": "1655-1680",
+                    "heightMin": "1655",
+                    "heightMax": "1680",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
