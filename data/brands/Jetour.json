@@ -479,11 +479,11 @@
                   },
                   {
                     "id": "54244",
-                    "update": "2025-05-12 16:20:36",
+                    "update": "2026-11-19 15:03:23",
                     "brand": "Jetour",
                     "model": "T2",
                     "generation": "T2",
-                    "engine": "i-DM 1.5TD (380 Hp) Plug-in Hybrid DHT",
+                    "engine": "i-DM 1.5L (380 Hp) Plug-in Hybrid DHT",
                     "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
                     "powertrainId": "4",
                     "power": "156/5200",
@@ -506,6 +506,33 @@
                     "curbWeight": "2050-2110",
                     "curbWeightMin": "2050",
                     "curbWeightMax": "2110"
+                  },
+                  {
+                    "id": "58140",
+                    "update": "2026-11-19 15:58:05",
+                    "brand": "Jetour",
+                    "model": "T2",
+                    "generation": "T2",
+                    "engine": "i-DM 1.5L (360 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "136/5200",
+                    "powerHp": "136",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "5",
+                    "placesMin": "5",
+                    "length": "4785",
+                    "width": "2006",
+                    "height": "1875",
+                    "heightMin": "1875",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7",
+                    "curbWeight": "2045",
+                    "curbWeightMin": "2045"
                   }
                 ]
               }
