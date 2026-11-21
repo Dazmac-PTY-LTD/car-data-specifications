@@ -5932,7 +5932,38 @@
               "modelYear": "2027",
               "id": "11453",
               "modifications": {
-                "modification": []
+                "modification": [
+                  {
+                    "id": "58141",
+                    "update": "2026-11-20 15:59:34",
+                    "brand": "Mitsubishi",
+                    "model": "Pajero",
+                    "generation": "Pajero V",
+                    "engine": "2.4L (204 Hp) Super Select 4WD-II Automatic",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "204/3500",
+                    "powerHp": "204",
+                    "powerRpm": "3500",
+                    "powerRpmLow": "3500",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4920",
+                    "width": "1925",
+                    "height": "1910",
+                    "heightMin": "1910",
+                    "rideHeight": "228",
+                    "rideHeightMin": "228",
+                    "fuel": "Diesel",
+                    "fuelId": "2",
+                    "curbWeight": "2397-2513",
+                    "curbWeightMin": "2397",
+                    "curbWeightMax": "2513"
+                  }
+                ]
               }
             },
             {

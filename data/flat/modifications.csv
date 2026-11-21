@@ -35867,9 +35867,12 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 48452,BYD,Seagull,Seagull,2023,38.88 kWh (75 Hp) BEV,BEV (Electric Vehicle),,,Electricity,Hatchback,5,2023,2025,3780,1715,1540,,2026-09-23 08:52:14
 51217,BYD,Seal U,Seal U,2024,71.8 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4785,1890,1668,2020,2024-02-14 14:29:02
 51218,BYD,Seal U,Seal U,2024,87 kWh (218 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4785,1890,1668,2147,2024-02-14 14:29:02
-51824,BYD,Seal U,Seal U,2024,DM-i 1.5L 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,6000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4775,1890,1670,1940,2026-10-30 10:31:17
-52764,BYD,Seal U,Seal U,2024,DM-i 1.5L 18.3 kWh (324 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,,4775,1890,1670,2100,2026-10-30 10:31:37
-58086,BYD,Seal U,Seal U,2024,DM-i 1.5L 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,6000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4775,1890,1670,1995,2026-10-30 16:16:13
+51824,BYD,Seal U,Seal U,2024,DM-i 1.5L 18.3 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,6000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2026,4775,1890,1670,1940,2026-11-20 15:02:26
+52764,BYD,Seal U,Seal U,2024,DM-i 1.5L 18.3 kWh (324 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2024,2026,4775,1890,1670,2100,2026-11-20 15:02:31
+58086,BYD,Seal U,Seal U,2024,DM-i 1.5L 26.6 kWh (218 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),98,6000,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,2026,4775,1890,1670,1995,2026-11-20 15:02:23
+58142,BYD,Seal U,Seal U,2024,DM-i 1.5T 18.3 kWh (238 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4775,1890,1670,1960,2026-11-20 15:59:34
+58143,BYD,Seal U,Seal U,2024,DM-i 1.5T 26.6 kWh (238 Hp) Plug-in Hybrid E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4775,1890,1670,2020,2026-11-20 15:59:34
+58144,BYD,Seal U,Seal U,2024,DM-i 1.5T 26.6 kWh (374 Hp) Plug-in Hybrid AWD E-CVT,PHEV (Plug-in Hybrid Electric Vehicle),131,5200,Petrol / electricity,SUV (Sport Utility Vehicle),5,2026,,4775,1890,1670,2135,2026-11-20 15:59:34
 51803,BYD,Sea Lion 07,Sea Lion 07,2024,Standard Range 71.8 kWh (231 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2155,2026-09-23 08:52:14
 51804,BYD,Sea Lion 07,Sea Lion 07,2024,Long Range 80.64 kWh (313 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2210,2026-09-23 08:52:14
 51805,BYD,Sea Lion 07,Sea Lion 07,2024,80.64 kWh (530 Hp) 4WD Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2024,,4830,1925,1620,2330,2026-09-23 08:52:14
@@ -51450,6 +51453,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 15476,Mitsubishi,GTO,GTO (Z16),1990,3.0 i V6 4WD (225 Hp),Internal Combustion engine,225,6000,Petrol (Gasoline),Coupe,2,1990,2005,4575,1840,1285,1640,2022-10-11 12:09:39
 15477,Mitsubishi,GTO,GTO (Z16),1990,3.0 i V6 24V 4WD Turbo (280 Hp),Internal Combustion engine,280,6000,Petrol (Gasoline),Coupe,2,1990,2001,4575,1840,1285,1710,2022-10-11 12:09:39
 24531,Mitsubishi,GTO,GTO (Z16),1990,3.0 i V6 4WD (225 Hp) Automatic,Internal Combustion engine,225,6000,Petrol (Gasoline),Coupe,2,1990,2005,4575,1840,1285,1640,2022-10-11 12:09:39
+58141,Mitsubishi,Pajero,Pajero V,2027,2.4L (204 Hp) Super Select 4WD-II Automatic,Internal Combustion engine,204,3500,Diesel,SUV (Sport Utility Vehicle),7,2026,,4920,1925,1910,2397-2513,2026-11-20 15:59:34
 32224,Mitsubishi,Pajero,Pajero IV (facelift 2015),2015,3.2 DI-DC (190 Hp) 4x4 Automatic,Internal Combustion engine,190,3500,Diesel,SUV (Sport Utility Vehicle),5,2015,2018,4385,1875,1870,2273,2023-03-29 09:02:32
 32458,Mitsubishi,Pajero,Pajero IV (facelift 2015),2015,3.2 DI-DC (190 Hp) L 4x4 Automatic,Internal Combustion engine,190,3500,Diesel,SUV (Sport Utility Vehicle),7,2015,2018,4900,1875,1890,2375,2023-03-29 09:03:32
 20015,Mitsubishi,Pajero,Pajero IV (facelift 2012),2012,3.2 DI-DC (197 Hp) 4x4 5 Seat,Internal Combustion engine,197,3800,Diesel,SUV (Sport Utility Vehicle),5,2012,2015,4385,1875,1870,2095,2024-02-06 11:19:48
@@ -56295,7 +56299,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 45769,Micro,Microlino,Microlino 1.0,2018,8 kWh (15 Hp),BEV (Electric Vehicle),,,Electricity,Quadricycle,2,2018,2022,2435,,1459,513,2022-11-03 20:39:27
 45770,Micro,Microlino,Microlino 1.0,2018,14.4 kWh (15 Hp),BEV (Electric Vehicle),,,Electricity,Quadricycle,2,2018,2022,2435,,1459,571,2022-11-03 20:39:27
 45958,Spyros Panopoulos,Chaos,Chaos,2022,Earth Version 4.0 V10 (2049 Hp) DCT,Internal Combustion engine,2049,,Petrol (Gasoline),Coupe,2,2022,,5053,2068,1121,1388,2022-06-13 15:52:30
-45959,Spyros Panopoulos,Chaos,Chaos,2022,Zero Gravity 4.0 V10 (3065 Hp) DCT,Internal Combustion engine,3065,,Petrol (Gasoline),Coupe,2,2022,,5053,2068,1121,1272,2022-06-13 15:52:30
+45959,Spyros Panopoulos,Chaos,Chaos,2022,Zero Gravity 4.0 V10 (3065 Hp) DCT,Internal Combustion engine,3065,,Petrol (Gasoline),Coupe,2,2022,,5053,2068,1121,1272,2026-11-20 13:52:47
 46083,Picasso,660 LMS,660 LMS,2023,3.0 V6 (660 Hp),Internal Combustion engine,660,,Petrol (Gasoline),Coupe,2,2023,,4366,1967,1250,980,2022-07-09 07:51:06
 46084,EVO,3,3,2022,1.5 (113/107 Hp) LPG,Internal Combustion engine,113,6250,Petrol / LPG,SUV (Sport Utility Vehicle),5,2021,,4135,1750,1568,1230,2022-07-08 13:21:33
 46087,EVO,3,3,2022,40 kWh (116 Hp) Electric,BEV (Electric Vehicle),,,Electricity,SUV (Sport Utility Vehicle),5,2020,,4135,1750,1560,1535,2022-11-03 20:39:27
