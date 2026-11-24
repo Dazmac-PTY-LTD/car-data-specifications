@@ -405,6 +405,74 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-23 14:16:43",
+        "name": "S08",
+        "id": "4170",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-23 14:17:05",
+              "name": "S08",
+              "modelYear": "2027",
+              "id": "11555",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58146",
+                    "update": "2026-11-23 16:00:00",
+                    "brand": "Soueast",
+                    "model": "S08",
+                    "generation": "S08",
+                    "engine": "DM 1.5TD (347 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1930",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7"
+                  },
+                  {
+                    "id": "58147",
+                    "update": "2026-11-23 16:00:00",
+                    "brand": "Soueast",
+                    "model": "S08",
+                    "generation": "S08",
+                    "engine": "1.5TD (170 Hp) DCT",
+                    "powertrain": "Internal Combustion engine",
+                    "powertrainId": "1",
+                    "power": "170",
+                    "powerHp": "170",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1930",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol (Gasoline)",
+                    "fuelId": "1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

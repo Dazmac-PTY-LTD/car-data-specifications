@@ -1319,6 +1319,51 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-23 11:14:12",
+        "name": "S08",
+        "id": "4169",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-23 11:14:30",
+              "name": "S08",
+              "modelYear": "2027",
+              "id": "11554",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58145",
+                    "update": "2026-11-23 15:59:59",
+                    "brand": "Jetour",
+                    "model": "S08",
+                    "generation": "S08",
+                    "engine": "i-DM 1.5TD (347 Hp) Plug-in Hybrid DHT",
+                    "powertrain": "PHEV (Plug-in Hybrid Electric Vehicle)",
+                    "powertrainId": "4",
+                    "power": "143/5200",
+                    "powerHp": "143",
+                    "powerRpm": "5200",
+                    "powerRpmLow": "5200",
+                    "yearstart": "2026",
+                    "coupe": "SUV (Sport Utility Vehicle)",
+                    "coupeId": "9",
+                    "places": "7",
+                    "placesMin": "7",
+                    "length": "4810",
+                    "width": "1930",
+                    "height": "1705",
+                    "heightMin": "1705",
+                    "fuel": "Petrol / electricity",
+                    "fuelId": "7"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }
