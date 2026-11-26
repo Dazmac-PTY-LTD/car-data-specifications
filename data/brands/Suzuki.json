@@ -201,7 +201,41 @@
           "generation": [
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:44:13",
+              "name": "Ignis EV",
+              "modelYear": "2027",
+              "id": "11559",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58155",
+                    "update": "2026-11-25 14:18:33",
+                    "brand": "Suzuki",
+                    "model": "Ignis",
+                    "generation": "Ignis EV",
+                    "engine": "26 kWh (91 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "coupeId": "8",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3570",
+                    "width": "1565",
+                    "height": "1635",
+                    "heightMin": "1635",
+                    "rideHeight": "150",
+                    "rideHeightMin": "150",
+                    "fuel": "Electricity",
+                    "fuelId": "6"
+                  }
+                ]
+              }
+            },
+            {
+              "prototype": "0",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis II (facelift 2020)",
               "modelYear": "2020",
               "id": "7592",
@@ -209,7 +243,7 @@
                 "modification": [
                   {
                     "id": "39286",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-11-25 13:31:17",
                     "brand": "Suzuki",
                     "model": "Ignis",
                     "generation": "Ignis II (facelift 2020)",
@@ -221,6 +255,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Crossover",
                     "coupeId": "10",
                     "places": "5",
@@ -238,7 +273,7 @@
                   },
                   {
                     "id": "39287",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-11-25 13:31:11",
                     "brand": "Suzuki",
                     "model": "Ignis",
                     "generation": "Ignis II (facelift 2020)",
@@ -250,6 +285,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Crossover",
                     "coupeId": "10",
                     "places": "5",
@@ -267,7 +303,7 @@
                   },
                   {
                     "id": "39288",
-                    "update": "2025-04-11 12:24:32",
+                    "update": "2026-11-25 13:31:14",
                     "brand": "Suzuki",
                     "model": "Ignis",
                     "generation": "Ignis II (facelift 2020)",
@@ -279,6 +315,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Crossover",
                     "coupeId": "10",
                     "places": "5",
@@ -296,7 +333,7 @@
                   },
                   {
                     "id": "39289",
-                    "update": "2023-10-16 10:54:42",
+                    "update": "2026-11-25 13:31:20",
                     "brand": "Suzuki",
                     "model": "Ignis",
                     "generation": "Ignis II (facelift 2020)",
@@ -308,6 +345,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Crossover",
                     "coupeId": "10",
                     "places": "5",
@@ -326,7 +364,7 @@
                   },
                   {
                     "id": "39290",
-                    "update": "2023-10-16 10:54:42",
+                    "update": "2026-11-25 13:31:23",
                     "brand": "Suzuki",
                     "model": "Ignis",
                     "generation": "Ignis II (facelift 2020)",
@@ -338,6 +376,7 @@
                     "powerRpm": "6000",
                     "powerRpmLow": "6000",
                     "yearstart": "2020",
+                    "yearstop": "2026",
                     "coupe": "Crossover",
                     "coupeId": "10",
                     "places": "5",
@@ -359,7 +398,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis II",
               "modelYear": "2016",
               "id": "5259",
@@ -680,7 +719,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis I MH",
               "modelYear": "2003",
               "id": "5258",
@@ -859,7 +898,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis I FH",
               "modelYear": "2000",
               "id": "3689",
@@ -1010,7 +1049,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis I FH",
               "modelYear": "2000",
               "id": "3718",
@@ -1123,7 +1162,7 @@
             },
             {
               "prototype": "0",
-              "update": "2021-01-05 21:49:32",
+              "update": "2026-11-25 13:34:52",
               "name": "Ignis Hatchback I FH",
               "modelYear": "2000",
               "id": "3719",
