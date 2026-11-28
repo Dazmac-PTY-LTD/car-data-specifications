@@ -15553,6 +15553,52 @@
             }
           ]
         }
+      },
+      {
+        "update": "2026-11-27 14:04:24",
+        "name": "e Sky",
+        "id": "4172",
+        "generations": {
+          "generation": [
+            {
+              "prototype": "0",
+              "update": "2026-11-27 14:04:47",
+              "name": "e Sky",
+              "modelYear": "2027",
+              "id": "11563",
+              "modifications": {
+                "modification": [
+                  {
+                    "id": "58175",
+                    "update": "2026-11-27 15:54:04",
+                    "brand": "Suzuki",
+                    "model": "e Sky",
+                    "generation": "e Sky",
+                    "engine": "26.21 kWh (64 Hp) Electric",
+                    "powertrain": "BEV (Electric Vehicle)",
+                    "powertrainId": "6",
+                    "yearstart": "2026",
+                    "coupe": "Hatchback",
+                    "coupeId": "8",
+                    "places": "4",
+                    "placesMin": "4",
+                    "length": "3395",
+                    "width": "1475",
+                    "height": "1625",
+                    "heightMin": "1625",
+                    "rideHeight": "140",
+                    "rideHeightMin": "140",
+                    "fuel": "Electricity",
+                    "fuelId": "6",
+                    "curbWeight": "1010-1030",
+                    "curbWeightMin": "1010",
+                    "curbWeightMax": "1030"
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

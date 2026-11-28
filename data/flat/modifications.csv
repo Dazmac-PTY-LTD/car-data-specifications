@@ -9795,9 +9795,9 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 3822,Toyota,Vista,Vista (V50),1998,1.8 i 16V (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Sedan,5,1998,2003,4670,1695,1510,1210,2022-10-11 12:09:39
 3823,Toyota,Vista,Vista (V50),1998,2.0 i 16V (145 Hp),Internal Combustion engine,145,6000,Petrol (Gasoline),Sedan,5,1998,2003,4670,1695,1510,1310,2023-05-12 14:15:54
 3824,Toyota,Vista,Vista (V50),1998,2.0 i 16V 4 WD (135 Hp),Internal Combustion engine,135,6000,Petrol (Gasoline),Sedan,5,1998,2003,4670,1695,1510,1390,2022-10-11 12:09:39
-3825,Toyota,Vista,Vista Ardeo ((V50),1998,1.8 i 16V (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1310,2022-10-11 12:09:39
-3826,Toyota,Vista,Vista Ardeo ((V50),1998,2.0 i 16V (145 Hp),Internal Combustion engine,145,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1380,2022-10-11 12:09:39
-3827,Toyota,Vista,Vista Ardeo ((V50),1998,2.0 i 16V 4WD (135 Hp),Internal Combustion engine,135,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1460,2022-10-11 12:09:39
+3825,Toyota,Vista,Vista Ardeo (V50),1998,1.8 i 16V (136 Hp),Internal Combustion engine,136,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1310,2022-10-11 12:09:39
+3826,Toyota,Vista,Vista Ardeo (V50),1998,2.0 i 16V (145 Hp),Internal Combustion engine,145,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1380,2022-10-11 12:09:39
+3827,Toyota,Vista,Vista Ardeo (V50),1998,2.0 i 16V 4WD (135 Hp),Internal Combustion engine,135,6000,Petrol (Gasoline),Station wagon (estate),5,1998,2003,4665,1695,1515,1460,2022-10-11 12:09:39
 3828,Toyota,Vista,Vista (V40),1994,1.8i 16V (125 Hp),Internal Combustion engine,125,6000,Petrol (Gasoline),Sedan,5,1995,1998,4625,1695,1410,1150,2021-12-03 11:53:43
 3829,Toyota,Vista,Vista (V40),1994,2.0 i 16V (133 Hp),Internal Combustion engine,133,5800,Petrol (Gasoline),Sedan,5,1995,1998,4625,1695,1410,1200,2023-05-12 14:15:55
 3830,Toyota,Vista,Vista (V40),1994,2.0 TD (91 Hp),Internal Combustion engine,91,4400,Diesel,Sedan,5,1994,1998,4640,1695,1395,1250,2021-12-03 11:53:43
@@ -38255,6 +38255,15 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 12117,Honda,Integra,Integra IV (DC5),2002,Type R 2.0 (220 Hp),Internal Combustion engine,220,8000,Petrol (Gasoline),"Coupe, Liftback",4,2001,2004,4385,1695,1380,1170,2023-06-28 14:33:47
 12118,Honda,Integra,Integra IV (DC5),2002,2.0 (160 Hp) Automatic,Internal Combustion engine,160,6500,Petrol (Gasoline),"Coupe, Liftback",4,2001,2004,4400,1725,1400,1220,2023-01-04 10:55:09
 47123,Honda,Integra,Integra IV (DC5),2002,Type R 2.0 (200 Hp),Internal Combustion engine,200,7400,Petrol (Gasoline),"Coupe, Liftback",4,2001,2004,4400,1725,1400,1190,2023-01-04 10:55:20
+58166,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.6 (120 Hp),Internal Combustion engine,120,6300,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58167,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.6 (120 Hp) 4WD,Internal Combustion engine,120,6300,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,1170,2026-11-27 15:54:04
+58168,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.6 (120 Hp) Automatic,Internal Combustion engine,120,6300,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58169,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.6 (120 Hp) 4WD Automatic,Internal Combustion engine,120,6300,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58170,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.8 (170 Hp),Internal Combustion engine,170,7200,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58171,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.8 (170 Hp) Automatic,Internal Combustion engine,170,7200,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58172,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.8 (180 Hp),Internal Combustion engine,180,7600,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58173,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.8 (180 Hp) Automatic,Internal Combustion engine,180,7600,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,,2026-11-27 15:54:04
+58174,Honda,Integra,"Integra III (DC2, facelift 1995) Sedan",1995,1.8 (200 Hp),Internal Combustion engine,200,8000,Petrol (Gasoline),Sedan,5,1995,2001,4525,1695,1390,1100,2026-11-27 15:54:04
 12120,Honda,Integra,"Integra III (DC2, facelift 1995)",1995,1.8i (142 Hp),Internal Combustion engine,142,6300,Petrol (Gasoline),"Coupe, Liftback",4,1995,2001,4380,1710,1290,1170,2026-11-26 08:54:50
 12121,Honda,Integra,"Integra III (DC2, facelift 1995)",1995,1.8 i (180 Hp),Internal Combustion engine,180,7600,Petrol (Gasoline),"Coupe, Liftback",4,1995,2001,4380,1695,1335,1200,2026-11-26 08:54:32
 58156,Honda,Integra,Integra III (DC2) Sedan,1993,1.6 (105 Hp),Internal Combustion engine,105,6300,Petrol (Gasoline),Sedan,5,1993,1995,4525,1695,1420,1060,2026-11-26 15:54:18
@@ -46368,8 +46377,8 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 54305,MG,QS,QS,2025,2.0 (208 Hp) AWD Automatic,Internal Combustion engine,208,,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2025,,4983,1967,1778,2030,2025-05-16 16:22:29
 54333,MG,RX8,RX8,2020,2.0T (220 Hp) Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2020,,4923,1930,1840,1980,2025-05-20 16:20:19
 54334,MG,RX8,RX8,2020,2.0T (220 Hp) 4WD Automatic,Internal Combustion engine,220,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),7,2020,,4923,1930,1840,2115,2025-05-20 16:20:19
-54440,MG,RX5,RX5 (facelift (2023),2024,1.5T (170 Hp),Internal Combustion engine,170,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4571,1855,1719,1506,2025-05-30 16:20:16
-54441,MG,RX5,RX5 (facelift (2023),2024,1.5T (170 Hp) DCT,Internal Combustion engine,170,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4571,1855,1719,1539,2025-05-30 16:20:16
+54440,MG,RX5,RX5 (facelift 2023),2024,1.5T (170 Hp),Internal Combustion engine,170,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4571,1855,1719,1506,2025-05-30 16:20:16
+54441,MG,RX5,RX5 (facelift 2023),2024,1.5T (170 Hp) DCT,Internal Combustion engine,170,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2023,,4571,1855,1719,1539,2025-05-30 16:20:16
 54443,MG,RX5,RX5,2018,1.5T (169 Hp) TST,Internal Combustion engine,169,5600,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2018,2023,4545,1855,1719,1501,2025-05-30 16:20:16
 54444,MG,RX5,RX5,2018,2.0T (220 Hp) TST,Internal Combustion engine,220,5300,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2018,2023,4545,1855,1719,1592,2025-05-30 16:20:16
 54445,MG,RX5,RX5,2018,2.0T (220 Hp) AWD TST,Internal Combustion engine,220,5300,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2018,2023,4545,1855,1719,1592,2025-05-30 16:20:16
@@ -54319,6 +54328,7 @@ id,brand,model,generation,model_year,engine,powertrain,power_hp,power_rpm,fuel,b
 57286,Suzuki,Victoris,Victoris,2026,1.5 (103 Hp) Mild Hybrid AllGrip Automatic,"MHEV (Mild Hybrid Electric Vehicle, power-assist hybrid, battery-assisted hybrid vehicles, BAHV)",103,6000,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4360,1795,1655,1285-1305,2026-06-16 16:20:07
 57287,Suzuki,Victoris,Victoris,2026,1.5 (101/88 Hp) CNG,Internal Combustion engine,101,6000,Petrol / CNG,SUV (Sport Utility Vehicle),5,2025,,4360,1795,1655,1230-1245,2026-06-16 16:20:07
 57288,Suzuki,Victoris,Victoris,2026,1.5 (116 Hp) Full Hybrid e-CVT,FHEV (Full Hybrid Electric Vehicle),92,5500,Petrol (Gasoline),SUV (Sport Utility Vehicle),5,2025,,4360,1795,1655,1250-1295,2026-06-16 16:20:07
+58175,Suzuki,e Sky,e Sky,2027,26.21 kWh (64 Hp) Electric,BEV (Electric Vehicle),,,Electricity,Hatchback,4,2026,,3395,1475,1625,1010-1030,2026-11-27 15:54:04
 41045,UAZ,Pickup,"Pickup (23632, facelift 2016)",2016,2.7 (135 Hp) 4x4,Internal Combustion engine,135,4600,Petrol (Gasoline),Pick-up,5,2016,,5125,1915,1915,2030,2023-06-16 12:28:27
 41046,UAZ,Pickup,"Pickup (23632, facelift 2016)",2016,2.7 (150 Hp) 4x4 Automatic,Internal Combustion engine,150,5000,Petrol (Gasoline),Pick-up,5,2016,,5125,1915,1915,2070,2023-06-16 12:28:27
 41970,UAZ,Pickup,"Pickup (23632, facelift 2014)",2014,2.2 (114 Hp) 4x4,Internal Combustion engine,114,3500,Diesel,Pick-up,5,2014,2016,5125,1915,1915,2215,2023-06-16 12:27:11
